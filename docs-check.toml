@@ -1,0 +1,7 @@
+# Документы внешних источников (vic3_out_docs): v3 docs check; раскладка — Д.ДОК.12, Д.ДОК.16, Д.ДОК.22.
+name = "vic3_out_docs"
+project = "vic3"
+node = "vic3"
+# paths и verified — пути и коммиты снимка vic3_mods_out (папка выше), а не этого репо
+paths_root = ".."
+mentions = false
