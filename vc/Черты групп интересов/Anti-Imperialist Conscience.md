@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/materiel_waste.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_conscription_rate_mult` = `-0.15`
-  - `unit_offense_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-conscription-rate-mult|state_conscription_rate_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `-0.1`

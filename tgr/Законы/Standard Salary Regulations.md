@@ -24,7 +24,7 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_salary_regulation.txt]
   - `country_institution_salary_max_investment_add` = `2`
 - **institution**: `institution_salary`
 - **institution_modifier**:
-  - `building_minimum_wage_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы B#^m-building-minimum-wage-mult|building_minimum_wage_mult]] = `0.02`
 - **ai_enact_weight_modifier**: скрипт, строки 82–89
 
 ## Ссылаются

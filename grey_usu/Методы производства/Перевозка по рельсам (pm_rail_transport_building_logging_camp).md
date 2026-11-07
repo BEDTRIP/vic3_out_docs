@@ -24,6 +24,6 @@ replaces: "[[vanilla/Методы производства/Перевозка п
 - **unlocking_technologies**: [[vanilla/Технологии/Железные дороги|Железные дороги]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_transportation_add` = `5` → [[grey_usu/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `5` → [[grey_usu/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_textile_companies.txt]
 - **attainable**: скрипт, строки 109–116
 - **possible**: скрипт, строки 117–127
 - **prosperity_modifier**:
-  - `state_pop_support_movement_feminist_mult` = `0.05`
-  - `building_art_academy_throughput_add` = `0.1` → [[tr/Здания/Академии искусств|Академии искусств]]
-  - `state_upper_strata_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-feminist-mult|state_pop_support_movement_feminist_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.1` → [[tr/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы S#^m-state-upper-strata-standard-of-living-add|state_upper_strata_standard_of_living_add]] = `0.5`
 - **ai_will_do**: скрипт, строки 133–139
 - **ai_construction_targets**: скрипт, строки 140–147
 - **ai_weight**: скрипт, строки 148–150

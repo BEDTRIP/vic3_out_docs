@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/xenophobia.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_trade_capacity_mult` = `-0.25`
-  - `country_tech_spread_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `-0.15`

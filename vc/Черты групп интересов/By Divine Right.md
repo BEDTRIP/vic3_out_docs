@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_migration_pull_mult` = `0.2`
-  - `country_loyalism_increases_full_acceptance_mult` = `0.1`
-  - `country_loyalism_increases_second_rate_citizen_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalism-increases-full-acceptance-mult|country_loyalism_increases_full_acceptance_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalism-increases-second-rate-citizen-mult|country_loyalism_increases_second_rate_citizen_mult]] = `0.1`

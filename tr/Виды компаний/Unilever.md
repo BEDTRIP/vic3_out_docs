@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_cosmetics_companies.txt]
 - **attainable**: скрипт, строки 246–253
 - **possible**: скрипт, строки 254–267
 - **prosperity_modifier**:
-  - `building_group_bg_tea_plantations_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-tea-plantations-throughput-add|building_group_bg_tea_plantations_throughput_add]] = `0.1`
   - `building_aircraft_industry_throughput_add` = `0.05` → [[tr/Здания/Aerospace Industries|Aerospace Industries]]
-  - `state_food_security_add` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-food-security-add|state_food_security_add]] = `0.05`
 - **ai_will_do**: скрипт, строки 273–279
 - **ai_construction_targets**: скрипт, строки 280–293
 - **ai_weight**: скрипт, строки 294–296

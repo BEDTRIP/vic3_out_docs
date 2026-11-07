@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/noble_privileges.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `building_group_bg_agriculture_tax_mult` = `-0.15`
-  - `building_group_bg_ranching_tax_mult` = `-0.15`
-  - `building_group_bg_plantations_tax_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-tax-mult|building_group_bg_agriculture_tax_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-tax-mult|building_group_bg_ranching_tax_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-tax-mult|building_group_bg_plantations_tax_mult]] = `-0.15`

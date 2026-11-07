@@ -18,5 +18,5 @@ paths: [Morgenrote/common/character_traits/mr_general_ruler_traits.txt]
 - **type**: `condition`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/mr_ruler_trait.dds`
 - **character_modifier**:
-  - `character_popularity_add` = `50`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `50`
 - **possible**: скрипт, строки 31–33

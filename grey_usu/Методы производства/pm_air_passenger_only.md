@@ -20,4 +20,4 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/mMoG_USU_MR_c
   - **workforce_scaled**:
     - `goods_output_air_travel_add` = `1`
   - **level_scaled**:
-    - `building_employment_clerks_add` = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]

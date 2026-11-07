@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
 - **unlocking_technologies**: [[tr/Технологии/HDPE|HDPE]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `2` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `2` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_input_plastics_add` = `2` → [[tr/Товары/Пластмассы|Пластмассы]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-1250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-1250` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

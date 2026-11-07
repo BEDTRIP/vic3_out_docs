@@ -38,7 +38,7 @@ replaces: "[[vanilla/Виды компаний/Witkowitzer Bergbau- und Hütteng
 - **attainable**: скрипт, строки 6537–6546
 - **possible**: скрипт, строки 6548–6563
 - **prosperity_modifier**:
-  - `building_construction_sector_throughput_add` = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
-  - `building_power_plant_throughput_add` = `0.2` → [[vanilla/Здания/Электростанции|Электростанции]]
-  - `building_steel_mill_throughput_add` = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.2` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_weight**: скрипт, строки 6571–6573

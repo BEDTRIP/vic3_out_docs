@@ -27,9 +27,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 494–502
 - **possible**: скрипт, строки 504–513
 - **prosperity_modifier**:
-  - `country_influence_mult` = `0.05`
-  - `country_leverage_generation_mult` = `0.05`
-  - `state_assimilation_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 521–526
 - **ai_construction_targets**: скрипт, строки 528–535
 - **ai_weight**: скрипт, строки 537–539

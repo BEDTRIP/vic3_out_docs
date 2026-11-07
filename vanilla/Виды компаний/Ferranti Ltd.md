@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 814–822
 - **possible**: скрипт, строки 824–834
 - **prosperity_modifier**:
-  - `country_weekly_innovation_mult` = `0.1`
-  - `building_textile_mill_throughput_add` = `0.1` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
 - **ai_will_do**: скрипт, строки 841–845
 - **ai_construction_targets**: скрипт, строки 847–854
 - **ai_weight**: скрипт, строки 856–858

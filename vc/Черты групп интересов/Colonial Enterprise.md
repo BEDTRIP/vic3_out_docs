@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/job_creators.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `building_group_bg_plantations_throughput_add` = `0.1`
-  - `building_group_bg_mining_throughput_add` = `0.1`
-  - `country_production_tech_research_speed_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.15`

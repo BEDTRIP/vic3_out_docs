@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Circular Economy|Circular Economy]]
 - **modifier**:
-  - `state_expected_sol_from_literacy` = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-expected-sol-from-literacy|state_expected_sol_from_literacy]] = `1`
   - `country_institution_environmental_policy_max_investment_add` = `1`
 - **ai_weight**: скрипт, строки 1323–1325
 

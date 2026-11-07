@@ -33,9 +33,9 @@ replaces: "[[vanilla/Виды компаний/«La España Industrial»]]"
 - **attainable**: скрипт, строки 6835–6841
 - **possible**: скрипт, строки 6843–6853
 - **prosperity_modifier**:
-  - `country_weekly_innovation_mult` = `0.15`
-  - `building_group_bg_mining_throughput_add` = `0.2`
-  - `building_group_bg_mining_employee_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.2`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-employee-mult|building_group_bg_mining_employee_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 6861–6867
 - **ai_construction_targets**: скрипт, строки 6869–6876
 - **ai_weight**: скрипт, строки 6878–6880

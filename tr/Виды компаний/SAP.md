@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **prosperity_modifier**:
   - `building_datacenter_industry_throughput_add` = `0.2` → [[tr/Здания/Datacenters|Datacenters]]
   - `building_office_throughput_add` = `0.05` → [[tr/Здания/Offices|Offices]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 591–597
 - **ai_construction_targets**: скрипт, строки 598–605
 - **ai_weight**: скрипт, строки 606–608

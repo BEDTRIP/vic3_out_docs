@@ -19,7 +19,7 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **disallowing_laws**: [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `100` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `100` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
 
 ## Ссылаются
 

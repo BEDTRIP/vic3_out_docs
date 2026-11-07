@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **possible**: скрипт, строки 965–978
 - **prosperity_modifier**:
   - `building_datacenter_industry_throughput_add` = `0.1` → [[tr/Здания/Datacenters|Datacenters]]
-  - `state_turmoil_effects_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 983–989
 - **ai_construction_targets**: скрипт, строки 990–997
 - **ai_weight**: скрипт, строки 998–1000

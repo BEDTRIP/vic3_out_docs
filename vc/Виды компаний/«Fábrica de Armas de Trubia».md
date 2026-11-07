@@ -33,9 +33,9 @@ replaces: "[[vanilla/Виды компаний/«Fábrica de Armas de Trubia»]]
 - **attainable**: скрипт, строки 6674–6680
 - **possible**: скрипт, строки 6682–6692
 - **prosperity_modifier**:
-  - `unit_offense_mult` = `0.1`
-  - `unit_defense_mult` = `0.05`
-  - `country_military_goods_cost_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 6700–6706
 - **ai_construction_targets**: скрипт, строки 6708–6715
 - **ai_weight**: скрипт, строки 6717–6719

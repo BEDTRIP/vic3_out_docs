@@ -19,8 +19,8 @@ paths: [.vanillaVIC3/common/production_methods/08_monuments.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `interest_group_ig_devout_pol_str_mult` = `0.1`
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 
 ## Ссылаются
 

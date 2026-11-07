@@ -20,15 +20,15 @@ paths: [grey_add_alot_of_things/grey_food_2_ranch/common/production_methods/mog_
 - **unlocking_production_methods**: [[grey_food_2_ranch/Методы производства/Скотобойни|Скотобойни]], [[grey_food_2_ranch/Методы производства/Механизированные скотобойни|Механизированные скотобойни]], [[grey_food_2_ranch/Методы производства/pm_refrigerated_workspaces|pm_refrigerated_workspaces]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_food_industry_throughput_add` = `0.005` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+    - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.005` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `4` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_output_meat_add` = `-15` → [[vanilla/Товары/Мясо|Мясо]]
-    - `goods_output_groceries_add` = `20` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `4` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-meat-add|goods_output_meat_add]] = `-15` → [[vanilla/Товары/Мясо|Мясо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-groceries-add|goods_output_groceries_add]] = `20` → [[vanilla/Товары/Продукты|Продукты]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `100` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `100` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

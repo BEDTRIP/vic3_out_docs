@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **attainable**: скрипт, строки 504–510
 - **possible**: скрипт, строки 512–522
 - **prosperity_modifier**:
-  - `unit_offense_mult` = `0.1`
-  - `building_steel_mill_throughput_add` = `0.05` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.05` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 529–535
 - **ai_construction_targets**: скрипт, строки 537–544
 - **ai_weight**: скрипт, строки 546–548

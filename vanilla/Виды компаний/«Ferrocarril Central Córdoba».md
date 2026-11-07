@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **attainable**: скрипт, строки 699–705
 - **possible**: скрипт, строки 707–723
 - **prosperity_modifier**:
-  - `building_wheat_farm_throughput_add` = `0.1` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
-  - `building_livestock_ranch_throughput_add` = `0.05` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-wheat-farm-throughput-add|building_wheat_farm_throughput_add]] = `0.1` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.05` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
 - **ai_will_do**: скрипт, строки 730–736
 - **ai_construction_targets**: скрипт, строки 738–746
 - **ai_weight**: скрипт, строки 748–750

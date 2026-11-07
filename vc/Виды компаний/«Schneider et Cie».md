@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«Schneider et Cie»]]"
 - **attainable**: скрипт, строки 543–549
 - **possible**: скрипт, строки 551–561
 - **prosperity_modifier**:
-  - `unit_morale_loss_mult` = `-0.1`
-  - `unit_morale_recovery_mult` = `0.1`
-  - `goods_output_electricity_mult` = `0.15` → [[vanilla/Товары/Электричество|Электричество]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-mult|goods_output_electricity_mult]] = `0.15` → [[vanilla/Товары/Электричество|Электричество]]
 - **ai_will_do**: скрипт, строки 569–575
 - **ai_construction_targets**: скрипт, строки 577–584
 - **ai_weight**: скрипт, строки 586–588

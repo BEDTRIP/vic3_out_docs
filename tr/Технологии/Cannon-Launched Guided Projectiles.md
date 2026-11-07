@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
   - `unit_combat_unit_type_mechanized_infantry_offense_mult` = `0.1`
   - `unit_combat_unit_type_modern_mechanized_infantry_offense_mult` = `0.15`
   - `unit_combat_unit_type_advanced_mechanized_infantry_offense_mult` = `0.2`
-  - `country_military_wages_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
 - **unlocking_technologies**: [[tr/Технологии/Composite Armor|Composite Armor]], [[tr/Технологии/High-Performance War Apparel|High-Performance War Apparel]]
 - **ai_weight**: скрипт, строки 1163–1165
 

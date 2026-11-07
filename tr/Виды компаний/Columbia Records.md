@@ -27,8 +27,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_entertainment_companies.txt]
 - **attainable**: скрипт, строки 193–200
 - **possible**: скрипт, строки 201–214
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `state_loyalists_from_political_movements_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalists-from-political-movements-mult|state_loyalists_from_political_movements_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 220–229
 - **ai_construction_targets**: скрипт, строки 230–240
 - **ai_weight**: скрипт, строки 241–243

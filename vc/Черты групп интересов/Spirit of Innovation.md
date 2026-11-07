@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/engines_of_progress.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_production_tech_research_speed_mult` = `0.2`
-  - `state_capitalists_investment_pool_efficiency_mult` = `0.1`
-  - `country_company_throughput_bonus_add` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-efficiency-mult|state_capitalists_investment_pool_efficiency_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-throughput-bonus-add|country_company_throughput_bonus_add]] = `0.1`

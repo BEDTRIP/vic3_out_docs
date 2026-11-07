@@ -19,12 +19,12 @@ paths: [for addon/Mandate of Heaven/common/production_methods/moh_production_met
 - **unlocking_technologies**: [[mandate_of_heaven/Технологии/Chinese Kiln|Chinese Kiln]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_dye_add` = `6` → [[vanilla/Товары/Красители|Красители]]
-    - `goods_output_glass_add` = `-15` → [[vanilla/Товары/Стекло|Стекло]]
-    - `goods_output_porcelain_add` = `20` → [[vanilla/Товары/Фарфор|Фарфор]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-dye-add|goods_input_dye_add]] = `6` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-glass-add|goods_output_glass_add]] = `-15` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-porcelain-add|goods_output_porcelain_add]] = `20` → [[vanilla/Товары/Фарфор|Фарфор]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_shopkeepers_add` = `250` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `250` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 
 ## Ссылаются
 

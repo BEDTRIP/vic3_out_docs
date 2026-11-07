@@ -39,9 +39,9 @@ replaces: "[[vanilla/Виды компаний/«J. & P. Coats»]]"
 - **attainable**: скрипт, строки 2069–2075
 - **possible**: скрипт, строки 2077–2097
 - **prosperity_modifier**:
-  - `building_textile_mill_throughput_add` = `0.1` → [[vc/Здания/Текстильные фабрики|Текстильные фабрики]]
-  - `building_cotton_plantation_throughput_add` = `0.1` → [[vc/Здания/Плантации хлопка|Плантации хлопка]]
-  - `goods_output_clothes_mult` = `0.05` → [[vanilla/Товары/Одежда|Одежда]]
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.1` → [[vc/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.1` → [[vc/Здания/Плантации хлопка|Плантации хлопка]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-clothes-mult|goods_output_clothes_mult]] = `0.05` → [[vanilla/Товары/Одежда|Одежда]]
 - **ai_will_do**: скрипт, строки 2105–2111
 - **ai_construction_targets**: скрипт, строки 2113–2120
 - **ai_weight**: скрипт, строки 2122–2124

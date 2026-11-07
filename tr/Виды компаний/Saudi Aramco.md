@@ -27,8 +27,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_oil_gas_companies.txt]
 - **possible**: скрипт, строки 408–422
 - **prosperity_modifier**:
   - `building_mendelejew_hydrogenation_plants_throughput_add` = `0.15` → [[tr/Здания/Oil Refineries|Oil Refineries]]
-  - `building_group_bg_oil_extraction_throughput_add` = `0.15`
-  - `state_mortality_wealth_mult` = `-0.002`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-wealth-mult|state_mortality_wealth_mult]] = `-0.002`
 - **ai_will_do**: скрипт, строки 428–434
 - **ai_construction_targets**: скрипт, строки 435–445
 - **ai_weight**: скрипт, строки 446–448

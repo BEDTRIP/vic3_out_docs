@@ -24,10 +24,10 @@ replaces: "[[vanilla/Методы производства/Хранение в �
 - **unlocking_technologies**: [[vanilla/Технологии/Пастеризация|Пастеризация]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_food_industry_throughput_add` = `0.01` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+    - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.01` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `5` → [[grey_usu/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[grey_usu/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[grey_usu/Товары/Электричество|Электричество]]

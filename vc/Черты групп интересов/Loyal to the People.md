@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/materiel_waste.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `unit_supply_consumption_mult` = `0.15`
-  - `country_military_goods_cost_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-supply-consumption-mult|unit_supply_consumption_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.1`

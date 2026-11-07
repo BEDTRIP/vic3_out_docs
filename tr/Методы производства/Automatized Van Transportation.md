@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **unlocking_technologies**: [[tr/Технологии/Autonomous Road Vehicles|Autonomous Road Vehicles]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_automobiles_add` = `3` → [[tr/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-automobiles-add|goods_input_automobiles_add]] = `3` → [[tr/Товары/Автомобили|Автомобили]]
     - `goods_input_ai_systems_add` = `3` → [[tr/Товары/AI Systems|AI Systems]]
     - `goods_input_telecommunications_add` = `4` → [[tr/Товары/Telecommunications|Telecommunications]]
-    - `goods_input_transportation_add` = `12` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `12` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-500` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

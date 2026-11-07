@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/family_ties.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_law_enactment_speed_mult` = `0.1`
-  - `state_decree_cost_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `-0.15`

@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **attainable**: скрипт, строки 388–394
 - **possible**: скрипт, строки 396–406
 - **prosperity_modifier**:
-  - `ship_hull_damage_mult` = `0.025`
-  - `unit_combat_unit_type_heavy_tank_offense_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.025`
+  - [[vanilla/движок/Модификаторы U#^m-unit-combat-unit-type-heavy-tank-offense-mult|unit_combat_unit_type_heavy_tank_offense_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 413–419
 - **ai_construction_targets**: скрипт, строки 421–428
 - **ai_weight**: скрипт, строки 430–432

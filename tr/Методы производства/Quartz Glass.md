@@ -20,11 +20,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_advancedores_add` = `15` → [[tr/Товары/Advanced Ores|Advanced Ores]]
-    - `goods_input_lead_add` = `-5` → [[vanilla/Товары/Свинец|Свинец]]
-    - `goods_output_glass_add` = `-30` → [[vanilla/Товары/Стекло|Стекло]]
-    - `goods_output_porcelain_add` = `35` → [[vanilla/Товары/Фарфор|Фарфор]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-lead-add|goods_input_lead_add]] = `-5` → [[vanilla/Товары/Свинец|Свинец]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-glass-add|goods_output_glass_add]] = `-30` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-porcelain-add|goods_output_porcelain_add]] = `35` → [[vanilla/Товары/Фарфор|Фарфор]]
   - **unscaled**:
-    - `building_glassworks_throughput_add` = `0.1` → [[tr/Здания/Стеклозаводы|Стеклозаводы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-glassworks-throughput-add|building_glassworks_throughput_add]] = `0.1` → [[tr/Здания/Стеклозаводы|Стеклозаводы]]
 
 ## Ссылаются
 

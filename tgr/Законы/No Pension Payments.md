@@ -20,7 +20,7 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_pension.txt]
 - **progressiveness**: `0`
 - **ai_will_do**: скрипт, строки 9–11
 - **modifier**:
-  - `country_mass_migration_attraction_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-mass-migration-attraction-mult|country_mass_migration_attraction_mult]] = `-0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 17–24
 
 ## Ссылаются

@@ -25,9 +25,9 @@ replaces: "[[vanilla/Методы производства/Паровик (pm_st
 - **disallowing_laws**: [[tgr/Законы/Запрет промышленности|Запрет промышленности]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `2` → [[tgr/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `2` → [[tgr/Товары/Двигатели|Двигатели]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

@@ -27,8 +27,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 382–388
 - **possible**: скрипт, строки 389–399
 - **prosperity_modifier**:
-  - `building_shipyard_throughput_add` = `0.1` → [[tr/Здания/верфи|верфи]]
-  - `state_infrastructure_from_automobiles_consumption_add` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[tr/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.1`
 - **ai_will_do**: скрипт, строки 404–410
 - **ai_construction_targets**: скрипт, строки 411–418
 - **ai_weight**: скрипт, строки 419–421

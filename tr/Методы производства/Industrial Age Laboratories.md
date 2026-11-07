@@ -19,17 +19,17 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
 - **unlocking_technologies**: [[tr/Технологии/Modern Physics|Modern Physics]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_weekly_innovation_add` = `10`
-    - `state_education_access_add` = `0.05`
+    - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-add|country_weekly_innovation_add]] = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `0.05`
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_organized_data_add` = `100` → [[tr/Товары/Organized Data|Organized Data]]
-    - `goods_input_paper_add` = `50` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `50` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_input_manzoni_prints_add` = `25` → [[tr/Товары/Media Content|Media Content]]
     - `goods_input_electroniccomponents_add` = `25` → [[tr/Товары/Electronic Components|Electronic Components]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `15000` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_clerks_add` = `15000` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `15000` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `15000` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

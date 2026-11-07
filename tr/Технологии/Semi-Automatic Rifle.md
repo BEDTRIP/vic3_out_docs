@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/semi_automatic_rifle.dds`
 - **category**: `military`
 - **modifier**:
-  - `unit_kill_rate_add` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-kill-rate-add|unit_kill_rate_add]] = `0.05`
 - **unlocking_technologies**: [[vanilla/Технологии/Огнемёты|Огнемёты]]
 - **ai_weight**: скрипт, строки 337–345
 

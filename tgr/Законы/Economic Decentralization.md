@@ -23,9 +23,9 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_centralization.txt]
 - **unlocking_technologies**: пусто
 - **on_enact**: пусто
 - **modifier**:
-  - `state_tax_collection_mult` = `-0.10`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.25`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-collection-mult|state_tax_collection_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.25`
 - **ai_enact_weight_modifier**: скрипт, строки 31–38
 
 ## Ссылаются

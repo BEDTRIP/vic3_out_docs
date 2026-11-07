@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/pious_fiction.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_infamy_generation_mult` = `0.1`
-  - `country_infamy_decay_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `-0.15`

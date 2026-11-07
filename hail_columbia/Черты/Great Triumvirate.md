@@ -18,13 +18,13 @@ paths: [for addon/Hail Columbia/common/character_traits/usfp_character_traits.tx
 - **type**: `personality`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_great_triumvirate.dds`
 - **character_modifier**:
-  - `character_prominence_add` = `20`
+  - [[vanilla/движок/Модификаторы C#^m-character-prominence-add|character_prominence_add]] = `20`
 - **command_modifier**: пусто
 - **country_modifier**: пусто
 - **agitator_modifier**: пусто
 - **executive_modifier**: пусто
 - **possible**: пусто
 - **interest_group_modifier**:
-  - `interest_group_pop_attraction_mult` = `0.10`
-  - `interest_group_pol_str_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pop-attraction-mult|interest_group_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pol-str-mult|interest_group_pol_str_mult]] = `0.10`
 - **weight**: `0`

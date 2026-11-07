@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 903–909
 - **possible**: скрипт, строки 911–921
 - **prosperity_modifier**:
-  - `building_electrics_industry_throughput_add` = `0.1` → [[vanilla/Здания/Электрозаводы|Электрозаводы]]
-  - `building_synthetics_plant_throughput_add` = `0.05` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
 - **ai_will_do**: скрипт, строки 928–934
 - **ai_construction_targets**: скрипт, строки 936–943
 - **ai_weight**: скрипт, строки 945–947

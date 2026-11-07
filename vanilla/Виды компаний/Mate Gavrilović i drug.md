@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 102–110
 - **possible**: скрипт, строки 112–121
 - **prosperity_modifier**:
-  - `unit_morale_recovery_mult` = `0.1`
-  - `building_livestock_ranch_throughput_add` = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-  - `interest_group_ig_petty_bourgeoisie_approval_add` = `2`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-approval-add|interest_group_ig_petty_bourgeoisie_approval_add]] = `2`
 - **ai_will_do**: скрипт, строки 129–134
 - **ai_construction_targets**: скрипт, строки 136–143
 - **ai_weight**: скрипт, строки 145–147

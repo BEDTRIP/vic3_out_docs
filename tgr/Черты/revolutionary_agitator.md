@@ -19,8 +19,8 @@ paths: [TheGreatRevision/common/character_traits/TGR_LEADER_skill_traits.txt]
 - **texture**: `gfx/interface/icons/character_trait_icons/social_banditry.dds`
 - **character_modifier**: пусто
 - **agitator_modifier**:
-  - `political_movement_pop_attraction_mult` = `0.50`
-  - `political_movement_radicalism_add` = `0.50`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-pop-attraction-mult|political_movement_pop_attraction_mult]] = `0.50`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-add|political_movement_radicalism_add]] = `0.50`
 - **interest_group_modifier**: пусто
 - **possible**: скрипт, строки 44–46
 - **weight**:

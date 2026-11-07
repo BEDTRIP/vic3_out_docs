@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **unlocking_technologies**: [[tr/Технологии/Modern Destroyer|Modern Destroyer]]
 - **modifier**:
   - `unit_navy_defense_mult` = `0.15`
-  - `country_military_goods_cost_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.15`
   - `unit_navy_experience_gain_mult` = `0.1`
 - **ai_weight**: скрипт, строки 752–760
 

@@ -18,16 +18,16 @@ paths: [VC/common/production_methods/joi_methods.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/radio_stations.dds`
 - **state_modifiers**:
   - **unscaled**:
-    - `state_migration_pull_mult` = `-0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `-0.1`
 - **unlocking_technologies**: [[vc/Технологии/Vertically Integrated Plantations|Vertically Integrated Plantations]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_transportation_add` = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
-    - `goods_output_fruit_add` = `45` → [[vanilla/Товары/Фрукты|Фрукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-add|goods_output_fruit_add]] = `45` → [[vanilla/Товары/Фрукты|Фрукты]]
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.1`
-    - `building_laborers_job_attractiveness_mult` = `-0.25`
-    - `building_minimum_wage_mult` = `-0.15`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-job-attractiveness-mult|building_laborers_job_attractiveness_mult]] = `-0.25`
+    - [[vanilla/движок/Модификаторы B#^m-building-minimum-wage-mult|building_minimum_wage_mult]] = `-0.15`
 
 ## Ссылаются
 

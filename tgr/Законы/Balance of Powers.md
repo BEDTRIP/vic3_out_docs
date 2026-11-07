@@ -21,7 +21,7 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 - **disallowing_laws**: пусто
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_legitimacy_base_add` = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-base-add|country_legitimacy_base_add]] = `10`
 - **on_enact**: пусто
 - **ai_enact_weight_modifier**: скрипт, строки 105–113
 

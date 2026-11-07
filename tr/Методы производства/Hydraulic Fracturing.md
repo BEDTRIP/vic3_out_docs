@@ -18,21 +18,21 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/pm_oil_fracking.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `15`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `15`
 - **unlocking_technologies**: [[tr/Технологии/Fracking|Fracking]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `120` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `120` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_input_robotics_add` = `25` → [[tr/Товары/Robotics|Robotics]]
     - `goods_input_water_add` = `35` → [[tr/Товары/Water|Water]]
     - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_input_electricity_add` = `30` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_oil_add` = `350` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `30` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-oil-add|goods_output_oil_add]] = `350` → [[vanilla/Товары/ГСМ|ГСМ]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `2000` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `500` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `2000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

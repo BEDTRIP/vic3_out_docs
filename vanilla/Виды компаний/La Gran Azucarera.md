@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 194–204
 - **possible**: скрипт, строки 206–219
 - **prosperity_modifier**:
-  - `state_migration_pull_mult` = `0.1`
-  - `state_aristocrats_investment_pool_efficiency_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-aristocrats-investment-pool-efficiency-mult|state_aristocrats_investment_pool_efficiency_mult]] = `0.15`
 - **ai_will_do**: скрипт, строки 226–235
 - **ai_construction_targets**: скрипт, строки 237–248
 - **ai_weight**: скрипт, строки 250–252

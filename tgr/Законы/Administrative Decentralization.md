@@ -19,9 +19,9 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_centralization.txt]
 - **icon**: `gfx/interface/icons/institution_icons/colonization.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `state_tax_collection_mult` = `-0.05`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.10`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-collection-mult|state_tax_collection_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.10`
 - **disallowing_laws**: [[tgr/Законы/Командная экономика|Командная экономика]]
 - **unlocking_laws**: пусто
 - **on_enact**: пусто

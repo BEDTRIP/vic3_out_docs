@@ -19,13 +19,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Modern Purification|Modern Purification]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `15`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `15`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `0.5` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_fertilizer_add` = `2` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `0.5` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `2` → [[vanilla/Товары/Удобрение|Удобрение]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

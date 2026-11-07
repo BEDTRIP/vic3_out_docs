@@ -23,10 +23,10 @@ replaces: "[[vanilla/Методы производства/Ротативный 
 - **texture**: `gfx/interface/icons/production_method_icons/rotary_valve_engine.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **unlocking_technologies**: [[vanilla/Технологии/Ротативный двигатель|Ротативный двигатель]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_coal_add` = `5` → [[tgr/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `5` → [[tgr/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

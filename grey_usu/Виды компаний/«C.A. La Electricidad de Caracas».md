@@ -32,8 +32,8 @@ replaces: "[[vanilla/Виды компаний/«C.A. La Electricidad de Caracas
 - **attainable**: скрипт, строки 67–73
 - **possible**: скрипт, строки 75–85
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `5`
-  - `state_infrastructure_from_population_max_add` = `10`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `5`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `10`
 - **ai_will_do**: скрипт, строки 92–98
 - **ai_construction_targets**: скрипт, строки 100–107
 - **ai_weight**: скрипт, строки 109–111

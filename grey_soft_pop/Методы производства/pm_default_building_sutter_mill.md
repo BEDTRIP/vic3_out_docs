@@ -18,15 +18,15 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_gold_mine_throughput_add` = `0.2` → [[vanilla/Здания/Золотые рудники|Золотые рудники]]
-    - `state_birth_rate_mult` = `0.03`
+    - [[vanilla/движок/Модификаторы B#^m-building-gold-mine-throughput-add|building_gold_mine_throughput_add]] = `0.2` → [[vanilla/Здания/Золотые рудники|Золотые рудники]]
+    - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.03`
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_minting_mult` = `0.03`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-mult|country_minting_mult]] = `0.03`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `2000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_shopkeepers_add` = `1000` → [[grey_soft_pop/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_engineers_add` = `500` → [[grey_soft_pop/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `1000` → [[grey_soft_pop/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[grey_soft_pop/Население/Типы/Инженеры|Инженеры]]

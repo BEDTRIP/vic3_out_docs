@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/avant_garde.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_weekly_innovation_mult` = `0.15`
-  - `country_legitimacy_headofstate_add` = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `10`

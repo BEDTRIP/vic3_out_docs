@@ -24,8 +24,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 413–419
 - **possible**: скрипт, строки 421–431
 - **prosperity_modifier**:
-  - `building_tobacco_plantation_throughput_add` = `0.15` → [[vanilla/Здания/Табачные плантации|Табачные плантации]]
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-tobacco-plantation-throughput-add|building_tobacco_plantation_throughput_add]] = `0.15` → [[vanilla/Здания/Табачные плантации|Табачные плантации]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 438–447
 - **ai_construction_targets**: скрипт, строки 449–456
 - **ai_weight**: скрипт, строки 458–460

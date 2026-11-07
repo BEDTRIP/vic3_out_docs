@@ -22,13 +22,13 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/yMoG_USU_owne
 - **disallowing_laws**: [[vanilla/Законы/Крепостное право|Крепостное право]], [[vanilla/Законы/Арендаторы|Арендаторы]], [[vanilla/Законы/Крестьянское хозяйство|Крестьянское хозяйство]], [[vanilla/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]], [[vanilla/Законы/Аграрность|Аграрность]], [[vanilla/Законы/Запрет промышленности|Запрет промышленности]], [[vanilla/Законы/Традиционализм|Традиционализм]], [[vanilla/Законы/Интервенционизм|Интервенционизм]], [[vanilla/Законы/Свободная конкуренция|Свободная конкуренция]], [[vanilla/Законы/Командная экономика|Командная экономика]], [[vanilla/Законы/Добывающая экономика|Добывающая экономика]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `15` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_farmers_add` = `15` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
-    - `building_employment_clerks_add` = `20` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `15` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `15` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `20` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_shopkeepers_shares_add` = `94`
-    - `building_farmers_shares_add` = `94`
-    - `building_clerks_shares_add` = `9`
+    - [[vanilla/движок/Модификаторы B#^m-building-shopkeepers-shares-add|building_shopkeepers_shares_add]] = `94`
+    - [[vanilla/движок/Модификаторы B#^m-building-farmers-shares-add|building_farmers_shares_add]] = `94`
+    - [[vanilla/движок/Модификаторы B#^m-building-clerks-shares-add|building_clerks_shares_add]] = `9`
 
 ## Ссылаются
 

@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/feuds.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_authority_mult` = `-0.05`
-  - `state_turmoil_effects_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `0.1`

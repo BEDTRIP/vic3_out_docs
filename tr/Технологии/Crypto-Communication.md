@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/cryptographic_communication.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_authority_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.1`
 - **unlocking_technologies**: [[vanilla/Технологии/Тотальная слежка|Тотальная слежка]]
 - **ai_weight**: скрипт, строки 251–253
 

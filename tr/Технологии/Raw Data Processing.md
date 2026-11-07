@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/data_processing.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_authority_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.1`
 - **unlocking_technologies**: [[tr/Технологии/Modern Statistics|Modern Statistics]], [[tr/Технологии/Networking Protocols|Networking Protocols]]
 - **ai_weight**: скрипт, строки 831–833
 

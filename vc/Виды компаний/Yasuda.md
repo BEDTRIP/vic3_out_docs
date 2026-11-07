@@ -36,9 +36,9 @@ replaces: "[[vanilla/Виды компаний/Yasuda]]"
 - **attainable**: скрипт, строки 7798–7806
 - **possible**: скрипт, строки 7808–7827
 - **prosperity_modifier**:
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.25`
-  - `country_loan_interest_rate_mult` = `-0.1`
-  - `state_birth_rate_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 7835–7840
 - **ai_construction_targets**: скрипт, строки 7842–7861
 - **ai_weight**: скрипт, строки 7863–7865

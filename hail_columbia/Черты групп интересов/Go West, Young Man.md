@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/go_west.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_migration_pull_mult` = `0.15`
-  - `country_resource_discovery_chance_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-resource-discovery-chance-mult|country_resource_discovery_chance_mult]] = `0.10`

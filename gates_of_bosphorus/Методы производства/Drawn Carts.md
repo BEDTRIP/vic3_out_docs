@@ -19,14 +19,14 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **unlocking_technologies**: [[vanilla/Технологии/Механические инструменты|Механические инструменты]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_wood_add` = `3` → [[vanilla/Товары/Древесина|Древесина]]
-    - `goods_input_fabric_add` = `2` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_output_transportation_add` = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `3` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `2` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `5`
 
 ## Ссылаются
 

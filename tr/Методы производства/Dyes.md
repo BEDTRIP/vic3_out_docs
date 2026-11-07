@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Hydroponic Farming|Hydroponic Farming]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_dye_add` = `45` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-dye-add|goods_output_dye_add]] = `45` → [[vanilla/Товары/Красители|Красители]]
 
 ## Ссылаются
 

@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **attainable**: скрипт, строки 369–380
 - **possible**: скрипт, строки 381–398
 - **prosperity_modifier**:
-  - `building_power_plant_throughput_add` = `0.05` → [[tr/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.05` → [[tr/Здания/Электростанции|Электростанции]]
   - `goods_output_good_uranium_mult` = `0.1` → [[tr/Товары/Uranium|Uranium]]
 - **ai_will_do**: скрипт, строки 403–413
 - **ai_construction_targets**: скрипт, строки 414–435

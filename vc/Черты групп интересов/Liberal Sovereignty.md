@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/avant_garde.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_legitimacy_govt_total_clout_add` = `10`
-  - `state_migration_pull_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `10`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.25`

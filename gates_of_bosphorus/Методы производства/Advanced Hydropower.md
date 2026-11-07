@@ -19,16 +19,16 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **unlocking_technologies**: [[vanilla/Технологии/ГСМ-турбина|ГСМ-турбина]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_oil_add` = `10` → [[vanilla/Товары/ГСМ|ГСМ]]
-    - `goods_output_electricity_add` = `80` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `10` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-add|goods_output_electricity_add]] = `80` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `600` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `200` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `600` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `200` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_textile_companies.txt]
 - **attainable**: скрипт, строки 309–316
 - **possible**: скрипт, строки 317–327
 - **prosperity_modifier**:
-  - `state_pop_support_movement_feminist_mult` = `0.1`
-  - `country_prestige_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-feminist-mult|state_pop_support_movement_feminist_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 332–338
 - **ai_construction_targets**: скрипт, строки 339–346
 - **ai_weight**: скрипт, строки 347–349

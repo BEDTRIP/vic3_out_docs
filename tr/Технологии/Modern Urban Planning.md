@@ -22,9 +22,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **modifier**:
   - `country_disable_greener_grass_campaign_bool_tt` = `yes`
   - `state_building_construction_sector_max_level_add` = `10`
-  - `state_pollution_reduction_health_mult` = `0.05`
-  - `state_trade_capacity_mult` = `0.05`
-  - `state_market_access_price_impact` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-market-access-price-impact|state_market_access_price_impact]] = `0.05`
 - **ai_weight**: скрипт, строки 92–94
 
 ## Ссылаются

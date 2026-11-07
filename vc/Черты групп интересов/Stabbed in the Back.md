@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/xenophobia.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_law_enactment_speed_mult` = `-0.15`
-  - `country_radicalism_increases_full_acceptance_mult` = `0.1`
-  - `country_radicalism_increases_second_rate_citizen_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicalism-increases-full-acceptance-mult|country_radicalism_increases_full_acceptance_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicalism-increases-second-rate-citizen-mult|country_radicalism_increases_second_rate_citizen_mult]] = `0.1`

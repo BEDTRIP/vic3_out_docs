@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_society_tech_research_speed_mult` = `0.1`
-  - `country_tech_spread_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `0.25`

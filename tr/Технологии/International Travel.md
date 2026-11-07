@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/international_travel.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_free_charters_add` = `1`
-  - `country_production_tech_spread_mult` = `0.5`
-  - `country_society_tech_spread_mult` = `0.5`
-  - `state_pollution_reduction_health_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-free-charters-add|country_free_charters_add]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-spread-mult|country_society_tech_spread_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Highway Systems|Highway Systems]], [[tr/Технологии/Mass Culture|Mass Culture]]
 - **ai_weight**: скрипт, строки 197–199
 

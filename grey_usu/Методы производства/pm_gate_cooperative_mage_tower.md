@@ -23,7 +23,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/zzMoG_USU_man
 - **building_modifiers**:
   - **level_scaled**:
     - `building_employment_gate_mages_add` = `20`
-    - `building_employment_clerks_add` = `30` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `30` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
     - `building_gate_mages_shares_add` = `91`
-    - `building_clerks_shares_add` = `6`
+    - [[vanilla/движок/Модификаторы B#^m-building-clerks-shares-add|building_clerks_shares_add]] = `6`

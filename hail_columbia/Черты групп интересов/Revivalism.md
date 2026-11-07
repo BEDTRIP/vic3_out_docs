@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/revivalism.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_conversion_mult` = `0.25`
-  - `country_society_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-conversion-mult|state_conversion_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.05`

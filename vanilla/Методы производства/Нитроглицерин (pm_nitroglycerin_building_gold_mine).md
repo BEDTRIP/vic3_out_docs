@@ -18,21 +18,21 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/nitroglycerin.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_technologies**: [[vanilla/Технологии/Нитроглицерин|Нитроглицерин]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_explosives_add` = `5` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
-    - `goods_output_gold_add` = `5` → [[vanilla/Товары/Золото|Золото]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `5` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-gold-add|goods_output_gold_add]] = `5` → [[vanilla/Товары/Золото|Золото]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.3`
-    - `building_machinists_mortality_mult` = `0.2`
-    - `building_engineers_mortality_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.3`
+    - [[vanilla/движок/Модификаторы B#^m-building-machinists-mortality-mult|building_machinists_mortality_mult]] = `0.2`
+    - [[vanilla/движок/Модификаторы B#^m-building-engineers-mortality-mult|building_engineers_mortality_mult]] = `0.1`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_minting_add` = `125`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `125`
 
 ## Ссылаются
 

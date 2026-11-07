@@ -25,7 +25,7 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 18–25
 - **possible**: скрипт, строки 26–37
 - **prosperity_modifier**:
-  - `country_tech_research_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.1`
 - **ai_weight**: скрипт, строки 41–43
 - **ai_will_do**: скрипт, строки 44–50
 - **ai_construction_targets**: скрипт, строки 51–59

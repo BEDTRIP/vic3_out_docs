@@ -18,14 +18,14 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/pm_multiway_transport_building.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_technologies**: [[tr/Технологии/Modern Vehicles|Modern Vehicles]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_transportation_add` = `2` → [[vanilla/Товары/Перевозка|Перевозка]]
-    - `goods_input_automobiles_add` = `2` → [[tr/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `2` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-automobiles-add|goods_input_automobiles_add]] = `2` → [[tr/Товары/Автомобили|Автомобили]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

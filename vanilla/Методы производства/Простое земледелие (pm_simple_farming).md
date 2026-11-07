@@ -18,10 +18,10 @@ paths: [.vanillaVIC3/common/production_methods/02_agro.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/simple_farming.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_grain_add` = `20` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `20` → [[vanilla/Товары/Зерно|Зерно]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `4000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `4000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
 
 ## Ссылаются
 

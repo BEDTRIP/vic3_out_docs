@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
 - **unlocking_technologies**: [[tr/Технологии/Modern Physics|Modern Physics]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `state_education_access_add` = `0.05`
-    - `state_pop_qualifications_mult` = `0.1`
-    - `country_society_tech_research_speed_mult` = `0.15`
+    - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `0.05`
+    - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.15`
   - **unscaled**:
-    - `interest_group_ig_intelligentsia_approval_add` = `2`
+    - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-approval-add|interest_group_ig_intelligentsia_approval_add]] = `2`
 
 ## Ссылаются
 

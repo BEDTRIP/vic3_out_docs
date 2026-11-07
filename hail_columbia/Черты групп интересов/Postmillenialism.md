@@ -18,4 +18,4 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/postmillenialism.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_radicals_from_political_movements_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.10`

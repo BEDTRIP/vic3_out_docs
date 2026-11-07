@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 571–579
 - **possible**: скрипт, строки 581–593
 - **prosperity_modifier**:
-  - `building_power_plant_throughput_add` = `0.05` → [[vanilla/Здания/Электростанции|Электростанции]]
-  - `building_textile_mill_throughput_add` = `0.1` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
 - **ai_will_do**: скрипт, строки 600–605
 - **ai_construction_targets**: скрипт, строки 607–620
 - **ai_weight**: скрипт, строки 622–624

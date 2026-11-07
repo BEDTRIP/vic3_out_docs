@@ -20,8 +20,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Genetic Disease Screening|Genetic Disease Screening]], [[tr/Технологии/Cognitive Sciences|Cognitive Sciences]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
-  - `country_institution_health_system_max_investment_add` = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-health-system-max-investment-add|country_institution_health_system_max_investment_add]] = `1`
 - **ai_weight**: скрипт, строки 795–797
 
 ## Ссылаются

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/industrial_organizers.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_working_adult_ratio_add` = `0.05`
-  - `battle_defense_owned_province_mult` = `0.05`
-  - `battle_offense_owned_province_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-battle-defense-owned-province-mult|battle_defense_owned_province_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-battle-offense-owned-province-mult|battle_offense_owned_province_mult]] = `0.05`

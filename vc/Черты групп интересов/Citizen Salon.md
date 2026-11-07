@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/avant_garde.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_law_enactment_speed_mult` = `0.15`
-  - `country_prestige_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`

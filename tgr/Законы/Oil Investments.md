@@ -21,13 +21,13 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_economic_incentives_resources.
 - **unlocking_laws**: пусто
 - **unlocking_technologies**: [[vanilla/Технологии/Качалки|Качалки]]
 - **modifier**:
-  - `state_construction_mult` = `0.10`
-  - `country_bureaucracy_investment_cost_factor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `0.05`
 - **institution**: `institution_incentive_secondary`
 - **institution_modifier**:
-  - `building_group_bg_oil_extraction_tax_mult` = `-0.05`
-  - `building_group_bg_oil_extraction_throughput_add` = `0.05`
-  - `country_capitalists_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-tax-mult|building_group_bg_oil_extraction_tax_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-capitalists-pol-str-mult|country_capitalists_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 132–139
 
 ## Ссылаются

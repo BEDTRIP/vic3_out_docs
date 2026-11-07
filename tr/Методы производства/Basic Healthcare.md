@@ -18,12 +18,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/panum_clinic_pm.dds`
 - **state_modifiers**:
   - **unscaled**:
-    - `state_mortality_turmoil_mult` = `-0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-mortality-turmoil-mult|state_mortality_turmoil_mult]] = `-0.1`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fabric_add` = `2` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_input_liquor_add` = `2` → [[vanilla/Товары/Спирт|Спирт]]
-    - `goods_output_services_add` = `5` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `2` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-liquor-add|goods_input_liquor_add]] = `2` → [[vanilla/Товары/Спирт|Спирт]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `5` → [[vanilla/Товары/Услуги|Услуги]]
 - **disallowing_laws**: [[vanilla/Законы/Индивидуальное медицинское страхование|Индивидуальное медицинское страхование]], [[vanilla/Законы/Государственное медицинское страхование|Государственное медицинское страхование]]
 
 ## Ссылаются

@@ -24,10 +24,10 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 556–562
 - **possible**: скрипт, строки 563–573
 - **prosperity_modifier**:
-  - `state_birth_rate_mult` = `0.02`
-  - `state_laborers_mortality_mult` = `-0.25`
-  - `state_machinists_mortality_mult` = `-0.25`
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-laborers-mortality-mult|state_laborers_mortality_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-machinists-mortality-mult|state_machinists_mortality_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 580–586
 - **ai_construction_targets**: скрипт, строки 587–594
 - **ai_weight**: скрипт, строки 595–597

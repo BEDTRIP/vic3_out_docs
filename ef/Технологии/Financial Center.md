@@ -20,8 +20,8 @@ paths: [E&F/common/technology/technologies/ef_technology.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[vanilla/Технологии/Фондовая биржа|Фондовая биржа]]
 - **modifier**:
-  - `country_institution_economic_central_bank_max_investment_add` = `1`
-  - `country_max_companies_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-economic-central-bank-max-investment-add|country_institution_economic_central_bank_max_investment_add]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-companies-add|country_max_companies_add]] = `1`
 - **on_researched**: скрипт, строки 401–404
 - **ai_weight**: скрипт, строки 406–408
 

@@ -32,8 +32,8 @@ replaces: "[[vanilla/Виды компаний/«Great Indian Peninsula Railway�
 - **attainable**: скрипт, строки 482–488
 - **possible**: скрипт, строки 490–501
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `2`
-  - `state_infrastructure_from_population_max_add` = `40`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `2`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `40`
 - **ai_will_do**: скрипт, строки 508–514
 - **ai_construction_targets**: скрипт, строки 516–524
 - **ai_weight**: скрипт, строки 526–528

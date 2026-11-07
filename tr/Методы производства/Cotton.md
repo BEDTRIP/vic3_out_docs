@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Hydroponic Farming|Hydroponic Farming]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_fabric_add` = `90` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-add|goods_output_fabric_add]] = `90` → [[vanilla/Товары/Ткань|Ткань]]
 
 ## Ссылаются
 

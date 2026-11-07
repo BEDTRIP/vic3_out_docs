@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 282–292
 - **possible**: скрипт, строки 294–307
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `country_society_tech_spread_mult` = `0.1`
-  - `state_loyalists_from_political_movements_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-spread-mult|country_society_tech_spread_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalists-from-political-movements-mult|state_loyalists_from_political_movements_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 315–324
 - **ai_construction_targets**: скрипт, строки 326–337
 - **ai_weight**: скрипт, строки 339–341

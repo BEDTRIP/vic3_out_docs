@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/farmers_markets.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_infrastructure_mult` = `0.1`
-  - `state_market_access_price_impact` = `0.025`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-market-access-price-impact|state_market_access_price_impact]] = `0.025`

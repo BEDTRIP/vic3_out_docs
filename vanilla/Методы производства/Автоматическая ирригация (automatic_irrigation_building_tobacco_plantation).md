@@ -18,16 +18,16 @@ paths: [.vanillaVIC3/common/production_methods/04_plantations.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/automatic_irrigation.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_technologies**: [[vanilla/Технологии/Качалки|Качалки]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_output_tobacco_add` = `45` → [[vanilla/Товары/Табак|Табак]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-tobacco-add|goods_output_tobacco_add]] = `45` → [[vanilla/Товары/Табак|Табак]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `4000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `4000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

@@ -27,9 +27,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 139–147
 - **possible**: скрипт, строки 149–168
 - **prosperity_modifier**:
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.1`
-  - `country_loan_interest_rate_mult` = `-0.1`
-  - `country_gold_reserve_limit_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-gold-reserve-limit-mult|country_gold_reserve_limit_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 176–181
 - **ai_construction_targets**: скрипт, строки 183–202
 - **ai_weight**: скрипт, строки 204–206

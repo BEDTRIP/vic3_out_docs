@@ -20,11 +20,11 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_data_policy.txt]
 - **progressiveness**: `25`
 - **unlocking_technologies**: [[tr/Технологии/Raw Data Processing|Raw Data Processing]]
 - **modifier**:
-  - `state_political_strength_from_wealth_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-political-strength-from-wealth-mult|state_political_strength_from_wealth_mult]] = `-0.1`
   - `goods_output_raw_data_mult` = `-0.25` → [[tr/Товары/Raw Data|Raw Data]]
   - `goods_output_ai_systems_mult` = `-0.25` → [[tr/Товары/AI Systems|AI Systems]]
-  - `state_turmoil_effects_mult` = `-0.05`
-  - `state_radicals_from_political_movements_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 37–44
 
 ## Ссылаются

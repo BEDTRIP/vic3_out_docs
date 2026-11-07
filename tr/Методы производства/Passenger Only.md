@@ -18,7 +18,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **texture**: `gfx/interface/icons/production_method_icons/air_travel.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_transportation_add` = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
 
 ## Ссылаются
 

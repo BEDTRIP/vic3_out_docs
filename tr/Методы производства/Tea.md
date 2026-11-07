@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Controlled Environment Agriculture|Controlled Environment Agriculture]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_tea_add` = `36` → [[vanilla/Товары/Чай|Чай]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-tea-add|goods_output_tea_add]] = `36` → [[vanilla/Товары/Чай|Чай]]
 
 ## Ссылаются
 

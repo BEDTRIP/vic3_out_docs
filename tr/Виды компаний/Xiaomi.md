@@ -28,7 +28,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **prosperity_modifier**:
   - `building_telecommunications_industry_throughput_add` = `0.1` → [[tr/Здания/Telecommunications Plants|Telecommunications Plants]]
   - `building_renewable_energy_power_plant_throughput_add` = `0.1` → [[tr/Здания/Renewable Energy Power Plants|Renewable Energy Power Plants]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 63–69
 - **ai_construction_targets**: скрипт, строки 70–77
 - **ai_weight**: скрипт, строки 78–80

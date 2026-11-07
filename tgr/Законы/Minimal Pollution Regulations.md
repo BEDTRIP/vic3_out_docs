@@ -21,14 +21,14 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_environment_regulations.txt]
 - **unlocking_technologies**: [[tgr/Технологии/Хинин|Хинин]]
 - **institution**: `institution_environment`
 - **institution_modifier**:
-  - `state_pollution_reduction_health_mult` = `-0.02`
-  - `building_group_bg_mining_throughput_add` = `-0.01`
-  - `building_group_bg_logging_throughput_add` = `-0.01`
-  - `building_group_bg_oil_extraction_throughput_add` = `-0.01`
-  - `building_group_bg_manufacturing_throughput_add` = `-0.01`
-  - `country_farmers_pol_str_mult` = `0.10`
-  - `interest_group_ig_rural_folk_pol_str_mult` = `0.02`
-  - `interest_group_ig_rural_folk_pop_attraction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.02`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `-0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-throughput-add|building_group_bg_logging_throughput_add]] = `-0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `-0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-manufacturing-throughput-add|building_group_bg_manufacturing_throughput_add]] = `-0.01`
+  - [[vanilla/движок/Модификаторы C#^m-country-farmers-pol-str-mult|country_farmers_pol_str_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pol-str-mult|interest_group_ig_rural_folk_pol_str_mult]] = `0.02`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pop-attraction-mult|interest_group_ig_rural_folk_pop_attraction_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 52–57
 - **ai_enact_weight_modifier**: скрипт, строки 59–66
 

@@ -24,8 +24,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 489–495
 - **possible**: скрипт, строки 497–509
 - **prosperity_modifier**:
-  - `building_construction_sector_throughput_add` = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
-  - `building_power_plant_throughput_add` = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
 - **ai_will_do**: скрипт, строки 516–521
 - **ai_construction_targets**: скрипт, строки 523–536
 - **ai_weight**: скрипт, строки 538–540

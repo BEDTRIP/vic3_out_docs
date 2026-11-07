@@ -25,6 +25,6 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **possible**: скрипт, строки 6751–6761
 - **attainable**: скрипт, строки 6763–6769
 - **prosperity_modifier**:
-  - `building_silver_mine_throughput_add` = `0.25` → [[ef/Здания/Silver Mine|Silver Mine]]
+  - [[vanilla/движок/Модификаторы B#^m-building-silver-mine-throughput-add|building_silver_mine_throughput_add]] = `0.25` → [[ef/Здания/Silver Mine|Silver Mine]]
 - **ai_will_do**: скрипт, строки 6775–6780
 - **ai_weight**: скрипт, строки 6782–6784

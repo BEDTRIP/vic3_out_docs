@@ -19,19 +19,19 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Digital Governance|Digital Governance]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_bureaucracy_add` = `150`
+    - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-add|country_bureaucracy_add]] = `150`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_tax_capacity_add` = `40`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `40`
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_telecommunications_add` = `12` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_computer_add` = `4` → [[tr/Товары/Computers|Computers]]
-    - `goods_input_telephones_add` = `4` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `4` → [[vanilla/Товары/Телефоны|Телефоны]]
     - `goods_input_softwares_add` = `8` → [[tr/Товары/Software|Software]]
     - `goods_output_raw_data_add` = `25` → [[tr/Товары/Raw Data|Raw Data]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

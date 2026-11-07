@@ -43,7 +43,7 @@ replaces: "[[vanilla/Виды компаний/«Altos Hornos de Vizcaya»]]"
 - **attainable**: скрипт, строки 555–561
 - **possible**: скрипт, строки 563–572
 - **prosperity_modifier**:
-  - `state_infrastructure_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 578–583
 - **ai_construction_targets**: скрипт, строки 585–592
 - **ai_weight**: скрипт, строки 594–596

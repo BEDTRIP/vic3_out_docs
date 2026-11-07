@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **prosperity_modifier**:
   - `building_consumer_electronics_industry_throughput_add` = `0.05` → [[tr/Здания/Consumer Electronics Industries|Consumer Electronics Industries]]
   - `building_battery_plant_throughput_add` = `0.1` → [[tr/Здания/Battery Plants|Battery Plants]]
-  - `state_birth_rate_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 796–805
 - **ai_construction_targets**: скрипт, строки 806–826
 - **ai_weight**: скрипт, строки 827–829

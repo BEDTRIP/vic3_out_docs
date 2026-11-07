@@ -16,5 +16,5 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 ## Поля
 
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `-0.12` → [[grey_usu/Здания/Железнодорожный терминал|Железнодорожный терминал]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `-0.12` → [[grey_usu/Здания/Железнодорожный терминал|Железнодорожный терминал]]
   - `building_group_bg_usu_rail_infrastructure_throughput_add` = `0.12`

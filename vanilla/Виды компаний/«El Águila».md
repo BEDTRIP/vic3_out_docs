@@ -24,8 +24,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **attainable**: скрипт, строки 99–105
 - **possible**: скрипт, строки 107–118
 - **prosperity_modifier**:
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.15`
-  - `interest_group_ig_industrialists_approval_add` = `3`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-approval-add|interest_group_ig_industrialists_approval_add]] = `3`
 - **ai_will_do**: скрипт, строки 125–133
 - **ai_construction_targets**: скрипт, строки 135–144
 - **ai_weight**: скрипт, строки 146–148

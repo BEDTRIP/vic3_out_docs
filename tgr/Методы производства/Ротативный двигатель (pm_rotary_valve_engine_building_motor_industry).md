@@ -23,13 +23,13 @@ replaces: "[[vanilla/Методы производства/Ротативный 
 - **texture**: `gfx/interface/icons/production_method_icons/rotary_valve_engine.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **unlocking_technologies**: [[vanilla/Технологии/Ротативный двигатель|Ротативный двигатель]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `3` → [[tgr/Товары/Инструменты|Инструменты]]
-    - `goods_input_coal_add` = `2` → [[tgr/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `3` → [[tgr/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `2` → [[tgr/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `-500` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `-1000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `-500` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-1000` → [[vanilla/Население/Типы/Механики|Механики]]

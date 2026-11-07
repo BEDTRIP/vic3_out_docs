@@ -20,12 +20,12 @@ paths: [for addon/Mandate of Heaven/common/laws/moh_flavoured_laws.txt]
 - **icon**: `gfx/interface/icons/law_icons/keju.dds`
 - **progressiveness**: `0`
 - **modifier**:
-  - `country_bureaucrats_pol_str_mult` = `0.25`
-  - `state_tax_capacity_mult` = `0.25`
-  - `state_education_access_wealth_add` = `0.005`
-  - `country_tech_research_speed_mult` = `-0.05`
-  - `country_tech_spread_mult` = `-0.05`
-  - `interest_group_ig_landowners_pop_attraction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-pol-str-mult|country_bureaucrats_pol_str_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-mult|state_tax_capacity_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-pop-attraction-mult|interest_group_ig_landowners_pop_attraction_mult]] = `0.05`
 - **is_visible**: скрипт, строки 19–23
 - **can_enact**: скрипт, строки 25–27
 - **on_enact**: скрипт, строки 29–42

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/job_creators.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_education_access_add` = `0.05`
-  - `building_university_throughput_add` = `0.15` → [[vanilla/Здания/Университеты|Университеты]]
-  - `state_pollution_reduction_health_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.15` → [[vanilla/Здания/Университеты|Университеты]]
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.15`

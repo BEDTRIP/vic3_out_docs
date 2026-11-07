@@ -33,9 +33,9 @@ replaces: "[[vanilla/Виды компаний/Colt's Patent Firearms Manufactur
 - **attainable**: скрипт, строки 4919–4927
 - **possible**: скрипт, строки 4929–4938
 - **prosperity_modifier**:
-  - `goods_output_small_arms_mult` = `0.1` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
-  - `unit_army_offense_mult` = `0.1`
-  - `unit_morale_damage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-small-arms-mult|goods_output_small_arms_mult]] = `0.1` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-damage-mult|unit_morale_damage_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 4946–4951
 - **ai_construction_targets**: скрипт, строки 4953–4960
 - **ai_weight**: скрипт, строки 4962–4964

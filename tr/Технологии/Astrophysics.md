@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_produc
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Nuclear Physics|Nuclear Physics]]
 - **modifier**:
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
   - `building_telecommunications_industry_throughput_add` = `0.05` → [[tr/Здания/Telecommunications Plants|Telecommunications Plants]]
 - **ai_weight**: скрипт, строки 189–202
 

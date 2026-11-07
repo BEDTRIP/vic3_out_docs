@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_digital_media_industry.txt]
 - **possible**: скрипт, строки 41–51
 - **prosperity_modifier**:
   - `goods_output_televisions_mult` = `0.1` → [[tr/Товары/Televisions|Televisions]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 56–62
 - **ai_construction_targets**: скрипт, строки 63–70
 - **ai_weight**: скрипт, строки 71–73

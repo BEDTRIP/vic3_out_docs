@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/farmers_markets.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_colony_growth_speed_mult` = `0.15`
-  - `building_construction_sector_throughput_add` = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
-  - `state_migration_quota_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-quota-mult|state_migration_quota_mult]] = `0.1`

@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **attainable**: скрипт, строки 101–107
 - **possible**: скрипт, строки 109–119
 - **prosperity_modifier**:
-  - `building_dye_plantation_throughput_add` = `0.2` → [[vanilla/Здания/Плантации красильных растений|Плантации красильных растений]]
-  - `building_cotton_plantation_throughput_add` = `0.05` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
+  - [[vanilla/движок/Модификаторы B#^m-building-dye-plantation-throughput-add|building_dye_plantation_throughput_add]] = `0.2` → [[vanilla/Здания/Плантации красильных растений|Плантации красильных растений]]
+  - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.05` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
 - **ai_will_do**: скрипт, строки 126–131
 - **ai_construction_targets**: скрипт, строки 133–140
 - **ai_weight**: скрипт, строки 142–144

@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **attainable**: скрипт, строки 628–634
 - **possible**: скрипт, строки 636–646
 - **prosperity_modifier**:
-  - `building_art_academy_throughput_add` = `0.05` → [[vanilla/Здания/Академии искусств|Академии искусств]]
-  - `building_railway_throughput_add` = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.05` → [[vanilla/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **ai_will_do**: скрипт, строки 653–659
 - **ai_construction_targets**: скрипт, строки 661–668
 - **ai_weight**: скрипт, строки 670–672

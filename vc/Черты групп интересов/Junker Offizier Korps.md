@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/veteran_consultation.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `unit_army_experience_gain_mult` = `0.15`
-  - `unit_army_offense_mult` = `0.05`
-  - `unit_army_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-experience-gain-mult|unit_army_experience_gain_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.05`

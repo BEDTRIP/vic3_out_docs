@@ -19,15 +19,15 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **unlocking_technologies**: [[tr/Технологии/Телефон|Телефон]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_telephones_add` = `5` → [[vanilla/Товары/Телефоны|Телефоны]]
-    - `goods_input_electricity_add` = `3` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `5` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `3` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_telecommunications_add` = `3` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_output_organized_data_add` = `4` → [[tr/Товары/Organized Data|Organized Data]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_machinists_add` = `250` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_laborers_add` = `750` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_clerks_add` = `750` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `750` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `750` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

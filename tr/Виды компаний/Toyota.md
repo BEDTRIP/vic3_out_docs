@@ -28,7 +28,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **possible**: скрипт, строки 190–200
 - **prosperity_modifier**:
   - `building_battery_plant_throughput_add` = `0.1` → [[tr/Здания/Battery Plants|Battery Plants]]
-  - `building_automotive_industry_throughput_add` = `0.05` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.05` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **ai_will_do**: скрипт, строки 205–211
 - **ai_construction_targets**: скрипт, строки 212–219
 - **ai_weight**: скрипт, строки 220–222

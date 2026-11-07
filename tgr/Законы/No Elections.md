@@ -23,7 +23,7 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_election_system.txt]
 - **unlocking_technologies**: пусто
 - **on_enact**: пусто
 - **modifier**:
-  - `country_voting_power_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-voting-power-mult|country_voting_power_mult]] = `-0.25`
 - **ai_enact_weight_modifier**: скрипт, строки 32–39
 
 ## Ссылаются

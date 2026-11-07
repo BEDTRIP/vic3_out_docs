@@ -23,8 +23,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
     - `goods_input_alloys_add` = `10` → [[tr/Товары/Alloys|Alloys]]
     - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
     - `goods_input_electroniccomponents_add` = `5` → [[tr/Товары/Electronic Components|Electronic Components]]
-    - `goods_input_engines_add` = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_output_ammunition_add` = `50` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-ammunition-add|goods_output_ammunition_add]] = `50` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
 
 ## Ссылаются
 

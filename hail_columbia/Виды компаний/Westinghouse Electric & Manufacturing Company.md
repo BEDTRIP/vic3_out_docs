@@ -25,8 +25,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **attainable**: скрипт, строки 24–33
 - **possible**: скрипт, строки 35–48
 - **prosperity_modifier**:
-  - `building_power_plant_throughput_add` = `0.10` → [[vanilla/Здания/Электростанции|Электростанции]]
-  - `country_production_tech_research_speed_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.10` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 55–64
 - **ai_construction_targets**: скрипт, строки 66–77
 - **ai_weight**: скрипт, строки 79–81

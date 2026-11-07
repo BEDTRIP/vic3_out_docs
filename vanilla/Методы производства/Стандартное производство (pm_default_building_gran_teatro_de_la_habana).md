@@ -19,13 +19,13 @@ paths: [.vanillaVIC3/common/production_methods/08_monuments.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `10` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_output_fine_art_add` = `5` → [[vanilla/Товары/Картины|Картины]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `10` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-add|goods_output_fine_art_add]] = `5` → [[vanilla/Товары/Картины|Картины]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `200` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `200` → [[vanilla/Население/Типы/Учёные|Учёные]]
 
 ## Ссылаются
 

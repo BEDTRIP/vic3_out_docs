@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/transnational_activism.dds`
 - **category**: `society`
 - **modifier**:
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `1`
-  - `country_infamy_generation_against_unrecognized_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-against-unrecognized-mult|country_infamy_generation_against_unrecognized_mult]] = `0.2`
 - **unlocking_technologies**: [[tr/Технологии/Pop Art|Pop Art]], [[tr/Технологии/Neo-Feminism|Neo-Feminism]]
 - **ai_weight**: скрипт, строки 899–901
 

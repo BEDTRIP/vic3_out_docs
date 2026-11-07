@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/noblesse_oblige.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_aristocrats_investment_pool_efficiency_mult` = `0.1`
-  - `building_group_bg_ranching_throughput_add` = `0.1`
-  - `goods_output_fabric_mult` = `0.25` → [[vanilla/Товары/Ткань|Ткань]]
+  - [[vanilla/движок/Модификаторы S#^m-state-aristocrats-investment-pool-efficiency-mult|state_aristocrats_investment_pool_efficiency_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-throughput-add|building_group_bg_ranching_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-mult|goods_output_fabric_mult]] = `0.25` → [[vanilla/Товары/Ткань|Ткань]]

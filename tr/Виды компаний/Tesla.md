@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **prosperity_modifier**:
   - `building_processors_foundry_throughput_add` = `0.05` → [[tr/Здания/Chip Foundries|Chip Foundries]]
   - `building_renewable_energy_power_plant_throughput_add` = `0.05` → [[tr/Здания/Renewable Energy Power Plants|Renewable Energy Power Plants]]
-  - `country_production_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 845–851
 - **ai_construction_targets**: скрипт, строки 852–859
 - **ai_weight**: скрипт, строки 860–862

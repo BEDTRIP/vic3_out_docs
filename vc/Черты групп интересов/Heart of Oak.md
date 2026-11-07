@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/veteran_consultation.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `ship_suffered_crew_damage_mult` = `-0.1`
-  - `ship_movement_speed_mult` = `0.15`
-  - `ship_blockade_strength_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-ship-suffered-crew-damage-mult|ship_suffered_crew_damage_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-movement-speed-mult|ship_movement_speed_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-ship-blockade-strength-mult|ship_blockade_strength_mult]] = `0.25`

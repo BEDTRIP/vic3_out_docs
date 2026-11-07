@@ -28,7 +28,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_entertainment_companies.txt]
 - **possible**: скрипт, строки 51–63
 - **prosperity_modifier**:
   - `goods_output_elgar_instruments_mult` = `0.1` → [[tr/Товары/Instruments|Instruments]]
-  - `state_upper_strata_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-upper-strata-standard-of-living-add|state_upper_strata_standard_of_living_add]] = `0.5`
 - **ai_will_do**: скрипт, строки 68–76
 - **ai_construction_targets**: скрипт, строки 77–87
 - **ai_weight**: скрипт, строки 88–90

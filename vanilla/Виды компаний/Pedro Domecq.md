@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 676–682
 - **possible**: скрипт, строки 684–692
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `country_leverage_generation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 699–703
 - **ai_construction_targets**: скрипт, строки 705–712
 - **ai_weight**: скрипт, строки 714–716

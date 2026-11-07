@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **possible**: скрипт, строки 462–472
 - **prosperity_modifier**:
   - `goods_output_homeappliances_mult` = `0.05` → [[tr/Товары/Home Appliances|Home Appliances]]
-  - `building_food_industry_throughput_add` = `0.05` → [[tr/Здания/Пищевые производства|Пищевые производства]]
-  - `state_standard_of_living_add` = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.05` → [[tr/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
 - **ai_will_do**: скрипт, строки 478–484
 - **ai_construction_targets**: скрипт, строки 485–492
 - **ai_weight**: скрипт, строки 493–495

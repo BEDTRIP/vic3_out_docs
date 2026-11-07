@@ -19,11 +19,11 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **unscaled**:
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 - **state_modifiers**:
   - **unscaled**:
-    - `state_infrastructure_add` = `10`
-    - `building_urban_center_throughput_add` = `0.05` → [[vanilla/Здания/Городские центры|Городские центры]]
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.05` → [[vanilla/Здания/Городские центры|Городские центры]]
 
 ## Ссылаются
 

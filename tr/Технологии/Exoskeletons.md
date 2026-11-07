@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/exoskeleton_warfare.dds`
 - **category**: `military`
 - **modifier**:
-  - `country_military_wages_mult` = `0.25`
-  - `country_military_goods_cost_mult` = `0.25`
-  - `unit_army_defense_mult` = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.5`
 - **unlocking_technologies**: [[tr/Технологии/Cyber Warfare|Cyber Warfare]]
 - **ai_weight**: скрипт, строки 1208–1210

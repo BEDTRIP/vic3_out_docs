@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 575–581
 - **possible**: скрипт, строки 582–592
 - **prosperity_modifier**:
-  - `building_motor_industry_throughput_add` = `0.1` → [[tr/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.1` → [[tr/Здания/Моторные заводы|Моторные заводы]]
   - `building_alloys_plant_throughput_add` = `0.05` → [[tr/Здания/Alloys Plants|Alloys Plants]]
-  - `state_standard_of_living_add` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
 - **ai_will_do**: скрипт, строки 598–604
 - **ai_construction_targets**: скрипт, строки 605–612
 - **ai_weight**: скрипт, строки 613–615

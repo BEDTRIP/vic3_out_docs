@@ -18,7 +18,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/yMoG_USU_port
 - **texture**: `gfx/interface/icons/production_method_icons/log_0.dds`
 - **state_modifiers**:
   - **unscaled**:
-    - `building_urban_center_throughput_add` = `0.1` → [[grey_usu/Здания/Городские центры|Городские центры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.1` → [[grey_usu/Здания/Городские центры|Городские центры]]
 
 ## Ссылаются
 

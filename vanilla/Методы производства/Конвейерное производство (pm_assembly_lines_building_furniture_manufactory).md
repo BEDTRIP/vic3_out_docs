@@ -20,14 +20,14 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 - **disallowing_laws**: [[vanilla/Законы/Запрет промышленности|Запрет промышленности]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_oil_add` = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

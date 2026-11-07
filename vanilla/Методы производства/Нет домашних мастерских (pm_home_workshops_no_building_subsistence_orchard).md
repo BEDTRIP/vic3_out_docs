@@ -19,9 +19,9 @@ paths: [.vanillaVIC3/common/production_methods/12_subsistence.txt]
 - **unlocking_laws**: [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_fruit_add` = `0.33` → [[vanilla/Товары/Фрукты|Фрукты]]
-    - `goods_output_fabric_add` = `0.25` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_output_wood_add` = `0.25` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-add|goods_output_fruit_add]] = `0.33` → [[vanilla/Товары/Фрукты|Фрукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-add|goods_output_fabric_add]] = `0.25` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-wood-add|goods_output_wood_add]] = `0.25` → [[vanilla/Товары/Древесина|Древесина]]
 
 ## Ссылаются
 

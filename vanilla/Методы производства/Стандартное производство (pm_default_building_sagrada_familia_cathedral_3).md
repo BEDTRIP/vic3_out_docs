@@ -19,11 +19,11 @@ paths: [.vanillaVIC3/common/production_methods/08_monuments.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `interest_group_ig_devout_pol_str_mult` = `0.1`
-    - `country_prestige_add` = `50`
+    - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `50`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_clergymen_add` = `400` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `400` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
 
 ## Ссылаются
 

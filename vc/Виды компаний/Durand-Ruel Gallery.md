@@ -26,9 +26,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 7243–7249
 - **possible**: скрипт, строки 7251–7261
 - **prosperity_modifier**:
-  - `country_weekly_innovation_max_add` = `10`
-  - `goods_output_paper_mult` = `0.1` → [[vanilla/Товары/Бумага|Бумага]]
-  - `goods_output_fine_art_mult` = `0.1` → [[vanilla/Товары/Картины|Картины]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `10`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-paper-mult|goods_output_paper_mult]] = `0.1` → [[vanilla/Товары/Бумага|Бумага]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-mult|goods_output_fine_art_mult]] = `0.1` → [[vanilla/Товары/Картины|Картины]]
 - **ai_will_do**: скрипт, строки 7269–7274
 - **ai_construction_targets**: скрипт, строки 7276–7283
 - **ai_weight**: скрипт, строки 7285–7287

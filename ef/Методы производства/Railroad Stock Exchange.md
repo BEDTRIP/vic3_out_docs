@@ -19,7 +19,7 @@ paths: [E&F/common/production_methods/16_ef_financial_centre.txt]
 - **unlocking_technologies**: [[ef/Технологии/Financial Center|Financial Center]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_railroad_stock_add` = `1` → [[ef/Товары/Railroad Stock|Railroad Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-railroad-stock-add|goods_input_railroad_stock_add]] = `1` → [[ef/Товары/Railroad Stock|Railroad Stock]]
 
 ## Ссылаются
 

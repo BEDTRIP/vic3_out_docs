@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/be_fruitful_and_multiply.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_legitimacy_headofstate_add` = `10`
-  - `country_radicals_from_conquest_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicals-from-conquest-mult|country_radicals_from_conquest_mult]] = `-0.25`

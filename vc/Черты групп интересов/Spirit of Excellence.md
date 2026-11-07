@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/middle_managers.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_pop_qualifications_mult` = `0.25`
-  - `state_trade_advantage_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.15`

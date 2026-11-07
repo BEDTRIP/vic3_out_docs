@@ -18,10 +18,10 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_04_plantation_
 - **texture**: `gfx/interface/icons/production_method_icons/plantation_production.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_fabric_add` = `25` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-add|goods_output_fabric_add]] = `25` → [[vanilla/Товары/Ткань|Ткань]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1750` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `250` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1750` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `250` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
 
 ## Ссылаются
 

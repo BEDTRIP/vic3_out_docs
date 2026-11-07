@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_usa.txt]
 - **potential**: скрипт, строки 91–96
 - **possible**: скрипт, строки 98–116
 - **prosperity_modifier**:
-  - `building_group_bg_plantations_throughput_add` = `0.2`
-  - `country_infamy_decay_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 123–142
 - **ai_construction_targets**: скрипт, строки 144–160
 - **ai_weight**: скрипт, строки 162–164

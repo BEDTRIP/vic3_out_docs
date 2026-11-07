@@ -36,10 +36,10 @@ replaces: "[[vanilla/Законы/Парламентская республик�
 - **on_activate**: скрипт, строки 302–314
 - **is_visible**: скрипт, строки 316–318
 - **modifier**:
-  - `country_bureaucrats_voting_power_add` = `5`
-  - `country_legitimacy_govt_total_votes_add` = `10`
-  - `country_legitimacy_ideological_incoherence_mult` = `0.25`
-  - `state_pop_pol_str_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-voting-power-add|country_bureaucrats_voting_power_add]] = `5`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-pol-str-add|state_pop_pol_str_add]] = `1`
   - `country_liberal_consciousness_change_add` = `0.05`
   - `country_bpm_labor_consciousness_target_mult` = `-0.35`
 - **ai_will_do**: скрипт, строки 329–337

@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 486–494
 - **possible**: скрипт, строки 496–509
 - **prosperity_modifier**:
-  - `country_production_tech_research_speed_mult` = `0.05`
-  - `building_lead_mine_throughput_add` = `0.1` → [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-lead-mine-throughput-add|building_lead_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
 - **ai_will_do**: скрипт, строки 516–520
 - **ai_construction_targets**: скрипт, строки 522–535
 - **ai_weight**: скрипт, строки 537–539

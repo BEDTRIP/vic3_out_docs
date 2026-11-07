@@ -19,15 +19,15 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_personality_trai
 - **texture**: `gfx/interface/icons/character_trait_icons/imperious.dds`
 - **value**: `2`
 - **character_modifier**:
-  - `character_popularity_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `25`
 - **country_modifier**:
-  - `country_authority_mult` = `0.10`
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **command_modifier**:
-  - `character_command_limit_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-character-command-limit-mult|character_command_limit_mult]] = `0.25`
 - **interest_group_modifier**:
-  - `interest_group_pol_str_mult` = `0.05`
-  - `interest_group_pop_attraction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pol-str-mult|interest_group_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pop-attraction-mult|interest_group_pop_attraction_mult]] = `0.05`
 - **possible**: скрипт, строки 21–23
 - **weight**:
   - `value` = `0`

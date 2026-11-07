@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **unlocking_technologies**: [[tr/Технологии/Prefabricated Concrete Buildings|Prefabricated Concrete Buildings]]
 - **modifier**:
   - `urbanization_per_level_mult` = `0.1`
-  - `building_group_bg_service_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-service-throughput-add|building_group_bg_service_throughput_add]] = `0.1`
 - **ai_weight**: скрипт, строки 772–774
 
 ## Ссылаются

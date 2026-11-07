@@ -19,7 +19,7 @@ paths: [E&F/common/production_methods/15_ef_bank.txt]
 - **unlocking_laws**: [[ef/Законы/Devaluation|Devaluation]]
 - **country_modifiers**:
   - **unscaled**:
-    - `country_minting_mult` = `0.25`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-mult|country_minting_mult]] = `0.25`
 
 ## Ссылаются
 

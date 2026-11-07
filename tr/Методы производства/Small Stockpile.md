@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
     - `goods_input_good_uranium_add` = `100` → [[tr/Товары/Uranium|Uranium]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_from_army_power_projection_mult` = `0.02`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-from-army-power-projection-mult|country_prestige_from_army_power_projection_mult]] = `0.02`
 - **timed_modifiers**: `pm_offense_defense_readjustment`
 
 ## Ссылаются

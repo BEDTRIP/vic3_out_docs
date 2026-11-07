@@ -18,13 +18,13 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_reduction_health_mult` = `-0.2`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.2`
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `50`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `50`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_clerks_add` = `1500` → [[grey_soft_pop/Население/Типы/Служащие|Служащие]]
-    - `building_employment_bureaucrats_add` = `500` → [[grey_soft_pop/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `1500` → [[grey_soft_pop/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `500` → [[grey_soft_pop/Население/Типы/Чиновники|Чиновники]]

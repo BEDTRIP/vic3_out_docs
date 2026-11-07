@@ -25,7 +25,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1867–1873
 - **possible**: скрипт, строки 1875–1885
 - **prosperity_modifier**:
-  - `building_group_bg_oil_extraction_throughput_add` = `0.2`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.2`
 - **ai_will_do**: скрипт, строки 1891–1897
 - **ai_construction_targets**: скрипт, строки 1899–1906
 - **ai_weight**: скрипт, строки 1908–1910

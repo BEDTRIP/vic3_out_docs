@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_italy.txt]
 - **attainable**: скрипт, строки 270–276
 - **possible**: скрипт, строки 278–292
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `unit_army_offense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 299–305
 - **ai_construction_targets**: скрипт, строки 307–320
 - **ai_weight**: скрипт, строки 322–324

@@ -27,7 +27,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **prosperity_modifier**:
   - `goods_output_elgar_instruments_mult` = `0.05` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
   - `goods_output_elgar_music_mult` = `0.05` → [[morgenrote/Товары/Музыка|Музыка]]
-  - `state_radicals_from_political_movements_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 232–237
 - **ai_construction_targets**: скрипт, строки 239–246
 - **ai_weight**: скрипт, строки 248–250

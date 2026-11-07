@@ -18,11 +18,11 @@ paths: [for addon/Hail Columbia/common/character_traits/usfp_character_traits.tx
 - **type**: `personality`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_provisional_president_of_africa.dds`
 - **character_modifier**:
-  - `character_popularity_add` = `-15`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `-15`
 - **command_modifier**: пусто
 - **country_modifier**: пусто
 - **agitator_modifier**:
-  - `political_movement_pop_attraction_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-pop-attraction-mult|political_movement_pop_attraction_mult]] = `0.10`
 - **executive_modifier**: пусто
 - **possible**: пусто
 - **interest_group_modifier**: пусто

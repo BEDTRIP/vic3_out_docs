@@ -19,20 +19,20 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
 - **is_hidden_when_unavailable**: `yes`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `25`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `25`
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_batteries_add` = `1` → [[tr/Товары/Batteries|Batteries]]
-    - `goods_input_engines_add` = `2` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_coal_add` = `4` → [[vanilla/Товары/Уголь|Уголь]]
-    - `goods_input_wood_add` = `4` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `2` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `4` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `4` → [[vanilla/Товары/Древесина|Древесина]]
     - `goods_input_copperwires_add` = `1` → [[tr/Товары/Wires|Wires]]
-    - `goods_output_electricity_add` = `15` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-add|goods_output_electricity_add]] = `15` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_output_global_electricity_add` = `15` → [[tr/Товары/National Electricity|National Electricity]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `325` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `100` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `325` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `100` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **unlocking_laws**: [[tr/Законы/National Electricity System|National Electricity System]]
 
 ## Ссылаются

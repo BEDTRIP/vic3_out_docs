@@ -18,12 +18,12 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_loyalists_from_legitimacy_mult` = `0.1`
-    - `country_authority_add` = `50`
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-loyalists-from-legitimacy-mult|country_loyalists_from_legitimacy_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `50`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

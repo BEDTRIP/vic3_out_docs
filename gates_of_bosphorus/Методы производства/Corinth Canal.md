@@ -18,18 +18,18 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/canals.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `20`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `20`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_coal_add` = `10` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `10` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `100` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_machinists_add` = `100` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_capitalists_add` = `50` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `100` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `100` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `50` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
 
 ## Ссылаются
 

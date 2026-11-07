@@ -19,9 +19,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/main_battle_tank.dds`
 - **category**: `military`
 - **modifier**:
-  - `country_military_wages_mult` = `0.25`
-  - `unit_army_offense_mult` = `0.3`
-  - `unit_army_defense_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.3`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.2`
 - **unlocking_technologies**: [[tr/Технологии/Assault Rifle|Assault Rifle]]
 - **ai_weight**: скрипт, строки 515–523
 

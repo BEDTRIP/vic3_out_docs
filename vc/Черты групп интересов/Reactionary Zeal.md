@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/noble_privileges.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_loyalists_from_political_movements_mult` = `-0.15`
-  - `country_legitimacy_headofstate_add` = `-5`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalists-from-political-movements-mult|state_loyalists_from_political_movements_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `-5`

@@ -39,7 +39,7 @@ replaces: "[[vanilla/Виды компаний/LKAB]]"
 - **attainable**: скрипт, строки 907–913
 - **possible**: скрипт, строки 915–923
 - **prosperity_modifier**:
-  - `building_iron_mine_throughput_add` = `0.2` → [[vanilla/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.2` → [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **ai_will_do**: скрипт, строки 929–934
 - **ai_construction_targets**: скрипт, строки 936–943
 - **ai_weight**: скрипт, строки 945–947

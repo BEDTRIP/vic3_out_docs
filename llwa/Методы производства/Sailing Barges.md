@@ -18,15 +18,15 @@ paths: [llwa/common/production_methods/LLWA_water.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/LLWA_sailing_barges.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_wood_add` = `10` → [[vanilla/Товары/Древесина|Древесина]]
-    - `goods_input_fabric_add` = `5` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_output_transportation_add` = `20` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `10` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `5` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `20` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `800` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_shopkeepers_add` = `200` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `800` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `200` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `20`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `20`
 
 ## Ссылаются
 

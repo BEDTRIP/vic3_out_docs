@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/machine_learning.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Neuroscience|Neuroscience]], [[tr/Технологии/Digital Infrastructure|Digital Infrastructure]], [[tr/Технологии/Software Dev Paradigms|Software Dev Paradigms]]
 - **ai_weight**: скрипт, строки 816–816
 

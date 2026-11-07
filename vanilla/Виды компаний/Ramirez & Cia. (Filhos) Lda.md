@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 577–585
 - **possible**: скрипт, строки 587–601
 - **prosperity_modifier**:
-  - `country_production_tech_spread_mult` = `0.1`
-  - `state_trade_advantage_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 608–612
 - **ai_construction_targets**: скрипт, строки 614–627
 - **ai_weight**: скрипт, строки 629–631

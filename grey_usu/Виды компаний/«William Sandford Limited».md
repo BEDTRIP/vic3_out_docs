@@ -21,5 +21,5 @@ replaces: "[[vanilla/Виды компаний/«William Sandford Limited»]]"
 ## Поля
 
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `-0.15` → [[grey_usu/Здания/Железнодорожный терминал|Железнодорожный терминал]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `-0.15` → [[grey_usu/Здания/Железнодорожный терминал|Железнодорожный терминал]]
   - `building_group_bg_usu_rail_infrastructure_throughput_add` = `0.15`

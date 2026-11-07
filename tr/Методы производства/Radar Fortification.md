@@ -19,22 +19,22 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **unlocking_technologies**: [[tr/Технологии/Radar|Radar]]
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_fortification_naval_invasion_add` = `700`
-    - `state_fortification_naval_battle_mult` = `0.25`
-    - `state_fortification_bombardment_resistance_add` = `2500`
-    - `state_blockade_resistance_add` = `275`
+    - [[vanilla/движок/Модификаторы S#^m-state-fortification-naval-invasion-add|state_fortification_naval_invasion_add]] = `700`
+    - [[vanilla/движок/Модификаторы S#^m-state-fortification-naval-battle-mult|state_fortification_naval_battle_mult]] = `0.25`
+    - [[vanilla/движок/Модификаторы S#^m-state-fortification-bombardment-resistance-add|state_fortification_bombardment_resistance_add]] = `2500`
+    - [[vanilla/движок/Модификаторы S#^m-state-blockade-resistance-add|state_blockade_resistance_add]] = `275`
   - **unscaled**:
-    - `state_control_strait_bool` = `yes`
+    - [[vanilla/движок/Модификаторы S#^m-state-control-strait-bool|state_control_strait_bool]] = `yes`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_artillery_add` = `6` → [[vanilla/Товары/Артиллерия|Артиллерия]]
-    - `goods_input_ammunition_add` = `8` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
-    - `goods_input_steel_add` = `10` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_input_radios_add` = `4` → [[vanilla/Товары/Радио|Радио]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-artillery-add|goods_input_artillery_add]] = `6` → [[vanilla/Товары/Артиллерия|Артиллерия]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-ammunition-add|goods_input_ammunition_add]] = `8` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `10` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-radios-add|goods_input_radios_add]] = `4` → [[vanilla/Товары/Радио|Радио]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_soldiers_add` = `700` → [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]]
-    - `building_employment_officers_add` = `200` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-soldiers-add|building_employment_soldiers_add]] = `700` → [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-officers-add|building_employment_officers_add]] = `200` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/keynesian_economics.dds`
 - **category**: `society`
 - **modifier**:
-  - `state_capitalists_investment_pool_efficiency_mult` = `-0.1`
-  - `country_max_weekly_construction_progress_add` = `40`
-  - `country_authority_mult` = `0.1`
-  - `state_political_strength_from_wealth_mult` = `-0.15`
-  - `state_dependent_wage_mult` = `0.25`
-  - `building_minimum_wage_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-efficiency-mult|state_capitalists_investment_pool_efficiency_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-weekly-construction-progress-add|country_max_weekly_construction_progress_add]] = `40`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-political-strength-from-wealth-mult|state_political_strength_from_wealth_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-dependent-wage-mult|state_dependent_wage_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-minimum-wage-mult|building_minimum_wage_mult]] = `0.25`
 - **unlocking_technologies**: [[vanilla/Технологии/Бихевиоризм|Бихевиоризм]], [[vanilla/Технологии/Макроэкономика|Макроэкономика]]
 - **ai_weight**: скрипт, строки 69–71
 

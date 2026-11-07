@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **attainable**: скрипт, строки 491–497
 - **possible**: скрипт, строки 499–508
 - **prosperity_modifier**:
-  - `country_state_religion_wages_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-state-religion-wages-mult|country_state_religion_wages_mult]] = `0.2`
 - **ai_will_do**: скрипт, строки 514–519
 - **ai_construction_targets**: скрипт, строки 521–528
 - **ai_weight**: скрипт, строки 530–532

@@ -19,13 +19,13 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_societ
 - **texture**: `gfx/interface/icons/invention_icons/dubois_genetics_tech.dds`
 - **category**: `society`
 - **modifier**:
-  - `state_mortality_mult` = `-0.025`
-  - `building_group_bg_agriculture_throughput_add` = `0.1`
-  - `building_group_bg_ranching_throughput_add` = `0.1`
-  - `building_group_bg_plantations_throughput_add` = `0.1`
-  - `goods_output_grain_mult` = `0.05` → [[vanilla/Товары/Зерно|Зерно]]
-  - `goods_output_fruit_mult` = `0.05` → [[vanilla/Товары/Фрукты|Фрукты]]
-  - `goods_output_sugar_mult` = `0.05` → [[vanilla/Товары/Сахар|Сахар]]
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.025`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-throughput-add|building_group_bg_ranching_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-mult|goods_output_grain_mult]] = `0.05` → [[vanilla/Товары/Зерно|Зерно]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-mult|goods_output_fruit_mult]] = `0.05` → [[vanilla/Товары/Фрукты|Фрукты]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-sugar-mult|goods_output_sugar_mult]] = `0.05` → [[vanilla/Товары/Сахар|Сахар]]
 - **unlocking_technologies**: [[tr/Технологии/Nature Protection|Nature Protection]]
 - **ai_weight**: скрипт, строки 122–132
 

@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/railroad_expansion.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_railway_throughput_add` = `0.10` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `state_colony_growth_creation_factor` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.10` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-creation-factor|state_colony_growth_creation_factor]] = `0.05`

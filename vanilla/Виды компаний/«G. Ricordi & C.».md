@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_italy.txt]
 - **attainable**: скрипт, строки 199–205
 - **possible**: скрипт, строки 207–216
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.15`
-  - `state_loyalists_from_political_movements_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalists-from-political-movements-mult|state_loyalists_from_political_movements_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 223–228
 - **ai_construction_targets**: скрипт, строки 230–237
 - **ai_weight**: скрипт, строки 239–241

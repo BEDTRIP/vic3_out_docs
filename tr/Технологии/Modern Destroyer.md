@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **modifier**:
   - `unit_navy_offense_mult` = `0.15`
   - `unit_navy_defense_mult` = `0.2`
-  - `country_military_wages_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.15`
 - **unlocking_technologies**: [[tr/Технологии/Авианосец|Авианосец]], [[vanilla/Технологии/Современная тактика военного флота|Современная тактика военного флота]], [[tr/Технологии/Military Encryption|Military Encryption]]
 - **ai_weight**: скрипт, строки 725–733
 

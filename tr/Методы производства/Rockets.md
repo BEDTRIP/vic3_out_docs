@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **unlocking_technologies**: [[tr/Технологии/Rocketry|Rocketry]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_steel_add` = `10` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `10` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_alloys_add` = `10` → [[tr/Товары/Alloys|Alloys]]
     - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_input_engines_add` = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_output_ammunition_add` = `35` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-ammunition-add|goods_output_ammunition_add]] = `35` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
 
 ## Ссылаются
 

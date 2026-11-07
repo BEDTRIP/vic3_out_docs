@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_loyalism_increases_full_acceptance_mult` = `0.05`
-  - `country_loyalists_from_legitimacy_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalism-increases-full-acceptance-mult|state_loyalism_increases_full_acceptance_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalists-from-legitimacy-mult|country_loyalists_from_legitimacy_mult]] = `0.05`

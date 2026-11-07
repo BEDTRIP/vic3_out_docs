@@ -18,10 +18,10 @@ paths: [grey_add_alot_of_things/grey_food_2_ranch/common/production_methods/zmog
 - **texture**: `gfx/interface/icons/production_method_icons/no_refrigeration.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_food_industry_throughput_add` = `0.005` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+    - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.005` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_transportation_add` = `1` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `1` → [[vanilla/Товары/Перевозка|Перевозка]]
 
 ## Ссылаются
 

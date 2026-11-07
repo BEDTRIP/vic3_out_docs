@@ -26,7 +26,7 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **possible**: скрипт, строки 149–159
 - **ai_will_do**: скрипт, строки 160–166
 - **prosperity_modifier**:
-  - `building_power_plant_throughput_add` = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
-  - `country_authority_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.1`
 - **ai_construction_targets**: скрипт, строки 171–179
 - **ai_weight**: скрипт, строки 180–182

@@ -18,7 +18,7 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/farmers_markets.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.1`
-  - `building_group_bg_plantations_throughput_add` = `0.1`
-  - `building_group_bg_ranching_throughput_add` = `0.1`
-  - `goods_output_grain_mult` = `0.1` → [[vanilla/Товары/Зерно|Зерно]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-throughput-add|building_group_bg_ranching_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-mult|goods_output_grain_mult]] = `0.1` → [[vanilla/Товары/Зерно|Зерно]]

@@ -18,10 +18,10 @@ paths: [.vanillaVIC3/common/production_methods/04_plantations.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/plantation_production.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_fruit_add` = `35` → [[vanilla/Товары/Фрукты|Фрукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-add|goods_output_fruit_add]] = `35` → [[vanilla/Товары/Фрукты|Фрукты]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `5000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `5000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
 
 ## Ссылаются
 

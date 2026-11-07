@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_italy.txt]
 - **attainable**: скрипт, строки 350–356
 - **possible**: скрипт, строки 358–368
 - **prosperity_modifier**:
-  - `ship_armor_mult` = `0.025`
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.025`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.15`
 - **ai_will_do**: скрипт, строки 375–381
 - **ai_construction_targets**: скрипт, строки 383–390
 - **ai_weight**: скрипт, строки 392–394

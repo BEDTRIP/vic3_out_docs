@@ -20,15 +20,15 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_environmental_policy.txt]
 - **progressiveness**: `50`
 - **unlocking_technologies**: [[tr/Технологии/Counterculture|Counterculture]]
 - **modifier**:
-  - `building_group_bg_mining_throughput_add` = `-0.05`
-  - `building_group_bg_extraction_throughput_add` = `-0.05`
-  - `building_group_bg_heavy_industry_throughput_add` = `-0.01`
-  - `building_group_bg_light_industry_throughput_add` = `-0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-extraction-throughput-add|building_group_bg_extraction_throughput_add]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-heavy-industry-throughput-add|building_group_bg_heavy_industry_throughput_add]] = `-0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-light-industry-throughput-add|building_group_bg_light_industry_throughput_add]] = `-0.01`
 - **ai_enact_weight_modifier**: скрипт, строки 40–47
 - **institution**: `institution_environmental_policy`
 - **institution_modifier**:
-  - `state_pollution_reduction_health_mult` = `-0.05`
-  - `state_turmoil_effects_mult` = `-0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.01`
 - **on_activate**: скрипт, строки 55–57
 
 ## Ссылаются

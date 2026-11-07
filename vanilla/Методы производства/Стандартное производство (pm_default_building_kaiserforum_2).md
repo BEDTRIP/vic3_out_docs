@@ -19,7 +19,7 @@ paths: [.vanillaVIC3/common/production_methods/08_monuments.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 
 ## Ссылаются
 

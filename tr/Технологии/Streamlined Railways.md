@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_produc
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Thermal Cracking|Thermal Cracking]]
 - **modifier**:
-  - `building_railway_throughput_add` = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
 - **ai_weight**: скрипт, строки 167–169
 
 ## Ссылаются

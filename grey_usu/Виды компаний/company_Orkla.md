@@ -26,7 +26,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 2705–2714
 - **possible**: скрипт, строки 2716–2729
 - **prosperity_modifier**:
-  - `building_steel_mill_throughput_add` = `0.08` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.08` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 2736–2742
 - **ai_construction_targets**: скрипт, строки 2744–2751
 - **ai_weight**: скрипт, строки 2752–2754

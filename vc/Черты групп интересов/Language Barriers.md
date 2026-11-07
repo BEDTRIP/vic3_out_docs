@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/materiel_waste.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `unit_morale_recovery_mult` = `-0.1`
-  - `unit_morale_loss_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `0.15`

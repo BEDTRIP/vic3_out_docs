@@ -19,8 +19,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/mMoG_USU_MR_e
 - **unlocking_technologies**: `elgar_classicism_tech`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_wood_add` = `10` → [[grey_usu/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `10` → [[grey_usu/Товары/Древесина|Древесина]]
     - `goods_output_elgar_instruments_add` = `20`
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]

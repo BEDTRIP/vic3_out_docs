@@ -19,16 +19,16 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/E-Commerce|E-Commerce]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_glass_add` = `2` → [[vanilla/Товары/Стекло|Стекло]]
-    - `goods_input_steel_add` = `1` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-glass-add|goods_input_glass_add]] = `2` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `1` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_telecommunications_add` = `1` → [[tr/Товары/Telecommunications|Telecommunications]]
-    - `goods_input_electricity_add` = `1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `1` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_on_demand_goods_add` = `1` → [[tr/Товары/On-Demand Goods|On-Demand Goods]]
-    - `goods_output_services_add` = `35` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `35` → [[vanilla/Товары/Услуги|Услуги]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_clerks_add` = `750` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_shopkeepers_add` = `250` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `750` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `250` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

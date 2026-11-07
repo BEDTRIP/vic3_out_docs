@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/pious_fiction.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_education_access_add` = `-0.1`
-  - `country_bureaucracy_investment_cost_factor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `0.05`

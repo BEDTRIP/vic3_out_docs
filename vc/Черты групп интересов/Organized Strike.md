@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/work_to_rule.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `building_group_bg_mining_throughput_add` = `-0.1`
-  - `building_group_bg_manufacturing_throughput_add` = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-manufacturing-throughput-add|building_group_bg_manufacturing_throughput_add]] = `-0.1`

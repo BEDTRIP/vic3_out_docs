@@ -18,8 +18,8 @@ paths: [Morgenrote/common/production_methods/mr_sports_vikelas_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/vikelas_sports_stadium.dds`
 - **country_modifiers**:
   - **level_scaled**:
-    - `country_prestige_add` = `10`
-    - `country_influence_add` = `100`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `10`
+    - [[vanilla/движок/Модификаторы C#^m-country-influence-add|country_influence_add]] = `100`
 
 ## Ссылаются
 

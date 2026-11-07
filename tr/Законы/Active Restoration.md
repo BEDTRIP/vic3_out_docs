@@ -20,17 +20,17 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_environmental_policy.txt]
 - **progressiveness**: `100`
 - **unlocking_technologies**: [[tr/Технологии/Circular Economy|Circular Economy]]
 - **modifier**:
-  - `building_group_bg_mining_throughput_add` = `-0.1`
-  - `building_group_bg_extraction_throughput_add` = `-0.1`
-  - `building_group_bg_heavy_industry_throughput_add` = `-0.02`
-  - `building_group_bg_light_industry_throughput_add` = `-0.02`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-extraction-throughput-add|building_group_bg_extraction_throughput_add]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-heavy-industry-throughput-add|building_group_bg_heavy_industry_throughput_add]] = `-0.02`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-light-industry-throughput-add|building_group_bg_light_industry_throughput_add]] = `-0.02`
 - **ai_enact_weight_modifier**: скрипт, строки 78–85
 - **institution**: `institution_environmental_policy`
 - **institution_modifier**:
-  - `state_pollution_reduction_health_mult` = `-0.1`
-  - `state_mortality_mult` = `-0.005`
-  - `state_turmoil_effects_mult` = `-0.02`
-  - `interest_group_ig_industrialists_pol_str_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.005`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.02`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `-0.1`
 - **on_activate**: скрипт, строки 95–97
 
 ## Ссылаются

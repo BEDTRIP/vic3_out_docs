@@ -25,5 +25,5 @@ replaces: "[[vanilla/Виды компаний/LKAB]]"
 - **building_types**: [[tr/Здания/Copper Mines|Copper Mines]]
 - **extension_building_types**: [[tr/Здания/Common Ores Mines|Common Ores Mines]], [[tr/Здания/Alloys Plants|Alloys Plants]], [[tr/Здания/Bauxite Mines|Bauxite Mines]]
 - **prosperity_modifier**:
-  - `building_iron_mine_throughput_add` = `-0.1` → [[tr/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `-0.1` → [[tr/Здания/Железные рудники|Железные рудники]]
   - `building_copper_mine_throughput_add` = `0.1` → [[tr/Здания/Copper Mines|Copper Mines]]

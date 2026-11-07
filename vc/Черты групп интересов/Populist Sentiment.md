@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/xenophobia.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_law_enactment_speed_mult` = `-0.15`
-  - `country_legitimacy_govt_total_clout_add` = `-10`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `-10`

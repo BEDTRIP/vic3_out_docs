@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/old_ways.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_loyalists_from_political_movements_mult` = `-0.1`
-  - `state_radicals_from_political_movements_mult` = `0.1`
-  - `state_conscription_rate_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalists-from-political-movements-mult|state_loyalists_from_political_movements_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-conscription-rate-mult|state_conscription_rate_mult]] = `-0.15`

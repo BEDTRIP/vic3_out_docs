@@ -23,12 +23,12 @@ paths: [VC/common/laws/joi_policing.txt]
 - **is_visible**: скрипт, строки 13–18
 - **can_enact**: скрипт, строки 20–25
 - **modifier**:
-  - `country_institution_police_max_investment_add` = `2`
-  - `country_institution_cost_institution_police_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-police-max-investment-add|country_institution_police_max_investment_add]] = `2`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-police-mult|country_institution_cost_institution_police_mult]] = `-0.25`
 - **institution**: `institution_police`
 - **institution_modifier**:
-  - `state_radicals_from_political_movements_mult` = `-0.05`
-  - `state_tax_capacity_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-mult|state_tax_capacity_mult]] = `0.02`
 - **can_impose**: скрипт, строки 38–49
 - **ai_will_do**: скрипт, строки 51–53
 - **ai_enact_weight_modifier**: скрипт, строки 55–57

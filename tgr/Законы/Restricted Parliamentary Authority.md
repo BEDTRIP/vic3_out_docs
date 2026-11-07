@@ -19,10 +19,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 - **icon**: `gfx/interface/icons/law_icons/noseperation.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `country_legitimacy_govt_total_votes_add` = `-25`
-  - `country_legitimacy_govt_total_clout_add` = `25`
-  - `country_law_enactment_stall_mult` = `-0.10`
-  - `political_movement_radicalism_from_enactment_disapproval_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `-25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `25`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-stall-mult|country_law_enactment_stall_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-from-enactment-disapproval-mult|political_movement_radicalism_from_enactment_disapproval_mult]] = `0.20`
 - **disallowing_laws**: [[tgr/Законы/Всеобщее избирательное право|Всеобщее избирательное право]], [[tgr/Законы/Анархия|Анархия]]
 - **unlocking_laws**: пусто
 - **on_enact**: пусто

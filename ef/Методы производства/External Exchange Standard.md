@@ -20,14 +20,14 @@ paths: [E&F/common/production_methods/15_ef_bank.txt]
 - **unlocking_laws**: [[ef/Законы/External Exchange Standard|External Exchange Standard]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `25` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clerks_add` = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `25` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `2` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_output_bond_add` = `10` → [[ef/Товары/Bond|Bond]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `2` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-bond-add|goods_output_bond_add]] = `10` → [[ef/Товары/Bond|Bond]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_minting_add` = `1000`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `1000`
 
 ## Ссылаются
 

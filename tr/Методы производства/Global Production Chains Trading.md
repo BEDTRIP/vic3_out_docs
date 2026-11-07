@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Naval Logistic Automation|Naval Logistic Automation]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_merchant_marine_add` = `8` → [[vanilla/Товары/Торговые корабли|Торговые корабли]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-merchant-marine-add|goods_input_merchant_marine_add]] = `8` → [[vanilla/Товары/Торговые корабли|Торговые корабли]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `-200` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `-200` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 - **state_modifiers**:
   - **unscaled**:
-    - `state_trade_quantity_mult` = `1.5`
+    - [[vanilla/движок/Модификаторы S#^m-state-trade-quantity-mult|state_trade_quantity_mult]] = `1.5`
 
 ## Ссылаются
 

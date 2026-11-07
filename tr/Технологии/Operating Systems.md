@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/operating_systems.dds`
 - **category**: `society`
 - **modifier**:
-  - `building_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Software Dev Paradigms|Software Dev Paradigms]]
 - **modifier**: пусто
 - **ai_weight**: скрипт, строки 867–869

@@ -18,19 +18,19 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **texture**: `gfx/interface/icons/production_method_icons/mechanical_harvesting.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_technologies**: [[tr/Технологии/Heavy Machinery|Heavy Machinery]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `20` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_fertilizer_add` = `5` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `20` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `5` → [[vanilla/Товары/Удобрение|Удобрение]]
     - `goods_input_light_fuel_add` = `2` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_input_steel_add` = `5` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_output_coffee_add` = `75` → [[vanilla/Товары/Кофе|Кофе]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `5` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-coffee-add|goods_output_coffee_add]] = `75` → [[vanilla/Товары/Кофе|Кофе]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

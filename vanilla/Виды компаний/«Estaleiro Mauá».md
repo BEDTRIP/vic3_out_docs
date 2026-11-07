@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **attainable**: скрипт, строки 111–117
 - **possible**: скрипт, строки 119–131
 - **prosperity_modifier**:
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.1`
-  - `building_steel_mill_throughput_add` = `0.1` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 138–143
 - **ai_construction_targets**: скрипт, строки 145–158
 - **ai_weight**: скрипт, строки 160–162

@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_japan.txt]
 - **potential**: скрипт, строки 110–112
 - **possible**: скрипт, строки 114–128
 - **prosperity_modifier**:
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.1`
-  - `building_automotive_industry_throughput_add` = `0.1` → [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **ai_will_do**: скрипт, строки 135–145
 - **ai_construction_targets**: скрипт, строки 147–154
 - **ai_weight**: скрипт, строки 156–158

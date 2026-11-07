@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **attainable**: скрипт, строки 976–982
 - **possible**: скрипт, строки 984–993
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_mult` = `0.1`
-  - `building_food_industry_throughput_add` = `0.1` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-mult|state_infrastructure_from_population_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **ai_will_do**: скрипт, строки 1000–1005
 - **ai_construction_targets**: скрипт, строки 1007–1014
 - **ai_weight**: скрипт, строки 1016–1018

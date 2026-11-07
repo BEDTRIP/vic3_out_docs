@@ -27,8 +27,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 796–802
 - **possible**: скрипт, строки 804–814
 - **prosperity_modifier**:
-  - `state_infrastructure_mult` = `0.06`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.06`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 822–828
 - **ai_construction_targets**: скрипт, строки 830–837
 - **ai_weight**: скрипт, строки 838–840

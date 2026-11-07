@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/veteran_consultation.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_military_tech_research_speed_mult` = `0.1`
-  - `ship_crew_damage_mult` = `0.05`
-  - `ship_hull_damage_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-tech-research-speed-mult|country_military_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-crew-damage-mult|ship_crew_damage_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.05`

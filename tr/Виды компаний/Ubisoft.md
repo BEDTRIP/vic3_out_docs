@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_digital_media_industry.txt]
 - **attainable**: скрипт, строки 226–233
 - **possible**: скрипт, строки 234–244
 - **prosperity_modifier**:
-  - `building_art_academy_throughput_add` = `0.05` → [[tr/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.05` → [[tr/Здания/Академии искусств|Академии искусств]]
   - `building_telecommunications_industry_throughput_add` = `0.05` → [[tr/Здания/Telecommunications Plants|Telecommunications Plants]]
 - **ai_will_do**: скрипт, строки 249–255
 - **ai_construction_targets**: скрипт, строки 256–263

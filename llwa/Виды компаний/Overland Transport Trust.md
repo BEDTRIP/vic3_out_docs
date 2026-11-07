@@ -30,8 +30,8 @@ paths: [llwa/common/company_types/LLWA_companies.txt]
   - `always` = `yes`
 - **possible**: скрипт, строки 38–49
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_mult` = `0.05`
-  - `state_infrastructure_from_population_max_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-mult|state_infrastructure_from_population_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-mult|state_infrastructure_from_population_max_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 56–70
 - **ai_construction_targets**: скрипт, строки 72–94
 - **ai_weight**: скрипт, строки 96–98

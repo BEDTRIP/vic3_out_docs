@@ -1,0 +1,437 @@
+---
+type: reference
+description: "Справочник движка Victoria 3 1.13: Модификаторы G — 425, из дампа script_docs"
+project: vic3
+source: vanilla
+tags: [ваниль, движок]
+generated: "v3 graph engine"
+---
+# Модификаторы G
+
+Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+
+- **goods_input_aeroplanes_add** — Потребление aeroplanes! аэропланов · Количество aeroplanes! аэропланов, потребляемых сооружениями. · mask: goods ^m-goods-input-aeroplanes-add
+- **goods_input_aeroplanes_mult** — mask: goods ^m-goods-input-aeroplanes-mult
+- **goods_input_agricultural_stock_add** — Потребление акций сельского хозяйства · Потребление акций сельского хозяйства · mask: goods ^m-goods-input-agricultural-stock-add
+- **goods_input_agricultural_stock_mult** — Накопление акций сельского хозяйства · Накопление акций сельского хозяйства · mask: goods ^m-goods-input-agricultural-stock-mult
+- **goods_input_ammunition_add** — Потребление ammunition! боеприпасов · Количество ammunition! боеприпасов, потребляемых сооружениями. · mask: goods ^m-goods-input-ammunition-add
+- **goods_input_ammunition_mult** — Потребление ammunition! боеприпасов · Количество ammunition! боеприпасов, потребляемых сооружениями. · mask: goods ^m-goods-input-ammunition-mult
+- **goods_input_arc_welded_construction_add** — Потребление arc_welded_construction! Сварные стройматериалы · Количество arc_welded_construction! Сварных стройматериалов, потребляемых зданиями · mask: goods ^m-goods-input-arc-welded-construction-add
+- **goods_input_arc_welded_construction_mult** — mask: goods ^m-goods-input-arc-welded-construction-mult
+- **goods_input_artillery_add** — Потребление artillery! артиллерии · Количество artillery! артиллерии, потребляемой сооружениями. · mask: goods ^m-goods-input-artillery-add
+- **goods_input_artillery_mult** — Потребление artillery! артиллерии · Количество artillery! артиллерии, потребляемой сооружениями. · mask: goods ^m-goods-input-artillery-mult
+- **goods_input_automobiles_add** — Потребление automobiles! автомобилей · Количество automobiles! автомобилей, потребляемых сооружениями. · mask: goods ^m-goods-input-automobiles-add
+- **goods_input_automobiles_mult** — mask: goods ^m-goods-input-automobiles-mult
+- **goods_input_bond_add** — Потребление облигаций · Потребление облигаций · mask: goods ^m-goods-input-bond-add
+- **goods_input_bond_mult** — Накопление облигаций · Накопление облигаций · mask: goods ^m-goods-input-bond-mult
+- **goods_input_clippers_add** — Потребление clippers! клиперов · Количество clippers! клиперов, потребляемых сооружениями. · mask: goods ^m-goods-input-clippers-add
+- **goods_input_clippers_mult** — mask: goods ^m-goods-input-clippers-mult
+- **goods_input_clothes_add** — Потребление clothes! одежды · Количество clothes! одежды, потребляемой сооружениями. · mask: goods ^m-goods-input-clothes-add
+- **goods_input_clothes_mult** — mask: goods ^m-goods-input-clothes-mult
+- **goods_input_coal_add** — Потребление coal! угля · Количество coal! угля, потребляемого сооружениями. · mask: goods ^m-goods-input-coal-add
+- **goods_input_coal_mult** — mask: goods ^m-goods-input-coal-mult
+- **goods_input_coffee_add** — mask: goods ^m-goods-input-coffee-add
+- **goods_input_coffee_mult** — mask: goods ^m-goods-input-coffee-mult
+- **goods_input_dinar_algerian_dinar_c_add** — Потребление алжирского динара · goods_input_dinar_algerian_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-algerian-dinar-c-add
+- **goods_input_dinar_c_add** — Потребление динара · goods_input_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-c-add
+- **goods_input_dinar_iraqi_dinar_c_add** — Потребление иракского динара · goods_input_dinar_iraqi_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-iraqi-dinar-c-add
+- **goods_input_dinar_libyan_dinar_c_add** — Потребление ливийского динара · goods_input_dinar_libyan_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-libyan-dinar-c-add
+- **goods_input_dinar_moroccan_dirham_c_add** — Потребление марокканского дирхама · goods_input_dinar_moroccan_dirham_c_add_desc · mask: goods ^m-goods-input-dinar-moroccan-dirham-c-add
+- **goods_input_dinar_omanian_rial_c_add** — Потребление оманского риала · goods_input_dinar_omanian_rial_c_add_desc · mask: goods ^m-goods-input-dinar-omanian-rial-c-add
+- **goods_input_dinar_qiran_c_add** — Потребление кирана · goods_input_dinar_qiran_c_add_desc · mask: goods ^m-goods-input-dinar-qiran-c-add
+- **goods_input_dinar_saudi_riyal_c_add** — Потребление саудовского рияла · goods_input_dinar_saudi_riyal_c_add_desc · mask: goods ^m-goods-input-dinar-saudi-riyal-c-add
+- **goods_input_dinar_serbian_dinar_c_add** — Потребление сербского динара · goods_input_dinar_serbian_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-serbian-dinar-c-add
+- **goods_input_dinar_tunisian_dinar_c_add** — Потребление тунисского динара · goods_input_dinar_tunisian_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-tunisian-dinar-c-add
+- **goods_input_dinar_yugoslav_dinar_c_add** — Потребление югославского динара · goods_input_dinar_yugoslav_dinar_c_add_desc · mask: goods ^m-goods-input-dinar-yugoslav-dinar-c-add
+- **goods_input_dollar_australian_dollar_c_add** — Потребление австралийского доллара · goods_input_dollar_australian_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-australian-dollar-c-add
+- **goods_input_dollar_canadian_dollar_c_add** — Потребление канадского доллара · goods_input_dollar_canadian_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-canadian-dollar-c-add
+- **goods_input_dollar_caribbean_dollar_c_add** — Потребление карибского доллара · goods_input_dollar_caribbean_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-caribbean-dollar-c-add
+- **goods_input_dollar_confederate_states_dollar_c_add** — Потребление доллара Конфедерации · goods_input_dollar_confederate_states_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-confederate-states-dollar-c-add
+- **goods_input_dollar_liberian_dollar_c_add** — Потребление либерийского доллара · goods_input_dollar_liberian_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-liberian-dollar-c-add
+- **goods_input_dollar_new_zealand_dollar_c_add** — Потребление новозеландского доллара · goods_input_dollar_new_zealand_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-new-zealand-dollar-c-add
+- **goods_input_dollar_sierra_leonean_dollar_c_add** — Потребление доллара Сьерра-Леоне · goods_input_dollar_sierra_leonean_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-sierra-leonean-dollar-c-add
+- **goods_input_dollar_united_states_dollar_c_add** — Потребление доллара США · goods_input_dollar_united_states_dollar_c_add_desc · mask: goods ^m-goods-input-dollar-united-states-dollar-c-add
+- **goods_input_dye_add** — Потребление dye! красителей · Количество dye! красителей, потребляемых сооружениями. · mask: goods ^m-goods-input-dye-add
+- **goods_input_dye_mult** — mask: goods ^m-goods-input-dye-mult
+- **goods_input_eco_ariary_c_add** — Потребление ариари · goods_input_eco_ariary_c_add_desc · mask: goods ^m-goods-input-eco-ariary-c-add
+- **goods_input_eco_central_african_eco_c_add** — Потребление центральноафриканского эко · goods_input_eco_central_african_eco_c_add_desc · mask: goods ^m-goods-input-eco-central-african-eco-c-add
+- **goods_input_eco_east_african_eco_c_add** — Потребление восточноафриканского эко · goods_input_eco_east_african_eco_c_add_desc · mask: goods ^m-goods-input-eco-east-african-eco-c-add
+- **goods_input_eco_ethiopian_birr_c_add** — Потребление эфиопского быра · goods_input_eco_ethiopian_birr_c_add_desc · mask: goods ^m-goods-input-eco-ethiopian-birr-c-add
+- **goods_input_eco_ghanaian_pound_c_add** — Потребление ганского фунта · goods_input_eco_ghanaian_pound_c_add_desc · mask: goods ^m-goods-input-eco-ghanaian-pound-c-add
+- **goods_input_eco_nigerian_naira_c_add** — Потребление нигерийской найры · goods_input_eco_nigerian_naira_c_add_desc · mask: goods ^m-goods-input-eco-nigerian-naira-c-add
+- **goods_input_eco_south_african_rand_c_add** — Потребление южноафриканского ранда · goods_input_eco_south_african_rand_c_add_desc · mask: goods ^m-goods-input-eco-south-african-rand-c-add
+- **goods_input_eco_tuareg_ouguiya_c_add** — Потребление туарегской угии · goods_input_eco_tuareg_ouguiya_c_add_desc · mask: goods ^m-goods-input-eco-tuareg-ouguiya-c-add
+- **goods_input_eco_west_african_eco_c_add** — Потребление западноафриканского эко · goods_input_eco_west_african_eco_c_add_desc · mask: goods ^m-goods-input-eco-west-african-eco-c-add
+- **goods_input_electricity_add** — Потребление electricity! электричества · Количество electricity! электричества, потребляемого сооружениями. · mask: goods ^m-goods-input-electricity-add
+- **goods_input_electricity_mult** — mask: goods ^m-goods-input-electricity-mult
+- **goods_input_engines_add** — Потребление engines! двигателей · Количество engines! двигателей, потребляемых сооружениями. · mask: goods ^m-goods-input-engines-add
+- **goods_input_engines_mult** — mask: goods ^m-goods-input-engines-mult
+- **goods_input_explosives_add** — Потребление explosives! взрывчатки · Количество explosives! взрывчатки, потребляемой сооружениями. · mask: goods ^m-goods-input-explosives-add
+- **goods_input_explosives_mult** — mask: goods ^m-goods-input-explosives-mult
+- **goods_input_fabric_add** — Потребление fabric! ткани · Количество fabric! ткани, потребляемой сооружениями. · mask: goods ^m-goods-input-fabric-add
+- **goods_input_fabric_mult** — mask: goods ^m-goods-input-fabric-mult
+- **goods_input_fertilizer_add** — Потребление fertilizer! удобрений · Количество fertilizer! удобрений, потребляемых сооружениями. · mask: goods ^m-goods-input-fertilizer-add
+- **goods_input_fertilizer_mult** — mask: goods ^m-goods-input-fertilizer-mult
+- **goods_input_fine_art_add** — mask: goods ^m-goods-input-fine-art-add
+- **goods_input_fine_art_mult** — mask: goods ^m-goods-input-fine-art-mult
+- **goods_input_fish_add** — Потребление fish! рыбы · Количество fish! рыбы, потребляемой сооружениями. · mask: goods ^m-goods-input-fish-add
+- **goods_input_fish_mult** — mask: goods ^m-goods-input-fish-mult
+- **goods_input_franc_belgian_franc_c_add** — Потребление бельгийского франка · goods_input_franc_belgian_franc_c_add_desc · mask: goods ^m-goods-input-franc-belgian-franc-c-add
+- **goods_input_franc_french_franc_c_add** — Потребление французского франка · goods_input_franc_french_franc_c_add_desc · mask: goods ^m-goods-input-franc-french-franc-c-add
+- **goods_input_franc_luxembourgish_franc_c_add** — Потребление люксембургского франка · goods_input_franc_luxembourgish_franc_c_add_desc · mask: goods ^m-goods-input-franc-luxembourgish-franc-c-add
+- **goods_input_franc_swiss_franc_c_add** — Потребление швейцарского франка · goods_input_franc_swiss_franc_c_add_desc · mask: goods ^m-goods-input-franc-swiss-franc-c-add
+- **goods_input_fruit_add** — Потребление fruit! фруктов · Количество fruit! фруктов, потребляемых сооружениями. · mask: goods ^m-goods-input-fruit-add
+- **goods_input_fruit_mult** — mask: goods ^m-goods-input-fruit-mult
+- **goods_input_furniture_add** — mask: goods ^m-goods-input-furniture-add
+- **goods_input_furniture_mult** — mask: goods ^m-goods-input-furniture-mult
+- **goods_input_glass_add** — Потребление glass! стекла · Количество glass! стекла, потребляемого сооружениями. · mask: goods ^m-goods-input-glass-add
+- **goods_input_glass_mult** — mask: goods ^m-goods-input-glass-mult
+- **goods_input_gold_add** — goods_input_gold_add · goods_input_gold_add_desc · mask: goods ^m-goods-input-gold-add
+- **goods_input_gold_mult** — goods_input_gold_mult · goods_input_gold_mult_desc · mask: goods ^m-goods-input-gold-mult
+- **goods_input_grain_add** — Потребление grain! зерна · Количество grain! зерна, потребляемого сооружениями. · mask: goods ^m-goods-input-grain-add
+- **goods_input_grain_mult** — mask: goods ^m-goods-input-grain-mult
+- **goods_input_groceries_add** — Потребление groceries! продуктов · Количество groceries! продуктов, потребляемых сооружениями. · mask: goods ^m-goods-input-groceries-add
+- **goods_input_groceries_mult** — mask: goods ^m-goods-input-groceries-mult
+- **goods_input_gulden_bavarian_gulden_c_add** — Потребление баварского гульдена · goods_input_gulden_bavarian_gulden_c_add_desc · mask: goods ^m-goods-input-gulden-bavarian-gulden-c-add
+- **goods_input_gulden_c_add** — Потребление гульдена · goods_input_gulden_c_add_desc · mask: goods ^m-goods-input-gulden-c-add
+- **goods_input_gulden_florin_c_add** — Потребление флорина · goods_input_gulden_florin_c_add_desc · mask: goods ^m-goods-input-gulden-florin-c-add
+- **goods_input_gulden_hungarian_forint_c_add** — Потребление венгерского форинта · goods_input_gulden_hungarian_forint_c_add_desc · mask: goods ^m-goods-input-gulden-hungarian-forint-c-add
+- **goods_input_gulden_indies_guilder_c_add** — Потребление ост-индского гульдена · goods_input_gulden_indies_guilder_c_add_desc · mask: goods ^m-goods-input-gulden-indies-guilder-c-add
+- **goods_input_gulden_south_german_gulden_c_add** — Потребление южногерманского гульдена · goods_input_gulden_south_german_gulden_c_add_desc · mask: goods ^m-goods-input-gulden-south-german-gulden-c-add
+- **goods_input_hardwood_add** — Потребление hardwood! древесины твёрдых пород · Количество hardwood! древесины твёрдых пород, потребляемой сооружениями. · mask: goods ^m-goods-input-hardwood-add
+- **goods_input_hardwood_mult** — mask: goods ^m-goods-input-hardwood-mult
+- **goods_input_iron_add** — Потребление iron! железа · Количество iron! железа, потребляемого сооружениями. · mask: goods ^m-goods-input-iron-add
+- **goods_input_iron_construction_add** — Потребление iron_construction! Чугунные стройматериалы · Количество iron_construction! Чугунных стройматериалов, потребляемых зданиями · mask: goods ^m-goods-input-iron-construction-add
+- **goods_input_iron_construction_mult** — mask: goods ^m-goods-input-iron-construction-mult
+- **goods_input_iron_mult** — mask: goods ^m-goods-input-iron-mult
+- **goods_input_ironclads_add** — Потребление ironclads! броненосцев · Количество ironclads! броненосцев, потребляемых сооружениями. · mask: goods ^m-goods-input-ironclads-add
+- **goods_input_ironclads_mult** — mask: goods ^m-goods-input-ironclads-mult
+- **goods_input_krone_czech_koruna_c_add** — Потребление чешской кроны · goods_input_krone_czech_koruna_c_add_desc · mask: goods ^m-goods-input-krone-czech-koruna-c-add
+- **goods_input_krone_danish_krone_c_add** — Потребление датской кроны · goods_input_krone_danish_krone_c_add_desc · mask: goods ^m-goods-input-krone-danish-krone-c-add
+- **goods_input_krone_estonian_kroon_c_add** — Потребление эстонской кроны · goods_input_krone_estonian_kroon_c_add_desc · mask: goods ^m-goods-input-krone-estonian-kroon-c-add
+- **goods_input_krone_icelandic_krona_c_add** — Потребление исландской кроны · goods_input_krone_icelandic_krona_c_add_desc · mask: goods ^m-goods-input-krone-icelandic-krona-c-add
+- **goods_input_krone_norwegian_krone_c_add** — Потребление норвежской кроны · goods_input_krone_norwegian_krone_c_add_desc · mask: goods ^m-goods-input-krone-norwegian-krone-c-add
+- **goods_input_krone_slovak_koruna_c_add** — Потребление словацкой кроны · goods_input_krone_slovak_koruna_c_add_desc · mask: goods ^m-goods-input-krone-slovak-koruna-c-add
+- **goods_input_krone_swedish_krona_c_add** — Потребление шведской кроны · goods_input_krone_swedish_krona_c_add_desc · mask: goods ^m-goods-input-krone-swedish-krona-c-add
+- **goods_input_lead_add** — Потребление lead! свинца · Количество lead! свинца, потребляемого сооружениями. · mask: goods ^m-goods-input-lead-add
+- **goods_input_lead_mult** — mask: goods ^m-goods-input-lead-mult
+- **goods_input_leon_leu_c_add** — Потребление лея · goods_input_leon_leu_c_add_desc · mask: goods ^m-goods-input-leon-leu-c-add
+- **goods_input_leon_lev_c_add** — Потребление лева · goods_input_leon_lev_c_add_desc · mask: goods ^m-goods-input-leon-lev-c-add
+- **goods_input_liquidity_currency_add** — Потребление базовых денег · Множитель потребления базовых денег · mask: goods ^m-goods-input-liquidity-currency-add
+- **goods_input_liquidity_currency_mult** — goods_input_liquidity_currency_mult · goods_input_liquidity_currency_mult_desc · mask: goods ^m-goods-input-liquidity-currency-mult
+- **goods_input_liquor_add** — Потребление liquor! спирта · Количество liquor! спирта, потребляемого сооружениями. · mask: goods ^m-goods-input-liquor-add
+- **goods_input_liquor_mult** — mask: goods ^m-goods-input-liquor-mult
+- **goods_input_lira_c_add** — Потребление лиры · goods_input_lira_c_add_desc · mask: goods ^m-goods-input-lira-c-add
+- **goods_input_lira_ducato_c_add** — Потребление дуката · goods_input_lira_ducato_c_add_desc · mask: goods ^m-goods-input-lira-ducato-c-add
+- **goods_input_lira_ottoman_lira_c_add** — Потребление османской лиры · goods_input_lira_ottoman_lira_c_add_desc · mask: goods ^m-goods-input-lira-ottoman-lira-c-add
+- **goods_input_lira_scudo_pontificio_c_add** — Потребление папского скудо · goods_input_lira_scudo_pontificio_c_add_desc · mask: goods ^m-goods-input-lira-scudo-pontificio-c-add
+- **goods_input_lira_scudo_sardo_c_add** — Потребление сардинского скудо · goods_input_lira_scudo_sardo_c_add_desc · mask: goods ^m-goods-input-lira-scudo-sardo-c-add
+- **goods_input_lira_toscane_lira_c_add** — Потребление тосканской лиры · goods_input_lira_toscane_lira_c_add_desc · mask: goods ^m-goods-input-lira-toscane-lira-c-add
+- **goods_input_local_currency_add** — mask: goods ^m-goods-input-local-currency-add
+- **goods_input_local_currency_mult** — goods_input_local_currency_mult · goods_input_local_currency_mult_desc · mask: goods ^m-goods-input-local-currency-mult
+- **goods_input_luxury_clothes_add** — mask: goods ^m-goods-input-luxury-clothes-add
+- **goods_input_luxury_clothes_mult** — mask: goods ^m-goods-input-luxury-clothes-mult
+- **goods_input_luxury_furniture_add** — mask: goods ^m-goods-input-luxury-furniture-add
+- **goods_input_luxury_furniture_mult** — mask: goods ^m-goods-input-luxury-furniture-mult
+- **goods_input_manowars_add** — Потребление manowars! мановаров · Количество manowars! мановаров, потребляемых сооружениями. · mask: goods ^m-goods-input-manowars-add
+- **goods_input_manowars_mult** — mask: goods ^m-goods-input-manowars-mult
+- **goods_input_manufacture_stock_add** — Потребление промышленных акций · Потребление промышленных акций · mask: goods ^m-goods-input-manufacture-stock-add
+- **goods_input_manufacture_stock_mult** — Накопление промышленных акций · Накопление промышленных акций · mask: goods ^m-goods-input-manufacture-stock-mult
+- **goods_input_mark_c_add** — Потребление марки · goods_input_mark_c_add_desc · mask: goods ^m-goods-input-mark-c-add
+- **goods_input_mark_finnish_markka_c_add** — Потребление финской марки · goods_input_mark_finnish_markka_c_add_desc · mask: goods ^m-goods-input-mark-finnish-markka-c-add
+- **goods_input_meat_add** — Потребление meat! мяса · Количество meat! мяса, потребляемого сооружениями. · mask: goods ^m-goods-input-meat-add
+- **goods_input_meat_mult** — mask: goods ^m-goods-input-meat-mult
+- **goods_input_merchant_marine_add** — Потребление merchant_marine! торговых кораблей · Количество merchant_marine! торговых кораблей, потребляемых сооружениями. · mask: goods ^m-goods-input-merchant-marine-add
+- **goods_input_merchant_marine_mult** — mask: goods ^m-goods-input-merchant-marine-mult
+- **goods_input_mining_stock_add** — Потребление горнодобывающих акций · Потребление горнодобывающих акций · mask: goods ^m-goods-input-mining-stock-add
+- **goods_input_mining_stock_mult** — Накопление горнодобывающих акций · Накопление горнодобывающих акций · mask: goods ^m-goods-input-mining-stock-mult
+- **goods_input_mutual_funds_add** — Потребление взаимных фондов · Потребление взаимных фондов · mask: goods ^m-goods-input-mutual-funds-add
+- **goods_input_mutual_funds_mult** — Накопление взаимных фондов · Накопление взаимных фондов · mask: goods ^m-goods-input-mutual-funds-mult
+- **goods_input_oil_add** — Потребление oil! ГСМ · Количество oil! ГСМ, потребляемых сооружениями. · mask: goods ^m-goods-input-oil-add
+- **goods_input_oil_mult** — Потребление oil! ГСМ · Количество oil! ГСМ, потребляемых сооружениями. · mask: goods ^m-goods-input-oil-mult
+- **goods_input_opium_add** — Потребление opium! опиума · Количество opium! опиума, потребляемого сооружениями. · mask: goods ^m-goods-input-opium-add
+- **goods_input_opium_mult** — mask: goods ^m-goods-input-opium-mult
+- **goods_input_paper_add** — Потребление paper! бумаги · Количество paper! бумаги, потребляемой сооружениями. · mask: goods ^m-goods-input-paper-add
+- **goods_input_paper_mult** — mask: goods ^m-goods-input-paper-mult
+- **goods_input_peso_argentine_peso_c_add** — Потребление аргентинского песо · goods_input_peso_argentine_peso_c_add_desc · mask: goods ^m-goods-input-peso-argentine-peso-c-add
+- **goods_input_peso_bolivien_peso_c_add** — Потребление боливийского песо · goods_input_peso_bolivien_peso_c_add_desc · mask: goods ^m-goods-input-peso-bolivien-peso-c-add
+- **goods_input_peso_c_add** — Потребление песо · goods_input_peso_c_add_desc · mask: goods ^m-goods-input-peso-c-add
+- **goods_input_peso_chilean_peso_c_add** — Потребление чилийского песо · goods_input_peso_chilean_peso_c_add_desc · mask: goods ^m-goods-input-peso-chilean-peso-c-add
+- **goods_input_peso_colombian_peso_c_add** — Потребление колумбийского песо · goods_input_peso_colombian_peso_c_add_desc · mask: goods ^m-goods-input-peso-colombian-peso-c-add
+- **goods_input_peso_costa_rican_colon_c_add** — Потребление костариканского колона · goods_input_peso_costa_rican_colon_c_add_desc · mask: goods ^m-goods-input-peso-costa-rican-colon-c-add
+- **goods_input_peso_cuban_peso_c_add** — Потребление кубинского песо · goods_input_peso_cuban_peso_c_add_desc · mask: goods ^m-goods-input-peso-cuban-peso-c-add
+- **goods_input_peso_ecuadorian_peso_c_add** — Потребление эквадорского песо · goods_input_peso_ecuadorian_peso_c_add_desc · mask: goods ^m-goods-input-peso-ecuadorian-peso-c-add
+- **goods_input_peso_el_salvador_colon_c_add** — Потребление сальвадорского колона · goods_input_peso_el_salvador_colon_c_add_desc · mask: goods ^m-goods-input-peso-el-salvador-colon-c-add
+- **goods_input_peso_guatemalan_quetzal_c_add** — Потребление гватемальского кетсаля · goods_input_peso_guatemalan_quetzal_c_add_desc · mask: goods ^m-goods-input-peso-guatemalan-quetzal-c-add
+- **goods_input_peso_honduran_lempira_c_add** — Потребление гондурасской лемпиры · goods_input_peso_honduran_lempira_c_add_desc · mask: goods ^m-goods-input-peso-honduran-lempira-c-add
+- **goods_input_peso_mexican_peso_c_add** — Потребление мексиканского песо · goods_input_peso_mexican_peso_c_add_desc · mask: goods ^m-goods-input-peso-mexican-peso-c-add
+- **goods_input_peso_nicaraguan_cordoba_c_add** — Потребление никарагуанской кордобы · goods_input_peso_nicaraguan_cordoba_c_add_desc · mask: goods ^m-goods-input-peso-nicaraguan-cordoba-c-add
+- **goods_input_peso_paraguayan_peso_c_add** — Потребление парагвайского песо · goods_input_peso_paraguayan_peso_c_add_desc · mask: goods ^m-goods-input-peso-paraguayan-peso-c-add
+- **goods_input_peso_philippine_peso_c_add** — Потребление филиппинского песо · goods_input_peso_philippine_peso_c_add_desc · mask: goods ^m-goods-input-peso-philippine-peso-c-add
+- **goods_input_peso_sol_de_oro_c_add** — Потребление соль-де-оро · goods_input_peso_sol_de_oro_c_add_desc · mask: goods ^m-goods-input-peso-sol-de-oro-c-add
+- **goods_input_peso_uruguayan_peso_c_add** — Потребление уругвайского песо · goods_input_peso_uruguayan_peso_c_add_desc · mask: goods ^m-goods-input-peso-uruguayan-peso-c-add
+- **goods_input_peso_venezuelan_peso_c_add** — Потребление венесуэльского песо · goods_input_peso_venezuelan_peso_c_add_desc · mask: goods ^m-goods-input-peso-venezuelan-peso-c-add
+- **goods_input_porcelain_add** — mask: goods ^m-goods-input-porcelain-add
+- **goods_input_porcelain_mult** — mask: goods ^m-goods-input-porcelain-mult
+- **goods_input_pound_egyptian_pound_c_add** — Потребление египетского фунта · goods_input_pound_egyptian_pound_c_add_desc · mask: goods ^m-goods-input-pound-egyptian-pound-c-add
+- **goods_input_pound_irish_pound_c_add** — Потребление ирландского фунта · goods_input_pound_irish_pound_c_add_desc · mask: goods ^m-goods-input-pound-irish-pound-c-add
+- **goods_input_pound_sterling_c_add** — Потребление фунта стерлингов · goods_input_pound_sterling_c_add_desc · mask: goods ^m-goods-input-pound-sterling-c-add
+- **goods_input_radios_add** — Потребление radios! радио · Количество radios! радио, потребляемых сооружениями. · mask: goods ^m-goods-input-radios-add
+- **goods_input_radios_mult** — Потребление radios! радио · Количество radios! радио, потребляемых сооружениями. · mask: goods ^m-goods-input-radios-mult
+- **goods_input_railroad_stock_add** — Потребление железнодорожных акций · Потребление железнодорожных акций · mask: goods ^m-goods-input-railroad-stock-add
+- **goods_input_railroad_stock_mult** — Накопление железнодорожных акций · Накопление железнодорожных акций · mask: goods ^m-goods-input-railroad-stock-mult
+- **goods_input_real_brazilian_real_c_add** — Потребление бразильского реала · goods_input_real_brazilian_real_c_add_desc · mask: goods ^m-goods-input-real-brazilian-real-c-add
+- **goods_input_real_c_add** — Потребление реала · goods_input_real_c_add_desc · mask: goods ^m-goods-input-real-c-add
+- **goods_input_rubber_add** — Потребление rubber! резины · Количество rubber! резины, потребляемой сооружениями. · mask: goods ^m-goods-input-rubber-add
+- **goods_input_rubber_mult** — mask: goods ^m-goods-input-rubber-mult
+- **goods_input_rupee_indian_rupee_c_add** — Потребление индийской рупии · goods_input_rupee_indian_rupee_c_add_desc · mask: goods ^m-goods-input-rupee-indian-rupee-c-add
+- **goods_input_rupee_indonesian_rupiah_c_add** — Потребление индонезийской рупии · goods_input_rupee_indonesian_rupiah_c_add_desc · mask: goods ^m-goods-input-rupee-indonesian-rupiah-c-add
+- **goods_input_services_add** — goods_input_services_add · goods_input_services_add_desc · mask: goods ^m-goods-input-services-add
+- **goods_input_services_mult** — mask: goods ^m-goods-input-services-mult
+- **goods_input_silk_add** — Потребление silk! тонкого шёлка · Количество silk! тонкого шёлка, потребляемого сооружениями. · mask: goods ^m-goods-input-silk-add
+- **goods_input_silk_mult** — mask: goods ^m-goods-input-silk-mult
+- **goods_input_silver_add** — Потребление серебра · Потребление серебра · mask: goods ^m-goods-input-silver-add
+- **goods_input_silver_mult** — goods_input_silver_mult · goods_input_silver_mult_desc · mask: goods ^m-goods-input-silver-mult
+- **goods_input_small_arms_add** — Потребление small_arms! ручного оружия · Количество small_arms! ручного оружия, потребляемого сооружениями. · mask: goods ^m-goods-input-small-arms-add
+- **goods_input_small_arms_mult** — Потребление small_arms! ручного оружия · Количество small_arms! ручного оружия, потребляемого сооружениями. · mask: goods ^m-goods-input-small-arms-mult
+- **goods_input_spe_baht_c_add** — Потребление бата · goods_input_spe_baht_c_add_desc · mask: goods ^m-goods-input-spe-baht-c-add
+- **goods_input_spe_dong_c_add** — Потребление донга · goods_input_spe_dong_c_add_desc · mask: goods ^m-goods-input-spe-dong-c-add
+- **goods_input_spe_drachma_c_add** — Потребление драхмы · goods_input_spe_drachma_c_add_desc · mask: goods ^m-goods-input-spe-drachma-c-add
+- **goods_input_spe_korean_won_c_add** — Потребление корейской воны · goods_input_spe_korean_won_c_add_desc · mask: goods ^m-goods-input-spe-korean-won-c-add
+- **goods_input_spe_latvian_lats_c_add** — Потребление латвийского лата · goods_input_spe_latvian_lats_c_add_desc · mask: goods ^m-goods-input-spe-latvian-lats-c-add
+- **goods_input_spe_lithuanian_litas_c_add** — Потребление литовского лита · goods_input_spe_lithuanian_litas_c_add_desc · mask: goods ^m-goods-input-spe-lithuanian-litas-c-add
+- **goods_input_spe_peseta_c_add** — Потребление песеты · goods_input_spe_peseta_c_add_desc · mask: goods ^m-goods-input-spe-peseta-c-add
+- **goods_input_spe_ruble_c_add** — Потребление рубля · goods_input_spe_ruble_c_add_desc · mask: goods ^m-goods-input-spe-ruble-c-add
+- **goods_input_spe_uni_c_add** — Потребление уни · goods_input_spe_uni_c_add_desc · mask: goods ^m-goods-input-spe-uni-c-add
+- **goods_input_spe_yen_c_add** — Потребление иены · goods_input_spe_yen_c_add_desc · mask: goods ^m-goods-input-spe-yen-c-add
+- **goods_input_spe_yuan_c_add** — Потребление юаня · goods_input_spe_yuan_c_add_desc · mask: goods ^m-goods-input-spe-yuan-c-add
+- **goods_input_spe_zloti_c_add** — Потребление злотого · goods_input_spe_zloti_c_add_desc · mask: goods ^m-goods-input-spe-zloti-c-add
+- **goods_input_steamers_add** — Потребление steamers! пароходов · Количество steamers! пароходов, потребляемых сооружениями. · mask: goods ^m-goods-input-steamers-add
+- **goods_input_steamers_mult** — mask: goods ^m-goods-input-steamers-mult
+- **goods_input_steel_add** — Потребление steel! стали · Количество steel! стали, потребляемой сооружениями. · mask: goods ^m-goods-input-steel-add
+- **goods_input_steel_construction_add** — Потребление steel_construction! Стальные стройматериалы · Количество steel_construction! Стальных стройматериалов, потребляемых зданиями · mask: goods ^m-goods-input-steel-construction-add
+- **goods_input_steel_construction_mult** — mask: goods ^m-goods-input-steel-construction-mult
+- **goods_input_steel_mult** — mask: goods ^m-goods-input-steel-mult
+- **goods_input_sugar_add** — Потребление sugar! сахара · Количество sugar! сахара, потребляемого сооружениями. · mask: goods ^m-goods-input-sugar-add
+- **goods_input_sugar_mult** — mask: goods ^m-goods-input-sugar-mult
+- **goods_input_sulfur_add** — Потребление sulfur! серы · Количество sulfur! серы, потребляемой сооружениями. · mask: goods ^m-goods-input-sulfur-add
+- **goods_input_sulfur_mult** — mask: goods ^m-goods-input-sulfur-mult
+- **goods_input_tanks_add** — Потребление tanks! танков · Количество tanks! танков, потребляемых сооружениями. · mask: goods ^m-goods-input-tanks-add
+- **goods_input_tanks_mult** — Потребление tanks! танков · Количество tanks! танков, потребляемых сооружениями. · mask: goods ^m-goods-input-tanks-mult
+- **goods_input_tea_add** — mask: goods ^m-goods-input-tea-add
+- **goods_input_tea_mult** — mask: goods ^m-goods-input-tea-mult
+- **goods_input_telephones_add** — Потребление telephones! телефонов · Количество telephones! телефонов, потребляемых сооружениями. · mask: goods ^m-goods-input-telephones-add
+- **goods_input_telephones_mult** — mask: goods ^m-goods-input-telephones-mult
+- **goods_input_thaler_hannoveraner_thaler_c_add** — Потребление ганноверского талера · goods_input_thaler_hannoveraner_thaler_c_add_desc · mask: goods ^m-goods-input-thaler-hannoveraner-thaler-c-add
+- **goods_input_thaler_prussian_thaler_c_add** — Потребление прусского талера · goods_input_thaler_prussian_thaler_c_add_desc · mask: goods ^m-goods-input-thaler-prussian-thaler-c-add
+- **goods_input_thaler_saxon_thaler_c_add** — Потребление саксонского талера · goods_input_thaler_saxon_thaler_c_add_desc · mask: goods ^m-goods-input-thaler-saxon-thaler-c-add
+- **goods_input_tobacco_add** — Потребление tobacco! табака · Количество tobacco! табака, потребляемого сооружениями. · mask: goods ^m-goods-input-tobacco-add
+- **goods_input_tobacco_mult** — mask: goods ^m-goods-input-tobacco-mult
+- **goods_input_tools_add** — Потребление tools! инструментов · Количество tools! инструментов, потребляемых сооружениями. · mask: goods ^m-goods-input-tools-add
+- **goods_input_tools_mult** — mask: goods ^m-goods-input-tools-mult
+- **goods_input_transportation_add** — Потребление transportation! перевозок · Количество transportation! перевозок, потребляемых сооружениями. · mask: goods ^m-goods-input-transportation-add
+- **goods_input_transportation_mult** — mask: goods ^m-goods-input-transportation-mult
+- **goods_input_wine_add** — Потребление wine! вина · Количество wine! вина, потребляемого сооружениями. · mask: goods ^m-goods-input-wine-add
+- **goods_input_wine_mult** — mask: goods ^m-goods-input-wine-mult
+- **goods_input_wood_add** — Потребление wood! древесины · Количество wood! древесины, потребляемой сооружениями. · mask: goods ^m-goods-input-wood-add
+- **goods_input_wood_construction_add** — Потребление wood_construction! Древесные стройматериалы · Количество wood_construction! Древесных стройматериалов, потребляемых зданиями · mask: goods ^m-goods-input-wood-construction-add
+- **goods_input_wood_construction_mult** — mask: goods ^m-goods-input-wood-construction-mult
+- **goods_input_wood_mult** — mask: goods ^m-goods-input-wood-mult
+- **goods_output_aeroplanes_add** — Производство aeroplanes! аэропланов · Количество aeroplanes! аэропланов, производимых сооружениями. · mask: goods ^m-goods-output-aeroplanes-add
+- **goods_output_aeroplanes_mult** — Производство aeroplanes! аэропланов в сооружениях · Бонус или штраф к количеству aeroplanes!, производимых сооружениями. · mask: goods ^m-goods-output-aeroplanes-mult
+- **goods_output_agricultural_stock_add** — Производство акций сельского хозяйства · Производство акций сельского хозяйства · mask: goods ^m-goods-output-agricultural-stock-add
+- **goods_output_agricultural_stock_mult** — Высвобождение акций сельского хозяйства · Высвобождение акций сельского хозяйства · mask: goods ^m-goods-output-agricultural-stock-mult
+- **goods_output_ammunition_add** — Производство ammunition! боеприпасов · Количество ammunition! боеприпасов, производимых сооружениями. · mask: goods ^m-goods-output-ammunition-add
+- **goods_output_ammunition_mult** — Производство ammunition! боеприпасов в сооружениях · Бонус или штраф к количеству ammunition!, производимых сооружениями. · mask: goods ^m-goods-output-ammunition-mult
+- **goods_output_arc_welded_construction_add** — Производство arc_welded_construction! Сварные стройматериалы · Количество arc_welded_construction! Сварных стройматериалов, производимых зданиями · mask: goods ^m-goods-output-arc-welded-construction-add
+- **goods_output_arc_welded_construction_mult** — mask: goods ^m-goods-output-arc-welded-construction-mult
+- **goods_output_artillery_add** — Производство artillery! артиллерии · Количество artillery! артиллерии, производимой сооружениями. · mask: goods ^m-goods-output-artillery-add
+- **goods_output_artillery_mult** — Производство artillery! артиллерии в сооружениях · Бонус или штраф к количеству artillery!, производимой сооружениями. · mask: goods ^m-goods-output-artillery-mult
+- **goods_output_automobiles_add** — Производство automobiles! автомобилей · Количество automobiles! автомобилей, производимых сооружениями. · mask: goods ^m-goods-output-automobiles-add
+- **goods_output_automobiles_mult** — Производство automobiles! автомобилей в сооружениях · Бонус или штраф к количеству automobiles!, производимых сооружениями. · mask: goods ^m-goods-output-automobiles-mult
+- **goods_output_bond_add** — Производство облигаций · Производство облигаций · mask: goods ^m-goods-output-bond-add
+- **goods_output_bond_mult** — Высвобождение облигаций · Высвобождение облигаций · mask: goods ^m-goods-output-bond-mult
+- **goods_output_clippers_add** — Производство clippers! клиперов · Количество clippers! клиперов, производимых сооружениями. · mask: goods ^m-goods-output-clippers-add
+- **goods_output_clippers_mult** — Производство clippers! клиперов в сооружениях · Бонус или штраф к количеству clippers! клиперов, производимых сооружениями. · mask: goods ^m-goods-output-clippers-mult
+- **goods_output_clothes_add** — Производство clothes! одежды · Количество clothes! одежды, производимой сооружениями. · mask: goods ^m-goods-output-clothes-add
+- **goods_output_clothes_mult** — mask: goods ^m-goods-output-clothes-mult
+- **goods_output_coal_add** — Производство coal! угля · Количество coal! угля, производимого сооружениями. · mask: goods ^m-goods-output-coal-add
+- **goods_output_coal_mult** — mask: goods ^m-goods-output-coal-mult
+- **goods_output_coffee_add** — Производство coffee! кофе · Количество coffee! кофе, производимого сооружениями. · mask: goods ^m-goods-output-coffee-add
+- **goods_output_coffee_mult** — mask: goods ^m-goods-output-coffee-mult
+- **goods_output_dye_add** — Производство dye! красителей · Количество dye! красителей, производимых сооружениями. · mask: goods ^m-goods-output-dye-add
+- **goods_output_dye_mult** — mask: goods ^m-goods-output-dye-mult
+- **goods_output_electricity_add** — Производство electricity! электричества · Количество electricity! электричества, производимого сооружениями. · mask: goods ^m-goods-output-electricity-add
+- **goods_output_electricity_mult** — Производство electricity! электричества в сооружениях · Бонус или штраф к количеству electricity! электричества, производимого сооружениями. · mask: goods ^m-goods-output-electricity-mult
+- **goods_output_engines_add** — Производство engines! двигателей · Количество engines! двигателей, производимых сооружениями. · mask: goods ^m-goods-output-engines-add
+- **goods_output_engines_mult** — Производство engines! двигателей в сооружениях · Бонус или штраф к количеству engines!, производимых сооружениями. · mask: goods ^m-goods-output-engines-mult
+- **goods_output_explosives_add** — Производство explosives! взрывчатки · Количество explosives! взрывчатки, производимой сооружениями. · mask: goods ^m-goods-output-explosives-add
+- **goods_output_explosives_mult** — mask: goods ^m-goods-output-explosives-mult
+- **goods_output_fabric_add** — Производство fabric! ткани · Количество fabric! ткани, производимой сооружениями. · mask: goods ^m-goods-output-fabric-add
+- **goods_output_fabric_mult** — Производство fabric! ткани в сооружениях · Бонус или штраф к количеству fabric! ткани, производимой сооружениями. · mask: goods ^m-goods-output-fabric-mult
+- **goods_output_fertilizer_add** — Производство fertilizer! удобрений · Количество fertilizer! удобрений, производимых сооружениями. · mask: goods ^m-goods-output-fertilizer-add
+- **goods_output_fertilizer_mult** — mask: goods ^m-goods-output-fertilizer-mult
+- **goods_output_fine_art_add** — Производство fine_art! картин · Количество fine_art! картин, производимых сооружениями. · mask: goods ^m-goods-output-fine-art-add
+- **goods_output_fine_art_mult** — mask: goods ^m-goods-output-fine-art-mult
+- **goods_output_fish_add** — Производство fish! рыбы · Количество fish! рыбы, производимой сооружениями. · mask: goods ^m-goods-output-fish-add
+- **goods_output_fish_mult** — mask: goods ^m-goods-output-fish-mult
+- **goods_output_fruit_add** — Производство fruit! фруктов · Количество fruit! фруктов, производимых сооружениями. · mask: goods ^m-goods-output-fruit-add
+- **goods_output_fruit_mult** — Производство fruit! фруктов в сооружениях · Бонус или штраф к количеству fruit! фруктов, производимых сооружениями. · mask: goods ^m-goods-output-fruit-mult
+- **goods_output_furniture_add** — Производство furniture! мебели · Количество furniture! мебели, производимой сооружениями. · mask: goods ^m-goods-output-furniture-add
+- **goods_output_furniture_mult** — mask: goods ^m-goods-output-furniture-mult
+- **goods_output_glass_add** — Производство glass! стекла · Количество glass! стекла, производимого сооружениями. · mask: goods ^m-goods-output-glass-add
+- **goods_output_glass_mult** — mask: goods ^m-goods-output-glass-mult
+- **goods_output_gold_add** — Производство gold! золота · Количество gold! золота, производимого сооружениями. · mask: goods ^m-goods-output-gold-add
+- **goods_output_gold_mult** — goods_output_gold_mult · goods_output_gold_mult_desc · mask: goods ^m-goods-output-gold-mult
+- **goods_output_grain_add** — Производство grain! зерна · Количество grain! зерна, производимого сооружениями. · mask: goods ^m-goods-output-grain-add
+- **goods_output_grain_mult** — mask: goods ^m-goods-output-grain-mult
+- **goods_output_groceries_add** — Производство groceries! продуктов · Количество groceries! продуктов, производимых сооружениями. · mask: goods ^m-goods-output-groceries-add
+- **goods_output_groceries_mult** — mask: goods ^m-goods-output-groceries-mult
+- **goods_output_hardwood_add** — Производство hardwood! древесины твёрдых пород · Количество hardwood! древесины твёрдых пород, производимой сооружениями. · mask: goods ^m-goods-output-hardwood-add
+- **goods_output_hardwood_mult** — Производство hardwood! древесины твёрдых пород в сооружениях · Бонус или штраф к количеству hardwood! древесины твёрдых пород, производимой сооружениями. · mask: goods ^m-goods-output-hardwood-mult
+- **goods_output_iron_add** — Производство iron! железа · Количество iron! железа, производимого сооружениями. · mask: goods ^m-goods-output-iron-add
+- **goods_output_iron_construction_add** — Производство iron_construction! Чугунные стройматериалы · Количество iron_construction! Чугунных стройматериалов, производимых зданиями · mask: goods ^m-goods-output-iron-construction-add
+- **goods_output_iron_construction_mult** — mask: goods ^m-goods-output-iron-construction-mult
+- **goods_output_iron_mult** — mask: goods ^m-goods-output-iron-mult
+- **goods_output_ironclads_add** — Производство ironclads! броненосцев · Количество ironclads! броненосцев, производимых сооружениями. · mask: goods ^m-goods-output-ironclads-add
+- **goods_output_ironclads_mult** — Производство ironclads! броненосцев в сооружениях · Бонус или штраф к количеству ironclads! броненосцев, производимых сооружениями. · mask: goods ^m-goods-output-ironclads-mult
+- **goods_output_lead_add** — Производство lead! свинца · Количество lead! свинца, производимого сооружениями. · mask: goods ^m-goods-output-lead-add
+- **goods_output_lead_mult** — mask: goods ^m-goods-output-lead-mult
+- **goods_output_liquidity_currency_add** — Производство базовых денег · Множитель производства базовых денег · mask: goods ^m-goods-output-liquidity-currency-add
+- **goods_output_liquidity_currency_mult** — goods_output_liquidity_currency_mult · goods_output_liquidity_currency_mult_desc · mask: goods ^m-goods-output-liquidity-currency-mult
+- **goods_output_liquor_add** — Производство liquor! спирта · Количество liquor! спирта, производимого сооружениями. · mask: goods ^m-goods-output-liquor-add
+- **goods_output_liquor_mult** — Производство liquor! спирта в сооружениях · Бонус или штраф к количеству liquor! спирта, производимого сооружениями. · mask: goods ^m-goods-output-liquor-mult
+- **goods_output_local_currency_add** — mask: goods ^m-goods-output-local-currency-add
+- **goods_output_local_currency_mult** — goods_output_local_currency_mult · goods_output_local_currency_mult_desc · mask: goods ^m-goods-output-local-currency-mult
+- **goods_output_luxury_clothes_add** — Производство luxury_clothes! роскошной одежды · Количество luxury_clothes! роскошной одежды, производимой сооружениями. · mask: goods ^m-goods-output-luxury-clothes-add
+- **goods_output_luxury_clothes_mult** — mask: goods ^m-goods-output-luxury-clothes-mult
+- **goods_output_luxury_furniture_add** — Производство luxury_furniture! роскошной мебели · Количество luxury_furniture! роскошной мебели, производимой сооружениями. · mask: goods ^m-goods-output-luxury-furniture-add
+- **goods_output_luxury_furniture_mult** — mask: goods ^m-goods-output-luxury-furniture-mult
+- **goods_output_manowars_add** — Производство manowars! мановаров · Количество manowars! мановаров, производимых сооружениями. · mask: goods ^m-goods-output-manowars-add
+- **goods_output_manowars_mult** — Производство manowars! мановаров в сооружениях · Бонус или штраф к количеству manowars! мановаров, производимых сооружениями. · mask: goods ^m-goods-output-manowars-mult
+- **goods_output_manufacture_stock_add** — Производство промышленных акций · Производство промышленных акций · mask: goods ^m-goods-output-manufacture-stock-add
+- **goods_output_manufacture_stock_mult** — Высвобождение промышленных акций · Высвобождение промышленных акций · mask: goods ^m-goods-output-manufacture-stock-mult
+- **goods_output_meat_add** — Производство meat! мяса · Количество meat! мяса, производимого сооружениями. · mask: goods ^m-goods-output-meat-add
+- **goods_output_meat_mult** — mask: goods ^m-goods-output-meat-mult
+- **goods_output_merchant_marine_add** — Производство merchant_marine! торговых кораблей · Количество merchant_marine! торговых кораблей, производимых сооружениями. · mask: goods ^m-goods-output-merchant-marine-add
+- **goods_output_merchant_marine_mult** — mask: goods ^m-goods-output-merchant-marine-mult
+- **goods_output_mining_stock_add** — Производство горнодобывающих акций · Производство горнодобывающих акций · mask: goods ^m-goods-output-mining-stock-add
+- **goods_output_mining_stock_mult** — Высвобождение горнодобывающих акций · Высвобождение горнодобывающих акций · mask: goods ^m-goods-output-mining-stock-mult
+- **goods_output_mutual_funds_add** — Производство взаимных фондов · Производство взаимных фондов · mask: goods ^m-goods-output-mutual-funds-add
+- **goods_output_mutual_funds_mult** — Высвобождение взаимных фондов · Высвобождение взаимных фондов · mask: goods ^m-goods-output-mutual-funds-mult
+- **goods_output_oil_add** — Производство oil! ГСМ · Количество oil! ГСМ, производимых сооружениями. · mask: goods ^m-goods-output-oil-add
+- **goods_output_oil_mult** — Производство oil! ГСМ в сооружениях · Бонус или штраф к количеству oil! ГСМ, производимых сооружениями. · mask: goods ^m-goods-output-oil-mult
+- **goods_output_opium_add** — Производство opium! опиума · Количество opium! опиума, производимого сооружениями. · mask: goods ^m-goods-output-opium-add
+- **goods_output_opium_mult** — mask: goods ^m-goods-output-opium-mult
+- **goods_output_paper_add** — Производство paper! бумаги · Количество paper! бумаги, производимой сооружениями. · mask: goods ^m-goods-output-paper-add
+- **goods_output_paper_mult** — mask: goods ^m-goods-output-paper-mult
+- **goods_output_porcelain_add** — Производство porcelain! фарфора · Количество porcelain! фарфора, производимого сооружениями. · mask: goods ^m-goods-output-porcelain-add
+- **goods_output_porcelain_mult** — mask: goods ^m-goods-output-porcelain-mult
+- **goods_output_radios_add** — Производство radios! радио · Количество radios! радио, производимых сооружениями. · mask: goods ^m-goods-output-radios-add
+- **goods_output_radios_mult** — Производство radio! радио в сооружениях · Бонус или штраф к количеству radio! радио, производимых сооружениями. · mask: goods ^m-goods-output-radios-mult
+- **goods_output_railroad_stock_add** — Производство железнодорожных акций · Производство железнодорожных акций · mask: goods ^m-goods-output-railroad-stock-add
+- **goods_output_railroad_stock_mult** — Высвобождение железнодорожных акций · Высвобождение железнодорожных акций · mask: goods ^m-goods-output-railroad-stock-mult
+- **goods_output_rubber_add** — Производство rubber! резины · Количество rubber! резины, производимой сооружениями. · mask: goods ^m-goods-output-rubber-add
+- **goods_output_rubber_mult** — mask: goods ^m-goods-output-rubber-mult
+- **goods_output_services_add** — Производство services! услуг · Количество services! услуг, производимых сооружениями. · mask: goods ^m-goods-output-services-add
+- **goods_output_services_mult** — mask: goods ^m-goods-output-services-mult
+- **goods_output_silk_add** — Производство silk! тонкого шёлка · Количество silk! тонкого шёлка, производимого сооружениями. · mask: goods ^m-goods-output-silk-add
+- **goods_output_silk_mult** — Производство silk! шёлка в сооружениях · Бонус или штраф к количеству silk! шёлка, производимого сооружениями. · mask: goods ^m-goods-output-silk-mult
+- **goods_output_silver_add** — Производство серебра · Производство серебра · mask: goods ^m-goods-output-silver-add
+- **goods_output_silver_mult** — goods_output_silver_mult · goods_output_silver_mult_desc · mask: goods ^m-goods-output-silver-mult
+- **goods_output_small_arms_add** — Производство small_arms! ручного оружия · Количество small_arms! ручного оружия, производимого сооружениями. · mask: goods ^m-goods-output-small-arms-add
+- **goods_output_small_arms_mult** — Производство small_arms! ручного оружия в сооружениях · Бонус или штраф к количеству small_arms!, производимых сооружениями. · mask: goods ^m-goods-output-small-arms-mult
+- **goods_output_steamers_add** — Производство steamers! пароходов · Количество steamers! пароходов, производимых сооружениями. · mask: goods ^m-goods-output-steamers-add
+- **goods_output_steamers_mult** — Производство steamers! пароходов в сооружениях · Бонус или штраф к количеству steamers! пароходов, производимых сооружениями. · mask: goods ^m-goods-output-steamers-mult
+- **goods_output_steel_add** — Производство steel! стали · Количество steel! стали, производимой сооружениями. · mask: goods ^m-goods-output-steel-add
+- **goods_output_steel_construction_add** — Производство steel_construction! Стальные стройматериалы · Количество steel_construction! Стальных стройматериалов, производимых зданиями · mask: goods ^m-goods-output-steel-construction-add
+- **goods_output_steel_construction_mult** — mask: goods ^m-goods-output-steel-construction-mult
+- **goods_output_steel_mult** — mask: goods ^m-goods-output-steel-mult
+- **goods_output_sugar_add** — Производство sugar! сахара · Количество sugar! сахара, производимого сооружениями. · mask: goods ^m-goods-output-sugar-add
+- **goods_output_sugar_mult** — Производство sugar! сахара в сооружениях · Бонус или штраф к количеству sugar! сахара, производимого сооружениями. · mask: goods ^m-goods-output-sugar-mult
+- **goods_output_sulfur_add** — Производство sulfur! серы · Количество sulfur! серы, производимой сооружениями. · mask: goods ^m-goods-output-sulfur-add
+- **goods_output_sulfur_mult** — mask: goods ^m-goods-output-sulfur-mult
+- **goods_output_tanks_add** — Производство tanks! танков · Количество tanks! танков, производимых сооружениями. · mask: goods ^m-goods-output-tanks-add
+- **goods_output_tanks_mult** — Производство tanks! танков в сооружениях · Бонус или штраф к количеству tanks!, производимых сооружениями. · mask: goods ^m-goods-output-tanks-mult
+- **goods_output_tea_add** — Производство tea! чая · Количество tea! чая, производимого сооружениями. · mask: goods ^m-goods-output-tea-add
+- **goods_output_tea_mult** — mask: goods ^m-goods-output-tea-mult
+- **goods_output_telephones_add** — Производство telephones! телефонов · Количество telephones! телефонов, производимых сооружениями. · mask: goods ^m-goods-output-telephones-add
+- **goods_output_telephones_mult** — mask: goods ^m-goods-output-telephones-mult
+- **goods_output_tobacco_add** — Производство tobacco! табака · Количество tobacco! табака, производимого сооружениями. · mask: goods ^m-goods-output-tobacco-add
+- **goods_output_tobacco_mult** — mask: goods ^m-goods-output-tobacco-mult
+- **goods_output_tools_add** — Производство tools! инструментов · Количество tools! инструментов, производимых сооружениями. · mask: goods ^m-goods-output-tools-add
+- **goods_output_tools_mult** — Производство tools! инструментов в сооружениях · Бонус или штраф к количеству tools!, производимых сооружениями. · mask: goods ^m-goods-output-tools-mult
+- **goods_output_transportation_add** — Производство transportation! перевозок · Количество transportation! перевозок, производимых сооружениями. · mask: goods ^m-goods-output-transportation-add
+- **goods_output_transportation_mult** — mask: goods ^m-goods-output-transportation-mult
+- **goods_output_wine_add** — Производство wine! вина · Количество wine! вина, производимого сооружениями. · mask: goods ^m-goods-output-wine-add
+- **goods_output_wine_mult** — Производство wine! вина в сооружениях · Бонус или штраф к количеству wine! вина, производимого сооружениями. · mask: goods ^m-goods-output-wine-mult
+- **goods_output_wood_add** — Производство wood! древесины · Количество wood! древесины, производимой сооружениями. · mask: goods ^m-goods-output-wood-add
+- **goods_output_wood_construction_add** — Производство wood_construction! Древесные стройматериалы · Количество wood_construction! Древесных стройматериалов, производимых зданиями · mask: goods ^m-goods-output-wood-construction-add
+- **goods_output_wood_construction_mult** — mask: goods ^m-goods-output-wood-construction-mult
+- **goods_output_wood_mult** — mask: goods ^m-goods-output-wood-mult
+- **goods_trade_advantage_aeroplanes_mult** — mask: goods ^m-goods-trade-advantage-aeroplanes-mult
+- **goods_trade_advantage_agricultural_stock_mult** — mask: goods ^m-goods-trade-advantage-agricultural-stock-mult
+- **goods_trade_advantage_ammunition_mult** — mask: goods ^m-goods-trade-advantage-ammunition-mult
+- **goods_trade_advantage_arc_welded_construction_mult** — mask: goods ^m-goods-trade-advantage-arc-welded-construction-mult
+- **goods_trade_advantage_artillery_mult** — mask: goods ^m-goods-trade-advantage-artillery-mult
+- **goods_trade_advantage_automobiles_mult** — mask: goods ^m-goods-trade-advantage-automobiles-mult
+- **goods_trade_advantage_bond_mult** — mask: goods ^m-goods-trade-advantage-bond-mult
+- **goods_trade_advantage_clippers_mult** — mask: goods ^m-goods-trade-advantage-clippers-mult
+- **goods_trade_advantage_clothes_mult** — mask: goods ^m-goods-trade-advantage-clothes-mult
+- **goods_trade_advantage_coal_mult** — mask: goods ^m-goods-trade-advantage-coal-mult
+- **goods_trade_advantage_coffee_mult** — mask: goods ^m-goods-trade-advantage-coffee-mult
+- **goods_trade_advantage_dye_mult** — mask: goods ^m-goods-trade-advantage-dye-mult
+- **goods_trade_advantage_electricity_mult** — mask: goods ^m-goods-trade-advantage-electricity-mult
+- **goods_trade_advantage_engines_mult** — mask: goods ^m-goods-trade-advantage-engines-mult
+- **goods_trade_advantage_explosives_mult** — mask: goods ^m-goods-trade-advantage-explosives-mult
+- **goods_trade_advantage_fabric_mult** — mask: goods ^m-goods-trade-advantage-fabric-mult
+- **goods_trade_advantage_fertilizer_mult** — mask: goods ^m-goods-trade-advantage-fertilizer-mult
+- **goods_trade_advantage_fine_art_mult** — mask: goods ^m-goods-trade-advantage-fine-art-mult
+- **goods_trade_advantage_fish_mult** — mask: goods ^m-goods-trade-advantage-fish-mult
+- **goods_trade_advantage_fruit_mult** — mask: goods ^m-goods-trade-advantage-fruit-mult
+- **goods_trade_advantage_furniture_mult** — mask: goods ^m-goods-trade-advantage-furniture-mult
+- **goods_trade_advantage_glass_mult** — mask: goods ^m-goods-trade-advantage-glass-mult
+- **goods_trade_advantage_gold_mult** — mask: goods ^m-goods-trade-advantage-gold-mult
+- **goods_trade_advantage_grain_mult** — mask: goods ^m-goods-trade-advantage-grain-mult
+- **goods_trade_advantage_groceries_mult** — mask: goods ^m-goods-trade-advantage-groceries-mult
+- **goods_trade_advantage_hardwood_mult** — mask: goods ^m-goods-trade-advantage-hardwood-mult
+- **goods_trade_advantage_iron_construction_mult** — mask: goods ^m-goods-trade-advantage-iron-construction-mult
+- **goods_trade_advantage_iron_mult** — mask: goods ^m-goods-trade-advantage-iron-mult
+- **goods_trade_advantage_ironclads_mult** — mask: goods ^m-goods-trade-advantage-ironclads-mult
+- **goods_trade_advantage_lead_mult** — mask: goods ^m-goods-trade-advantage-lead-mult
+- **goods_trade_advantage_liquidity_currency_mult** — mask: goods ^m-goods-trade-advantage-liquidity-currency-mult
+- **goods_trade_advantage_liquor_mult** — mask: goods ^m-goods-trade-advantage-liquor-mult
+- **goods_trade_advantage_local_currency_mult** — mask: goods ^m-goods-trade-advantage-local-currency-mult
+- **goods_trade_advantage_luxury_clothes_mult** — mask: goods ^m-goods-trade-advantage-luxury-clothes-mult
+- **goods_trade_advantage_luxury_furniture_mult** — mask: goods ^m-goods-trade-advantage-luxury-furniture-mult
+- **goods_trade_advantage_manowars_mult** — mask: goods ^m-goods-trade-advantage-manowars-mult
+- **goods_trade_advantage_manufacture_stock_mult** — mask: goods ^m-goods-trade-advantage-manufacture-stock-mult
+- **goods_trade_advantage_meat_mult** — mask: goods ^m-goods-trade-advantage-meat-mult
+- **goods_trade_advantage_merchant_marine_mult** — mask: goods ^m-goods-trade-advantage-merchant-marine-mult
+- **goods_trade_advantage_mining_stock_mult** — mask: goods ^m-goods-trade-advantage-mining-stock-mult
+- **goods_trade_advantage_mutual_funds_mult** — mask: goods ^m-goods-trade-advantage-mutual-funds-mult
+- **goods_trade_advantage_oil_mult** — mask: goods ^m-goods-trade-advantage-oil-mult
+- **goods_trade_advantage_opium_mult** — mask: goods ^m-goods-trade-advantage-opium-mult
+- **goods_trade_advantage_paper_mult** — mask: goods ^m-goods-trade-advantage-paper-mult
+- **goods_trade_advantage_porcelain_mult** — mask: goods ^m-goods-trade-advantage-porcelain-mult
+- **goods_trade_advantage_radios_mult** — mask: goods ^m-goods-trade-advantage-radios-mult
+- **goods_trade_advantage_railroad_stock_mult** — mask: goods ^m-goods-trade-advantage-railroad-stock-mult
+- **goods_trade_advantage_rubber_mult** — mask: goods ^m-goods-trade-advantage-rubber-mult
+- **goods_trade_advantage_services_mult** — mask: goods ^m-goods-trade-advantage-services-mult
+- **goods_trade_advantage_silk_mult** — mask: goods ^m-goods-trade-advantage-silk-mult
+- **goods_trade_advantage_silver_mult** — mask: goods ^m-goods-trade-advantage-silver-mult
+- **goods_trade_advantage_small_arms_mult** — mask: goods ^m-goods-trade-advantage-small-arms-mult
+- **goods_trade_advantage_steamers_mult** — mask: goods ^m-goods-trade-advantage-steamers-mult
+- **goods_trade_advantage_steel_construction_mult** — mask: goods ^m-goods-trade-advantage-steel-construction-mult
+- **goods_trade_advantage_steel_mult** — mask: goods ^m-goods-trade-advantage-steel-mult
+- **goods_trade_advantage_sugar_mult** — mask: goods ^m-goods-trade-advantage-sugar-mult
+- **goods_trade_advantage_sulfur_mult** — mask: goods ^m-goods-trade-advantage-sulfur-mult
+- **goods_trade_advantage_tanks_mult** — mask: goods ^m-goods-trade-advantage-tanks-mult
+- **goods_trade_advantage_tea_mult** — mask: goods ^m-goods-trade-advantage-tea-mult
+- **goods_trade_advantage_telephones_mult** — mask: goods ^m-goods-trade-advantage-telephones-mult
+- **goods_trade_advantage_tobacco_mult** — mask: goods ^m-goods-trade-advantage-tobacco-mult
+- **goods_trade_advantage_tools_mult** — mask: goods ^m-goods-trade-advantage-tools-mult
+- **goods_trade_advantage_transportation_mult** — mask: goods ^m-goods-trade-advantage-transportation-mult
+- **goods_trade_advantage_wine_mult** — mask: goods ^m-goods-trade-advantage-wine-mult
+- **goods_trade_advantage_wood_construction_mult** — mask: goods ^m-goods-trade-advantage-wood-construction-mult
+- **goods_trade_advantage_wood_mult** — mask: goods ^m-goods-trade-advantage-wood-mult

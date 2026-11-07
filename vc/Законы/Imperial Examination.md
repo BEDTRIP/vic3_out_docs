@@ -24,14 +24,14 @@ paths: [VC/common/laws/joi_bureaucracy.txt]
 - **can_enact**: скрипт, строки 18–20
 - **on_enact**: скрипт, строки 22–35
 - **modifier**:
-  - `interest_group_ig_landowners_pop_attraction_mult` = `0.15`
-  - `interest_group_ig_devout_pop_attraction_mult` = `0.25`
-  - `country_bureaucrats_pol_str_mult` = `0.25`
-  - `country_peasants_pol_str_mult` = `-0.1`
-  - `state_tax_capacity_mult` = `0.33`
-  - `political_movement_radicalism_add` = `0.1`
-  - `country_tech_spread_mult` = `-0.1`
-  - `country_authority_add` = `100`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-pop-attraction-mult|interest_group_ig_landowners_pop_attraction_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pop-attraction-mult|interest_group_ig_devout_pop_attraction_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-pol-str-mult|country_bureaucrats_pol_str_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-peasants-pol-str-mult|country_peasants_pol_str_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-mult|state_tax_capacity_mult]] = `0.33`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-add|political_movement_radicalism_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `100`
 - **ai_will_do**: скрипт, строки 48–50
 - **ai_enact_weight_modifier**: скрипт, строки 52–54
 

@@ -29,7 +29,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
   - `building_software_industry_throughput_add` = `0.05` → [[tr/Здания/Software Industry|Software Industry]]
   - `building_office_throughput_add` = `0.05` → [[tr/Здания/Offices|Offices]]
   - `building_processors_foundry_throughput_add` = `0.05` → [[tr/Здания/Chip Foundries|Chip Foundries]]
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 524–533
 - **ai_construction_targets**: скрипт, строки 534–544
 - **ai_weight**: скрипт, строки 545–547

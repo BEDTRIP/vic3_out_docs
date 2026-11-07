@@ -33,9 +33,9 @@ replaces: "[[vanilla/Виды компаний/«Manufacture d'armes de Saint-É
 - **attainable**: скрипт, строки 3590–3596
 - **possible**: скрипт, строки 3598–3608
 - **prosperity_modifier**:
-  - `unit_offense_mult` = `0.05`
-  - `unit_defense_mult` = `0.05`
-  - `battle_defense_owned_province_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-battle-defense-owned-province-mult|battle_defense_owned_province_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 3616–3622
 - **ai_construction_targets**: скрипт, строки 3624–3631
 - **ai_weight**: скрипт, строки 3633–3635

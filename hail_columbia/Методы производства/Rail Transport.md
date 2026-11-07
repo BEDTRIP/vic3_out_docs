@@ -18,16 +18,16 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/rail_transport.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `2`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `2`
 - **unlocking_technologies**: [[vanilla/Технологии/Стальные вагоны|Стальные вагоны]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_transportation_add` = `2` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `2` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.1`
-    - `building_soldiers_mortality_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-soldiers-mortality-mult|building_soldiers_mortality_mult]] = `0.1`
 
 ## Ссылаются
 

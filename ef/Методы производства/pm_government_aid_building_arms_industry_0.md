@@ -21,10 +21,10 @@ paths: [E&F/common/production_methods/00_ef_market_liquidity.txt]
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_war_bond_add` = `1`
-    - `goods_output_artillery_add` = `40` → [[vanilla/Товары/Артиллерия|Артиллерия]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-artillery-add|goods_output_artillery_add]] = `40` → [[vanilla/Товары/Артиллерия|Артиллерия]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `500` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

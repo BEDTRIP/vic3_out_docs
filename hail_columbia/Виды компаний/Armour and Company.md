@@ -24,10 +24,10 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 566–575
 - **possible**: скрипт, строки 577–590
 - **prosperity_modifier**:
-  - `building_livestock_ranch_throughput_add` = `0.15` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.20`
-  - `building_group_bg_ranching_laborers_mortality_mult` = `0.02`
-  - `state_radicals_from_political_movements_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.15` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-laborers-mortality-mult|building_group_bg_ranching_laborers_mortality_mult]] = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 599–611
 - **ai_construction_targets**: скрипт, строки 613–623
 - **ai_weight**: скрипт, строки 625–627

@@ -18,7 +18,7 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 
 ## Ссылаются
 

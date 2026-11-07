@@ -32,9 +32,9 @@ replaces: "[[vanilla/Виды компаний/«United Fruit Company»]]"
 - **potential**: скрипт, строки 708–713
 - **possible**: скрипт, строки 715–733
 - **prosperity_modifier**:
-  - `building_group_bg_plantations_throughput_add` = `0.1`
-  - `state_working_adult_ratio_add` = `0.025`
-  - `goods_output_fruit_mult` = `0.25` → [[vanilla/Товары/Фрукты|Фрукты]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.025`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-mult|goods_output_fruit_mult]] = `0.25` → [[vanilla/Товары/Фрукты|Фрукты]]
 - **ai_will_do**: скрипт, строки 741–760
 - **ai_construction_targets**: скрипт, строки 762–778
 - **ai_weight**: скрипт, строки 780–782

@@ -20,8 +20,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Micro-Processor|Micro-Processor]], [[tr/Технологии/Aquafarm Systems|Aquafarm Systems]]
 - **modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.05`
-  - `building_group_bg_plantations_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.05`
 - **ai_weight**: скрипт, строки 1315–1317
 
 ## Ссылаются

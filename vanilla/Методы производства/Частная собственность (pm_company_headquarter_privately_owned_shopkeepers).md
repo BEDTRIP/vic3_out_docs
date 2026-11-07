@@ -21,13 +21,13 @@ paths: [.vanillaVIC3/common/production_methods/14_companies.txt]
 - **disallowing_laws**: [[vanilla/Законы/Командная экономика|Командная экономика]], [[vanilla/Законы/Кооперативное владение|Кооперативное владение]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `10` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
-    - `building_employment_shopkeepers_add` = `25` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_clerks_add` = `15` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `10` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `25` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `15` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_capitalists_shares_add` = `10`
-    - `building_shopkeepers_shares_add` = `5`
-    - `building_company_worker_dividends_add` = `0.25`
+    - [[vanilla/движок/Модификаторы B#^m-building-capitalists-shares-add|building_capitalists_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-shopkeepers-shares-add|building_shopkeepers_shares_add]] = `5`
+    - [[vanilla/движок/Модификаторы B#^m-building-company-worker-dividends-add|building_company_worker_dividends_add]] = `0.25`
 
 ## Ссылаются
 

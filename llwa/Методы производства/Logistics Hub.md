@@ -18,9 +18,9 @@ paths: [llwa/common/production_methods/LLWA_logihub.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/trade_center.dds`
 - **building_modifiers**:
   - **unscaled**:
-    - `goods_input_transportation_add` = `1` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `1` → [[vanilla/Товары/Перевозка|Перевозка]]
     - `goods_output_llwa_logi_conn_add` = `1` → [[llwa/Товары/Local Connectivity|Local Connectivity]]
-    - `building_employment_clerks_add` = `500` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `500` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Plastic Recovery|Plastic Recovery]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `1` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_output_plastics_add` = `2` → [[tr/Товары/Пластмассы|Пластмассы]]
 - **disallowing_laws**: [[tr/Законы/No Enviroment Protection|No Enviroment Protection]]
 

@@ -26,8 +26,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 2273–2279
 - **possible**: скрипт, строки 2281–2290
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.07`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.07`
 - **ai_will_do**: скрипт, строки 2298–2303
 - **ai_construction_targets**: скрипт, строки 2305–2312
 - **ai_weight**: скрипт, строки 2313–2315

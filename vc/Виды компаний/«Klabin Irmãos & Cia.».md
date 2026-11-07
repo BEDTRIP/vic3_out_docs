@@ -35,9 +35,9 @@ replaces: "[[vanilla/Виды компаний/«Klabin Irmãos & Cia.»]]"
 - **attainable**: скрипт, строки 7719–7725
 - **possible**: скрипт, строки 7727–7738
 - **prosperity_modifier**:
-  - `goods_output_wood_mult` = `0.1` → [[vanilla/Товары/Древесина|Древесина]]
-  - `goods_output_hardwood_mult` = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
-  - `building_group_bg_logging_employee_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-wood-mult|goods_output_wood_mult]] = `0.1` → [[vanilla/Товары/Древесина|Древесина]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-hardwood-mult|goods_output_hardwood_mult]] = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-employee-mult|building_group_bg_logging_employee_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 7746–7752
 - **ai_construction_targets**: скрипт, строки 7754–7762
 - **ai_weight**: скрипт, строки 7764–7766

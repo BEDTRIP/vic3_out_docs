@@ -35,7 +35,7 @@ replaces: "[[vanilla/Виды компаний/«Nokia»]]"
 - **possible**: скрипт, строки 120–130
 - **prosperity_modifier**:
   - `building_telecommunications_industry_throughput_add` = `0.05` → [[tr/Здания/Telecommunications Plants|Telecommunications Plants]]
-  - `building_synthetics_plant_throughput_add` = `0.05` → [[tr/Здания/Заводы синтетики|Заводы синтетики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.05` → [[tr/Здания/Заводы синтетики|Заводы синтетики]]
 - **ai_will_do**: скрипт, строки 137–143
 - **ai_construction_targets**: скрипт, строки 145–152
 - **ai_weight**: скрипт, строки 154–156

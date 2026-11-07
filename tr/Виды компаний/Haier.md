@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **possible**: скрипт, строки 164–174
 - **prosperity_modifier**:
   - `goods_output_homeappliances_mult` = `0.1` → [[tr/Товары/Home Appliances|Home Appliances]]
-  - `state_standard_of_living_add` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
 - **ai_will_do**: скрипт, строки 179–185
 - **ai_construction_targets**: скрипт, строки 186–193
 - **ai_weight**: скрипт, строки 194–196

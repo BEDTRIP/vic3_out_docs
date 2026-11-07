@@ -21,9 +21,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
   - **workforce_scaled**:
     - `goods_output_organized_data_add` = `1` → [[tr/Товары/Organized Data|Organized Data]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `3500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_clerks_add` = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_academics_add` = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
 
 ## Ссылаются
 

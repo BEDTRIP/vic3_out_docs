@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/social_criticism.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_decree_cost_mult` = `0.25`
-  - `building_government_administration_throughput_add` = `-0.1` → [[vanilla/Здания/Правительственные ведомства|Правительственные ведомства]]
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-government-administration-throughput-add|building_government_administration_throughput_add]] = `-0.1` → [[vanilla/Здания/Правительственные ведомства|Правительственные ведомства]]

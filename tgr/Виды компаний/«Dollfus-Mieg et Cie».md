@@ -37,7 +37,7 @@ replaces: "[[vanilla/Виды компаний/«Dollfus-Mieg et Cie»]]"
 - **attainable**: скрипт, строки 30–36
 - **possible**: скрипт, строки 38–47
 - **prosperity_modifier**:
-  - `state_assimilation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 53–58
 - **ai_construction_targets**: скрипт, строки 60–67
 - **ai_weight**: скрипт, строки 69–71

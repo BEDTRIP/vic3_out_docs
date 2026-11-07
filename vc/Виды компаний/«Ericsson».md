@@ -31,8 +31,8 @@ replaces: "[[vanilla/Виды компаний/«Ericsson»]]"
 - **attainable**: скрипт, строки 5168–5174
 - **possible**: скрипт, строки 5176–5186
 - **prosperity_modifier**:
-  - `goods_output_telephones_mult` = `0.1` → [[vanilla/Товары/Телефоны|Телефоны]]
-  - `state_education_access_wealth_add` = `0.005`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-telephones-mult|goods_output_telephones_mult]] = `0.1` → [[vanilla/Товары/Телефоны|Телефоны]]
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
 - **ai_will_do**: скрипт, строки 5193–5199
 - **ai_construction_targets**: скрипт, строки 5201–5208
 - **ai_weight**: скрипт, строки 5210–5212

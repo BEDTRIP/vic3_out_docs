@@ -28,6 +28,6 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **ai_will_do**: скрипт, строки 1251–1258
 - **ai_construction_targets**: скрипт, строки 1260–1267
 - **prosperity_modifier**:
-  - `state_migration_pull_mult` = `0.1`
-  - `state_trade_advantage_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.15`
 - **ai_weight**: скрипт, строки 1274–1276

@@ -26,7 +26,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **possible**: скрипт, строки 86–95
 - **prosperity_modifier**:
   - `goods_output_elgar_instruments_mult` = `0.1` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
-  - `state_upper_strata_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-upper-strata-standard-of-living-add|state_upper_strata_standard_of_living_add]] = `0.5`
 - **ai_will_do**: скрипт, строки 102–107
 - **ai_construction_targets**: скрипт, строки 109–116
 - **ai_weight**: скрипт, строки 118–120

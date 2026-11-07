@@ -18,7 +18,7 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **texture**: `gfx/interface/icons/production_method_icons/serfdom.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_minting_add` = `200`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `200`
 
 ## Ссылаются
 

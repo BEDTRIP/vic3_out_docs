@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1566–1572
 - **possible**: скрипт, строки 1574–1584
 - **prosperity_modifier**:
-  - `unit_defense_mult` = `0.05`
-  - `unit_recovery_rate_add` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-recovery-rate-add|unit_recovery_rate_add]] = `0.05`
 - **ai_will_do**: скрипт, строки 1591–1597
 - **ai_construction_targets**: скрипт, строки 1599–1606
 - **ai_weight**: скрипт, строки 1608–1610

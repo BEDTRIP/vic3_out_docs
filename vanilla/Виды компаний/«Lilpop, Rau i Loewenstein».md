@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1053–1062
 - **possible**: скрипт, строки 1064–1077
 - **prosperity_modifier**:
-  - `building_motor_industry_throughput_add` = `0.1` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
 - **ai_will_do**: скрипт, строки 1083–1092
 - **ai_construction_targets**: скрипт, строки 1094–1105
 - **ai_weight**: скрипт, строки 1107–1109

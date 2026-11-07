@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **modifier**:
   - `building_elgar_opera_throughput_add` = `-0.05` → [[tr/Здания/Entertainment Areas|Entertainment Areas]]
   - `building_manzoni_publishing_industry_throughput_add` = `0.1` → [[tr/Здания/Media Industries|Media Industries]]
-  - `country_authority_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.1`
 - **ai_weight**: скрипт, строки 752–754
 
 ## Ссылаются

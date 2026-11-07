@@ -35,8 +35,8 @@ replaces: "[[vanilla/Виды компаний/Carnegie Steel Company]]"
 - **possible**: скрипт, строки 1927–1937
 - **prosperity_modifier**:
   - `state_building_construction_sector_max_level_add` = `5`
-  - `goods_output_steel_mult` = `0.1` → [[vanilla/Товары/Сталь|Сталь]]
-  - `goods_output_steamers_mult` = `0.1` → [[vanilla/Товары/Пароходы|Пароходы]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-steel-mult|goods_output_steel_mult]] = `0.1` → [[vanilla/Товары/Сталь|Сталь]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-steamers-mult|goods_output_steamers_mult]] = `0.1` → [[vanilla/Товары/Пароходы|Пароходы]]
 - **ai_will_do**: скрипт, строки 1945–1951
 - **ai_construction_targets**: скрипт, строки 1953–1960
 - **ai_weight**: скрипт, строки 1962–1964

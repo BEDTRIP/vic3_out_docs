@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/materiel_waste.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `building_group_bg_plantations_tax_mult` = `-0.2`
-  - `building_cotton_plantation_throughput_add` = `-0.25` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-tax-mult|building_group_bg_plantations_tax_mult]] = `-0.2`
+  - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `-0.25` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]

@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_airline_companies.txt]
 - **possible**: скрипт, строки 658–684
 - **prosperity_modifier**:
   - `building_airport_throughput_add` = `0.25` → [[tr/Здания/Airports|Airports]]
-  - `building_motor_industry_throughput_add` = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
 - **ai_will_do**: скрипт, строки 690–700
 - **ai_construction_targets**: скрипт, строки 701–713
 - **ai_weight**: скрипт, строки 714–716

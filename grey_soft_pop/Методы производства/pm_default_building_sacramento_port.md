@@ -19,13 +19,13 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **state_modifiers**:
   - **workforce_scaled**: пусто
   - **unscaled**:
-    - `state_migration_pull_add` = `2`
-    - `state_migration_pull_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-add|state_migration_pull_add]] = `2`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `100`
-    - `state_trade_advantage_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `100`
+    - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `3500` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_engineers_add` = `1500` → [[grey_soft_pop/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3500` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `1500` → [[grey_soft_pop/Население/Типы/Инженеры|Инженеры]]

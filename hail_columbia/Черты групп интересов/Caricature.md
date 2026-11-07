@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/caricature.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `interest_group_in_government_attraction_mult` = `-0.15`
-  - `country_opposition_ig_approval_add` = `-2`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-in-government-attraction-mult|interest_group_in_government_attraction_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-opposition-ig-approval-add|country_opposition_ig_approval_add]] = `-2`

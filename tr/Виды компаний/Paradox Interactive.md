@@ -25,9 +25,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_digital_media_industry.txt]
 - **attainable**: скрипт, строки 290–297
 - **possible**: скрипт, строки 298–308
 - **prosperity_modifier**:
-  - `unit_experience_gain_mult` = `0.1`
-  - `building_university_throughput_add` = `0.05` → [[vanilla/Здания/Университеты|Университеты]]
-  - `country_leverage_generation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-experience-gain-mult|unit_experience_gain_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.05` → [[vanilla/Здания/Университеты|Университеты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 314–320
 - **ai_construction_targets**: скрипт, строки 321–328
 - **ai_weight**: скрипт, строки 329–331

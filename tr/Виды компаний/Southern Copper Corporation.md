@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **possible**: скрипт, строки 632–642
 - **prosperity_modifier**:
   - `building_alloys_plant_throughput_add` = `0.05` → [[tr/Здания/Alloys Plants|Alloys Plants]]
-  - `building_tooling_workshop_throughput_add` = `0.05` → [[tr/Здания/Производства инструментов|Производства инструментов]]
+  - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.05` → [[tr/Здания/Производства инструментов|Производства инструментов]]
 - **ai_will_do**: скрипт, строки 647–655
 - **ai_construction_targets**: скрипт, строки 656–664
 - **ai_weight**: скрипт, строки 665–667

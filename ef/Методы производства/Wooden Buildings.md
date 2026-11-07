@@ -19,18 +19,18 @@ paths: [E&F/common/production_methods/14_ef_private_construction.txt]
 - **is_default**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_construction_add` = `2`
+    - [[vanilla/движок/Модификаторы C#^m-country-construction-add|country_construction_add]] = `2`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_manufacture_stock_add` = `50` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
-    - `goods_input_fabric_add` = `5` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_input_wood_add` = `20` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-manufacture-stock-add|goods_output_manufacture_stock_add]] = `50` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `5` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `20` → [[vanilla/Товары/Древесина|Древесина]]
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `50` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clerks_add` = `125` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `50` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `125` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.1`
 
 ## Ссылаются
 

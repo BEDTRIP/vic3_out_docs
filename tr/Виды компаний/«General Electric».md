@@ -33,8 +33,8 @@ replaces: "[[vanilla/Виды компаний/«General Electric»]]"
 - **attainable**: скрипт, строки 74–83
 - **possible**: скрипт, строки 85–98
 - **prosperity_modifier**:
-  - `building_motor_industry_throughput_add` = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
-  - `country_weekly_innovation_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 105–114
 - **ai_construction_targets**: скрипт, строки 116–127
 - **ai_weight**: скрипт, строки 129–131

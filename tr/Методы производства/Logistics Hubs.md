@@ -19,20 +19,20 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Freight Villages|Freight Villages]]
 - **state_modifiers**:
   - **unscaled**:
-    - `state_infrastructure_from_automobiles_consumption_add` = `0.3`
-    - `state_trade_capacity_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.3`
+    - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.1`
   - **level_scaled**:
-    - `state_infrastructure_add` = `30`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `30`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_transportation_add` = `25` → [[vanilla/Товары/Перевозка|Перевозка]]
-    - `goods_output_merchant_marine_add` = `1` → [[vanilla/Товары/Торговые корабли|Торговые корабли]]
-    - `goods_input_electricity_add` = `2` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_input_steel_add` = `7` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `25` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-merchant-marine-add|goods_output_merchant_marine_add]] = `1` → [[vanilla/Товары/Торговые корабли|Торговые корабли]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `2` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `7` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_heavy_fuel_add` = `2` → [[tr/Товары/Heavy Fuel|Heavy Fuel]]
     - `goods_input_robotics_add` = `1` → [[tr/Товары/Robotics|Robotics]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `100` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `100` → [[vanilla/Население/Типы/Механики|Механики]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/be_fruitful_and_multiply.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_mortality_mult` = `-0.05`
-  - `state_pollution_reduction_health_mult` = `-0.1`
-  - `country_company_throughput_bonus_add` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-throughput-bonus-add|country_company_throughput_bonus_add]] = `0.1`

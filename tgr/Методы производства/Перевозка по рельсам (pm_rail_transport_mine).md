@@ -23,10 +23,10 @@ replaces: "[[vanilla/Методы производства/Перевозка п
 - **texture**: `gfx/interface/icons/production_method_icons/rail_transport.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **unlocking_technologies**: [[vanilla/Технологии/Железные дороги|Железные дороги]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_transportation_add` = `2` → [[tgr/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `2` → [[tgr/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

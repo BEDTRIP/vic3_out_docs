@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 970–978
 - **possible**: скрипт, строки 980–990
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `country_weekly_innovation_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 997–1001
 - **ai_construction_targets**: скрипт, строки 1003–1010
 - **ai_weight**: скрипт, строки 1012–1014

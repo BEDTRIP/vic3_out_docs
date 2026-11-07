@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 511–517
 - **possible**: скрипт, строки 518–528
 - **prosperity_modifier**:
-  - `building_automotive_industry_throughput_add` = `0.1` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.1` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
   - `unit_combat_unit_type_modern_light_tanks_offense_mult` = `0.15`
   - `unit_combat_unit_type_modern_heavy_tank_offense_mult` = `0.15`
 - **ai_will_do**: скрипт, строки 534–540

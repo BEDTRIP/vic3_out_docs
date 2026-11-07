@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 885–891
 - **possible**: скрипт, строки 892–902
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `-0.15` → [[tr/Здания/Железные дороги|Железные дороги]]
-  - `state_infrastructure_from_automobiles_consumption_add` = `0.15`
-  - `building_group_bg_heavy_industry_throughput_add` = `0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `-0.15` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-heavy-industry-throughput-add|building_group_bg_heavy_industry_throughput_add]] = `0.01`
 - **ai_will_do**: скрипт, строки 908–914
 - **ai_construction_targets**: скрипт, строки 915–922
 - **ai_weight**: скрипт, строки 923–925

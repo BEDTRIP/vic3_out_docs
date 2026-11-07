@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 726–734
 - **possible**: скрипт, строки 736–745
 - **prosperity_modifier**:
-  - `interest_group_ig_petty_bourgeoisie_pop_attraction_mult` = `0.05`
-  - `state_radicals_from_political_movements_mult` = `-0.05`
-  - `building_furniture_manufactory_throughput_add` = `0.1` → [[vanilla/Здания/Мебельные фабрики|Мебельные фабрики]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pop-attraction-mult|interest_group_ig_petty_bourgeoisie_pop_attraction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-furniture-manufactory-throughput-add|building_furniture_manufactory_throughput_add]] = `0.1` → [[vanilla/Здания/Мебельные фабрики|Мебельные фабрики]]
 - **ai_will_do**: скрипт, строки 753–758
 - **ai_construction_targets**: скрипт, строки 760–767
 - **ai_weight**: скрипт, строки 769–771

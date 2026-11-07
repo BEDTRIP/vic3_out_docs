@@ -18,8 +18,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **texture**: `gfx/interface/icons/production_method_icons/pm_bomber.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_aeroplanes_add` = `20` → [[tr/Товары/Аэропланы|Аэропланы]]
-    - `goods_input_ammunition_add` = `40` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-aeroplanes-add|goods_input_aeroplanes_add]] = `20` → [[tr/Товары/Аэропланы|Аэропланы]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-ammunition-add|goods_input_ammunition_add]] = `40` → [[vanilla/Товары/Боеприпасы|Боеприпасы]]
     - `goods_input_light_fuel_add` = `100` → [[tr/Товары/Light Fuel|Light Fuel]]
 - **timed_modifiers**: `pm_offense_defense_readjustment`
 

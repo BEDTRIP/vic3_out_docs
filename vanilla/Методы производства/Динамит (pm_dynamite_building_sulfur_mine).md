@@ -18,14 +18,14 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/dynamite.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **unlocking_technologies**: [[vanilla/Технологии/Динамит|Динамит]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_explosives_add` = `10` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
-    - `goods_output_sulfur_add` = `20` → [[vanilla/Товары/Сера|Сера]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `10` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sulfur-add|goods_output_sulfur_add]] = `20` → [[vanilla/Товары/Сера|Сера]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

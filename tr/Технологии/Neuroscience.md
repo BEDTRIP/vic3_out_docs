@@ -20,10 +20,10 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Cognitive Sciences|Cognitive Sciences]]
 - **modifier**:
-  - `state_turmoil_effects_mult` = `-0.1`
-  - `state_mortality_turmoil_mult` = `-0.1`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.1`
-  - `state_pop_qualifications_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-turmoil-mult|state_mortality_turmoil_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 467–467
 
 ## Ссылаются

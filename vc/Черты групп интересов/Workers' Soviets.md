@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/solidarity.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_legitimacy_ideological_incoherence_mult` = `-0.15`
-  - `building_group_bg_mining_throughput_add` = `0.1`
-  - `building_group_bg_manufacturing_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-manufacturing-throughput-add|building_group_bg_manufacturing_throughput_add]] = `0.1`

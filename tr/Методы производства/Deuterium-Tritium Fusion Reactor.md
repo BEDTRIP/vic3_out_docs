@@ -26,12 +26,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_copperwires_add` = `500` → [[tr/Товары/Wires|Wires]]
     - `goods_output_global_electricity_add` = `5000` → [[tr/Товары/National Electricity|National Electricity]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `5000` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_engineers_add` = `5000` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `5000` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `5000` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **country_modifiers**:
   - **unscaled**:
-    - `goods_input_electricity_mult` = `-0.1` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_electricity_mult` = `0.1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-mult|goods_input_electricity_mult]] = `-0.1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-mult|goods_output_electricity_mult]] = `0.1` → [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются
 

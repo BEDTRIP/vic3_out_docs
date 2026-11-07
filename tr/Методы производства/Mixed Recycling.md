@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Urban Sustainability|Urban Sustainability]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `1` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_steel_add` = `1` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-steel-add|goods_output_steel_add]] = `1` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_output_aluminium_add` = `1` → [[tr/Товары/Aluminium|Aluminium]]
-    - `goods_output_paper_add` = `1` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-paper-add|goods_output_paper_add]] = `1` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_output_plastics_add` = `0.5` → [[tr/Товары/Пластмассы|Пластмассы]]
 - **disallowing_laws**: [[tr/Законы/No Enviroment Protection|No Enviroment Protection]]
 

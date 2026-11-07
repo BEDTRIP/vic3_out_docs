@@ -24,8 +24,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_advancedores_add` = `4` → [[tr/Товары/Advanced Ores|Advanced Ores]]
     - `goods_output_global_electricity_add` = `50` → [[tr/Товары/National Electricity|National Electricity]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `900` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `900` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

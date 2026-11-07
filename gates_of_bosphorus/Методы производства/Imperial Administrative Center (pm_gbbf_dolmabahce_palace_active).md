@@ -18,18 +18,18 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_administrative_building.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `15`
-    - `country_authority_mult` = `0.05`
-    - `country_bureaucracy_add` = `80`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `15`
+    - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.05`
+    - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-add|country_bureaucracy_add]] = `80`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_tax_capacity_add` = `15`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `15`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `25` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `25` → [[vanilla/Товары/Бумага|Бумага]]
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `1000` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clerks_add` = `4000` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `1000` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `4000` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **unlocking_production_methods**: `pm_gbbf_dolmabahce_palace_active`
 
 ## Ссылаются

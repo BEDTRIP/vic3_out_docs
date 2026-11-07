@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **attainable**: скрипт, строки 199–205
 - **possible**: скрипт, строки 207–216
 - **prosperity_modifier**:
-  - `building_cotton_plantation_throughput_add` = `0.1` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
-  - `building_rubber_plantation_throughput_add` = `0.05` → [[vanilla/Здания/Каучуковые плантации|Каучуковые плантации]]
+  - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.1` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
+  - [[vanilla/движок/Модификаторы B#^m-building-rubber-plantation-throughput-add|building_rubber_plantation_throughput_add]] = `0.05` → [[vanilla/Здания/Каучуковые плантации|Каучуковые плантации]]
 - **ai_will_do**: скрипт, строки 223–228
 - **ai_construction_targets**: скрипт, строки 230–237
 - **ai_weight**: скрипт, строки 239–241

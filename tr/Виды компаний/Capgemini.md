@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_consulting_firm_companies.tx
 - **prosperity_modifier**:
   - `building_software_industry_throughput_add` = `0.05` → [[tr/Здания/Software Industry|Software Industry]]
   - `building_aircraft_industry_throughput_add` = `0.05` → [[tr/Здания/Aerospace Industries|Aerospace Industries]]
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 256–262
 - **ai_construction_targets**: скрипт, строки 263–270
 - **ai_weight**: скрипт, строки 271–273

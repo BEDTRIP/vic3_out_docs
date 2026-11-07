@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **unlocking_technologies**: [[tr/Технологии/Controlled Environment Agriculture|Controlled Environment Agriculture]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_grain_add` = `-10` → [[vanilla/Товары/Зерно|Зерно]]
-    - `goods_input_engines_add` = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `-10` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_input_water_add` = `1` → [[tr/Товары/Water|Water]]
-    - `goods_input_electricity_add` = `4` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_sugar_add` = `20` → [[vanilla/Товары/Сахар|Сахар]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `4` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sugar-add|goods_output_sugar_add]] = `20` → [[vanilla/Товары/Сахар|Сахар]]
 
 ## Ссылаются
 

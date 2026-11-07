@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **attainable**: скрипт, строки 105–111
 - **possible**: скрипт, строки 113–124
 - **prosperity_modifier**:
-  - `ship_ship_type_aircraft_carrier_hull_damage_mult` = `0.075`
-  - `ship_armor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-ship-type-aircraft-carrier-hull-damage-mult|ship_ship_type_aircraft_carrier_hull_damage_mult]] = `0.075`
+  - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 131–138
 - **ai_construction_targets**: скрипт, строки 140–147
 - **ai_weight**: скрипт, строки 149–151

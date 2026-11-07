@@ -22,9 +22,9 @@ paths: [.vanillaVIC3/common/production_methods/05_military.txt]
   - [[vanilla/Население/Типы/Офицеры|Офицеры]] = `3`
 - **building_modifiers**:
   - **unscaled**:
-    - `building_training_rate_add` = `50`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `50`
   - **level_scaled**:
-    - `building_training_rate_add` = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `10`
 
 ## Ссылаются
 

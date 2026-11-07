@@ -20,7 +20,7 @@ paths: [VC/common/technology/technologies/joi_production.txt]
 - **category**: `production`
 - **can_research**: `no`
 - **modifier**:
-  - `country_higher_leverage_from_economic_dependence_bool` = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-higher-leverage-from-economic-dependence-bool|country_higher_leverage_from_economic_dependence_bool]] = `yes`
 - **ai_weight**: скрипт, строки 30–32
 
 ## Ссылаются

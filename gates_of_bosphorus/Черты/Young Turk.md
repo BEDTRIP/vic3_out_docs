@@ -19,16 +19,16 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_personality_trai
 - **texture**: `gfx/interface/icons/character_trait_icons/gbbf_young_turk.dds`
 - **value**: `1`
 - **character_modifier**:
-  - `character_prominence_add` = `10`
-  - `character_loyalty_add` = `-5`
-  - `character_popularity_add` = `15`
+  - [[vanilla/движок/Модификаторы C#^m-character-prominence-add|character_prominence_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-character-loyalty-add|character_loyalty_add]] = `-5`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `15`
 - **command_modifier**:
-  - `unit_morale_recovery_mult` = `0.05`
-  - `unit_kill_rate_add` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-kill-rate-add|unit_kill_rate_add]] = `0.05`
 - **interest_group_modifier**:
-  - `interest_group_pop_attraction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pop-attraction-mult|interest_group_pop_attraction_mult]] = `0.05`
 - **agitator_modifier**:
-  - `political_movement_pop_attraction_mult` = `0.05`
-  - `political_movement_activism_growth_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-pop-attraction-mult|political_movement_pop_attraction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-activism-growth-mult|political_movement_activism_growth_mult]] = `0.10`
 - **possible**: скрипт, строки 232–239
 - **weight**: скрипт, строки 240–266

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_output_commonores_add` = `8` → [[tr/Товары/Common Ores|Common Ores]]
-    - `goods_output_iron_add` = `-15` → [[vanilla/Товары/Железо|Железо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-iron-add|goods_output_iron_add]] = `-15` → [[vanilla/Товары/Железо|Железо]]
 - **unlocking_technologies**: [[tr/Технологии/Geology|Geology]]
 
 ## Ссылаются

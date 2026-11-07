@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_cosmetics_companies.txt]
 - **attainable**: скрипт, строки 110–117
 - **possible**: скрипт, строки 118–128
 - **prosperity_modifier**:
-  - `state_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.5`
   - `building_elgar_opera_throughput_add` = `0.05` → [[tr/Здания/Entertainment Areas|Entertainment Areas]]
 - **ai_will_do**: скрипт, строки 133–139
 - **ai_construction_targets**: скрипт, строки 140–147

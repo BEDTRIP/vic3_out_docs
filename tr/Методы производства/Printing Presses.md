@@ -18,8 +18,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **texture**: `gfx/interface/icons/production_method_icons/manzoni_printing_press.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_paper_add` = `15` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `15` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_output_manzoni_prints_add` = `25` → [[tr/Товары/Media Content|Media Content]]
 - **unlocking_production_methods**: [[tr/Методы производства/Early Publishing Communication|Early Publishing Communication]], [[tr/Методы производства/Mid Publishing Communication|Mid Publishing Communication]], [[tr/Методы производства/Late Publishing Communication|Late Publishing Communication]]
 

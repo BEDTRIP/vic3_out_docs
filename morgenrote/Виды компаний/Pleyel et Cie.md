@@ -26,7 +26,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **possible**: скрипт, строки 666–675
 - **prosperity_modifier**:
   - `goods_output_elgar_instruments_mult` = `0.1` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
-  - `building_art_academy_throughput_add` = `0.05` → [[morgenrote/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.05` → [[morgenrote/Здания/Академии искусств|Академии искусств]]
 - **ai_will_do**: скрипт, строки 682–687
 - **ai_construction_targets**: скрипт, строки 689–696
 - **ai_weight**: скрипт, строки 698–700

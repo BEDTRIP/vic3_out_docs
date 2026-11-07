@@ -24,9 +24,9 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 328–334
 - **possible**: скрипт, строки 336–352
 - **prosperity_modifier**:
-  - `building_group_bg_mining_throughput_add` = `0.15`
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.15`
-  - `state_radicals_from_political_movements_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 360–375
 - **ai_construction_targets**: скрипт, строки 377–384
 - **ai_weight**: скрипт, строки 386–388

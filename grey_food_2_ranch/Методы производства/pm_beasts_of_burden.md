@@ -18,13 +18,13 @@ paths: [grey_add_alot_of_things/grey_food_2_ranch/common/production_methods/mog_
 - **texture**: `gfx/interface/icons/production_method_icons/beasts_of_burden.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_fabric_add` = `2` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_output_transportation_add` = `1` → [[vanilla/Товары/Перевозка|Перевозка]]
-    - `goods_input_transportation_add` = `-1` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-add|goods_output_fabric_add]] = `2` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `1` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `-1` → [[vanilla/Товары/Перевозка|Перевозка]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_millet_farm_throughput_add` = `0.005` → [[vanilla/Здания/Просяные поля|Просяные поля]]
-    - `goods_output_grain_mult` = `0.005` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы B#^m-building-millet-farm-throughput-add|building_millet_farm_throughput_add]] = `0.005` → [[vanilla/Здания/Просяные поля|Просяные поля]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-mult|goods_output_grain_mult]] = `0.005` → [[vanilla/Товары/Зерно|Зерно]]
 
 ## Ссылаются
 

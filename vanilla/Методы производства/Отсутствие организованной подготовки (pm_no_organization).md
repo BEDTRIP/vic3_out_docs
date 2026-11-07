@@ -23,9 +23,9 @@ paths: [.vanillaVIC3/common/production_methods/05_military.txt]
 - **disallowing_laws**: [[vanilla/Законы/Воинская каста|Воинская каста]]
 - **building_modifiers**:
   - **unscaled**:
-    - `building_training_rate_add` = `50`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `50`
   - **level_scaled**:
-    - `building_training_rate_add` = `8`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `8`
 
 ## Ссылаются
 

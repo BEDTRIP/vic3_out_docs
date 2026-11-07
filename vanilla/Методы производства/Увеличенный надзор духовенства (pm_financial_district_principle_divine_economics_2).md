@@ -20,12 +20,12 @@ paths: [.vanillaVIC3/common/production_methods/11_private_infrastructure.txt]
 - **unlocking_principles**: `principle_divine_economics_2`, `principle_divine_economics_3`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `50` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
-    - `building_employment_clergymen_add` = `25` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
-    - `building_employment_clerks_add` = `25` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `50` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `25` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `25` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_capitalists_shares_add` = `10`
-    - `building_clergymen_shares_add` = `2`
+    - [[vanilla/движок/Модификаторы B#^m-building-capitalists-shares-add|building_capitalists_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-clergymen-shares-add|building_clergymen_shares_add]] = `2`
 
 ## Ссылаются
 

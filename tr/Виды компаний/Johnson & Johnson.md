@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 196–202
 - **possible**: скрипт, строки 203–213
 - **prosperity_modifier**:
-  - `state_turmoil_effects_mult` = `-0.1`
-  - `state_mortality_wealth_mult` = `-0.002`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-wealth-mult|state_mortality_wealth_mult]] = `-0.002`
 - **ai_will_do**: скрипт, строки 218–224
 - **ai_construction_targets**: скрипт, строки 225–232
 - **ai_weight**: скрипт, строки 233–235

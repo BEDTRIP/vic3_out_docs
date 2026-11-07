@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/patriotic_fervor.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `unit_offense_mult` = `0.1`
-  - `unit_defense_mult` = `0.1`
-  - `unit_kill_rate_add` = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-kill-rate-add|unit_kill_rate_add]] = `0.15`

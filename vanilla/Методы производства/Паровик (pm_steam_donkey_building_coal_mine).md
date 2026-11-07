@@ -20,13 +20,13 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
 - **disallowing_laws**: [[vanilla/Законы/Запрет промышленности|Запрет промышленности]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_output_coal_add` = `-3` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-coal-add|goods_output_coal_add]] = `-3` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

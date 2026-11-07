@@ -26,8 +26,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 2610–2616
 - **possible**: скрипт, строки 2618–2628
 - **prosperity_modifier**:
-  - `building_coal_mine_throughput_add` = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
-  - `country_weekly_innovation_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.02`
 - **ai_will_do**: скрипт, строки 2636–2642
 - **ai_construction_targets**: скрипт, строки 2644–2651
 - **ai_weight**: скрипт, строки 2652–2654

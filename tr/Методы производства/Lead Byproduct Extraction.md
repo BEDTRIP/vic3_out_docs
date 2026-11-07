@@ -18,8 +18,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/lead.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_lead_add` = `8` → [[vanilla/Товары/Свинец|Свинец]]
-    - `goods_output_sulfur_add` = `-15` → [[vanilla/Товары/Сера|Сера]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-lead-add|goods_output_lead_add]] = `8` → [[vanilla/Товары/Свинец|Свинец]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sulfur-add|goods_output_sulfur_add]] = `-15` → [[vanilla/Товары/Сера|Сера]]
 - **unlocking_technologies**: [[tr/Технологии/Modern Purification|Modern Purification]]
 
 ## Ссылаются

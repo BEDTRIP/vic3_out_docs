@@ -18,17 +18,17 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_motorized_chariots.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_radicals_from_political_movements_mult` = `-0.05`
+    - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_steel_add` = `10` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_input_automobiles_add` = `5` → [[vanilla/Товары/Автомобили|Автомобили]]
-    - `goods_input_oil_add` = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
-    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `10` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-automobiles-add|goods_input_automobiles_add]] = `5` → [[vanilla/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `250` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

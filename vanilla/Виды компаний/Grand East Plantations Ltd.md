@@ -27,5 +27,5 @@ paths: [.vanillaVIC3/common/company_types/99_basic_companies.txt]
 - **prestige_goods_trigger**: скрипт, строки 237–242
 - **possible**: скрипт, строки 244–254
 - **prosperity_modifier**:
-  - `state_radicals_from_political_movements_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 260–270

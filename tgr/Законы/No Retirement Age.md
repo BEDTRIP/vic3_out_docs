@@ -20,8 +20,8 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_retirement_age.txt]
 - **progressiveness**: `0`
 - **ai_will_do**: скрипт, строки 9–11
 - **modifier**:
-  - `state_radicals_and_loyalists_from_sol_change_mult` = `0.25`
-  - `country_mass_migration_attraction_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-and-loyalists-from-sol-change-mult|state_radicals_and_loyalists_from_sol_change_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-mass-migration-attraction-mult|country_mass_migration_attraction_mult]] = `-0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 18–25
 - **on_activate**: скрипт, строки 27–49
 

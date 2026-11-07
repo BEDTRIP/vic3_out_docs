@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[vanilla/Технологии/Медицинские степени|Медицинские степени]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
 - **ai_weight**: скрипт, строки 40–42
 
 ## Ссылаются

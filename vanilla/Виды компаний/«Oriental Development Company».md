@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **attainable**: скрипт, строки 1141–1149
 - **possible**: скрипт, строки 1151–1168
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `state_migration_pull_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 1175–1183
 - **ai_construction_targets**: скрипт, строки 1185–1213
 - **ai_weight**: скрипт, строки 1215–1228

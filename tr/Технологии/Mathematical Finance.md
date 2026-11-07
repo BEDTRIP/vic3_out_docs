@@ -19,9 +19,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/math_finance.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_government_dividends_efficiency_add` = `0.05`
-  - `building_cash_reserves_mult` = `0.1`
-  - `country_minting_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-government-dividends-efficiency-add|country_government_dividends_efficiency_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-cash-reserves-mult|building_cash_reserves_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-minting-mult|country_minting_mult]] = `0.1`
 - **unlocking_technologies**: [[tr/Технологии/Computability Theory|Computability Theory]], [[tr/Технологии/Secure Market Transactions|Secure Market Transactions]]
 - **ai_weight**: скрипт, строки 537–539
 

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **texture**: `gfx/interface/icons/invention_icons/smart_vehicles.dds`
 - **category**: `production`
 - **modifier**:
-  - `goods_input_oil_mult` = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-mult|goods_input_oil_mult]] = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
 - **unlocking_technologies**: [[tr/Технологии/Hybrid Vehicles|Hybrid Vehicles]], [[tr/Технологии/Embedded Control Systems|Embedded Control Systems]]
 - **ai_weight**: скрипт, строки 1575–1577
 

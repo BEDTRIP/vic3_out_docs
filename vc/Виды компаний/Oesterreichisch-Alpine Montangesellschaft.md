@@ -36,7 +36,7 @@ replaces: "[[vanilla/Виды компаний/Oesterreichisch-Alpine Montangese
 - **attainable**: скрипт, строки 5953–5961
 - **possible**: скрипт, строки 5963–5976
 - **prosperity_modifier**:
-  - `building_lead_mine_throughput_add` = `0.1` → [[vc/Здания/Свинцовые рудники|Свинцовые рудники]]
-  - `building_railway_throughput_add` = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `state_migration_pull_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-lead-mine-throughput-add|building_lead_mine_throughput_add]] = `0.1` → [[vc/Здания/Свинцовые рудники|Свинцовые рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.15`
 - **ai_weight**: скрипт, строки 5984–5986

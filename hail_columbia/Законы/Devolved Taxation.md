@@ -21,25 +21,25 @@ paths: [for addon/Hail Columbia/common/laws/usfp_law_variants.txt]
 - **icon**: `gfx/interface/icons/law_icons/law_usfp_devolved_taxation.dds`
 - **is_visible**: скрипт, строки 127–129
 - **modifier**:
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.20`
-  - `state_tax_capacity_add` = `25`
-  - `state_tax_capacity_mult` = `0.25`
-  - `country_consumption_tax_cost_mult` = `-0.25`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.20`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `25`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-mult|state_tax_capacity_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-consumption-tax-cost-mult|country_consumption_tax_cost_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.10`
 - **tax_modifier_very_low**:
-  - `tax_consumption_add` = `0.10`
-  - `tax_land_add` = `0.04`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.10`
+  - [[vanilla/движок/Модификаторы T#^m-tax-land-add|tax_land_add]] = `0.04`
 - **tax_modifier_low**:
-  - `tax_consumption_add` = `0.15`
-  - `tax_land_add` = `0.08`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы T#^m-tax-land-add|tax_land_add]] = `0.08`
 - **tax_modifier_medium**:
-  - `tax_consumption_add` = `0.20`
-  - `tax_land_add` = `0.12`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.20`
+  - [[vanilla/движок/Модификаторы T#^m-tax-land-add|tax_land_add]] = `0.12`
 - **tax_modifier_high**:
-  - `tax_consumption_add` = `0.25`
-  - `tax_land_add` = `0.16`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы T#^m-tax-land-add|tax_land_add]] = `0.16`
 - **tax_modifier_very_high**:
-  - `tax_consumption_add` = `0.30`
-  - `tax_land_add` = `0.20`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.30`
+  - [[vanilla/движок/Модификаторы T#^m-tax-land-add|tax_land_add]] = `0.20`
 - **ai_will_do**: скрипт, строки 165–167
 - **ai_enact_weight_modifier**: скрипт, строки 169–176

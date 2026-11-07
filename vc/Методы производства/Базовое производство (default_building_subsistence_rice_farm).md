@@ -22,4 +22,4 @@ replaces: "[[vanilla/Методы производства/Базовое про
 
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_peasants_add` = `2500` → [[vanilla/Население/Типы/Крестьяне|Крестьяне]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-peasants-add|building_employment_peasants_add]] = `2500` → [[vanilla/Население/Типы/Крестьяне|Крестьяне]]

@@ -18,15 +18,15 @@ paths: [VC/common/character_traits/joi_special_personality_traits.txt]
 - **type**: `personality`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/special_character_napoleon_of_the_americas.dds`
 - **character_modifier**:
-  - `character_popularity_add` = `100`
-  - `character_prominence_add` = `100`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `100`
+  - [[vanilla/движок/Модификаторы C#^m-character-prominence-add|character_prominence_add]] = `100`
 - **command_modifier**:
-  - `unit_army_offense_add` = `10`
-  - `unit_morale_loss_mult` = `-0.25`
-  - `character_command_limit_mult` = `1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-add|unit_army_offense_add]] = `10`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-character-command-limit-mult|character_command_limit_mult]] = `1`
 - **country_modifier**:
-  - `country_radicals_from_conquest_mult` = `-0.25`
-  - `state_contiguous_incorporation_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicals-from-conquest-mult|country_radicals_from_conquest_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-contiguous-incorporation-speed-mult|state_contiguous_incorporation_speed_mult]] = `0.1`
 - **agitator_modifier**: пусто
 - **executive_modifier**: пусто
 - **possible**: пусто

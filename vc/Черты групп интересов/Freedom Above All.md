@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/social_criticism.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_secession_progress_mult` = `0.15`
-  - `country_revolution_progress_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-secession-progress-mult|country_secession_progress_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-revolution-progress-mult|country_revolution_progress_mult]] = `0.15`

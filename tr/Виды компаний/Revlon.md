@@ -27,8 +27,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_cosmetics_companies.txt]
 - **attainable**: скрипт, строки 182–189
 - **possible**: скрипт, строки 190–200
 - **prosperity_modifier**:
-  - `state_pop_support_movement_feminist_mult` = `0.2`
-  - `state_mortality_mult` = `-0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-feminist-mult|state_pop_support_movement_feminist_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.02`
 - **ai_will_do**: скрипт, строки 205–211
 - **ai_construction_targets**: скрипт, строки 212–219
 - **ai_weight**: скрипт, строки 220–222

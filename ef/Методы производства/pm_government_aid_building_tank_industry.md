@@ -21,10 +21,10 @@ paths: [E&F/common/production_methods/00_ef_market_liquidity.txt]
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_war_bond_add` = `1`
-    - `goods_input_engines_add` = `-10` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_hardwood_add` = `-20` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
-    - `goods_input_fabric_add` = `-20` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_input_oil_add` = `-20` → [[vanilla/Товары/ГСМ|ГСМ]]
-    - `goods_output_tanks_add` = `40` → [[vanilla/Товары/Танки|Танки]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `-10` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-hardwood-add|goods_input_hardwood_add]] = `-20` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `-20` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `-20` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-tanks-add|goods_output_tanks_add]] = `40` → [[vanilla/Товары/Танки|Танки]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `500` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[vanilla/Население/Типы/Инженеры|Инженеры]]

@@ -26,7 +26,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **possible**: скрипт, строки 344–353
 - **prosperity_modifier**:
   - `goods_output_elgar_music_mult` = `0.05` → [[morgenrote/Товары/Музыка|Музыка]]
-  - `state_assimilation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 360–365
 - **ai_construction_targets**: скрипт, строки 367–374
 - **ai_weight**: скрипт, строки 376–378

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Advanced Electric Arc Processes|Advanced Electric Arc Processes]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `1` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_output_aluminium_add` = `3` → [[tr/Товары/Aluminium|Aluminium]]
 - **disallowing_laws**: [[tr/Законы/No Enviroment Protection|No Enviroment Protection]]
 

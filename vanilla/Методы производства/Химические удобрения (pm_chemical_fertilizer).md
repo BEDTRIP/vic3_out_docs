@@ -19,14 +19,14 @@ paths: [.vanillaVIC3/common/production_methods/02_agro.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Связывание азота|Связывание азота]]
 - **state_modifiers**:
   - **unscaled**:
-    - `state_harvest_condition_drought_impact_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-harvest-condition-drought-impact-mult|state_harvest_condition_drought_impact_mult]] = `0.1`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fertilizer_add` = `15` → [[vanilla/Товары/Удобрение|Удобрение]]
-    - `goods_output_grain_add` = `60` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `15` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `60` → [[vanilla/Товары/Зерно|Зерно]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `2500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `2500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
 
 ## Ссылаются
 

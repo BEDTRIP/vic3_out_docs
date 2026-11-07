@@ -28,6 +28,6 @@ replaces: "[[vanilla/Методы производства/Тактика вед
 - **unlocking_technologies**: [[tr/Технологии/Blitzkrieg|Blitzkrieg]]
 - **building_modifiers**:
   - **unscaled**:
-    - `building_training_rate_add` = `50`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `50`
   - **level_scaled**:
-    - `building_training_rate_add` = `24`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `24`

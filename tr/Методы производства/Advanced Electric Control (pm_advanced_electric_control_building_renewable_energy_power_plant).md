@@ -23,7 +23,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_telecommunications_add` = `2` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_copperwires_add` = `2` → [[tr/Товары/Wires|Wires]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-200` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-200` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

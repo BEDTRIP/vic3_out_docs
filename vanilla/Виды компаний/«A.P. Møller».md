@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1733–1739
 - **possible**: скрипт, строки 1741–1750
 - **prosperity_modifier**:
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.2`
-  - `interest_group_ig_industrialists_pop_attraction_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.2`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pop-attraction-mult|interest_group_ig_industrialists_pop_attraction_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 1757–1762
 - **ai_construction_targets**: скрипт, строки 1764–1771
 - **ai_weight**: скрипт, строки 1773–1775

@@ -22,15 +22,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **disallowing_laws**: [[tgr/Законы/Изоляционизм|Изоляционизм]]
 - **unlocking_technologies**: [[tgr/Технологии/Международные отношения|Международные отношения]]
 - **modifier**:
-  - `country_influence_mult` = `0.25`
-  - `country_infamy_decay_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `-0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `0.05`
-  - `interest_group_ig_intelligentsia_pop_attraction_mult` = `0.10`
-  - `country_influence_add` = `50`
-  - `country_bureaucrats_pol_str_mult` = `0.20`
-  - `country_academics_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pop-attraction-mult|interest_group_ig_intelligentsia_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-add|country_influence_add]] = `50`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-pol-str-mult|country_bureaucrats_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-academics-pol-str-mult|country_academics_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 64–71
 
 ## Ссылаются

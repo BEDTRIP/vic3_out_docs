@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/scientific_management.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_group_bg_manufacturing_throughput_add` = `0.1`
-  - `interest_group_ig_trade_unions_pop_attraction_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-manufacturing-throughput-add|building_group_bg_manufacturing_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pop-attraction-mult|interest_group_ig_trade_unions_pop_attraction_mult]] = `-0.10`

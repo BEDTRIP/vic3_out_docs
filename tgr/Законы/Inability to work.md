@@ -21,8 +21,8 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_retirement_age.txt]
 - **unlocking_technologies**: [[tgr/Технологии/Демократия|Демократия]]
 - **disallowing_laws**: [[tgr/Законы/Нет прав трудящихся|Нет прав трудящихся]]
 - **modifier**:
-  - `state_working_adult_ratio_add` = `-0.05`
-  - `state_food_security_add` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-food-security-add|state_food_security_add]] = `0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 74–81
 - **on_activate**: скрипт, строки 83–91
 

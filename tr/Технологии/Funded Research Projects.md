@@ -20,8 +20,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[vanilla/Технологии/Аналитическая философия|Аналитическая философия]], [[tr/Технологии/Social Democracy|Social Democracy]]
 - **modifier**:
-  - `building_university_throughput_add` = `0.1` → [[vanilla/Здания/Университеты|Университеты]]
-  - `country_free_charters_add` = `1`
+  - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.1` → [[vanilla/Здания/Университеты|Университеты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-free-charters-add|country_free_charters_add]] = `1`
 - **ai_weight**: скрипт, строки 368–368
 
 ## Ссылаются

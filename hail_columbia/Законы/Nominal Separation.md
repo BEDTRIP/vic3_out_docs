@@ -24,15 +24,15 @@ paths: [for addon/Hail Columbia/common/laws/usfp_law_variants.txt]
 - **is_visible**: скрипт, строки 54–59
 - **on_enact**: скрипт, строки 68–82
 - **modifier**:
-  - `country_acceptance_state_religion_add` = `15`
-  - `country_acceptance_shared_religious_trait_add` = `10`
-  - `country_acceptance_shared_religious_trait_group_add` = `5`
-  - `country_acceptance_no_shared_religious_trait_add` = `0`
-  - `country_allow_conversion_violent_hostility_bool` = `yes`
-  - `country_allow_conversion_cultural_erasure_bool` = `yes`
-  - `country_allow_conversion_open_prejudice_bool` = `yes`
-  - `country_allow_conversion_second_rate_citizen_bool` = `yes`
-  - `country_allow_conversion_full_acceptance_bool` = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-state-religion-add|country_acceptance_state_religion_add]] = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-shared-religious-trait-add|country_acceptance_shared_religious_trait_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-shared-religious-trait-group-add|country_acceptance_shared_religious_trait_group_add]] = `5`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-no-shared-religious-trait-add|country_acceptance_no_shared_religious_trait_add]] = `0`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-violent-hostility-bool|country_allow_conversion_violent_hostility_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-cultural-erasure-bool|country_allow_conversion_cultural_erasure_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-open-prejudice-bool|country_allow_conversion_open_prejudice_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-second-rate-citizen-bool|country_allow_conversion_second_rate_citizen_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-full-acceptance-bool|country_allow_conversion_full_acceptance_bool]] = `yes`
 - **can_impose**: скрипт, строки 97–108
 - **ai_enact_weight_modifier**: скрипт, строки 110–117
 

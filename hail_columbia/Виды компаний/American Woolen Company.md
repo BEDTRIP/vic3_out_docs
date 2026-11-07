@@ -26,8 +26,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 495–501
 - **possible**: скрипт, строки 503–513
 - **prosperity_modifier**:
-  - `building_textile_mill_throughput_add` = `0.15` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.15` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 520–529
 - **ai_construction_targets**: скрипт, строки 531–538
 - **ai_weight**: скрипт, строки 540–542

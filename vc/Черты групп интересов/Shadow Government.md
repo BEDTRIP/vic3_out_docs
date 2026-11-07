@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/materiel_waste.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_military_goods_cost_mult` = `0.1`
-  - `country_law_enactment_speed_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `-0.25`

@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Offset Printing|Offset Printing]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `50` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_input_coal_add` = `10` → [[vanilla/Товары/Уголь|Уголь]]
-    - `goods_input_rubber_add` = `10` → [[vanilla/Товары/Каучук|Каучук]]
-    - `goods_input_dye_add` = `20` → [[vanilla/Товары/Красители|Красители]]
-    - `goods_input_engines_add` = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `50` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `10` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-rubber-add|goods_input_rubber_add]] = `10` → [[vanilla/Товары/Каучук|Каучук]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-dye-add|goods_input_dye_add]] = `20` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_output_manzoni_prints_add` = `100` → [[tr/Товары/Media Content|Media Content]]
 - **unlocking_production_methods**: [[tr/Методы производства/Early Publishing Communication|Early Publishing Communication]], [[tr/Методы производства/Mid Publishing Communication|Mid Publishing Communication]], [[tr/Методы производства/Late Publishing Communication|Late Publishing Communication]]
 

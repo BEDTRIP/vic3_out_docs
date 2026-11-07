@@ -19,13 +19,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_homeappliances_add` = `2` → [[tr/Товары/Home Appliances|Home Appliances]]
-    - `goods_input_furniture_add` = `2` → [[vanilla/Товары/Мебель|Мебель]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-furniture-add|goods_input_furniture_add]] = `2` → [[vanilla/Товары/Мебель|Мебель]]
     - `goods_input_computer_add` = `2` → [[tr/Товары/Computers|Computers]]
     - `goods_input_televisions_add` = `2` → [[tr/Товары/Televisions|Televisions]]
-    - `goods_input_telephones_add` = `4` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `4` → [[vanilla/Товары/Телефоны|Телефоны]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `-100` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_machinists_add` = `-150` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `-100` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-150` → [[vanilla/Население/Типы/Механики|Механики]]
 - **unlocking_production_methods**: [[tr/Методы производства/Platform Gig Delivery|Platform Gig Delivery]], [[tr/Методы производства/Integrated Retail E-Commerce|Integrated Retail E-Commerce]], [[tr/Методы производства/Predictive Fulfilment Network|Predictive Fulfilment Network]]
 
 ## Ссылаются

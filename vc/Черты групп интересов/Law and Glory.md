@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `building_group_bg_government_throughput_add` = `0.05`
-  - `country_law_enactment_success_add` = `0.1`
-  - `country_society_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-government-throughput-add|building_group_bg_government_throughput_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-success-add|country_law_enactment_success_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.05`

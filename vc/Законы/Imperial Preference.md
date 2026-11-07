@@ -22,11 +22,11 @@ paths: [VC/common/laws/joi_trade_policy.txt]
 - **is_visible**: скрипт, строки 9–22
 - **can_enact**: скрипт, строки 24–29
 - **modifier**:
-  - `state_tariff_import_add` = `0.75`
-  - `state_tariff_export_add` = `0.75`
-  - `state_subvention_export_add` = `0.60`
-  - `state_subvention_import_add` = `0.40`
-  - `country_leverage_resistance_mult` = `0.5`
-  - `state_export_advantage_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-tariff-import-add|state_tariff_import_add]] = `0.75`
+  - [[vanilla/движок/Модификаторы S#^m-state-tariff-export-add|state_tariff_export_add]] = `0.75`
+  - [[vanilla/движок/Модификаторы S#^m-state-subvention-export-add|state_subvention_export_add]] = `0.60`
+  - [[vanilla/движок/Модификаторы S#^m-state-subvention-import-add|state_subvention_import_add]] = `0.40`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-resistance-mult|country_leverage_resistance_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-export-advantage-mult|state_export_advantage_mult]] = `0.25`
 - **ai_will_do**: скрипт, строки 40–42
 - **ai_enact_weight_modifier**: скрипт, строки 44–46

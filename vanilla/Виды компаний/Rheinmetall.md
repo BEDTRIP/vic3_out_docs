@@ -27,9 +27,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_germany.txt]
 - **attainable**: скрипт, строки 126–135
 - **possible**: скрипт, строки 137–154
 - **prosperity_modifier**:
-  - `unit_combat_unit_type_siege_artillery_offense_mult` = `0.1`
-  - `unit_combat_unit_type_shrapnel_artillery_offense_mult` = `0.1`
-  - `unit_army_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-combat-unit-type-siege-artillery-offense-mult|unit_combat_unit_type_siege_artillery_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-combat-unit-type-shrapnel-artillery-offense-mult|unit_combat_unit_type_shrapnel_artillery_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 162–171
 - **ai_construction_targets**: скрипт, строки 173–204
 - **ai_weight**: скрипт, строки 206–208

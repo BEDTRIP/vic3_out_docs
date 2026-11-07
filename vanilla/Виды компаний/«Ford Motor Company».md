@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_usa.txt]
 - **attainable**: скрипт, строки 447–453
 - **possible**: скрипт, строки 455–465
 - **prosperity_modifier**:
-  - `building_motor_industry_throughput_add` = `0.15` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
-  - `building_automotive_industry_throughput_add` = `0.05` → [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.15` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.05` → [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **ai_will_do**: скрипт, строки 472–478
 - **ai_construction_targets**: скрипт, строки 480–487
 - **ai_weight**: скрипт, строки 489–491

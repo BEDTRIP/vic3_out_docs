@@ -18,7 +18,7 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/social_criticism.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_turmoil_effects_mult` = `0.15`
-  - `state_radicalism_increases_full_acceptance_mult` = `0.1`
-  - `state_radicalism_increases_second_rate_citizen_mult` = `0.1`
-  - `state_radicalism_increases_open_prejudice_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-full-acceptance-mult|state_radicalism_increases_full_acceptance_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-second-rate-citizen-mult|state_radicalism_increases_second_rate_citizen_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-open-prejudice-mult|state_radicalism_increases_open_prejudice_mult]] = `0.1`

@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 1306–1314
 - **possible**: скрипт, строки 1316–1326
 - **prosperity_modifier**:
-  - `state_mortality_mult` = `-0.05`
-  - `state_assimilation_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 1333–1337
 - **ai_construction_targets**: скрипт, строки 1339–1346
 - **ai_weight**: скрипт, строки 1348–1350

@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_consulting_firm_companies.tx
 - **attainable**: скрипт, строки 169–175
 - **possible**: скрипт, строки 176–186
 - **prosperity_modifier**:
-  - `building_motor_industry_throughput_add` = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
-  - `building_chemical_plant_throughput_add` = `0.05` → [[tr/Здания/Заводы удобрений|Заводы удобрений]]
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-chemical-plant-throughput-add|building_chemical_plant_throughput_add]] = `0.05` → [[tr/Здания/Заводы удобрений|Заводы удобрений]]
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 192–198
 - **ai_construction_targets**: скрипт, строки 199–206
 - **ai_weight**: скрипт, строки 207–209

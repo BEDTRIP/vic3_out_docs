@@ -23,12 +23,12 @@ replaces: "[[vanilla/Методы производства/Паровик (pm_st
 - **texture**: `gfx/interface/icons/production_method_icons/steam_donkey.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_technologies**: [[vanilla/Технологии/Паровик|Паровик]]
 - **disallowing_laws**: [[tgr/Законы/Запрет промышленности|Запрет промышленности]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `1` → [[tgr/Товары/Двигатели|Двигатели]]
-    - `goods_input_coal_add` = `2` → [[tgr/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `1` → [[tgr/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `2` → [[tgr/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

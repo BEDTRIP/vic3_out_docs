@@ -26,9 +26,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 104–113
 - **possible**: скрипт, строки 115–129
 - **prosperity_modifier**:
-  - `goods_output_tanks_mult` = `0.1` → [[vanilla/Товары/Танки|Танки]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-tanks-mult|goods_output_tanks_mult]] = `0.1` → [[vanilla/Товары/Танки|Танки]]
   - `unit_combat_unit_type_light_tanks_offense_mult` = `0.25`
-  - `goods_output_automobiles_mult` = `0.1` → [[vanilla/Товары/Автомобили|Автомобили]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-automobiles-mult|goods_output_automobiles_mult]] = `0.1` → [[vanilla/Товары/Автомобили|Автомобили]]
 - **ai_will_do**: скрипт, строки 137–142
 - **ai_construction_targets**: скрипт, строки 144–151
 - **ai_weight**: скрипт, строки 153–155

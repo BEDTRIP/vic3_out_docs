@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_mining_policy.txt]
 - **progressiveness**: `0`
 - **unlocking_technologies**: [[tr/Технологии/Nature Protection|Nature Protection]]
 - **modifier**:
-  - `state_pollution_reduction_health_mult` = `-0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.02`
 - **on_activate**: скрипт, строки 33–35
 - **ai_enact_weight_modifier**: скрипт, строки 37–44
 

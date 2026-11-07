@@ -27,8 +27,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 724–730
 - **possible**: скрипт, строки 732–741
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `state_infrastructure_mult` = `0.06`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.06`
 - **ai_will_do**: скрипт, строки 749–754
 - **ai_construction_targets**: скрипт, строки 756–763
 - **ai_weight**: скрипт, строки 764–766

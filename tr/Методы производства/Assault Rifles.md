@@ -19,18 +19,18 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Assault Rifle|Assault Rifle]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_steel_add` = `20` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_input_tools_add` = `10` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `20` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `10` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_input_aluminium_add` = `10` → [[tr/Товары/Aluminium|Aluminium]]
     - `goods_input_electroniccomponents_add` = `2` → [[tr/Товары/Electronic Components|Electronic Components]]
     - `goods_input_lubricant_add` = `10` → [[tr/Товары/Lubricants|Lubricants]]
     - `goods_input_alloys_add` = `10` → [[tr/Товары/Alloys|Alloys]]
-    - `goods_output_small_arms_add` = `140` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-small-arms-add|goods_output_small_arms_add]] = `140` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_laborers_add` = `2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `1250` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

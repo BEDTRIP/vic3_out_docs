@@ -34,7 +34,7 @@ replaces: "[[vanilla/Виды компаний/Jakub Klein a spol]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 5903–5915
 - **prosperity_modifier**:
-  - `building_paper_mill_throughput_add` = `0.1` → [[vc/Здания/Бумажные фабрики|Бумажные фабрики]]
-  - `building_group_bg_agriculture_throughput_add` = `0.1`
-  - `goods_output_paper_mult` = `0.15` → [[vanilla/Товары/Бумага|Бумага]]
+  - [[vanilla/движок/Модификаторы B#^m-building-paper-mill-throughput-add|building_paper_mill_throughput_add]] = `0.1` → [[vc/Здания/Бумажные фабрики|Бумажные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-paper-mult|goods_output_paper_mult]] = `0.15` → [[vanilla/Товары/Бумага|Бумага]]
 - **ai_weight**: скрипт, строки 5923–5925

@@ -27,9 +27,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 6915–6921
 - **possible**: скрипт, строки 6923–6933
 - **prosperity_modifier**:
-  - `ship_armor_mult` = `0.05`
-  - `ship_detection_mult` = `0.05`
-  - `country_ship_construction_efficiency_add` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-detection-mult|ship_detection_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-construction-efficiency-add|country_ship_construction_efficiency_add]] = `0.1`
 - **ai_will_do**: скрипт, строки 6941–6946
 - **ai_construction_targets**: скрипт, строки 6948–6955
 - **ai_weight**: скрипт, строки 6958–6960

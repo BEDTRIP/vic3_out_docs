@@ -19,17 +19,17 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Social Media|Social Media]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_televisions_add` = `5` → [[tr/Товары/Televisions|Televisions]]
     - `goods_input_manzoni_prints_add` = `10` → [[tr/Товары/Media Content|Media Content]]
-    - `goods_input_groceries_add` = `5` → [[vanilla/Товары/Продукты|Продукты]]
-    - `goods_input_furniture_add` = `5` → [[vanilla/Товары/Мебель|Мебель]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-groceries-add|goods_input_groceries_add]] = `5` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-furniture-add|goods_input_furniture_add]] = `5` → [[vanilla/Товары/Мебель|Мебель]]
     - `goods_input_telecommunications_add` = `5` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_softwares_add` = `5` → [[tr/Товары/Software|Software]]
     - `goods_output_elgar_music_add` = `35` → [[tr/Товары/Entertainment|Entertainment]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `75` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_clerks_add` = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `75` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

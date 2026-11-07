@@ -21,7 +21,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/yMoG_USU_PPP_
 - **unlocking_technologies**: [[grey_usu/Технологии/Передача мощности|Передача мощности]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_electricity_add` = `-70` → [[grey_usu/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-add|goods_output_electricity_add]] = `-70` → [[grey_usu/Товары/Электричество|Электричество]]
     - `goods_output_ppp_hv_power_add` = `20` → [[grey_usu/Товары/Высоковольтная мощность|Высоковольтная мощность]]
 
 ## Ссылаются

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/job_creators.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_production_tech_research_speed_mult` = `0.1`
-  - `ship_supply_efficiency_add` = `0.15`
-  - `ship_hull_damage_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-supply-efficiency-add|ship_supply_efficiency_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.05`

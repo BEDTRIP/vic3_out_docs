@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 744–750
 - **possible**: скрипт, строки 752–760
 - **prosperity_modifier**:
-  - `country_liberty_desire_add` = `0.10`
-  - `building_art_academy_throughput_add` = `0.1` → [[vanilla/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы C#^m-country-liberty-desire-add|country_liberty_desire_add]] = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.1` → [[vanilla/Здания/Академии искусств|Академии искусств]]
 - **ai_will_do**: скрипт, строки 767–771
 - **ai_construction_targets**: скрипт, строки 773–780
 - **ai_weight**: скрипт, строки 782–784

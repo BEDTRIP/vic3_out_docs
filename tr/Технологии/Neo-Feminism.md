@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/neo_feminism.dds`
 - **category**: `society`
 - **modifier**:
-  - `state_working_adult_ratio_add` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Counterculture|Counterculture]]
 - **ai_weight**: скрипт, строки 712–714
 

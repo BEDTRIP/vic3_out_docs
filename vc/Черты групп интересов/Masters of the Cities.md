@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/treasury_bonds.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_shopkeepers_investment_pool_efficiency_mult` = `0.15`
-  - `state_infrastructure_mult` = `0.1`
-  - `state_migration_pull_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-shopkeepers-investment-pool-efficiency-mult|state_shopkeepers_investment_pool_efficiency_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`

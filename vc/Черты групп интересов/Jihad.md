@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/be_fruitful_and_multiply.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_influence_mult` = `0.15`
-  - `unit_army_offense_mult` = `0.05`
-  - `state_conscription_rate_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-conscription-rate-mult|state_conscription_rate_mult]] = `0.25`

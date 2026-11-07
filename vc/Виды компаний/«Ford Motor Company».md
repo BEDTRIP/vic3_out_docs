@@ -31,9 +31,9 @@ replaces: "[[vanilla/Виды компаний/«Ford Motor Company»]]"
 - **attainable**: скрипт, строки 185–191
 - **possible**: скрипт, строки 193–203
 - **prosperity_modifier**:
-  - `country_military_goods_cost_mult` = `-0.1`
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `goods_output_automobiles_mult` = `0.15` → [[vanilla/Товары/Автомобили|Автомобили]]
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-automobiles-mult|goods_output_automobiles_mult]] = `0.15` → [[vanilla/Товары/Автомобили|Автомобили]]
 - **ai_will_do**: скрипт, строки 211–217
 - **ai_construction_targets**: скрипт, строки 219–226
 - **ai_weight**: скрипт, строки 228–230

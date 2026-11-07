@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Personal Computer|Personal Computer]], [[tr/Технологии/Broadband & Wireless Networks|Broadband & Wireless Networks]], [[tr/Технологии/Mobile Phone|Mobile Phone]]
 - **modifier**:
-  - `building_electrics_industry_throughput_add` = `0.05` → [[tr/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.05` → [[tr/Здания/Электрозаводы|Электрозаводы]]
 - **ai_weight**: скрипт, строки 1553–1561
 
 ## Ссылаются

@@ -18,11 +18,11 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **texture**: `gfx/interface/icons/production_method_icons/picks_and_shovels.dds`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_clerks_add` = `300` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `300` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `5`
 
 ## Ссылаются
 

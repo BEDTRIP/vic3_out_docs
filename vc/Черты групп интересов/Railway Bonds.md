@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/engines_of_progress.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_loan_interest_rate_mult` = `-0.1`
-  - `building_group_bg_infrastructure_employee_mult` = `-0.05`
-  - `country_production_tech_research_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-infrastructure-employee-mult|building_group_bg_infrastructure_employee_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.1`

@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: пусто
 - **possible**: скрипт, строки 30–43
 - **prosperity_modifier**:
-  - `building_trade_center_throughput_add` = `0.05` → [[vanilla/Здания/Торговые центры|Торговые центры]]
-  - `interest_group_ig_industrialists_pop_attraction_mult` = `0.2`
-  - `interest_group_ig_industrialists_approval_add` = `3`
+  - [[vanilla/движок/Модификаторы B#^m-building-trade-center-throughput-add|building_trade_center_throughput_add]] = `0.05` → [[vanilla/Здания/Торговые центры|Торговые центры]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pop-attraction-mult|interest_group_ig_industrialists_pop_attraction_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-approval-add|interest_group_ig_industrialists_approval_add]] = `3`
 - **ai_will_do**: скрипт, строки 51–58
 - **ai_construction_targets**: скрипт, строки 60–70
 - **ai_weight**: скрипт, строки 72–74

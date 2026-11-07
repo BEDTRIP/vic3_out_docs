@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_textile_companies.txt]
 - **attainable**: скрипт, строки 242–249
 - **possible**: скрипт, строки 250–260
 - **prosperity_modifier**:
-  - `building_livestock_ranch_throughput_add` = `0.05` → [[tr/Здания/Животноводческие фермы|Животноводческие фермы]]
-  - `state_pop_support_movement_feminist_mult` = `0.05`
-  - `building_art_academy_throughput_add` = `0.1` → [[tr/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.05` → [[tr/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-feminist-mult|state_pop_support_movement_feminist_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.1` → [[tr/Здания/Академии искусств|Академии искусств]]
 - **ai_will_do**: скрипт, строки 266–272
 - **ai_construction_targets**: скрипт, строки 273–280
 - **ai_weight**: скрипт, строки 281–283

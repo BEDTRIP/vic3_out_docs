@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **possible**: скрипт, строки 1025–1038
 - **prosperity_modifier**:
   - `building_computer_assembly_plant_throughput_add` = `0.05` → [[tr/Здания/Computer Assembly Plants|Computer Assembly Plants]]
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 1043–1049
 - **ai_construction_targets**: скрипт, строки 1050–1057
 - **ai_weight**: скрипт, строки 1058–1060

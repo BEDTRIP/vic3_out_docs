@@ -21,10 +21,10 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_bioethics.txt]
 - **unlocking_technologies**: [[tr/Технологии/Counterculture|Counterculture]]
 - **disallowing_laws**: [[vanilla/Законы/Нет системы здравоохранения|Нет системы здравоохранения]], [[vanilla/Законы/Благотворительные лечебницы|Благотворительные лечебницы]]
 - **modifier**:
-  - `interest_group_ig_devout_pol_str_mult` = `-0.2`
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `0.2`
-  - `political_movement_radicalism_from_enactment_disapproval_mult` = `0.1`
-  - `state_birth_rate_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `-0.2`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-from-enactment-disapproval-mult|political_movement_radicalism_from_enactment_disapproval_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.02`
 - **ai_enact_weight_modifier**: скрипт, строки 70–77
 
 ## Ссылаются

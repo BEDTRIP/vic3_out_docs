@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«Philips»]]"
 - **attainable**: скрипт, строки 5083–5092
 - **possible**: скрипт, строки 5094–5107
 - **prosperity_modifier**:
-  - `goods_output_radios_mult` = `0.1` → [[vanilla/Товары/Радио|Радио]]
-  - `goods_output_telephones_mult` = `0.1` → [[vanilla/Товары/Телефоны|Телефоны]]
-  - `country_weekly_innovation_max_add` = `5`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-radios-mult|goods_output_radios_mult]] = `0.1` → [[vanilla/Товары/Радио|Радио]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-telephones-mult|goods_output_telephones_mult]] = `0.1` → [[vanilla/Товары/Телефоны|Телефоны]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `5`
 - **ai_will_do**: скрипт, строки 5115–5124
 - **ai_construction_targets**: скрипт, строки 5126–5137
 - **ai_weight**: скрипт, строки 5139–5141

@@ -19,15 +19,15 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_skill_traits.txt
 - **texture**: `gfx/interface/icons/character_trait_icons/gbbf_marabout.dds`
 - **value**: `2`
 - **character_modifier**:
-  - `character_popularity_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `25`
 - **country_modifier**:
-  - `interest_group_pol_str_mult` = `0.05`
-  - `country_authority_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pol-str-mult|interest_group_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.10`
 - **command_modifier**:
-  - `unit_morale_recovery_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.25`
 - **interest_group_modifier**: пусто
 - **agitator_modifier**:
-  - `political_movement_pop_attraction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-pop-attraction-mult|political_movement_pop_attraction_mult]] = `0.05`
 - **possible**: скрипт, строки 134–136
 - **weight**:
   - `value` = `0`

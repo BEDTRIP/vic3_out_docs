@@ -19,10 +19,10 @@ paths: [llwa/common/production_methods/LLWA_air.txt]
 - **unlocking_production_methods**: [[llwa/Методы производства/Дирижабли|Дирижабли]], [[llwa/Методы производства/Аэропланы|Аэропланы]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `10` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_output_transportation_add` = `30` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `10` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `30` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

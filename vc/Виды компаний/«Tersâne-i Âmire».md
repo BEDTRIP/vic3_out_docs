@@ -36,9 +36,9 @@ replaces: "[[vanilla/Виды компаний/«Tersâne-i Âmire»]]"
 - **attainable**: скрипт, строки 1088–1094
 - **possible**: скрипт, строки 1096–1106
 - **prosperity_modifier**:
-  - `ship_critical_hit_chance_mult` = `0.1`
-  - `battle_defense_owned_province_mult` = `0.05`
-  - `battle_offense_owned_province_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-critical-hit-chance-mult|ship_critical_hit_chance_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-battle-defense-owned-province-mult|battle_defense_owned_province_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-battle-offense-owned-province-mult|battle_offense_owned_province_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 1114–1120
 - **ai_construction_targets**: скрипт, строки 1122–1129
 - **ai_weight**: скрипт, строки 1131–1133

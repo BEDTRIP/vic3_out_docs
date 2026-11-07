@@ -38,8 +38,8 @@ replaces: "[[vanilla/Виды компаний/Massey-Harris Limited]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 3816–3828
 - **prosperity_modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.15`
-  - `building_group_bg_agriculture_employee_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-employee-mult|building_group_bg_agriculture_employee_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 3835–3841
 - **ai_construction_targets**: скрипт, строки 3843–3850
 - **ai_weight**: скрипт, строки 3852–3854

@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_society_tech_research_speed_mult` = `0.1`
-  - `country_legitimacy_ideological_incoherence_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `-0.15`

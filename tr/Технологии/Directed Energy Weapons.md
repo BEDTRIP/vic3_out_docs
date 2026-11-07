@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/directed_energy_weapons.dds`
 - **category**: `military`
 - **modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `unit_army_offense_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.1`
   - `building_aircraft_industry_throughput_add` = `0.05` → [[tr/Здания/Aerospace Industries|Aerospace Industries]]
   - `increase_nuclear_strike_power_bool_tt` = `yes`
   - `increase_nuclear_strike_defence_bool_tt` = `yes`

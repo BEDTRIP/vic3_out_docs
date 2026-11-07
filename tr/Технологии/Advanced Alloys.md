@@ -21,6 +21,6 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **unlocking_technologies**: [[tr/Технологии/Rare Earths Purification|Rare Earths Purification]], [[tr/Технологии/Continuous Casting|Continuous Casting]]
 - **modifier**:
   - `goods_input_advancedores_mult` = `-0.05` → [[tr/Товары/Advanced Ores|Advanced Ores]]
-  - `building_automotive_industry_throughput_add` = `0.05` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.05` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
   - `building_alloys_plant_throughput_add` = `0.1` → [[tr/Здания/Alloys Plants|Alloys Plants]]
 - **ai_weight**: скрипт, строки 1424–1432

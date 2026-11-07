@@ -19,9 +19,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/global_stock_market.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_minting_mult` = `0.1`
-  - `country_free_charters_add` = `1`
-  - `country_government_dividends_efficiency_add` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-minting-mult|country_minting_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-free-charters-add|country_free_charters_add]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-government-dividends-efficiency-add|country_government_dividends_efficiency_add]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Neoliberalism|Neoliberalism]], [[tr/Технологии/Networking Protocols|Networking Protocols]]
 - **ai_weight**: скрипт, строки 935–937
 

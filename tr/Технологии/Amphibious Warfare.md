@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/amphibious_warfare.dds`
 - **category**: `military`
 - **modifier**:
-  - `military_formation_mobilization_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-mobilization-speed-mult|military_formation_mobilization_speed_mult]] = `0.05`
   - `unit_advancement_speed_mult` = `0.10`
-  - `military_formation_attrition_risk_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-attrition-risk-mult|military_formation_attrition_risk_mult]] = `-0.05`
 - **unlocking_technologies**: [[vanilla/Технологии/Штурмовые войска|Штурмовые войска]], [[tr/Технологии/Авианосец|Авианосец]]
 - **ai_weight**: скрипт, строки 155–157

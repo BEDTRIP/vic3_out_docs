@@ -19,10 +19,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 - **icon**: `gfx/interface/icons/law_icons/separated_powers.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `country_legitimacy_govt_total_votes_add` = `50`
-  - `country_legitimacy_govt_total_clout_add` = `-50`
-  - `country_law_enactment_speed_mult` = `-0.40`
-  - `country_law_enactment_success_add` = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `50`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `-50`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `-0.40`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-success-add|country_law_enactment_success_add]] = `0.20`
 - **on_enact**: пусто
 - **disallowing_laws**: [[tgr/Законы/Автократия|Автократия]], [[tgr/Законы/Технократия|Технократия]], [[tgr/Законы/Олигархия|Олигархия]], [[tgr/Законы/Анархия|Анархия]], [[tgr/Законы/Однопартийное государство|Однопартийное государство]], [[tgr/Законы/Голосуют землевладельцы|Голосуют землевладельцы]], [[tgr/Законы/Голосуют богатые|Голосуют богатые]]
 - **unlocking_laws**: пусто

@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 1102–1110
 - **possible**: скрипт, строки 1112–1124
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `building_synthetics_plant_throughput_add` = `0.1` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
 - **ai_will_do**: скрипт, строки 1131–1136
 - **ai_construction_targets**: скрипт, строки 1138–1151
 - **ai_weight**: скрипт, строки 1153–1155

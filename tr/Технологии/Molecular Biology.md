@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/molecular_biology.dds`
 - **category**: `society`
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
-  - `country_society_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Genetics|Genetics]]
 - **ai_weight**: скрипт, строки 111–113
 

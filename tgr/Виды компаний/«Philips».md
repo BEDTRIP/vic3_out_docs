@@ -39,8 +39,8 @@ replaces: "[[vanilla/Виды компаний/«Philips»]]"
 - **attainable**: скрипт, строки 1049–1058
 - **possible**: скрипт, строки 1060–1068
 - **prosperity_modifier**:
-  - `country_weekly_innovation_mult` = `0.05`
-  - `country_weekly_innovation_max_add` = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `15`
 - **ai_will_do**: скрипт, строки 1075–1083
 - **ai_construction_targets**: скрипт, строки 1085–1096
 - **ai_weight**: скрипт, строки 1098–1100

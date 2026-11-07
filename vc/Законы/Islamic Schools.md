@@ -24,14 +24,14 @@ paths: [VC/common/laws/joi_education_system.txt]
 - **can_enact**: скрипт, строки 23–29
 - **on_activate**: скрипт, строки 31–40
 - **modifier**:
-  - `country_institution_cost_institution_schools_mult` = `-0.5`
-  - `building_university_throughput_add` = `-0.2` → [[vanilla/Здания/Университеты|Университеты]]
-  - `country_loyalism_increases_full_acceptance_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-schools-mult|country_institution_cost_institution_schools_mult]] = `-0.5`
+  - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `-0.2` → [[vanilla/Здания/Университеты|Университеты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalism-increases-full-acceptance-mult|country_loyalism_increases_full_acceptance_mult]] = `0.1`
 - **institution**: `institution_schools`
 - **institution_modifier**:
-  - `state_conversion_mult` = `0.5`
-  - `state_education_access_wealth_add` = `0.0025`
-  - `interest_group_ig_devout_pol_str_mult` = `0.3`
-  - `country_weekly_innovation_max_add` = `-5`
+  - [[vanilla/движок/Модификаторы S#^m-state-conversion-mult|state_conversion_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.0025`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `0.3`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `-5`
 - **ai_will_do**: скрипт, строки 56–58
 - **ai_enact_weight_modifier**: скрипт, строки 60–62

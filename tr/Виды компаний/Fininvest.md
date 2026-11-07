@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **possible**: скрипт, строки 456–466
 - **prosperity_modifier**:
   - `building_telecommunications_industry_throughput_add` = `0.1` → [[tr/Здания/Telecommunications Plants|Telecommunications Plants]]
-  - `country_loan_interest_rate_mult` = `-0.02`
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.02`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.05`
   - `goods_output_elgar_music_mult` = `0.05` → [[tr/Товары/Entertainment|Entertainment]]
 - **ai_will_do**: скрипт, строки 473–479
 - **ai_construction_targets**: скрипт, строки 480–487

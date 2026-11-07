@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1646–1652
 - **possible**: скрипт, строки 1654–1666
 - **prosperity_modifier**:
-  - `building_livestock_ranch_throughput_add` = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-  - `building_fishing_wharf_throughput_add` = `0.1` → [[vanilla/Здания/Рыболовные верфи|Рыболовные верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-fishing-wharf-throughput-add|building_fishing_wharf_throughput_add]] = `0.1` → [[vanilla/Здания/Рыболовные верфи|Рыболовные верфи]]
 - **ai_will_do**: скрипт, строки 1673–1678
 - **ai_construction_targets**: скрипт, строки 1680–1693
 - **ai_weight**: скрипт, строки 1695–1697

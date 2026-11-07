@@ -19,13 +19,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **unlocking_technologies**: [[tr/Технологии/Automated Industrial Robots|Automated Industrial Robots]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `10` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_input_electricity_add` = `3` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `10` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `3` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_robotics_add` = `1` → [[tr/Товары/Robotics|Robotics]]
-    - `goods_output_tobacco_add` = `35` → [[vanilla/Товары/Табак|Табак]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-tobacco-add|goods_output_tobacco_add]] = `35` → [[vanilla/Товары/Табак|Табак]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

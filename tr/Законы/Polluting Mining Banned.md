@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_mining_policy.txt]
 - **disallowing_laws**: `law_env_no_protection`
 - **unlocking_technologies**: [[tr/Технологии/Environmentalism|Environmentalism]]
 - **modifier**:
-  - `state_pollution_reduction_health_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.1`
 - **ai_enact_weight_modifier**: скрипт, строки 103–110
 - **on_activate**: скрипт, строки 112–137
 

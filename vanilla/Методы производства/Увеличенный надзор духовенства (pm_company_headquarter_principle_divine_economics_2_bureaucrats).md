@@ -22,14 +22,14 @@ paths: [.vanillaVIC3/common/production_methods/14_companies.txt]
 - **unlocking_principles**: `principle_divine_economics_2`, `principle_divine_economics_3`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `10` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
-    - `building_employment_bureaucrats_add` = `15` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clergymen_add` = `25` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `10` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `15` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `25` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
   - **unscaled**:
-    - `building_capitalists_shares_add` = `10`
-    - `building_bureaucrats_shares_add` = `5`
-    - `building_clergymen_shares_add` = `2`
-    - `building_company_government_dividends_add` = `0.25`
+    - [[vanilla/движок/Модификаторы B#^m-building-capitalists-shares-add|building_capitalists_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-bureaucrats-shares-add|building_bureaucrats_shares_add]] = `5`
+    - [[vanilla/движок/Модификаторы B#^m-building-clergymen-shares-add|building_clergymen_shares_add]] = `2`
+    - [[vanilla/движок/Модификаторы B#^m-building-company-government-dividends-add|building_company_government_dividends_add]] = `0.25`
 
 ## Ссылаются
 

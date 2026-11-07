@@ -19,10 +19,10 @@ paths: [.vanillaVIC3/common/production_methods/08_monuments.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `10`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `10`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_clergymen_add` = `50` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `50` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
 
 ## Ссылаются
 

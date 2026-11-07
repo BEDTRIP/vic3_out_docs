@@ -25,9 +25,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_textile_companies.txt]
 - **attainable**: скрипт, строки 647–654
 - **possible**: скрипт, строки 655–665
 - **prosperity_modifier**:
-  - `state_pop_support_movement_feminist_mult` = `0.05`
-  - `state_migration_pull_mult` = `0.05`
-  - `state_trade_capacity_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-feminist-mult|state_pop_support_movement_feminist_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 671–677
 - **ai_construction_targets**: скрипт, строки 678–685
 - **ai_weight**: скрипт, строки 686–688

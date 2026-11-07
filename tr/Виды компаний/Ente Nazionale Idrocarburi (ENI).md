@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_oil_gas_companies.txt]
 - **possible**: скрипт, строки 271–279
 - **prosperity_modifier**:
   - `building_mendelejew_synthetic_rubber_factory_throughput_add` = `0.1` → [[tr/Здания/Petrochemical Industries|Petrochemical Industries]]
-  - `building_railway_throughput_add` = `0.1` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[tr/Здания/Железные дороги|Железные дороги]]
   - `building_renewable_energy_power_plant_throughput_add` = `-0.05` → [[tr/Здания/Renewable Energy Power Plants|Renewable Energy Power Plants]]
 - **ai_will_do**: скрипт, строки 285–290
 - **ai_construction_targets**: скрипт, строки 291–301

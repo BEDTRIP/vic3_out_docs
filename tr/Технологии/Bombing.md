@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/bombing.dds`
 - **category**: `military`
 - **modifier**:
-  - `unit_kill_rate_add` = `0.05`
-  - `unit_devastation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-kill-rate-add|unit_kill_rate_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-devastation-mult|unit_devastation_mult]] = `0.1`
 - **unlocking_technologies**: [[tr/Технологии/Modern Warplanes|Modern Warplanes]]
 - **ai_weight**: скрипт, строки 248–256
 

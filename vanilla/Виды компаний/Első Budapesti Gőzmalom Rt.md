@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 405–413
 - **possible**: скрипт, строки 415–432
 - **prosperity_modifier**:
-  - `building_wheat_farm_throughput_add` = `0.15` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
-  - `state_trade_advantage_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-wheat-farm-throughput-add|building_wheat_farm_throughput_add]] = `0.15` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 439–445
 - **ai_construction_targets**: скрипт, строки 447–460
 - **ai_weight**: скрипт, строки 462–464

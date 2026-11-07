@@ -24,8 +24,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 563–571
 - **possible**: скрипт, строки 573–585
 - **prosperity_modifier**:
-  - `building_coal_mine_throughput_add` = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
-  - `building_railway_throughput_add` = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **ai_will_do**: скрипт, строки 592–597
 - **ai_construction_targets**: скрипт, строки 599–612
 - **ai_weight**: скрипт, строки 614–616

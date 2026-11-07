@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/veteran_consultation.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_training_rate_mult` = `0.1`
-  - `battle_defense_owned_province_mult` = `0.1`
-  - `state_conscription_rate_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-training-rate-mult|building_training_rate_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-battle-defense-owned-province-mult|battle_defense_owned_province_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-conscription-rate-mult|state_conscription_rate_mult]] = `0.15`

@@ -27,8 +27,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_oil_gas_companies.txt]
 - **possible**: скрипт, строки 337–345
 - **prosperity_modifier**:
   - `building_natural_gas_rig_throughput_add` = `0.25` → [[tr/Здания/Natural Gas Rigs|Natural Gas Rigs]]
-  - `country_prestige_from_army_power_projection_mult` = `0.2`
-  - `state_mortality_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-from-army-power-projection-mult|country_prestige_from_army_power_projection_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 351–356
 - **ai_construction_targets**: скрипт, строки 357–367
 - **ai_weight**: скрипт, строки 368–370

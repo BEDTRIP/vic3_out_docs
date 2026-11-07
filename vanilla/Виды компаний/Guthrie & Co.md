@@ -27,9 +27,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 319–327
 - **possible**: скрипт, строки 329–342
 - **prosperity_modifier**:
-  - `building_port_throughput_add` = `0.05` → [[vanilla/Здания/Порты|Порты]]
-  - `state_trade_advantage_mult` = `0.05`
-  - `state_colony_growth_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-port-throughput-add|building_port_throughput_add]] = `0.05` → [[vanilla/Здания/Порты|Порты]]
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 350–355
 - **ai_construction_targets**: скрипт, строки 357–370
 - **ai_weight**: скрипт, строки 372–374

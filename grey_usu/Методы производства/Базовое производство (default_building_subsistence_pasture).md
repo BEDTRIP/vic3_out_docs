@@ -24,19 +24,19 @@ replaces: "[[vanilla/Методы производства/Базовое про
 - **texture**: `gfx/interface/icons/production_method_icons/subsistence_farming.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_grain_add` = `0.25` → [[vanilla/Товары/Зерно|Зерно]]
-    - `goods_output_meat_add` = `0.5` → [[vanilla/Товары/Мясо|Мясо]]
-    - `goods_output_fabric_add` = `0.75` → [[grey_usu/Товары/Ткань|Ткань]]
-    - `goods_output_wood_add` = `0.25` → [[grey_usu/Товары/Древесина|Древесина]]
-    - `goods_output_services_add` = `0.4` → [[vanilla/Товары/Услуги|Услуги]]
-    - `goods_output_transportation_add` = `1` → [[grey_usu/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `0.25` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-meat-add|goods_output_meat_add]] = `0.5` → [[vanilla/Товары/Мясо|Мясо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-add|goods_output_fabric_add]] = `0.75` → [[grey_usu/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-wood-add|goods_output_wood_add]] = `0.25` → [[grey_usu/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `0.4` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `1` → [[grey_usu/Товары/Перевозка|Перевозка]]
     - `goods_output_usu_logistics_add` = `0.1` → [[grey_usu/Товары/Логистические услуги|Логистические услуги]]
   - **level_scaled**:
-    - `building_employment_peasants_add` = `5000` → [[vanilla/Население/Типы/Крестьяне|Крестьяне]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-peasants-add|building_employment_peasants_add]] = `5000` → [[vanilla/Население/Типы/Крестьяне|Крестьяне]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_from_population_max_add` = `-1`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `-1`
   - **level_scaled**:
-    - `state_infrastructure_from_population_max_add` = `1`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `1`
   - **unscaled**:
-    - `state_birth_rate_mult` = `0.5`
+    - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.5`

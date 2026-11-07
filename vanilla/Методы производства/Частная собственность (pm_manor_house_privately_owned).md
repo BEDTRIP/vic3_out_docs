@@ -19,9 +19,9 @@ paths: [.vanillaVIC3/common/production_methods/11_private_infrastructure.txt]
 - **replacement_if_valid**: [[vanilla/Методы производства/Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)|Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `50` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `50` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
   - **unscaled**:
-    - `building_aristocrats_shares_add` = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-aristocrats-shares-add|building_aristocrats_shares_add]] = `10`
 
 ## Ссылаются
 

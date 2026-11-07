@@ -19,12 +19,12 @@ paths: [.vanillaVIC3/common/production_methods/11_private_infrastructure.txt]
 - **replacement_if_valid**: [[vanilla/Методы производства/Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)|Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `50` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
-    - `building_employment_shopkeepers_add` = `25` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_clerks_add` = `25` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `50` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `25` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `25` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_capitalists_shares_add` = `10`
-    - `building_shopkeepers_shares_add` = `1`
+    - [[vanilla/движок/Модификаторы B#^m-building-capitalists-shares-add|building_capitalists_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-shopkeepers-shares-add|building_shopkeepers_shares_add]] = `1`
 
 ## Ссылаются
 

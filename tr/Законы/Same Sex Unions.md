@@ -21,10 +21,10 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_lgbtq_rigths.txt]
 - **disallowing_laws**: [[tr/Законы/Попечительство|Попечительство]]
 - **unlocking_technologies**: [[tr/Технологии/Transnational Activism|Transnational Activism]]
 - **modifier**:
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `0.2`
-  - `state_working_adult_ratio_add` = `0.05`
-  - `state_radicals_and_loyalists_from_sol_change_mult` = `-0.05`
-  - `political_movement_radicalism_from_enactment_disapproval_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-and-loyalists-from-sol-change-mult|state_radicals_and_loyalists_from_sol_change_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-from-enactment-disapproval-mult|political_movement_radicalism_from_enactment_disapproval_mult]] = `0.1`
 - **ai_enact_weight_modifier**: скрипт, строки 70–77
 
 ## Ссылаются

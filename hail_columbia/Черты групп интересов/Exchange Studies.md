@@ -18,4 +18,4 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/rangaku.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_tech_spread_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `0.1`

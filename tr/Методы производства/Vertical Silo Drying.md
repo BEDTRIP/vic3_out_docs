@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **unlocking_technologies**: [[tr/Технологии/Green Revolution|Green Revolution]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `3` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_electricity_add` = `4` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_coffee_add` = `20` → [[vanilla/Товары/Кофе|Кофе]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `3` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `4` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-coffee-add|goods_output_coffee_add]] = `20` → [[vanilla/Товары/Кофе|Кофе]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
   - **unscaled**: пусто
 
 ## Ссылаются

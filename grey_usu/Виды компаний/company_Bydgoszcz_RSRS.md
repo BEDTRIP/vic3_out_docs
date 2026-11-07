@@ -27,7 +27,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **possible**: скрипт, строки 2901–2908
 - **prosperity_modifier**:
   - `building_group_bg_usu_rail_infrastructure_throughput_add` = `0.07`
-  - `unit_supply_consumption_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-supply-consumption-mult|unit_supply_consumption_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 2916–2921
 - **ai_construction_targets**: скрипт, строки 2923–2930
 - **ai_weight**: скрипт, строки 2931–2933

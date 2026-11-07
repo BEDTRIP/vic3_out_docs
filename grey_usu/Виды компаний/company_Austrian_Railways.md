@@ -27,9 +27,9 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 309–315
 - **possible**: скрипт, строки 317–327
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `country_authority_mult` = `0.09`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.02`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.09`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.02`
 - **ai_will_do**: скрипт, строки 335–345
 - **ai_construction_targets**: скрипт, строки 347–354
 - **ai_weight**: скрипт, строки 355–357

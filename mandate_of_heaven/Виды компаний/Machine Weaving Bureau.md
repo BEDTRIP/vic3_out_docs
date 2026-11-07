@@ -26,7 +26,7 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 81–87
 - **possible**: скрипт, строки 88–97
 - **prosperity_modifier**:
-  - `state_lower_strata_standard_of_living_add` = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-lower-strata-standard-of-living-add|state_lower_strata_standard_of_living_add]] = `1`
 - **ai_weight**: скрипт, строки 101–103
 - **ai_will_do**: скрипт, строки 104–116
 - **ai_construction_targets**: скрипт, строки 117–125

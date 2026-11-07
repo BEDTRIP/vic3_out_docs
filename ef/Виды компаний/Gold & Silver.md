@@ -23,5 +23,5 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **building_types**: [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Торговые центры|Торговые центры]]
 - **possible**: скрипт, строки 6711–6721
 - **prosperity_modifier**:
-  - `building_gold_mine_throughput_add` = `0.25` → [[ef/Здания/Золотые рудники|Золотые рудники]]
-  - `building_silver_mine_throughput_add` = `0.25` → [[ef/Здания/Silver Mine|Silver Mine]]
+  - [[vanilla/движок/Модификаторы B#^m-building-gold-mine-throughput-add|building_gold_mine_throughput_add]] = `0.25` → [[ef/Здания/Золотые рудники|Золотые рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-silver-mine-throughput-add|building_silver_mine_throughput_add]] = `0.25` → [[ef/Здания/Silver Mine|Silver Mine]]

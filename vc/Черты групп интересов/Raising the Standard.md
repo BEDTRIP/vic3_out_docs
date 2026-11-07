@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/old_ways.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `political_movement_radicalism_add` = `0.15`
-  - `state_radicals_from_political_movements_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-add|political_movement_radicalism_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.25`

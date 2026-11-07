@@ -18,7 +18,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/pm_gas_fired_ovens.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_production_methods**: [[vanilla/Методы производства/Кондитерские|Кондитерские]], [[vanilla/Методы производства/Пекарный порошок|Пекарный порошок]], [[tr/Методы производства/Ultra-processed Food|Ultra-processed Food]]
 - **unlocking_technologies**: [[tr/Технологии/Basic Appliances|Basic Appliances]]
 - **building_modifiers**:
@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - `goods_input_gas_add` = `3` → [[tr/Товары/Natural Gas|Natural Gas]]
     - `goods_input_homeappliances_add` = `3` → [[tr/Товары/Home Appliances|Home Appliances]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `-500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-500` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

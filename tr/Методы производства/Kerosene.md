@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
   - **workforce_scaled**:
     - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

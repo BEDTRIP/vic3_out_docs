@@ -21,9 +21,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **modifier**:
   - `unit_convoy_raiding_interception_mult` = `0.05`
   - `unit_convoy_raiding_mult` = `0.05`
-  - `ship_ship_type_submarine_hull_damage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-ship-type-submarine-hull-damage-mult|ship_ship_type_submarine_hull_damage_mult]] = `0.1`
   - `ship_ship_type_nuclear_submarine_hull_damage_mult` = `0.1`
-  - `military_formation_organization_gain_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-organization-gain-mult|military_formation_organization_gain_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Echo Sounding|Echo Sounding]]
 - **ai_weight**: скрипт, строки 59–67
 

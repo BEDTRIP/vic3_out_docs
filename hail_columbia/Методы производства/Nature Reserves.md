@@ -18,8 +18,8 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/usfp_pm_national_park_reserve.dds`
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_pollution_generation_add` = `-100`
-    - `building_group_bg_extraction_construction_efficiency_add` = `-0.04`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `-100`
+    - [[vanilla/движок/Модификаторы B#^m-building-group-bg-extraction-construction-efficiency-add|building_group_bg_extraction_construction_efficiency_add]] = `-0.04`
 
 ## Ссылаются
 

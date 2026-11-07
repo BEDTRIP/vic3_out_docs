@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **attainable**: скрипт, строки 42–49
 - **possible**: скрипт, строки 50–60
 - **prosperity_modifier**:
-  - `state_pop_support_movement_liberal_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-liberal-mult|state_pop_support_movement_liberal_mult]] = `0.05`
   - `building_processors_foundry_throughput_add` = `0.1` → [[tr/Здания/Chip Foundries|Chip Foundries]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 66–72
 - **ai_construction_targets**: скрипт, строки 73–80
 - **ai_weight**: скрипт, строки 81–83

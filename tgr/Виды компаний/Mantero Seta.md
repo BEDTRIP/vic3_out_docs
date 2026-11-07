@@ -42,8 +42,8 @@ replaces: "[[vanilla/Виды компаний/Mantero Seta]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 699–710
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `building_synthetics_plant_throughput_add` = `0.1` → [[tgr/Здания/Заводы синтетики|Заводы синтетики]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.1` → [[tgr/Здания/Заводы синтетики|Заводы синтетики]]
 - **ai_will_do**: скрипт, строки 717–722
 - **ai_construction_targets**: скрипт, строки 724–731
 - **ai_weight**: скрипт, строки 733–735

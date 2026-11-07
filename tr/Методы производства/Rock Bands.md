@@ -20,9 +20,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_elgar_instruments_add` = `45` → [[tr/Товары/Instruments|Instruments]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_output_elgar_music_add` = `25` → [[tr/Товары/Entertainment|Entertainment]]
-    - `goods_output_fine_art_add` = `3` → [[vanilla/Товары/Картины|Картины]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-add|goods_output_fine_art_add]] = `3` → [[vanilla/Товары/Картины|Картины]]
 
 ## Ссылаются
 

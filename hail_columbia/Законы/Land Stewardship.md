@@ -20,15 +20,15 @@ paths: [for addon/Hail Columbia/common/laws/usfp_native_laws.txt]
 - **icon**: `gfx/interface/icons/law_icons/usfp_law_tribal_land_ownership.dds`
 - **progressiveness**: `25`
 - **modifier**:
-  - `building_group_bg_agriculture_allowed_collectivization_add` = `1.0`
-  - `building_group_bg_ranching_allowed_collectivization_add` = `1.0`
-  - `building_group_bg_plantations_allowed_collectivization_add` = `1.0`
-  - `building_subsistence_output_mult` = `0.10`
-  - `building_group_bg_plantations_construction_efficiency_add` = `-0.50`
-  - `building_group_bg_ranching_construction_efficiency_add` = `-0.25`
-  - `building_group_bg_agriculture_construction_efficiency_add` = `-0.25`
-  - `building_group_bg_extraction_allowed_collectivization_add` = `1.0`
-  - `building_group_bg_extraction_throughput_add` = `-0.30`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-allowed-collectivization-add|building_group_bg_agriculture_allowed_collectivization_add]] = `1.0`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-allowed-collectivization-add|building_group_bg_ranching_allowed_collectivization_add]] = `1.0`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-allowed-collectivization-add|building_group_bg_plantations_allowed_collectivization_add]] = `1.0`
+  - [[vanilla/движок/Модификаторы B#^m-building-subsistence-output-mult|building_subsistence_output_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-construction-efficiency-add|building_group_bg_plantations_construction_efficiency_add]] = `-0.50`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-construction-efficiency-add|building_group_bg_ranching_construction_efficiency_add]] = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-construction-efficiency-add|building_group_bg_agriculture_construction_efficiency_add]] = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-extraction-allowed-collectivization-add|building_group_bg_extraction_allowed_collectivization_add]] = `1.0`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-extraction-throughput-add|building_group_bg_extraction_throughput_add]] = `-0.30`
 - **is_visible**: скрипт, строки 92–97
 - **unlocking_laws**: [[vanilla/Законы/Вождество|Вождество]]
 - **ai_will_do**: скрипт, строки 103–105

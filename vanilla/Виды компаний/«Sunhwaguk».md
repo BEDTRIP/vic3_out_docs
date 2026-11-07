@@ -26,7 +26,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **attainable**: скрипт, строки 586–592
 - **possible**: скрипт, строки 594–606
 - **prosperity_modifier**:
-  - `country_tech_spread_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 612–619
 - **ai_construction_targets**: скрипт, строки 621–631
 - **ai_weight**: скрипт, строки 633–635

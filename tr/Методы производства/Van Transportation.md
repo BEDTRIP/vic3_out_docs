@@ -18,13 +18,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **texture**: `gfx/interface/icons/production_method_icons/pm_truck_van_transportation.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_automobiles_add` = `3` → [[tr/Товары/Автомобили|Автомобили]]
-    - `goods_input_transportation_add` = `20` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-automobiles-add|goods_input_automobiles_add]] = `3` → [[tr/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `20` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-250` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

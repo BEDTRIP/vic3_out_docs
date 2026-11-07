@@ -20,6 +20,6 @@ paths: [E&F/common/production_methods/00_ef_market_liquidity.txt]
 - **disallowing_laws**: [[vanilla/Законы/Командная экономика|Командная экономика]], [[vanilla/Законы/Советская республика|Советская республика]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `100` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `100` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
   - **unscaled**:
     - `building_capitalists_money_add` = `5`

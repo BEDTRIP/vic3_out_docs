@@ -26,9 +26,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_textile_companies.txt]
 - **attainable**: скрипт, строки 373–380
 - **possible**: скрипт, строки 381–391
 - **prosperity_modifier**:
-  - `building_cotton_plantation_throughput_add` = `0.05` → [[tr/Здания/Плантации хлопка|Плантации хлопка]]
+  - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.05` → [[tr/Здания/Плантации хлопка|Плантации хлопка]]
   - `building_water_plant_throughput_add` = `0.05` → [[tr/Здания/Water Plants|Water Plants]]
-  - `state_pop_support_movement_cultural_minority_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-cultural-minority-mult|state_pop_support_movement_cultural_minority_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 397–403
 - **ai_construction_targets**: скрипт, строки 404–411
 - **ai_weight**: скрипт, строки 412–414

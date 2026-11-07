@@ -27,8 +27,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 905–911
 - **possible**: скрипт, строки 913–925
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `1`
-  - `state_infrastructure_from_population_max_add` = `15`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `15`
 - **ai_will_do**: скрипт, строки 933–938
 - **ai_construction_targets**: скрипт, строки 940–947
 - **ai_weight**: скрипт, строки 948–950

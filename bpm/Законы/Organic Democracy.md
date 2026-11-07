@@ -24,32 +24,32 @@ paths: [BPM/common/laws/BPM_distribution_of_power.txt]
 - **disallowing_laws**: [[bpm/Законы/Советская республика|Советская республика]]
 - **modifier**:
   - `country_rigidity_baseline_add` = `10`
-  - `country_legitimacy_ideological_incoherence_mult` = `-0.25`
-  - `country_legitimacy_govt_total_clout_add` = `150`
-  - `country_legitimacy_govt_size_add` = `1`
-  - `country_voting_power_wealth_threshold_add` = `30`
-  - `interest_group_ig_landowners_pol_str_mult` = `0.4`
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.4`
-  - `interest_group_ig_petty_bourgeoisie_pol_str_mult` = `0.4`
-  - `country_voting_power_base_add` = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `150`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-size-add|country_legitimacy_govt_size_add]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-voting-power-wealth-threshold-add|country_voting_power_wealth_threshold_add]] = `30`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-pol-str-mult|interest_group_ig_landowners_pol_str_mult]] = `0.4`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.4`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pol-str-mult|interest_group_ig_petty_bourgeoisie_pol_str_mult]] = `0.4`
+  - [[vanilla/движок/Модификаторы C#^m-country-voting-power-base-add|country_voting_power_base_add]] = `15`
   - `country_institution_suffrage_max_investment_add` = `1`
   - `country_institution_cost_institution_suffrage_mult` = `-0.85`
 - **institution**: `institution_suffrage`
 - **institution_modifier**:
   - `country_rigidity_baseline_add` = `5`
-  - `country_legitimacy_ideological_incoherence_mult` = `-0.05`
-  - `state_radicals_from_political_movements_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
   - `country_bpm_labor_consciousness_target_mult` = `-0.1`
-  - `country_legitimacy_govt_total_votes_add` = `25`
-  - `country_legitimacy_govt_total_clout_add` = `-25`
-  - `country_voting_power_wealth_threshold_add` = `-6`
-  - `country_voting_power_base_add` = `4`
-  - `interest_group_ig_rural_folk_pol_str_mult` = `0.05`
-  - `interest_group_ig_trade_unions_pol_str_mult` = `0.05`
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `0.05`
-  - `interest_group_ig_landowners_pol_str_mult` = `-0.1`
-  - `interest_group_ig_industrialists_pol_str_mult` = `-0.1`
-  - `interest_group_ig_petty_bourgeoisie_pol_str_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `-25`
+  - [[vanilla/движок/Модификаторы C#^m-country-voting-power-wealth-threshold-add|country_voting_power_wealth_threshold_add]] = `-6`
+  - [[vanilla/движок/Модификаторы C#^m-country-voting-power-base-add|country_voting_power_base_add]] = `4`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pol-str-mult|interest_group_ig_rural_folk_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pol-str-mult|interest_group_ig_trade_unions_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-pol-str-mult|interest_group_ig_landowners_pol_str_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pol-str-mult|interest_group_ig_petty_bourgeoisie_pol_str_mult]] = `-0.1`
 - **on_activate**: скрипт, строки 1281–1298
 - **ai_will_do**: скрипт, строки 1300–1313
 - **can_impose**: скрипт, строки 1315–1329

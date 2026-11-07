@@ -23,10 +23,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 - **unlocking_technologies**: пусто
 - **on_enact**: пусто
 - **modifier**:
-  - `country_legitimacy_govt_total_votes_add` = `-50`
-  - `country_legitimacy_govt_total_clout_add` = `50`
-  - `country_law_enactment_stall_mult` = `-0.20`
-  - `political_movement_radicalism_from_enactment_disapproval_mult` = `0.40`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `-50`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `50`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-stall-mult|country_law_enactment_stall_mult]] = `-0.20`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-from-enactment-disapproval-mult|political_movement_radicalism_from_enactment_disapproval_mult]] = `0.40`
 - **ai_enact_weight_modifier**: скрипт, строки 34–41
 
 ## Ссылаются

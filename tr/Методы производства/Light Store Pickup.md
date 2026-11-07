@@ -18,8 +18,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **texture**: `gfx/interface/icons/production_method_icons/pm_light_store_pickup.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_groceries_add` = `15` → [[vanilla/Товары/Продукты|Продукты]]
-    - `goods_input_clothes_add` = `6` → [[tr/Товары/Одежда|Одежда]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-groceries-add|goods_input_groceries_add]] = `15` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-clothes-add|goods_input_clothes_add]] = `6` → [[tr/Товары/Одежда|Одежда]]
     - `goods_input_manzoni_prints_add` = `4` → [[tr/Товары/Media Content|Media Content]]
     - `goods_input_cosmetics_add` = `4` → [[tr/Товары/Cosmetics|Cosmetics]]
 

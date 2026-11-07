@@ -28,7 +28,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **attainable**: скрипт, строки 183–189
 - **possible**: скрипт, строки 191–207
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 213–218
 - **ai_construction_targets**: скрипт, строки 220–233
 - **ai_weight**: скрипт, строки 235–237

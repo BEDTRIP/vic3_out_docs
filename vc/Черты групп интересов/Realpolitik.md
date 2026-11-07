@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/social_criticism.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_radicals_from_political_movements_mult` = `0.1`
-  - `country_pact_leverage_generation_mult` = `-0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-pact-leverage-generation-mult|country_pact_leverage_generation_mult]] = `-0.15`

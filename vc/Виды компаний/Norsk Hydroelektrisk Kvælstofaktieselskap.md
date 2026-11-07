@@ -31,9 +31,9 @@ replaces: "[[vanilla/Виды компаний/Norsk Hydroelektrisk Kvælstofakt
 - **attainable**: скрипт, строки 8787–8795
 - **possible**: скрипт, строки 8797–8810
 - **prosperity_modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.15`
-  - `country_production_tech_spread_mult` = `0.1`
-  - `state_birth_rate_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 8818–8824
 - **ai_construction_targets**: скрипт, строки 8826–8839
 - **ai_weight**: скрипт, строки 8841–8843

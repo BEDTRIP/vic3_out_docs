@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **category**: `military`
 - **modifier**:
   - `building_robotics_industry_throughput_add` = `0.05` → [[tr/Здания/Robotics Industries|Robotics Industries]]
-  - `country_military_wages_mult` = `0.25`
-  - `country_military_goods_cost_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.25`
 - **unlocking_technologies**: [[tr/Технологии/AI Warfare|AI Warfare]]
 - **ai_weight**: скрипт, строки 1271–1273

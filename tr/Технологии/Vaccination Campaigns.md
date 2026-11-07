@@ -20,10 +20,10 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Антибиотики|Антибиотики]], [[vanilla/Технологии/Централизованное планирование|Централизованное планирование]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
-  - `country_institution_cost_institution_health_system_mult` = `-0.1`
-  - `state_harvest_condition_disease_outbreak_impact_mult` = `-0.1`
-  - `state_harvest_condition_disease_outbreak_duration_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-harvest-condition-disease-outbreak-impact-mult|state_harvest_condition_disease_outbreak_impact_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-harvest-condition-disease-outbreak-duration-mult|state_harvest_condition_disease_outbreak_duration_mult]] = `-0.1`
 - **ai_weight**: скрипт, строки 347–349
 
 ## Ссылаются

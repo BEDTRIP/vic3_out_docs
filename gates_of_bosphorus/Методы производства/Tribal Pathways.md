@@ -18,13 +18,13 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **texture**: `gfx/interface/icons/production_method_icons/intensive_grazing.dds`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `100` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
-    - `building_employment_laborers_add` = `900` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `100` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `900` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `5`
-    - `state_trade_capacity_add` = `5`
-    - `state_weekly_trades_add` = `1`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-add|state_trade_capacity_add]] = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-weekly-trades-add|state_weekly_trades_add]] = `1`
 
 ## Ссылаются
 

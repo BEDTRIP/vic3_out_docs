@@ -36,9 +36,9 @@ replaces: "[[vanilla/Виды компаний/«Fundição Ipanema»]]"
 - **attainable**: скрипт, строки 8634–8640
 - **possible**: скрипт, строки 8642–8655
 - **prosperity_modifier**:
-  - `building_steel_mill_throughput_add` = `0.1` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
-  - `building_arms_industry_throughput_add` = `0.1` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
-  - `goods_output_iron_mult` = `0.25` → [[vanilla/Товары/Железо|Железо]]
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.1` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-iron-mult|goods_output_iron_mult]] = `0.25` → [[vanilla/Товары/Железо|Железо]]
 - **ai_will_do**: скрипт, строки 8663–8668
 - **ai_construction_targets**: скрипт, строки 8670–8683
 - **ai_weight**: скрипт, строки 8685–8687

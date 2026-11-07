@@ -18,11 +18,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/pm_hand_pumped_water.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `25` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `25` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_output_water_add` = `40` → [[tr/Товары/Water|Water]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `3500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `300` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `300` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

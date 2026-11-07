@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/anti_satellite_weapons.dds`
 - **category**: `military`
 - **modifier**:
-  - `unit_army_offense_mult` = `0.1`
-  - `military_formation_organization_gain_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-organization-gain-mult|military_formation_organization_gain_mult]] = `0.1`
   - `increase_nuclear_strike_power_bool_tt` = `yes`
 - **unlocking_technologies**: [[tr/Технологии/Satellites|Satellites]], [[tr/Технологии/ECM|ECM]]
 - **ai_weight**: скрипт, строки 798–806

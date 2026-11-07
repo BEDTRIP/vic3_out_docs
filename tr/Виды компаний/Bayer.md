@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **possible**: скрипт, строки 318–328
 - **prosperity_modifier**:
   - `building_pharmaceuticals_industry_throughput_add` = `0.05` → [[tr/Здания/Pharmaceuticals Industries|Pharmaceuticals Industries]]
-  - `building_synthetics_plant_throughput_add` = `0.05` → [[tr/Здания/Заводы синтетики|Заводы синтетики]]
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.05` → [[tr/Здания/Заводы синтетики|Заводы синтетики]]
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 334–340
 - **ai_construction_targets**: скрипт, строки 341–348
 - **ai_weight**: скрипт, строки 349–351

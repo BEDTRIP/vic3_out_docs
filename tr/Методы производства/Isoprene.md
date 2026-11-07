@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **unlocking_technologies**: [[tr/Технологии/Synthetic Rubber|Synthetic Rubber]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_sulfur_add` = `7` → [[vanilla/Товары/Сера|Сера]]
-    - `goods_input_fertilizer_add` = `5` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-sulfur-add|goods_input_sulfur_add]] = `7` → [[vanilla/Товары/Сера|Сера]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `5` → [[vanilla/Товары/Удобрение|Удобрение]]
     - `goods_input_light_fuel_add` = `15` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_output_rubber_add` = `55` → [[vanilla/Товары/Каучук|Каучук]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-rubber-add|goods_output_rubber_add]] = `55` → [[vanilla/Товары/Каучук|Каучук]]
     - `goods_output_plastics_add` = `-10` → [[tr/Товары/Пластмассы|Пластмассы]]
 
 ## Ссылаются

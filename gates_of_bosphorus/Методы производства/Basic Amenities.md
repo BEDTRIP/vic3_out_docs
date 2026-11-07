@@ -18,16 +18,16 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_basic_amenities.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_migration_pull_mult` = `0.05`
-    - `state_loyalism_increases_full_acceptance_mult` = `0.05`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.05`
+    - [[vanilla/движок/Модификаторы S#^m-state-loyalism-increases-full-acceptance-mult|state_loyalism_increases_full_acceptance_mult]] = `0.05`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_groceries_add` = `10` → [[vanilla/Товары/Продукты|Продукты]]
-    - `goods_input_liquor_add` = `5` → [[vanilla/Товары/Спирт|Спирт]]
-    - `goods_output_services_add` = `50` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-groceries-add|goods_input_groceries_add]] = `10` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-liquor-add|goods_input_liquor_add]] = `5` → [[vanilla/Товары/Спирт|Спирт]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `50` → [[vanilla/Товары/Услуги|Услуги]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_shopkeepers_add` = `200` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `200` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 
 ## Ссылаются
 

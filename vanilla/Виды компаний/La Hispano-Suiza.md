@@ -24,9 +24,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 808–814
 - **possible**: скрипт, строки 816–824
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `interest_group_ig_landowners_approval_add` = `2`
-  - `unit_supply_consumption_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-approval-add|interest_group_ig_landowners_approval_add]] = `2`
+  - [[vanilla/движок/Модификаторы U#^m-unit-supply-consumption-mult|unit_supply_consumption_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 832–836
 - **ai_construction_targets**: скрипт, строки 838–845
 - **ai_weight**: скрипт, строки 846–848

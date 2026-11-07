@@ -24,10 +24,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_salary_regulation.txt]
   - `country_institution_salary_max_investment_add` = `2`
 - **institution**: `institution_salary`
 - **institution_modifier**:
-  - `building_minimum_wage_mult` = `0.03`
-  - `country_mass_migration_attraction_mult` = `0.05`
-  - `interest_group_ig_trade_unions_pol_str_mult` = `0.05`
-  - `interest_group_ig_trade_unions_pop_attraction_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-minimum-wage-mult|building_minimum_wage_mult]] = `0.03`
+  - [[vanilla/движок/Модификаторы C#^m-country-mass-migration-attraction-mult|country_mass_migration_attraction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pol-str-mult|interest_group_ig_trade_unions_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pop-attraction-mult|interest_group_ig_trade_unions_pop_attraction_mult]] = `0.10`
 - **on_activate**: скрипт, строки 121–123
 - **on_deactivate**: скрипт, строки 125–127
 - **ai_enact_weight_modifier**: скрипт, строки 129–136

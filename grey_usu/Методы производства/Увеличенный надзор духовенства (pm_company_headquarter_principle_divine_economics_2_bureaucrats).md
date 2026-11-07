@@ -27,12 +27,12 @@ replaces: "[[vanilla/Методы производства/Увеличенны�
 - **unlocking_principles**: `principle_divine_economics_2`, `principle_divine_economics_3`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `10` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
-    - `building_employment_bureaucrats_add` = `20` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clergymen_add` = `10` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
-    - `building_employment_clerks_add` = `10` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `10` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `20` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `10` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `10` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_capitalists_shares_add` = `10`
-    - `building_bureaucrats_shares_add` = `3`
-    - `building_clergymen_shares_add` = `3`
-    - `building_company_worker_dividends_add` = `0.35`
+    - [[vanilla/движок/Модификаторы B#^m-building-capitalists-shares-add|building_capitalists_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-bureaucrats-shares-add|building_bureaucrats_shares_add]] = `3`
+    - [[vanilla/движок/Модификаторы B#^m-building-clergymen-shares-add|building_clergymen_shares_add]] = `3`
+    - [[vanilla/движок/Модификаторы B#^m-building-company-worker-dividends-add|building_company_worker_dividends_add]] = `0.35`

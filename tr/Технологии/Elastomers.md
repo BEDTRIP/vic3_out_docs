@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Synthetic Fibres|Synthetic Fibres]]
 - **modifier**:
-  - `goods_output_automobiles_mult` = `0.05` → [[tr/Товары/Автомобили|Автомобили]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-automobiles-mult|goods_output_automobiles_mult]] = `0.05` → [[tr/Товары/Автомобили|Автомобили]]
 - **ai_weight**: скрипт, строки 573–575
 
 ## Ссылаются

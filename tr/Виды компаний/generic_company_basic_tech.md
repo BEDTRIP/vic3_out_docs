@@ -23,6 +23,6 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_99_basic_companies.txt]
 - **extension_building_types**: [[tr/Здания/Telecommunications Plants|Telecommunications Plants]], [[tr/Здания/Computer Assembly Plants|Computer Assembly Plants]], [[tr/Здания/Software Industry|Software Industry]], [[tr/Здания/Chip Foundries|Chip Foundries]], [[tr/Здания/Robotics Industries|Robotics Industries]]
 - **possible**: скрипт, строки 383–392
 - **prosperity_modifier**:
-  - `country_production_tech_research_speed_mult` = `0.05`
-  - `building_electrics_industry_throughput_add` = `0.05` → [[tr/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.05` → [[tr/Здания/Электрозаводы|Электрозаводы]]
 - **ai_will_do**: скрипт, строки 399–408

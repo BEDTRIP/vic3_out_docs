@@ -24,7 +24,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_telecommunications_add` = `25` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_ai_systems_add` = `4` → [[tr/Товары/AI Systems|AI Systems]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-3000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-3000` → [[vanilla/Население/Типы/Механики|Механики]]
 - **unlocking_production_methods**: [[tr/Методы производства/Reservoir Dams (pm_reservoir_dams_2)|Reservoir Dams (pm_reservoir_dams_2)]], [[tr/Методы производства/Reservoir Dams (pm_reservoir_dams_3)|Reservoir Dams (pm_reservoir_dams_3)]], [[tr/Методы производства/Advanced Turbine Generators (pm_advanced_turbine_generators_2)|Advanced Turbine Generators (pm_advanced_turbine_generators_2)]], [[tr/Методы производства/Advanced Turbine Generators (pm_advanced_turbine_generators_3)|Advanced Turbine Generators (pm_advanced_turbine_generators_3)]]
 
 ## Ссылаются

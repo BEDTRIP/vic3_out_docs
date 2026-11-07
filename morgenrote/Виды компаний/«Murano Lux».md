@@ -26,8 +26,8 @@ paths: [Morgenrote/common/company_types/mr_company_types.txt]
 - **attainable**: скрипт, строки 29–35
 - **possible**: скрипт, строки 37–46
 - **prosperity_modifier**:
-  - `building_glassworks_throughput_add` = `0.1` → [[vanilla/Здания/Стеклозаводы|Стеклозаводы]]
-  - `state_upper_strata_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы B#^m-building-glassworks-throughput-add|building_glassworks_throughput_add]] = `0.1` → [[vanilla/Здания/Стеклозаводы|Стеклозаводы]]
+  - [[vanilla/движок/Модификаторы S#^m-state-upper-strata-standard-of-living-add|state_upper_strata_standard_of_living_add]] = `0.5`
 - **ai_will_do**: скрипт, строки 53–58
 - **ai_construction_targets**: скрипт, строки 60–67
 - **ai_weight**: скрипт, строки 69–71

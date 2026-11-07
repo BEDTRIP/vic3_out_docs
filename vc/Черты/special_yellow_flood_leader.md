@@ -18,13 +18,13 @@ paths: [VC/common/character_traits/joi_special_personality_traits.txt]
 - **type**: `personality`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/special_character_el_excelentisimo.dds`
 - **character_modifier**:
-  - `character_popularity_add` = `300`
-  - `character_prominence_add` = `100`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `300`
+  - [[vanilla/движок/Модификаторы C#^m-character-prominence-add|character_prominence_add]] = `100`
 - **command_modifier**:
-  - `unit_army_offense_add` = `10`
-  - `unit_army_defense_add` = `10`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-add|unit_army_offense_add]] = `10`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-add|unit_army_defense_add]] = `10`
 - **country_modifier**:
-  - `country_legitimacy_headofstate_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `25`
 - **agitator_modifier**: пусто
 - **executive_modifier**: пусто
 - **possible**: пусто

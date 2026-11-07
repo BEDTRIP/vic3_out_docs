@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/EUV Photolithography|EUV Photolithography]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_input_glass_add` = `5` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-glass-add|goods_input_glass_add]] = `5` → [[vanilla/Товары/Стекло|Стекло]]
     - `goods_input_robotics_add` = `5` → [[tr/Товары/Robotics|Robotics]]
     - `goods_input_commonores_add` = `2` → [[tr/Товары/Common Ores|Common Ores]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `-900` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `-900` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_consulting_firm_companies.tx
 - **possible**: скрипт, строки 305–315
 - **prosperity_modifier**:
   - `building_electronics_industry_throughput_add` = `0.05` → [[tr/Здания/Electronic Components Industries|Electronic Components Industries]]
-  - `building_motor_industry_throughput_add` = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.05` → [[tr/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 321–327
 - **ai_construction_targets**: скрипт, строки 328–335
 - **ai_weight**: скрипт, строки 336–338

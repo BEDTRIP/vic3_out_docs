@@ -26,8 +26,8 @@ replaces: "[[vanilla/Методы производства/Производст�
 - **unlocking_laws**: [[vanilla/Законы/Кооперативное владение|Кооперативное владение]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `30` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_clerks_add` = `20` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `30` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `20` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_shopkeepers_shares_add` = `94`
-    - `building_clerks_shares_add` = `9`
+    - [[vanilla/движок/Модификаторы B#^m-building-shopkeepers-shares-add|building_shopkeepers_shares_add]] = `94`
+    - [[vanilla/движок/Модификаторы B#^m-building-clerks-shares-add|building_clerks_shares_add]] = `9`

@@ -23,9 +23,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
     - `goods_input_electroniccomponents_add` = `3` → [[tr/Товары/Electronic Components|Electronic Components]]
     - `goods_output_telecommunications_add` = `80` → [[tr/Товары/Telecommunications|Telecommunications]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `500` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

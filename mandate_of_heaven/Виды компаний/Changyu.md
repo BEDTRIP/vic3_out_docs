@@ -25,8 +25,8 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 314–320
 - **possible**: скрипт, строки 321–329
 - **prosperity_modifier**:
-  - `building_vineyard_throughput_add` = `0.1` → [[vanilla/Здания/Виноградники|Виноградники]]
-  - `country_prestige_add` = `25`
+  - [[vanilla/движок/Модификаторы B#^m-building-vineyard-throughput-add|building_vineyard_throughput_add]] = `0.1` → [[vanilla/Здания/Виноградники|Виноградники]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 - **ai_weight**: скрипт, строки 334–336
 - **ai_construction_targets**: скрипт, строки 337–345
 - **ai_will_do**: скрипт, строки 346–352

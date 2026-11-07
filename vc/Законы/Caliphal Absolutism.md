@@ -24,12 +24,12 @@ paths: [VC/common/laws/joi_distribution_of_power.txt]
 - **is_visible**: скрипт, строки 19–21
 - **can_enact**: скрипт, строки 23–28
 - **modifier**:
-  - `country_legitimacy_headofstate_add` = `30`
-  - `country_legitimacy_govt_total_clout_add` = `130`
-  - `country_legitimacy_ideological_incoherence_mult` = `0.5`
-  - `country_bureaucrats_pol_str_mult` = `0.5`
-  - `country_officers_pol_str_mult` = `0.5`
-  - `country_clergymen_pol_str_mult` = `1`
-  - `country_authority_add` = `300`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `30`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `130`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-pol-str-mult|country_bureaucrats_pol_str_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-country-officers-pol-str-mult|country_officers_pol_str_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-country-clergymen-pol-str-mult|country_clergymen_pol_str_mult]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `300`
 - **ai_enact_weight_modifier**: скрипт, строки 40–47
 - **ai_impose_chance**: скрипт, строки 49–51

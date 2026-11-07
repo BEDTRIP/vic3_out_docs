@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **attainable**: скрипт, строки 219–226
 - **possible**: скрипт, строки 227–237
 - **prosperity_modifier**:
-  - `building_automotive_industry_throughput_add` = `0.33` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.33` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **ai_will_do**: скрипт, строки 241–247
 - **ai_construction_targets**: скрипт, строки 248–255
 - **ai_weight**: скрипт, строки 256–258

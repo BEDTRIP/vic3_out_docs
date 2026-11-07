@@ -26,10 +26,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_totally_normal.txt]
 - **attainable**: скрипт, строки 25–30
 - **possible**: скрипт, строки 32–49
 - **prosperity_modifier**:
-  - `country_frankenstein_company_bool` = `yes`
-  - `state_mortality_mult` = `0.05`
-  - `state_radicals_from_political_movements_mult` = `0.1`
-  - `country_tech_research_speed_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-frankenstein-company-bool|country_frankenstein_company_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 58–60
 - **ai_construction_targets**: скрипт, строки 62–75
 - **ai_weight**: скрипт, строки 77–79

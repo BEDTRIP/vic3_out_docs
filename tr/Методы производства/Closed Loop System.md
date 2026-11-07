@@ -21,10 +21,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
   - **workforce_scaled**:
     - `goods_input_plastics_add` = `5` → [[tr/Товары/Пластмассы|Пластмассы]]
     - `goods_input_alloys_add` = `5` → [[tr/Товары/Alloys|Alloys]]
-    - `goods_input_steel_add` = `5` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `5` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_electroniccomponents_add` = `5` → [[tr/Товары/Electronic Components|Electronic Components]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-3000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-3000` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

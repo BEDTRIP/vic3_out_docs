@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **unlocking_technologies**: [[tr/Технологии/Механические инструменты|Механические инструменты]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_wood_add` = `30` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `30` → [[vanilla/Товары/Древесина|Древесина]]
     - `goods_input_alloys_add` = `10` → [[tr/Товары/Alloys|Alloys]]
-    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_output_elgar_instruments_add` = `45` → [[tr/Товары/Instruments|Instruments]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `750` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `750` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

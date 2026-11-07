@@ -18,8 +18,8 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/no_rail_transport.dds`
 - **building_modifiers**:
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.1`
-    - `building_soldiers_mortality_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-soldiers-mortality-mult|building_soldiers_mortality_mult]] = `0.1`
 
 ## Ссылаются
 

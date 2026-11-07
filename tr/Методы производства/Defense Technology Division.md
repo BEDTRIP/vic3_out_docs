@@ -19,12 +19,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
 - **unlocking_technologies**: [[tr/Технологии/Modern Physics|Modern Physics]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `unit_offense_mult` = `0.1`
-    - `unit_defense_mult` = `0.1`
-    - `country_military_tech_spread_mult` = `0.05`
-    - `country_military_tech_research_speed_mult` = `0.15`
+    - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-military-tech-spread-mult|country_military_tech_spread_mult]] = `0.05`
+    - [[vanilla/движок/Модификаторы C#^m-country-military-tech-research-speed-mult|country_military_tech_research_speed_mult]] = `0.15`
   - **unscaled**:
-    - `interest_group_ig_armed_forces_approval_add` = `2`
+    - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-armed-forces-approval-add|interest_group_ig_armed_forces_approval_add]] = `2`
 
 ## Ссылаются
 

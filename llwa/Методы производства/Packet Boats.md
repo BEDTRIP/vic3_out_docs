@@ -20,15 +20,15 @@ paths: [llwa/common/production_methods/LLWA_water.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Водотрубный котёл|Водотрубный котёл]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_clippers_add` = `2` → [[vanilla/Товары/Клипперы|Клипперы]]
-    - `goods_input_engines_add` = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_coal_add` = `1` → [[vanilla/Товары/Уголь|Уголь]]
-    - `goods_output_transportation_add` = `10` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-clippers-add|goods_input_clippers_add]] = `2` → [[vanilla/Товары/Клипперы|Клипперы]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `1` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `10` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `100` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `100` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `20`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `20`
 
 ## Ссылаются
 

@@ -28,9 +28,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **possible**: скрипт, строки 122–132
 - **prosperity_modifier**:
   - `building_software_industry_throughput_add` = `0.1` → [[tr/Здания/Software Industry|Software Industry]]
-  - `interest_group_ig_industrialists_pop_attraction_mult` = `0.05`
-  - `unit_army_defense_mult` = `0.1`
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pop-attraction-mult|interest_group_ig_industrialists_pop_attraction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 139–145
 - **ai_construction_targets**: скрипт, строки 146–153
 - **ai_weight**: скрипт, строки 154–156

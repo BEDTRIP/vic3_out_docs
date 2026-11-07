@@ -25,9 +25,9 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 1941–1951
 - **possible**: скрипт, строки 1953–1973
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `country_company_throughput_bonus_add` = `0.05`
-  - `unit_recovery_rate_add` = `0.05`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-throughput-bonus-add|country_company_throughput_bonus_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-recovery-rate-add|unit_recovery_rate_add]] = `0.05`
 - **ai_will_do**: скрипт, строки 1981–1991
 - **ai_construction_targets**: скрипт, строки 1993–2004
 - **ai_weight**: скрипт, строки 2006–2008

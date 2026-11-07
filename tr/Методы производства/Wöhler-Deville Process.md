@@ -18,17 +18,17 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/blister_steel_process.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `15`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `15`
 - **unlocking_technologies**: [[tr/Технологии/Wöhler-Deville Process|Wöhler-Deville Process]]
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_bauxite_add` = `50` → [[tr/Товары/Bauxite|Bauxite]]
-    - `goods_input_explosives_add` = `3` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
-    - `goods_input_sulfur_add` = `3` → [[vanilla/Товары/Сера|Сера]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `3` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-sulfur-add|goods_input_sulfur_add]] = `3` → [[vanilla/Товары/Сера|Сера]]
     - `goods_output_alloys_add` = `-10` → [[tr/Товары/Alloys|Alloys]]
     - `goods_output_aluminium_add` = `55` → [[tr/Товары/Aluminium|Aluminium]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

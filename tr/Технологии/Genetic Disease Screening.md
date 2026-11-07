@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Vaccination Campaigns|Vaccination Campaigns]], [[tr/Технологии/Funded Research Projects|Funded Research Projects]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
 - **ai_weight**: скрипт, строки 640–642
 
 ## Ссылаются

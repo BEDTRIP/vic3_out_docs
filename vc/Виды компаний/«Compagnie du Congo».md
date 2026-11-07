@@ -31,9 +31,9 @@ replaces: "[[vanilla/Виды компаний/«Compagnie du Congo»]]"
 - **potential**: скрипт, строки 5538–5543
 - **possible**: скрипт, строки 5545–5564
 - **prosperity_modifier**:
-  - `building_group_bg_rubber_employee_mult` = `-0.25`
-  - `goods_output_rubber_mult` = `0.15` → [[vanilla/Товары/Каучук|Каучук]]
-  - `building_group_bg_rubber_mortality_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-rubber-employee-mult|building_group_bg_rubber_employee_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-rubber-mult|goods_output_rubber_mult]] = `0.15` → [[vanilla/Товары/Каучук|Каучук]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-rubber-mortality-mult|building_group_bg_rubber_mortality_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 5572–5583
 - **ai_construction_targets**: скрипт, строки 5585–5592
 - **ai_weight**: скрипт, строки 5594–5596

@@ -20,8 +20,8 @@ paths: [TheGreatRevision/common/laws/TGR_TRADE_trade_policy.txt]
 - **progressiveness**: `0`
 - **unlocking_technologies**: [[tgr/Технологии/Международная торговля|Международная торговля]]
 - **modifier**:
-  - `state_subvention_export_add` = `0.25`
-  - `state_subvention_import_add` = `0.25`
-  - `state_import_advantage_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-subvention-export-add|state_subvention_export_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-subvention-import-add|state_subvention_import_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-import-advantage-mult|state_import_advantage_mult]] = `0.25`
 - **ai_enact_weight_modifier**: скрипт, строки 330–345
 - **is_visible**: скрипт, строки 347–349

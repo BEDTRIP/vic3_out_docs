@@ -31,9 +31,9 @@ replaces: "[[vanilla/Виды компаний/«Standard Oil»]]"
 - **attainable**: скрипт, строки 2491–2497
 - **possible**: скрипт, строки 2499–2509
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `0.15` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `building_group_bg_oil_extraction_employee_mult` = `-0.1`
-  - `building_group_bg_oil_extraction_throughput_add` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.15` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-employee-mult|building_group_bg_oil_extraction_employee_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.15`
 - **ai_will_do**: скрипт, строки 2517–2524
 - **ai_construction_targets**: скрипт, строки 2526–2534
 - **ai_weight**: скрипт, строки 2536–2538

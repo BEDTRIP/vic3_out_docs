@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 37–45
 - **possible**: скрипт, строки 47–62
 - **prosperity_modifier**:
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.1`
-  - `building_construction_sector_throughput_add` = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
 - **ai_will_do**: скрипт, строки 69–74
 - **ai_construction_targets**: скрипт, строки 76–95
 - **ai_weight**: скрипт, строки 97–99

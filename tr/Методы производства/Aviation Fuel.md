@@ -18,7 +18,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **texture**: `gfx/interface/icons/production_method_icons/pm_airport_oil.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_oil_add` = `7` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `7` → [[vanilla/Товары/ГСМ|ГСМ]]
 
 ## Ссылаются
 

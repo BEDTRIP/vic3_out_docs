@@ -21,8 +21,8 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_lgbtq_rigths.txt]
 - **disallowing_laws**: [[tr/Законы/Попечительство|Попечительство]]
 - **unlocking_technologies**: [[tr/Технологии/Neo-Feminism|Neo-Feminism]]
 - **modifier**:
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `0.2`
-  - `state_working_adult_ratio_add` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 38–45
 
 ## Ссылаются

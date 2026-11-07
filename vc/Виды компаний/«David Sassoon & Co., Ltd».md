@@ -36,7 +36,7 @@ replaces: "[[vanilla/Виды компаний/«David Sassoon & Co., Ltd»]]"
 - **attainable**: скрипт, строки 3058–3064
 - **possible**: скрипт, строки 3066–3082
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.15`
 - **ai_will_do**: скрипт, строки 3088–3093
 - **ai_construction_targets**: скрипт, строки 3095–3108
 - **ai_weight**: скрипт, строки 3110–3112

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/treasury_bonds.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_birth_rate_mult` = `0.1`
-  - `country_loyalism_increases_full_acceptance_mult` = `0.1`
-  - `state_shopkeepers_investment_pool_efficiency_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalism-increases-full-acceptance-mult|country_loyalism_increases_full_acceptance_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-shopkeepers-investment-pool-efficiency-mult|state_shopkeepers_investment_pool_efficiency_mult]] = `0.05`

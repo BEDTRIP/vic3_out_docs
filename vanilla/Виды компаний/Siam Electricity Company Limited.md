@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 739–747
 - **possible**: скрипт, строки 749–759
 - **prosperity_modifier**:
-  - `building_rice_farm_throughput_add` = `0.1` → [[vanilla/Здания/Рисовые поля|Рисовые поля]]
-  - `interest_group_ig_landowners_approval_add` = `3`
+  - [[vanilla/движок/Модификаторы B#^m-building-rice-farm-throughput-add|building_rice_farm_throughput_add]] = `0.1` → [[vanilla/Здания/Рисовые поля|Рисовые поля]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-approval-add|interest_group_ig_landowners_approval_add]] = `3`
 - **ai_will_do**: скрипт, строки 766–770
 - **ai_construction_targets**: скрипт, строки 772–779
 - **ai_weight**: скрипт, строки 781–783

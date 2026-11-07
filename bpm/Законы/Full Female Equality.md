@@ -24,11 +24,11 @@ paths: [BPM/common/laws/BPM_rights_of_women.txt]
 - **unlocking_laws**: [[bpm/Законы/Имущественный ценз|Имущественный ценз]], [[bpm/Законы/Голосуют землевладельцы|Голосуют землевладельцы]], [[bpm/Законы/Голосуют богатые|Голосуют богатые]], [[bpm/Законы/Всеобщее избирательное право|Всеобщее избирательное право]], [[bpm/Законы/Однопартийное государство|Однопартийное государство]], [[bpm/Законы/Анархия|Анархия]]
 - **on_enact**: скрипт, строки 46–48
 - **modifier**:
-  - `state_working_adult_ratio_add` = `0.2`
-  - `state_birth_rate_mult` = `-0.05`
-  - `country_tech_research_speed_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.25`
   - `country_institution_suffrage_max_investment_add` = `1`
 - **institution**: `institution_suffrage`
 - **institution_modifier**:
-  - `state_dependent_political_participation_add` = `0.08`
+  - [[vanilla/движок/Модификаторы S#^m-state-dependent-political-participation-add|state_dependent_political_participation_add]] = `0.08`
 - **ai_enact_weight_modifier**: скрипт, строки 62–69

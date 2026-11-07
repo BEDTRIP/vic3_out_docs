@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_ecommerce_companies.txt]
 - **possible**: скрипт, строки 43–53
 - **prosperity_modifier**:
   - `building_mendelejew_synthetic_rubber_factory_throughput_add` = `0.05` → [[tr/Здания/Petrochemical Industries|Petrochemical Industries]]
-  - `building_textile_mill_throughput_add` = `0.05` → [[tr/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.05` → [[tr/Здания/Текстильные фабрики|Текстильные фабрики]]
   - `building_datacenter_industry_throughput_add` = `0.05` → [[tr/Здания/Datacenters|Datacenters]]
 - **ai_will_do**: скрипт, строки 61–67
 - **ai_construction_targets**: скрипт, строки 69–76

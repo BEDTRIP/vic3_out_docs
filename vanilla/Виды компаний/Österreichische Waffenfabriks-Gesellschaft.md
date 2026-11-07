@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_austria_hungary.txt]
 - **attainable**: скрипт, строки 377–383
 - **possible**: скрипт, строки 385–395
 - **prosperity_modifier**:
-  - `building_munition_plant_throughput_add` = `0.1` → [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
-  - `unit_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-munition-plant-throughput-add|building_munition_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 402–408
 - **ai_construction_targets**: скрипт, строки 410–417
 - **ai_weight**: скрипт, строки 419–421

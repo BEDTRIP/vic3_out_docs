@@ -19,17 +19,17 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[vanilla/Технологии/Автоматические воздуходувки|Автоматические воздуходувки]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_dye_add` = `30` → [[vanilla/Товары/Красители|Красители]]
-    - `goods_input_fruit_add` = `20` → [[vanilla/Товары/Фрукты|Фрукты]]
-    - `goods_input_glass_add` = `20` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-dye-add|goods_input_dye_add]] = `30` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fruit-add|goods_input_fruit_add]] = `20` → [[vanilla/Товары/Фрукты|Фрукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-glass-add|goods_input_glass_add]] = `20` → [[vanilla/Товары/Стекло|Стекло]]
     - `goods_input_pharmaceuticals_add` = `15` → [[tr/Товары/Фармацевтика|Фармацевтика]]
     - `goods_output_cosmetics_add` = `80` → [[tr/Товары/Cosmetics|Cosmetics]]
-    - `goods_output_fine_art_add` = `0.5` → [[vanilla/Товары/Картины|Картины]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-add|goods_output_fine_art_add]] = `0.5` → [[vanilla/Товары/Картины|Картины]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `1500` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/modern_statistics.dds`
 - **category**: `society`
 - **modifier**:
-  - `state_tax_capacity_add` = `25`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `25`
 - **unlocking_technologies**: [[tr/Технологии/Software|Software]], [[tr/Технологии/Mathematical Finance|Mathematical Finance]]
 - **ai_weight**: скрипт, строки 518–520
 

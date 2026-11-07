@@ -24,7 +24,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_usa.txt]
 - **attainable**: скрипт, строки 21–27
 - **possible**: скрипт, строки 29–39
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `0.2` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.2` → [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **ai_will_do**: скрипт, строки 45–52
 - **ai_construction_targets**: скрипт, строки 54–62
 - **ai_weight**: скрипт, строки 64–66

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/naval_logistics_automation.dds`
 - **category**: `military`
 - **modifier**:
-  - `country_port_connection_cost_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-port-connection-cost-mult|country_port_connection_cost_mult]] = `-0.05`
 - **unlocking_technologies**: [[tr/Технологии/Modular Shipbuilding|Modular Shipbuilding]], [[tr/Технологии/Modern Battleships|Modern Battleships]]
 - **ai_weight**: скрипт, строки 777–779
 

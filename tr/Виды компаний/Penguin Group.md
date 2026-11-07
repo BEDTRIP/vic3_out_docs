@@ -24,10 +24,10 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **attainable**: скрипт, строки 213–219
 - **possible**: скрипт, строки 220–230
 - **prosperity_modifier**:
-  - `country_society_tech_spread_mult` = `0.05`
-  - `interest_group_ig_intelligentsia_approval_add` = `1`
-  - `interest_group_ig_intelligentsia_pop_attraction_mult` = `0.05`
-  - `country_influence_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-spread-mult|country_society_tech_spread_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-approval-add|interest_group_ig_intelligentsia_approval_add]] = `1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pop-attraction-mult|interest_group_ig_intelligentsia_pop_attraction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 237–243
 - **ai_construction_targets**: скрипт, строки 244–251
 - **ai_weight**: скрипт, строки 252–254

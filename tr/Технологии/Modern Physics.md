@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_produc
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Electromagnetism|Electromagnetism]]
 - **modifier**:
-  - `country_tech_research_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.1`
 - **on_researched**: скрипт, строки 47–51
 - **ai_weight**: скрипт, строки 53–68
 

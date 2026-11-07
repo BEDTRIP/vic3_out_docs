@@ -18,8 +18,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/sulfur.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_sulfur_add` = `5` → [[vanilla/Товары/Сера|Сера]]
-    - `goods_output_coal_add` = `-15` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sulfur-add|goods_output_sulfur_add]] = `5` → [[vanilla/Товары/Сера|Сера]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-coal-add|goods_output_coal_add]] = `-15` → [[vanilla/Товары/Уголь|Уголь]]
 - **unlocking_technologies**: [[tr/Технологии/Modern Purification|Modern Purification]]
 
 ## Ссылаются

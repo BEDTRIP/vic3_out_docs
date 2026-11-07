@@ -18,16 +18,16 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/pm_modern_healtcare.dds`
 - **state_modifiers**:
   - **unscaled**:
-    - `state_turmoil_effects_mult` = `-0.15`
-    - `state_mortality_turmoil_mult` = `-0.15`
+    - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.15`
+    - [[vanilla/движок/Модификаторы S#^m-state-mortality-turmoil-mult|state_mortality_turmoil_mult]] = `-0.15`
 - **unlocking_technologies**: [[tr/Технологии/Фармацевтика|Фармацевтика]]
 - **disallowing_laws**: [[vanilla/Законы/Нет системы здравоохранения|Нет системы здравоохранения]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fabric_add` = `3` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_input_liquor_add` = `1` → [[vanilla/Товары/Спирт|Спирт]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `3` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-liquor-add|goods_input_liquor_add]] = `1` → [[vanilla/Товары/Спирт|Спирт]]
     - `goods_input_pharmaceuticals_add` = `2` → [[tr/Товары/Фармацевтика|Фармацевтика]]
-    - `goods_output_services_add` = `10` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `10` → [[vanilla/Товары/Услуги|Услуги]]
 
 ## Ссылаются
 

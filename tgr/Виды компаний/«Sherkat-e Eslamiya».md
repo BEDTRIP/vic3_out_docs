@@ -39,7 +39,7 @@ replaces: "[[vanilla/Виды компаний/«Sherkat-e Eslamiya»]]"
 - **attainable**: скрипт, строки 1130–1136
 - **possible**: скрипт, строки 1138–1146
 - **prosperity_modifier**:
-  - `country_state_religion_wages_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-state-religion-wages-mult|country_state_religion_wages_mult]] = `0.2`
 - **ai_will_do**: скрипт, строки 1152–1157
 - **ai_construction_targets**: скрипт, строки 1159–1166
 - **ai_weight**: скрипт, строки 1168–1170

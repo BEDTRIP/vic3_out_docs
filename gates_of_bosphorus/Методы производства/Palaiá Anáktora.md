@@ -18,8 +18,8 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_mult` = `0.05`
-    - `country_legitimacy_headofstate_add` = `5`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+    - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `5`
 
 ## Ссылаются
 

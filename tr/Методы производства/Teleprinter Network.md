@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
     - `goods_input_electroniccomponents_add` = `1` → [[tr/Товары/Electronic Components|Electronic Components]]
     - `goods_input_telecommunications_add` = `2` → [[tr/Товары/Telecommunications|Telecommunications]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `-200` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `-200` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

@@ -19,16 +19,16 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_special_traits.t
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/special_character_napoleon_of_the_americas.dds`
 - **value**: `1`
 - **character_modifier**:
-  - `character_command_limit_mult` = `0.3`
-  - `character_popularity_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-character-command-limit-mult|character_command_limit_mult]] = `0.3`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `25`
 - **command_modifier**:
-  - `unit_offense_mult` = `0.2`
-  - `character_battle_condition_surprise_maneuver_mult` = `1.5`
-  - `unit_morale_recovery_mult` = `1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-character-battle-condition-surprise-maneuver-mult|character_battle_condition_surprise_maneuver_mult]] = `1.5`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `1`
 - **interest_group_modifier**:
-  - `interest_group_pol_str_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pol-str-mult|interest_group_pol_str_mult]] = `0.05`
 - **agitator_modifier**:
-  - `political_movement_pop_attraction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-pop-attraction-mult|political_movement_pop_attraction_mult]] = `0.05`
 - **possible**: скрипт, строки 51–53
 - **weight**:
   - `value` = `3`

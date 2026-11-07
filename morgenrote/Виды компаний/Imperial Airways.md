@@ -26,8 +26,8 @@ paths: [Morgenrote/common/company_types/mr_curtiss_company_types.txt]
 - **potential**: скрипт, строки 249–255
 - **possible**: скрипт, строки 257–265
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `0.2`
-  - `state_infrastructure_from_population_max_add` = `10`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `10`
 - **ai_will_do**: скрипт, строки 272–278
 - **ai_construction_targets**: скрипт, строки 280–287
 - **ai_weight**: скрипт, строки 289–291

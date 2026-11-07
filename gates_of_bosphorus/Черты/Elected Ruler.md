@@ -19,11 +19,11 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_skill_traits.txt
 - **texture**: `gfx/interface/icons/character_trait_icons/social_banditry.dds`
 - **value**: `1`
 - **character_modifier**:
-  - `character_popularity_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `25`
 - **country_modifier**:
-  - `country_legitimacy_base_add` = `5`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-base-add|country_legitimacy_base_add]] = `5`
 - **command_modifier**:
-  - `unit_morale_recovery_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
 - **possible**: скрипт, строки 78–80
 - **weight**:
   - `value` = `0`

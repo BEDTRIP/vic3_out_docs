@@ -20,16 +20,16 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **disallowing_laws**: [[tr/Законы/Запрет промышленности|Запрет промышленности]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `4` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `4` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_input_light_fuel_add` = `1` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_input_steel_add` = `2` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `2` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_robotics_add` = `1` → [[tr/Товары/Robotics|Robotics]]
   - **unscaled**:
-    - `building_throughput_add` = `0.5`
+    - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.5`
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `-250` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `-250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `-250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 644–652
 - **possible**: скрипт, строки 654–666
 - **prosperity_modifier**:
-  - `building_synthetics_plant_throughput_add` = `0.1` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
-  - `interest_group_ig_petty_bourgeoisie_approval_add` = `2`
+  - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-approval-add|interest_group_ig_petty_bourgeoisie_approval_add]] = `2`
 - **ai_will_do**: скрипт, строки 673–678
 - **ai_construction_targets**: скрипт, строки 680–693
 - **ai_weight**: скрипт, строки 695–697

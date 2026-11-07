@@ -18,10 +18,10 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pop_qualifications_mult` = `0.2`
+    - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.2`
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `100` → [[grey_soft_pop/Население/Типы/Аристократы|Аристократы]]
-    - `building_employment_bureaucrats_add` = `100` → [[grey_soft_pop/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `100` → [[grey_soft_pop/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `100` → [[grey_soft_pop/Население/Типы/Чиновники|Чиновники]]

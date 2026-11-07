@@ -2,6 +2,9 @@
 version = "1.13"
 paths_root = ".."
 # имена генерата не должны повторять заметки форка и узла (одно хранилище Obsidian)
+# справочник движка: дамп script_docs из документов игры (копия — vanilla/движок/дамп/), дата дампа
+dump = "C:/Users/Andrey/Documents/Paradox Interactive/Victoria 3/docs"
+dump_date = "2026-10-13"
 avoid = ["../../Economic-and-Financial-Ledgerdemain-Mod/docs/понятия", "../../docs"]
 
 [sources.vanilla]

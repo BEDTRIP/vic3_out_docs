@@ -27,8 +27,8 @@ paths: [Morgenrote/common/company_types/mr_manzoni_company_types.txt]
 - **attainable**: скрипт, строки 2350–2354
 - **possible**: скрипт, строки 2356–2366
 - **prosperity_modifier**:
-  - `interest_group_ig_landowners_pop_attraction_mult` = `0.1`
-  - `country_bureaucracy_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-pop-attraction-mult|interest_group_ig_landowners_pop_attraction_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-mult|country_bureaucracy_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 2373–2378
 - **ai_construction_targets**: скрипт, строки 2380–2387
 - **ai_weight**: скрипт, строки 2389–2391

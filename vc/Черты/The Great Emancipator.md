@@ -18,14 +18,14 @@ paths: [VC/common/character_traits/joi_special_personality_traits.txt]
 - **type**: `personality`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/special_character_curly_haired_orpheus.dds`
 - **character_modifier**:
-  - `character_popularity_add` = `100`
-  - `character_prominence_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `100`
+  - [[vanilla/движок/Модификаторы C#^m-character-prominence-add|character_prominence_add]] = `25`
 - **command_modifier**: пусто
 - **country_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `country_legitimacy_headofstate_add` = `10`
-  - `country_legitimacy_min_add` = `25`
-  - `country_law_enactment_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-min-add|country_legitimacy_min_add]] = `25`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `0.1`
 - **agitator_modifier**: пусто
 - **executive_modifier**: пусто
 - **possible**: пусто

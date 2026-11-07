@@ -19,20 +19,20 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **unlocking_laws**: [[vanilla/Законы/Долговое рабство|Долговое рабство]], [[vanilla/Законы/Работорговля|Работорговля]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `300` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
-    - `building_employment_bureaucrats_add` = `700` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_slaves_add` = `3000` → [[vanilla/Население/Типы/Рабы|Рабы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `300` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `700` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-slaves-add|building_employment_slaves_add]] = `3000` → [[vanilla/Население/Типы/Рабы|Рабы]]
   - **workforce_scaled**:
-    - `state_slave_import_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-slave-import-mult|state_slave_import_mult]] = `0.1`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_slave_import_mult` = `0.25`
+    - [[vanilla/движок/Модификаторы S#^m-state-slave-import-mult|state_slave_import_mult]] = `0.25`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_minting_add` = `2500`
-    - `country_prestige_mult` = `-0.05`
-    - `country_infamy_decay_mult` = `-0.10`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `2500`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `-0.05`
+    - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `-0.10`
 
 ## Ссылаются
 

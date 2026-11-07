@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 407–415
 - **possible**: скрипт, строки 417–427
 - **prosperity_modifier**:
-  - `building_coal_mine_throughput_add` = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
-  - `country_bureaucracy_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-mult|country_bureaucracy_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 434–439
 - **ai_construction_targets**: скрипт, строки 441–448
 - **ai_weight**: скрипт, строки 450–452

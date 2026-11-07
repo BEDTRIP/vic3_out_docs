@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 972–978
 - **possible**: скрипт, строки 980–990
 - **prosperity_modifier**:
-  - `building_wheat_farm_throughput_add` = `0.2` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
-  - `building_rye_farm_throughput_add` = `0.2` → [[vanilla/Здания/Ржаные поля|Ржаные поля]]
+  - [[vanilla/движок/Модификаторы B#^m-building-wheat-farm-throughput-add|building_wheat_farm_throughput_add]] = `0.2` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
+  - [[vanilla/движок/Модификаторы B#^m-building-rye-farm-throughput-add|building_rye_farm_throughput_add]] = `0.2` → [[vanilla/Здания/Ржаные поля|Ржаные поля]]
 - **ai_will_do**: скрипт, строки 997–1003
 - **ai_construction_targets**: скрипт, строки 1005–1012
 - **ai_weight**: скрипт, строки 1014–1016

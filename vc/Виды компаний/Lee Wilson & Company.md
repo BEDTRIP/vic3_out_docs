@@ -32,9 +32,9 @@ replaces: "[[vanilla/Виды компаний/Lee Wilson & Company]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 4368–4380
 - **prosperity_modifier**:
-  - `building_power_plant_throughput_add` = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
-  - `building_group_bg_logging_throughput_add` = `0.1`
-  - `goods_output_fabric_mult` = `0.15` → [[vanilla/Товары/Ткань|Ткань]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-throughput-add|building_group_bg_logging_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-mult|goods_output_fabric_mult]] = `0.15` → [[vanilla/Товары/Ткань|Ткань]]
 - **ai_will_do**: скрипт, строки 4388–4393
 - **ai_construction_targets**: скрипт, строки 4395–4408
 - **ai_weight**: скрипт, строки 4410–4412

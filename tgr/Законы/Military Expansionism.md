@@ -21,15 +21,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **unlocking_laws**: пусто
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_military_tech_research_speed_mult` = `0.25`
-  - `country_infamy_generation_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-tech-research-speed-mult|country_military_tech_research_speed_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `unit_experience_gain_mult` = `0.05`
-  - `interest_group_ig_armed_forces_pol_str_mult` = `0.05`
-  - `interest_group_ig_armed_forces_pop_attraction_mult` = `0.10`
-  - `country_officers_pol_str_mult` = `0.20`
-  - `country_soldiers_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы U#^m-unit-experience-gain-mult|unit_experience_gain_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-armed-forces-pol-str-mult|interest_group_ig_armed_forces_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-armed-forces-pop-attraction-mult|interest_group_ig_armed_forces_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-officers-pol-str-mult|country_officers_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-soldiers-pol-str-mult|country_soldiers_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 142–149
 
 ## Ссылаются

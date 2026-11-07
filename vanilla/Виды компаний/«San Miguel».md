@@ -26,7 +26,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **attainable**: скрипт, строки 818–824
 - **possible**: скрипт, строки 826–836
 - **prosperity_modifier**:
-  - `state_radicals_from_political_movements_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 842–848
 - **ai_construction_targets**: скрипт, строки 850–858
 - **ai_weight**: скрипт, строки 860–862

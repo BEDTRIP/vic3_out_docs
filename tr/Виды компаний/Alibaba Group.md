@@ -25,10 +25,10 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_ecommerce_companies.txt]
 - **attainable**: скрипт, строки 202–208
 - **possible**: скрипт, строки 210–220
 - **prosperity_modifier**:
-  - `building_automotive_industry_throughput_add` = `0.05` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.05` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
   - `building_office_throughput_add` = `0.05` → [[tr/Здания/Offices|Offices]]
-  - `state_trade_capacity_mult` = `0.1`
-  - `state_trade_quantity_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-quantity-mult|state_trade_quantity_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 229–235
 - **ai_construction_targets**: скрипт, строки 237–244
 - **ai_weight**: скрипт, строки 246–248

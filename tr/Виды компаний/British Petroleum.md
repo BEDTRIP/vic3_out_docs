@@ -26,6 +26,6 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_oil_gas_companies.txt]
 - **possible**: скрипт, строки 219–227
 - **prosperity_modifier**:
   - `building_natural_gas_rig_throughput_add` = `0.1` → [[tr/Здания/Natural Gas Rigs|Natural Gas Rigs]]
-  - `state_colony_growth_speed_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.15`
 - **ai_will_do**: скрипт, строки 232–237
 - **ai_weight**: скрипт, строки 238–240

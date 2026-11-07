@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 571–579
 - **possible**: скрипт, строки 581–597
 - **prosperity_modifier**:
-  - `country_production_tech_research_speed_mult` = `0.1`
-  - `state_radicals_from_political_movements_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 604–611
 - **ai_construction_targets**: скрипт, строки 613–641
 - **ai_weight**: скрипт, строки 643–645

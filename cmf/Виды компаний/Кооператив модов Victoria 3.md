@@ -24,8 +24,8 @@ paths: [_cmf/common/company_types/com_companies.txt]
 - **attainable**: скрипт, строки 34–51
 - **possible**: скрипт, строки 52–67
 - **prosperity_modifier**:
-  - `state_education_access_add` = `0.10`
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 72–74
 - **ai_construction_targets**: скрипт, строки 75–82
 - **ai_will_do**: скрипт, строки 83–88

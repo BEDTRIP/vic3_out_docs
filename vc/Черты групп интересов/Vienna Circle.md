@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/avant_garde.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_university_throughput_add` = `0.1` → [[vanilla/Здания/Университеты|Университеты]]
-  - `country_tech_research_speed_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.1` → [[vanilla/Здания/Университеты|Университеты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.15`

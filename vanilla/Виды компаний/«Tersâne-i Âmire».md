@@ -26,7 +26,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **attainable**: скрипт, строки 115–121
 - **possible**: скрипт, строки 123–133
 - **prosperity_modifier**:
-  - `ship_armor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 139–145
 - **ai_construction_targets**: скрипт, строки 147–154
 - **ai_weight**: скрипт, строки 156–158

@@ -18,18 +18,18 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_grandiose_amenities.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_migration_pull_mult` = `0.15`
-    - `state_loyalism_increases_full_acceptance_mult` = `0.15`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.15`
+    - [[vanilla/движок/Модификаторы S#^m-state-loyalism-increases-full-acceptance-mult|state_loyalism_increases_full_acceptance_mult]] = `0.15`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_groceries_add` = `40` → [[vanilla/Товары/Продукты|Продукты]]
-    - `goods_input_liquor_add` = `20` → [[vanilla/Товары/Спирт|Спирт]]
-    - `goods_input_tobacco_add` = `15` → [[vanilla/Товары/Табак|Табак]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_services_add` = `100` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-groceries-add|goods_input_groceries_add]] = `40` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-liquor-add|goods_input_liquor_add]] = `20` → [[vanilla/Товары/Спирт|Спирт]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tobacco-add|goods_input_tobacco_add]] = `15` → [[vanilla/Товары/Табак|Табак]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `100` → [[vanilla/Товары/Услуги|Услуги]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_shopkeepers_add` = `750` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `250` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `750` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 
 ## Ссылаются
 

@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **modifier**:
   - `country_institution_environmental_policy_max_investment_add` = `1`
-  - `country_free_charters_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-free-charters-add|country_free_charters_add]] = `1`
 - **unlocking_technologies**: [[tr/Технологии/Environmentalism|Environmentalism]], [[tr/Технологии/Globalization|Globalization]]
 - **ai_weight**: скрипт, строки 1089–1091
 

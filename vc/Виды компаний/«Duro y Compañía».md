@@ -32,8 +32,8 @@ replaces: "[[vanilla/Виды компаний/«Duro y Compañía»]]"
 - **attainable**: скрипт, строки 6755–6761
 - **possible**: скрипт, строки 6763–6773
 - **prosperity_modifier**:
-  - `building_arms_industry_throughput_add` = `0.2` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
-  - `building_steel_mill_throughput_add` = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.2` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 6780–6786
 - **ai_construction_targets**: скрипт, строки 6788–6795
 - **ai_weight**: скрипт, строки 6797–6799

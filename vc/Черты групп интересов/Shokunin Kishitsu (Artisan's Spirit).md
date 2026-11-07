@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/treasury_bonds.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `building_group_bg_manufacturing_throughput_add` = `0.1`
-  - `building_construction_sector_throughput_add` = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
-  - `state_export_advantage_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-manufacturing-throughput-add|building_group_bg_manufacturing_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы S#^m-state-export-advantage-mult|state_export_advantage_mult]] = `0.15`

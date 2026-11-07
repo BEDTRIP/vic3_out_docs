@@ -25,16 +25,16 @@ replaces: "[[vanilla/Методы производства/Увеличенны�
 - **unlocking_principles**: `principle_divine_economics_2`, `principle_divine_economics_3`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `50` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
-    - `building_employment_clergymen_add` = `50` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `50` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `50` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
   - **unscaled**:
-    - `building_aristocrats_shares_add` = `10`
-    - `building_clergymen_shares_add` = `1`
+    - [[vanilla/движок/Модификаторы B#^m-building-aristocrats-shares-add|building_aristocrats_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-clergymen-shares-add|building_clergymen_shares_add]] = `1`
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_weekly_trades_add` = `0.5`
-    - `state_trade_capacity_add` = `1`
-    - `state_tax_capacity_add` = `0.25`
+    - [[vanilla/движок/Модификаторы S#^m-state-weekly-trades-add|state_weekly_trades_add]] = `0.5`
+    - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-add|state_trade_capacity_add]] = `1`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `0.25`
 
 ## Ссылаются
 

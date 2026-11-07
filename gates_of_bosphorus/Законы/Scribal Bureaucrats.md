@@ -22,11 +22,11 @@ paths: [for addon/gatesofbosphorus/common/laws/gbbf_bureaucracy.txt]
 - **is_visible**: скрипт, строки 8–10
 - **disallowing_laws**: [[vanilla/Законы/Советская республика|Советская республика]]
 - **modifier**:
-  - `state_incorporation_speed_mult` = `-0.25`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.10`
-  - `country_institution_size_change_speed_mult` = `-0.25`
-  - `country_aristocrats_pol_str_mult` = `0.10`
-  - `country_bureaucrats_pol_str_mult` = `0.50`
+  - [[vanilla/движок/Модификаторы S#^m-state-incorporation-speed-mult|state_incorporation_speed_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-size-change-speed-mult|country_institution_size_change_speed_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-aristocrats-pol-str-mult|country_aristocrats_pol_str_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-pol-str-mult|country_bureaucrats_pol_str_mult]] = `0.50`
 - **on_activate**: скрипт, строки 24–26
 - **on_enact**: скрипт, строки 28–36
 - **on_deactivate**: скрипт, строки 38–40

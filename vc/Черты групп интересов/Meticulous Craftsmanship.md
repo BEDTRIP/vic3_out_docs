@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/industrial_organizers.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_economy_of_scale_level_cap_add` = `10`
-  - `building_construction_sector_throughput_add` = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы B#^m-building-economy-of-scale-level-cap-add|building_economy_of_scale_level_cap_add]] = `10`
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]

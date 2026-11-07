@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **attainable**: скрипт, строки 642–648
 - **possible**: скрипт, строки 650–660
 - **prosperity_modifier**:
-  - `building_tooling_workshop_throughput_add` = `0.1` → [[vanilla/Здания/Производства инструментов|Производства инструментов]]
-  - `state_infrastructure_from_population_max_add` = `15`
+  - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.1` → [[vanilla/Здания/Производства инструментов|Производства инструментов]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `15`
 - **ai_will_do**: скрипт, строки 667–673
 - **ai_construction_targets**: скрипт, строки 675–683
 - **ai_weight**: скрипт, строки 685–687

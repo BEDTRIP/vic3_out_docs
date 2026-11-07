@@ -26,9 +26,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 7394–7400
 - **possible**: скрипт, строки 7402–7412
 - **prosperity_modifier**:
-  - `goods_output_tools_mult` = `0.1` → [[vanilla/Товары/Инструменты|Инструменты]]
-  - `building_arms_industry_throughput_add` = `0.15` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
-  - `building_steel_mill_throughput_add` = `0.15` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-tools-mult|goods_output_tools_mult]] = `0.1` → [[vanilla/Товары/Инструменты|Инструменты]]
+  - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.15` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.15` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 7420–7425
 - **ai_construction_targets**: скрипт, строки 7427–7434
 - **ai_weight**: скрипт, строки 7436–7438

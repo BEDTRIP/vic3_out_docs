@@ -23,14 +23,14 @@ replaces: "[[vanilla/Методы производства/Конвейерно�
 - **texture**: `gfx/interface/icons/production_method_icons/assembly_lines.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `15`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `15`
 - **unlocking_technologies**: [[vanilla/Технологии/Конвейеры|Конвейеры]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `3` → [[tgr/Товары/Инструменты|Инструменты]]
-    - `goods_input_oil_add` = `3` → [[tgr/Товары/ГСМ|ГСМ]]
-    - `goods_input_electricity_add` = `2` → [[tgr/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `3` → [[tgr/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `3` → [[tgr/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `2` → [[tgr/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `-1500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-1500` → [[vanilla/Население/Типы/Механики|Механики]]
 - **required_input_goods**: [[tgr/Товары/Электричество|Электричество]]

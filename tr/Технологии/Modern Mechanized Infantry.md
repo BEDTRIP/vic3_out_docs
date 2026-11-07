@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/mechanized_infantry.dds`
 - **category**: `military`
 - **modifier**:
-  - `military_formation_mobilization_speed_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-mobilization-speed-mult|military_formation_mobilization_speed_mult]] = `0.2`
   - `unit_combat_unit_type_self_propelled_artillery_offense_mult` = `0.05`
   - `unit_advancement_speed_mult` = `0.1`
-  - `military_formation_attrition_risk_mult` = `-0.2`
-  - `country_military_wages_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-attrition-risk-mult|military_formation_attrition_risk_mult]] = `-0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
 - **unlocking_technologies**: [[vanilla/Технологии/Подвижная броня|Подвижная броня]]
 - **ai_weight**: скрипт, строки 84–92
 

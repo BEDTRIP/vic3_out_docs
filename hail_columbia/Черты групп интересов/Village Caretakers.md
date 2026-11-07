@@ -18,4 +18,4 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/be_fruitful_and_multiply.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_birth_rate_mult` = `0.025`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.025`

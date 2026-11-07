@@ -28,9 +28,9 @@ replaces: "[[vanilla/Виды компаний/«Nederlandse Petroleum Maatschap
 - **potential**: скрипт, строки 5229–5231
 - **possible**: скрипт, строки 5233–5243
 - **prosperity_modifier**:
-  - `state_colony_growth_creation_factor` = `0.1`
-  - `building_group_bg_oil_extraction_employee_mult` = `-0.1`
-  - `building_group_bg_oil_extraction_throughput_add` = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-creation-factor|state_colony_growth_creation_factor]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-employee-mult|building_group_bg_oil_extraction_employee_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.2`
 - **ai_will_do**: скрипт, строки 5251–5258
 - **ai_construction_targets**: скрипт, строки 5260–5268
 - **ai_weight**: скрипт, строки 5270–5272

@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«FIAT»]]"
 - **attainable**: скрипт, строки 1164–1170
 - **possible**: скрипт, строки 1172–1185
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.1`
-  - `building_automotive_industry_throughput_add` = `0.1` → [[vc/Здания/Автомобильные заводы|Автомобильные заводы]]
-  - `goods_output_automobiles_mult` = `0.1` → [[vanilla/Товары/Автомобили|Автомобили]]
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.1` → [[vc/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-automobiles-mult|goods_output_automobiles_mult]] = `0.1` → [[vanilla/Товары/Автомобили|Автомобили]]
 - **ai_will_do**: скрипт, строки 1193–1199
 - **ai_construction_targets**: скрипт, строки 1201–1214
 - **ai_weight**: скрипт, строки 1216–1218

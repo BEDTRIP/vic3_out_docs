@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Heavy Machinery|Heavy Machinery]], [[tr/Технологии/Rare Earths|Rare Earths]]
 - **modifier**:
-  - `building_group_bg_mining_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.05`
 - **ai_weight**: скрипт, строки 1345–1347
 
 ## Ссылаются

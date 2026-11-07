@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Synthetic Fuel|Synthetic Fuel]], [[tr/Технологии/Offset Printing|Offset Printing]]
 - **modifier**:
-  - `building_paper_mill_throughput_add` = `0.05` → [[tr/Здания/Бумажные фабрики|Бумажные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-paper-mill-throughput-add|building_paper_mill_throughput_add]] = `0.05` → [[tr/Здания/Бумажные фабрики|Бумажные фабрики]]
 - **ai_weight**: скрипт, строки 293–295
 
 ## Ссылаются

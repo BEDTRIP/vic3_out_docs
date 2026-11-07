@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_oil_gas_companies.txt]
 - **attainable**: скрипт, строки 156–164
 - **possible**: скрипт, строки 165–173
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
-  - `state_colony_growth_speed_mult` = `0.15`
-  - `state_migration_pull_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 179–184
 - **ai_weight**: скрипт, строки 185–187

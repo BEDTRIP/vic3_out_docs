@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_migration_pull_mult` = `0.20`
-  - `country_acceptance_no_shared_language_trait_add` = `10`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-no-shared-language-trait-add|country_acceptance_no_shared_language_trait_add]] = `10`

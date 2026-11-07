@@ -23,16 +23,16 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **attainable**: скрипт, строки 3949–3955
 - **possible**: скрипт, строки 3957–3965
 - **prosperity_modifier**:
-  - `interest_group_in_government_approval_add` = `1`
-  - `interest_group_in_opposition_approval_add` = `1`
-  - `country_loan_interest_rate_mult` = `-0.05`
-  - `country_private_construction_allocation_mult` = `0.05`
-  - `state_farmers_investment_pool_contribution_add` = `0.015`
-  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
-  - `state_clergymen_investment_pool_contribution_add` = `0.04`
-  - `state_aristocrats_investment_pool_contribution_add` = `0.04`
-  - `state_capitalists_investment_pool_contribution_add` = `0.065`
-  - `building_nationalization_investment_return_add` = `0.05`
-  - `country_government_dividends_reinvestment_add` = `0.05`
-  - `country_government_dividends_efficiency_add` = `0.05`
-  - `country_max_companies_add` = `1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-in-government-approval-add|interest_group_in_government_approval_add]] = `1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-in-opposition-approval-add|interest_group_in_opposition_approval_add]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-private-construction-allocation-mult|country_private_construction_allocation_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-farmers-investment-pool-contribution-add|state_farmers_investment_pool_contribution_add]] = `0.015`
+  - [[vanilla/движок/Модификаторы S#^m-state-shopkeepers-investment-pool-contribution-add|state_shopkeepers_investment_pool_contribution_add]] = `0.015`
+  - [[vanilla/движок/Модификаторы S#^m-state-clergymen-investment-pool-contribution-add|state_clergymen_investment_pool_contribution_add]] = `0.04`
+  - [[vanilla/движок/Модификаторы S#^m-state-aristocrats-investment-pool-contribution-add|state_aristocrats_investment_pool_contribution_add]] = `0.04`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-contribution-add|state_capitalists_investment_pool_contribution_add]] = `0.065`
+  - [[vanilla/движок/Модификаторы B#^m-building-nationalization-investment-return-add|building_nationalization_investment_return_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-government-dividends-reinvestment-add|country_government_dividends_reinvestment_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-government-dividends-efficiency-add|country_government_dividends_efficiency_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-companies-add|country_max_companies_add]] = `1`

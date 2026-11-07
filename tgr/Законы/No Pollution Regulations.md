@@ -19,7 +19,7 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_environment_regulations.txt]
 - **icon**: `gfx/interface/icons/law_icons/industry_banned.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `state_pollution_reduction_health_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `0.2`
 - **ai_will_do**: скрипт, строки 12–14
 - **ai_enact_weight_modifier**: скрипт, строки 16–23
 

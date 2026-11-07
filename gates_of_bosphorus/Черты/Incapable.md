@@ -19,13 +19,13 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_condition_traits
 - **texture**: `gfx/interface/icons/character_trait_icons/psychological_affliction.dds`
 - **value**: `0`
 - **character_modifier**:
-  - `character_health_add` = `-0.5`
-  - `character_popularity_add` = `-50`
+  - [[vanilla/движок/Модификаторы C#^m-character-health-add|character_health_add]] = `-0.5`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `-50`
 - **command_modifier**:
-  - `character_command_limit_mult` = `-0.50`
+  - [[vanilla/движок/Модификаторы C#^m-character-command-limit-mult|character_command_limit_mult]] = `-0.50`
 - **country_modifier**:
-  - `country_authority_add` = `-200`
-  - `country_prestige_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `-200`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `-0.05`
 - **possible**: скрипт, строки 18–20
 - **weight**:
   - `value` = `0`

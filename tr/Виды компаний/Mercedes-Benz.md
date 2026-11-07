@@ -26,10 +26,10 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 445–451
 - **possible**: скрипт, строки 452–462
 - **prosperity_modifier**:
-  - `state_infrastructure_from_automobiles_consumption_add` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.1`
   - `building_battery_plant_throughput_add` = `0.05` → [[tr/Здания/Battery Plants|Battery Plants]]
   - `building_mendelejew_hydrogenation_plants_throughput_add` = `0.05` → [[tr/Здания/Oil Refineries|Oil Refineries]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 469–475
 - **ai_construction_targets**: скрипт, строки 476–483
 - **ai_weight**: скрипт, строки 484–486

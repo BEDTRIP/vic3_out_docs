@@ -19,16 +19,16 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **unlocking_technologies**: [[tr/Технологии/Jet Engines|Jet Engines]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `25` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_glass_add` = `5` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `25` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-glass-add|goods_input_glass_add]] = `5` → [[vanilla/Товары/Стекло|Стекло]]
     - `goods_input_aluminium_add` = `20` → [[tr/Товары/Aluminium|Aluminium]]
     - `goods_input_plastics_add` = `10` → [[tr/Товары/Пластмассы|Пластмассы]]
     - `goods_input_electroniccomponents_add` = `15` → [[tr/Товары/Electronic Components|Electronic Components]]
     - `goods_output_civil_planes_add` = `80` → [[tr/Товары/Airplanes|Airplanes]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `1500` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

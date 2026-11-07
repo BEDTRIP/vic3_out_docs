@@ -19,14 +19,14 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Pop Art|Pop Art]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `10` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `10` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_input_manzoni_prints_add` = `8` → [[tr/Товары/Media Content|Media Content]]
-    - `goods_input_paper_add` = `10` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_fine_art_add` = `12` → [[vanilla/Товары/Картины|Картины]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `10` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-add|goods_output_fine_art_add]] = `12` → [[vanilla/Товары/Картины|Картины]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_clerks_add` = `-500` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `-500` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

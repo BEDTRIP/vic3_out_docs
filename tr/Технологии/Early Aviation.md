@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_military.txt]
 - **category**: `military`
 - **unlocking_technologies**: [[tr/Технологии/Reconnaissance Balloons|Reconnaissance Balloons]]
 - **modifier**:
-  - `unit_provinces_captured_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-provinces-captured-mult|unit_provinces_captured_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 72–74
 
 ## Ссылаются

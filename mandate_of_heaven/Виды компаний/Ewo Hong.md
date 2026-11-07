@@ -27,8 +27,8 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 493–499
 - **possible**: скрипт, строки 500–511
 - **prosperity_modifier**:
-  - `country_prestige_add` = `25`
-  - `state_trade_advantage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
 - **ai_weight**: скрипт, строки 516–518
 - **ai_construction_targets**: скрипт, строки 519–527
 - **ai_will_do**: скрипт, строки 528–534

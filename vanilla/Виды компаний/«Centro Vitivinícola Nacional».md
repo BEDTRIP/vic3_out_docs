@@ -23,7 +23,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **potential**: скрипт, строки 491–494
 - **possible**: скрипт, строки 496–507
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.2`
 - **ai_will_do**: скрипт, строки 513–519
 - **ai_construction_targets**: скрипт, строки 521–529
 - **ai_weight**: скрипт, строки 531–533

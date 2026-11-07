@@ -33,9 +33,9 @@ replaces: "[[vanilla/Виды компаний/«F. Schichau»]]"
 - **attainable**: скрипт, строки 6372–6378
 - **possible**: скрипт, строки 6380–6390
 - **prosperity_modifier**:
-  - `country_ship_construction_efficiency_add` = `0.1`
-  - `ship_hull_damage_mult` = `0.1`
-  - `ship_visibility_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-construction-efficiency-add|country_ship_construction_efficiency_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-visibility-mult|ship_visibility_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 6398–6404
 - **ai_construction_targets**: скрипт, строки 6406–6413
 - **ai_weight**: скрипт, строки 6415–6417

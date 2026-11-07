@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/farmers_markets.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_construction_goods_cost_mult` = `-0.05`
-  - `building_construction_sector_throughput_add` = `0.15` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы C#^m-country-construction-goods-cost-mult|country_construction_goods_cost_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.15` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]

@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **attainable**: скрипт, строки 431–437
 - **possible**: скрипт, строки 439–448
 - **prosperity_modifier**:
-  - `building_lead_mine_throughput_add` = `0.1` → [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-lead-mine-throughput-add|building_lead_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.15`
 - **ai_will_do**: скрипт, строки 455–460
 - **ai_construction_targets**: скрипт, строки 462–469
 - **ai_weight**: скрипт, строки 471–473

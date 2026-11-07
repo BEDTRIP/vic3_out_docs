@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **category**: `military`
 - **modifier**:
   - `unit_convoy_raiding_mult` = `0.1`
-  - `unit_morale_damage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-damage-mult|unit_morale_damage_mult]] = `0.1`
   - `unit_convoy_raiding_interception_mult` = `0.25`
   - `increase_nuclear_strike_power_bool_tt` = `yes`
 - **unlocking_technologies**: [[tr/Технологии/AWACS|AWACS]], [[tr/Технологии/Supersonic Aviation|Supersonic Aviation]], [[tr/Технологии/Nuclear Submarine|Nuclear Submarine]]

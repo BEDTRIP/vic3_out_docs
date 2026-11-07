@@ -20,15 +20,15 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **unlocking_technologies**: [[tr/Технологии/Civil Drones|Civil Drones]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_fertilizer_add` = `3` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `3` → [[vanilla/Товары/Удобрение|Удобрение]]
     - `goods_input_telecommunications_add` = `2` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_robotics_add` = `3` → [[tr/Товары/Robotics|Robotics]]
-    - `goods_output_dye_add` = `105` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-dye-add|goods_output_dye_add]] = `105` → [[vanilla/Товары/Красители|Красители]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

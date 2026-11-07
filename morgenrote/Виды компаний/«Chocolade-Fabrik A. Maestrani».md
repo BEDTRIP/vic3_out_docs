@@ -25,8 +25,8 @@ paths: [Morgenrote/common/company_types/mr_company_types.txt]
 - **potential**: скрипт, строки 97–99
 - **possible**: скрипт, строки 101–110
 - **prosperity_modifier**:
-  - `building_food_industry_throughput_add` = `0.1` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
-  - `state_upper_strata_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы S#^m-state-upper-strata-standard-of-living-add|state_upper_strata_standard_of_living_add]] = `0.5`
 - **ai_will_do**: скрипт, строки 117–122
 - **ai_construction_targets**: скрипт, строки 124–131
 - **ai_weight**: скрипт, строки 133–135

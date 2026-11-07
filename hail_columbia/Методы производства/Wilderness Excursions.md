@@ -18,7 +18,7 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/usfp_pm_national_parks_map.dds`
 - **state_modifiers**:
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.01`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.01`
 
 ## Ссылаются
 

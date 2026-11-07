@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_entertainment_companies.txt]
 - **attainable**: скрипт, строки 121–128
 - **possible**: скрипт, строки 129–139
 - **prosperity_modifier**:
-  - `state_education_access_wealth_add` = `0.005`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
   - `goods_output_elgar_instruments_mult` = `0.1` → [[tr/Товары/Instruments|Instruments]]
 - **ai_will_do**: скрипт, строки 144–150
 - **ai_construction_targets**: скрипт, строки 151–158

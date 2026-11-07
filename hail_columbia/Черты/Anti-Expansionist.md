@@ -20,9 +20,9 @@ paths: [for addon/Hail Columbia/common/character_traits/usfp_character_traits.tx
 - **character_modifier**: пусто
 - **command_modifier**: пусто
 - **country_modifier**:
-  - `country_officers_pol_str_mult` = `-0.10`
-  - `country_influence_mult` = `0.10`
-  - `country_infamy_generation_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-officers-pol-str-mult|country_officers_pol_str_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `0.10`
 - **agitator_modifier**: пусто
 - **interest_group_modifier**: пусто
 - **possible**: скрипт, строки 61–63

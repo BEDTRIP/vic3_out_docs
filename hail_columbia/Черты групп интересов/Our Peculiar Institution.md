@@ -18,6 +18,6 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/peculiar_institution.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_cotton_plantation_throughput_add` = `0.10` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
-  - `building_group_bg_plantations_throughput_add` = `0.05`
-  - `state_slaves_mortality_mult` = `0.01`
+  - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.10` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-slaves-mortality-mult|state_slaves_mortality_mult]] = `0.01`

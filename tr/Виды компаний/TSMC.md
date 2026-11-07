@@ -27,9 +27,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **possible**: скрипт, строки 374–384
 - **prosperity_modifier**:
   - `building_electronics_industry_throughput_add` = `0.05` → [[tr/Здания/Electronic Components Industries|Electronic Components Industries]]
-  - `building_electrics_industry_throughput_add` = `0.1` → [[tr/Здания/Электрозаводы|Электрозаводы]]
-  - `country_prestige_mult` = `0.05`
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.1` → [[tr/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 391–397
 - **ai_construction_targets**: скрипт, строки 398–405
 - **ai_weight**: скрипт, строки 406–408

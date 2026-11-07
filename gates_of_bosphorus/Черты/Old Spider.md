@@ -19,16 +19,16 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_special_traits.t
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/special_character_el_excelentisimo.dds`
 - **value**: `1`
 - **character_modifier**:
-  - `character_popularity_add` = `50`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `50`
 - **country_modifier**:
-  - `country_authority_add` = `200`
-  - `country_improve_relations_speed_mult` = `0.25`
-  - `country_infamy_generation_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `200`
+  - [[vanilla/движок/Модификаторы C#^m-country-improve-relations-speed-mult|country_improve_relations_speed_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `-0.10`
 - **command_modifier**:
-  - `unit_morale_recovery_mult` = `0.25`
-  - `unit_supply_consumption_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-supply-consumption-mult|unit_supply_consumption_mult]] = `-0.10`
 - **interest_group_modifier**:
-  - `interest_group_pop_attraction_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pop-attraction-mult|interest_group_pop_attraction_mult]] = `0.10`
 - **possible**: скрипт, строки 22–24
 - **weight**:
   - `value` = `0`

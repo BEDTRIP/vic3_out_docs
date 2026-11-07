@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 659–665
 - **possible**: скрипт, строки 667–678
 - **prosperity_modifier**:
-  - `building_iron_mine_throughput_add` = `0.2` → [[vanilla/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.2` → [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **ai_will_do**: скрипт, строки 684–690
 - **ai_construction_targets**: скрипт, строки 692–705
 - **ai_weight**: скрипт, строки 707–709

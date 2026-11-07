@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 701–707
 - **possible**: скрипт, строки 708–718
 - **prosperity_modifier**:
-  - `state_infrastructure_from_automobiles_consumption_add` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.1`
   - `building_mendelejew_hydrogenation_plants_throughput_add` = `0.05` → [[tr/Здания/Oil Refineries|Oil Refineries]]
 - **ai_will_do**: скрипт, строки 723–729
 - **ai_construction_targets**: скрипт, строки 730–737

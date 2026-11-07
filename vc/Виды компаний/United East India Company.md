@@ -25,9 +25,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **potential**: скрипт, строки 6989–6994
 - **possible**: скрипт, строки 6996–7013
 - **prosperity_modifier**:
-  - `ship_supply_capacity_mult` = `0.1`
-  - `state_birth_rate_mult` = `0.1`
-  - `state_working_adult_ratio_add` = `0.025`
+  - [[vanilla/движок/Модификаторы S#^m-ship-supply-capacity-mult|ship_supply_capacity_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.025`
 - **ai_will_do**: скрипт, строки 7021–7030
 - **ai_construction_targets**: скрипт, строки 7032–7045
 - **ai_weight**: скрипт, строки 7047–7049

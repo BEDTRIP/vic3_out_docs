@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/veteran_consultation.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_military_tech_research_speed_mult` = `0.1`
-  - `unit_morale_recovery_mult` = `0.1`
-  - `unit_provinces_lost_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-tech-research-speed-mult|country_military_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-provinces-lost-mult|unit_provinces_lost_mult]] = `-0.25`

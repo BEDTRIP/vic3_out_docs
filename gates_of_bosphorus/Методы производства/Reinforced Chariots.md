@@ -18,13 +18,13 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_reinforced_chariots.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_radicals_from_political_movements_mult` = `-0.01`
+    - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.01`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_iron_add` = `20` → [[vanilla/Товары/Железо|Железо]]
-    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-iron-add|goods_input_iron_add]] = `20` → [[vanilla/Товары/Железо|Железо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

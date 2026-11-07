@@ -19,13 +19,13 @@ paths: [.vanillaVIC3/common/production_methods/02_agro.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Интенсивное сельское хозяйство|Интенсивное сельское хозяйство]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fertilizer_add` = `10` → [[vanilla/Товары/Удобрение|Удобрение]]
-    - `goods_output_grain_add` = `50` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `10` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `50` → [[vanilla/Товары/Зерно|Зерно]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `7000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `3000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `7000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `3000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
   - **unscaled**:
-    - `building_slaves_mortality_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-slaves-mortality-mult|building_slaves_mortality_mult]] = `0.1`
 
 ## Ссылаются
 

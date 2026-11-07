@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_produc
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Oil Distillation|Oil Distillation]]
 - **modifier**:
-  - `building_rubber_plantation_throughput_add` = `0.05` → [[tr/Здания/Каучуковые плантации|Каучуковые плантации]]
+  - [[vanilla/движок/Модификаторы B#^m-building-rubber-plantation-throughput-add|building_rubber_plantation_throughput_add]] = `0.05` → [[tr/Здания/Каучуковые плантации|Каучуковые плантации]]
 - **ai_weight**: скрипт, строки 137–148
 
 ## Ссылаются

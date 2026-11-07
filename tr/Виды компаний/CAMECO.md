@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **prosperity_modifier**:
   - `goods_input_good_uranium_mult` = `-0.05` → [[tr/Товары/Uranium|Uranium]]
   - `goods_output_good_uranium_mult` = `0.05` → [[tr/Товары/Uranium|Uranium]]
-  - `state_birth_rate_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 241–248
 - **ai_construction_targets**: скрипт, строки 249–268
 - **ai_weight**: скрипт, строки 269–271

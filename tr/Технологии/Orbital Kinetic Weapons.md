@@ -20,8 +20,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **category**: `military`
 - **unlocking_technologies**: [[tr/Технологии/Directed Energy Weapons|Directed Energy Weapons]]
 - **modifier**:
-  - `unit_devastation_mult` = `0.25`
-  - `unit_kill_rate_add` = `0.15`
-  - `country_prestige_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-devastation-mult|unit_devastation_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-kill-rate-add|unit_kill_rate_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
   - `increase_nuclear_strike_power_bool_tt` = `yes`
 - **ai_weight**: скрипт, строки 1252–1252

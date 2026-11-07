@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/divine_right.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_company_throughput_bonus_add` = `0.05`
-  - `country_company_construction_efficiency_bonus_add` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-throughput-bonus-add|country_company_throughput_bonus_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-construction-efficiency-bonus-add|country_company_construction_efficiency_bonus_add]] = `0.1`

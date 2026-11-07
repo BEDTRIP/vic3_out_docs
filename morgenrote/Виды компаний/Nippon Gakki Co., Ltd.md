@@ -25,7 +25,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **potential**: скрипт, строки 533–536
 - **possible**: скрипт, строки 538–547
 - **prosperity_modifier**:
-  - `state_education_access_wealth_add` = `0.005`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
   - `goods_output_elgar_instruments_mult` = `0.1` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
 - **ai_will_do**: скрипт, строки 554–559
 - **ai_construction_targets**: скрипт, строки 561–568

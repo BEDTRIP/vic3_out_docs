@@ -26,8 +26,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 1052–1058
 - **possible**: скрипт, строки 1060–1070
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.15`
-  - `state_loyalism_increases_full_acceptance_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalism-increases-full-acceptance-mult|state_loyalism_increases_full_acceptance_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 1077–1085
 - **ai_construction_targets**: скрипт, строки 1087–1094
 - **ai_weight**: скрипт, строки 1096–1098

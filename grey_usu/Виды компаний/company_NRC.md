@@ -26,8 +26,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 3151–3157
 - **possible**: скрипт, строки 3159–3168
 - **prosperity_modifier**:
-  - `state_migration_pull_mult` = `0.04`
-  - `state_construction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.04`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 3175–3180
 - **ai_construction_targets**: скрипт, строки 3182–3189
 - **ai_weight**: скрипт, строки 3190–3192

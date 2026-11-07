@@ -26,7 +26,7 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 555–563
 - **possible**: скрипт, строки 564–574
 - **prosperity_modifier**:
-  - `state_food_security_add` = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-food-security-add|state_food_security_add]] = `0.02`
 - **ai_weight**: скрипт, строки 578–580
 - **ai_construction_targets**: скрипт, строки 581–589
 - **ai_will_do**: скрипт, строки 590–596

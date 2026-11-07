@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Embedded Control Systems|Embedded Control Systems]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **unlocking_production_methods**: [[tr/Методы производства/Rubber Cabled Wire|Rubber Cabled Wire]], [[tr/Методы производства/PVC Cabled Wire|PVC Cabled Wire]], [[tr/Методы производства/Electronic Grade Wire|Electronic Grade Wire]], [[tr/Методы производства/Assembly Lines (pm_assembly_lines_building_electronics_plant)|Assembly Lines (pm_assembly_lines_building_electronics_plant)]], [[tr/Методы производства/Surface Mount Technology|Surface Mount Technology]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `30` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `30` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_advancedores_add` = `10` → [[tr/Товары/Advanced Ores|Advanced Ores]]
     - `goods_input_alloys_add` = `20` → [[tr/Товары/Alloys|Alloys]]
     - `goods_input_plastics_add` = `10` → [[tr/Товары/Пластмассы|Пластмассы]]
@@ -31,7 +31,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - `goods_output_copperwires_add` = `-65` → [[tr/Товары/Wires|Wires]]
     - `goods_output_electroniccomponents_add` = `120` → [[tr/Товары/Electronic Components|Electronic Components]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

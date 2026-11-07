@@ -19,14 +19,14 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **unlocking_technologies**: [[vanilla/Технологии/Железные дороги|Железные дороги]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_steel_add` = `5` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_output_transportation_add` = `10` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `5` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `10` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `150` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_laborers_add` = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `150` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `10`
 
 ## Ссылаются
 

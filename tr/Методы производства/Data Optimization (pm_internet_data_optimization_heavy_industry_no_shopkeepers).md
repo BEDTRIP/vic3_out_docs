@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
     - `goods_input_business_data_add` = `6` → [[tr/Товары/Business Data|Business Data]]
     - `goods_output_raw_data_add` = `16` → [[tr/Товары/Raw Data|Raw Data]]
   - **unscaled**:
-    - `building_throughput_add` = `1.8`
+    - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `1.8`
 
 ## Ссылаются
 

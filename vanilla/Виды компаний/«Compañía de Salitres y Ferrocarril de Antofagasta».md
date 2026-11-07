@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **attainable**: скрипт, строки 173–179
 - **possible**: скрипт, строки 181–191
 - **prosperity_modifier**:
-  - `state_infrastructure_mult` = `0.05`
-  - `interest_group_ig_industrialists_approval_add` = `3`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-approval-add|interest_group_ig_industrialists_approval_add]] = `3`
 - **ai_will_do**: скрипт, строки 198–204
 - **ai_construction_targets**: скрипт, строки 206–213
 - **ai_weight**: скрипт, строки 215–217

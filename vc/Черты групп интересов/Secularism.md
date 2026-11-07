@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/divine_right.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_education_access_add` = `0.1`
-  - `country_authority_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.15`

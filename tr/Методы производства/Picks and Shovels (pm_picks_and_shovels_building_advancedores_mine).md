@@ -19,13 +19,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Quartz Glass|Quartz Glass]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `15` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `15` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_output_advancedores_add` = `10` → [[tr/Товары/Advanced Ores|Advanced Ores]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `6500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `6500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

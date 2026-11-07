@@ -18,12 +18,12 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/hydroelectric_plant.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `50` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_output_electricity_add` = `400` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `50` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-add|goods_output_electricity_add]] = `400` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `600` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `200` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `600` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `200` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

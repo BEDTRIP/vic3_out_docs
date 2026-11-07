@@ -18,7 +18,7 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/engines_of_progress.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `goods_output_small_arms_mult` = `0.15` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
-  - `goods_output_artillery_mult` = `0.15` → [[vanilla/Товары/Артиллерия|Артиллерия]]
-  - `goods_output_engines_mult` = `0.15` → [[vanilla/Товары/Двигатели|Двигатели]]
-  - `building_construction_sector_throughput_add` = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-small-arms-mult|goods_output_small_arms_mult]] = `0.15` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-artillery-mult|goods_output_artillery_mult]] = `0.15` → [[vanilla/Товары/Артиллерия|Артиллерия]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-engines-mult|goods_output_engines_mult]] = `0.15` → [[vanilla/Товары/Двигатели|Двигатели]]
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]

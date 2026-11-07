@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/american_exceptionalism.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_influence_mult` = `0.10`
-  - `country_prestige_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.10`

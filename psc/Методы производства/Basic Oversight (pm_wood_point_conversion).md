@@ -20,12 +20,12 @@ paths: [PSC/common/production_methods/zz_PSC_construction.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_construction_add` = `1`
+    - [[vanilla/движок/Модификаторы C#^m-country-construction-add|country_construction_add]] = `1`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_wood_construction_add` = `10` → [[psc/Товары/Wood Construction|Wood Construction]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-construction-add|goods_input_wood_construction_add]] = `10` → [[psc/Товары/Wood Construction|Wood Construction]]
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `20` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `20` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
 - **unlocking_production_methods**: `pm_wood_point_conversion`
 
 ## Ссылаются

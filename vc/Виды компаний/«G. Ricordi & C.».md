@@ -37,9 +37,9 @@ replaces: "[[vanilla/Виды компаний/«G. Ricordi & C.»]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 7177–7188
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.15`
-  - `building_group_bg_arts_employee_mult` = `-0.1`
-  - `goods_output_fine_art_mult` = `0.1` → [[vanilla/Товары/Картины|Картины]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-arts-employee-mult|building_group_bg_arts_employee_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-mult|goods_output_fine_art_mult]] = `0.1` → [[vanilla/Товары/Картины|Картины]]
 - **ai_will_do**: скрипт, строки 7196–7201
 - **ai_construction_targets**: скрипт, строки 7203–7210
 - **ai_weight**: скрипт, строки 7212–7214

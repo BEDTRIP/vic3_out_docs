@@ -19,20 +19,20 @@ paths: [llwa/common/production_methods/LLWA_roads.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Двигатель внутреннего сгорания|Двигатель внутреннего сгорания]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_automobiles_add` = `4` → [[vanilla/Товары/Автомобили|Автомобили]]
-    - `goods_input_oil_add` = `2` → [[vanilla/Товары/ГСМ|ГСМ]]
-    - `goods_output_transportation_add` = `30` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-automobiles-add|goods_input_automobiles_add]] = `4` → [[vanilla/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `2` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `30` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `300` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `400` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `100` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
-    - `building_employment_clerks_add` = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `300` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `400` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `100` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_infrastructure_add` = `25`
-    - `state_pollution_generation_add` = `7`
-    - `state_infrastructure_from_population_max_add` = `2`
-    - `state_infrastructure_from_automobiles_consumption_add` = `0.20`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `25`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `7`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `2`
+    - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.20`
 
 ## Ссылаются
 

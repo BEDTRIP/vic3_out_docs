@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[vanilla/Технологии/Качалки|Качалки]]
 - **modifier**:
-  - `building_group_bg_oil_extraction_throughput_add` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.15`
 - **ai_weight**: скрипт, строки 68–78
 
 ## Ссылаются

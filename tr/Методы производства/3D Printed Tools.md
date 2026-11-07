@@ -20,17 +20,17 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_plastics_add` = `10` → [[tr/Товары/Пластмассы|Пластмассы]]
-    - `goods_input_rubber_add` = `10` → [[vanilla/Товары/Каучук|Каучук]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-rubber-add|goods_input_rubber_add]] = `10` → [[vanilla/Товары/Каучук|Каучук]]
     - `goods_input_copperwires_add` = `5` → [[tr/Товары/Wires|Wires]]
     - `goods_input_alloys_add` = `5` → [[tr/Товары/Alloys|Alloys]]
-    - `goods_input_steel_add` = `15` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `15` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_robotics_add` = `5` → [[tr/Товары/Robotics|Robotics]]
-    - `goods_output_tools_add` = `145` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-tools-add|goods_output_tools_add]] = `145` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_laborers_add` = `3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `500` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

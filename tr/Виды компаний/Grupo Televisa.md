@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **possible**: скрипт, строки 515–525
 - **prosperity_modifier**:
   - `building_telecommunications_industry_throughput_add` = `0.05` → [[tr/Здания/Telecommunications Plants|Telecommunications Plants]]
-  - `country_prestige_add` = `0.05`
-  - `state_decree_cost_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 531–537
 - **ai_construction_targets**: скрипт, строки 538–545
 - **ai_weight**: скрипт, строки 546–548

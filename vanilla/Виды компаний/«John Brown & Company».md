@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **attainable**: скрипт, строки 180–186
 - **possible**: скрипт, строки 188–199
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.1`
 - **ai_will_do**: скрипт, строки 206–213
 - **ai_construction_targets**: скрипт, строки 215–222
 - **ai_weight**: скрипт, строки 224–226

@@ -19,7 +19,7 @@ paths: [E&F/common/production_methods/00_ef_market_liquidity.txt]
 - **disallowing_laws**: [[ef/Законы/No Market Liquidity|No Market Liquidity]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_liquidity_currency_add` = `98` → [[ef/Товары/Base Money|Base Money]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-liquidity-currency-add|goods_input_liquidity_currency_add]] = `98` → [[ef/Товары/Base Money|Base Money]]
 
 ## Ссылаются
 

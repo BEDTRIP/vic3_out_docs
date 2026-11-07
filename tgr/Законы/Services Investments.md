@@ -21,13 +21,13 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_economic_incentives_public.txt
 - **unlocking_laws**: пусто
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `state_incorporation_speed_mult` = `0.10`
-  - `country_bureaucracy_investment_cost_factor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-incorporation-speed-mult|state_incorporation_speed_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `0.05`
 - **institution**: `institution_incentive_public`
 - **institution_modifier**:
-  - `building_group_bg_bureaucracy_tax_mult` = `-0.05`
-  - `building_group_bg_bureaucracy_throughput_add` = `0.05`
-  - `country_bureaucrats_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-bureaucracy-tax-mult|building_group_bg_bureaucracy_tax_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-bureaucracy-throughput-add|building_group_bg_bureaucracy_throughput_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-pol-str-mult|country_bureaucrats_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 58–65
 
 ## Ссылаются

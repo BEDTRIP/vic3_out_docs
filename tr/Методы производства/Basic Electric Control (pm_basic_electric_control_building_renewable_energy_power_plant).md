@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
   - **workforce_scaled**:
     - `goods_input_electroniccomponents_add` = `2` → [[tr/Товары/Electronic Components|Electronic Components]]
     - `goods_input_copperwires_add` = `1` → [[tr/Товары/Wires|Wires]]
-    - `goods_input_tools_add` = `2` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `2` → [[vanilla/Товары/Инструменты|Инструменты]]
 
 ## Ссылаются
 

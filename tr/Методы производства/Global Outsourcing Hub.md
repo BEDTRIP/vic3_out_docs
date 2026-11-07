@@ -22,12 +22,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
   - **workforce_scaled**:
     - `goods_input_organized_data_add` = `70` → [[tr/Товары/Organized Data|Organized Data]]
     - `goods_input_computer_add` = `1` → [[tr/Товары/Computers|Computers]]
-    - `goods_input_telephones_add` = `8` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `8` → [[vanilla/Товары/Телефоны|Телефоны]]
     - `goods_input_softwares_add` = `2` → [[tr/Товары/Software|Software]]
     - `goods_output_business_data_add` = `95` → [[tr/Товары/Business Data|Business Data]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `750` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_academics_add` = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `750` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
 
 ## Ссылаются
 

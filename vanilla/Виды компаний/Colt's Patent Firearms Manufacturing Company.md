@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 653–661
 - **possible**: скрипт, строки 663–672
 - **prosperity_modifier**:
-  - `building_arms_industry_throughput_add` = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
-  - `unit_army_offense_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 679–684
 - **ai_construction_targets**: скрипт, строки 686–693
 - **ai_weight**: скрипт, строки 695–697

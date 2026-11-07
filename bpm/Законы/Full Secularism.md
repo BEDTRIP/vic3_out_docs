@@ -25,18 +25,18 @@ paths: [BPM/common/laws/BPM_church_and_state.txt]
 - **is_visible**: скрипт, строки 76–78
 - **on_activate**: скрипт, строки 80–94
 - **modifier**:
-  - `state_pop_support_movement_religious_majority_mult` = `-0.5`
-  - `state_pop_support_movement_religious_minority_mult` = `-0.25`
-  - `state_conversion_mult` = `0.25`
-  - `country_acceptance_state_religion_add` = `15`
-  - `country_acceptance_shared_religious_trait_add` = `15`
-  - `country_acceptance_shared_religious_trait_group_add` = `15`
-  - `country_acceptance_no_shared_religious_trait_add` = `15`
-  - `country_allow_conversion_violent_hostility_bool` = `yes`
-  - `country_allow_conversion_cultural_erasure_bool` = `yes`
-  - `country_allow_conversion_open_prejudice_bool` = `yes`
-  - `country_allow_conversion_second_rate_citizen_bool` = `yes`
-  - `country_allow_conversion_full_acceptance_bool` = `yes`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-religious-majority-mult|state_pop_support_movement_religious_majority_mult]] = `-0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-support-movement-religious-minority-mult|state_pop_support_movement_religious_minority_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-conversion-mult|state_conversion_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-state-religion-add|country_acceptance_state_religion_add]] = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-shared-religious-trait-add|country_acceptance_shared_religious_trait_add]] = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-shared-religious-trait-group-add|country_acceptance_shared_religious_trait_group_add]] = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-acceptance-no-shared-religious-trait-add|country_acceptance_no_shared_religious_trait_add]] = `15`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-violent-hostility-bool|country_allow_conversion_violent_hostility_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-cultural-erasure-bool|country_allow_conversion_cultural_erasure_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-open-prejudice-bool|country_allow_conversion_open_prejudice_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-second-rate-citizen-bool|country_allow_conversion_second_rate_citizen_bool]] = `yes`
+  - [[vanilla/движок/Модификаторы C#^m-country-allow-conversion-full-acceptance-bool|country_allow_conversion_full_acceptance_bool]] = `yes`
 - **can_impose**: скрипт, строки 113–124
 - **ai_enact_weight_modifier**: скрипт, строки 126–133
 

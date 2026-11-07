@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/dubois_nature_protection.dds`
 - **category**: `society`
 - **modifier**:
-  - `goods_output_wood_mult` = `0.1` → [[vanilla/Товары/Древесина|Древесина]]
-  - `goods_output_hardwood_mult` = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-wood-mult|goods_output_wood_mult]] = `0.1` → [[vanilla/Товары/Древесина|Древесина]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-hardwood-mult|goods_output_hardwood_mult]] = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
   - `country_institution_environmental_policy_max_investment_add` = `1`
 - **unlocking_technologies**: [[tr/Технологии/Theory of Evolution|Theory of Evolution]]
 - **ai_weight**: скрипт, строки 149–151

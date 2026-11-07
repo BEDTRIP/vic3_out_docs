@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/lost_cause.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_radicals_from_legitimacy_mult` = `0.10`
-  - `state_loyalism_increases_full_acceptance_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicals-from-legitimacy-mult|country_radicals_from_legitimacy_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalism-increases-full-acceptance-mult|state_loyalism_increases_full_acceptance_mult]] = `-0.10`

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/patriotic_fervor.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_war_exhaustion_casualties_mult` = `-0.25`
-  - `unit_offense_mult` = `0.1`
-  - `unit_defense_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-war-exhaustion-casualties-mult|country_war_exhaustion_casualties_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.1`

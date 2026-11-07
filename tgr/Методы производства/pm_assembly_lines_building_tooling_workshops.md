@@ -18,13 +18,13 @@ paths: [TheGreatRevision/common/production_methods/TGR_TRADE_automation.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/assembly_lines.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **unlocking_technologies**: [[vanilla/Технологии/Конвейеры|Конвейеры]]
 - **disallowing_laws**: [[tgr/Законы/Запрет промышленности|Запрет промышленности]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_oil_add` = `4` → [[tgr/Товары/ГСМ|ГСМ]]
-    - `goods_input_electricity_add` = `1` → [[tgr/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `4` → [[tgr/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `1` → [[tgr/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[tgr/Товары/Электричество|Электричество]]

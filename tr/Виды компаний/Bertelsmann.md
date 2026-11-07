@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **attainable**: скрипт, строки 329–335
 - **possible**: скрипт, строки 336–346
 - **prosperity_modifier**:
-  - `country_society_tech_spread_mult` = `0.05`
-  - `country_influence_mult` = `0.1`
-  - `building_paper_mill_throughput_add` = `0.05` → [[tr/Здания/Бумажные фабрики|Бумажные фабрики]]
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-spread-mult|country_society_tech_spread_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-paper-mill-throughput-add|building_paper_mill_throughput_add]] = `0.05` → [[tr/Здания/Бумажные фабрики|Бумажные фабрики]]
 - **ai_will_do**: скрипт, строки 352–358
 - **ai_construction_targets**: скрипт, строки 359–366
 - **ai_weight**: скрипт, строки 367–369

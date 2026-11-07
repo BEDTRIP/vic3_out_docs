@@ -21,11 +21,11 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_advanced_education.txt]
 - **disallowing_laws**: [[tr/Законы/Детский труд разрешён|Детский труд разрешён]], [[tr/Законы/Ограниченный детский труд|Ограниченный детский труд]]
 - **unlocking_technologies**: [[tr/Технологии/Social Democracy|Social Democracy]]
 - **modifier**:
-  - `country_tech_research_speed_mult` = `-0.02`
-  - `state_pop_qualifications_mult` = `0.05`
-  - `country_tech_spread_mult` = `0.15`
-  - `state_standard_of_living_add` = `0.25`
-  - `state_turmoil_effects_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `-0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 40–55
 
 ## Ссылаются

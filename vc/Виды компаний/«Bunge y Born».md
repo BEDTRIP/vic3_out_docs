@@ -31,9 +31,9 @@ replaces: "[[vanilla/Виды компаний/«Bunge y Born»]]"
 - **attainable**: скрипт, строки 3147–3153
 - **possible**: скрипт, строки 3155–3168
 - **prosperity_modifier**:
-  - `interest_group_ig_rural_folk_pop_attraction_mult` = `0.25`
-  - `building_tooling_workshop_throughput_add` = `0.1` → [[vc/Здания/Производства инструментов|Производства инструментов]]
-  - `state_birth_rate_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pop-attraction-mult|interest_group_ig_rural_folk_pop_attraction_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.1` → [[vc/Здания/Производства инструментов|Производства инструментов]]
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 3176–3181
 - **ai_construction_targets**: скрипт, строки 3183–3198
 - **ai_weight**: скрипт, строки 3200–3202

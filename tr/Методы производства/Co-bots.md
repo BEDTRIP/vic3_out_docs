@@ -19,19 +19,19 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Co-bots|Co-bots]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `55` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `55` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_input_processors_add` = `10` → [[tr/Товары/Processors|Processors]]
-    - `goods_input_engines_add` = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_rubber_add` = `10` → [[vanilla/Товары/Каучук|Каучук]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-rubber-add|goods_input_rubber_add]] = `10` → [[vanilla/Товары/Каучук|Каучук]]
     - `goods_input_computer_add` = `10` → [[tr/Товары/Computers|Computers]]
     - `goods_input_softwares_add` = `10` → [[tr/Товары/Software|Software]]
     - `goods_input_ai_systems_add` = `10` → [[tr/Товары/AI Systems|AI Systems]]
     - `goods_output_robotics_add` = `120` → [[tr/Товары/Robotics|Robotics]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `750` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_machinists_add` = `1750` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `750` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1750` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

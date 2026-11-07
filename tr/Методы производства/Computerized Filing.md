@@ -19,20 +19,20 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Networking Protocols|Networking Protocols]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_bureaucracy_add` = `120`
+    - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-add|country_bureaucracy_add]] = `120`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_tax_capacity_add` = `35`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `35`
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_telecommunications_add` = `4` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_computer_add` = `2` → [[tr/Товары/Computers|Computers]]
-    - `goods_input_paper_add` = `8` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_input_telephones_add` = `4` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `8` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `4` → [[vanilla/Товары/Телефоны|Телефоны]]
     - `goods_input_softwares_add` = `2` → [[tr/Товары/Software|Software]]
     - `goods_output_organized_data_add` = `5` → [[tr/Товары/Organized Data|Organized Data]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `450` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `450` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

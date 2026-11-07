@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
     - `goods_input_pharmaceuticals_add` = `2` → [[tr/Товары/Фармацевтика|Фармацевтика]]
     - `goods_input_electroniccomponents_add` = `1` → [[tr/Товары/Electronic Components|Electronic Components]]
   - **unscaled**:
-    - `building_throughput_add` = `0.15`
+    - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.15`
 
 ## Ссылаются
 

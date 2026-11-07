@@ -18,4 +18,4 @@ paths: [.vanillaVIC3/common/interest_group_traits/00_petty_bourgeoisie_traits.tx
 - **icon**: `gfx/interface/icons/ig_trait_icons/middle_managers.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `building_group_bg_mining_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.1`

@@ -22,15 +22,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **disallowing_laws**: [[tgr/Законы/Монархия|Монархия]], [[tgr/Законы/Вождество|Вождество]]
 - **unlocking_technologies**: [[vanilla/Технологии/Социализм|Социализм]]
 - **modifier**:
-  - `country_legitimacy_ideological_incoherence_mult` = `0.25`
-  - `country_society_tech_research_speed_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `country_leverage_generation_mult` = `0.05`
-  - `interest_group_ig_trade_unions_pol_str_mult` = `0.05`
-  - `interest_group_ig_trade_unions_pop_attraction_mult` = `0.10`
-  - `country_laborers_pol_str_mult` = `0.20`
-  - `country_machinists_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pol-str-mult|interest_group_ig_trade_unions_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pop-attraction-mult|interest_group_ig_trade_unions_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-laborers-pol-str-mult|country_laborers_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-machinists-pol-str-mult|country_machinists_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 361–368
 
 ## Ссылаются

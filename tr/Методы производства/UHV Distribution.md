@@ -21,11 +21,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
   - **workforce_scaled**:
     - `goods_input_global_electricity_add` = `425` → [[tr/Товары/National Electricity|National Electricity]]
     - `goods_input_copperwires_add` = `20` → [[tr/Товары/Wires|Wires]]
-    - `goods_input_steel_add` = `10` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `10` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_electroniccomponents_add` = `5` → [[tr/Товары/Electronic Components|Electronic Components]]
-    - `goods_output_electricity_add` = `500` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-add|goods_output_electricity_add]] = `500` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **disallowing_laws**: [[tr/Законы/Local Electricity Systems|Local Electricity Systems]], [[tr/Законы/National Electricity System|National Electricity System]]
 
 ## Ссылаются

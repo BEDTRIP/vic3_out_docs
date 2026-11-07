@@ -32,9 +32,9 @@ replaces: "[[vanilla/Виды компаний/Sumitomo]]"
 - **attainable**: скрипт, строки 7626–7634
 - **possible**: скрипт, строки 7636–7651
 - **prosperity_modifier**:
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.25`
-  - `building_construction_sector_throughput_add` = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
-  - `goods_output_steel_mult` = `0.1` → [[vanilla/Товары/Сталь|Сталь]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-steel-mult|goods_output_steel_mult]] = `0.1` → [[vanilla/Товары/Сталь|Сталь]]
 - **ai_will_do**: скрипт, строки 7659–7664
 - **ai_construction_targets**: скрипт, строки 7666–7685
 - **ai_weight**: скрипт, строки 7687–7689

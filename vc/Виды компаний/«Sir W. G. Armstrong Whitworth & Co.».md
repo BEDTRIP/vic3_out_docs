@@ -35,9 +35,9 @@ replaces: "[[vanilla/Виды компаний/«Sir W. G. Armstrong Whitworth &
 - **attainable**: скрипт, строки 26–32
 - **possible**: скрипт, строки 34–48
 - **prosperity_modifier**:
-  - `ship_hull_damage_mult` = `0.05`
-  - `ship_armor_mult` = `0.1`
-  - `ship_crew_damage_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-crew-damage-mult|ship_crew_damage_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 56–63
 - **ai_construction_targets**: скрипт, строки 65–72
 - **ai_weight**: скрипт, строки 74–76

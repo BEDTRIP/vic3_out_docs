@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **attainable**: скрипт, строки 92–99
 - **possible**: скрипт, строки 100–110
 - **prosperity_modifier**:
-  - `building_fishing_wharf_throughput_add` = `0.1` → [[tr/Здания/Рыболовные верфи|Рыболовные верфи]]
-  - `building_whaling_station_throughput_add` = `0.1` → [[tr/Здания/Китобойные станции|Китобойные станции]]
-  - `building_livestock_ranch_throughput_add` = `0.1` → [[tr/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-fishing-wharf-throughput-add|building_fishing_wharf_throughput_add]] = `0.1` → [[tr/Здания/Рыболовные верфи|Рыболовные верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-whaling-station-throughput-add|building_whaling_station_throughput_add]] = `0.1` → [[tr/Здания/Китобойные станции|Китобойные станции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[tr/Здания/Животноводческие фермы|Животноводческие фермы]]
   - `goods_output_homeappliances_mult` = `0.05` → [[tr/Товары/Home Appliances|Home Appliances]]
 - **ai_will_do**: скрипт, строки 117–123
 - **ai_construction_targets**: скрипт, строки 124–131

@@ -24,8 +24,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 262–268
 - **possible**: скрипт, строки 270–279
 - **prosperity_modifier**:
-  - `building_sugar_plantation_throughput_add` = `0.15` → [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-sugar-plantation-throughput-add|building_sugar_plantation_throughput_add]] = `0.15` → [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 286–293
 - **ai_construction_targets**: скрипт, строки 295–302
 - **ai_weight**: скрипт, строки 304–306

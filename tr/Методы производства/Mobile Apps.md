@@ -20,12 +20,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **unlocking_production_methods**: [[tr/Методы производства/Internet (pm_internet_building_office)|Internet (pm_internet_building_office)]], [[tr/Методы производства/Smartworking|Smartworking]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_telephones_add` = `10` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `10` → [[vanilla/Товары/Телефоны|Телефоны]]
     - `goods_input_computer_add` = `-5` → [[tr/Товары/Computers|Computers]]
     - `goods_output_softwares_add` = `-15` → [[tr/Товары/Software|Software]]
     - `goods_output_interactive_entertainment_add` = `15` → [[tr/Товары/Interactive Entertainment|Interactive Entertainment]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `50` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `50` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/pious_fiction.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_legitimacy_headofstate_add` = `-10`
-  - `country_legitimacy_govt_total_clout_add` = `-10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `-10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `-10`

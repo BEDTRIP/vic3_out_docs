@@ -18,9 +18,9 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_legitimacy_headofstate_add` = `5`
-    - `country_authority_mult` = `0.10`
-    - `country_prestige_add` = `50`
+    - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `5`
+    - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.10`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `50`
 
 ## Ссылаются
 

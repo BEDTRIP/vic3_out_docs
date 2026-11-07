@@ -18,7 +18,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/iron.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_iron_add` = `8` → [[vanilla/Товары/Железо|Железо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-iron-add|goods_output_iron_add]] = `8` → [[vanilla/Товары/Железо|Железо]]
     - `goods_output_commonores_add` = `-15` → [[tr/Товары/Common Ores|Common Ores]]
 - **unlocking_technologies**: [[tr/Технологии/Modern Purification|Modern Purification]]
 

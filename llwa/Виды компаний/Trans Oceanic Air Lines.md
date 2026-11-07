@@ -30,7 +30,7 @@ paths: [llwa/common/company_types/LLWA_companies.txt]
   - `always` = `yes`
 - **possible**: скрипт, строки 317–324
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.25`
 - **ai_will_do**: скрипт, строки 330–341
 - **ai_construction_targets**: скрипт, строки 343–351
 - **ai_weight**: скрипт, строки 353–355

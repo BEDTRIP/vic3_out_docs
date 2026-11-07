@@ -34,10 +34,10 @@ replaces: "[[vanilla/Законы/Президентская республик�
 - **is_visible**: скрипт, строки 165–169
 - **on_activate**: скрипт, строки 171–189
 - **modifier**:
-  - `country_bureaucrats_voting_power_add` = `5`
-  - `country_authority_add` = `100`
-  - `country_legitimacy_ideological_incoherence_mult` = `0.25`
-  - `state_pop_pol_str_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucrats-voting-power-add|country_bureaucrats_voting_power_add]] = `5`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `100`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-pol-str-add|state_pop_pol_str_add]] = `1`
   - `country_liberal_consciousness_change_add` = `0.05`
   - `country_bpm_labor_consciousness_target_mult` = `-0.35`
 - **ai_will_do**: скрипт, строки 220–228

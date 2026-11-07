@@ -21,10 +21,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_election_system.txt]
 - **disallowing_laws**: [[tgr/Законы/Автократия|Автократия]], [[tgr/Законы/Технократия|Технократия]], [[tgr/Законы/Олигархия|Олигархия]], [[tgr/Законы/Анархия|Анархия]]
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_legitimacy_govt_total_votes_add` = `75`
-  - `country_legitimacy_headofstate_add` = `25`
-  - `country_electoral_confidence_impact_mult` = `-0.15`
-  - `country_legitimacy_ideological_incoherence_mult` = `2.0`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `75`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `25`
+  - [[vanilla/движок/Модификаторы C#^m-country-electoral-confidence-impact-mult|country_electoral_confidence_impact_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `2.0`
 - **on_enact**: пусто
 - **ai_enact_weight_modifier**: скрипт, строки 71–79
 

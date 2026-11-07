@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_cosmetics_companies.txt]
 - **attainable**: скрипт, строки 320–327
 - **possible**: скрипт, строки 328–338
 - **prosperity_modifier**:
-  - `building_chemical_plant_throughput_add` = `0.1` → [[tr/Здания/Заводы удобрений|Заводы удобрений]]
-  - `country_institution_cost_institution_health_system_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-chemical-plant-throughput-add|building_chemical_plant_throughput_add]] = `0.1` → [[tr/Здания/Заводы удобрений|Заводы удобрений]]
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 343–349
 - **ai_construction_targets**: скрипт, строки 350–357
 - **ai_weight**: скрипт, строки 358–360

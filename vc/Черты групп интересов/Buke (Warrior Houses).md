@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/patriotic_fervor.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `battle_offense_owned_province_mult` = `0.15`
-  - `battle_defense_owned_province_mult` = `0.15`
-  - `unit_morale_loss_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-battle-offense-owned-province-mult|battle_offense_owned_province_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-battle-defense-owned-province-mult|battle_defense_owned_province_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.1`

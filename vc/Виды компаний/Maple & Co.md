@@ -35,9 +35,9 @@ replaces: "[[vanilla/Виды компаний/Maple & Co]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 1701–1710
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `building_group_bg_government_throughput_add` = `0.1`
-  - `goods_output_luxury_furniture_mult` = `0.1` → [[vanilla/Товары/Роскошная мебель|Роскошная мебель]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-government-throughput-add|building_group_bg_government_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-luxury-furniture-mult|goods_output_luxury_furniture_mult]] = `0.1` → [[vanilla/Товары/Роскошная мебель|Роскошная мебель]]
 - **ai_will_do**: скрипт, строки 1718–1723
 - **ai_construction_targets**: скрипт, строки 1725–1732
 - **ai_weight**: скрипт, строки 1734–1736

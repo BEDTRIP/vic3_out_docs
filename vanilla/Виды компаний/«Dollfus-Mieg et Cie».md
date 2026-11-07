@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **attainable**: скрипт, строки 177–183
 - **possible**: скрипт, строки 185–195
 - **prosperity_modifier**:
-  - `state_assimilation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 201–206
 - **ai_construction_targets**: скрипт, строки 208–215
 - **ai_weight**: скрипт, строки 217–219

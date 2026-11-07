@@ -18,7 +18,7 @@ paths: [E&F/common/production_methods/01_ef_industry.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/manufacture_stock_exchange_b.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_manufacture_stock_add` = `12.5` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-manufacture-stock-add|goods_output_manufacture_stock_add]] = `12.5` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
 
 ## Ссылаются
 

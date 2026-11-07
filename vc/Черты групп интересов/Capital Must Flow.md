@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/engines_of_progress.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_capitalists_investment_pool_contribution_add` = `0.1`
-  - `state_aristocrats_investment_pool_contribution_add` = `0.1`
-  - `country_company_construction_efficiency_bonus_add` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-contribution-add|state_capitalists_investment_pool_contribution_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-aristocrats-investment-pool-contribution-add|state_aristocrats_investment_pool_contribution_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-construction-efficiency-bonus-add|country_company_construction_efficiency_bonus_add]] = `0.15`

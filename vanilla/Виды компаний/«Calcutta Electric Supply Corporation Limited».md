@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **attainable**: скрипт, строки 813–819
 - **possible**: скрипт, строки 821–831
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `6`
-  - `state_infrastructure_from_population_max_add` = `12`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `6`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `12`
 - **ai_will_do**: скрипт, строки 838–844
 - **ai_construction_targets**: скрипт, строки 846–853
 - **ai_weight**: скрипт, строки 855–857

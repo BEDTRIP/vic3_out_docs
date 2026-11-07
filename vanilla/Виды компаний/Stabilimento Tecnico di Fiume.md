@@ -24,7 +24,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 171–179
 - **possible**: скрипт, строки 181–194
 - **prosperity_modifier**:
-  - `ship_hull_damage_mult` = `0.075`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.075`
 - **ai_will_do**: скрипт, строки 200–206
 - **ai_construction_targets**: скрипт, строки 208–215
 - **ai_weight**: скрипт, строки 217–219

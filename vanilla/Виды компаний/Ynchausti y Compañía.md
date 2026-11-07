@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **attainable**: скрипт, строки 378–387
 - **possible**: скрипт, строки 389–405
 - **prosperity_modifier**:
-  - `state_construction_mult` = `0.05`
-  - `state_migration_pull_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 412–420
 - **ai_construction_targets**: скрипт, строки 422–451
 - **ai_weight**: скрипт, строки 453–455

@@ -19,7 +19,7 @@ paths: [E&F/common/production_methods/16_ef_financial_centre.txt]
 - **unlocking_technologies**: [[ef/Технологии/Financial Center|Financial Center]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_manufacture_stock_add` = `1` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-manufacture-stock-add|goods_input_manufacture_stock_add]] = `1` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
 
 ## Ссылаются
 

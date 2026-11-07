@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Paper Recycling|Paper Recycling]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `1` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_paper_add` = `4` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `1` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-paper-add|goods_output_paper_add]] = `4` → [[vanilla/Товары/Бумага|Бумага]]
 - **disallowing_laws**: [[tr/Законы/No Enviroment Protection|No Enviroment Protection]]
 
 ## Ссылаются

@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_digital_media_industry.txt]
 - **possible**: скрипт, строки 485–495
 - **prosperity_modifier**:
   - `building_computer_assembly_plant_throughput_add` = `0.05` → [[tr/Здания/Computer Assembly Plants|Computer Assembly Plants]]
-  - `state_market_access_price_impact` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-market-access-price-impact|state_market_access_price_impact]] = `0.05`
 - **ai_will_do**: скрипт, строки 500–506
 - **ai_construction_targets**: скрипт, строки 507–514
 - **ai_weight**: скрипт, строки 515–517

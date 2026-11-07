@@ -18,13 +18,13 @@ paths: [Morgenrote/common/character_traits/mr_science_dubois_traits.txt]
 - **type**: `skill`
 - **texture**: `gfx/interface/icons/character_trait_icons/dubois_paleontologist_famous.dds`
 - **character_modifier**:
-  - `character_popularity_add` = `15`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `15`
 - **agitator_modifier**: пусто
 - **country_modifier**:
-  - `country_prestige_add` = `50`
-  - `country_society_tech_research_speed_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `50`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.15`
 - **interest_group_modifier**:
-  - `interest_group_pop_attraction_mult` = `0.06`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pop-attraction-mult|interest_group_pop_attraction_mult]] = `0.06`
 - **possible**: скрипт, строки 121–123
 - **replace**: пусто
 - **value**: `2`

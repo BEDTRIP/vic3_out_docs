@@ -25,6 +25,6 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_99_basic_companies.txt]
 - **prestige_goods_trigger**: скрипт, строки 525–530
 - **possible**: скрипт, строки 531–540
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `state_loyalists_from_political_movements_mult` = `0.025`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalists-from-political-movements-mult|state_loyalists_from_political_movements_mult]] = `0.025`
 - **ai_will_do**: скрипт, строки 545–553

@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_textile_companies.txt]
 - **possible**: скрипт, строки 523–533
 - **prosperity_modifier**:
   - `building_elgar_opera_throughput_add` = `0.05` → [[tr/Здания/Entertainment Areas|Entertainment Areas]]
-  - `state_migration_pull_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 538–544
 - **ai_construction_targets**: скрипт, строки 545–552
 - **ai_weight**: скрипт, строки 553–555

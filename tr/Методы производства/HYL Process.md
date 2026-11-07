@@ -18,14 +18,14 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/pm_direct_reduced_iron_hyl_process.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `-10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `-10`
 - **unlocking_technologies**: [[tr/Технологии/Sponge Iron|Sponge Iron]]
 - **unlocking_production_methods**: [[tr/Методы производства/Дуговая сталеплавильная печь|Дуговая сталеплавильная печь]], [[tr/Методы производства/Oxygen Steelmaking Furnace|Oxygen Steelmaking Furnace]]
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_gas_add` = `10` → [[tr/Товары/Natural Gas|Natural Gas]]
-    - `goods_input_coal_add` = `-5` → [[vanilla/Товары/Уголь|Уголь]]
-    - `goods_input_electricity_add` = `-10` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `-5` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `-10` → [[vanilla/Товары/Электричество|Электричество]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
 - **unlocking_technologies**: [[tr/Технологии/Funded Research Projects|Funded Research Projects]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_weekly_innovation_max_add` = `40`
+    - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `40`
 - **ai_weight**: скрипт, строки 271–284
 
 ## Ссылаются

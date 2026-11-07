@@ -26,8 +26,8 @@ paths: [TheGreatRevision/common/company_types/TGR_TRADE_companies.txt]
 - **attainable**: пусто
 - **possible**: скрипт, строки 1492–1501
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `1`
-  - `state_infrastructure_from_population_max_add` = `50`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `50`
 - **ai_will_do**: скрипт, строки 1508–1510
 - **ai_construction_targets**: скрипт, строки 1512–1531
 - **ai_weight**: скрипт, строки 1533–1535

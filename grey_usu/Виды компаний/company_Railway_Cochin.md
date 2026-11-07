@@ -26,9 +26,9 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 3497–3503
 - **possible**: скрипт, строки 3505–3515
 - **prosperity_modifier**:
-  - `state_capitalists_investment_pool_contribution_add` = `0.03`
-  - `building_urban_center_throughput_add` = `0.08` → [[grey_usu/Здания/Городские центры|Городские центры]]
-  - `state_infrastructure_from_population_max_add` = `12`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-contribution-add|state_capitalists_investment_pool_contribution_add]] = `0.03`
+  - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.08` → [[grey_usu/Здания/Городские центры|Городские центры]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `12`
 - **ai_will_do**: скрипт, строки 3524–3530
 - **ai_construction_targets**: скрипт, строки 3532–3539
 - **ai_weight**: скрипт, строки 3540–3542

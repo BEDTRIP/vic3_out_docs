@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 102–110
 - **possible**: скрипт, строки 112–129
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.1`
-  - `building_port_throughput_add` = `0.1` → [[vanilla/Здания/Порты|Порты]]
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-port-throughput-add|building_port_throughput_add]] = `0.1` → [[vanilla/Здания/Порты|Порты]]
 - **ai_will_do**: скрипт, строки 136–141
 - **ai_construction_targets**: скрипт, строки 143–156
 - **ai_weight**: скрипт, строки 158–160

@@ -27,7 +27,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **prosperity_modifier**:
   - `goods_output_elgar_instruments_mult` = `0.05` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
   - `goods_output_elgar_music_mult` = `0.05` → [[morgenrote/Товары/Музыка|Музыка]]
-  - `country_weekly_innovation_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 489–494
 - **ai_construction_targets**: скрипт, строки 496–503
 - **ai_weight**: скрипт, строки 505–507

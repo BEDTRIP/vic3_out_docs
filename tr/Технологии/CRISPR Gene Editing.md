@@ -20,6 +20,6 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Targeted Immunotherapy|Targeted Immunotherapy]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
-  - `state_dependent_wage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-dependent-wage-mult|state_dependent_wage_mult]] = `0.1`
 - **ai_weight**: скрипт, строки 1179–1179

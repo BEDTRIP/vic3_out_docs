@@ -20,13 +20,13 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/yMoG_USU_port
 - **unlocking_production_methods**: [[grey_usu/Методы производства/Грузовой порт|Грузовой порт]], [[grey_usu/Методы производства/Риверсайд Пирс|Риверсайд Пирс]], [[grey_usu/Методы производства/Промышленный порт|Промышленный порт]], [[grey_usu/Методы производства/Промышленные порты|Промышленные порты]], [[grey_usu/Методы производства/Современный порт|Современный порт]], [[grey_usu/Методы производства/Современные порты|Современные порты]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `2`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `2`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `1` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_coal_add` = `1` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `1` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `1` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

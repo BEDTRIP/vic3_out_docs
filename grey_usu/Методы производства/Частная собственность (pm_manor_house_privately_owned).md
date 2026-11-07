@@ -25,9 +25,9 @@ replaces: "[[vanilla/Методы производства/Частная соб
 - **replacement_if_valid**: [[grey_usu/Методы производства/Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)|Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_tax_capacity_add` = `-1`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `-1`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `30` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `30` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
   - **unscaled**:
-    - `building_aristocrats_shares_add` = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-aristocrats-shares-add|building_aristocrats_shares_add]] = `10`

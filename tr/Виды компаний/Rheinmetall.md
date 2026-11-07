@@ -23,4 +23,4 @@ replaces: "[[vanilla/Виды компаний/Rheinmetall]]"
 
 - **extension_building_types**: [[tr/Здания/Alloys Plants|Alloys Plants]], [[tr/Здания/Оружейные заводы|Оружейные заводы]]
 - **prosperity_modifier**:
-  - `unit_army_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.05`

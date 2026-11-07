@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 822–828
 - **possible**: скрипт, строки 830–840
 - **prosperity_modifier**:
-  - `country_ship_group_supply_ships_construction_efficiency_add` = `0.15`
-  - `building_fishing_wharf_throughput_add` = `0.05` → [[vanilla/Здания/Рыболовные верфи|Рыболовные верфи]]
+  - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-fishing-wharf-throughput-add|building_fishing_wharf_throughput_add]] = `0.05` → [[vanilla/Здания/Рыболовные верфи|Рыболовные верфи]]
 - **ai_will_do**: скрипт, строки 847–853
 - **ai_construction_targets**: скрипт, строки 855–862
 - **ai_weight**: скрипт, строки 864–866

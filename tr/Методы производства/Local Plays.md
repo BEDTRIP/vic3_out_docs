@@ -19,14 +19,14 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Classicism|Classicism]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_clothes_add` = `5` → [[tr/Товары/Одежда|Одежда]]
-    - `goods_input_fabric_add` = `25` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_input_groceries_add` = `5` → [[vanilla/Товары/Продукты|Продукты]]
-    - `goods_input_furniture_add` = `5` → [[vanilla/Товары/Мебель|Мебель]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-clothes-add|goods_input_clothes_add]] = `5` → [[tr/Товары/Одежда|Одежда]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `25` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-groceries-add|goods_input_groceries_add]] = `5` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-furniture-add|goods_input_furniture_add]] = `5` → [[vanilla/Товары/Мебель|Мебель]]
     - `goods_output_elgar_music_add` = `15` → [[tr/Товары/Entertainment|Entertainment]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `100` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_clerks_add` = `400` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `100` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `400` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

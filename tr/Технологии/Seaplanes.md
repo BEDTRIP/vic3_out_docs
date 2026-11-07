@@ -20,10 +20,10 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_military.txt]
 - **category**: `military`
 - **unlocking_technologies**: [[tr/Технологии/Военная авиация|Военная авиация]]
 - **modifier**:
-  - `ship_critical_hit_chance_mult` = `0.1`
-  - `ship_screening_mult` = `0.1`
-  - `ship_detection_mult` = `0.1`
-  - `ship_ship_type_aircraft_carrier_hull_damage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-critical-hit-chance-mult|ship_critical_hit_chance_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-screening-mult|ship_screening_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-detection-mult|ship_detection_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-ship-type-aircraft-carrier-hull-damage-mult|ship_ship_type_aircraft_carrier_hull_damage_mult]] = `0.1`
 - **ai_weight**: скрипт, строки 122–159
 
 ## Ссылаются

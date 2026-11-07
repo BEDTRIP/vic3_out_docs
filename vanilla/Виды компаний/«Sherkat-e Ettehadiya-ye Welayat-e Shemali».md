@@ -26,7 +26,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **attainable**: скрипт, строки 331–337
 - **possible**: скрипт, строки 339–348
 - **prosperity_modifier**:
-  - `building_opium_plantation_throughput_add` = `0.2` → [[vanilla/Здания/Маковые плантации|Маковые плантации]]
+  - [[vanilla/движок/Модификаторы B#^m-building-opium-plantation-throughput-add|building_opium_plantation_throughput_add]] = `0.2` → [[vanilla/Здания/Маковые плантации|Маковые плантации]]
 - **ai_will_do**: скрипт, строки 354–359
 - **ai_construction_targets**: скрипт, строки 361–368
 - **ai_weight**: скрипт, строки 370–372

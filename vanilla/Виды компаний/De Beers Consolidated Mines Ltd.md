@@ -25,9 +25,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: пусто
 - **possible**: скрипт, строки 1344–1352
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `country_leverage_generation_mult` = `0.05`
-  - `state_colony_growth_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 1360–1365
 - **ai_construction_targets**: скрипт, строки 1367–1374
 - **ai_weight**: скрипт, строки 1376–1378

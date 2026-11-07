@@ -19,9 +19,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Neuroscience|Neuroscience]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_opium_add` = `5` → [[vanilla/Товары/Опиум|Опиум]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-opium-add|goods_input_opium_add]] = `5` → [[vanilla/Товары/Опиум|Опиум]]
     - `goods_input_plastics_add` = `5` → [[tr/Товары/Пластмассы|Пластмассы]]
-    - `goods_input_fertilizer_add` = `5` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `5` → [[vanilla/Товары/Удобрение|Удобрение]]
     - `goods_output_pharmaceuticals_add` = `25` → [[tr/Товары/Фармацевтика|Фармацевтика]]
 
 ## Ссылаются

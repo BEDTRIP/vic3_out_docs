@@ -27,8 +27,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **possible**: скрипт, строки 642–652
 - **prosperity_modifier**:
   - `goods_output_elgar_music_mult` = `0.05` → [[tr/Товары/Entertainment|Entertainment]]
-  - `country_influence_mult` = `0.2`
-  - `state_decree_cost_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 658–664
 - **ai_construction_targets**: скрипт, строки 665–672
 - **ai_weight**: скрипт, строки 673–675

@@ -31,9 +31,9 @@ replaces: "[[vanilla/Виды компаний/«General Electric»]]"
 - **attainable**: скрипт, строки 4992–5001
 - **possible**: скрипт, строки 5003–5016
 - **prosperity_modifier**:
-  - `goods_output_electricity_mult` = `0.15` → [[vanilla/Товары/Электричество|Электричество]]
-  - `building_electrics_industry_throughput_add` = `0.1` → [[vc/Здания/Электрозаводы|Электрозаводы]]
-  - `country_weekly_innovation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-mult|goods_output_electricity_mult]] = `0.15` → [[vanilla/Товары/Электричество|Электричество]]
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.1` → [[vc/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 5024–5033
 - **ai_construction_targets**: скрипт, строки 5035–5046
 - **ai_weight**: скрипт, строки 5048–5050

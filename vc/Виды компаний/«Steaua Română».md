@@ -30,8 +30,8 @@ replaces: "[[vanilla/Виды компаний/«Steaua Română»]]"
 - **attainable**: скрипт, строки 5758–5764
 - **possible**: скрипт, строки 5766–5776
 - **prosperity_modifier**:
-  - `building_group_bg_oil_extraction_throughput_add` = `0.2`
-  - `building_group_bg_oil_extraction_employee_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.2`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-employee-mult|building_group_bg_oil_extraction_employee_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 5783–5789
 - **ai_construction_targets**: скрипт, строки 5791–5798
 - **ai_weight**: скрипт, строки 5800–5802

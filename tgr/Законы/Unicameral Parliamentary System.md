@@ -19,10 +19,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 - **icon**: `gfx/interface/icons/law_icons/parliamentary_republic.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `country_legitimacy_govt_total_votes_add` = `25`
-  - `country_legitimacy_govt_total_clout_add` = `-25`
-  - `country_law_enactment_speed_mult` = `-0.20`
-  - `country_law_enactment_success_add` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `-25`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `-0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-success-add|country_law_enactment_success_add]] = `0.10`
 - **disallowing_laws**: [[tgr/Законы/Автократия|Автократия]], [[tgr/Законы/Технократия|Технократия]], [[tgr/Законы/Олигархия|Олигархия]], [[tgr/Законы/Анархия|Анархия]]
 - **unlocking_laws**: пусто
 - **on_enact**: пусто

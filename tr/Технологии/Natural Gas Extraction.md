@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **modifier**:
   - `country_allow_everywhere_gas_extraction_bool` = `yes`
   - `building_natural_gas_rig_throughput_add` = `0.05` → [[tr/Здания/Natural Gas Rigs|Natural Gas Rigs]]
-  - `building_group_bg_oil_extraction_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.05`
 - **ai_weight**: скрипт, строки 242–253
 
 ## Ссылаются

@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_digital_media_industry.txt]
 - **possible**: скрипт, строки 611–621
 - **prosperity_modifier**:
   - `building_computer_assembly_plant_throughput_add` = `0.05` → [[tr/Здания/Computer Assembly Plants|Computer Assembly Plants]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 626–632
 - **ai_construction_targets**: скрипт, строки 633–640
 - **ai_weight**: скрипт, строки 641–643

@@ -24,8 +24,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 82–89
 - **possible**: скрипт, строки 90–100
 - **prosperity_modifier**:
-  - `building_throughput_add` = `0.02`
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.02`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 105–111
 - **ai_construction_targets**: скрипт, строки 112–119
 - **ai_weight**: скрипт, строки 120–122

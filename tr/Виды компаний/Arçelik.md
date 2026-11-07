@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **attainable**: скрипт, строки 395–402
 - **possible**: скрипт, строки 403–413
 - **prosperity_modifier**:
-  - `building_textile_mill_throughput_add` = `0.1` → [[tr/Здания/Текстильные фабрики|Текстильные фабрики]]
-  - `state_standard_of_living_add` = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.1` → [[tr/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
 - **ai_will_do**: скрипт, строки 418–424
 - **ai_construction_targets**: скрипт, строки 425–432
 - **ai_weight**: скрипт, строки 433–435

@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/be_fruitful_and_multiply.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_education_access_add` = `0.1`
-  - `state_conversion_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-conversion-mult|state_conversion_mult]] = `0.25`

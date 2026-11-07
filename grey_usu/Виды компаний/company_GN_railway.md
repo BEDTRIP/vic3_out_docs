@@ -26,9 +26,9 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 3286–3296
 - **possible**: скрипт, строки 3298–3313
 - **prosperity_modifier**:
-  - `building_iron_mine_throughput_add` = `0.05` → [[vanilla/Здания/Железные рудники|Железные рудники]]
-  - `state_migration_pull_mult` = `0.05`
-  - `building_group_bg_agriculture_throughput_add` = `0.03`
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.05` → [[vanilla/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.03`
 - **ai_will_do**: скрипт, строки 3322–3329
 - **ai_construction_targets**: скрипт, строки 3331–3338
 - **ai_weight**: скрипт, строки 3339–3341

@@ -26,7 +26,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 1080–1086
 - **possible**: скрипт, строки 1088–1097
 - **prosperity_modifier**:
-  - `country_production_tech_spread_mult` = `0.11`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.11`
 - **ai_will_do**: скрипт, строки 1104–1109
 - **ai_construction_targets**: скрипт, строки 1111–1118
 - **ai_weight**: скрипт, строки 1119–1121

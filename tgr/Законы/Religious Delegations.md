@@ -22,15 +22,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **disallowing_laws**: [[tgr/Законы/Полное разделение|Полное разделение]], [[tgr/Законы/Государственный атеизм|Государственный атеизм]]
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_improve_relations_speed_mult` = `0.25`
-  - `state_radicalism_increases_violent_hostility_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-improve-relations-speed-mult|country_improve_relations_speed_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-violent-hostility-mult|state_radicalism_increases_violent_hostility_mult]] = `0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `state_conversion_mult` = `0.05`
-  - `interest_group_ig_devout_pol_str_mult` = `0.05`
-  - `interest_group_ig_devout_pop_attraction_mult` = `0.10`
-  - `country_clergymen_pol_str_mult` = `0.20`
-  - `country_farmers_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы S#^m-state-conversion-mult|state_conversion_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pop-attraction-mult|interest_group_ig_devout_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-clergymen-pol-str-mult|country_clergymen_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-farmers-pol-str-mult|country_farmers_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 271–278
 
 ## Ссылаются

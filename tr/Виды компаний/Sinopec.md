@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_oil_gas_companies.txt]
 - **possible**: скрипт, строки 112–120
 - **prosperity_modifier**:
   - `building_rare_earths_mine_throughput_add` = `0.05` → [[tr/Здания/Rare Earths Mines|Rare Earths Mines]]
-  - `building_power_plant_throughput_add` = `0.1` → [[tr/Здания/Электростанции|Электростанции]]
-  - `building_railway_throughput_add` = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.1` → [[tr/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
 - **ai_will_do**: скрипт, строки 126–131
 - **ai_weight**: скрипт, строки 132–134

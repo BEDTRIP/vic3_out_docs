@@ -18,14 +18,14 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_birth_rate_mult` = `0.03`
-    - `building_university_throughput_add` = `0.1` → [[vanilla/Здания/Университеты|Университеты]]
+    - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.03`
+    - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.1` → [[vanilla/Здания/Университеты|Университеты]]
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.12`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.12`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_weekly_innovation_max_add` = `20`
-    - `country_weekly_innovation_add` = `50`
+    - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `20`
+    - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-add|country_weekly_innovation_add]] = `50`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_academics_add` = `2000` → [[grey_soft_pop/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `2000` → [[grey_soft_pop/Население/Типы/Учёные|Учёные]]

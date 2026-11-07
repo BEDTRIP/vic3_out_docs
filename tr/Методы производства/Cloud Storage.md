@@ -20,11 +20,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_raw_data_add` = `450` → [[tr/Товары/Raw Data|Raw Data]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_water_add` = `10` → [[tr/Товары/Water|Water]]
     - `goods_output_organized_data_add` = `450` → [[tr/Товары/Organized Data|Organized Data]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **unlocking_production_methods**: [[tr/Методы производства/Internet (pm_internet_building_datacenter)|Internet (pm_internet_building_datacenter)]]
 
 ## Ссылаются

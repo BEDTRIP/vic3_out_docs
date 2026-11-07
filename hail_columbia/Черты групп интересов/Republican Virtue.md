@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/honest_work.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_peasants_education_access_add` = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-peasants-education-access-add|state_peasants_education_access_add]] = `0.10`
   - `state_farmers_education_access_add` = `0.10`

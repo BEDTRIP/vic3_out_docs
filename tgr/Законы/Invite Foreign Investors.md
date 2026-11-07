@@ -22,15 +22,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **disallowing_laws**: [[tgr/Законы/Изоляционизм|Изоляционизм]]
 - **unlocking_technologies**: [[tgr/Технологии/Международные отношения|Международные отношения]]
 - **modifier**:
-  - `building_nationalization_cost_mult` = `0.25`
-  - `country_production_tech_research_speed_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-nationalization-cost-mult|building_nationalization_cost_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `state_capitalists_investment_pool_efficiency_mult` = `0.05`
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.05`
-  - `interest_group_ig_industrialists_pop_attraction_mult` = `0.10`
-  - `country_shopkeepers_pol_str_mult` = `0.20`
-  - `country_engineers_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-efficiency-mult|state_capitalists_investment_pool_efficiency_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pop-attraction-mult|interest_group_ig_industrialists_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-shopkeepers-pol-str-mult|country_shopkeepers_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-engineers-pol-str-mult|country_engineers_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 186–193
 
 ## Ссылаются

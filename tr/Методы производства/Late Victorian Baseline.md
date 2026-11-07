@@ -19,18 +19,18 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
 - **state_modifiers**: пусто
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_wood_add` = `200` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-wood-add|goods_output_wood_add]] = `200` → [[vanilla/Товары/Древесина|Древесина]]
     - `goods_output_water_add` = `200` → [[tr/Товары/Water|Water]]
-    - `goods_output_iron_add` = `200` → [[vanilla/Товары/Железо|Железо]]
-    - `goods_output_coal_add` = `200` → [[vanilla/Товары/Уголь|Уголь]]
-    - `goods_output_sulfur_add` = `200` → [[vanilla/Товары/Сера|Сера]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-iron-add|goods_output_iron_add]] = `200` → [[vanilla/Товары/Железо|Железо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-coal-add|goods_output_coal_add]] = `200` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sulfur-add|goods_output_sulfur_add]] = `200` → [[vanilla/Товары/Сера|Сера]]
     - `goods_output_bauxite_add` = `200` → [[tr/Товары/Bauxite|Bauxite]]
-    - `goods_output_lead_add` = `200` → [[vanilla/Товары/Свинец|Свинец]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-lead-add|goods_output_lead_add]] = `200` → [[vanilla/Товары/Свинец|Свинец]]
     - `goods_output_copper_add` = `200` → [[tr/Товары/Copper|Copper]]
     - `goods_output_commonores_add` = `200` → [[tr/Товары/Common Ores|Common Ores]]
-    - `goods_output_oil_add` = `200` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-oil-add|goods_output_oil_add]] = `200` → [[vanilla/Товары/ГСМ|ГСМ]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `10000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `10000` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

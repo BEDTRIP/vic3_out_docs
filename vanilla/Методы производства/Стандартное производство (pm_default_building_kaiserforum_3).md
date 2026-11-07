@@ -19,17 +19,17 @@ paths: [.vanillaVIC3/common/production_methods/08_monuments.txt]
 - **is_hidden_when_unavailable**: `yes`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_legitimacy_headofstate_add` = `5`
-    - `country_prestige_add` = `25`
+    - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `5`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `25`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_government_administration_throughput_add` = `0.2` → [[vanilla/Здания/Правительственные ведомства|Правительственные ведомства]]
-    - `state_migration_pull_mult` = `0.5`
+    - [[vanilla/движок/Модификаторы B#^m-building-government-administration-throughput-add|building_government_administration_throughput_add]] = `0.2` → [[vanilla/Здания/Правительственные ведомства|Правительственные ведомства]]
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.5`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `100` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
-    - `building_employment_academics_add` = `100` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_bureaucrats_add` = `200` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `100` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `100` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `200` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
 
 ## Ссылаются
 

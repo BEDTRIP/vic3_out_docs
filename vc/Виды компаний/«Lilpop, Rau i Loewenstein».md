@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«Lilpop, Rau i Loewenstein»]]"
 - **attainable**: скрипт, строки 8303–8312
 - **possible**: скрипт, строки 8314–8327
 - **prosperity_modifier**:
-  - `building_coal_mine_throughput_add` = `0.1` → [[vc/Здания/Угольные шахты|Угольные шахты]]
-  - `building_iron_mine_throughput_add` = `0.1` → [[vc/Здания/Железные рудники|Железные рудники]]
-  - `goods_output_tools_mult` = `0.05` → [[vanilla/Товары/Инструменты|Инструменты]]
+  - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.1` → [[vc/Здания/Угольные шахты|Угольные шахты]]
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.1` → [[vc/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-tools-mult|goods_output_tools_mult]] = `0.05` → [[vanilla/Товары/Инструменты|Инструменты]]
 - **ai_will_do**: скрипт, строки 8335–8344
 - **ai_construction_targets**: скрипт, строки 8346–8357
 - **ai_weight**: скрипт, строки 8359–8361

@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/App Economy|App Economy]], [[tr/Технологии/Algorithmic Dispatch|Algorithmic Dispatch]]
 - **modifier**:
-  - `country_influence_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 1344–1344
 
 ## Ссылаются

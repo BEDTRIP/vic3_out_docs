@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **attainable**: скрипт, строки 180–187
 - **possible**: скрипт, строки 188–198
 - **prosperity_modifier**:
-  - `country_production_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 202–208
 - **ai_construction_targets**: скрипт, строки 209–216
 - **ai_weight**: скрипт, строки 217–219

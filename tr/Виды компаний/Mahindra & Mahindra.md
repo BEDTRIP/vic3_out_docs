@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 312–318
 - **possible**: скрипт, строки 319–329
 - **prosperity_modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.1`
-  - `state_birth_rate_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 334–340
 - **ai_construction_targets**: скрипт, строки 341–348
 - **ai_weight**: скрипт, строки 349–351

@@ -26,8 +26,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 1005–1011
 - **possible**: скрипт, строки 1013–1025
 - **prosperity_modifier**:
-  - `interest_group_ig_armed_forces_approval_add` = `3`
-  - `unit_army_defense_mult` = `0.04`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-armed-forces-approval-add|interest_group_ig_armed_forces_approval_add]] = `3`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.04`
 - **ai_will_do**: скрипт, строки 1033–1038
 - **ai_construction_targets**: скрипт, строки 1040–1047
 - **ai_weight**: скрипт, строки 1048–1050

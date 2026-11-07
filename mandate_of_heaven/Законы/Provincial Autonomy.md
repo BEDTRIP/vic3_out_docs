@@ -23,10 +23,10 @@ paths: [for addon/Mandate of Heaven/common/laws/moh_flavoured_laws.txt]
 - **is_visible**: скрипт, строки 136–143
 - **can_enact**: скрипт, строки 145–152
 - **modifier**:
-  - `country_legitimacy_headofstate_add` = `5`
-  - `country_legitimacy_govt_total_votes_add` = `10`
-  - `country_legitimacy_ideological_incoherence_mult` = `-0.15`
-  - `country_authority_add` = `-10`
-  - `country_construction_add` = `5`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `5`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-ideological-incoherence-mult|country_legitimacy_ideological_incoherence_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `-10`
+  - [[vanilla/движок/Модификаторы C#^m-country-construction-add|country_construction_add]] = `5`
 - **ai_will_do**: скрипт, строки 162–176
 - **ai_enact_weight_modifier**: скрипт, строки 178–188

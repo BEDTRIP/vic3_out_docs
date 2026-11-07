@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **attainable**: скрипт, строки 423–429
 - **possible**: скрипт, строки 431–441
 - **prosperity_modifier**:
-  - `unit_defense_mult` = `0.05`
-  - `building_iron_mine_throughput_add` = `0.1` → [[vanilla/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **ai_will_do**: скрипт, строки 448–454
 - **ai_construction_targets**: скрипт, строки 456–463
 - **ai_weight**: скрипт, строки 465–467

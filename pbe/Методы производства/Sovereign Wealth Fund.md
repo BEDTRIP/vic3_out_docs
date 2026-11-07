@@ -20,10 +20,10 @@ paths: [PowerBlocksExpanded/common/production_methods/vokaes_power_bloc_producti
 - **unlocking_principles**: `principle_sovereign_wealth_fund_3`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `5` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clerks_add` = `-15` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `5` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `-15` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **unscaled**:
-    - `building_bureaucrats_shares_add` = `1`
+    - [[vanilla/движок/Модификаторы B#^m-building-bureaucrats-shares-add|building_bureaucrats_shares_add]] = `1`
 
 ## Ссылаются
 

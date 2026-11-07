@@ -21,12 +21,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
   - **workforce_scaled**:
     - `goods_input_elgar_instruments_add` = `15` → [[tr/Товары/Instruments|Instruments]]
     - `goods_input_softwares_add` = `5` → [[tr/Товары/Software|Software]]
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_interactive_entertainment_add` = `5` → [[tr/Товары/Interactive Entertainment|Interactive Entertainment]]
     - `goods_input_computer_add` = `2` → [[tr/Товары/Computers|Computers]]
     - `goods_output_elgar_music_add` = `30` → [[tr/Товары/Entertainment|Entertainment]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `-50` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `-50` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

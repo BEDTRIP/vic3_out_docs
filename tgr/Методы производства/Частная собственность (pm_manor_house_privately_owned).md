@@ -24,11 +24,11 @@ replaces: "[[vanilla/Методы производства/Частная соб
 - **replacement_if_valid**: [[tgr/Методы производства/Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)|Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)]]
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_aristocrats_add` = `50` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-aristocrats-add|building_employment_aristocrats_add]] = `50` → [[vanilla/Население/Типы/Аристократы|Аристократы]]
   - **unscaled**:
-    - `building_aristocrats_shares_add` = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-aristocrats-shares-add|building_aristocrats_shares_add]] = `10`
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_weekly_trades_add` = `0.5`
-    - `state_trade_capacity_add` = `1`
-    - `state_tax_capacity_add` = `0.25`
+    - [[vanilla/движок/Модификаторы S#^m-state-weekly-trades-add|state_weekly_trades_add]] = `0.5`
+    - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-add|state_trade_capacity_add]] = `1`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `0.25`

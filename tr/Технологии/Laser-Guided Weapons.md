@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/laser_guided_weapons.dds`
 - **category**: `military`
 - **modifier**:
-  - `country_military_wages_mult` = `0.25`
-  - `unit_army_offense_mult` = `0.35`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.35`
   - `increase_nuclear_strike_defence_bool_tt` = `yes`
 - **unlocking_technologies**: [[tr/Технологии/Modern Ammunition|Modern Ammunition]], [[tr/Технологии/Guided Missiles|Guided Missiles]]
 - **ai_weight**: скрипт, строки 889–897

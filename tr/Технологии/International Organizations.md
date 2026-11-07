@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/onu.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_infamy_generation_against_unrecognized_mult` = `0.1`
-  - `country_infamy_generation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-against-unrecognized-mult|country_infamy_generation_against_unrecognized_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `0.1`
   - `country_allow_int_org_participation_bool` = `yes`
 - **unlocking_technologies**: [[tr/Технологии/Феминизм|Феминизм]], [[vanilla/Технологии/Стандарты международного обмена|Стандарты международного обмена]]
 - **ai_weight**: скрипт, строки 34–36

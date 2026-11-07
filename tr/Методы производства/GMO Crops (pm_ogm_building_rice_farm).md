@@ -19,13 +19,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **unlocking_technologies**: [[tr/Технологии/Genetic Engineering|Genetic Engineering]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fertilizer_add` = `40` → [[vanilla/Товары/Удобрение|Удобрение]]
-    - `goods_input_oil_add` = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `40` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
     - `goods_input_pharmaceuticals_add` = `5` → [[tr/Товары/Фармацевтика|Фармацевтика]]
-    - `goods_output_grain_add` = `210` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `210` → [[vanilla/Товары/Зерно|Зерно]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `5000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `4000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `5000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `4000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
 
 ## Ссылаются
 

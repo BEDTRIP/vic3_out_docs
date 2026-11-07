@@ -26,7 +26,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 1157–1163
 - **possible**: скрипт, строки 1165–1174
 - **prosperity_modifier**:
-  - `building_urban_center_throughput_add` = `0.04` → [[grey_usu/Здания/Городские центры|Городские центры]]
+  - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.04` → [[grey_usu/Здания/Городские центры|Городские центры]]
   - `building_group_bg_usu_rail_infrastructure_throughput_add` = `0.09`
 - **ai_will_do**: скрипт, строки 1182–1187
 - **ai_construction_targets**: скрипт, строки 1189–1196

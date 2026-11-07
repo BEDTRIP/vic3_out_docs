@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 1271–1279
 - **possible**: скрипт, строки 1281–1291
 - **prosperity_modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.15`
 - **ai_will_do**: скрипт, строки 1297–1303
 - **ai_construction_targets**: скрипт, строки 1305–1312
 - **ai_weight**: скрипт, строки 1314–1316

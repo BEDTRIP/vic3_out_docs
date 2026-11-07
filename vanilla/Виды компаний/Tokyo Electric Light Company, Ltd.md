@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 238–246
 - **possible**: скрипт, строки 248–259
 - **prosperity_modifier**:
-  - `building_electrics_industry_throughput_add` = `0.1` → [[vanilla/Здания/Электрозаводы|Электрозаводы]]
-  - `building_urban_center_throughput_add` = `0.1` → [[vanilla/Здания/Городские центры|Городские центры]]
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.1` → [[vanilla/Здания/Городские центры|Городские центры]]
 - **ai_will_do**: скрипт, строки 266–273
 - **ai_construction_targets**: скрипт, строки 275–282
 - **ai_weight**: скрипт, строки 284–286

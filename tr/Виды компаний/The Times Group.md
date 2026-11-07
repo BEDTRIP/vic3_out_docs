@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **attainable**: скрипт, строки 568–574
 - **possible**: скрипт, строки 575–585
 - **prosperity_modifier**:
-  - `state_decree_cost_mult` = `-0.2`
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `-0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 590–596
 - **ai_construction_targets**: скрипт, строки 597–604
 - **ai_weight**: скрипт, строки 605–607

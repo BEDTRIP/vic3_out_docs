@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_produc
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Modern Physics|Modern Physics]]
 - **modifier**:
-  - `building_group_bg_power_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-power-throughput-add|building_group_bg_power_throughput_add]] = `0.05`
 - **ai_weight**: скрипт, строки 87–100
 
 ## Ссылаются

@@ -26,7 +26,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **attainable**: скрипт, строки 616–622
 - **possible**: скрипт, строки 624–637
 - **prosperity_modifier**:
-  - `building_group_bg_logging_throughput_add` = `0.2`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-throughput-add|building_group_bg_logging_throughput_add]] = `0.2`
 - **ai_will_do**: скрипт, строки 643–653
 - **ai_construction_targets**: скрипт, строки 655–666
 - **ai_weight**: скрипт, строки 668–670

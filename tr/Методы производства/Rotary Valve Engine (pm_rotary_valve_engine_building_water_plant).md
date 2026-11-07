@@ -20,10 +20,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_copper_add` = `12` → [[tr/Товары/Copper|Copper]]
-    - `goods_input_tools_add` = `6` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_coal_add` = `6` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `6` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `6` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-900` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-900` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

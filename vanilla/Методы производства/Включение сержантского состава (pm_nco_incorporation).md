@@ -23,9 +23,9 @@ paths: [.vanillaVIC3/common/production_methods/05_military.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Подготовка сержантского состава|Подготовка сержантского состава]]
 - **building_modifiers**:
   - **unscaled**:
-    - `building_training_rate_add` = `50`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `50`
   - **level_scaled**:
-    - `building_training_rate_add` = `22`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `22`
 
 ## Ссылаются
 

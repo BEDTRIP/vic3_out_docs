@@ -19,9 +19,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/multinational_corporations.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_max_companies_add` = `1`
-  - `country_free_charters_add` = `1`
-  - `state_urbanization_per_level_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-companies-add|country_max_companies_add]] = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-free-charters-add|country_free_charters_add]] = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-urbanization-per-level-mult|state_urbanization_per_level_mult]] = `-0.1`
 - **unlocking_technologies**: [[tr/Технологии/Neo-Imperialism|Neo-Imperialism]], [[tr/Технологии/Telecommunications|Telecommunications]]
 - **ai_weight**: скрипт, строки 500–502
 

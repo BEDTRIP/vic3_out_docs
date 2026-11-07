@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_environmental_policy.txt]
 - **icon**: `gfx/interface/icons/law_icons/law_no_protection.dds`
 - **progressiveness**: `0`
 - **modifier**:
-  - `state_pollution_reduction_health_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `0.05`
 - **ai_enact_weight_modifier**: скрипт, строки 12–19
 
 ## Ссылаются

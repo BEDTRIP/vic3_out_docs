@@ -19,11 +19,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **unlocking_technologies**: [[vanilla/Технологии/Корпоративное управление|Корпоративное управление]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `1` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `1` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_input_business_data_add` = `1` → [[tr/Товары/Business Data|Business Data]]
     - `goods_output_organized_data_add` = `1.5` → [[tr/Товары/Organized Data|Organized Data]]
   - **unscaled**:
-    - `building_throughput_add` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.1`
 
 ## Ссылаются
 

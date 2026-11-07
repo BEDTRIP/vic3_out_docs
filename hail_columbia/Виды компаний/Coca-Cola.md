@@ -25,8 +25,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 106–115
 - **possible**: скрипт, строки 117–130
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.15`
-  - `country_leverage_generation_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 137–144
 - **ai_construction_targets**: скрипт, строки 146–156
 - **ai_weight**: скрипт, строки 158–160

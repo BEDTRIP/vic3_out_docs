@@ -23,9 +23,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
     - `goods_input_telecommunications_add` = `10` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_computer_add` = `-5` → [[tr/Товары/Computers|Computers]]
     - `goods_output_softwares_add` = `-10` → [[tr/Товары/Software|Software]]
-    - `goods_output_services_add` = `20` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `20` → [[vanilla/Товары/Услуги|Услуги]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `100` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `100` → [[vanilla/Население/Типы/Служащие|Служащие]]
 
 ## Ссылаются
 

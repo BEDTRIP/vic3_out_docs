@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/Első Budapesti Gőzmalom Rt]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 8066–8088
 - **prosperity_modifier**:
-  - `goods_output_grain_mult` = `0.15` → [[vanilla/Товары/Зерно|Зерно]]
-  - `state_trade_advantage_mult` = `0.1`
-  - `state_birth_rate_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-mult|goods_output_grain_mult]] = `0.15` → [[vanilla/Товары/Зерно|Зерно]]
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 8096–8102
 - **ai_construction_targets**: скрипт, строки 8104–8117
 - **ai_weight**: скрипт, строки 8119–8121

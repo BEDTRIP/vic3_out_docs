@@ -21,15 +21,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **unlocking_laws**: пусто
 - **unlocking_technologies**: [[vanilla/Технологии/Национализм|Национализм]]
 - **modifier**:
-  - `state_assimilation_mult` = `0.25`
-  - `state_radicalism_increases_violent_hostility_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-violent-hostility-mult|state_radicalism_increases_violent_hostility_mult]] = `0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `country_wage_full_acceptance_mult` = `0.05`
-  - `interest_group_ig_petty_bourgeoisie_pol_str_mult` = `0.05`
-  - `interest_group_ig_petty_bourgeoisie_pop_attraction_mult` = `0.10`
-  - `country_shopkeepers_pol_str_mult` = `0.20`
-  - `country_clerks_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-wage-full-acceptance-mult|country_wage_full_acceptance_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pol-str-mult|interest_group_ig_petty_bourgeoisie_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pop-attraction-mult|interest_group_ig_petty_bourgeoisie_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-shopkeepers-pol-str-mult|country_shopkeepers_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-clerks-pol-str-mult|country_clerks_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 226–233
 
 ## Ссылаются

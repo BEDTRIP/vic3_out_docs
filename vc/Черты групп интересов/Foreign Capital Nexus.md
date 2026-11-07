@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/job_creators.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_capitalists_investment_pool_contribution_add` = `0.1`
-  - `state_shopkeepers_investment_pool_contribution_add` = `0.1`
-  - `country_construction_goods_cost_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-contribution-add|state_capitalists_investment_pool_contribution_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-shopkeepers-investment-pool-contribution-add|state_shopkeepers_investment_pool_contribution_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-construction-goods-cost-mult|country_construction_goods_cost_mult]] = `-0.05`

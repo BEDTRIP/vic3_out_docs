@@ -27,9 +27,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 893–901
 - **possible**: скрипт, строки 903–913
 - **prosperity_modifier**:
-  - `building_sugar_plantation_throughput_add` = `0.1` → [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
-  - `building_construction_sector_throughput_add` = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
-  - `state_infrastructure_from_population_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-sugar-plantation-throughput-add|building_sugar_plantation_throughput_add]] = `0.1` → [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
+  - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-mult|state_infrastructure_from_population_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 921–925
 - **ai_construction_targets**: скрипт, строки 927–934
 - **ai_weight**: скрипт, строки 936–938

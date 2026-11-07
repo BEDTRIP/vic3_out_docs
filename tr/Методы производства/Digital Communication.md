@@ -19,15 +19,15 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Global Music|Global Music]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_computer_add` = `5` → [[tr/Товары/Computers|Computers]]
     - `goods_input_televisions_add` = `5` → [[tr/Товары/Televisions|Televisions]]
-    - `goods_input_telephones_add` = `10` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-telephones-add|goods_input_telephones_add]] = `10` → [[vanilla/Товары/Телефоны|Телефоны]]
     - `goods_input_telecommunications_add` = `15` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_output_organized_data_add` = `8` → [[tr/Товары/Organized Data|Organized Data]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `1000` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_academics_add` = `500` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `1000` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `500` → [[vanilla/Население/Типы/Учёные|Учёные]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

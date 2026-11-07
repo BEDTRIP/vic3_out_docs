@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/gunboat_diplomacy.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_prestige_from_navy_power_projection_mult` = `0.15`
-  - `country_prestige_from_army_power_projection_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-from-navy-power-projection-mult|country_prestige_from_navy_power_projection_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-from-army-power-projection-mult|country_prestige_from_army_power_projection_mult]] = `0.05`

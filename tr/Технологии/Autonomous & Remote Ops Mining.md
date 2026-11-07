@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **texture**: `gfx/interface/icons/invention_icons/autonomous_and_remote_ops_mining.dds`
 - **category**: `production`
 - **modifier**:
-  - `building_group_bg_mining_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.1`
 - **unlocking_technologies**: [[tr/Технологии/Precision Blasting|Precision Blasting]], [[tr/Технологии/Rare Earths Purification|Rare Earths Purification]]
 - **ai_weight**: скрипт, строки 1378–1380
 

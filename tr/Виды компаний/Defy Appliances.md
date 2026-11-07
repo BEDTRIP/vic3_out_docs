@@ -24,7 +24,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **attainable**: скрипт, строки 511–518
 - **possible**: скрипт, строки 519–529
 - **prosperity_modifier**:
-  - `state_birth_rate_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 533–539
 - **ai_construction_targets**: скрипт, строки 540–547
 - **ai_weight**: скрипт, строки 548–550

@@ -20,8 +20,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Bullet Train|Bullet Train]]
 - **modifier**:
-  - `goods_input_oil_mult` = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
-  - `building_railway_throughput_add` = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-mult|goods_input_oil_mult]] = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
 - **ai_weight**: скрипт, строки 1248–1250
 
 ## Ссылаются

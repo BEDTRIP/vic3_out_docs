@@ -18,7 +18,7 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_society_tech_research_speed_mult` = `0.15`
-  - `state_migration_pull_mult` = `0.15`
-  - `goods_output_services_mult` = `0.25` → [[vanilla/Товары/Услуги|Услуги]]
-  - `goods_output_fine_art_mult` = `0.25` → [[vanilla/Товары/Картины|Картины]]
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-services-mult|goods_output_services_mult]] = `0.25` → [[vanilla/Товары/Услуги|Услуги]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-mult|goods_output_fine_art_mult]] = `0.25` → [[vanilla/Товары/Картины|Картины]]

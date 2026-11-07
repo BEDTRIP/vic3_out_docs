@@ -28,9 +28,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 6025–6031
 - **possible**: скрипт, строки 6033–6047
 - **prosperity_modifier**:
-  - `ship_critical_hit_multiplier_mult` = `0.1`
-  - `country_navy_goods_cost_mult` = `-0.1`
-  - `ship_accuracy_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-critical-hit-multiplier-mult|ship_critical_hit_multiplier_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-navy-goods-cost-mult|country_navy_goods_cost_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-accuracy-mult|ship_accuracy_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 6056–6061
 - **ai_construction_targets**: скрипт, строки 6063–6070
 - **ai_weight**: скрипт, строки 6071–6073

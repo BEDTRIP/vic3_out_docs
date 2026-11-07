@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **texture**: `gfx/interface/icons/invention_icons/bullet_train.dds`
 - **category**: `production`
 - **modifier**:
-  - `goods_input_oil_mult` = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-mult|goods_input_oil_mult]] = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
 - **unlocking_technologies**: [[tr/Технологии/Streamlined Railways|Streamlined Railways]], [[tr/Технологии/Modern Vehicles|Modern Vehicles]]
 - **ai_weight**: скрипт, строки 879–881
 

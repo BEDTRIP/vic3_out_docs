@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **possible**: скрипт, строки 37–47
 - **prosperity_modifier**:
   - `building_manzoni_publishing_industry_throughput_add` = `0.15` → [[tr/Здания/Media Industries|Media Industries]]
-  - `country_influence_mult` = `0.25`
-  - `state_birth_rate_mult` = `-0.02`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `-0.02`
 - **ai_will_do**: скрипт, строки 53–59
 - **ai_construction_targets**: скрипт, строки 60–67
 - **ai_weight**: скрипт, строки 68–70

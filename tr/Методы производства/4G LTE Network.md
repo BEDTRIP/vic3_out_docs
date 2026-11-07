@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **unlocking_production_methods**: [[tr/Методы производства/Internet Global Network|Internet Global Network]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `10` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `10` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_input_softwares_add` = `2` → [[tr/Товары/Software|Software]]
     - `goods_input_processors_add` = `1` → [[tr/Товары/Processors|Processors]]
     - `goods_output_telecommunications_add` = `30` → [[tr/Товары/Telecommunications|Telecommunications]]

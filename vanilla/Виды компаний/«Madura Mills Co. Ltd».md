@@ -27,9 +27,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **attainable**: скрипт, строки 393–399
 - **possible**: скрипт, строки 401–411
 - **prosperity_modifier**:
-  - `interest_group_ig_petty_bourgeoisie_pop_attraction_mult` = `0.1`
-  - `building_textile_mill_throughput_add` = `0.1` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
-  - `country_state_religion_wages_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pop-attraction-mult|interest_group_ig_petty_bourgeoisie_pop_attraction_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы C#^m-country-state-religion-wages-mult|country_state_religion_wages_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 419–424
 - **ai_construction_targets**: скрипт, строки 426–433
 - **ai_weight**: скрипт, строки 435–437

@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«Confédération générale des 
 - **potential**: скрипт, строки 811–816
 - **possible**: скрипт, строки 818–828
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `building_group_bg_agriculture_employee_mult` = `-0.1`
-  - `goods_output_wine_mult` = `0.25` → [[vanilla/Товары/Вино|Вино]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-employee-mult|building_group_bg_agriculture_employee_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-wine-mult|goods_output_wine_mult]] = `0.25` → [[vanilla/Товары/Вино|Вино]]
 - **ai_will_do**: скрипт, строки 836–842
 - **ai_construction_targets**: скрипт, строки 844–851
 - **ai_weight**: скрипт, строки 853–855

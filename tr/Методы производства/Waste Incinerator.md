@@ -18,12 +18,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/waste_incinerator.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `3`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `3`
 - **unlocking_production_methods**: [[tr/Методы производства/Электрическое освещение улиц|Электрическое освещение улиц]], [[tr/Методы производства/Modern Urban Utilities|Modern Urban Utilities]], [[tr/Методы производства/Smart City Services|Smart City Services]]
 - **unlocking_technologies**: [[vanilla/Технологии/ГСМ-турбина|ГСМ-турбина]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `-2` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `-2` → [[vanilla/Товары/Электричество|Электричество]]
 - **disallowing_laws**: [[tr/Законы/Active Restoration|Active Restoration]]
 
 ## Ссылаются

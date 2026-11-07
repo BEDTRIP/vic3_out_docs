@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«Mitsubishi»]]"
 - **potential**: скрипт, строки 2646–2648
 - **possible**: скрипт, строки 2650–2664
 - **prosperity_modifier**:
-  - `goods_output_automobiles_mult` = `0.1` → [[vanilla/Товары/Автомобили|Автомобили]]
-  - `goods_output_paper_mult` = `0.15` → [[vanilla/Товары/Бумага|Бумага]]
-  - `interest_group_ig_industrialists_approval_add` = `3`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-automobiles-mult|goods_output_automobiles_mult]] = `0.1` → [[vanilla/Товары/Автомобили|Автомобили]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-paper-mult|goods_output_paper_mult]] = `0.15` → [[vanilla/Товары/Бумага|Бумага]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-approval-add|interest_group_ig_industrialists_approval_add]] = `3`
 - **ai_will_do**: скрипт, строки 2672–2682
 - **ai_construction_targets**: скрипт, строки 2684–2697
 - **ai_weight**: скрипт, строки 2699–2701

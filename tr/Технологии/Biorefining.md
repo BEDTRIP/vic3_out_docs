@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/Plastic Recovery|Plastic Recovery]], [[tr/Технологии/Urban Sustainability|Urban Sustainability]]
 - **modifier**:
-  - `goods_input_oil_mult` = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-mult|goods_input_oil_mult]] = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
   - `goods_input_plastics_mult` = `-0.05` → [[tr/Товары/Пластмассы|Пластмассы]]
 - **ai_weight**: скрипт, строки 1639–1650
 

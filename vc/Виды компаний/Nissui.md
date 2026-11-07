@@ -26,9 +26,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 6104–6110
 - **possible**: скрипт, строки 6112–6125
 - **prosperity_modifier**:
-  - `goods_output_fish_mult` = `0.15` → [[vanilla/Товары/Рыба|Рыба]]
-  - `building_group_bg_fishing_employee_mult` = `-0.25`
-  - `building_group_bg_whaling_employee_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-fish-mult|goods_output_fish_mult]] = `0.15` → [[vanilla/Товары/Рыба|Рыба]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-fishing-employee-mult|building_group_bg_fishing_employee_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-whaling-employee-mult|building_group_bg_whaling_employee_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 6133–6138
 - **ai_construction_targets**: скрипт, строки 6140–6147
 - **ai_weight**: скрипт, строки 6148–6150

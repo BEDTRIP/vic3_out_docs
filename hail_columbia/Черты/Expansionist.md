@@ -19,10 +19,10 @@ paths: [for addon/Hail Columbia/common/character_traits/usfp_character_traits.tx
 - **texture**: `gfx/interface/icons/character_trait_icons/expansionist.dds`
 - **character_modifier**: пусто
 - **command_modifier**:
-  - `unit_occupation_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-occupation-mult|unit_occupation_mult]] = `0.15`
 - **country_modifier**:
-  - `country_officers_pol_str_mult` = `0.10`
-  - `country_infamy_decay_mult` = `-0.07`
+  - [[vanilla/движок/Модификаторы C#^m-country-officers-pol-str-mult|country_officers_pol_str_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `-0.07`
 - **agitator_modifier**: пусто
 - **interest_group_modifier**: пусто
 - **possible**: скрипт, строки 23–25

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/job_creators.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_trade_advantage_mult` = `0.25`
-  - `state_capitalists_investment_pool_efficiency_mult` = `0.05`
-  - `state_trade_capacity_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-efficiency-mult|state_capitalists_investment_pool_efficiency_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.25`

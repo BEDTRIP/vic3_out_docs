@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/old_ways.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `-0.1`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `0.1`

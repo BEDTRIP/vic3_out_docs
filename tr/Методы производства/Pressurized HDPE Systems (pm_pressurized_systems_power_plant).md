@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_robotics_add` = `1` → [[tr/Товары/Robotics|Robotics]]
     - `goods_input_plastics_add` = `1` → [[tr/Товары/Пластмассы|Пластмассы]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **unlocking_production_methods**: [[tr/Методы производства/Early Power Plant (pm_early_power_plant_3)|Early Power Plant (pm_early_power_plant_3)]], [[tr/Методы производства/Coal-Fired Power Plant (pm_coal-fired_plant_3)|Coal-Fired Power Plant (pm_coal-fired_plant_3)]], [[tr/Методы производства/Oil-Fired Power Plant (pm_oil-fired_plant_3)|Oil-Fired Power Plant (pm_oil-fired_plant_3)]], [[tr/Методы производства/Gas-Fired Power Plant (pm_gas-fired_plant_3)|Gas-Fired Power Plant (pm_gas-fired_plant_3)]], [[tr/Методы производства/Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)|Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)]]
 
 ## Ссылаются

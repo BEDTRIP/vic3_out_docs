@@ -25,8 +25,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_airline_companies.txt]
 - **possible**: скрипт, строки 92–101
 - **prosperity_modifier**:
   - `building_aircraft_industry_throughput_add` = `0.1` → [[tr/Здания/Aerospace Industries|Aerospace Industries]]
-  - `state_infrastructure_from_population_add` = `2`
-  - `state_infrastructure_from_population_max_add` = `8`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `2`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `8`
 - **ai_will_do**: скрипт, строки 107–112
 - **ai_construction_targets**: скрипт, строки 113–120
 - **ai_weight**: скрипт, строки 121–123

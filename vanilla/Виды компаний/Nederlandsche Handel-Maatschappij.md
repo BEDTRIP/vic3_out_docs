@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 1128–1136
 - **possible**: скрипт, строки 1138–1165
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.05`
-  - `state_trade_capacity_mult` = `0.05`
-  - `building_group_bg_plantations_laborers_mortality_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-laborers-mortality-mult|building_group_bg_plantations_laborers_mortality_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 1173–1177
 - **ai_construction_targets**: скрипт, строки 1179–1198
 - **ai_weight**: скрипт, строки 1200–1202

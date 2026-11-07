@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **attainable**: скрипт, строки 278–284
 - **possible**: скрипт, строки 286–295
 - **prosperity_modifier**:
-  - `building_munition_plant_throughput_add` = `0.05` → [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
-  - `building_arms_industry_throughput_add` = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-munition-plant-throughput-add|building_munition_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
+  - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
 - **ai_will_do**: скрипт, строки 302–307
 - **ai_construction_targets**: скрипт, строки 309–322
 - **ai_weight**: скрипт, строки 324–326

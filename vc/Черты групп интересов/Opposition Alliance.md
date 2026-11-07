@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/social_criticism.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_loyalists_from_legitimacy_mult` = `-0.15`
-  - `country_law_enactment_stall_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalists-from-legitimacy-mult|country_loyalists_from_legitimacy_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-stall-mult|country_law_enactment_stall_mult]] = `0.1`

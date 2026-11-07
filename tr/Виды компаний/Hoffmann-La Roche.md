@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 25–32
 - **possible**: скрипт, строки 33–43
 - **prosperity_modifier**:
-  - `state_birth_rate_mult` = `0.02`
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
-  - `state_turmoil_effects_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.02`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.1`
 - **ai_will_do**: скрипт, строки 49–55
 - **ai_construction_targets**: скрипт, строки 56–63
 - **ai_weight**: скрипт, строки 64–66

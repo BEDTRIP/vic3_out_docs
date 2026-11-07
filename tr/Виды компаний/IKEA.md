@@ -26,8 +26,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **attainable**: скрипт, строки 35–42
 - **possible**: скрипт, строки 43–53
 - **prosperity_modifier**:
-  - `goods_output_furniture_mult` = `0.1` → [[vanilla/Товары/Мебель|Мебель]]
-  - `state_standard_of_living_add` = `0.25`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-furniture-mult|goods_output_furniture_mult]] = `0.1` → [[vanilla/Товары/Мебель|Мебель]]
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
 - **ai_will_do**: скрипт, строки 58–64
 - **ai_construction_targets**: скрипт, строки 65–72
 - **ai_weight**: скрипт, строки 73–75

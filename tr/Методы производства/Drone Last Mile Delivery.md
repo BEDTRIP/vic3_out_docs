@@ -20,10 +20,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_robotics_add` = `2` → [[tr/Товары/Robotics|Robotics]]
-    - `goods_input_automobiles_add` = `1` → [[tr/Товары/Автомобили|Автомобили]]
-    - `goods_input_transportation_add` = `15` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-automobiles-add|goods_input_automobiles_add]] = `1` → [[tr/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `15` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `-500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-500` → [[vanilla/Население/Типы/Механики|Механики]]
 - **unlocking_production_methods**: [[tr/Методы производства/Light Store Pickup|Light Store Pickup]]
 
 ## Ссылаются

@@ -24,8 +24,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_consulting_firm_companies.tx
 - **attainable**: скрипт, строки 93–102
 - **possible**: скрипт, строки 103–116
 - **prosperity_modifier**:
-  - `state_pop_qualifications_mult` = `0.1`
-  - `state_capitalists_investment_pool_efficiency_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-capitalists-investment-pool-efficiency-mult|state_capitalists_investment_pool_efficiency_mult]] = `0.02`
   - `building_pharmaceuticals_industry_throughput_add` = `0.05` → [[tr/Здания/Pharmaceuticals Industries|Pharmaceuticals Industries]]
 - **ai_will_do**: скрипт, строки 122–131
 - **ai_construction_targets**: скрипт, строки 132–142

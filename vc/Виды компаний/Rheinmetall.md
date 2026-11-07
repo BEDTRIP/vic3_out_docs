@@ -36,9 +36,9 @@ replaces: "[[vanilla/Виды компаний/Rheinmetall]]"
 - **attainable**: скрипт, строки 340–349
 - **possible**: скрипт, строки 351–368
 - **prosperity_modifier**:
-  - `unit_combat_unit_type_siege_artillery_offense_mult` = `0.1`
-  - `unit_combat_unit_type_shrapnel_artillery_offense_mult` = `0.1`
-  - `goods_output_steel_mult` = `0.05` → [[vanilla/Товары/Сталь|Сталь]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-combat-unit-type-siege-artillery-offense-mult|unit_combat_unit_type_siege_artillery_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-combat-unit-type-shrapnel-artillery-offense-mult|unit_combat_unit_type_shrapnel_artillery_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-steel-mult|goods_output_steel_mult]] = `0.05` → [[vanilla/Товары/Сталь|Сталь]]
 - **ai_will_do**: скрипт, строки 376–385
 - **ai_construction_targets**: скрипт, строки 387–418
 - **ai_weight**: скрипт, строки 420–422

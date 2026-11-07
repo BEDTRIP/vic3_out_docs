@@ -21,13 +21,13 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_economic_incentives_industry.t
 - **unlocking_laws**: пусто
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `state_construction_mult` = `0.10`
-  - `country_bureaucracy_investment_cost_factor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `0.05`
 - **institution**: `institution_incentive_tertiary`
 - **institution_modifier**:
   - `building_group_bg_industry_light_tax_mult` = `-0.05`
   - `building_group_bg_industry_light_throughput_add` = `0.05`
-  - `country_capitalists_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-capitalists-pol-str-mult|country_capitalists_pol_str_mult]] = `0.20`
 - **on_activate**: скрипт, строки 101–105
 - **ai_enact_weight_modifier**: скрипт, строки 107–114
 

@@ -18,17 +18,17 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/mMoG_USU_MR_d
 - **texture**: `gfx/interface/icons/production_method_icons/dubois_nr_national_park_pm.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `2` → [[vanilla/Товары/Бумага|Бумага]]
-    - `goods_input_tools_add` = `2` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_output_services_add` = `50` → [[vanilla/Товары/Услуги|Услуги]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `2` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `2` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `50` → [[vanilla/Товары/Услуги|Услуги]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `50` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_officers_add` = `50` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
-    - `building_employment_clerks_add` = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_academics_add` = `50` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `50` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-officers-add|building_employment_officers_add]] = `50` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `50` → [[vanilla/Население/Типы/Учёные|Учёные]]
 - **country_modifiers**:
   - **unscaled**:
-    - `country_society_tech_research_speed_mult` = `0.01`
+    - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.01`
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_pollution_generation_add` = `-100`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `-100`

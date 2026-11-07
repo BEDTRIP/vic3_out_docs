@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_societ
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Профилактика малярии|Профилактика малярии]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.02`
 - **ai_weight**: скрипт, строки 149–151
 
 ## Ссылаются

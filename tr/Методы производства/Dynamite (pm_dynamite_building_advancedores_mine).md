@@ -18,15 +18,15 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/dynamite.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `15`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `15`
 - **unlocking_technologies**: [[vanilla/Технологии/Динамит|Динамит]]
 - **unlocking_production_methods**: [[tr/Методы производства/Diesel Pump (pm_diesel_pump_building_advancedores_mine)|Diesel Pump (pm_diesel_pump_building_advancedores_mine)]], [[tr/Методы производства/Electric Fueled Pump (pm_electric_fueled_pump_building_advancedores_mine)|Electric Fueled Pump (pm_electric_fueled_pump_building_advancedores_mine)]], [[tr/Методы производства/Heavy Machineries (pm_heavy_machineries_building_advancedores_mine)|Heavy Machineries (pm_heavy_machineries_building_advancedores_mine)]], [[tr/Методы производства/A&R Operations (pm_autonomous_and_remote_ops_building_advancedores_mine)|A&R Operations (pm_autonomous_and_remote_ops_building_advancedores_mine)]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_explosives_add` = `10` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `10` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
     - `goods_output_advancedores_add` = `10` → [[tr/Товары/Advanced Ores|Advanced Ores]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

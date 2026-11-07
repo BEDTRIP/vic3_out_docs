@@ -19,9 +19,9 @@ paths: [.vanillaVIC3/common/production_methods/12_subsistence.txt]
 - **unlocking_laws**: [[vanilla/Законы/Крепостное право|Крепостное право]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_grain_add` = `1` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `1` → [[vanilla/Товары/Зерно|Зерно]]
   - **unscaled**:
-    - `building_subsistence_output_add` = `3`
+    - [[vanilla/движок/Модификаторы B#^m-building-subsistence-output-add|building_subsistence_output_add]] = `3`
 
 ## Ссылаются
 

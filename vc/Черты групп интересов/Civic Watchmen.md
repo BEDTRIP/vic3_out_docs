@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/treasury_bonds.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `political_movement_radicalism_add` = `-0.15`
-  - `state_turmoil_effects_mult` = `-0.15`
-  - `country_loyalism_increases_full_acceptance_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-add|political_movement_radicalism_add]] = `-0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalism-increases-full-acceptance-mult|country_loyalism_increases_full_acceptance_mult]] = `0.1`

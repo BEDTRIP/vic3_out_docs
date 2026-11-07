@@ -27,9 +27,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 263–269
 - **possible**: скрипт, строки 271–281
 - **prosperity_modifier**:
-  - `unit_army_offense_mult` = `0.05`
-  - `unit_morale_damage_mult` = `0.1`
-  - `unit_army_defense_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-damage-mult|unit_morale_damage_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 289–294
 - **ai_construction_targets**: скрипт, строки 296–303
 - **ai_weight**: скрипт, строки 306–308

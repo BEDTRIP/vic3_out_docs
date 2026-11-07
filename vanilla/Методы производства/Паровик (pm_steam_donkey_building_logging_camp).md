@@ -20,10 +20,10 @@ paths: [.vanillaVIC3/common/production_methods/09_misc_resource.txt]
 - **disallowing_laws**: [[vanilla/Законы/Запрет промышленности|Запрет промышленности]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_coal_add` = `4` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `1` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `4` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

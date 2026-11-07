@@ -23,8 +23,8 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_mining_policy.txt]
 - **modifier**:
   - `building_advancedores_mine_throughput_add` = `0.05` → [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]
   - `building_rare_earths_mine_throughput_add` = `0.05` → [[tr/Здания/Rare Earths Mines|Rare Earths Mines]]
-  - `building_minimum_wage_mult` = `0.05`
-  - `state_pollution_reduction_health_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-minimum-wage-mult|building_minimum_wage_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-pollution-reduction-health-mult|state_pollution_reduction_health_mult]] = `-0.05`
 - **on_activate**: скрипт, строки 69–71
 - **ai_enact_weight_modifier**: скрипт, строки 74–81
 

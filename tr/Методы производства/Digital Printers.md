@@ -19,9 +19,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/User Interface|User Interface]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `50` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `50` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_input_computer_add` = `10` → [[tr/Товары/Computers|Computers]]
-    - `goods_input_dye_add` = `15` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-dye-add|goods_input_dye_add]] = `15` → [[vanilla/Товары/Красители|Красители]]
     - `goods_input_robotics_add` = `5` → [[tr/Товары/Robotics|Robotics]]
     - `goods_input_softwares_add` = `5` → [[tr/Товары/Software|Software]]
     - `goods_output_manzoni_prints_add` = `115` → [[tr/Товары/Media Content|Media Content]]

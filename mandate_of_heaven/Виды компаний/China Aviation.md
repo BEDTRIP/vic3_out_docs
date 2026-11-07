@@ -24,7 +24,7 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 200–204
 - **possible**: скрипт, строки 205–213
 - **prosperity_modifier**:
-  - `state_infrastructure_add` = `2`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-add|state_infrastructure_add]] = `2`
 - **ai_weight**: скрипт, строки 217–219
 - **ai_will_do**: скрипт, строки 220–226
 - **ai_construction_targets**: скрипт, строки 227–235

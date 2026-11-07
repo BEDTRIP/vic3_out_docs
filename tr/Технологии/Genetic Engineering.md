@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Genetic Disease Screening|Genetic Disease Screening]]
 - **modifier**:
-  - `state_mortality_mult` = `-0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.01`
 - **ai_weight**: скрипт, строки 731–733
 
 ## Ссылаются

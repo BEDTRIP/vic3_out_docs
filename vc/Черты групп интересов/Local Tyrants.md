@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/noble_privileges.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_construction_mult` = `-0.05`
-  - `state_tax_waste_add` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-waste-add|state_tax_waste_add]] = `0.15`

@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/precision_ammunition.dds`
 - **category**: `military`
 - **modifier**:
-  - `country_military_wages_mult` = `0.25`
-  - `unit_army_offense_mult` = `0.25`
-  - `building_artillery_foundry_throughput_add` = `0.05` → [[tr/Здания/Артиллерийские заводы|Артиллерийские заводы]]
-  - `unit_kill_rate_add` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-artillery-foundry-throughput-add|building_artillery_foundry_throughput_add]] = `0.05` → [[tr/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-kill-rate-add|unit_kill_rate_add]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Assault Rifle|Assault Rifle]]
 - **ai_weight**: скрипт, строки 644–652
 

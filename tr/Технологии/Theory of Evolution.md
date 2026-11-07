@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_societ
 - **texture**: `gfx/interface/icons/invention_icons/dubois_theory_of_evolution_tech.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_tech_spread_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `0.25`
 - **unlocking_technologies**: [[vanilla/Технологии/Диалектика|Диалектика]], [[tr/Технологии/Фармацевтика|Фармацевтика]]
 - **ai_weight**: скрипт, строки 22–30
 

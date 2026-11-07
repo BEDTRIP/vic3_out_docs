@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/tax_avoidance.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_construction_goods_cost_mult` = `0.05`
-  - `country_company_throughput_bonus_add` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-construction-goods-cost-mult|country_construction_goods_cost_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-throughput-bonus-add|country_company_throughput_bonus_add]] = `-0.1`

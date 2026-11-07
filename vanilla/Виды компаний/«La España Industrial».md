@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1406–1412
 - **possible**: скрипт, строки 1414–1424
 - **prosperity_modifier**:
-  - `country_weekly_innovation_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.15`
 - **ai_will_do**: скрипт, строки 1430–1436
 - **ai_construction_targets**: скрипт, строки 1438–1445
 - **ai_weight**: скрипт, строки 1447–1449

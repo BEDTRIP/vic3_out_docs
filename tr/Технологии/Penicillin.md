@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/penicillin.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_institution_health_system_max_investment_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-health-system-max-investment-add|country_institution_health_system_max_investment_add]] = `1`
 - **unlocking_technologies**: [[tr/Технологии/Antitoxins|Antitoxins]]
 - **ai_weight**: скрипт, строки 129–131
 

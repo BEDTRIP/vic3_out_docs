@@ -20,7 +20,7 @@ paths: [for addon/Mandate of Heaven/common/technology/technologies/moh_productio
 - **category**: `production`
 - **can_research**: `no`
 - **modifier**:
-  - `building_glassworks_throughput_add` = `0.15` → [[vanilla/Здания/Стеклозаводы|Стеклозаводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-glassworks-throughput-add|building_glassworks_throughput_add]] = `0.15` → [[vanilla/Здания/Стеклозаводы|Стеклозаводы]]
 - **ai_weight**: скрипт, строки 11–13
 
 ## Ссылаются

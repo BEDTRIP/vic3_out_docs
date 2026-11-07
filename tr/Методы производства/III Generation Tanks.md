@@ -19,14 +19,14 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **unlocking_technologies**: [[tr/Технологии/Main Battle Tank|Main Battle Tank]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_artillery_add` = `10` → [[vanilla/Товары/Артиллерия|Артиллерия]]
-    - `goods_input_steel_add` = `26` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-artillery-add|goods_input_artillery_add]] = `10` → [[vanilla/Товары/Артиллерия|Артиллерия]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `26` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_alloys_add` = `12` → [[tr/Товары/Alloys|Alloys]]
     - `goods_input_advancedores_add` = `5` → [[tr/Товары/Advanced Ores|Advanced Ores]]
-    - `goods_output_automobiles_add` = `-15` → [[tr/Товары/Автомобили|Автомобили]]
-    - `goods_output_tanks_add` = `70` → [[vanilla/Товары/Танки|Танки]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-automobiles-add|goods_output_automobiles_add]] = `-15` → [[tr/Товары/Автомобили|Автомобили]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-tanks-add|goods_output_tanks_add]] = `70` → [[vanilla/Товары/Танки|Танки]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

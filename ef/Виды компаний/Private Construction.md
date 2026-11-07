@@ -24,4 +24,4 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]]
 - **possible**: скрипт, строки 6673–6679
 - **prosperity_modifier**:
-  - `state_construction_mult` = `0.025`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.025`

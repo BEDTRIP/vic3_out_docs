@@ -19,11 +19,11 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **state_modifiers**:
   - **workforce_scaled**: пусто
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.7`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.7`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `60`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `60`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `1000` → [[grey_soft_pop/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_capitalists_add` = `100` → [[grey_soft_pop/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `1000` → [[grey_soft_pop/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `100` → [[grey_soft_pop/Население/Типы/Капиталисты|Капиталисты]]

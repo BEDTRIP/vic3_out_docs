@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_bioethics.txt]
 - **icon**: `gfx/interface/icons/law_icons/law_life_rights.dds`
 - **progressiveness**: `-50`
 - **modifier**:
-  - `state_education_access_add` = `-0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-add|state_education_access_add]] = `-0.02`
 - **ai_enact_weight_modifier**: скрипт, строки 12–19
 
 ## Ссылаются

@@ -18,17 +18,17 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_expanded_roster.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_bureaucracy_add` = `-200`
-    - `country_prestige_add` = `50`
+    - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-add|country_bureaucracy_add]] = `-200`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `50`
     - `country_expanded_chariot_racing_active` = `yes`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_grain_add` = `60` → [[vanilla/Товары/Зерно|Зерно]]
-    - `goods_input_wood_add` = `30` → [[vanilla/Товары/Древесина|Древесина]]
-    - `goods_input_fabric_add` = `30` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-grain-add|goods_input_grain_add]] = `60` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `30` → [[vanilla/Товары/Древесина|Древесина]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `30` → [[vanilla/Товары/Ткань|Ткань]]
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `60` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_laborers_add` = `440` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `60` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `440` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 
 ## Ссылаются
 

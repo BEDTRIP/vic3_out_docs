@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
 - **unlocking_technologies**: [[tr/Технологии/Modern Physics|Modern Physics]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_tech_spread_mult` = `0.15`
-    - `country_production_tech_research_speed_mult` = `0.15`
+    - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `0.15`
+    - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.15`
   - **unscaled**:
-    - `interest_group_ig_industrialists_approval_add` = `2`
+    - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-approval-add|interest_group_ig_industrialists_approval_add]] = `2`
 
 ## Ссылаются
 

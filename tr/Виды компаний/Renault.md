@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 761–767
 - **possible**: скрипт, строки 768–778
 - **prosperity_modifier**:
-  - `military_formation_army_movement_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы M#^m-military-formation-army-movement-speed-mult|military_formation_army_movement_speed_mult]] = `0.05`
   - `building_battery_plant_throughput_add` = `0.1` → [[tr/Здания/Battery Plants|Battery Plants]]
 - **ai_will_do**: скрипт, строки 783–789
 - **ai_construction_targets**: скрипт, строки 790–797

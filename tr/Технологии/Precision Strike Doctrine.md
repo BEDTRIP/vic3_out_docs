@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **modifier**:
   - `unit_navy_defense_mult` = `0.35`
   - `unit_navy_offense_mult` = `0.2`
-  - `country_military_goods_cost_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.25`
 - **ai_weight**: скрипт, строки 1083–1085
 
 ## Ссылаются

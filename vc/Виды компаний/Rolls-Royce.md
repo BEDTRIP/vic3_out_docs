@@ -26,9 +26,9 @@ paths: [VC/common/company_types/joi_companies.txt]
 - **attainable**: скрипт, строки 7315–7321
 - **possible**: скрипт, строки 7323–7339
 - **prosperity_modifier**:
-  - `unit_army_offense_mult` = `0.05`
-  - `goods_output_aeroplanes_mult` = `0.1` → [[vanilla/Товары/Аэропланы|Аэропланы]]
-  - `goods_output_engines_mult` = `0.15` → [[vanilla/Товары/Двигатели|Двигатели]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-aeroplanes-mult|goods_output_aeroplanes_mult]] = `0.1` → [[vanilla/Товары/Аэропланы|Аэропланы]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-engines-mult|goods_output_engines_mult]] = `0.15` → [[vanilla/Товары/Двигатели|Двигатели]]
 - **ai_will_do**: скрипт, строки 7347–7352
 - **ai_construction_targets**: скрипт, строки 7354–7361
 - **ai_weight**: скрипт, строки 7363–7365

@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/middle_managers.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_bureaucracy_mult` = `0.05`
-  - `country_loan_interest_rate_mult` = `-0.1`
-  - `country_law_enactment_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-mult|country_bureaucracy_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `0.1`

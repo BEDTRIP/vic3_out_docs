@@ -20,10 +20,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_pharmaceuticals_add` = `1` → [[tr/Товары/Фармацевтика|Фармацевтика]]
-    - `goods_input_groceries_add` = `1` → [[vanilla/Товары/Продукты|Продукты]]
-    - `goods_input_tools_add` = `1` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-groceries-add|goods_input_groceries_add]] = `1` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `1` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **unscaled**:
-    - `building_throughput_add` = `0.15`
+    - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.15`
 
 ## Ссылаются
 

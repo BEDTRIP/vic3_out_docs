@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/tax_avoidance.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_trade_advantage_mult` = `-0.15`
-  - `country_company_throughput_bonus_add` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-company-throughput-bonus-add|country_company_throughput_bonus_add]] = `-0.1`

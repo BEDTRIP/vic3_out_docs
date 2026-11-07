@@ -18,14 +18,14 @@ paths: [VC/common/character_traits/joi_special_personality_traits.txt]
 - **type**: `personality`
 - **texture**: `gfx/interface/icons/character_trait_icons/special_character_traits/special_character_napoleon_of_the_americas.dds`
 - **character_modifier**:
-  - `character_command_limit_mult` = `0.5`
-  - `character_popularity_add` = `50`
-  - `character_health_add` = `0.5`
-  - `character_prominence_add` = `25`
+  - [[vanilla/движок/Модификаторы C#^m-character-command-limit-mult|character_command_limit_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `50`
+  - [[vanilla/движок/Модификаторы C#^m-character-health-add|character_health_add]] = `0.5`
+  - [[vanilla/движок/Модификаторы C#^m-character-prominence-add|character_prominence_add]] = `25`
 - **command_modifier**:
-  - `unit_army_offense_add` = `5`
-  - `unit_army_defense_add` = `5`
-  - `unit_morale_loss_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-add|unit_army_offense_add]] = `5`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-add|unit_army_defense_add]] = `5`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.1`
 - **country_modifier**: пусто
 - **agitator_modifier**: пусто
 - **executive_modifier**: пусто

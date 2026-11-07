@@ -18,11 +18,11 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_08_monuments_m
 - **texture**: `gfx/interface/icons/production_method_icons/gbbf_inactive_building.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `5`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `5`
 - **building_modifiers**:
   - **workforce_scaled**: пусто
   - **level_scaled**:
-    - `building_employment_laborers_add` = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **unlocking_production_methods**: `pm_gbbf_topkapi_palace_inactive`
 
 ## Ссылаются

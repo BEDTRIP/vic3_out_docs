@@ -39,9 +39,9 @@ replaces: "[[vanilla/Виды компаний/«Siemens & Halske»]]"
 - **attainable**: скрипт, строки 1841–1847
 - **possible**: скрипт, строки 1849–1862
 - **prosperity_modifier**:
-  - `goods_output_radios_mult` = `0.15` → [[vanilla/Товары/Радио|Радио]]
-  - `goods_output_telephones_mult` = `0.25` → [[vanilla/Товары/Телефоны|Телефоны]]
-  - `country_weekly_innovation_max_add` = `10`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-radios-mult|goods_output_radios_mult]] = `0.15` → [[vanilla/Товары/Радио|Радио]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-telephones-mult|goods_output_telephones_mult]] = `0.25` → [[vanilla/Товары/Телефоны|Телефоны]]
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `10`
 - **ai_will_do**: скрипт, строки 1870–1876
 - **ai_construction_targets**: скрипт, строки 1878–1885
 - **ai_weight**: скрипт, строки 1887–1889

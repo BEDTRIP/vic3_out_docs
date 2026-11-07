@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/honest_work.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `state_infrastructure_mult` = `0.1`
-  - `state_birth_rate_mult` = `0.05`
-  - `state_lower_strata_expected_sol_add` = `-1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-lower-strata-expected-sol-add|state_lower_strata_expected_sol_add]] = `-1`

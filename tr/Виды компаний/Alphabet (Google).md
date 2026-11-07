@@ -24,8 +24,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **attainable**: скрипт, строки 840–846
 - **possible**: скрипт, строки 847–860
 - **prosperity_modifier**:
-  - `building_throughput_add` = `0.01`
-  - `country_tech_research_speed_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.01`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.02`
 - **ai_will_do**: скрипт, строки 865–871
 - **ai_construction_targets**: скрипт, строки 872–879
 - **ai_weight**: скрипт, строки 880–882

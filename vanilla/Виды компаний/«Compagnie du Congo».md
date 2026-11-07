@@ -24,8 +24,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **potential**: скрипт, строки 21–23
 - **possible**: скрипт, строки 25–44
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.15`
-  - `building_group_bg_rubber_mortality_mult` = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-rubber-mortality-mult|building_group_bg_rubber_mortality_mult]] = `0.2`
 - **ai_will_do**: скрипт, строки 51–62
 - **ai_construction_targets**: скрипт, строки 64–71
 - **ai_weight**: скрипт, строки 73–75

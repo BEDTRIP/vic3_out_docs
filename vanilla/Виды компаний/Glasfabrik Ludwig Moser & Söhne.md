@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 27–35
 - **possible**: скрипт, строки 37–46
 - **prosperity_modifier**:
-  - `country_influence_mult` = `0.05`
-  - `building_art_academy_throughput_add` = `0.05` → [[vanilla/Здания/Академии искусств|Академии искусств]]
-  - `country_leverage_generation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.05` → [[vanilla/Здания/Академии искусств|Академии искусств]]
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 54–59
 - **ai_construction_targets**: скрипт, строки 61–68
 - **ai_weight**: скрипт, строки 70–72

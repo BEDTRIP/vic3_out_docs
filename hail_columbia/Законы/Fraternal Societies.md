@@ -21,8 +21,8 @@ paths: [for addon/Hail Columbia/common/laws/usfp_native_laws.txt]
 - **progressiveness**: `-25`
 - **is_visible**: скрипт, строки 8–13
 - **modifier**:
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.25`
-  - `state_loyalism_increases_full_acceptance_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-loyalism-increases-full-acceptance-mult|state_loyalism_increases_full_acceptance_mult]] = `0.10`
 - **disallowing_laws**: [[vanilla/Законы/Советская республика|Советская республика]]
 - **unlocking_laws**: [[vanilla/Законы/Вождество|Вождество]]
 - **ai_will_do**: скрипт, строки 38–40

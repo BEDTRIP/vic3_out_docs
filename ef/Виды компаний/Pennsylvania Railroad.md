@@ -26,6 +26,6 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **attainable**: скрипт, строки 6872–6878
 - **prosperity_modifier**:
   - `military_formation_movement_speed_mult` = `0.15`
-  - `state_infrastructure_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 6885–6890
 - **ai_weight**: скрипт, строки 6892–6894

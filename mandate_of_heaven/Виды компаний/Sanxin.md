@@ -26,7 +26,7 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **possible_prestige_goods**: `prestige_good_generic_opium`
 - **possible**: скрипт, строки 264–274
 - **prosperity_modifier**:
-  - `goods_output_services_add` = `5` → [[vanilla/Товары/Услуги|Услуги]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-services-add|goods_output_services_add]] = `5` → [[vanilla/Товары/Услуги|Услуги]]
 - **ai_weight**: скрипт, строки 278–280
 - **ai_will_do**: скрипт, строки 281–287
 - **ai_construction_targets**: скрипт, строки 288–296

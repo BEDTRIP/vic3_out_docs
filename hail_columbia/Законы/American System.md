@@ -22,9 +22,9 @@ paths: [for addon/Hail Columbia/common/laws/usfp_law_variants.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Фондовая биржа|Фондовая биржа]]
 - **is_visible**: скрипт, строки 12–14
 - **modifier**:
-  - `state_tariff_import_add` = `1.00`
-  - `state_tariff_export_add` = `0.00`
-  - `state_subvention_export_add` = `0.50`
-  - `state_subvention_import_add` = `0.50`
-  - `country_leverage_resistance_mult` = `0.35`
+  - [[vanilla/движок/Модификаторы S#^m-state-tariff-import-add|state_tariff_import_add]] = `1.00`
+  - [[vanilla/движок/Модификаторы S#^m-state-tariff-export-add|state_tariff_export_add]] = `0.00`
+  - [[vanilla/движок/Модификаторы S#^m-state-subvention-export-add|state_subvention_export_add]] = `0.50`
+  - [[vanilla/движок/Модификаторы S#^m-state-subvention-import-add|state_subvention_import_add]] = `0.50`
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-resistance-mult|country_leverage_resistance_mult]] = `0.35`
 - **ai_enact_weight_modifier**: скрипт, строки 28–36

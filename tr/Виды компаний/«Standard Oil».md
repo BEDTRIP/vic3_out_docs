@@ -25,6 +25,6 @@ replaces: "[[vanilla/Виды компаний/«Standard Oil»]]"
 - **building_types**: [[tr/Здания/Natural Gas Rigs|Natural Gas Rigs]], [[tr/Здания/Oil Refineries|Oil Refineries]]
 - **extension_building_types**: [[tr/Здания/Petrochemical Industries|Petrochemical Industries]]
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `-0.2` → [[tr/Здания/Железные дороги|Железные дороги]]
-  - `state_migration_pull_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `-0.2` → [[tr/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
   - `building_natural_gas_rig_throughput_add` = `0.15` → [[tr/Здания/Natural Gas Rigs|Natural Gas Rigs]]

@@ -19,10 +19,10 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/agassiz_sounding_tech.dds`
 - **category**: `military`
 - **modifier**:
-  - `building_group_bg_fishing_throughput_add` = `0.1`
-  - `ship_detection_mult` = `0.15`
-  - `ship_screening_mult` = `0.1`
-  - `ship_accuracy_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-fishing-throughput-add|building_group_bg_fishing_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-detection-mult|ship_detection_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-ship-screening-mult|ship_screening_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-accuracy-mult|ship_accuracy_mult]] = `0.1`
 - **unlocking_technologies**: [[vanilla/Технологии/Подводная лодка|Подводная лодка]]
 - **ai_weight**: скрипт, строки 94–102
 

@@ -19,13 +19,13 @@ paths: [llwa/common/production_methods/LLWA_air.txt]
 - **unlocking_production_methods**: [[llwa/Методы производства/Дирижабли|Дирижабли]], [[llwa/Методы производства/Аэропланы|Аэропланы]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_luxury_furniture_add` = `10` → [[vanilla/Товары/Роскошная мебель|Роскошная мебель]]
-    - `goods_output_transportation_add` = `50` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-luxury-furniture-add|goods_input_luxury_furniture_add]] = `10` → [[vanilla/Товары/Роскошная мебель|Роскошная мебель]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-transportation-add|goods_output_transportation_add]] = `50` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `200` → [[vanilla/Население/Типы/Служащие|Служащие]]
 - **state_modifiers**:
   - **unscaled**:
-    - `state_migration_pull_add` = `5`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-add|state_migration_pull_add]] = `5`
 
 ## Ссылаются
 

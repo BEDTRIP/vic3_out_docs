@@ -19,7 +19,7 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_condition_traits
 - **texture**: `gfx/interface/icons/character_trait_icons/gbbf_consumption.dds`
 - **value**: `0`
 - **character_modifier**:
-  - `character_health_add` = `-0.5`
+  - [[vanilla/движок/Модификаторы C#^m-character-health-add|character_health_add]] = `-0.5`
 - **possible**: скрипт, строки 35–37
 - **weight**:
   - `value` = `0`

@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **attainable**: скрипт, строки 1051–1059
 - **possible**: скрипт, строки 1061–1071
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.05`
-  - `building_group_bg_logging_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-throughput-add|building_group_bg_logging_throughput_add]] = `0.1`
 - **ai_will_do**: скрипт, строки 1078–1082
 - **ai_construction_targets**: скрипт, строки 1084–1091
 - **ai_weight**: скрипт, строки 1093–1095

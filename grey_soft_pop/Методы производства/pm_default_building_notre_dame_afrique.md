@@ -20,11 +20,11 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **state_modifiers**:
   - **workforce_scaled**: пусто
   - **unscaled**:
-    - `state_migration_pull_add` = `2`
-    - `state_migration_pull_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-add|state_migration_pull_add]] = `2`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `interest_group_ig_devout_pol_str_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `0.1`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_clergymen_add` = `1000` → [[grey_soft_pop/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `1000` → [[grey_soft_pop/Население/Типы/Священнослужители|Священнослужители]]

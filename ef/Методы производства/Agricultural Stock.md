@@ -18,7 +18,7 @@ paths: [E&F/common/production_methods/02_ef_agro.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/agricultural_stock_exchange_b.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_agricultural_stock_add` = `5` → [[ef/Товары/Agricultural Stock|Agricultural Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-agricultural-stock-add|goods_output_agricultural_stock_add]] = `5` → [[ef/Товары/Agricultural Stock|Agricultural Stock]]
 
 ## Ссылаются
 

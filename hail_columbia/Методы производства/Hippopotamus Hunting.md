@@ -18,13 +18,13 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/hippo_hunting.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_small_arms_add` = `10` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
-    - `goods_output_meat_add` = `30` → [[vanilla/Товары/Мясо|Мясо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-small-arms-add|goods_input_small_arms_add]] = `10` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-meat-add|goods_output_meat_add]] = `30` → [[vanilla/Товары/Мясо|Мясо]]
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.3`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.3`
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_pollution_generation_add` = `10`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `10`
 
 ## Ссылаются
 

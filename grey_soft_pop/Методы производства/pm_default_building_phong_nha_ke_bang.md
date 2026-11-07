@@ -18,14 +18,14 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `50`
-    - `country_influence_add` = `200`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `50`
+    - [[vanilla/движок/Модификаторы C#^m-country-influence-add|country_influence_add]] = `200`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_group_bg_mining_throughput_add` = `0.2`
+    - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-throughput-add|building_group_bg_mining_throughput_add]] = `0.2`
   - **unscaled**:
-    - `state_migration_pull_add` = `2`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-add|state_migration_pull_add]] = `2`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `1000` → [[grey_soft_pop/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_laborers_add` = `1000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `1000` → [[grey_soft_pop/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]

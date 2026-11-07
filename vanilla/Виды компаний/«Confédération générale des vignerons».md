@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **potential**: скрипт, строки 245–250
 - **possible**: скрипт, строки 252–262
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.15`
-  - `building_vineyard_throughput_add` = `0.1` → [[vanilla/Здания/Виноградники|Виноградники]]
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы B#^m-building-vineyard-throughput-add|building_vineyard_throughput_add]] = `0.1` → [[vanilla/Здания/Виноградники|Виноградники]]
 - **ai_will_do**: скрипт, строки 269–275
 - **ai_construction_targets**: скрипт, строки 277–284
 - **ai_weight**: скрипт, строки 286–288

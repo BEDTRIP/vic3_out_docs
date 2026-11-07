@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/xenophobia.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_infamy_generation_mult` = `0.1`
-  - `country_radicals_from_conquest_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicals-from-conquest-mult|country_radicals_from_conquest_mult]] = `0.15`

@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[vanilla/Технологии/Хинин|Хинин]]
 - **modifier**:
-  - `building_food_industry_throughput_add` = `0.1` → [[tr/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.1` → [[tr/Здания/Пищевые производства|Пищевые производства]]
 - **ai_weight**: скрипт, строки 127–129
 
 ## Ссылаются

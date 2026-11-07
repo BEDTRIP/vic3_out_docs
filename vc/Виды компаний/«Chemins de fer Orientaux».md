@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/«Chemins de fer Orientaux»]]"
   - `owns_entire_state_region` = `STATE_EASTERN_THRACE`
 - **possible**: скрипт, строки 5472–5485
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `building_group_bg_infrastructure_employee_mult` = `-0.1`
-  - `country_construction_goods_cost_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-infrastructure-employee-mult|building_group_bg_infrastructure_employee_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-construction-goods-cost-mult|country_construction_goods_cost_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 5494–5502
 - **ai_construction_targets**: скрипт, строки 5504–5512
 - **ai_weight**: скрипт, строки 5514–5516

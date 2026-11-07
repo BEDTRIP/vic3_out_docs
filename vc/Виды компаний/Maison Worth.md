@@ -35,9 +35,9 @@ replaces: "[[vanilla/Виды компаний/Maison Worth]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 3670–3679
 - **prosperity_modifier**:
-  - `country_influence_mult` = `0.1`
-  - `goods_output_luxury_clothes_mult` = `0.05` → [[vanilla/Товары/Роскошная одежда|Роскошная одежда]]
-  - `state_migration_pull_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-luxury-clothes-mult|goods_output_luxury_clothes_mult]] = `0.05` → [[vanilla/Товары/Роскошная одежда|Роскошная одежда]]
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.25`
 - **ai_will_do**: скрипт, строки 3687–3692
 - **ai_construction_targets**: скрипт, строки 3694–3701
 - **ai_weight**: скрипт, строки 3703–3705

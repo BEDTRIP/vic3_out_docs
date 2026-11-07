@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/social_media.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_influence_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.1`
 - **unlocking_technologies**: [[tr/Технологии/Internet|Internet]]
 - **ai_weight**: скрипт, строки 1303–1305
 

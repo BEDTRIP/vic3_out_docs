@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/solidarity.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_dependent_wage_mult` = `0.25`
-  - `state_working_adult_ratio_add` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-dependent-wage-mult|state_dependent_wage_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`

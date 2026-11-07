@@ -24,8 +24,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 992–994
 - **possible**: скрипт, строки 996–1004
 - **prosperity_modifier**:
-  - `building_automotive_industry_throughput_add` = `0.15` → [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
-  - `state_infrastructure_from_automobiles_consumption_add` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.15` → [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-automobiles-consumption-add|state_infrastructure_from_automobiles_consumption_add]] = `0.10`
 - **ai_will_do**: скрипт, строки 1011–1018
 - **ai_construction_targets**: скрипт, строки 1020–1024
 - **ai_weight**: скрипт, строки 1026–1028

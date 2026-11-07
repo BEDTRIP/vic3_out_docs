@@ -29,6 +29,6 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **ai_will_do**: скрипт, строки 509–514
 - **ai_construction_targets**: скрипт, строки 516–523
 - **prosperity_modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.1`
-  - `building_sulfur_mine_throughput_add` = `0.05` → [[vanilla/Здания/Серные рудники|Серные рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-sulfur-mine-throughput-add|building_sulfur_mine_throughput_add]] = `0.05` → [[vanilla/Здания/Серные рудники|Серные рудники]]
 - **ai_weight**: скрипт, строки 530–532

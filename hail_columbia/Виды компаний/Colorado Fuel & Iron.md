@@ -24,10 +24,10 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 649–655
 - **possible**: скрипт, строки 657–677
 - **prosperity_modifier**:
-  - `building_coal_mine_throughput_add` = `0.10` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
-  - `building_iron_mine_throughput_add` = `0.10` → [[vanilla/Здания/Железные рудники|Железные рудники]]
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.20`
-  - `state_radicals_from_political_movements_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.10` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
+  - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.10` → [[vanilla/Здания/Железные рудники|Железные рудники]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 686–705
 - **ai_construction_targets**: скрипт, строки 707–714
 - **ai_weight**: скрипт, строки 716–718

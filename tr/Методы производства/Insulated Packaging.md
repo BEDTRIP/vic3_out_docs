@@ -19,15 +19,15 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Supermarket|Supermarket]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fish_add` = `25` → [[vanilla/Товары/Рыба|Рыба]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fish-add|goods_input_fish_add]] = `25` → [[vanilla/Товары/Рыба|Рыба]]
     - `goods_input_aluminium_add` = `10` → [[tr/Товары/Aluminium|Aluminium]]
-    - `goods_input_grain_add` = `-30` → [[vanilla/Товары/Зерно|Зерно]]
-    - `goods_input_meat_add` = `25` → [[vanilla/Товары/Мясо|Мясо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-grain-add|goods_input_grain_add]] = `-30` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-meat-add|goods_input_meat_add]] = `25` → [[vanilla/Товары/Мясо|Мясо]]
     - `goods_input_plastics_add` = `10` → [[tr/Товары/Пластмассы|Пластмассы]]
-    - `goods_output_groceries_add` = `75` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-groceries-add|goods_output_groceries_add]] = `75` → [[vanilla/Товары/Продукты|Продукты]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `300` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `100` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `300` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `100` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

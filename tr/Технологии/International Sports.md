@@ -20,9 +20,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Спортивные организации|Спортивные организации]], [[tr/Технологии/International Organizations|International Organizations]]
 - **modifier**:
-  - `country_influence_mult` = `0.05`
-  - `country_improve_relations_speed_mult` = `0.05`
-  - `country_infamy_decay_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-improve-relations-speed-mult|country_improve_relations_speed_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 307–326
 
 ## Ссылаются

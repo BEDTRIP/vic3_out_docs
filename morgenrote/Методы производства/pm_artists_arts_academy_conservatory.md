@@ -23,9 +23,9 @@ paths: [Morgenrote/common/production_methods/mr_arts_artists_production_methods.
     - `country_artists_decorative_can_promote_composer_boolean` = `yes`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_paper_add` = `6` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `6` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_input_elgar_instruments_add` = `6` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
-    - `goods_output_fine_art_add` = `3` → [[vanilla/Товары/Картины|Картины]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-add|goods_output_fine_art_add]] = `3` → [[vanilla/Товары/Картины|Картины]]
 - **ai_value**: `-1000`
 
 ## Ссылаются

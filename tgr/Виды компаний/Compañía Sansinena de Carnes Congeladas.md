@@ -37,8 +37,8 @@ replaces: "[[vanilla/Виды компаний/Compañía Sansinena de Carnes Co
 - **attainable**: пусто
 - **possible**: скрипт, строки 1273–1282
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.1`
-  - `building_port_throughput_add` = `0.1` → [[vanilla/Здания/Порты|Порты]]
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-port-throughput-add|building_port_throughput_add]] = `0.1` → [[vanilla/Здания/Порты|Порты]]
 - **ai_will_do**: скрипт, строки 1289–1294
 - **ai_construction_targets**: скрипт, строки 1296–1303
 - **ai_weight**: скрипт, строки 1305–1307

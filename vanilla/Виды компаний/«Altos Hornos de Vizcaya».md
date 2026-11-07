@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1246–1252
 - **possible**: скрипт, строки 1254–1264
 - **prosperity_modifier**:
-  - `state_infrastructure_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-mult|state_infrastructure_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 1270–1276
 - **ai_construction_targets**: скрипт, строки 1278–1285
 - **ai_weight**: скрипт, строки 1287–1289

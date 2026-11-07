@@ -18,13 +18,13 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/gold_mining.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_gold_add` = `10` → [[vanilla/Товары/Золото|Золото]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-gold-add|goods_output_gold_add]] = `10` → [[vanilla/Товары/Золото|Золото]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_laborers_add` = `4500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `4500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_minting_add` = `500`
+    - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `500`
 
 ## Ссылаются
 

@@ -20,8 +20,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **category**: `military`
 - **unlocking_technologies**: [[tr/Технологии/UAVs|UAVs]]
 - **modifier**:
-  - `unit_army_offense_mult` = `0.05`
-  - `unit_army_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-offense-mult|unit_army_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 1121–1123
 
 ## Ссылаются

@@ -20,16 +20,16 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_agriculture_production_
 - **unlocking_technologies**: [[tr/Технологии/Civil Drones|Civil Drones]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_engines_add` = `20` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - `goods_input_fertilizer_add` = `10` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `20` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fertilizer-add|goods_input_fertilizer_add]] = `10` → [[vanilla/Товары/Удобрение|Удобрение]]
     - `goods_input_telecommunications_add` = `8` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_robotics_add` = `3` → [[tr/Товары/Robotics|Robotics]]
-    - `goods_input_electricity_add` = `2` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_output_sugar_add` = `120` → [[vanilla/Товары/Сахар|Сахар]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `2` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sugar-add|goods_output_sugar_add]] = `120` → [[vanilla/Товары/Сахар|Сахар]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `6000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `6000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

@@ -18,6 +18,6 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/democratic_experiment.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - `country_loyalists_from_legitimacy_mult` = `0.10`
-  - `country_radicals_from_legitimacy_mult` = `-0.10`
-  - `country_society_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-loyalists-from-legitimacy-mult|country_loyalists_from_legitimacy_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicals-from-legitimacy-mult|country_radicals_from_legitimacy_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-society-tech-research-speed-mult|country_society_tech_research_speed_mult]] = `0.05`

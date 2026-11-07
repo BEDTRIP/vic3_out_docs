@@ -23,7 +23,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **potential**: скрипт, строки 263–265
 - **possible**: скрипт, строки 267–277
 - **prosperity_modifier**:
-  - `state_colony_growth_speed_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 283–290
 - **ai_construction_targets**: скрипт, строки 292–300
 - **ai_weight**: скрипт, строки 302–304

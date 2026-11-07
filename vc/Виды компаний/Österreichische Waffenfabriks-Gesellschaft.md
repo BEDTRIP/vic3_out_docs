@@ -35,9 +35,9 @@ replaces: "[[vanilla/Виды компаний/Österreichische Waffenfabriks-Ge
 - **attainable**: скрипт, строки 8229–8235
 - **possible**: скрипт, строки 8237–8247
 - **prosperity_modifier**:
-  - `goods_output_explosives_mult` = `0.15` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
-  - `goods_output_small_arms_mult` = `0.1` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
-  - `unit_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-explosives-mult|goods_output_explosives_mult]] = `0.15` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-small-arms-mult|goods_output_small_arms_mult]] = `0.1` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 8255–8261
 - **ai_construction_targets**: скрипт, строки 8263–8270
 - **ai_weight**: скрипт, строки 8272–8274

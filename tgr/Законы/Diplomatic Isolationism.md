@@ -22,15 +22,15 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 - **disallowing_laws**: [[tgr/Законы/Свободная торговля|Свободная торговля]], [[tgr/Законы/Миграция не контролируется|Миграция не контролируется]]
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_support_separatism_resistance_mult` = `0.25`
-  - `country_improve_relations_speed_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-support-separatism-resistance-mult|country_support_separatism_resistance_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-improve-relations-speed-mult|country_improve_relations_speed_mult]] = `-0.25`
 - **institution**: `institution_foreign`
 - **institution_modifier**:
-  - `building_nationalization_cost_mult` = `-0.05`
-  - `interest_group_ig_rural_folk_pol_str_mult` = `0.05`
-  - `interest_group_ig_rural_folk_pop_attraction_mult` = `0.10`
-  - `country_farmers_pol_str_mult` = `0.20`
-  - `country_peasants_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы B#^m-building-nationalization-cost-mult|building_nationalization_cost_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pol-str-mult|interest_group_ig_rural_folk_pol_str_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pop-attraction-mult|interest_group_ig_rural_folk_pop_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-farmers-pol-str-mult|country_farmers_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы C#^m-country-peasants-pol-str-mult|country_peasants_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 316–323
 
 ## Ссылаются

@@ -26,8 +26,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 193–199
 - **possible**: скрипт, строки 201–216
 - **prosperity_modifier**:
-  - `country_production_tech_spread_mult` = `0.10`
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.10`
 - **ai_will_do**: скрипт, строки 223–227
 - **ai_construction_targets**: скрипт, строки 229–236
 - **ai_weight**: скрипт, строки 238–240

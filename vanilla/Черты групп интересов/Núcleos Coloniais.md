@@ -18,4 +18,4 @@ paths: [.vanillaVIC3/common/interest_group_traits/00_rural_folk_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/farmers_markets.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_migration_pull_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.15`

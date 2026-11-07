@@ -22,11 +22,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
     - `goods_input_alloys_add` = `15` → [[tr/Товары/Alloys|Alloys]]
     - `goods_input_plastics_add` = `5` → [[tr/Товары/Пластмассы|Пластмассы]]
     - `goods_input_electroniccomponents_add` = `2` → [[tr/Товары/Electronic Components|Electronic Components]]
-    - `goods_input_tools_add` = `15` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `15` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_output_elgar_instruments_add` = `60` → [[tr/Товары/Instruments|Instruments]]
   - **level_scaled**:
-    - `building_employment_machinists_add` = `500` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `500` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

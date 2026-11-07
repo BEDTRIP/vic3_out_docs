@@ -24,10 +24,10 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 744–750
 - **possible**: скрипт, строки 752–768
 - **prosperity_modifier**:
-  - `state_lower_strata_expected_sol_add` = `0.5`
-  - `state_middle_strata_expected_sol_add` = `1`
-  - `state_infrastructure_from_population_add` = `1`
-  - `state_infrastructure_from_population_max_add` = `20`
+  - [[vanilla/движок/Модификаторы S#^m-state-lower-strata-expected-sol-add|state_lower_strata_expected_sol_add]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-middle-strata-expected-sol-add|state_middle_strata_expected_sol_add]] = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `20`
 - **ai_will_do**: скрипт, строки 777–792
 - **ai_construction_targets**: скрипт, строки 794–801
 - **ai_weight**: скрипт, строки 803–805

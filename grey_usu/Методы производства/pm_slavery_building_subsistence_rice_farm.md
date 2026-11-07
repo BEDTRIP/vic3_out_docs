@@ -20,9 +20,9 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/yMoG_USU_road
 - **unlocking_laws**: [[grey_usu/Законы/law_forced_labour|law_forced_labour]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_grain_add` = `1` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `1` → [[vanilla/Товары/Зерно|Зерно]]
   - **unscaled**:
-    - `building_subsistence_output_add` = `3`
+    - [[vanilla/движок/Модификаторы B#^m-building-subsistence-output-add|building_subsistence_output_add]] = `3`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_tax_capacity_add` = `0.8`
+    - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `0.8`

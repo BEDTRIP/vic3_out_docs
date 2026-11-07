@@ -25,11 +25,11 @@ replaces: "[[vanilla/Методы производства/Сверхбыстр�
 - **unlocking_technologies**: [[vanilla/Технологии/Сверхбыстрое замораживание|Сверхбыстрое замораживание]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_food_industry_throughput_add` = `0.03` → [[grey_food/Здания/Пищевые производства|Пищевые производства]]
+    - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.03` → [[grey_food/Здания/Пищевые производства|Пищевые производства]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_electricity_add` = `7` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_input_transportation_add` = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `7` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]

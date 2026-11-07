@@ -28,8 +28,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **attainable**: скрипт, строки 409–417
 - **possible**: скрипт, строки 419–429
 - **prosperity_modifier**:
-  - `state_radicals_from_political_movements_mult` = `-0.1`
-  - `unit_morale_recovery_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 436–441
 - **ai_construction_targets**: скрипт, строки 443–451
 - **ai_weight**: скрипт, строки 453–455

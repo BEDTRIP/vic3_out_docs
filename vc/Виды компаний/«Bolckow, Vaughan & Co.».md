@@ -31,8 +31,8 @@ replaces: "[[vanilla/Виды компаний/«Bolckow, Vaughan & Co.»]]"
 - **attainable**: скрипт, строки 3883–3889
 - **possible**: скрипт, строки 3891–3905
 - **prosperity_modifier**:
-  - `building_shipyard_throughput_add` = `0.2` → [[vc/Здания/верфи|верфи]]
-  - `building_steel_mill_throughput_add` = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.2` → [[vc/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 3912–3918
 - **ai_construction_targets**: скрипт, строки 3920–3939
 - **ai_weight**: скрипт, строки 3941–3943

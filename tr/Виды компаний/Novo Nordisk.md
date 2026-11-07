@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 614–620
 - **possible**: скрипт, строки 621–631
 - **prosperity_modifier**:
-  - `building_food_industry_throughput_add` = `0.05` → [[tr/Здания/Пищевые производства|Пищевые производства]]
-  - `building_throughput_add` = `0.02`
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.05` → [[tr/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.02`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 637–643
 - **ai_construction_targets**: скрипт, строки 644–651
 - **ai_weight**: скрипт, строки 652–654

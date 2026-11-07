@@ -19,8 +19,8 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/neoimperialism.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_influence_mult` = `0.1`
-  - `country_institution_cost_institution_police_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-police-mult|country_institution_cost_institution_police_mult]] = `-0.1`
   - `country_allow_superpower_mechanics_bool` = `yes`
 - **unlocking_technologies**: [[tr/Технологии/Social Democracy|Social Democracy]]
 - **ai_weight**: скрипт, строки 403–405

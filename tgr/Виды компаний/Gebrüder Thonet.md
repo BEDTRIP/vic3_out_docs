@@ -38,9 +38,9 @@ replaces: "[[vanilla/Виды компаний/Gebrüder Thonet]]"
 - **attainable**: пусто
 - **possible**: скрипт, строки 630–639
 - **prosperity_modifier**:
-  - `interest_group_ig_petty_bourgeoisie_pop_attraction_mult` = `0.05`
-  - `state_radicals_from_political_movements_mult` = `-0.05`
-  - `building_furniture_manufactory_throughput_add` = `0.1` → [[tgr/Здания/Мебельные фабрики|Мебельные фабрики]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pop-attraction-mult|interest_group_ig_petty_bourgeoisie_pop_attraction_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-furniture-manufactory-throughput-add|building_furniture_manufactory_throughput_add]] = `0.1` → [[tgr/Здания/Мебельные фабрики|Мебельные фабрики]]
 - **ai_will_do**: скрипт, строки 647–652
 - **ai_construction_targets**: скрипт, строки 654–661
 - **ai_weight**: скрипт, строки 663–665

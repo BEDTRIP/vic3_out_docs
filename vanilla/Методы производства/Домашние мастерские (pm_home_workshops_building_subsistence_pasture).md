@@ -19,9 +19,9 @@ paths: [.vanillaVIC3/common/production_methods/12_subsistence.txt]
 - **disallowing_laws**: [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_clothes_add` = `0.25` → [[vanilla/Товары/Одежда|Одежда]]
-    - `goods_output_furniture_add` = `0.25` → [[vanilla/Товары/Мебель|Мебель]]
-    - `goods_output_liquor_add` = `0.25` → [[vanilla/Товары/Спирт|Спирт]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-clothes-add|goods_output_clothes_add]] = `0.25` → [[vanilla/Товары/Одежда|Одежда]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-furniture-add|goods_output_furniture_add]] = `0.25` → [[vanilla/Товары/Мебель|Мебель]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-liquor-add|goods_output_liquor_add]] = `0.25` → [[vanilla/Товары/Спирт|Спирт]]
 
 ## Ссылаются
 

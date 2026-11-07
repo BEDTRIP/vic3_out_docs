@@ -32,8 +32,8 @@ replaces: "[[vanilla/Виды компаний/«Ferrocarril Central Córdoba»]
 - **attainable**: скрипт, строки 199–205
 - **possible**: скрипт, строки 207–223
 - **prosperity_modifier**:
-  - `building_wheat_farm_throughput_add` = `0.1` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
-  - `building_livestock_ranch_throughput_add` = `0.05` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-wheat-farm-throughput-add|building_wheat_farm_throughput_add]] = `0.1` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.05` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
 - **ai_will_do**: скрипт, строки 230–236
 - **ai_construction_targets**: скрипт, строки 238–246
 - **ai_weight**: скрипт, строки 248–250

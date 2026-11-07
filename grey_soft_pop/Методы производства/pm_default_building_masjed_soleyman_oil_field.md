@@ -18,10 +18,10 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_group_bg_oil_extraction_throughput_add` = `0.30`
+    - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.30`
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.12`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.12`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `2000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_engineers_add` = `500` → [[grey_soft_pop/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `500` → [[grey_soft_pop/Население/Типы/Инженеры|Инженеры]]

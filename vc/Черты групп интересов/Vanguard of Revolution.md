@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/xenophobia.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `political_movement_radicalism_add` = `0.15`
-  - `country_revolution_progress_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-add|political_movement_radicalism_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-revolution-progress-mult|country_revolution_progress_mult]] = `0.25`

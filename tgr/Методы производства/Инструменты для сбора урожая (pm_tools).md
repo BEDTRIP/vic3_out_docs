@@ -23,6 +23,6 @@ replaces: "[[vanilla/Методы производства/Инструмент�
 - **texture**: `gfx/interface/icons/production_method_icons/harvesting_tools.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_tools_add` = `2` → [[tgr/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `2` → [[tgr/Товары/Инструменты|Инструменты]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

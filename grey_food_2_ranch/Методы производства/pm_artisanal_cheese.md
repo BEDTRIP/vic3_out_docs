@@ -18,12 +18,12 @@ paths: [grey_add_alot_of_things/grey_food_2_ranch/common/production_methods/mog_
 - **texture**: `gfx/interface/icons/production_method_icons/cheese.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fabric_add` = `4` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_output_meat_add` = `-15` → [[vanilla/Товары/Мясо|Мясо]]
-    - `goods_output_groceries_add` = `18` → [[vanilla/Товары/Продукты|Продукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `4` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-meat-add|goods_output_meat_add]] = `-15` → [[vanilla/Товары/Мясо|Мясо]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-groceries-add|goods_output_groceries_add]] = `18` → [[vanilla/Товары/Продукты|Продукты]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-100` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `50` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-100` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `50` → [[vanilla/Население/Типы/Механики|Механики]]
 
 ## Ссылаются
 

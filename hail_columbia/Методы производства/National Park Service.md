@@ -18,10 +18,10 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **texture**: `gfx/interface/icons/production_method_icons/usfp_pm_national_park_service.dds`
 - **state_modifiers**:
   - **level_scaled**:
-    - `state_pollution_generation_add` = `-150`
-    - `state_migration_pull_add` = `4`
-    - `country_loyalism_increases_full_acceptance_mult` = `0.02`
-    - `building_group_bg_extraction_construction_efficiency_add` = `-0.04`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `-150`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-add|state_migration_pull_add]] = `4`
+    - [[vanilla/движок/Модификаторы C#^m-country-loyalism-increases-full-acceptance-mult|country_loyalism_increases_full_acceptance_mult]] = `0.02`
+    - [[vanilla/движок/Модификаторы B#^m-building-group-bg-extraction-construction-efficiency-add|building_group_bg_extraction_construction_efficiency_add]] = `-0.04`
 - **unlocking_technologies**: [[vanilla/Технологии/Централизованное планирование|Централизованное планирование]]
 
 ## Ссылаются

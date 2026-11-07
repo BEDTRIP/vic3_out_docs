@@ -20,13 +20,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_good_uranium_add` = `40` → [[tr/Товары/Uranium|Uranium]]
-    - `goods_input_steel_add` = `20` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_input_explosives_add` = `20` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `20` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `20` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
     - `goods_input_electroniccomponents_add` = `10` → [[tr/Товары/Electronic Components|Electronic Components]]
     - `goods_input_water_add` = `20` → [[tr/Товары/Water|Water]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `7500` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_officers_add` = `2500` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `7500` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-officers-add|building_employment_officers_add]] = `2500` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
 - **timed_modifiers**: `pm_offense_defense_readjustment`
 
 ## Ссылаются

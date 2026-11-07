@@ -21,11 +21,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_good_uranium_add` = `20` → [[tr/Товары/Uranium|Uranium]]
-    - `goods_input_dye_add` = `5` → [[vanilla/Товары/Красители|Красители]]
-    - `goods_output_glass_add` = `-50` → [[vanilla/Товары/Стекло|Стекло]]
-    - `goods_output_porcelain_add` = `70` → [[vanilla/Товары/Фарфор|Фарфор]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-dye-add|goods_input_dye_add]] = `5` → [[vanilla/Товары/Красители|Красители]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-glass-add|goods_output_glass_add]] = `-50` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-porcelain-add|goods_output_porcelain_add]] = `70` → [[vanilla/Товары/Фарфор|Фарфор]]
   - **level_scaled**:
-    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
 
 ## Ссылаются
 

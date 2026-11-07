@@ -21,14 +21,14 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
   - **workforce_scaled**:
     - `goods_input_aluminium_add` = `15` → [[tr/Товары/Aluminium|Aluminium]]
     - `goods_input_electroniccomponents_add` = `10` → [[tr/Товары/Electronic Components|Electronic Components]]
-    - `goods_input_engines_add` = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `10` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_input_light_fuel_add` = `20` → [[tr/Товары/Light Fuel|Light Fuel]]
     - `goods_output_space_assets_add` = `25` → [[tr/Товары/Space Assets|Space Assets]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `1750` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `1250` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
-    - `building_employment_academics_add` = `500` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1750` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `500` → [[vanilla/Население/Типы/Учёные|Учёные]]
 
 ## Ссылаются
 

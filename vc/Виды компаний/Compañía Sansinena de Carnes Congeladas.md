@@ -32,9 +32,9 @@ replaces: "[[vanilla/Виды компаний/Compañía Sansinena de Carnes Co
 - **attainable**: скрипт, строки 7080–7088
 - **possible**: скрипт, строки 7090–7107
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.1`
-  - `goods_output_meat_mult` = `0.15` → [[vanilla/Товары/Мясо|Мясо]]
-  - `building_group_bg_ranching_employee_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-meat-mult|goods_output_meat_mult]] = `0.15` → [[vanilla/Товары/Мясо|Мясо]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-employee-mult|building_group_bg_ranching_employee_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 7115–7120
 - **ai_construction_targets**: скрипт, строки 7122–7135
 - **ai_weight**: скрипт, строки 7137–7139

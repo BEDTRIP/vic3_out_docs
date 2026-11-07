@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/market_studies.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_max_companies_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-companies-add|country_max_companies_add]] = `1`
 - **unlocking_technologies**: [[vanilla/Технологии/Тотальная слежка|Тотальная слежка]], [[vanilla/Технологии/Современные финансовые инструменты|Современные финансовые инструменты]], [[tr/Технологии/Keynesian Economics|Keynesian Economics]], [[tr/Технологии/Массовая агитация|Массовая агитация]]
 - **ai_weight**: скрипт, строки 235–237
 

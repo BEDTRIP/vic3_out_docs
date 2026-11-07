@@ -27,5 +27,5 @@ paths: [.vanillaVIC3/common/company_types/99_basic_companies.txt]
 - **prestige_goods_trigger**: скрипт, строки 32–37
 - **possible**: скрипт, строки 39–49
 - **prosperity_modifier**:
-  - `building_livestock_ranch_throughput_add` = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
 - **ai_will_do**: скрипт, строки 55–65

@@ -20,9 +20,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Telecommunications|Telecommunications]], [[tr/Технологии/Counterculture|Counterculture]]
 - **modifier**:
-  - `country_prestige_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
   - `building_manzoni_publishing_industry_throughput_add` = `0.05` → [[tr/Здания/Media Industries|Media Industries]]
-  - `state_decree_cost_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `-0.1`
 - **ai_weight**: скрипт, строки 694–696
 
 ## Ссылаются

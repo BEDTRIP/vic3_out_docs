@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_production.txt]
 - **texture**: `gfx/interface/icons/invention_icons/verrier_chemistry_tech.dds`
 - **category**: `production`
 - **modifier**:
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Classical Physics|Classical Physics]], [[vanilla/Технологии/Дистилляция|Дистилляция]]
 - **ai_weight**: скрипт, строки 41–43
 

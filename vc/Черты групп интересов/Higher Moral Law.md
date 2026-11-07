@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/pious_fiction.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_institution_size_change_speed_mult` = `-0.1`
-  - `state_radicals_from_political_movements_mult` = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-size-change-speed-mult|country_institution_size_change_speed_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.15`

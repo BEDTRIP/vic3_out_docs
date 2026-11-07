@@ -23,12 +23,12 @@ paths: [for addon/Mandate of Heaven/common/laws/moh_flavoured_laws.txt]
 - **is_visible**: скрипт, строки 200–202
 - **can_enact**: скрипт, строки 204–206
 - **modifier**:
-  - `country_legitimacy_headofstate_add` = `30`
-  - `interest_group_ig_devout_pol_str_mult` = `0.20`
-  - `interest_group_ig_landowners_pol_str_mult` = `0.15`
-  - `country_authority_add` = `150`
-  - `state_construction_mult` = `0.15`
-  - `country_secession_progress_mult` = `0.1`
-  - `state_decree_cost_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-headofstate-add|country_legitimacy_headofstate_add]] = `30`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `0.20`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-pol-str-mult|interest_group_ig_landowners_pol_str_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-add|country_authority_add]] = `150`
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-secession-progress-mult|country_secession_progress_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-decree-cost-mult|state_decree_cost_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 218–224
 - **ai_enact_weight_modifier**: скрипт, строки 226–238

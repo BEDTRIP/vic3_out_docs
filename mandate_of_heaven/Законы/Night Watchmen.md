@@ -20,8 +20,8 @@ paths: [for addon/Mandate of Heaven/common/laws/moh_flavoured_laws.txt]
 - **icon**: `gfx/interface/icons/law_icons/law_night_watchmen.dds`
 - **progressiveness**: `0`
 - **modifier**:
-  - `interest_group_ig_petty_bourgeoisie_pol_str_mult` = `0.02`
-  - `state_turmoil_effects_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-pol-str-mult|interest_group_ig_petty_bourgeoisie_pol_str_mult]] = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.05`
 - **is_visible**: скрипт, строки 62–66
 - **can_enact**: скрипт, строки 68–70
 - **ai_will_do**: скрипт, строки 73–75

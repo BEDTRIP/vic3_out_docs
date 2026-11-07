@@ -19,12 +19,12 @@ paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_personality_trai
 - **texture**: `gfx/interface/icons/character_trait_icons/arrogant.dds`
 - **value**: `2`
 - **character_modifier**:
-  - `character_popularity_add` = `-25`
+  - [[vanilla/движок/Модификаторы C#^m-character-popularity-add|character_popularity_add]] = `-25`
 - **country_modifier**:
-  - `country_authority_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-authority-mult|country_authority_mult]] = `0.10`
 - **command_modifier**: пусто
 - **interest_group_modifier**:
-  - `interest_group_pol_str_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-pol-str-mult|interest_group_pol_str_mult]] = `0.05`
 - **possible**: скрипт, строки 45–51
 - **weight**: скрипт, строки 52–65
 - **replace**: [[vanilla/Черты/Ребёнок|Ребёнок]]

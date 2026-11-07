@@ -27,11 +27,11 @@ replaces: "[[vanilla/Методы производства/Увеличенны�
 
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_capitalists_add` = `3` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
-    - `building_employment_shopkeepers_add` = `3.5` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
-    - `building_employment_clergymen_add` = `3.5` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-capitalists-add|building_employment_capitalists_add]] = `3` → [[vanilla/Население/Типы/Капиталисты|Капиталисты]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `3.5` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clergymen-add|building_employment_clergymen_add]] = `3.5` → [[vanilla/Население/Типы/Священнослужители|Священнослужители]]
   - **unscaled**:
-    - `building_capitalists_shares_add` = `10`
-    - `building_shopkeepers_shares_add` = `5`
-    - `building_clergymen_shares_add` = `2`
-    - `building_company_worker_dividends_add` = `0.25`
+    - [[vanilla/движок/Модификаторы B#^m-building-capitalists-shares-add|building_capitalists_shares_add]] = `10`
+    - [[vanilla/движок/Модификаторы B#^m-building-shopkeepers-shares-add|building_shopkeepers_shares_add]] = `5`
+    - [[vanilla/движок/Модификаторы B#^m-building-clergymen-shares-add|building_clergymen_shares_add]] = `2`
+    - [[vanilla/движок/Модификаторы B#^m-building-company-worker-dividends-add|building_company_worker_dividends_add]] = `0.25`

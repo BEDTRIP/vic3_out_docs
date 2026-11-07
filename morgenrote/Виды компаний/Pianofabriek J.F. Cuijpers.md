@@ -25,7 +25,7 @@ paths: [Morgenrote/common/company_types/mr_elgar_company_types.txt]
 - **possible**: скрипт, строки 789–798
 - **prosperity_modifier**:
   - `goods_output_elgar_instruments_mult` = `0.1` → [[morgenrote/Товары/Муз.нструменты|Муз.нструменты]]
-  - `interest_group_ig_landowners_approval_add` = `3`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-approval-add|interest_group_ig_landowners_approval_add]] = `3`
 - **ai_will_do**: скрипт, строки 805–810
 - **ai_construction_targets**: скрипт, строки 812–819
 - **ai_weight**: скрипт, строки 821–823

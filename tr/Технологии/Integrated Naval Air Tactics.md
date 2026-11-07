@@ -23,7 +23,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
   - `ship_ship_type_modern_cruiser_hull_damage_mult` = `0.05`
   - `ship_ship_type_modern_battleship_hull_damage_mult` = `0.05`
   - `ship_ship_type_nuclear_carrier_hull_damage_mult` = `0.05`
-  - `ship_hit_points_max_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hit-points-max-mult|ship_hit_points_max_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Naval Logistic Automation|Naval Logistic Automation]], [[tr/Технологии/Supersonic Aviation|Supersonic Aviation]]
 - **ai_weight**: скрипт, строки 919–921
 

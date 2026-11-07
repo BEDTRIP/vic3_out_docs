@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **attainable**: скрипт, строки 417–423
 - **possible**: скрипт, строки 425–436
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `0.5`
-  - `state_infrastructure_from_population_max_add` = `20`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `20`
 - **ai_will_do**: скрипт, строки 443–449
 - **ai_construction_targets**: скрипт, строки 451–459
 - **ai_weight**: скрипт, строки 461–463

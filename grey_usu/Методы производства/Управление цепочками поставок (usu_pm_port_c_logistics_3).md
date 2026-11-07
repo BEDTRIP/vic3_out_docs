@@ -23,11 +23,11 @@ paths: [grey_add_alot_of_things/grey_usu/common/production_methods/yMoG_USU_port
     - `goods_output_usu_logistics_add` = `10.5` → [[grey_usu/Товары/Логистические услуги|Логистические услуги]]
 - **state_modifiers**:
   - **unscaled**:
-    - `building_urban_center_throughput_add` = `0.1` → [[grey_usu/Здания/Городские центры|Городские центры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.1` → [[grey_usu/Здания/Городские центры|Городские центры]]
   - **level_scaled**:
-    - `building_urban_center_throughput_add` = `-0.003` → [[grey_usu/Здания/Городские центры|Городские центры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `-0.003` → [[grey_usu/Здания/Городские центры|Городские центры]]
   - **workforce_scaled**:
-    - `building_urban_center_throughput_add` = `0.01` → [[grey_usu/Здания/Городские центры|Городские центры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-urban-center-throughput-add|building_urban_center_throughput_add]] = `0.01` → [[grey_usu/Здания/Городские центры|Городские центры]]
 
 ## Ссылаются
 

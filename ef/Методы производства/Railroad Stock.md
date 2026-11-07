@@ -18,7 +18,7 @@ paths: [E&F/common/production_methods/11_ef_private_infrastructure.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/railroad_stock_exchange.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_railroad_stock_add` = `25` → [[ef/Товары/Railroad Stock|Railroad Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-railroad-stock-add|goods_output_railroad_stock_add]] = `25` → [[ef/Товары/Railroad Stock|Railroad Stock]]
 
 ## Ссылаются
 

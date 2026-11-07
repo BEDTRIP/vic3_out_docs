@@ -19,10 +19,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_election_system.txt]
 - **icon**: `gfx/interface/icons/law_icons/universal_suffrage.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `country_legitimacy_govt_size_add` = `2`
-  - `country_legitimacy_govt_total_votes_add` = `100`
-  - `country_electoral_confidence_impact_mult` = `0.50`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-size-add|country_legitimacy_govt_size_add]] = `2`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `100`
+  - [[vanilla/движок/Модификаторы C#^m-country-electoral-confidence-impact-mult|country_electoral_confidence_impact_mult]] = `0.50`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `0.25`
 - **disallowing_laws**: [[tgr/Законы/Автократия|Автократия]], [[tgr/Законы/Технократия|Технократия]], [[tgr/Законы/Олигархия|Олигархия]], [[tgr/Законы/Анархия|Анархия]], [[tgr/Законы/Голосуют землевладельцы|Голосуют землевладельцы]], [[tgr/Законы/Голосуют богатые|Голосуют богатые]], [[tgr/Законы/Имущественный ценз|Имущественный ценз]]
 - **unlocking_laws**: пусто
 - **on_enact**: пусто

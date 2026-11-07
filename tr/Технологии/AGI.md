@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[tr/Технологии/Agentic AI|Agentic AI]]
 - **modifier**:
-  - `building_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.05`
 - **ai_weight**: скрипт, строки 1381–1381
 
 ## Ссылаются

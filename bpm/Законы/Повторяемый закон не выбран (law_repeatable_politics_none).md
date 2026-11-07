@@ -15,7 +15,7 @@ paths: [BPM/common/laws/BPM_repeatable_politics.txt]
 
 ## Поля
 
-- **group**: [[bpm/Группы законов/- Политика|- Политика]]
+- **group**: [[bpm/Группы законов/Политика|Политика]]
 - **icon**: `gfx/interface/icons/law_icons/repeatable_politics_none.dds`
 - **progressiveness**: `0`
 - **modifier**: пусто

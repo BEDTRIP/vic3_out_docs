@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **attainable**: скрипт, строки 363–369
 - **possible**: скрипт, строки 371–380
 - **prosperity_modifier**:
-  - `building_livestock_ranch_throughput_add` = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-  - `building_chemical_plant_throughput_add` = `0.05` → [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-chemical-plant-throughput-add|building_chemical_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
 - **ai_will_do**: скрипт, строки 387–392
 - **ai_construction_targets**: скрипт, строки 394–401
 - **ai_weight**: скрипт, строки 403–405

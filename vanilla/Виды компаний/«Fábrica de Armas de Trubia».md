@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1486–1492
 - **possible**: скрипт, строки 1494–1504
 - **prosperity_modifier**:
-  - `unit_offense_mult` = `0.05`
-  - `country_military_goods_cost_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 1511–1517
 - **ai_construction_targets**: скрипт, строки 1519–1526
 - **ai_weight**: скрипт, строки 1528–1530

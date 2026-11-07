@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 367–373
 - **possible**: скрипт, строки 374–384
 - **prosperity_modifier**:
-  - `building_chemical_plant_throughput_add` = `0.05` → [[tr/Здания/Заводы удобрений|Заводы удобрений]]
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-chemical-plant-throughput-add|building_chemical_plant_throughput_add]] = `0.05` → [[tr/Здания/Заводы удобрений|Заводы удобрений]]
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 390–396
 - **ai_construction_targets**: скрипт, строки 397–404
 - **ai_weight**: скрипт, строки 405–407

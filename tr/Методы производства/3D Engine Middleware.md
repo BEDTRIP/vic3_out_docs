@@ -22,12 +22,12 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_data_production_methods
     - `goods_input_softwares_add` = `25` → [[tr/Товары/Software|Software]]
     - `goods_input_computer_add` = `10` → [[tr/Товары/Computers|Computers]]
     - `goods_input_televisions_add` = `10` → [[tr/Товары/Televisions|Televisions]]
-    - `goods_input_electricity_add` = `7` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `7` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_output_interactive_entertainment_add` = `95` → [[tr/Товары/Interactive Entertainment|Interactive Entertainment]]
   - **level_scaled**:
-    - `building_employment_clerks_add` = `1000` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_engineers_add` = `1500` → [[tr/Население/Типы/Инженеры|Инженеры]]
-    - `building_employment_academics_add` = `750` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `1000` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `1500` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `750` → [[vanilla/Население/Типы/Учёные|Учёные]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
 
 ## Ссылаются

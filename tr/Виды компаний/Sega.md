@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_digital_media_industry.txt]
 - **possible**: скрипт, строки 362–372
 - **prosperity_modifier**:
   - `building_consumer_electronics_industry_throughput_add` = `0.05` → [[tr/Здания/Consumer Electronics Industries|Consumer Electronics Industries]]
-  - `state_market_access_price_impact` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-market-access-price-impact|state_market_access_price_impact]] = `0.05`
 - **ai_will_do**: скрипт, строки 377–383
 - **ai_construction_targets**: скрипт, строки 384–391
 - **ai_weight**: скрипт, строки 392–394

@@ -26,8 +26,8 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **attainable**: скрипт, строки 221–227
 - **possible**: скрипт, строки 229–241
 - **prosperity_modifier**:
-  - `state_trade_advantage_mult` = `0.15`
-  - `unit_army_defense_mult` = `0.04`
+  - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.04`
 - **ai_will_do**: скрипт, строки 250–255
 - **ai_construction_targets**: скрипт, строки 257–264
 - **ai_weight**: скрипт, строки 265–267

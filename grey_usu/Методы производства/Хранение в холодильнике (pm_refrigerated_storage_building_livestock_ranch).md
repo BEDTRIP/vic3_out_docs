@@ -22,4 +22,4 @@ replaces: "[[vanilla/Методы производства/Хранение в �
 
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_food_industry_throughput_add` = `0.01` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+    - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.01` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]

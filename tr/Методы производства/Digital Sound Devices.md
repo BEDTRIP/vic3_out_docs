@@ -20,13 +20,13 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_manzoni_prints_add` = `10` → [[tr/Товары/Media Content|Media Content]]
-    - `goods_input_steel_add` = `20` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `20` → [[vanilla/Товары/Сталь|Сталь]]
     - `goods_input_telecommunications_add` = `30` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_softwares_add` = `5` → [[tr/Товары/Software|Software]]
-    - `goods_output_telephones_add` = `-45` → [[vanilla/Товары/Телефоны|Телефоны]]
-    - `goods_output_radios_add` = `95` → [[vanilla/Товары/Радио|Радио]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-telephones-add|goods_output_telephones_add]] = `-45` → [[vanilla/Товары/Телефоны|Телефоны]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-radios-add|goods_output_radios_add]] = `95` → [[vanilla/Товары/Радио|Радио]]
   - **level_scaled**:
-    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

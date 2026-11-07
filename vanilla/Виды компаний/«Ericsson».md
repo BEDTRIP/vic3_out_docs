@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 585–591
 - **possible**: скрипт, строки 593–603
 - **prosperity_modifier**:
-  - `country_weekly_innovation_mult` = `0.1`
-  - `state_education_access_wealth_add` = `0.005`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
 - **ai_will_do**: скрипт, строки 610–616
 - **ai_construction_targets**: скрипт, строки 618–625
 - **ai_weight**: скрипт, строки 627–629

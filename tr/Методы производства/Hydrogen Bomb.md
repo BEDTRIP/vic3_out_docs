@@ -25,11 +25,11 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
     - `goods_input_processors_add` = `10` → [[tr/Товары/Processors|Processors]]
     - `goods_input_water_add` = `40` → [[tr/Товары/Water|Water]]
   - **level_scaled**:
-    - `building_employment_academics_add` = `7500` → [[vanilla/Население/Типы/Учёные|Учёные]]
-    - `building_employment_officers_add` = `2500` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-academics-add|building_employment_academics_add]] = `7500` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-officers-add|building_employment_officers_add]] = `2500` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_from_army_power_projection_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-from-army-power-projection-mult|country_prestige_from_army_power_projection_mult]] = `0.1`
 - **timed_modifiers**: `pm_offense_defense_readjustment`
 
 ## Ссылаются

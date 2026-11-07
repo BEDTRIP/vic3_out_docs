@@ -24,8 +24,8 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_furniture_companies.txt]
 - **attainable**: скрипт, строки 567–574
 - **possible**: скрипт, строки 575–585
 - **prosperity_modifier**:
-  - `state_birth_rate_mult` = `0.05`
-  - `building_tooling_workshop_throughput_add` = `0.05` → [[tr/Здания/Производства инструментов|Производства инструментов]]
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.05` → [[tr/Здания/Производства инструментов|Производства инструментов]]
 - **ai_will_do**: скрипт, строки 590–596
 - **ai_construction_targets**: скрипт, строки 597–604
 - **ai_weight**: скрипт, строки 605–607

@@ -25,9 +25,9 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_pension.txt]
   - `country_institution_pension_max_investment_add` = `2`
 - **institution**: `institution_pension`
 - **institution_modifier**:
-  - `state_dependent_wage_mult` = `0.10`
-  - `country_mass_migration_attraction_mult` = `0.01`
-  - `state_tax_collection_mult` = `-0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-dependent-wage-mult|state_dependent_wage_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-mass-migration-attraction-mult|country_mass_migration_attraction_mult]] = `0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-tax-collection-mult|state_tax_collection_mult]] = `-0.02`
 - **ai_enact_weight_modifier**: скрипт, строки 55–62
 
 ## Ссылаются

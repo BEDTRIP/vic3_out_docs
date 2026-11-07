@@ -22,9 +22,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
   - `unit_combat_unit_type_modern_light_tanks_offense_mult` = `0.05`
   - `unit_combat_unit_type_modern_heavy_tank_offense_mult` = `0.05`
   - `unit_combat_unit_type_main_battle_tanks_offense_mult` = `0.15`
-  - `unit_army_defense_mult` = `0.35`
-  - `country_military_wages_mult` = `0.25`
-  - `country_military_goods_cost_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.35`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `0.25`
 - **unlocking_technologies**: [[tr/Технологии/Main Battle Tank|Main Battle Tank]]
 - **ai_weight**: скрипт, строки 861–869
 

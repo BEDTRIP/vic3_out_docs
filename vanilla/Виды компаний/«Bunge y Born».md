@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **attainable**: скрипт, строки 332–338
 - **possible**: скрипт, строки 340–353
 - **prosperity_modifier**:
-  - `interest_group_ig_rural_folk_pop_attraction_mult` = `0.2`
-  - `building_tooling_workshop_throughput_add` = `0.1` → [[vanilla/Здания/Производства инструментов|Производства инструментов]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-pop-attraction-mult|interest_group_ig_rural_folk_pop_attraction_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.1` → [[vanilla/Здания/Производства инструментов|Производства инструментов]]
 - **ai_will_do**: скрипт, строки 360–365
 - **ai_construction_targets**: скрипт, строки 367–382
 - **ai_weight**: скрипт, строки 384–386

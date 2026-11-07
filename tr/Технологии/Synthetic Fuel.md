@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_modified_mr_produc
 - **texture**: `gfx/interface/icons/invention_icons/mendelejew_synthetic_fuel_tech.dds`
 - **category**: `production`
 - **modifier**:
-  - `goods_input_oil_mult` = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-mult|goods_input_oil_mult]] = `-0.05` → [[vanilla/Товары/ГСМ|ГСМ]]
 - **unlocking_technologies**: [[tr/Технологии/Modern Purification|Modern Purification]]
 - **ai_weight**: скрипт, строки 118–120
 

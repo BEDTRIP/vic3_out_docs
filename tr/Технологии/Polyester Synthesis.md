@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **category**: `production`
 - **unlocking_technologies**: [[tr/Технологии/HDPE|HDPE]], [[tr/Технологии/Fast Food|Fast Food]]
 - **modifier**:
-  - `building_food_industry_throughput_add` = `0.05` → [[tr/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.05` → [[tr/Здания/Пищевые производства|Пищевые производства]]
   - `goods_input_plastics_mult` = `-0.05` → [[tr/Товары/Пластмассы|Пластмассы]]
 - **ai_weight**: скрипт, строки 759–761
 

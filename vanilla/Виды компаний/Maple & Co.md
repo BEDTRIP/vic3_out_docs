@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 874–882
 - **possible**: скрипт, строки 884–893
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.05`
-  - `building_group_bg_government_throughput_add` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-government-throughput-add|building_group_bg_government_throughput_add]] = `0.1`
 - **ai_will_do**: скрипт, строки 900–905
 - **ai_construction_targets**: скрипт, строки 907–914
 - **ai_weight**: скрипт, строки 916–918

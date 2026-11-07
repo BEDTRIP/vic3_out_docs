@@ -20,9 +20,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_electroniccomponents_add` = `10` → [[tr/Товары/Electronic Components|Electronic Components]]
-    - `goods_input_paper_add` = `25` → [[vanilla/Товары/Бумага|Бумага]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `25` → [[vanilla/Товары/Бумага|Бумага]]
     - `goods_input_copperwires_add` = `20` → [[tr/Товары/Wires|Wires]]
-    - `goods_input_radios_add` = `-10` → [[vanilla/Товары/Радио|Радио]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-radios-add|goods_input_radios_add]] = `-10` → [[vanilla/Товары/Радио|Радио]]
     - `goods_input_televisions_add` = `15` → [[tr/Товары/Televisions|Televisions]]
     - `goods_output_manzoni_prints_add` = `95` → [[tr/Товары/Media Content|Media Content]]
     - `goods_output_elgar_music_add` = `35` → [[tr/Товары/Entertainment|Entertainment]]

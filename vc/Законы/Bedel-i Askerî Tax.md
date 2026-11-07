@@ -22,37 +22,37 @@ paths: [VC/common/laws/joi_taxation.txt]
 - **disallowing_laws**: [[vanilla/Законы/Традиционализм|Традиционализм]]
 - **unlocking_technologies**: [[vanilla/Технологии/Валютные стандарты|Валютные стандарты]]
 - **modifier**:
-  - `state_conscription_rate_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-conscription-rate-mult|state_conscription_rate_mult]] = `-0.1`
 - **tax_modifier_very_low**:
-  - `tax_consumption_add` = `0.15`
-  - `tax_per_capita_add` = `0.40`
-  - `tax_dividends_add` = `0.05`
-  - `tax_income_add` = `0.05`
-  - `tax_heathen_add` = `0.10`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы T#^m-tax-per-capita-add|tax_per_capita_add]] = `0.40`
+  - [[vanilla/движок/Модификаторы T#^m-tax-dividends-add|tax_dividends_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы T#^m-tax-income-add|tax_income_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы T#^m-tax-heathen-add|tax_heathen_add]] = `0.10`
 - **tax_modifier_low**:
-  - `tax_consumption_add` = `0.20`
-  - `tax_per_capita_add` = `0.55`
-  - `tax_dividends_add` = `0.10`
-  - `tax_income_add` = `0.10`
-  - `tax_heathen_add` = `0.20`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.20`
+  - [[vanilla/движок/Модификаторы T#^m-tax-per-capita-add|tax_per_capita_add]] = `0.55`
+  - [[vanilla/движок/Модификаторы T#^m-tax-dividends-add|tax_dividends_add]] = `0.10`
+  - [[vanilla/движок/Модификаторы T#^m-tax-income-add|tax_income_add]] = `0.10`
+  - [[vanilla/движок/Модификаторы T#^m-tax-heathen-add|tax_heathen_add]] = `0.20`
 - **tax_modifier_medium**:
-  - `tax_consumption_add` = `0.25`
-  - `tax_per_capita_add` = `0.70`
-  - `tax_dividends_add` = `0.15`
-  - `tax_income_add` = `0.15`
-  - `tax_heathen_add` = `0.30`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы T#^m-tax-per-capita-add|tax_per_capita_add]] = `0.70`
+  - [[vanilla/движок/Модификаторы T#^m-tax-dividends-add|tax_dividends_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы T#^m-tax-income-add|tax_income_add]] = `0.15`
+  - [[vanilla/движок/Модификаторы T#^m-tax-heathen-add|tax_heathen_add]] = `0.30`
 - **tax_modifier_high**:
-  - `tax_consumption_add` = `0.30`
-  - `tax_per_capita_add` = `0.85`
-  - `tax_dividends_add` = `0.20`
-  - `tax_income_add` = `0.20`
-  - `tax_heathen_add` = `0.40`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.30`
+  - [[vanilla/движок/Модификаторы T#^m-tax-per-capita-add|tax_per_capita_add]] = `0.85`
+  - [[vanilla/движок/Модификаторы T#^m-tax-dividends-add|tax_dividends_add]] = `0.20`
+  - [[vanilla/движок/Модификаторы T#^m-tax-income-add|tax_income_add]] = `0.20`
+  - [[vanilla/движок/Модификаторы T#^m-tax-heathen-add|tax_heathen_add]] = `0.40`
 - **tax_modifier_very_high**:
-  - `tax_consumption_add` = `0.35`
-  - `tax_per_capita_add` = `1.0`
-  - `tax_dividends_add` = `0.25`
-  - `tax_income_add` = `0.25`
-  - `tax_heathen_add` = `0.5`
+  - [[vanilla/движок/Модификаторы T#^m-tax-consumption-add|tax_consumption_add]] = `0.35`
+  - [[vanilla/движок/Модификаторы T#^m-tax-per-capita-add|tax_per_capita_add]] = `1.0`
+  - [[vanilla/движок/Модификаторы T#^m-tax-dividends-add|tax_dividends_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы T#^m-tax-income-add|tax_income_add]] = `0.25`
+  - [[vanilla/движок/Модификаторы T#^m-tax-heathen-add|tax_heathen_add]] = `0.5`
 - **is_visible**: скрипт, строки 61–63
 - **can_enact**: скрипт, строки 65–70
 - **ai_will_do**: скрипт, строки 72–74

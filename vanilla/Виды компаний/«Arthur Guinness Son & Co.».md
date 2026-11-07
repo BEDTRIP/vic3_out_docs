@@ -27,10 +27,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **attainable**: скрипт, строки 1057–1063
 - **possible**: скрипт, строки 1065–1075
 - **prosperity_modifier**:
-  - `state_radicals_from_political_movements_mult` = `-0.1`
-  - `state_radicalism_increases_violent_hostility_mult` = `-0.05`
-  - `state_radicalism_increases_cultural_erasure_mult` = `-0.05`
-  - `state_radicalism_increases_open_prejudice_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-violent-hostility-mult|state_radicalism_increases_violent_hostility_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-cultural-erasure-mult|state_radicalism_increases_cultural_erasure_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-open-prejudice-mult|state_radicalism_increases_open_prejudice_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 1084–1090
 - **ai_construction_targets**: скрипт, строки 1092–1099
 - **ai_weight**: скрипт, строки 1101–1103

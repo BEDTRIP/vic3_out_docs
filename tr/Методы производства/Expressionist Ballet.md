@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **unlocking_technologies**: [[tr/Технологии/Modern Art|Modern Art]]
 - **building_modifiers**:
   - **unscaled**:
-    - `building_throughput_add` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.1`
 
 ## Ссылаются
 

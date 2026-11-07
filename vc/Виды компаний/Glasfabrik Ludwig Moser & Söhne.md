@@ -34,9 +34,9 @@ replaces: "[[vanilla/Виды компаний/Glasfabrik Ludwig Moser & Söhne]
 - **attainable**: пусто
 - **possible**: скрипт, строки 4299–4308
 - **prosperity_modifier**:
-  - `country_influence_mult` = `0.1`
-  - `goods_output_glass_mult` = `0.15` → [[vanilla/Товары/Стекло|Стекло]]
-  - `country_leverage_generation_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-glass-mult|goods_output_glass_mult]] = `0.15` → [[vanilla/Товары/Стекло|Стекло]]
+  - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 4316–4321
 - **ai_construction_targets**: скрипт, строки 4323–4330
 - **ai_weight**: скрипт, строки 4332–4334

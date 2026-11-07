@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/free_silver.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_radicals_from_political_movements_mult` = `0.10`
-  - `state_farmers_investment_pool_efficiency_mult` = `-0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-farmers-investment-pool-efficiency-mult|state_farmers_investment_pool_efficiency_mult]] = `-0.10`

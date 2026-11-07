@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/pious_fiction.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `country_law_enactment_speed_mult` = `-0.15`
-  - `country_tech_spread_mult` = `-0.5`
+  - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-speed-mult|country_law_enactment_speed_mult]] = `-0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-spread-mult|country_tech_spread_mult]] = `-0.5`

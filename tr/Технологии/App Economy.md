@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/app_economy.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_max_companies_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-companies-add|country_max_companies_add]] = `1`
 - **unlocking_technologies**: [[tr/Технологии/Social Media|Social Media]], [[tr/Технологии/Interactive Media|Interactive Media]]
 - **ai_weight**: скрипт, строки 1289–1289
 

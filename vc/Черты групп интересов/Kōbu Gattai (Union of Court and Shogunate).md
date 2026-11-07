@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/noblesse_oblige.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_legitimacy_govt_total_clout_add` = `10`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.1`

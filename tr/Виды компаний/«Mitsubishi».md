@@ -32,8 +32,8 @@ replaces: "[[vanilla/Виды компаний/«Mitsubishi»]]"
 - **potential**: скрипт, строки 28–30
 - **possible**: скрипт, строки 32–46
 - **prosperity_modifier**:
-  - `interest_group_ig_industrialists_pol_str_mult` = `0.1`
-  - `building_automotive_industry_throughput_add` = `0.1` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-automotive-industry-throughput-add|building_automotive_industry_throughput_add]] = `0.1` → [[tr/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **ai_will_do**: скрипт, строки 53–63
 - **ai_construction_targets**: скрипт, строки 65–72
 - **ai_weight**: скрипт, строки 74–76

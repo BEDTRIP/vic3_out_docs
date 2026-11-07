@@ -15,7 +15,7 @@ paths: [BPM/common/laws/BPM_repeatable_economy.txt]
 
 ## Поля
 
-- **group**: [[bpm/Группы законов/- Экономика|- Экономика]]
+- **group**: [[bpm/Группы законов/Экономика|Экономика]]
 - **icon**: `gfx/interface/icons/law_icons/repeatable_economy_none.dds`
 - **progressiveness**: `0`
 - **modifier**: пусто

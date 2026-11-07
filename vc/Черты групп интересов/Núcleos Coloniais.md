@@ -23,5 +23,5 @@ replaces: "[[vanilla/Черты групп интересов/Núcleos Coloniais
 - **icon**: `gfx/interface/icons/ig_trait_icons/farmers_markets.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_migration_pull_add` = `10`
-  - `state_working_adult_ratio_add` = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-add|state_migration_pull_add]] = `10`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`

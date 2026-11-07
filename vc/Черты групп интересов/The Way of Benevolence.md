@@ -18,6 +18,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/noblesse_oblige.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_birth_rate_mult` = `0.05`
-  - `state_food_security_add` = `0.05`
-  - `political_movement_radicalism_add` = `-0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-food-security-add|state_food_security_add]] = `0.05`
+  - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-add|political_movement_radicalism_add]] = `-0.1`

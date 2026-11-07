@@ -24,6 +24,6 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_99_basic_companies.txt]
 - **extension_building_types**: [[tr/Здания/Заводы синтетики|Заводы синтетики]]
 - **possible**: скрипт, строки 331–340
 - **prosperity_modifier**:
-  - `building_throughput_add` = `0.01`
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.01`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
 - **ai_will_do**: скрипт, строки 347–356

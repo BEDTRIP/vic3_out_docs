@@ -23,7 +23,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_robotics_add` = `3` → [[tr/Товары/Robotics|Robotics]]
     - `goods_input_computer_add` = `3` → [[tr/Товары/Computers|Computers]]
     - `goods_input_softwares_add` = `1` → [[tr/Товары/Software|Software]]
-    - `goods_output_electricity_add` = `3` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-add|goods_output_electricity_add]] = `3` → [[vanilla/Товары/Электричество|Электричество]]
     - `goods_output_global_electricity_add` = `35` → [[tr/Товары/National Electricity|National Electricity]]
 - **unlocking_laws**: [[tr/Законы/Modern National Electricity System|Modern National Electricity System]]
 

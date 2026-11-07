@@ -33,9 +33,9 @@ replaces: "[[vanilla/Виды компаний/«Chr. Hansen»]]"
 - **attainable**: скрипт, строки 3308–3314
 - **possible**: скрипт, строки 3316–3328
 - **prosperity_modifier**:
-  - `building_livestock_ranch_throughput_add` = `0.15` → [[vc/Здания/Животноводческие фермы|Животноводческие фермы]]
-  - `building_fishing_wharf_throughput_add` = `0.15` → [[vc/Здания/Рыболовные верфи|Рыболовные верфи]]
-  - `state_birth_rate_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.15` → [[vc/Здания/Животноводческие фермы|Животноводческие фермы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-fishing-wharf-throughput-add|building_fishing_wharf_throughput_add]] = `0.15` → [[vc/Здания/Рыболовные верфи|Рыболовные верфи]]
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 3336–3341
 - **ai_construction_targets**: скрипт, строки 3343–3356
 - **ai_weight**: скрипт, строки 3358–3360

@@ -26,7 +26,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **attainable**: скрипт, строки 325–331
 - **possible**: скрипт, строки 333–347
 - **prosperity_modifier**:
-  - `building_shipyard_throughput_add` = `0.1` → [[vanilla/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[vanilla/Здания/верфи|верфи]]
 - **ai_will_do**: скрипт, строки 353–359
 - **ai_construction_targets**: скрипт, строки 361–380
 - **ai_weight**: скрипт, строки 382–384

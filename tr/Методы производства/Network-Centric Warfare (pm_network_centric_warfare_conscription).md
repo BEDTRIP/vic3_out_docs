@@ -23,10 +23,10 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_military_production_met
 - **disallowing_laws**: [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]], [[vanilla/Законы/Воинская каста|Воинская каста]]
 - **building_modifiers**:
   - **unscaled**:
-    - `building_training_rate_add` = `50`
-    - `military_formation_organization_gain_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `50`
+    - [[vanilla/движок/Модификаторы M#^m-military-formation-organization-gain-mult|military_formation_organization_gain_mult]] = `0.1`
   - **level_scaled**:
-    - `building_training_rate_add` = `33`
+    - [[vanilla/движок/Модификаторы B#^m-building-training-rate-add|building_training_rate_add]] = `33`
 
 ## Ссылаются
 

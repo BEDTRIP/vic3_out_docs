@@ -21,10 +21,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_working_hours.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Профсоюзное движение|Профсоюзное движение]]
 - **disallowing_laws**: [[tgr/Законы/Нет прав трудящихся|Нет прав трудящихся]]
 - **modifier**:
-  - `building_throughput_add` = `-0.10`
-  - `country_mass_migration_attraction_mult` = `0.10`
-  - `state_lower_strata_standard_of_living_add` = `2.0`
-  - `state_middle_strata_standard_of_living_add` = `1.0`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-mass-migration-attraction-mult|country_mass_migration_attraction_mult]] = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-lower-strata-standard-of-living-add|state_lower_strata_standard_of_living_add]] = `2.0`
+  - [[vanilla/движок/Модификаторы S#^m-state-middle-strata-standard-of-living-add|state_middle_strata_standard_of_living_add]] = `1.0`
 - **can_impose**: скрипт, строки 87–89
 - **ai_enact_weight_modifier**: скрипт, строки 91–107
 

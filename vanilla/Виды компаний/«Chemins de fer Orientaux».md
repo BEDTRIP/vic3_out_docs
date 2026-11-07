@@ -27,7 +27,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
   - `owns_entire_state_region` = `STATE_EASTERN_THRACE`
 - **possible**: скрипт, строки 347–361
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 367–376
 - **ai_construction_targets**: скрипт, строки 378–386
 - **ai_weight**: скрипт, строки 388–390

@@ -24,8 +24,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **attainable**: скрипт, строки 324–332
 - **possible**: скрипт, строки 334–346
 - **prosperity_modifier**:
-  - `building_paper_mill_throughput_add` = `0.1` → [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]]
-  - `building_group_bg_agriculture_throughput_add` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-paper-mill-throughput-add|building_paper_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.05`
 - **ai_will_do**: скрипт, строки 353–358
 - **ai_construction_targets**: скрипт, строки 360–373
 - **ai_weight**: скрипт, строки 375–377

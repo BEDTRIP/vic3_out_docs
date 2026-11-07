@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/computability_theory.dds`
 - **category**: `society`
 - **modifier**:
-  - `state_bureaucracy_population_base_cost_factor_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `-0.05`
 - **unlocking_technologies**: [[tr/Технологии/Crypto-Communication|Crypto-Communication]]
 - **ai_weight**: скрипт, строки 285–287
 

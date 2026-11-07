@@ -24,9 +24,9 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_metho
     - `goods_input_telecommunications_add` = `3` → [[tr/Товары/Telecommunications|Telecommunications]]
     - `goods_input_ai_systems_add` = `1` → [[tr/Товары/AI Systems|AI Systems]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_machinists_add` = `-100` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_engineers_add` = `-50` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `-100` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `-50` → [[tr/Население/Типы/Инженеры|Инженеры]]
 - **unlocking_production_methods**: [[tr/Методы производства/Early Power Plant (pm_early_power_plant_3)|Early Power Plant (pm_early_power_plant_3)]], [[tr/Методы производства/Coal-Fired Power Plant (pm_coal-fired_plant_3)|Coal-Fired Power Plant (pm_coal-fired_plant_3)]], [[tr/Методы производства/Oil-Fired Power Plant (pm_oil-fired_plant_3)|Oil-Fired Power Plant (pm_oil-fired_plant_3)]], [[tr/Методы производства/Gas-Fired Power Plant (pm_gas-fired_plant_3)|Gas-Fired Power Plant (pm_gas-fired_plant_3)]], [[tr/Методы производства/Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)|Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)]]
 
 ## Ссылаются

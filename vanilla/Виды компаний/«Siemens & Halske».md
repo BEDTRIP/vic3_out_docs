@@ -25,7 +25,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_germany.txt]
 - **attainable**: скрипт, строки 316–322
 - **possible**: скрипт, строки 324–334
 - **prosperity_modifier**:
-  - `building_power_plant_throughput_add` = `0.15` → [[vanilla/Здания/Электростанции|Электростанции]]
+  - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.15` → [[vanilla/Здания/Электростанции|Электростанции]]
 - **ai_will_do**: скрипт, строки 340–346
 - **ai_construction_targets**: скрипт, строки 348–355
 - **ai_weight**: скрипт, строки 357–359

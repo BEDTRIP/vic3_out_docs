@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **attainable**: скрипт, строки 1326–1332
 - **possible**: скрипт, строки 1334–1344
 - **prosperity_modifier**:
-  - `building_arms_industry_throughput_add` = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
-  - `building_artillery_foundry_throughput_add` = `0.1` → [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-artillery-foundry-throughput-add|building_artillery_foundry_throughput_add]] = `0.1` → [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **ai_will_do**: скрипт, строки 1351–1357
 - **ai_construction_targets**: скрипт, строки 1359–1366
 - **ai_weight**: скрипт, строки 1368–1370

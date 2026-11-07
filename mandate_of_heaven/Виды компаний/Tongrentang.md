@@ -25,9 +25,9 @@ paths: [for addon/Mandate of Heaven/common/company_types/moh_companies_china.txt
 - **attainable**: скрипт, строки 370–376
 - **possible**: скрипт, строки 377–385
 - **prosperity_modifier**:
-  - `building_opium_plantation_throughput_add` = `0.1` → [[vanilla/Здания/Маковые плантации|Маковые плантации]]
-  - `state_mortality_mult` = `-0.05`
-  - `state_standard_of_living_add` = `0.5`
+  - [[vanilla/движок/Модификаторы B#^m-building-opium-plantation-throughput-add|building_opium_plantation_throughput_add]] = `0.1` → [[vanilla/Здания/Маковые плантации|Маковые плантации]]
+  - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.5`
 - **ai_weight**: скрипт, строки 391–393
 - **ai_construction_targets**: скрипт, строки 394–402
 - **ai_will_do**: скрипт, строки 403–409

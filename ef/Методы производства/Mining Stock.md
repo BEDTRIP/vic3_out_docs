@@ -18,7 +18,7 @@ paths: [E&F/common/production_methods/03_ef_mines.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/mining_stock_exchange_b.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_mining_stock_add` = `12.5` → [[ef/Товары/Mining Stock|Mining Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-mining-stock-add|goods_output_mining_stock_add]] = `12.5` → [[ef/Товары/Mining Stock|Mining Stock]]
 
 ## Ссылаются
 

@@ -24,8 +24,8 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **potential**: скрипт, строки 916–918
 - **possible**: скрипт, строки 920–933
 - **prosperity_modifier**:
-  - `state_infrastructure_from_population_add` = `0.5`
-  - `state_infrastructure_from_population_max_add` = `20`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `20`
 - **ai_will_do**: скрипт, строки 940–952
 - **ai_construction_targets**: скрипт, строки 954–964
 - **ai_weight**: скрипт, строки 966–968

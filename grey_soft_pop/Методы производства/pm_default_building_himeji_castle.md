@@ -18,12 +18,12 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_prestige_add` = `40`
+    - [[vanilla/движок/Модификаторы C#^m-country-prestige-add|country_prestige_add]] = `40`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `building_government_administration_throughput_add` = `0.1` → [[vanilla/Здания/Правительственные ведомства|Правительственные ведомства]]
+    - [[vanilla/движок/Модификаторы B#^m-building-government-administration-throughput-add|building_government_administration_throughput_add]] = `0.1` → [[vanilla/Здания/Правительственные ведомства|Правительственные ведомства]]
   - **unscaled**:
-    - `state_migration_pull_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `800` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `800` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]

@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/old_ways.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_food_security_add` = `-0.1`
-  - `building_food_industry_throughput_add` = `-0.1` → [[vc/Здания/Пищевые производства|Пищевые производства]]
+  - [[vanilla/движок/Модификаторы S#^m-state-food-security-add|state_food_security_add]] = `-0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `-0.1` → [[vc/Здания/Пищевые производства|Пищевые производства]]

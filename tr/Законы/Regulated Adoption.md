@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/laws/ztr_bioethics.txt]
 - **progressiveness**: `0`
 - **unlocking_technologies**: [[vanilla/Технологии/Права человека|Права человека]]
 - **modifier**:
-  - `state_birth_rate_mult` = `0.02`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.02`
 - **ai_enact_weight_modifier**: скрипт, строки 37–44
 
 ## Ссылаются

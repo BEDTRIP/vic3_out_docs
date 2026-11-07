@@ -22,9 +22,9 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
   - `unit_navy_defense_mult` = `0.25`
   - `unit_navy_offense_mult` = `0.25`
   - `unit_convoy_defense_mult` = `0.15`
-  - `ship_ship_type_submarine_hull_damage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-ship-type-submarine-hull-damage-mult|ship_ship_type_submarine_hull_damage_mult]] = `0.1`
   - `ship_ship_type_nuclear_submarine_hull_damage_mult` = `0.1`
-  - `country_military_wages_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-military-wages-mult|country_military_wages_mult]] = `0.25`
   - `increase_nuclear_strike_defence_bool_tt` = `yes`
 - **unlocking_technologies**: [[tr/Технологии/Bombing|Bombing]]
 - **ai_weight**: скрипт, строки 572–580

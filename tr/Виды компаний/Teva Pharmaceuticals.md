@@ -25,10 +25,10 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_pharma_companies.txt]
 - **attainable**: скрипт, строки 499–505
 - **possible**: скрипт, строки 506–516
 - **prosperity_modifier**:
-  - `country_weekly_innovation_max_add` = `20`
-  - `country_institution_cost_institution_health_system_mult` = `-0.25`
-  - `state_turmoil_effects_mult` = `-0.25`
-  - `state_birth_rate_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-max-add|country_weekly_innovation_max_add]] = `20`
+  - [[vanilla/движок/Модификаторы C#^m-country-institution-cost-institution-health-system-mult|country_institution_cost_institution_health_system_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `-0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 523–529
 - **ai_construction_targets**: скрипт, строки 530–537
 - **ai_weight**: скрипт, строки 538–540

@@ -32,8 +32,8 @@ replaces: "[[vanilla/Виды компаний/«Schneider et Cie»]]"
 - **attainable**: скрипт, строки 30–36
 - **possible**: скрипт, строки 38–48
 - **prosperity_modifier**:
-  - `unit_morale_loss_mult` = `-0.1`
-  - `unit_morale_recovery_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.1`
+  - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 55–61
 - **ai_construction_targets**: скрипт, строки 63–70
 - **ai_weight**: скрипт, строки 72–74

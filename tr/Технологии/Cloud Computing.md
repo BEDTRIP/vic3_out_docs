@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/cloud_computing.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_max_companies_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-max-companies-add|country_max_companies_add]] = `1`
 - **unlocking_technologies**: [[tr/Технологии/Raw Data Processing|Raw Data Processing]], [[tr/Технологии/Internet|Internet]]
 - **ai_weight**: скрипт, строки 1139–1141
 

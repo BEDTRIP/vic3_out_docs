@@ -40,9 +40,9 @@ replaces: "[[vanilla/Виды компаний/Société française des charbonn
 - **attainable**: скрипт, строки 7904–7912
 - **possible**: скрипт, строки 7914–7925
 - **prosperity_modifier**:
-  - `state_birth_rate_mult` = `0.1`
-  - `goods_output_coal_mult` = `0.1` → [[vanilla/Товары/Уголь|Уголь]]
-  - `goods_output_hardwood_mult` = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-coal-mult|goods_output_coal_mult]] = `0.1` → [[vanilla/Товары/Уголь|Уголь]]
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-hardwood-mult|goods_output_hardwood_mult]] = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
 - **ai_will_do**: скрипт, строки 7933–7938
 - **ai_construction_targets**: скрипт, строки 7940–7947
 - **ai_weight**: скрипт, строки 7949–7951

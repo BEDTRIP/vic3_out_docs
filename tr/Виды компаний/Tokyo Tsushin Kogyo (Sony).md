@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **attainable**: скрипт, строки 703–709
 - **possible**: скрипт, строки 710–724
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
   - `goods_output_elgar_music_mult` = `0.05` → [[tr/Товары/Entertainment|Entertainment]]
   - `building_electronics_industry_throughput_add` = `0.1` → [[tr/Здания/Electronic Components Industries|Electronic Components Industries]]
 - **ai_will_do**: скрипт, строки 730–742

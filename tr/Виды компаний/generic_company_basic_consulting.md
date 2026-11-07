@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_99_basic_companies.txt]
 - **building_types**: [[tr/Здания/Offices|Offices]]
 - **possible**: скрипт, строки 475–484
 - **prosperity_modifier**:
-  - `building_throughput_add` = `0.01`
-  - `state_pop_qualifications_mult` = `0.05`
-  - `country_bureaucracy_investment_cost_factor_mult` = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-throughput-add|building_throughput_add]] = `0.01`
+  - [[vanilla/движок/Модификаторы S#^m-state-pop-qualifications-mult|state_pop_qualifications_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 492–501

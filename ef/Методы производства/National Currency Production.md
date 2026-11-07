@@ -20,7 +20,7 @@ paths: [E&F/common/production_methods/15_ef_bank.txt]
 - **disallowing_laws**: [[ef/Законы/No Market Liquidity|No Market Liquidity]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_liquidity_currency_add` = `1` → [[ef/Товары/Base Money|Base Money]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-liquidity-currency-add|goods_output_liquidity_currency_add]] = `1` → [[ef/Товары/Base Money|Base Money]]
 
 ## Ссылаются
 

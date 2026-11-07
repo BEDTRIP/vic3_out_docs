@@ -18,5 +18,5 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/propagandists.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `country_production_tech_research_speed_mult` = `0.1`
-  - `country_ahead_of_time_research_penalty_mult` = `-0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-ahead-of-time-research-penalty-mult|country_ahead_of_time_research_penalty_mult]] = `-0.1`

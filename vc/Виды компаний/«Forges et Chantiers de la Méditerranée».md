@@ -36,9 +36,9 @@ replaces: "[[vanilla/Виды компаний/«Forges et Chantiers de la Médi
 - **attainable**: скрипт, строки 4659–4665
 - **possible**: скрипт, строки 4667–4677
 - **prosperity_modifier**:
-  - `ship_armor_mult` = `0.05`
-  - `unit_combat_unit_type_heavy_tank_offense_mult` = `0.1`
-  - `ship_hull_damage_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-combat-unit-type-heavy-tank-offense-mult|unit_combat_unit_type_heavy_tank_offense_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.1`
 - **ai_will_do**: скрипт, строки 4685–4691
 - **ai_construction_targets**: скрипт, строки 4693–4700
 - **ai_weight**: скрипт, строки 4702–4704

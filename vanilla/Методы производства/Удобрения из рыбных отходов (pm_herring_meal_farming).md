@@ -20,11 +20,11 @@ paths: [.vanillaVIC3/common/production_methods/02_agro.txt]
 - **unlocking_geographic_regions**: `geographic_region_japan`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_fish_add` = `5` → [[vanilla/Товары/Рыба|Рыба]]
-    - `goods_output_grain_add` = `25` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-fish-add|goods_input_fish_add]] = `5` → [[vanilla/Товары/Рыба|Рыба]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `25` → [[vanilla/Товары/Зерно|Зерно]]
   - **level_scaled**:
-    - `building_employment_laborers_add` = `4000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_farmers_add` = `1000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `4000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1000` → [[vanilla/Население/Типы/Фермеры|Фермеры]]
 
 ## Ссылаются
 

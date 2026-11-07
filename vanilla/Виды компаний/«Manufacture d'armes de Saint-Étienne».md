@@ -26,8 +26,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **attainable**: скрипт, строки 319–325
 - **possible**: скрипт, строки 327–337
 - **prosperity_modifier**:
-  - `unit_offense_mult` = `0.05`
-  - `unit_defense_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.05`
+  - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 344–350
 - **ai_construction_targets**: скрипт, строки 352–359
 - **ai_weight**: скрипт, строки 361–363

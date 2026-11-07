@@ -19,21 +19,21 @@ paths: [E&F/common/production_methods/14_ef_private_construction.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Сооружения со стальными рамами|Сооружения со стальными рамами]]
 - **country_modifiers**:
   - **workforce_scaled**:
-    - `country_construction_add` = `20`
+    - [[vanilla/движок/Модификаторы C#^m-country-construction-add|country_construction_add]] = `20`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_manufacture_stock_add` = `150` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
-    - `goods_input_steel_add` = `12` → [[vanilla/Товары/Сталь|Сталь]]
-    - `goods_input_glass_add` = `10` → [[vanilla/Товары/Стекло|Стекло]]
-    - `goods_input_explosives_add` = `2` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
-    - `goods_input_tools_add` = `4` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-manufacture-stock-add|goods_output_manufacture_stock_add]] = `150` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-steel-add|goods_input_steel_add]] = `12` → [[vanilla/Товары/Сталь|Сталь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-glass-add|goods_input_glass_add]] = `10` → [[vanilla/Товары/Стекло|Стекло]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `2` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `4` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **level_scaled**:
-    - `building_employment_bureaucrats_add` = `100` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
-    - `building_employment_clerks_add` = `175` → [[vanilla/Население/Типы/Служащие|Служащие]]
-    - `building_employment_machinists_add` = `200` → [[vanilla/Население/Типы/Механики|Механики]]
-    - `building_employment_laborers_add` = `1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `100` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `175` → [[vanilla/Население/Типы/Служащие|Служащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `200` → [[vanilla/Население/Типы/Механики|Механики]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
   - **unscaled**:
-    - `building_laborers_mortality_mult` = `0.1`
+    - [[vanilla/движок/Модификаторы B#^m-building-laborers-mortality-mult|building_laborers_mortality_mult]] = `0.1`
 
 ## Ссылаются
 

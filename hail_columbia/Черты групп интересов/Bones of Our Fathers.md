@@ -18,5 +18,5 @@ paths: [for addon/Hail Columbia/common/interest_group_traits/usfp_interest_group
 - **icon**: `gfx/interface/icons/ig_trait_icons/patriotic_fervor.dds`
 - **min_approval**: `loyal`
 - **modifier**:
-  - `state_conscription_rate_add` = `0.10`
-  - `unit_army_defense_mult` = `0.10`
+  - [[vanilla/движок/Модификаторы S#^m-state-conscription-rate-add|state_conscription_rate_add]] = `0.10`
+  - [[vanilla/движок/Модификаторы U#^m-unit-army-defense-mult|unit_army_defense_mult]] = `0.10`

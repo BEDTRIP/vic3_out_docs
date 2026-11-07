@@ -21,13 +21,13 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_economic_incentives_public.txt
 - **unlocking_laws**: пусто
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_ahead_of_time_research_penalty_mult` = `-0.10`
-  - `country_bureaucracy_investment_cost_factor_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-ahead-of-time-research-penalty-mult|country_ahead_of_time_research_penalty_mult]] = `-0.10`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `0.05`
 - **institution**: `institution_incentive_public`
 - **institution_modifier**:
-  - `building_group_bg_technology_tax_mult` = `-0.05`
-  - `building_university_throughput_add` = `0.05` → [[vanilla/Здания/Университеты|Университеты]]
-  - `country_academics_pol_str_mult` = `0.20`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-technology-tax-mult|building_group_bg_technology_tax_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.05` → [[vanilla/Здания/Университеты|Университеты]]
+  - [[vanilla/движок/Модификаторы C#^m-country-academics-pol-str-mult|country_academics_pol_str_mult]] = `0.20`
 - **ai_enact_weight_modifier**: скрипт, строки 95–102
 
 ## Ссылаются

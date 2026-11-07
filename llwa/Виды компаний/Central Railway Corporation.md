@@ -30,8 +30,8 @@ paths: [llwa/common/company_types/LLWA_companies.txt]
   - `always` = `yes`
 - **possible**: скрипт, строки 238–245
 - **prosperity_modifier**:
-  - `building_motor_industry_throughput_add` = `0.05` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
-  - `state_construction_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.05` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
+  - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 252–263
 - **ai_construction_targets**: скрипт, строки 265–273
 - **ai_weight**: скрипт, строки 275–277

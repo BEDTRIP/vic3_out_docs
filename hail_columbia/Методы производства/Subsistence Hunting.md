@@ -19,12 +19,12 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 - **unlocking_laws**: [[hail_columbia/Законы/Land Stewardship|Land Stewardship]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_silk_add` = `1` → [[vanilla/Товары/Шёлк|Шёлк]]
-    - `goods_output_fabric_add` = `1` → [[vanilla/Товары/Ткань|Ткань]]
-    - `goods_output_meat_add` = `1` → [[vanilla/Товары/Мясо|Мясо]]
-    - `building_subsistence_output_add` = `4`
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-silk-add|goods_output_silk_add]] = `1` → [[vanilla/Товары/Шёлк|Шёлк]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fabric-add|goods_output_fabric_add]] = `1` → [[vanilla/Товары/Ткань|Ткань]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-meat-add|goods_output_meat_add]] = `1` → [[vanilla/Товары/Мясо|Мясо]]
+    - [[vanilla/движок/Модификаторы B#^m-building-subsistence-output-add|building_subsistence_output_add]] = `4`
   - **level_scaled**:
-    - `building_employment_soldiers_add` = `100` → [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-soldiers-add|building_employment_soldiers_add]] = `100` → [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]]
 
 ## Ссылаются
 

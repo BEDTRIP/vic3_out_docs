@@ -18,8 +18,8 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/old_ways.dds`
 - **max_approval**: `unhappy`
 - **modifier**:
-  - `state_turmoil_effects_mult` = `0.15`
-  - `country_radicalism_increases_violent_hostility_mult` = `0.1`
-  - `country_radicalism_increases_cultural_erasure_mult` = `0.1`
-  - `state_radicalism_increases_open_prejudice_mult` = `0.1`
-  - `country_radicalism_increases_second_rate_citizen_mult` = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-turmoil-effects-mult|state_turmoil_effects_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicalism-increases-violent-hostility-mult|country_radicalism_increases_violent_hostility_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicalism-increases-cultural-erasure-mult|country_radicalism_increases_cultural_erasure_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-open-prejudice-mult|state_radicalism_increases_open_prejudice_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-radicalism-increases-second-rate-citizen-mult|country_radicalism_increases_second_rate_citizen_mult]] = `0.1`

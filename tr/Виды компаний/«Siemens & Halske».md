@@ -26,4 +26,4 @@ replaces: "[[vanilla/Виды компаний/«Siemens & Halske»]]"
 - **extension_building_types**: [[tr/Здания/Electronic Components Industries|Electronic Components Industries]]
 - **prosperity_modifier**:
   - `building_electronics_industry_throughput_add` = `0.05` → [[tr/Здания/Electronic Components Industries|Electronic Components Industries]]
-  - `building_electrics_industry_throughput_add` = `0.05` → [[tr/Здания/Электрозаводы|Электрозаводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.05` → [[tr/Здания/Электрозаводы|Электрозаводы]]

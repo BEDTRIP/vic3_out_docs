@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **attainable**: скрипт, строки 1180–1188
 - **possible**: скрипт, строки 1190–1203
 - **prosperity_modifier**:
-  - `building_group_bg_agriculture_throughput_add` = `0.1`
-  - `country_production_tech_spread_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 1210–1216
 - **ai_construction_targets**: скрипт, строки 1218–1231
 - **ai_weight**: скрипт, строки 1233–1235

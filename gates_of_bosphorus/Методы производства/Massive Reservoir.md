@@ -19,13 +19,13 @@ paths: [for addon/gatesofbosphorus/common/production_methods/gbbf_07_government_
 - **unlocking_technologies**: [[vanilla/Технологии/Пневматические инструменты|Пневматические инструменты]]
 - **state_modifiers**:
   - **workforce_scaled**:
-    - `state_pollution_generation_add` = `20`
-    - `state_harvest_condition_drought_duration_mult` = `-0.50`
-    - `state_harvest_condition_drought_impact_mult` = `-0.50`
+    - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `20`
+    - [[vanilla/движок/Модификаторы S#^m-state-harvest-condition-drought-duration-mult|state_harvest_condition_drought_duration_mult]] = `-0.50`
+    - [[vanilla/движок/Модификаторы S#^m-state-harvest-condition-drought-impact-mult|state_harvest_condition_drought_impact_mult]] = `-0.50`
 - **building_modifiers**:
   - **level_scaled**:
-    - `building_employment_laborers_add` = `800` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-    - `building_employment_engineers_add` = `200` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `800` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `200` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
 
 ## Ссылаются
 

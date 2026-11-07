@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **texture**: `gfx/interface/icons/invention_icons/videogames.dds`
 - **category**: `society`
 - **modifier**:
-  - `country_influence_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Mass Entertainment|Mass Entertainment]], [[tr/Технологии/Software|Software]]
 - **ai_weight**: скрипт, строки 996–998
 

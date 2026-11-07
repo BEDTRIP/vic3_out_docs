@@ -27,8 +27,8 @@ paths: [.vanillaVIC3/common/company_types/00_companies_italy.txt]
 - **attainable**: скрипт, строки 34–40
 - **possible**: скрипт, строки 42–52
 - **prosperity_modifier**:
-  - `building_railway_throughput_add` = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `building_artillery_foundry_throughput_add` = `0.05` → [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+  - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
+  - [[vanilla/движок/Модификаторы B#^m-building-artillery-foundry-throughput-add|building_artillery_foundry_throughput_add]] = `0.05` → [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **ai_will_do**: скрипт, строки 59–64
 - **ai_construction_targets**: скрипт, строки 66–73
 - **ai_weight**: скрипт, строки 75–77

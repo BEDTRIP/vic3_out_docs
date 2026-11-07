@@ -18,9 +18,9 @@ paths: [.vanillaVIC3/common/production_methods/02_agro.txt]
 - **texture**: `gfx/interface/icons/production_method_icons/orchards.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_grain_add` = `-8` → [[vanilla/Товары/Зерно|Зерно]]
-    - `goods_output_fruit_add` = `7` → [[vanilla/Товары/Фрукты|Фрукты]]
-    - `goods_output_sugar_add` = `1` → [[vanilla/Товары/Сахар|Сахар]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-add|goods_output_grain_add]] = `-8` → [[vanilla/Товары/Зерно|Зерно]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-add|goods_output_fruit_add]] = `7` → [[vanilla/Товары/Фрукты|Фрукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-sugar-add|goods_output_sugar_add]] = `1` → [[vanilla/Товары/Сахар|Сахар]]
 
 ## Ссылаются
 

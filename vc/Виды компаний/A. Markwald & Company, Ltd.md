@@ -36,9 +36,9 @@ replaces: "[[vanilla/Виды компаний/A. Markwald & Company, Ltd]]"
 - **attainable**: скрипт, строки 8398–8406
 - **possible**: скрипт, строки 8408–8418
 - **prosperity_modifier**:
-  - `building_group_bg_ranching_throughput_add` = `0.1`
-  - `building_group_bg_logging_throughput_add` = `0.1`
-  - `goods_output_grain_mult` = `0.15` → [[vanilla/Товары/Зерно|Зерно]]
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-ranching-throughput-add|building_group_bg_ranching_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-throughput-add|building_group_bg_logging_throughput_add]] = `0.1`
+  - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-mult|goods_output_grain_mult]] = `0.15` → [[vanilla/Товары/Зерно|Зерно]]
 - **ai_will_do**: скрипт, строки 8426–8430
 - **ai_construction_targets**: скрипт, строки 8432–8439
 - **ai_weight**: скрипт, строки 8441–8443

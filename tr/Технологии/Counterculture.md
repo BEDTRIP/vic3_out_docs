@@ -20,13 +20,13 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **category**: `society`
 - **modifier**:
   - `country_institution_environmental_policy_max_investment_add` = `1`
-  - `country_infamy_generation_mult` = `0.2`
-  - `country_infamy_generation_against_unrecognized_mult` = `0.2`
-  - `interest_group_ig_devout_pol_str_mult` = `-1`
-  - `interest_group_ig_intelligentsia_pol_str_mult` = `1`
-  - `interest_group_ig_trade_unions_pol_str_mult` = `0.5`
-  - `state_expected_sol_from_literacy` = `1`
-  - `state_working_adult_ratio_add` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-mult|country_infamy_generation_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы C#^m-country-infamy-generation-against-unrecognized-mult|country_infamy_generation_against_unrecognized_mult]] = `0.2`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-devout-pol-str-mult|interest_group_ig_devout_pol_str_mult]] = `-1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-pol-str-mult|interest_group_ig_intelligentsia_pol_str_mult]] = `1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-trade-unions-pol-str-mult|interest_group_ig_trade_unions_pol_str_mult]] = `0.5`
+  - [[vanilla/движок/Модификаторы S#^m-state-expected-sol-from-literacy|state_expected_sol_from_literacy]] = `1`
+  - [[vanilla/движок/Модификаторы S#^m-state-working-adult-ratio-add|state_working_adult_ratio_add]] = `0.05`
 - **unlocking_technologies**: [[tr/Технологии/Деколонизация|Деколонизация]], [[tr/Технологии/Массовая агитация|Массовая агитация]]
 - **ai_weight**: скрипт, строки 620–622
 

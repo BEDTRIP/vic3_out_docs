@@ -28,7 +28,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_tech_companies.txt]
 - **prosperity_modifier**:
   - `building_computer_assembly_plant_throughput_add` = `0.05` → [[tr/Здания/Computer Assembly Plants|Computer Assembly Plants]]
   - `goods_output_ai_systems_mult` = `0.05` → [[tr/Товары/AI Systems|AI Systems]]
-  - `country_prestige_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
 - **ai_will_do**: скрипт, строки 804–810
 - **ai_construction_targets**: скрипт, строки 811–818
 - **ai_weight**: скрипт, строки 819–821

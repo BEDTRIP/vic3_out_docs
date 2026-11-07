@@ -19,10 +19,10 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_centralization.txt]
 - **icon**: `gfx/interface/icons/ai_strategy_icons/armed_isolationism.dds`
 - **progressiveness**: `50`
 - **modifier**:
-  - `country_government_dividends_efficiency_add` = `0.35`
-  - `country_government_dividends_reinvestment_add` = `-0.35`
-  - `country_bureaucracy_investment_cost_factor_mult` = `0.25`
-  - `state_bureaucracy_population_base_cost_factor_mult` = `0.25`
+  - [[vanilla/движок/Модификаторы C#^m-country-government-dividends-efficiency-add|country_government_dividends_efficiency_add]] = `0.35`
+  - [[vanilla/движок/Модификаторы C#^m-country-government-dividends-reinvestment-add|country_government_dividends_reinvestment_add]] = `-0.35`
+  - [[vanilla/движок/Модификаторы C#^m-country-bureaucracy-investment-cost-factor-mult|country_bureaucracy_investment_cost_factor_mult]] = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-bureaucracy-population-base-cost-factor-mult|state_bureaucracy_population_base_cost_factor_mult]] = `0.25`
 - **on_enact**: пусто
 - **disallowing_laws**: [[tgr/Законы/Традиционализм|Традиционализм]], [[tgr/Законы/Аграрность|Аграрность]], [[tgr/Законы/Добывающая экономика|Добывающая экономика]], [[tgr/Законы/Свободная конкуренция|Свободная конкуренция]], [[tgr/Законы/Анархия|Анархия]]
 - **unlocking_laws**: [[tgr/Законы/Командная экономика|Командная экономика]]

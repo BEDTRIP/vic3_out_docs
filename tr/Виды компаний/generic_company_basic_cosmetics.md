@@ -23,5 +23,5 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_99_basic_companies.txt]
 - **extension_building_types**: [[tr/Здания/Академии искусств|Академии искусств]]
 - **possible**: скрипт, строки 431–440
 - **prosperity_modifier**:
-  - `state_standard_of_living_add` = `0.25`
+  - [[vanilla/движок/Модификаторы S#^m-state-standard-of-living-add|state_standard_of_living_add]] = `0.25`
 - **ai_will_do**: скрипт, строки 446–455

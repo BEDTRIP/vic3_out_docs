@@ -25,10 +25,10 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_comunication_companies.txt]
 - **attainable**: скрипт, строки 151–157
 - **possible**: скрипт, строки 158–168
 - **prosperity_modifier**:
-  - `country_prestige_mult` = `0.1`
-  - `interest_group_ig_industrialists_pol_str_mult` = `-0.05`
-  - `interest_group_ig_rural_folk_approval_add` = `1`
-  - `interest_group_ig_intelligentsia_approval_add` = `1`
+  - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `-0.05`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-rural-folk-approval-add|interest_group_ig_rural_folk_approval_add]] = `1`
+  - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-intelligentsia-approval-add|interest_group_ig_intelligentsia_approval_add]] = `1`
 - **ai_will_do**: скрипт, строки 175–181
 - **ai_construction_targets**: скрипт, строки 182–189
 - **ai_weight**: скрипт, строки 190–192

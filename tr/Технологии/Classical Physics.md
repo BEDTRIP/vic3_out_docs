@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_production.txt]
 - **category**: `production`
 - **unlocking_technologies**: пусто
 - **modifier**:
-  - `country_tech_research_speed_mult` = `0.05`
+  - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.05`
 - **ai_weight**: скрипт, строки 18–20
 
 ## Ссылаются
