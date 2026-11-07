@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_phosphat_Gafsa» — grey USU 1.13, `company_phosphat_Gafsa`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_phosphat_Gafsa"]
 tags: [grey_usu, вид-компании]

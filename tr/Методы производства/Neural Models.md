@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Neural Models» — T&R 1.13, `pm_neural_model_training`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neural Models", "pm_neural_model_training"]
 tags: [tr, метод-производства]

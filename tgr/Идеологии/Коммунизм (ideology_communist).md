@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Коммунизм (ideology_communist)» — TGR 1.13, `ideology_communist`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Коммунизм (ideology_communist)", "Communist", "ideology_communist"]
 tags: [TGR, идеология]

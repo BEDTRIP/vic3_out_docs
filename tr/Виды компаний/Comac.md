@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Comac» — T&R 1.13, `company_comac`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Comac", "company_comac"]
 tags: [tr, вид-компании]

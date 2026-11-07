@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fracking» — T&R 1.13, `pm_gas_hydraulic_fracturing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fracking", "pm_gas_hydraulic_fracturing"]
 tags: [tr, метод-производства]

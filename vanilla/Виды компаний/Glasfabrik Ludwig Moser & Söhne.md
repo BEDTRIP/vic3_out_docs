@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — ваниль 1.13, `company_ludwig_moser_and_sons`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Glasfabrik Ludwig Moser & Söhne", "company_ludwig_moser_and_sons"]
 tags: [ваниль, вид-компании]

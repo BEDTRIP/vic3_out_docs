@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Australian Securities Exchange» — E&F 1.13, `building_financial_centre_nsw`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Australian Securities Exchange", "building_financial_centre_nsw"]
 tags: [ef, здание]

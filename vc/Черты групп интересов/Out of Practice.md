@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Out of Practice» — VC 1.13, `ig_trait_fighting_elsewhere`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Out of Practice", "ig_trait_fighting_elsewhere"]
 tags: [VC, черта-группы-интересов]

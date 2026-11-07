@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Interactive Media» — T&R 1.13, `interactive_media`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Interactive Media", "interactive_media"]
 tags: [tr, технология]

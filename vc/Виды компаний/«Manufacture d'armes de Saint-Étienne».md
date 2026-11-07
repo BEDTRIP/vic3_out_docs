@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Manufacture d'armes de Saint-Étienne»» — VC 1.13, `company_saint_etienne`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Manufacture d'armes de Saint-Étienne»", "Manufacture d'armes de Saint-Étienne", "company_saint_etienne"]
 tags: [VC, вид-компании]

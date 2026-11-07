@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Workers' Community» — VC 1.13, `ig_trait_workers_community`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Workers' Community", "ig_trait_workers_community"]
 tags: [VC, черта-группы-интересов]

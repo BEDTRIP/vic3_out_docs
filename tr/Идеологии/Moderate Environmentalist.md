@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Moderate Environmentalist» — T&R 1.13, `ideology_moderate_ambientalist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Moderate Environmentalist", "ideology_moderate_ambientalist"]
 tags: [tr, идеология]

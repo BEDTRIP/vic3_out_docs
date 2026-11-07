@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Alternating Current Transmission (Global) (pm_alternating_current_large)» — T&R 1.13, `pm_alternating_current_large`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alternating Current Transmission (Global) (pm_alternating_current_large)", "Alternating Current Transmission (Global)", "pm_alternating_current_large"]
 tags: [tr, метод-производства]

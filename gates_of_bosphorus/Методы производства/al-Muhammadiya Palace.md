@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «al-Muhammadiya Palace» — Gates of Bosphorus 1.13, `pm_gbbf_mohamedia_palace`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["al-Muhammadiya Palace", "pm_gbbf_mohamedia_palace"]
 tags: [gates_of_bosphorus, метод-производства]

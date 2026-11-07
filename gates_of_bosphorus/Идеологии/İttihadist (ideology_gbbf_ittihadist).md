@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «İttihadist (ideology_gbbf_ittihadist)» — Gates of Bosphorus 1.13, `ideology_gbbf_ittihadist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["İttihadist (ideology_gbbf_ittihadist)", "İttihadist", "ideology_gbbf_ittihadist"]
 tags: [gates_of_bosphorus, идеология]

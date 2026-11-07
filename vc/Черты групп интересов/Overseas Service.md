@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Overseas Service» — VC 1.13, `ig_trait_oversea_service`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Overseas Service", "ig_trait_oversea_service"]
 tags: [VC, черта-группы-интересов]

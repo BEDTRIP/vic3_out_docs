@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Plastic Recovery» — T&R 1.13, `plastic_recovery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Plastic Recovery", "plastic_recovery"]
 tags: [tr, технология]

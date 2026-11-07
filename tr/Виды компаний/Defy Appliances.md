@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Defy Appliances» — T&R 1.13, `company_defy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Defy Appliances", "company_defy"]
 tags: [tr, вид-компании]

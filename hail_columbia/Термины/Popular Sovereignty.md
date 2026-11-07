@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Popular Sovereignty» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_popular_sovereignty`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Popular Sovereignty", "concept_usfp_popular_sovereignty"]
 tags: [hail_columbia, термин]

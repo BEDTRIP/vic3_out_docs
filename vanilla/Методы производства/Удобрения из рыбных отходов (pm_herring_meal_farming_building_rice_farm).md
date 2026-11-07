@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Удобрения из рыбных отходов (pm_herring_meal_farming_building_rice_farm)» — ваниль 1.13, `pm_herring_meal_farming_building_rice_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Удобрения из рыбных отходов (pm_herring_meal_farming_building_rice_farm)", "Удобрения из рыбных отходов", "pm_herring_meal_farming_building_rice_farm"]
 tags: [ваниль, метод-производства]

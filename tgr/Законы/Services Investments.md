@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Services Investments» — TGR 1.13, `economic_incentives_services`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Services Investments", "economic_incentives_services"]
 tags: [TGR, закон]

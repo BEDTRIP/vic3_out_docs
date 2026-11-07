@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Выдающийся палеонтолог (dubois_paleontologist_experienced)» — Morgenröte 1.13, `dubois_paleontologist_experienced`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Выдающийся палеонтолог (dubois_paleontologist_experienced)", "Distinguished Paleontologist", "dubois_paleontologist_experienced"]
 tags: [Morgenröte, черта]

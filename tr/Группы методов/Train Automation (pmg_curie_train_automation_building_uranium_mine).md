@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Train Automation (pmg_curie_train_automation_building_uranium_mine)» — T&R 1.13, `pmg_curie_train_automation_building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Train Automation (pmg_curie_train_automation_building_uranium_mine)", "Train Automation", "pmg_curie_train_automation_building_uranium_mine"]
 tags: [tr, группа-методов]

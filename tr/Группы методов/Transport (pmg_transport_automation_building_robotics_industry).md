@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Transport (pmg_transport_automation_building_robotics_industry)» — T&R 1.13, `pmg_transport_automation_building_robotics_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Transport (pmg_transport_automation_building_robotics_industry)", "Transport", "pmg_transport_automation_building_robotics_industry"]
 tags: [tr, группа-методов]

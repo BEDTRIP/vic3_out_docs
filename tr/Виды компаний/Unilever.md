@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Unilever» — T&R 1.13, `company_unilever`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Unilever", "company_unilever"]
 tags: [tr, вид-компании]

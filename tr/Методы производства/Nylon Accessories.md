@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nylon Accessories» — T&R 1.13, `pm_nylon_accessories`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nylon Accessories", "pm_nylon_accessories"]
 tags: [tr, метод-производства]

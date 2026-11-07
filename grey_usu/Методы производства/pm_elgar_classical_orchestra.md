@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_elgar_classical_orchestra» — grey USU 1.13, `pm_elgar_classical_orchestra`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_elgar_classical_orchestra"]
 tags: [grey_usu, метод-производства]

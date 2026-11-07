@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Monetary Moderates» — E&F 1.13, `ideology_monetary_moderate`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary Moderates", "ideology_monetary_moderate"]
 tags: [ef, идеология]

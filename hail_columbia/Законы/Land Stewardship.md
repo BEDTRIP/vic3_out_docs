@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Land Stewardship» — Hail Columbia 1.13, `law_usfp_tribal_land_ownership`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Land Stewardship", "law_usfp_tribal_land_ownership"]
 tags: [hail_columbia, закон]

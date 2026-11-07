@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Motorbuses» — LLWA 1.13, `LLWA_pm_motor_buses`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Motorbuses", "LLWA_pm_motor_buses"]
 tags: [LLWA, метод-производства]

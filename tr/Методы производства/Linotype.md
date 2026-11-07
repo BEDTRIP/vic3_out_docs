@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Linotype» — T&R 1.13, `manzoni_pm_linotype`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Linotype", "manzoni_pm_linotype"]
 tags: [tr, метод-производства]

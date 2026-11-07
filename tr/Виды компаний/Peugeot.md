@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Peugeot» — T&R 1.13, `company_peugeot`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Peugeot", "company_peugeot"]
 tags: [tr, вид-компании]

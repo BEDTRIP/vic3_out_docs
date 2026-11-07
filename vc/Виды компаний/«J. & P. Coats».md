@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««J. & P. Coats»» — VC 1.13, `company_j_p_coats`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«J. & P. Coats»", "J. & P. Coats", "company_j_p_coats"]
 tags: [VC, вид-компании]

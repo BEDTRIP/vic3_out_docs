@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Transistor Radios» — T&R 1.13, `pm_transistor_radios`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Transistor Radios", "pm_transistor_radios"]
 tags: [tr, метод-производства]

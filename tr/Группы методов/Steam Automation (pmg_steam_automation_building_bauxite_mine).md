@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Steam Automation (pmg_steam_automation_building_bauxite_mine)» — T&R 1.13, `pmg_steam_automation_building_bauxite_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Steam Automation (pmg_steam_automation_building_bauxite_mine)", "Steam Automation", "pmg_steam_automation_building_bauxite_mine"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Monetary Policy» — E&F 1.13, `pmg_monetary_policy`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary Policy", "pmg_monetary_policy"]
 tags: [ef, группа-методов]

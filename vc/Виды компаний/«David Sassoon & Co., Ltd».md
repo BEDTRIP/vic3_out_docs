@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««David Sassoon & Co., Ltd»» — VC 1.13, `company_david_sassoon`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«David Sassoon & Co., Ltd»", "David Sassoon & Co., Ltd", "company_david_sassoon"]
 tags: [VC, вид-компании]

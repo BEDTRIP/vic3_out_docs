@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Sea Water Filtration» — T&R 1.13, `pm_advanced_desalinated_water_filtration`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Sea Water Filtration", "pm_advanced_desalinated_water_filtration"]
 tags: [tr, метод-производства]

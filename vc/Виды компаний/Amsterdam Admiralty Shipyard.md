@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Amsterdam Admiralty Shipyard» — VC 1.13, `company_admiralty_rijkswerf`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Amsterdam Admiralty Shipyard", "company_admiralty_rijkswerf"]
 tags: [VC, вид-компании]

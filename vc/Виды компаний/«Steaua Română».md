@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Steaua Română»» — VC 1.13, `company_romanian_star`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Steaua Română»", "Steaua Română", "company_romanian_star"]
 tags: [VC, вид-компании]

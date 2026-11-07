@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_abisko_national_park» — grey soft pop 1.13, `pm_default_building_abisko_national_park`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_abisko_national_park"]
 tags: [grey_soft_pop, метод-производства]

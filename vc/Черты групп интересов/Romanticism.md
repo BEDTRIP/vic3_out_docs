@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Romanticism» — VC 1.13, `ig_trait_romanticism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Romanticism", "ig_trait_romanticism"]
 tags: [VC, черта-группы-интересов]

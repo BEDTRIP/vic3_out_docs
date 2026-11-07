@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Advisory Parliament Only» — TGR 1.13, `law_advisory_parliament_only`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Advisory Parliament Only", "law_advisory_parliament_only"]
 tags: [TGR, закон]

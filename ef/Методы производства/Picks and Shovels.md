@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Picks and Shovels» — E&F 1.13, `pm_picks_and_shovels_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Picks and Shovels", "pm_picks_and_shovels_building_silver_mine"]
 tags: [ef, метод-производства]

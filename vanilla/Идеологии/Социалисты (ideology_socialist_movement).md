@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Социалисты (ideology_socialist_movement)» — ваниль 1.13, `ideology_socialist_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Социалисты (ideology_socialist_movement)", "Социалисты", "ideology_socialist_movement"]
 tags: [ваниль, идеология]

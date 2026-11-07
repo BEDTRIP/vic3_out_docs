@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hormonal Feedlots» — T&R 1.13, `pm_hormonal_feedlots`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hormonal Feedlots", "pm_hormonal_feedlots"]
 tags: [tr, метод-производства]

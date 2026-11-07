@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_MexicanRailway» — grey USU 1.13, `company_MexicanRailway`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_MexicanRailway"]
 tags: [grey_usu, вид-компании]

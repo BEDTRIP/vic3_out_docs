@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Vertically Integrated Plantations» — VC 1.13, `united_fruit_banana_tech`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Vertically Integrated Plantations", "united_fruit_banana_tech"]
 tags: [VC, технология]

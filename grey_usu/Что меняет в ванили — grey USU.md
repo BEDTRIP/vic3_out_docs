@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод grey USU меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: grey_usu
 tags: [grey_usu, что-меняет]
 generated: "v3 graph mods"

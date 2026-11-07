@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «MRI Development» — T&R 1.13, `mri_development`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["MRI Development", "mri_development"]
 tags: [tr, технология]

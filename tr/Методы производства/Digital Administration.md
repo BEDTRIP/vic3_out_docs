@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Administration» — T&R 1.13, `pm_advanced_data_networks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Administration", "pm_advanced_data_networks"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Diário de Notícias»» — Morgenröte 1.13, `pbi_company_diario_de_noticias`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«Diário de Notícias»", "Diário de Notícias", "pbi_company_diario_de_noticias"]
 tags: [Morgenröte, вид-компании]

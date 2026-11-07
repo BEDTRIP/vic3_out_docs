@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Radar Fortification» — T&R 1.13, `pm_naval_fortification_radar_batteries`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Radar Fortification", "pm_naval_fortification_radar_batteries"]
 tags: [tr, метод-производства]

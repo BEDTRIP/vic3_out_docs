@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Standard Pollution Regulations» — TGR 1.13, `law_standard_environment_regulations`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Standard Pollution Regulations", "law_standard_environment_regulations"]
 tags: [TGR, закон]

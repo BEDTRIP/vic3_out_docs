@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Statists» — VC 1.13, `ideology_economic_statism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Statists", "ideology_economic_statism"]
 tags: [VC, идеология]

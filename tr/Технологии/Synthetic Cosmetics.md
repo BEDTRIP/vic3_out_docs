@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Synthetic Cosmetics» — T&R 1.13, `synthetic_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Cosmetics", "synthetic_cosmetics"]
 tags: [tr, технология]

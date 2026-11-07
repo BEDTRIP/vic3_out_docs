@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Prada» — T&R 1.13, `company_prada`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Prada", "company_prada"]
 tags: [tr, вид-компании]

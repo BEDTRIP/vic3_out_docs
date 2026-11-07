@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Warner Bros. Pictures» — Hail Columbia 1.13, `company_usfp_us_warner_bros`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Warner Bros. Pictures", "company_usfp_us_warner_bros"]
 tags: [hail_columbia, вид-компании]

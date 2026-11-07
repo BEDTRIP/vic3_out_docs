@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Vertically Integrated Cultivation» — VC 1.13, `united_fruit_banana`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Vertically Integrated Cultivation", "united_fruit_banana"]
 tags: [VC, метод-производства]

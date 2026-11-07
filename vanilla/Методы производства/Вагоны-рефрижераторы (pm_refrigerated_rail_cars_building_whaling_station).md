@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_whaling_station)» — ваниль 1.13, `pm_refrigerated_rail_cars_building_whaling_station`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_whaling_station)", "Refrigerated Rail Cars", "pm_refrigerated_rail_cars_building_whaling_station"]
 tags: [ваниль, метод-производства]

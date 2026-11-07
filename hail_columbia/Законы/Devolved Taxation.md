@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Devolved Taxation» — Hail Columbia 1.13, `law_usfp_devolved_taxation`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Devolved Taxation", "law_usfp_devolved_taxation"]
 tags: [hail_columbia, закон]

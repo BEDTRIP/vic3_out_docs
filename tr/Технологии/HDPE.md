@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «HDPE» — T&R 1.13, `hdpe`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HDPE", "hdpe"]
 tags: [tr, технология]

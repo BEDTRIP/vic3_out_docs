@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «The Biljarda» — Gates of Bosphorus 1.13, `pm_gbbf_biljarda`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["The Biljarda", "pm_gbbf_biljarda"]
 tags: [gates_of_bosphorus, метод-производства]

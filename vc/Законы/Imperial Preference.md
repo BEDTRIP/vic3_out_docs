@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Imperial Preference» — VC 1.13, `law_imperial_preference`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Imperial Preference", "law_imperial_preference"]
 tags: [VC, закон]

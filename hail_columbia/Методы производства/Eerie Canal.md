@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Eerie Canal» — Hail Columbia 1.13, `pm_usfp_eerie_canal`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Eerie Canal", "pm_usfp_eerie_canal"]
 tags: [hail_columbia, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque Canadienne Impériale de Commerce» — E&F 1.13, `company_CanadianImperialBankOfCommerce`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque Canadienne Impériale de Commerce", "company_CanadianImperialBankOfCommerce"]
 tags: [ef, вид-компании]

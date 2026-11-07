@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Сёдзёи (ideology_shojoi)» — ваниль 1.13, `ideology_shojoi`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Сёдзёи (ideology_shojoi)", "Shōjōi", "ideology_shojoi"]
 tags: [ваниль, идеология]

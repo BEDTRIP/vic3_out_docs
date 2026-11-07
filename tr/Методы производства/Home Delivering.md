@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Home Delivering» — T&R 1.13, `pm_delivering_bakery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Home Delivering", "pm_delivering_bakery"]
 tags: [tr, метод-производства]

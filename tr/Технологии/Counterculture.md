@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Counterculture» — T&R 1.13, `counterculture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Counterculture", "counterculture"]
 tags: [tr, технология]

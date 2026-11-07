@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Statutory Privileges» — VC 1.13, `ig_trait_statutory_privilege`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Statutory Privileges", "ig_trait_statutory_privilege"]
 tags: [VC, черта-группы-интересов]

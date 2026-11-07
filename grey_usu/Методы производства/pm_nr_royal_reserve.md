@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_nr_royal_reserve» — grey USU 1.13, `pm_nr_royal_reserve`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_nr_royal_reserve"]
 tags: [grey_usu, метод-производства]

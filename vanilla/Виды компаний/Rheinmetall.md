@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Rheinmetall» — ваниль 1.13, `company_rheinmetall`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Rheinmetall", "company_rheinmetall"]
 tags: [ваниль, вид-компании]

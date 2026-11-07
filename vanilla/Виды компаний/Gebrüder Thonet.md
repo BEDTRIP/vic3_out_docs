@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Gebrüder Thonet» — ваниль 1.13, `company_gebruder_thonet`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Gebrüder Thonet", "company_gebruder_thonet"]
 tags: [ваниль, вид-компании]

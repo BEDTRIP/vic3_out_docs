@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Local Tyrants» — VC 1.13, `ig_trait_local_emperor`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Local Tyrants", "ig_trait_local_emperor"]
 tags: [VC, черта-группы-интересов]

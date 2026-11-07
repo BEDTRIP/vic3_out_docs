@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Fiat Standard» — E&F 1.13, `law_fiat_standard`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Fiat Standard", "law_fiat_standard"]
 tags: [ef, закон]

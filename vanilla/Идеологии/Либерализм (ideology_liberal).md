@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Либерализм (ideology_liberal)» — ваниль 1.13, `ideology_liberal`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Либерализм (ideology_liberal)", "Liberal", "ideology_liberal"]
 tags: [ваниль, идеология]

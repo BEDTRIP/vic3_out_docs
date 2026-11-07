@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Robotic Assembly Lines (pm_robotic_building_ecommerce_logistics)» — T&R 1.13, `pm_robotic_building_ecommerce_logistics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Robotic Assembly Lines (pm_robotic_building_ecommerce_logistics)", "Robotic Assembly Lines", "pm_robotic_building_ecommerce_logistics"]
 tags: [tr, метод-производства]

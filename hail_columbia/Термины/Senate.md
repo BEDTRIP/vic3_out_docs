@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Senate» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_senate`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Senate", "concept_usfp_senate"]
 tags: [hail_columbia, термин]

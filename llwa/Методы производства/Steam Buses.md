@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Steam Buses» — LLWA 1.13, `LLWA_pm_steam_buses`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Steam Buses", "LLWA_pm_steam_buses"]
 tags: [LLWA, метод-производства]

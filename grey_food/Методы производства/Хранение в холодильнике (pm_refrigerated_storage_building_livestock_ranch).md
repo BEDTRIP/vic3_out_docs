@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)» — grey food 1.13, `pm_refrigerated_storage_building_livestock_ranch`"
 project: vic3
+audience: agent
 source: grey_food
 aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)", "Refrigerated Storage", "pm_refrigerated_storage_building_livestock_ranch"]
 tags: [grey_food, метод-производства]

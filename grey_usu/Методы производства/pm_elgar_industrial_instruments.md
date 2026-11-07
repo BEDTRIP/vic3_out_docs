@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_elgar_industrial_instruments» — grey USU 1.13, `pm_elgar_industrial_instruments`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_elgar_industrial_instruments"]
 tags: [grey_usu, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Goldman Sachs» — E&F 1.13, `company_BankGoldmanSachs`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Goldman Sachs", "company_BankGoldmanSachs"]
 tags: [ef, вид-компании]

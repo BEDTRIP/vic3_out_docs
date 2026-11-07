@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Heavy Fuel» — T&R 1.13, `heavy_fuel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Heavy Fuel", "heavy_fuel"]
 tags: [tr, товар]

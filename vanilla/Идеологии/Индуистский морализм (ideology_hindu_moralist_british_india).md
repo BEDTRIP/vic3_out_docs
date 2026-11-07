@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Индуистский морализм (ideology_hindu_moralist_british_india)» — ваниль 1.13, `ideology_hindu_moralist_british_india`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Индуистский морализм (ideology_hindu_moralist_british_india)", "Hindu Moralist", "ideology_hindu_moralist_british_india"]
 tags: [ваниль, идеология]

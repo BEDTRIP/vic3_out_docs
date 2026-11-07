@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Bordeaux Vineyards» — VC 1.13, `ig_trait_bordeaux_wine`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Bordeaux Vineyards", "ig_trait_bordeaux_wine"]
 tags: [VC, черта-группы-интересов]

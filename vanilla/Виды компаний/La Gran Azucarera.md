@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «La Gran Azucarera» — ваниль 1.13, `company_gran_azucarera`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["La Gran Azucarera", "company_gran_azucarera"]
 tags: [ваниль, вид-компании]

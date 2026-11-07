@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Airplanes» — T&R 1.13, `civil_planes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Airplanes", "civil_planes"]
 tags: [tr, товар]

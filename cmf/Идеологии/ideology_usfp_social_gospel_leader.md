@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_usfp_social_gospel_leader» — CMF 1.13, `ideology_usfp_social_gospel_leader`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["ideology_usfp_social_gospel_leader"]
 tags: [CMF, идеология]

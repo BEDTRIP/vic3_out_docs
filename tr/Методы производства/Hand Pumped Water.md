@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hand Pumped Water» — T&R 1.13, `pm_hand_pumped_water`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hand Pumped Water", "pm_hand_pumped_water"]
 tags: [tr, метод-производства]

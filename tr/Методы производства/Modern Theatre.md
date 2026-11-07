@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Theatre» — T&R 1.13, `modern_productions_pm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Theatre", "modern_productions_pm"]
 tags: [tr, метод-производства]

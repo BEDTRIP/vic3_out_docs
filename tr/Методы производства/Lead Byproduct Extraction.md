@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Lead Byproduct Extraction» — T&R 1.13, `selective_mineral_extraction_sulfur_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Lead Byproduct Extraction", "selective_mineral_extraction_sulfur_mine"]
 tags: [tr, метод-производства]

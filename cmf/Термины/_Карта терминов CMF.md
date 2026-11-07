@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода CMF — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: cmf
 tags: [cmf, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

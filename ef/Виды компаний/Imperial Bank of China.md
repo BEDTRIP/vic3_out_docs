@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Imperial Bank of China» — E&F 1.13, `company_BankIBC`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Imperial Bank of China", "company_BankIBC"]
 tags: [ef, вид-компании]

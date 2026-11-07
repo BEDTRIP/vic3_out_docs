@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «South German Gulden» — E&F 1.13, `law_gulden_south_german_gulden_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["South German Gulden", "law_gulden_south_german_gulden_currency"]
 tags: [ef, закон]

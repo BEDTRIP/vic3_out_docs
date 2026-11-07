@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Laissez-Faire (ideology_eco_laissez_faire)» — BPM 1.13, `ideology_eco_laissez_faire`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Laissez-Faire (ideology_eco_laissez_faire)", "Laissez-Faire", "ideology_eco_laissez_faire"]
 tags: [BPM, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Court Dissatisfaction» — подсказка-понятие Victoria 3 1.13 (`concept_sublime_court_dissatisfaction`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Court Dissatisfaction", "concept_sublime_court_dissatisfaction"]
 tags: [vc, термин]

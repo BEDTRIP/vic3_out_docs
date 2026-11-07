@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_maize_farm)» — ваниль 1.13, `pmg_base_building_maize_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_maize_farm)", "Основа", "pmg_base_building_maize_farm"]
 tags: [ваниль, группа-методов]

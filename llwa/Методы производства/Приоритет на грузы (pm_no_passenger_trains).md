@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Приоритет на грузы (pm_no_passenger_trains)» — LLWA 1.13, `pm_no_passenger_trains`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Приоритет на грузы (pm_no_passenger_trains)", "Cargo Prioritization", "pm_no_passenger_trains"]
 tags: [LLWA, метод-производства]

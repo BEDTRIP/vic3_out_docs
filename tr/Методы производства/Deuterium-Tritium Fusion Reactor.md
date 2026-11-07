@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Deuterium-Tritium Fusion Reactor» — T&R 1.13, `pm_fusion_reactor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Deuterium-Tritium Fusion Reactor", "pm_fusion_reactor"]
 tags: [tr, метод-производства]

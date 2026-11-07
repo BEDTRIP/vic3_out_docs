@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Chemical Pulp Recovery» — T&R 1.13, `pm_chemical_pulp_recovery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Chemical Pulp Recovery", "pm_chemical_pulp_recovery"]
 tags: [tr, метод-производства]

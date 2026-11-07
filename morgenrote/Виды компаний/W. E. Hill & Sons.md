@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «W. E. Hill & Sons» — Morgenröte 1.13, `elgar_company_w_e_hill`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["W. E. Hill & Sons", "elgar_company_w_e_hill"]
 tags: [Morgenröte, вид-компании]

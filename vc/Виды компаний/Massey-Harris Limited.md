@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Massey-Harris Limited» — VC 1.13, `company_massey_harris`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Massey-Harris Limited", "company_massey_harris"]
 tags: [VC, вид-компании]

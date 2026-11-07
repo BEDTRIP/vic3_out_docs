@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Deloitte» — T&R 1.13, `company_deloitte`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Deloitte", "company_deloitte"]
 tags: [tr, вид-компании]

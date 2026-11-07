@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Iron Deposit Scavenging» — T&R 1.13, `selective_mineral_extraction_commonores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Iron Deposit Scavenging", "selective_mineral_extraction_commonores_mine"]
 tags: [tr, метод-производства]

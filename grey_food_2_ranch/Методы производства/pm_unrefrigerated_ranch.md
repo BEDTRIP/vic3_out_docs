@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_unrefrigerated_ranch» — grey food 2 ranch 1.13, `pm_unrefrigerated_ranch`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_unrefrigerated_ranch"]
 tags: [grey_food_2_ranch, метод-производства]

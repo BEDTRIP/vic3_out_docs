@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Beverages & Cola» — T&R 1.13, `pm_beverages_cola`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Beverages & Cola", "pm_beverages_cola"]
 tags: [tr, метод-производства]

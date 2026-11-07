@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Exchange Currency (Forex)» — подсказка-понятие Victoria 3 1.13 (`concept_exchange_currency`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Exchange Currency (Forex)", "concept_exchange_currency"]
 tags: [ef, термин]

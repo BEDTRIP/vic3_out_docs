@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ferrocarril Central Córdoba»» — grey USU 1.13, `company_cordoba_railway`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Ferrocarril Central Córdoba»", "Ferrocarril Central Córdoba", "company_cordoba_railway"]
 tags: [grey_usu, вид-компании]

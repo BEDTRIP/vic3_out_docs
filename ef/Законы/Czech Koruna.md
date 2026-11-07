@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Czech Koruna» — E&F 1.13, `law_krone_czech_koruna_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Czech Koruna", "law_krone_czech_koruna_currency"]
 tags: [ef, закон]

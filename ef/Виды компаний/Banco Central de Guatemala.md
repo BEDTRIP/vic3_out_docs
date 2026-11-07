@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Central de Guatemala» — E&F 1.13, `company_BancoCentralDeGuatemala`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Central de Guatemala", "company_BancoCentralDeGuatemala"]
 tags: [ef, вид-компании]

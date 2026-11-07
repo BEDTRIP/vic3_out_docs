@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Condensing Engine Pump» — E&F 1.13, `pm_condensing_engine_pump_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Condensing Engine Pump", "pm_condensing_engine_pump_building_silver_mine"]
 tags: [ef, метод-производства]

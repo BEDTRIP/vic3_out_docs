@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода E&F — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: ef
 tags: [ef, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

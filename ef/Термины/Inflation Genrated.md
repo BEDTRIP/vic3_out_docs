@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Inflation Genrated» — подсказка-понятие Victoria 3 1.13 (`concept_inflation_genrated`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Inflation Genrated", "concept_inflation_genrated"]
 tags: [ef, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Maison Worth» — ваниль 1.13, `company_maison_worth`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Maison Worth", "company_maison_worth"]
 tags: [ваниль, вид-компании]

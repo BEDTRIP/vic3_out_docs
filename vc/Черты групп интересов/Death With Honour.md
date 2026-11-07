@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Death With Honour» — VC 1.13, `ig_trait_soldier_king`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Death With Honour", "ig_trait_soldier_king"]
 tags: [VC, черта-группы-интересов]

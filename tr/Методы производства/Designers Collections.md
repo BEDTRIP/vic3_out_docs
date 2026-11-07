@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Designers Collections» — T&R 1.13, `pm_designers_furniture_collections`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Designers Collections", "pm_designers_furniture_collections"]
 tags: [tr, метод-производства]

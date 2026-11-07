@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Monetary Policy» — E&F 1.13, `lawgroup_monetary_policy`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary Policy", "lawgroup_monetary_policy"]
 tags: [ef, группа-законов]

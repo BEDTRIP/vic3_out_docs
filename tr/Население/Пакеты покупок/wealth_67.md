@@ -2,6 +2,7 @@
 type: concept
 description: "Пакет покупок «wealth_67» — T&R 1.13, `wealth_67`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["wealth_67"]
 tags: [tr, пакет-покупок]

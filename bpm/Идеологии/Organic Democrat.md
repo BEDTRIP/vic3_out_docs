@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Organic Democrat» — BPM 1.13, `ideology_dop_organic_democrat`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Organic Democrat", "ideology_dop_organic_democrat"]
 tags: [BPM, идеология]

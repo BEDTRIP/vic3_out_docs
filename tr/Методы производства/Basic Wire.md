@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Wire» — T&R 1.13, `pm_basic_copperwires`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Wire", "pm_basic_copperwires"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Colonial Bank of Australia» — E&F 1.13, `company_ColonialBankOfAustralia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Colonial Bank of Australia", "company_ColonialBankOfAustralia"]
 tags: [ef, вид-компании]

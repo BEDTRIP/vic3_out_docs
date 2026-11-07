@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compagnie du Congo»» — ваниль 1.13, `company_ccci`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Compagnie du Congo»", "Compagnie du Congo", "company_ccci"]
 tags: [ваниль, вид-компании]

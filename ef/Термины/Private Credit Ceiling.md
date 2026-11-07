@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Private Credit Ceiling» — подсказка-понятие Victoria 3 1.13 (`concept_private_credit_ceiling`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Private Credit Ceiling", "concept_private_credit_ceiling"]
 tags: [ef, термин]

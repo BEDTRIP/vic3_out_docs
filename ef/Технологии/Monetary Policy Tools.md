@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Monetary Policy Tools» — E&F 1.13, `monetary_policy_tools`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary Policy Tools", "monetary_policy_tools"]
 tags: [ef, технология]

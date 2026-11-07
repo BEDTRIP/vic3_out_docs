@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Ottomanist (ideology_gbbf_ottomanist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_ottomanist_leader`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Ottomanist (ideology_gbbf_ottomanist_leader)", "Ottomanist", "ideology_gbbf_ottomanist_leader"]
 tags: [gates_of_bosphorus, идеология]

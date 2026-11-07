@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Publishing Industry» — T&R 1.13, `pm_no_publishing_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Publishing Industry", "pm_no_publishing_industry"]
 tags: [tr, метод-производства]

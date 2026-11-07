@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Neoliberalism» — T&R 1.13, `neoliberism`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neoliberalism", "neoliberism"]
 tags: [tr, технология]

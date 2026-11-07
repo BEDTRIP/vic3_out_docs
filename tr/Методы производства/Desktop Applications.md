@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Desktop Applications» — T&R 1.13, `pm_traditional_software_building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Desktop Applications", "pm_traditional_software_building_software_industry"]
 tags: [tr, метод-производства]

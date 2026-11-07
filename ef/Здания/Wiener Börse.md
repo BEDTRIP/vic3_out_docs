@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Wiener Börse» — E&F 1.13, `building_financial_centre_aus`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Wiener Börse", "building_financial_centre_aus"]
 tags: [ef, здание]

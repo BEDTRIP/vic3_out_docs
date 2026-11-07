@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Air Mail» — LLWA 1.13, `LLWA_pm_air_mail`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Air Mail", "LLWA_pm_air_mail"]
 tags: [LLWA, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Vanguard of Revolution» — VC 1.13, `ig_trait_revolution`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Vanguard of Revolution", "ig_trait_revolution"]
 tags: [VC, черта-группы-интересов]

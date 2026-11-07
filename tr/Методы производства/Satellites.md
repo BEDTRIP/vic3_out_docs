@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Satellites» — T&R 1.13, `pm_rocket_satellites`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Satellites", "pm_rocket_satellites"]
 tags: [tr, метод-производства]

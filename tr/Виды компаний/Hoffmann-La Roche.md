@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Hoffmann-La Roche» — T&R 1.13, `company_hoffmann_la_roche`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hoffmann-La Roche", "company_hoffmann_la_roche"]
 tags: [tr, вид-компании]

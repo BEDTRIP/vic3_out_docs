@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Modern Moralist» — BPM 1.13, `ideology_rel_modern_moralist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Modern Moralist", "ideology_rel_modern_moralist"]
 tags: [BPM, идеология]

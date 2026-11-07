@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Fuel» — T&R 1.13, `pmg_fuel_airport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fuel", "pmg_fuel_airport"]
 tags: [tr, группа-методов]

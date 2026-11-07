@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Supplication and Prayer» — VC 1.13, `ig_trait_supplication_prayer`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Supplication and Prayer", "ig_trait_supplication_prayer"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Rare Earths Mines» — T&R 1.13, `building_rare_earths_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rare Earths Mines", "building_rare_earths_mine"]
 tags: [tr, здание]

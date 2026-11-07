@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Dollfus-Mieg et Cie»» — TGR 1.13, `company_dmc`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["«Dollfus-Mieg et Cie»", "Dollfus-Mieg et Cie", "company_dmc"]
 tags: [TGR, вид-компании]

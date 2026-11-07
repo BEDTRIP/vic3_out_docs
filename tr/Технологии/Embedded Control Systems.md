@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Embedded Control Systems» — T&R 1.13, `embedded_control_systems`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Embedded Control Systems", "embedded_control_systems"]
 tags: [tr, технология]

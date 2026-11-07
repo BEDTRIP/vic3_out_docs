@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Micro-Processor» — T&R 1.13, `micro_processors`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Micro-Processor", "micro_processors"]
 tags: [tr, технология]

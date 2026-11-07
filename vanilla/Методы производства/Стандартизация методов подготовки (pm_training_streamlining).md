@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартизация методов подготовки (pm_training_streamlining)» — ваниль 1.13, `pm_training_streamlining`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартизация методов подготовки (pm_training_streamlining)", "Training Method Streamlining", "pm_training_streamlining"]
 tags: [ваниль, метод-производства]

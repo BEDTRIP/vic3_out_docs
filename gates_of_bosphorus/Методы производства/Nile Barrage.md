@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nile Barrage» — Gates of Bosphorus 1.13, `pm_gbbf_nile_barrage`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Nile Barrage", "pm_gbbf_nile_barrage"]
 tags: [gates_of_bosphorus, метод-производства]

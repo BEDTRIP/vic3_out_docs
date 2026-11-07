@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «On-Demand Goods» — T&R 1.13, `on_demand_goods`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["On-Demand Goods", "on_demand_goods"]
 tags: [tr, товар]

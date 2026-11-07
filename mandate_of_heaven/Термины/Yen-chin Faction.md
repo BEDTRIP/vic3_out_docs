@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Mandate of Heaven «Yen-chin Faction» — подсказка-понятие Victoria 3 1.13 (`concept_yen_chin_pai`)"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Yen-chin Faction", "concept_yen_chin_pai"]
 tags: [mandate_of_heaven, термин]

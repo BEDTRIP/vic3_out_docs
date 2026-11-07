@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rocket Artillery» — T&R 1.13, `rocket_artillery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rocket Artillery", "rocket_artillery"]
 tags: [tr, технология]

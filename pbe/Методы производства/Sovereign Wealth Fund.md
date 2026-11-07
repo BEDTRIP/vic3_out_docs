@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Sovereign Wealth Fund» — PBE 1.13, `pm_company_headquarter_swg_3`"
 project: vic3
+audience: agent
 source: pbe
 aliases: ["Sovereign Wealth Fund", "pm_company_headquarter_swg_3"]
 tags: [PBE, метод-производства]

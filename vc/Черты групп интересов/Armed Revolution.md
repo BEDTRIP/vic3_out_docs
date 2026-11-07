@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Armed Revolution» — VC 1.13, `ig_trait_worker_revolution`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Armed Revolution", "ig_trait_worker_revolution"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Progressivist» — VC 1.13, `ideology_progressivism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Progressivist", "ideology_progressivism"]
 tags: [VC, идеология]

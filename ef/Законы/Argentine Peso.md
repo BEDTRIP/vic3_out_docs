@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Argentine Peso» — E&F 1.13, `law_peso_argentine_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Argentine Peso", "law_peso_argentine_peso_currency"]
 tags: [ef, закон]

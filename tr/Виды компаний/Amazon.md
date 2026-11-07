@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Amazon» — T&R 1.13, `company_amazon`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Amazon", "company_amazon"]
 tags: [tr, вид-компании]

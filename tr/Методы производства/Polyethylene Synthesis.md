@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Polyethylene Synthesis» — T&R 1.13, `pm_polyethylene_synthesis`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Polyethylene Synthesis", "pm_polyethylene_synthesis"]
 tags: [tr, метод-производства]

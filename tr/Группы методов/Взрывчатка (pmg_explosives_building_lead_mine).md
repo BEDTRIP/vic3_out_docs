@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Взрывчатка (pmg_explosives_building_lead_mine)» — T&R 1.13, `pmg_explosives_building_lead_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Взрывчатка (pmg_explosives_building_lead_mine)", "Explosives", "pmg_explosives_building_lead_mine"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Large Monetary Policy Ajustment» — подсказка-понятие Victoria 3 1.13 (`concept_long_term_monetary_policy`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Large Monetary Policy Ajustment", "concept_long_term_monetary_policy"]
 tags: [ef, термин]

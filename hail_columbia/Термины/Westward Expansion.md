@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Westward Expansion» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_westward_expansion`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Westward Expansion", "concept_usfp_westward_expansion"]
 tags: [hail_columbia, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «com_situation_background_europenorthamerica_london_center» — CMF 1.13, `com_situation_background_europenorthamerica_london_center`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["com_situation_background_europenorthamerica_london_center"]
 tags: [CMF, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Hybrid Vehicles» — T&R 1.13, `hybrid_vehicles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hybrid Vehicles", "hybrid_vehicles"]
 tags: [tr, технология]

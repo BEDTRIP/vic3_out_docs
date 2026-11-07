@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Composite Armor» — T&R 1.13, `composite_armor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Composite Armor", "composite_armor"]
 tags: [tr, технология]

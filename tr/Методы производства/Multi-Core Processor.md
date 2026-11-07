@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Multi-Core Processor» — T&R 1.13, `pm_multi_core_processor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Multi-Core Processor", "pm_multi_core_processor"]
 tags: [tr, метод-производства]

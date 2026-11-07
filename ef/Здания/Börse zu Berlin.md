@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Börse zu Berlin» — E&F 1.13, `building_financial_centre_pru`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Börse zu Berlin", "building_financial_centre_pru"]
 tags: [ef, здание]

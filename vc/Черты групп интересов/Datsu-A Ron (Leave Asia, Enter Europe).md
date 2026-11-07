@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Datsu-A Ron (Leave Asia, Enter Europe)» — VC 1.13, `ig_trait_datsu_aron`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Datsu-A Ron (Leave Asia, Enter Europe)", "ig_trait_datsu_aron"]
 tags: [VC, черта-группы-интересов]

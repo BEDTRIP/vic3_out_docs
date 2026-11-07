@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Reactor Refining» — T&R 1.13, `pmg_refining_building_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Reactor Refining", "pmg_refining_building_power_plant"]
 tags: [tr, группа-методов]

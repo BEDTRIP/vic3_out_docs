@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Geothermal Power Plants» — T&R 1.13, `building_geothermal_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Geothermal Power Plants", "building_geothermal_power_plant"]
 tags: [tr, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Coal Liquefaction» — T&R 1.13, `pm_mendelejew_coal_liquefaction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Coal Liquefaction", "pm_mendelejew_coal_liquefaction"]
 tags: [tr, метод-производства]

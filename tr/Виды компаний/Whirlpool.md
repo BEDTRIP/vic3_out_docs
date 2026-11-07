@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Whirlpool» — T&R 1.13, `company_whirlpool`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Whirlpool", "company_whirlpool"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «National Enterprise» — VC 1.13, `ig_trait_national_enterprise`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["National Enterprise", "ig_trait_national_enterprise"]
 tags: [VC, черта-группы-интересов]

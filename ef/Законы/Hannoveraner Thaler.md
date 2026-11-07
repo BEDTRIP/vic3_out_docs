@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Hannoveraner Thaler» — E&F 1.13, `law_thaler_hannoveraner_thaler_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Hannoveraner Thaler", "law_thaler_hannoveraner_thaler_currency"]
 tags: [ef, закон]

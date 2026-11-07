@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Порты (usu_bg_port_infrastructure)» — grey USU 1.13, `usu_bg_port_infrastructure`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Порты (usu_bg_port_infrastructure)", "Ports", "usu_bg_port_infrastructure"]
 tags: [grey_usu, группа-зданий]

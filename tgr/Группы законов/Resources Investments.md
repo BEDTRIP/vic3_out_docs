@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Resources Investments» — TGR 1.13, `lawgroup_economic_incentives_secondary`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Resources Investments", "lawgroup_economic_incentives_secondary"]
 tags: [TGR, группа-законов]

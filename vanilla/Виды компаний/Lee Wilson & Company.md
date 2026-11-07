@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Lee Wilson & Company» — ваниль 1.13, `company_lee_wilson`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Lee Wilson & Company", "company_lee_wilson"]
 tags: [ваниль, вид-компании]

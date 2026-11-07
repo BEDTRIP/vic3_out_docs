@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод Mandate of Heaven меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 tags: [mandate_of_heaven, что-меняет]
 generated: "v3 graph mods"

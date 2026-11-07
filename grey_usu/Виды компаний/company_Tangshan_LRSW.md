@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Tangshan_LRSW» — grey USU 1.13, `company_Tangshan_LRSW`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Tangshan_LRSW"]
 tags: [grey_usu, вид-компании]

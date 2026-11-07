@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Self-Strengthening Reformer (ideology_westernlism)» — VC 1.13, `ideology_westernlism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Self-Strengthening Reformer (ideology_westernlism)", "Self-Strengthening Reformer", "ideology_westernlism"]
 tags: [VC, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Satellite Communications Network» — T&R 1.13, `pm_satellite_communications_network_building_telecommunications`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Satellite Communications Network", "pm_satellite_communications_network_building_telecommunications"]
 tags: [tr, метод-производства]

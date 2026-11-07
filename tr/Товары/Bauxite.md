@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Bauxite» — T&R 1.13, `bauxite`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bauxite", "bauxite"]
 tags: [tr, товар]

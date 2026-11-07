@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Houseware Inox-Aluminium» — T&R 1.13, `pm_aluminium_inox_houseware`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Houseware Inox-Aluminium", "pm_aluminium_inox_houseware"]
 tags: [tr, метод-производства]

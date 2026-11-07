@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Topkapı Palace» — Gates of Bosphorus 1.13, `pmg_gbbf_topkapi_palace`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Topkapı Palace", "pmg_gbbf_topkapi_palace"]
 tags: [gates_of_bosphorus, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Public Investments» — TGR 1.13, `lawgroup_economic_incentives_public`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Public Investments", "lawgroup_economic_incentives_public"]
 tags: [TGR, группа-законов]

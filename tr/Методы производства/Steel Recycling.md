@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Steel Recycling» — T&R 1.13, `pm_steel_recycling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Steel Recycling", "pm_steel_recycling"]
 tags: [tr, метод-производства]

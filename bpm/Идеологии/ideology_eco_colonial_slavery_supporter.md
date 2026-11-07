@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_eco_colonial_slavery_supporter» — BPM 1.13, `ideology_eco_colonial_slavery_supporter`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["ideology_eco_colonial_slavery_supporter"]
 tags: [BPM, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Endurance of Suffering» — VC 1.13, `ig_trait_endure_suffering`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Endurance of Suffering", "ig_trait_endure_suffering"]
 tags: [VC, черта-группы-интересов]

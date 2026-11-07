@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Centralization» — TGR 1.13, `lawgroup_centralization`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Centralization", "lawgroup_centralization"]
 tags: [TGR, группа-законов]

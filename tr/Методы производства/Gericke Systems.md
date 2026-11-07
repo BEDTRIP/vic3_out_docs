@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Gericke Systems» — T&R 1.13, `pm_hydroponic_gericke_system`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gericke Systems", "pm_hydroponic_gericke_system"]
 tags: [tr, метод-производства]

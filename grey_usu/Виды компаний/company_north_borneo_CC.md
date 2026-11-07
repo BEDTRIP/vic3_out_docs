@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_north_borneo_CC» — grey USU 1.13, `company_north_borneo_CC`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_north_borneo_CC"]
 tags: [grey_usu, вид-компании]

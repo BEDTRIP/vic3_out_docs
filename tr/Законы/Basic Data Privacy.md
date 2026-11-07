@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Basic Data Privacy» — T&R 1.13, `law_data_privacy_basic`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Data Privacy", "law_data_privacy_basic"]
 tags: [tr, закон]

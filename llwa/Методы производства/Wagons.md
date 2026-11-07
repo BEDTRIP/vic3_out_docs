@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Wagons» — LLWA 1.13, `LLWA_pm_horse_wagons`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Wagons", "LLWA_pm_horse_wagons"]
 tags: [LLWA, метод-производства]

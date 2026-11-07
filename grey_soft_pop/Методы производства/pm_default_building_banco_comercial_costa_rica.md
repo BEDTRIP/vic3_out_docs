@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_banco_comercial_costa_rica» — grey soft pop 1.13, `pm_default_building_banco_comercial_costa_rica`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_banco_comercial_costa_rica"]
 tags: [grey_soft_pop, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Cohere» — T&R 1.13, `company_cohere`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cohere", "company_cohere"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Shipping Lines» — LLWA 1.13, `llwa_building_freight_depot`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Shipping Lines", "llwa_building_freight_depot"]
 tags: [LLWA, здание]

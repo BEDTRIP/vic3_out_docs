@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Witkowitzer Bergbau- und Hüttengewerkschaft» — ваниль 1.13, `company_witkowitzer_bergbau_und_huttengewerkschaft`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Witkowitzer Bergbau- und Hüttengewerkschaft", "company_witkowitzer_bergbau_und_huttengewerkschaft"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Manual Data Reporting (pm_manual_data_reporting_primary_sector)» — T&R 1.13, `pm_manual_data_reporting_primary_sector`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Manual Data Reporting (pm_manual_data_reporting_primary_sector)", "Manual Data Reporting", "pm_manual_data_reporting_primary_sector"]
 tags: [tr, метод-производства]

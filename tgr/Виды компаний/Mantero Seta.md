@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mantero Seta» — TGR 1.13, `company_mantero_seta`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Mantero Seta", "Confindustria Italiana", "company_mantero_seta"]
 tags: [TGR, вид-компании]

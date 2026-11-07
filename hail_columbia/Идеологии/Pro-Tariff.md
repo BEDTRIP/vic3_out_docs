@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Pro-Tariff» — Hail Columbia 1.13, `ideology_pro_tariff`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Pro-Tariff", "ideology_pro_tariff"]
 tags: [hail_columbia, идеология]

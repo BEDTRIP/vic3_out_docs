@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Generative AI» — T&R 1.13, `artificial_intelligence`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Generative AI", "artificial_intelligence"]
 tags: [tr, технология]

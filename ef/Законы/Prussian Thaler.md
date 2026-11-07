@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Prussian Thaler» — E&F 1.13, `law_thaler_prussian_thaler_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Prussian Thaler", "law_thaler_prussian_thaler_currency"]
 tags: [ef, закон]

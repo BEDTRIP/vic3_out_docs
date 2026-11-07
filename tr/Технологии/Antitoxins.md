@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Antitoxins» — T&R 1.13, `panum_antitoxins_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Antitoxins", "panum_antitoxins_tech"]
 tags: [tr, технология]

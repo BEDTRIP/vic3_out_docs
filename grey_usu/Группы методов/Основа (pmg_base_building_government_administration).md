@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_government_administration)» — grey USU 1.13, `pmg_base_building_government_administration`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Основа (pmg_base_building_government_administration)", "Основа", "pmg_base_building_government_administration"]
 tags: [grey_usu, группа-методов]

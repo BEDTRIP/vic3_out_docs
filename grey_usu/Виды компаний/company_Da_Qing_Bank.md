@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Da_Qing_Bank» — grey USU 1.13, `company_Da_Qing_Bank`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Da_Qing_Bank"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Universal Congregationalism» — VC 1.13, `ideology_puritan_ecumenical`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Universal Congregationalism", "ideology_puritan_ecumenical"]
 tags: [VC, идеология]

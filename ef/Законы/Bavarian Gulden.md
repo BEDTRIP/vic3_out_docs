@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Bavarian Gulden» — E&F 1.13, `law_gulden_bavarian_gulden_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bavarian Gulden", "law_gulden_bavarian_gulden_currency"]
 tags: [ef, закон]

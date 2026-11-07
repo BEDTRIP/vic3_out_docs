@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Fundidora de Fierro y Acero de Monterrey»» — grey USU 1.13, `company_fundidora_monterrey`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Fundidora de Fierro y Acero de Monterrey»", "Fundidora de Fierro y Acero de Monterrey", "company_fundidora_monterrey"]
 tags: [grey_usu, вид-компании]

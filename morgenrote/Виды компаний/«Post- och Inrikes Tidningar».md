@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Post- och Inrikes Tidningar»» — Morgenröte 1.13, `pbi_company_post_och_inrikes_tidningar`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«Post- och Inrikes Tidningar»", "Post- och Inrikes Tidningar", "pbi_company_post_och_inrikes_tidningar"]
 tags: [Morgenröte, вид-компании]

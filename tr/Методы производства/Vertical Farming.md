@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Vertical Farming» — T&R 1.13, `pm_hydroponic_vertical_farming`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vertical Farming", "pm_hydroponic_vertical_farming"]
 tags: [tr, метод-производства]

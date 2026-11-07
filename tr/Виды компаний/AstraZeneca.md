@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «AstraZeneca» — T&R 1.13, `company_astrazeneca`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AstraZeneca", "company_astrazeneca"]
 tags: [tr, вид-компании]

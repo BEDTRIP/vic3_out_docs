@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Estado» — E&F 1.13, `company_BancoEstado`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Estado", "company_BancoEstado"]
 tags: [ef, вид-компании]

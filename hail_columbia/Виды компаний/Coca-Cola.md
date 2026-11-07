@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Coca-Cola» — Hail Columbia 1.13, `company_usfp_coca_cola`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Coca-Cola", "company_usfp_coca_cola"]
 tags: [hail_columbia, вид-компании]

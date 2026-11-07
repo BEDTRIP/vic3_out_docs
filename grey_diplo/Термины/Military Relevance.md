@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода grey diplo «Military Relevance» — подсказка-понятие Victoria 3 1.13 (`concept_military_relevance`)"
 project: vic3
+audience: agent
 source: grey_diplo
 aliases: ["Military Relevance", "concept_military_relevance"]
 tags: [grey_diplo, термин]

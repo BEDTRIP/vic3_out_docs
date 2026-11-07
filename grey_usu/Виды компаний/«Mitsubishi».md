@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Mitsubishi»» — grey USU 1.13, `company_mitsubishi`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Mitsubishi»", "Mitsubishi", "company_mitsubishi"]
 tags: [grey_usu, вид-компании]

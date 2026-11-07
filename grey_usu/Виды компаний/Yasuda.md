@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Yasuda» — grey USU 1.13, `company_yasuda`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Yasuda", "company_yasuda"]
 tags: [grey_usu, вид-компании]

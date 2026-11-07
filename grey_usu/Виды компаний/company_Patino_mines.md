@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Patino_mines» — grey USU 1.13, `company_Patino_mines`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Patino_mines"]
 tags: [grey_usu, вид-компании]

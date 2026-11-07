@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Classical Physics» — T&R 1.13, `verrier_physics_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Classical Physics", "verrier_physics_tech"]
 tags: [tr, технология]

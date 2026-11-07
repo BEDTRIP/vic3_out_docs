@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Fagor» — T&R 1.13, `company_fagor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fagor", "company_fagor"]
 tags: [tr, вид-компании]

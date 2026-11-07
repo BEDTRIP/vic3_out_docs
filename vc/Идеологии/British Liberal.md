@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «British Liberal» — VC 1.13, `ideology_english_enlightlism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["British Liberal", "ideology_english_enlightlism"]
 tags: [VC, идеология]

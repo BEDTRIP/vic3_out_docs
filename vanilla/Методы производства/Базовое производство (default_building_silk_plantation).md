@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_silk_plantation)» — ваниль 1.13, `default_building_silk_plantation`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Базовое производство (default_building_silk_plantation)", "Базовое производство", "default_building_silk_plantation"]
 tags: [ваниль, метод-производства]

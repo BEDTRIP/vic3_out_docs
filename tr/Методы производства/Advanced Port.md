@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Port» — T&R 1.13, `pm_advanced_port`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Port", "pm_advanced_port"]
 tags: [tr, метод-производства]

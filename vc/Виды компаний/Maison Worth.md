@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Maison Worth» — VC 1.13, `company_maison_worth`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Maison Worth", "company_maison_worth"]
 tags: [VC, вид-компании]

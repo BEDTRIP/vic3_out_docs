@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Handcraft Natural Medicinals» — T&R 1.13, `pm_handcraft_natural_medicinals`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Handcraft Natural Medicinals", "pm_handcraft_natural_medicinals"]
 tags: [tr, метод-производства]

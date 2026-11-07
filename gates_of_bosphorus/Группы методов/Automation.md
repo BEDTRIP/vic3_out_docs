@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Automation» — Gates of Bosphorus 1.13, `pmg_esparto_automation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Automation", "pmg_esparto_automation"]
 tags: [gates_of_bosphorus, группа-методов]

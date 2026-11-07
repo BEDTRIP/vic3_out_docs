@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Paraguayan Peso» — E&F 1.13, `law_peso_paraguayan_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Paraguayan Peso", "law_peso_paraguayan_peso_currency"]
 tags: [ef, закон]

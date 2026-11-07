@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mahindra & Mahindra» — T&R 1.13, `company_mahindra`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mahindra & Mahindra", "company_mahindra"]
 tags: [tr, вид-компании]

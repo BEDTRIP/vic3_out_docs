@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Radar» — T&R 1.13, `radar`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Radar", "radar"]
 tags: [tr, технология]

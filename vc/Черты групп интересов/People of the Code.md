@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «People of the Code» — VC 1.13, `ig_trait_people_of_procedure`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["People of the Code", "ig_trait_people_of_procedure"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Fracking» — T&R 1.13, `hydraulic_fracturing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fracking", "hydraulic_fracturing"]
 tags: [tr, технология]

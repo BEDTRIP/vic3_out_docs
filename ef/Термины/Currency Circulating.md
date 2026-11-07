@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Currency Circulating» — подсказка-понятие Victoria 3 1.13 (`concept_money_circulating`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Currency Circulating", "concept_money_circulating"]
 tags: [ef, термин]

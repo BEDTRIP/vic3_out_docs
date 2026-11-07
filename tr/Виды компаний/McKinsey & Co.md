@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «McKinsey & Co» — T&R 1.13, `company_mckinsey`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["McKinsey & Co", "company_mckinsey"]
 tags: [tr, вид-компании]

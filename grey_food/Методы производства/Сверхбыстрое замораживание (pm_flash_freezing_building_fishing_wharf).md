@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Сверхбыстрое замораживание (pm_flash_freezing_building_fishing_wharf)» — grey food 1.13, `pm_flash_freezing_building_fishing_wharf`"
 project: vic3
+audience: agent
 source: grey_food
 aliases: ["Сверхбыстрое замораживание (pm_flash_freezing_building_fishing_wharf)", "Flash Freezing", "pm_flash_freezing_building_fishing_wharf"]
 tags: [grey_food, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Sächsische Börse» — E&F 1.13, `building_financial_centre_sax`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Sächsische Börse", "building_financial_centre_sax"]
 tags: [ef, здание]

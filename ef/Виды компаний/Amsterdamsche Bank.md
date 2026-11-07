@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Amsterdamsche Bank» — E&F 1.13, `company_amsterdamschebank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Amsterdamsche Bank", "company_amsterdamschebank"]
 tags: [ef, вид-компании]

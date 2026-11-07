@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Islamic Schools» — VC 1.13, `law_madrasa`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Islamic Schools", "law_madrasa"]
 tags: [VC, закон]

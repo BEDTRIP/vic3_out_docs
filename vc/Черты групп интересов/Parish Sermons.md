@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Parish Sermons» — VC 1.13, `ig_trait_parish_sermons`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Parish Sermons", "ig_trait_parish_sermons"]
 tags: [VC, черта-группы-интересов]

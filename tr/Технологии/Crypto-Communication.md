@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Crypto-Communication» — T&R 1.13, `cryptographic_communication`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Crypto-Communication", "cryptographic_communication"]
 tags: [tr, технология]

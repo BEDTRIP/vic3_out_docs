@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Grupo Televisa» — T&R 1.13, `company_televisa`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Grupo Televisa", "company_televisa"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Chilean Peso» — E&F 1.13, `law_peso_chilean_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Chilean Peso", "law_peso_chilean_peso_currency"]
 tags: [ef, закон]

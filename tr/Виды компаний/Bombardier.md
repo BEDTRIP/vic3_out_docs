@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bombardier» — T&R 1.13, `company_bombardier`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bombardier", "company_bombardier"]
 tags: [tr, вид-компании]

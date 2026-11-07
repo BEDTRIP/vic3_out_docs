@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Defamation Experts» — VC 1.13, `ig_trait_defamation_expert`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Defamation Experts", "ig_trait_defamation_expert"]
 tags: [VC, черта-группы-интересов]

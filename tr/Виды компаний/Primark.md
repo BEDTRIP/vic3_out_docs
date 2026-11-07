@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Primark» — T&R 1.13, `company_primark`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Primark", "company_primark"]
 tags: [tr, вид-компании]

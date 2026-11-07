@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««La España Industrial»» — T&R 1.13, `company_espana_industrial`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«La España Industrial»", "La España Industrial", "company_espana_industrial"]
 tags: [tr, вид-компании]

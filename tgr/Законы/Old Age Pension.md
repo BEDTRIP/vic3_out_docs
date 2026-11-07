@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Old Age Pension» — TGR 1.13, `law_minimum_pension`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Old Age Pension", "law_minimum_pension"]
 tags: [TGR, закон]

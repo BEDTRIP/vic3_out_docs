@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Racial Prejudice» — VC 1.13, `ig_trait_racism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Racial Prejudice", "ig_trait_racism"]
 tags: [VC, черта-группы-интересов]

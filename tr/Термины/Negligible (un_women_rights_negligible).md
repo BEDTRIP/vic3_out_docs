@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Negligible (un_women_rights_negligible)» — подсказка-понятие Victoria 3 1.13 (`concept_un_women_rights_negligible`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Negligible", "concept_un_women_rights_negligible"]
 tags: [tr, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ferranti Ltd» — ваниль 1.13, `company_ferranti_ltd`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Ferranti Ltd", "company_ferranti_ltd"]
 tags: [ваниль, вид-компании]

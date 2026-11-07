@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Communalist» — VC 1.13, `ideology_agrarian_russian`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Communalist", "ideology_agrarian_russian"]
 tags: [VC, идеология]

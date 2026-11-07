@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compañía de Salitres y Ferrocarril de Antofagasta»» — T&R 1.13, `company_csfa`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Compañía de Salitres y Ferrocarril de Antofagasta»", "Compañía de Salitres y Ferrocarril de Antofagasta", "company_csfa"]
 tags: [tr, вид-компании]

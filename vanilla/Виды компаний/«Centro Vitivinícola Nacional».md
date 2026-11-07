@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Centro Vitivinícola Nacional»» — ваниль 1.13, `company_argentinian_wine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Centro Vitivinícola Nacional»", "Centro Vitivinícola Nacional", "company_argentinian_wine"]
 tags: [ваниль, вид-компании]

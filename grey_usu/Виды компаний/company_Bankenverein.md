@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bankenverein» — grey USU 1.13, `company_Bankenverein`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bankenverein"]
 tags: [grey_usu, вид-компании]

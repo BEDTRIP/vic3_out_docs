@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Direct Action» — Hail Columbia 1.13, `usfp_ig_trait_direct_action`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Direct Action", "usfp_ig_trait_direct_action"]
 tags: [hail_columbia, черта-группы-интересов]

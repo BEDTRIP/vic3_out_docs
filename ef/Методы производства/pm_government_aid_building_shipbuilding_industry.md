@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_government_aid_building_shipbuilding_industry» — E&F 1.13, `pm_government_aid_building_shipbuilding_industry`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["pm_government_aid_building_shipbuilding_industry"]
 tags: [ef, метод-производства]

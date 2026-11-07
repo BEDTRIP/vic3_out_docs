@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «BBC» — T&R 1.13, `company_bbc`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["BBC", "company_bbc"]
 tags: [tr, вид-компании]

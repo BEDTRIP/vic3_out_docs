@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Restricted Parliamentary Authority» — TGR 1.13, `law_restricted_parliamentary_authority`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Restricted Parliamentary Authority", "law_restricted_parliamentary_authority"]
 tags: [TGR, закон]

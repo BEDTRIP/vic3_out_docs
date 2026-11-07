@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Compañía Sansinena de Carnes Congeladas» — TGR 1.13, `company_compania_sansinena_de_carnes_congeladas`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Compañía Sansinena de Carnes Congeladas", "company_compania_sansinena_de_carnes_congeladas"]
 tags: [TGR, вид-компании]

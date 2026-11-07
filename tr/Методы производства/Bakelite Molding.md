@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Bakelite Molding» — T&R 1.13, `pm_bakelite_molding`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bakelite Molding", "pm_bakelite_molding"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Lithium-Ion Battery» — T&R 1.13, `pm_lithium_battery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Lithium-Ion Battery", "pm_lithium_battery"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Trucks» — LLWA 1.13, `LLWA_pm_electric_trucks`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Electric Trucks", "LLWA_pm_electric_trucks"]
 tags: [LLWA, метод-производства]

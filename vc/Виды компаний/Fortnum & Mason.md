@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Fortnum & Mason» — VC 1.13, `company_Fortnum_Mason`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Fortnum & Mason", "company_Fortnum_Mason"]
 tags: [VC, вид-компании]

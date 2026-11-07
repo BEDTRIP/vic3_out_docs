@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Colt's Patent Firearms Manufacturing Company» — ваниль 1.13, `company_colt_firearms`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Colt's Patent Firearms Manufacturing Company", "company_colt_firearms"]
 tags: [ваниль, вид-компании]

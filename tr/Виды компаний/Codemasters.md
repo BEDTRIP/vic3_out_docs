@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Codemasters» — T&R 1.13, `company_codemasters`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Codemasters", "company_codemasters"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Synthetic Fabrics» — T&R 1.13, `pm_synthetic_fabric`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Fabrics", "pm_synthetic_fabric"]
 tags: [tr, метод-производства]

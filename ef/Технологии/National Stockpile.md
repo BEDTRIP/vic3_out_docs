@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «National Stockpile» — E&F 1.13, `national_stockpile`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["National Stockpile", "national_stockpile"]
 tags: [ef, технология]

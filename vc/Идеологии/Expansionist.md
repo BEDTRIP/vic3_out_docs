@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Expansionist» — VC 1.13, `ideology_expansionism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Expansionist", "ideology_expansionism"]
 tags: [VC, идеология]

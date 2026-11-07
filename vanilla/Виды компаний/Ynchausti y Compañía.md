@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ynchausti y Compañía» — ваниль 1.13, `company_ynchausti_y_compania`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Ynchausti y Compañía", "company_ynchausti_y_compania"]
 tags: [ваниль, вид-компании]

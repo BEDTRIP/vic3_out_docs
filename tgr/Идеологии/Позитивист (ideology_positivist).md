@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Позитивист (ideology_positivist)» — TGR 1.13, `ideology_positivist`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Позитивист (ideology_positivist)", "Positivist", "ideology_positivist"]
 tags: [TGR, идеология]

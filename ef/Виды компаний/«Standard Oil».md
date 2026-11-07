@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Standard Oil»» — E&F 1.13, `company_standard_oil`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["«Standard Oil»", "Standard Oil", "company_standard_oil"]
 tags: [ef, вид-компании]

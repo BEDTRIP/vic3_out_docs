@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nature Reserves» — Hail Columbia 1.13, `usfp_pm_national_park_reserve`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Nature Reserves", "usfp_pm_national_park_reserve"]
 tags: [hail_columbia, метод-производства]

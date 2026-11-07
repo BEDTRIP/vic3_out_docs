@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««La Vanguardia»» — Morgenröte 1.13, `pbi_company_la_vanguardia`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«La Vanguardia»", "La Vanguardia", "pbi_company_la_vanguardia"]
 tags: [Morgenröte, вид-компании]

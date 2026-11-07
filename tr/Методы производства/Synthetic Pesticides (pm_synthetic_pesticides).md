@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Synthetic Pesticides (pm_synthetic_pesticides)» — T&R 1.13, `pm_synthetic_pesticides`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Pesticides (pm_synthetic_pesticides)", "Synthetic Pesticides", "pm_synthetic_pesticides"]
 tags: [tr, метод-производства]

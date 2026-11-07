@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Перевозка по рельсам (pm_rail_transport_building_oil_rig)» — ваниль 1.13, `pm_rail_transport_building_oil_rig`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Перевозка по рельсам (pm_rail_transport_building_oil_rig)", "Перевозка по рельсам", "pm_rail_transport_building_oil_rig"]
 tags: [ваниль, метод-производства]

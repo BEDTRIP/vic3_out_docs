@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_sugar_plantation)» — ваниль 1.13, `automatic_irrigation_building_sugar_plantation`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Автоматическая ирригация (automatic_irrigation_building_sugar_plantation)", "Автоматическая ирригация", "automatic_irrigation_building_sugar_plantation"]
 tags: [ваниль, метод-производства]

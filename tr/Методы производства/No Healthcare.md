@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Healthcare» — T&R 1.13, `pm_no_healtcare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Healthcare", "pm_no_healtcare"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Plantation Harvesting (advanced_plantation_methods_building_sugar_plantation)» — T&R 1.13, `advanced_plantation_methods_building_sugar_plantation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Plantation Harvesting (advanced_plantation_methods_building_sugar_plantation)", "Advanced Plantation Harvesting", "advanced_plantation_methods_building_sugar_plantation"]
 tags: [tr, метод-производства]

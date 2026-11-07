@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smart City Services» — T&R 1.13, `pm_smart_city_infrastructure`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart City Services", "pm_smart_city_infrastructure"]
 tags: [tr, метод-производства]

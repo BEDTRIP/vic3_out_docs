@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Juren» — Mandate of Heaven 1.13, `ideology_eight_legged`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Juren", "ideology_eight_legged"]
 tags: [mandate_of_heaven, идеология]

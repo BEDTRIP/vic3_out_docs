@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Citizen Militia» — VC 1.13, `ig_trait_loyalty_to_constitution`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Citizen Militia", "ig_trait_loyalty_to_constitution"]
 tags: [VC, черта-группы-интересов]

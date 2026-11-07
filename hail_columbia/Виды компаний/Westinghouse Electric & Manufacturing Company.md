@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Westinghouse Electric & Manufacturing Company» — Hail Columbia 1.13, `company_usfp_westinghouse`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Westinghouse Electric & Manufacturing Company", "company_usfp_westinghouse"]
 tags: [hail_columbia, вид-компании]

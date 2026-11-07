@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Wires» — T&R 1.13, `copperwires`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wires", "copperwires"]
 tags: [tr, товар]

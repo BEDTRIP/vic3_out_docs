@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Computerized Research Centers» — T&R 1.13, `pm_computerized_research_center`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Computerized Research Centers", "pm_computerized_research_center"]
 tags: [tr, метод-производства]

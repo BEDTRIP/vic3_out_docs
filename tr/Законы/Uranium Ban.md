@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Uranium Ban» — T&R 1.13, `law_uranium_ban`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Uranium Ban", "law_uranium_ban"]
 tags: [tr, закон]

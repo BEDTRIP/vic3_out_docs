@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Private Construction Sector» — E&F 1.13, `pmg_base_building_private_construction_sector`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Private Construction Sector", "pmg_base_building_private_construction_sector"]
 tags: [ef, группа-методов]

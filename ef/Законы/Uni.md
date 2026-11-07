@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Uni» — E&F 1.13, `law_spe_uni_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Uni", "law_spe_uni_currency"]
 tags: [ef, закон]

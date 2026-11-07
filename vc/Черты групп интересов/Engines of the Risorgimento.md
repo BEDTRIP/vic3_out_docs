@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Engines of the Risorgimento» — VC 1.13, `ig_trait_engines_of_risorgimento`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Engines of the Risorgimento", "ig_trait_engines_of_risorgimento"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Heavy Centralized Fulfilment» — T&R 1.13, `pm_heavy_centralized_fulfilment`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Heavy Centralized Fulfilment", "pm_heavy_centralized_fulfilment"]
 tags: [tr, метод-производства]

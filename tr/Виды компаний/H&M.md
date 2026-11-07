@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «H&M» — T&R 1.13, `company_hm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["H&M", "company_hm"]
 tags: [tr, вид-компании]

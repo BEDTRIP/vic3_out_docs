@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Nominal Separation» — Hail Columbia 1.13, `law_usfp_nominal_separation`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Nominal Separation", "law_usfp_nominal_separation"]
 tags: [hail_columbia, закон]

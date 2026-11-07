@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««The Globe and Mail»» — Morgenröte 1.13, `pbi_company_the_globe_and_mail`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«The Globe and Mail»", "The Globe & Mail", "pbi_company_the_globe_and_mail"]
 tags: [Morgenröte, вид-компании]

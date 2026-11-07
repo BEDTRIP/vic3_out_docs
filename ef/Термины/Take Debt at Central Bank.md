@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Take Debt at Central Bank» — подсказка-понятие Victoria 3 1.13 (`concept_take_debt`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Take Debt at Central Bank", "concept_take_debt"]
 tags: [ef, термин]

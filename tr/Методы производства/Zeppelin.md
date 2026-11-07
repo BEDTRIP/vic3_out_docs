@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Zeppelin» — T&R 1.13, `pm_zeppelins_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Zeppelin", "pm_zeppelins_production"]
 tags: [tr, метод-производства]

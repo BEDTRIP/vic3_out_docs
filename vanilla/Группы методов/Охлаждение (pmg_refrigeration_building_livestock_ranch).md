@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_livestock_ranch)» — ваниль 1.13, `pmg_refrigeration_building_livestock_ranch`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Охлаждение (pmg_refrigeration_building_livestock_ranch)", "Refrigeration", "pmg_refrigeration_building_livestock_ranch"]
 tags: [ваниль, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартное производство (pm_default_building_sagrada_familia_cathedral_3)» — ваниль 1.13, `pm_default_building_sagrada_familia_cathedral_3`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартное производство (pm_default_building_sagrada_familia_cathedral_3)", "Default Production", "pm_default_building_sagrada_familia_cathedral_3"]
 tags: [ваниль, метод-производства]

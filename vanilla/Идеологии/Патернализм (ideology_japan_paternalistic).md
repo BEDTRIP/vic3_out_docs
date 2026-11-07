@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Патернализм (ideology_japan_paternalistic)» — ваниль 1.13, `ideology_japan_paternalistic`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Патернализм (ideology_japan_paternalistic)", "Патернализм", "ideology_japan_paternalistic"]
 tags: [ваниль, идеология]

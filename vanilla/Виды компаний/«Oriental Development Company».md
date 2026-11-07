@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Oriental Development Company»» — ваниль 1.13, `company_oriental_development_company`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Oriental Development Company»", "Oriental Development Company", "company_oriental_development_company"]
 tags: [ваниль, вид-компании]

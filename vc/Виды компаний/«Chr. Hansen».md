@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Chr. Hansen»» — VC 1.13, `company_chr_hansens`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Chr. Hansen»", "Chr. Hansen", "company_chr_hansens"]
 tags: [VC, вид-компании]

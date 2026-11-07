@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_furniture_manufactory)» — ваниль 1.13, `pmg_automation_building_furniture_manufactory`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Автоматизация (pmg_automation_building_furniture_manufactory)", "Automation", "pmg_automation_building_furniture_manufactory"]
 tags: [ваниль, группа-методов]

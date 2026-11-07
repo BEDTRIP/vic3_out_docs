@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «The Times Group» — T&R 1.13, `company_bccl`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["The Times Group", "company_bccl"]
 tags: [tr, вид-компании]

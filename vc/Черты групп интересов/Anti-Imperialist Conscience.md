@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Anti-Imperialist Conscience» — VC 1.13, `ig_trait_refuse_imperialism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Anti-Imperialist Conscience", "ig_trait_refuse_imperialism"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «AI Warfare» — T&R 1.13, `ai_warfare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AI Warfare", "ai_warfare"]
 tags: [tr, технология]

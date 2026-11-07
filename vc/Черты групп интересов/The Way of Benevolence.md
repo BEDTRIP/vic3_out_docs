@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «The Way of Benevolence» — VC 1.13, `ig_trait_benevolence_and_righteousness`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["The Way of Benevolence", "ig_trait_benevolence_and_righteousness"]
 tags: [VC, черта-группы-интересов]

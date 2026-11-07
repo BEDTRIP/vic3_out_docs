@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Theory of Evolution» — T&R 1.13, `dubois_theory_of_evolution_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Theory of Evolution", "dubois_theory_of_evolution_tech"]
 tags: [tr, технология]

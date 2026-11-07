@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода BPM «Мандат (BPM)» — подсказка-понятие Victoria 3 1.13 (`concept_bpm_mandate`)"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Mandate", "concept_bpm_mandate"]
 tags: [bpm, термин]

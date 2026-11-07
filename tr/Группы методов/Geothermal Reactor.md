@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Geothermal Reactor» — T&R 1.13, `pmg_geothermal_reactor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Geothermal Reactor", "pmg_geothermal_reactor"]
 tags: [tr, группа-методов]

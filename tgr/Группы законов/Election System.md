@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Election System» — TGR 1.13, `lawgroup_election_system`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Election System", "lawgroup_election_system"]
 tags: [TGR, группа-законов]

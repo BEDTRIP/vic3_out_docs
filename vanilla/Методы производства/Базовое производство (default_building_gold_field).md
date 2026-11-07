@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_gold_field)» — ваниль 1.13, `default_building_gold_field`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Базовое производство (default_building_gold_field)", "Базовое производство", "default_building_gold_field"]
 tags: [ваниль, метод-производства]

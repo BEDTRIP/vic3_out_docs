@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Opioid Refinement» — T&R 1.13, `pm_no_opioid_refinement`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Opioid Refinement", "pm_no_opioid_refinement"]
 tags: [tr, метод-производства]

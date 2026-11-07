@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Democracy» — подсказка-понятие Victoria 3 1.13 (`concept_democracy`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Democracy", "concept_democracy"]
 tags: [tr, термин]

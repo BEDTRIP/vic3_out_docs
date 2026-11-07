@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Ethnarch» — Gates of Bosphorus 1.13, `gbbf_trait_ethnarch`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Ethnarch", "gbbf_trait_ethnarch"]
 tags: [gates_of_bosphorus, черта]

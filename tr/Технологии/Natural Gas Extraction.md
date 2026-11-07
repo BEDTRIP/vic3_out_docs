@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Natural Gas Extraction» — T&R 1.13, `natural_gas_extraction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Natural Gas Extraction", "natural_gas_extraction"]
 tags: [tr, технология]

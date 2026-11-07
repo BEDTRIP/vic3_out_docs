@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_rice_farm)» — T&R 1.13, `pmg_base_building_rice_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Основа (pmg_base_building_rice_farm)", "Основа", "pmg_base_building_rice_farm"]
 tags: [tr, группа-методов]

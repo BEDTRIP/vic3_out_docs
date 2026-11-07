@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Инструменты для сбора урожая (pm_tools)» — ваниль 1.13, `pm_tools`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Инструменты для сбора урожая (pm_tools)", "Harvesting Tools", "pm_tools"]
 tags: [ваниль, метод-производства]

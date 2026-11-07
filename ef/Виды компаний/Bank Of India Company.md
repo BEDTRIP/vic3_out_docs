@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bank Of India Company» — E&F 1.13, `company_BankOfIndiaCompany`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bank Of India Company", "company_BankOfIndiaCompany"]
 tags: [ef, вид-компании]

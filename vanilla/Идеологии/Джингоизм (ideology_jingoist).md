@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Джингоизм (ideology_jingoist)» — ваниль 1.13, `ideology_jingoist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Джингоизм (ideology_jingoist)", "Jingoist", "ideology_jingoist"]
 tags: [ваниль, идеология]

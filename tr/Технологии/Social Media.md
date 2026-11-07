@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Social Media» — T&R 1.13, `social_media`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Social Media", "social_media"]
 tags: [tr, технология]

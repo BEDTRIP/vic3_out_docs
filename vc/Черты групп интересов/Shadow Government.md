@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Shadow Government» — VC 1.13, `ig_trait_shadow_government`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Shadow Government", "ig_trait_shadow_government"]
 tags: [VC, черта-группы-интересов]

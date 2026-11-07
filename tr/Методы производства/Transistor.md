@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Transistor» — T&R 1.13, `pm_transistor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Transistor", "pm_transistor"]
 tags: [tr, метод-производства]

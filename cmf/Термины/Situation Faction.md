@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода CMF «Situation Faction» — подсказка-понятие Victoria 3 1.13 (`concept_com_situation_faction`)"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["Situation Factions", "Neutral", "Situation Faction", "concept_com_situation_faction"]
 tags: [cmf, термин]

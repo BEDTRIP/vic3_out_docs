@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Light Industry Buildings» — TGR 1.13, `bg_industry_light`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Light Industry Buildings", "bg_industry_light"]
 tags: [TGR, группа-зданий]

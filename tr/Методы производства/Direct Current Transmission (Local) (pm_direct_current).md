@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Direct Current Transmission (Local) (pm_direct_current)» — T&R 1.13, `pm_direct_current`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Direct Current Transmission (Local) (pm_direct_current)", "Direct Current Transmission (Local)", "pm_direct_current"]
 tags: [tr, метод-производства]

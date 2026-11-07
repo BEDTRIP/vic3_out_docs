@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Urban Utilities» — T&R 1.13, `pm_modern_urban_utilities`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Urban Utilities", "pm_modern_urban_utilities"]
 tags: [tr, метод-производства]

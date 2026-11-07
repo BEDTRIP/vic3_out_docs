@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Logging Investments» — TGR 1.13, `economic_incentives_extracting_logging`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Logging Investments", "economic_incentives_extracting_logging"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Tools» — T&R 1.13, `modern_tools`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Tools", "modern_tools"]
 tags: [tr, технология]

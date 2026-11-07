@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Advanced Ores Mines» — T&R 1.13, `building_advancedores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Ores Mines", "building_advancedores_mine"]
 tags: [tr, здание]

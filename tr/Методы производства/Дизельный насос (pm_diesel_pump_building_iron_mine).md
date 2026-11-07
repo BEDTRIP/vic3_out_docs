@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Дизельный насос (pm_diesel_pump_building_iron_mine)» — T&R 1.13, `pm_diesel_pump_building_iron_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Дизельный насос (pm_diesel_pump_building_iron_mine)", "Diesel Pump", "pm_diesel_pump_building_iron_mine"]
 tags: [tr, метод-производства]

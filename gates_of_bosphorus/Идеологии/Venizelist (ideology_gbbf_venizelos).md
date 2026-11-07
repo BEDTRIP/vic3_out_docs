@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Venizelist (ideology_gbbf_venizelos)» — Gates of Bosphorus 1.13, `ideology_gbbf_venizelos`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Venizelist (ideology_gbbf_venizelos)", "Venizelist", "ideology_gbbf_venizelos"]
 tags: [gates_of_bosphorus, идеология]

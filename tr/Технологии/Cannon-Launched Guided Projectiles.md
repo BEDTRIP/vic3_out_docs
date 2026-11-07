@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Cannon-Launched Guided Projectiles» — T&R 1.13, `cannon_launched_guided_projectiles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cannon-Launched Guided Projectiles", "cannon_launched_guided_projectiles"]
 tags: [tr, технология]

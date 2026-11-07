@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Workers' Militias» — VC 1.13, `ig_trait_worker_forces`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Workers' Militias", "ig_trait_worker_forces"]
 tags: [VC, черта-группы-интересов]

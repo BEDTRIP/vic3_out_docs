@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Computability Theory» — T&R 1.13, `computability_theory`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Computability Theory", "computability_theory"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «CAMECO» — T&R 1.13, `company_cameco`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CAMECO", "company_cameco"]
 tags: [tr, вид-компании]

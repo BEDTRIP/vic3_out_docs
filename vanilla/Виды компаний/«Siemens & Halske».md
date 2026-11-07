@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Siemens & Halske»» — ваниль 1.13, `company_siemens_and_halske`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Siemens & Halske»", "Siemens & Halske", "company_siemens_and_halske"]
 tags: [ваниль, вид-компании]

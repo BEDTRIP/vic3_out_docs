@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Militarist» — VC 1.13, `ideology_militarism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Militarist", "ideology_militarism"]
 tags: [VC, идеология]

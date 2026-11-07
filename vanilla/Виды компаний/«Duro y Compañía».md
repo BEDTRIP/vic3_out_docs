@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Duro y Compañía»» — ваниль 1.13, `company_duro_y_compania`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Duro y Compañía»", "Duro y Compañía", "company_duro_y_compania"]
 tags: [ваниль, вид-компании]

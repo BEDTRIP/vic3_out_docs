@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Maschinenfabrik Oerlikon» — grey USU 1.13, `company_maschinenfabrik_oerlikon`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Maschinenfabrik Oerlikon", "company_maschinenfabrik_oerlikon"]
 tags: [grey_usu, вид-компании]

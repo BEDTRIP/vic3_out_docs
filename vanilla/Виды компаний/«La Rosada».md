@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««La Rosada»» — ваниль 1.13, `company_la_rosada`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«La Rosada»", "La Rosada", "company_la_rosada"]
 tags: [ваниль, вид-компании]

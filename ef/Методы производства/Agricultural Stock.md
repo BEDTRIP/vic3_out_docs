@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Agricultural Stock» — E&F 1.13, `pm_private_ownership_majority_agricultural_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Agricultural Stock", "pm_private_ownership_majority_agricultural_stock"]
 tags: [ef, метод-производства]

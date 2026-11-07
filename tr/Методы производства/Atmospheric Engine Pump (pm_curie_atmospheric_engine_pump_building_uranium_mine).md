@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Atmospheric Engine Pump (pm_curie_atmospheric_engine_pump_building_uranium_mine)» — T&R 1.13, `pm_curie_atmospheric_engine_pump_building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Atmospheric Engine Pump (pm_curie_atmospheric_engine_pump_building_uranium_mine)", "Atmospheric Engine Pump", "pm_curie_atmospheric_engine_pump_building_uranium_mine"]
 tags: [tr, метод-производства]

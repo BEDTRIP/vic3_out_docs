@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Jihad» — VC 1.13, `ig_trait_jihad`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Jihad", "ig_trait_jihad"]
 tags: [VC, черта-группы-интересов]

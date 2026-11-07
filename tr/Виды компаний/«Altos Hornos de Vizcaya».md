@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Altos Hornos de Vizcaya»» — T&R 1.13, `company_altos_hornos_de_vizcaya`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Altos Hornos de Vizcaya»", "Altos Hornos de Vizcaya", "company_altos_hornos_de_vizcaya"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Defense Technology Division» — T&R 1.13, `pm_research_military_modernization`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Defense Technology Division", "pm_research_military_modernization"]
 tags: [tr, метод-производства]

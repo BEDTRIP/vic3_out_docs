@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Our Peculiar Institution» — Hail Columbia 1.13, `usfp_ig_trait_peculiar_institution`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Our Peculiar Institution", "usfp_ig_trait_peculiar_institution"]
 tags: [hail_columbia, черта-группы-интересов]

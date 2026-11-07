@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «CO2-EOR Storage» — T&R 1.13, `pm_co2_enhanced_oil_recovery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CO2-EOR Storage", "pm_co2_enhanced_oil_recovery"]
 tags: [tr, метод-производства]

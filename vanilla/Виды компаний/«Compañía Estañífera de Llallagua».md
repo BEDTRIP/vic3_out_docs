@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compañía Estañífera de Llallagua»» — ваниль 1.13, `company_estanifera_llallagua`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Compañía Estañífera de Llallagua»", "Compañía Estañífera de Llallagua", "company_estanifera_llallagua"]
 tags: [ваниль, вид-компании]

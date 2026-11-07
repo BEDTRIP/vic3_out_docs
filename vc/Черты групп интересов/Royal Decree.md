@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Royal Decree» — VC 1.13, `ig_trait_real_decreto`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Royal Decree", "ig_trait_real_decreto"]
 tags: [VC, черта-группы-интересов]

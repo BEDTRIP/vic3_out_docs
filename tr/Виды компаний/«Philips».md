@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Philips»» — T&R 1.13, `company_philips`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Philips»", "Philips", "company_philips"]
 tags: [tr, вид-компании]

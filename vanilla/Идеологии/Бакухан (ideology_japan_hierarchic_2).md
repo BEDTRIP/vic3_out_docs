@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Бакухан (ideology_japan_hierarchic_2)» — ваниль 1.13, `ideology_japan_hierarchic_2`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Бакухан (ideology_japan_hierarchic_2)", "Бакухан", "ideology_japan_hierarchic_2"]
 tags: [ваниль, идеология]

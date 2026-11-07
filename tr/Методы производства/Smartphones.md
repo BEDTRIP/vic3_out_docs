@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smartphones» — T&R 1.13, `pm_smartphones`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smartphones", "pm_smartphones"]
 tags: [tr, метод-производства]

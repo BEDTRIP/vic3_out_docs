@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Manufacture Stock» — E&F 1.13, `pm_no_private_ownership_manufacture_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No Manufacture Stock", "pm_no_private_ownership_manufacture_stock"]
 tags: [ef, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Indesit» — T&R 1.13, `company_indesit`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Indesit", "company_indesit"]
 tags: [tr, вид-компании]

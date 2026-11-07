@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Lloyds Bank» — E&F 1.13, `company_LloydsBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Lloyds Bank", "company_LloydsBank"]
 tags: [ef, вид-компании]

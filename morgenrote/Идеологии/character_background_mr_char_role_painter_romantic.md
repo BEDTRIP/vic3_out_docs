@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «character_background_mr_char_role_painter_romantic» — Morgenröte 1.13, `character_background_mr_char_role_painter_romantic`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["character_background_mr_char_role_painter_romantic"]
 tags: [Morgenröte, идеология]

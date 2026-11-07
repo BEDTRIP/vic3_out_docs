@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Суверенизм (ideology_sovereignist)» — ваниль 1.13, `ideology_sovereignist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Суверенизм (ideology_sovereignist)", "Sovereignist", "ideology_sovereignist"]
 tags: [ваниль, идеология]

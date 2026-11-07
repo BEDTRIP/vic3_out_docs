@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Reformist» — VC 1.13, `ideology_innovationist`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Reformist", "ideology_innovationist"]
 tags: [VC, идеология]

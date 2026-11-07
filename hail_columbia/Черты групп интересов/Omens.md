@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Omens» — Hail Columbia 1.13, `usfp_ig_trait_spiritual_visions`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Omens", "usfp_ig_trait_spiritual_visions"]
 tags: [hail_columbia, черта-группы-интересов]

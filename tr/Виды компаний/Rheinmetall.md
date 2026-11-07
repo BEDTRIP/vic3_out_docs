@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Rheinmetall» — T&R 1.13, `company_rheinmetall`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rheinmetall", "company_rheinmetall"]
 tags: [tr, вид-компании]

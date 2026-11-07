@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Insulated Packaging» — T&R 1.13, `pm_insulated_packaging`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Insulated Packaging", "pm_insulated_packaging"]
 tags: [tr, метод-производства]

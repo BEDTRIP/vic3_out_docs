@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Automation (pmg_automation_building_chip_foundry)» — T&R 1.13, `pmg_automation_building_chip_foundry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automation (pmg_automation_building_chip_foundry)", "Automation", "pmg_automation_building_chip_foundry"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Wireless Network» — T&R 1.13, `pm_no_mobile_network`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Wireless Network", "pm_no_mobile_network"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Karlsberg» — grey USU 1.13, `company_Karlsberg`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Karlsberg"]
 tags: [grey_usu, вид-компании]

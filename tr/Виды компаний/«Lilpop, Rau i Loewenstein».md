@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Lilpop, Rau i Loewenstein»» — T&R 1.13, `company_lilpop`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Lilpop, Rau i Loewenstein»", "Lilpop, Rau i Loewenstein", "company_lilpop"]
 tags: [tr, вид-компании]

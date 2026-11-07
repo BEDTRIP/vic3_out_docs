@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Money Value» — подсказка-понятие Victoria 3 1.13 (`concept_money_value`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Money Value", "concept_money_value"]
 tags: [ef, термин]

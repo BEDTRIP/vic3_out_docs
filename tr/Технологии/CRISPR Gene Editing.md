@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «CRISPR Gene Editing» — T&R 1.13, `crispr_gene_editing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CRISPR Gene Editing", "crispr_gene_editing"]
 tags: [tr, технология]

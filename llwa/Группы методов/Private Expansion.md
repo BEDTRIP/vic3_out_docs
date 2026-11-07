@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Private Expansion» — LLWA 1.13, `LLWA_pmg_private_expansion`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Private Expansion", "LLWA_pmg_private_expansion"]
 tags: [LLWA, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Baden_eisenbahn» — grey USU 1.13, `company_Baden_eisenbahn`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Baden_eisenbahn"]
 tags: [grey_usu, вид-компании]

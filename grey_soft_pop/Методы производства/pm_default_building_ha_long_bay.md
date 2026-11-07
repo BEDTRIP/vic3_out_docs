@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_ha_long_bay» — grey soft pop 1.13, `pm_default_building_ha_long_bay`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_ha_long_bay"]
 tags: [grey_soft_pop, метод-производства]

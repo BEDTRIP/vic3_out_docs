@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Klabin Irmãos & Cia.»» — TGR 1.13, `company_kablin`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["«Klabin Irmãos & Cia.»", "Klabin Irmãos & Cia", "company_kablin"]
 tags: [TGR, вид-компании]

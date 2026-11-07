@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Landed Gentry» — VC 1.13, `ig_trait_owner_of_land`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Landed Gentry", "ig_trait_owner_of_land"]
 tags: [VC, черта-группы-интересов]

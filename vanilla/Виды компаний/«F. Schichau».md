@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««F. Schichau»» — ваниль 1.13, `company_schichau`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«F. Schichau»", "F. Schichau", "company_schichau"]
 tags: [ваниль, вид-компании]

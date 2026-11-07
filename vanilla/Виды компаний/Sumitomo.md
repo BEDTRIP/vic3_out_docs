@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sumitomo» — ваниль 1.13, `company_sumitomo`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Sumitomo", "company_sumitomo"]
 tags: [ваниль, вид-компании]

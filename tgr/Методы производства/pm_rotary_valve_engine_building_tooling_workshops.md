@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_rotary_valve_engine_building_tooling_workshops» — TGR 1.13, `pm_rotary_valve_engine_building_tooling_workshops`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["pm_rotary_valve_engine_building_tooling_workshops"]
 tags: [TGR, метод-производства]

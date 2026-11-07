@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Empty Rhetoric» — VC 1.13, `ig_trait_useless_speech`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Empty Rhetoric", "ig_trait_useless_speech"]
 tags: [VC, черта-группы-интересов]

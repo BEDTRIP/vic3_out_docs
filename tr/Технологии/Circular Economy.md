@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Circular Economy» — T&R 1.13, `circular_economy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Circular Economy", "circular_economy"]
 tags: [tr, технология]

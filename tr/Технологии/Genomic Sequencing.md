@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Genomic Sequencing» — T&R 1.13, `genomic_sequencing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Genomic Sequencing", "genomic_sequencing"]
 tags: [tr, технология]

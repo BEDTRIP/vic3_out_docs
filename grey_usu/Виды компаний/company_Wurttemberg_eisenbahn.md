@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Wurttemberg_eisenbahn» — grey USU 1.13, `company_Wurttemberg_eisenbahn`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Wurttemberg_eisenbahn"]
 tags: [grey_usu, вид-компании]

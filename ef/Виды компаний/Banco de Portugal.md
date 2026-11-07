@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco de Portugal» — E&F 1.13, `company_BancoDePortugal`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco de Portugal", "company_BancoDePortugal"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Lead-Acid Battery» — T&R 1.13, `pm_lead_acid_battery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Lead-Acid Battery", "pm_lead_acid_battery"]
 tags: [tr, метод-производства]

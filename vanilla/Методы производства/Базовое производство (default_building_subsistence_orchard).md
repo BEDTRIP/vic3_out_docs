@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_subsistence_orchard)» — ваниль 1.13, `default_building_subsistence_orchard`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Базовое производство (default_building_subsistence_orchard)", "Базовое производство", "default_building_subsistence_orchard"]
 tags: [ваниль, метод-производства]

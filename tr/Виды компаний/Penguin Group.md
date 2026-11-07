@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Penguin Group» — T&R 1.13, `company_penguin_group`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Penguin Group", "company_penguin_group"]
 tags: [tr, вид-компании]

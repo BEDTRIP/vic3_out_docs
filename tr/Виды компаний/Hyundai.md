@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Hyundai» — T&R 1.13, `company_hyundai`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hyundai", "company_hyundai"]
 tags: [tr, вид-компании]

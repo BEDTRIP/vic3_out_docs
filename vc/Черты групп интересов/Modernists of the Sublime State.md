@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Modernists of the Sublime State» — VC 1.13, `ig_trait_modernists_of_sublime`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Modernists of the Sublime State", "ig_trait_modernists_of_sublime"]
 tags: [VC, черта-группы-интересов]

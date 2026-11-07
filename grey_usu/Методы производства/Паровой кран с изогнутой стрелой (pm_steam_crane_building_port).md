@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровой кран с изогнутой стрелой (pm_steam_crane_building_port)» — grey USU 1.13, `pm_steam_crane_building_port`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Паровой кран с изогнутой стрелой (pm_steam_crane_building_port)", "Curved Jib Steam Crane", "pm_steam_crane_building_port"]
 tags: [grey_usu, метод-производства]

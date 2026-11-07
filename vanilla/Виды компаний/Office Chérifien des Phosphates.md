@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Office Chérifien des Phosphates» — ваниль 1.13, `company_office_cherifien_des_phosphates`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Office Chérifien des Phosphates", "company_office_cherifien_des_phosphates"]
 tags: [ваниль, вид-компании]

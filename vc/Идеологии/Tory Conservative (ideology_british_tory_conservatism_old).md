@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Tory Conservative (ideology_british_tory_conservatism_old)» — VC 1.13, `ideology_british_tory_conservatism_old`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Tory Conservative (ideology_british_tory_conservatism_old)", "Tory Conservative", "ideology_british_tory_conservatism_old"]
 tags: [VC, идеология]

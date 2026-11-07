@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Streaming Services» — T&R 1.13, `streaming_services`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Streaming Services", "streaming_services"]
 tags: [tr, метод-производства]

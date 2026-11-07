@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Chip Foundries» — T&R 1.13, `building_processors_foundry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Chip Foundries", "building_processors_foundry"]
 tags: [tr, здание]

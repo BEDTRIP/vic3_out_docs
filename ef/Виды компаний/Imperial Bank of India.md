@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Imperial Bank of India» — E&F 1.13, `company_ImperialBankofIndia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Imperial Bank of India", "company_ImperialBankofIndia"]
 tags: [ef, вид-компании]

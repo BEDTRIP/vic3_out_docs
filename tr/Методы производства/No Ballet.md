@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Ballet» — T&R 1.13, `pm_elgar_no_ballet`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Ballet", "pm_elgar_no_ballet"]
 tags: [tr, метод-производства]

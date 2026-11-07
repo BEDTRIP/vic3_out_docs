@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Data Transportation (pmg_data_transportation_building_office)» — T&R 1.13, `pmg_data_transportation_building_office`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Data Transportation (pmg_data_transportation_building_office)", "Data Transportation", "pmg_data_transportation_building_office"]
 tags: [tr, группа-методов]

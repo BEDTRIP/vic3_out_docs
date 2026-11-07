@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровой насос с конденсатором (pm_condensing_engine_pump_building_gold_mine)» — ваниль 1.13, `pm_condensing_engine_pump_building_gold_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Паровой насос с конденсатором (pm_condensing_engine_pump_building_gold_mine)", "Condensing Engine Pump", "pm_condensing_engine_pump_building_gold_mine"]
 tags: [ваниль, метод-производства]

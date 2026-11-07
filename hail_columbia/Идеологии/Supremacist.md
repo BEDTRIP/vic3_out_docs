@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Supremacist» — Hail Columbia 1.13, `ideology_reactionary_supremacist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Supremacist", "ideology_reactionary_supremacist"]
 tags: [hail_columbia, идеология]

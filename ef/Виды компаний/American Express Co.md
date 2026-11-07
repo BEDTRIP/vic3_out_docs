@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «American Express Co» — E&F 1.13, `company_BankAmericanExpress`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["American Express Co", "company_BankAmericanExpress"]
 tags: [ef, вид-компании]

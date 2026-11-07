@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Village Caretakers» — Hail Columbia 1.13, `usfp_ig_trait_village_life`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Village Caretakers", "usfp_ig_trait_village_life"]
 tags: [hail_columbia, черта-группы-интересов]

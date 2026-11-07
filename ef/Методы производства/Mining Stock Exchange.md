@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mining Stock Exchange» — E&F 1.13, `pm_mining_stock_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Mining Stock Exchange", "pm_mining_stock_exchange"]
 tags: [ef, метод-производства]

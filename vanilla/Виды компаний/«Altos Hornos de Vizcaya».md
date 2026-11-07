@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Altos Hornos de Vizcaya»» — ваниль 1.13, `company_altos_hornos_de_vizcaya`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Altos Hornos de Vizcaya»", "Altos Hornos de Vizcaya", "company_altos_hornos_de_vizcaya"]
 tags: [ваниль, вид-компании]

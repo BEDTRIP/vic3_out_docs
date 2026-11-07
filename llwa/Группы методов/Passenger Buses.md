@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Passenger Buses» — LLWA 1.13, `LLWA_pmg_road_traffic`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Passenger Buses", "LLWA_pmg_road_traffic"]
 tags: [LLWA, группа-методов]

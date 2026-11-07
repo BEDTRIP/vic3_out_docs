@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compañía Sudamericana de Vapores»» — ваниль 1.13, `company_sudamericana_de_vapores`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Compañía Sudamericana de Vapores»", "Compañía Sudamericana de Vapores", "company_sudamericana_de_vapores"]
 tags: [ваниль, вид-компании]

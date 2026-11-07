@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Basic Appliances» — T&R 1.13, `basic_home_appliances`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Appliances", "basic_home_appliances"]
 tags: [tr, технология]

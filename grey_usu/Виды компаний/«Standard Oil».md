@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Standard Oil»» — grey USU 1.13, `company_standard_oil`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Standard Oil»", "Standard Oil", "company_standard_oil"]
 tags: [grey_usu, вид-компании]

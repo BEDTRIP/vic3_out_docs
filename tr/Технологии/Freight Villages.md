@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Freight Villages» — T&R 1.13, `freight_village`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Freight Villages", "freight_village"]
 tags: [tr, технология]

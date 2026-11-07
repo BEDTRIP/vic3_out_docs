@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Radical Republican» — VC 1.13, `ideology_revolutionism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Radical Republican", "ideology_revolutionism"]
 tags: [VC, идеология]

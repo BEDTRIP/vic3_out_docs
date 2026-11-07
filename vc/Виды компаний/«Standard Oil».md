@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Standard Oil»» — VC 1.13, `company_standard_oil`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Standard Oil»", "Standard Oil", "company_standard_oil"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Original 4-Team Roster» — Gates of Bosphorus 1.13, `pm_gbbf_original_roster`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Original 4-Team Roster", "pm_gbbf_original_roster"]
 tags: [gates_of_bosphorus, метод-производства]

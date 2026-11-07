@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Teva Pharmaceuticals» — T&R 1.13, `company_teva_pharmaceutical`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Teva Pharmaceuticals", "company_teva_pharmaceutical"]
 tags: [tr, вид-компании]

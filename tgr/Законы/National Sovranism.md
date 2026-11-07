@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «National Sovranism» — TGR 1.13, `foreign_policy_sovranist_policy`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["National Sovranism", "foreign_policy_sovranist_policy"]
 tags: [TGR, закон]

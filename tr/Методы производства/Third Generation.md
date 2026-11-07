@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Third Generation» — T&R 1.13, `pm_nuclear_third_generation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Third Generation", "pm_nuclear_third_generation"]
 tags: [tr, метод-производства]

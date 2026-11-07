@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Либерализм (ideology_liberal_leader)» — TGR 1.13, `ideology_liberal_leader`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Либерализм (ideology_liberal_leader)", "Liberal", "ideology_liberal_leader"]
 tags: [TGR, идеология]

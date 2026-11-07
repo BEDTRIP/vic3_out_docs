@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Heavy Industry Buildings» — TGR 1.13, `bg_industry_heavy`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Heavy Industry Buildings", "bg_industry_heavy"]
 tags: [TGR, группа-зданий]

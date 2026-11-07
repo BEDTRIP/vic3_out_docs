@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «The Democratic Experiment» — Hail Columbia 1.13, `usfp_ig_trait_democratic_experiment`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["The Democratic Experiment", "usfp_ig_trait_democratic_experiment"]
 tags: [hail_columbia, черта-группы-интересов]

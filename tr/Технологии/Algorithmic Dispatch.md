@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Algorithmic Dispatch» — T&R 1.13, `algorithmic_dispatch`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Algorithmic Dispatch", "algorithmic_dispatch"]
 tags: [tr, технология]

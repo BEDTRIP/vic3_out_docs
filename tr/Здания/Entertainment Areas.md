@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Entertainment Areas» — T&R 1.13, `building_elgar_opera`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Entertainment Areas", "building_elgar_opera"]
 tags: [tr, здание]

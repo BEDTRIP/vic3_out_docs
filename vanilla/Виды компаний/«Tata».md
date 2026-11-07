@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Tata»» — ваниль 1.13, `company_tata`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Tata»", "Tata", "company_tata"]
 tags: [ваниль, вид-компании]

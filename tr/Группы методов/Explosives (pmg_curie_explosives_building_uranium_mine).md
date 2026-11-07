@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Explosives (pmg_curie_explosives_building_uranium_mine)» — T&R 1.13, `pmg_curie_explosives_building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Explosives (pmg_curie_explosives_building_uranium_mine)", "Explosives", "pmg_curie_explosives_building_uranium_mine"]
 tags: [tr, группа-методов]

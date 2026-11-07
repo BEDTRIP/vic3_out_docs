@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Tuberculosis» — Gates of Bosphorus 1.13, `gbbf_trait_tuberculosis`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Tuberculosis", "gbbf_trait_tuberculosis"]
 tags: [gates_of_bosphorus, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Chr. Hansen»» — ваниль 1.13, `company_chr_hansens`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Chr. Hansen»", "Chr. Hansen", "company_chr_hansens"]
 tags: [ваниль, вид-компании]

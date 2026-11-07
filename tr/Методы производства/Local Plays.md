@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Local Plays» — T&R 1.13, `local_plays_pm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Local Plays", "local_plays_pm"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Türk Hava Yollari (Turkish Airlines)» — T&R 1.13, `company_turk_hava_yollari_turkish`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Türk Hava Yollari (Turkish Airlines)", "company_turk_hava_yollari_turkish"]
 tags: [tr, вид-компании]

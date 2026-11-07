@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Mining equipment (pmg_curie_mining_equipment_building_uranium_mine)» — T&R 1.13, `pmg_curie_mining_equipment_building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mining equipment (pmg_curie_mining_equipment_building_uranium_mine)", "Mining equipment", "pmg_curie_mining_equipment_building_uranium_mine"]
 tags: [tr, группа-методов]

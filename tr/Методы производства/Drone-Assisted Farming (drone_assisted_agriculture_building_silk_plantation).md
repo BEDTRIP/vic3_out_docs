@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Drone-Assisted Farming (drone_assisted_agriculture_building_silk_plantation)» — T&R 1.13, `drone_assisted_agriculture_building_silk_plantation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Drone-Assisted Farming (drone_assisted_agriculture_building_silk_plantation)", "Drone-Assisted Farming", "drone_assisted_agriculture_building_silk_plantation"]
 tags: [tr, метод-производства]

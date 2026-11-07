@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Nuclear Fusion Reactor» — T&R 1.13, `nuclear_fusion_reactor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Fusion Reactor", "nuclear_fusion_reactor"]
 tags: [tr, технология]

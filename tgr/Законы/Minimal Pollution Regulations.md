@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Minimal Pollution Regulations» — TGR 1.13, `law_minimum_environment_regulations`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Minimal Pollution Regulations", "law_minimum_environment_regulations"]
 tags: [TGR, закон]

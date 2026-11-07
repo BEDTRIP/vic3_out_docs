@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_bank_of_Japan» — grey USU 1.13, `company_bank_of_Japan`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_bank_of_Japan"]
 tags: [grey_usu, вид-компании]

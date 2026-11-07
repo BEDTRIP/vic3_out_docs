@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Standar Retirement Age» — TGR 1.13, `law_retirement_standard_retirement_age`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Standar Retirement Age", "law_retirement_standard_retirement_age"]
 tags: [TGR, закон]

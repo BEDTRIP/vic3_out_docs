@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Uranium Usage» — T&R 1.13, `lawgroup_uranium_usage`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Uranium Usage", "lawgroup_uranium_usage"]
 tags: [tr, группа-законов]

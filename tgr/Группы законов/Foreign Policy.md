@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Foreign Policy» — TGR 1.13, `lawgroup_foreign_policy`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Foreign Policy", "lawgroup_foreign_policy"]
 tags: [TGR, группа-законов]

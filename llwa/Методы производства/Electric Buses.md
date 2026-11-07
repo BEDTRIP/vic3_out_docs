@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Buses» — LLWA 1.13, `LLWA_pm_electric_buses`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Electric Buses", "LLWA_pm_electric_buses"]
 tags: [LLWA, метод-производства]

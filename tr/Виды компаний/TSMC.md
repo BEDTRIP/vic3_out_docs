@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «TSMC» — T&R 1.13, `company_tsmc`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["TSMC", "company_tsmc"]
 tags: [tr, вид-компании]

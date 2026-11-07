@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Carnegie Steel Company» — VC 1.13, `company_us_steel`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Carnegie Steel Company", "company_us_steel"]
 tags: [VC, вид-компании]

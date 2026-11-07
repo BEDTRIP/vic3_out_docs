@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Gas Combustion Derrick» — T&R 1.13, `pm_gas_combustion_derricks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gas Combustion Derrick", "pm_gas_combustion_derricks"]
 tags: [tr, метод-производства]

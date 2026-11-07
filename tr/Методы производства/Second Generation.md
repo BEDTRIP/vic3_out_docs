@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Second Generation» — T&R 1.13, `pm_nuclear_second_generation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Second Generation", "pm_nuclear_second_generation"]
 tags: [tr, метод-производства]

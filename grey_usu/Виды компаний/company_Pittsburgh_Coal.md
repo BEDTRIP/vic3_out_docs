@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Pittsburgh_Coal» — grey USU 1.13, `company_Pittsburgh_Coal`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Pittsburgh_Coal"]
 tags: [grey_usu, вид-компании]

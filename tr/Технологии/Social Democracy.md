@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Social Democracy» — T&R 1.13, `socialdemocracy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Social Democracy", "socialdemocracy"]
 tags: [tr, технология]

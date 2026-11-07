@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Don Quixote» — VC 1.13, `ig_trait_don_quijote`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Don Quixote", "ig_trait_don_quijote"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_slavery_building_subsistence_rice_farm» — grey USU 1.13, `pm_slavery_building_subsistence_rice_farm`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_slavery_building_subsistence_rice_farm"]
 tags: [grey_usu, метод-производства]

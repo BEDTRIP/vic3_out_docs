@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Bombay Dyeing and Manufacturing Company Limited»» — ваниль 1.13, `company_bombay_dyeing_company`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Bombay Dyeing and Manufacturing Company Limited»", "Bombay Dyeing and Manufacturing Company Limited", "company_bombay_dyeing_company"]
 tags: [ваниль, вид-компании]

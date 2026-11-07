@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Atari» — T&R 1.13, `company_atari`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Atari", "company_atari"]
 tags: [tr, вид-компании]

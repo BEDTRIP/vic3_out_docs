@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Local Network (pm_local_network_building_datacenter)» — T&R 1.13, `pm_local_network_building_datacenter`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Local Network (pm_local_network_building_datacenter)", "Local Network", "pm_local_network_building_datacenter"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Либерализм (ideology_liberal_modern)» — BPM 1.13, `ideology_liberal_modern`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Либерализм (ideology_liberal_modern)", "Liberal", "ideology_liberal_modern"]
 tags: [BPM, идеология]

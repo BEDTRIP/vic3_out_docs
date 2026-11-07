@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Tanzimat Reformer» — VC 1.13, `ideology_tanzimatism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Tanzimat Reformer", "ideology_tanzimatism"]
 tags: [VC, идеология]

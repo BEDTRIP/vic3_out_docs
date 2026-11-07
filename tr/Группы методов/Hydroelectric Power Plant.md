@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Hydroelectric Power Plant» — T&R 1.13, `pmg_base_building_hydroelectric_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydroelectric Power Plant", "pmg_base_building_hydroelectric_power_plant"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Semiconductor Electronics» — T&R 1.13, `semiconductor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Semiconductor Electronics", "semiconductor"]
 tags: [tr, технология]

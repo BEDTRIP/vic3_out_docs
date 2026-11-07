@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Swissair» — T&R 1.13, `curtiss_company_swissair`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Swissair", "curtiss_company_swissair"]
 tags: [tr, вид-компании]

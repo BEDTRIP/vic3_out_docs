@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque de France» — E&F 1.13, `company_BanqueDeFrance`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque de France", "company_BanqueDeFrance"]
 tags: [ef, вид-компании]

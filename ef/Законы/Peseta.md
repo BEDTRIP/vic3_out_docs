@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Peseta» — E&F 1.13, `law_spe_peseta_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Peseta", "law_spe_peseta_currency"]
 tags: [ef, закон]

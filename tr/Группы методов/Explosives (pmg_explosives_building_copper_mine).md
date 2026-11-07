@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Explosives (pmg_explosives_building_copper_mine)» — T&R 1.13, `pmg_explosives_building_copper_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Explosives (pmg_explosives_building_copper_mine)", "Explosives", "pmg_explosives_building_copper_mine"]
 tags: [tr, группа-методов]

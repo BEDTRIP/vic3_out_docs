@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Fusion Power Plant» — T&R 1.13, `building_fusion_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fusion Power Plant", "building_fusion_power_plant"]
 tags: [tr, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Native Ruler» — Gates of Bosphorus 1.13, `gbbf_trait_native_ruler`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Native Ruler", "gbbf_trait_native_ruler"]
 tags: [gates_of_bosphorus, черта]

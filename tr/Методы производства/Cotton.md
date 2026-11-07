@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cotton» — T&R 1.13, `pm_hydroponic_cotton`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cotton", "pm_hydroponic_cotton"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — TGR 1.13, `pm_steam_threshers`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Паровые молотилки (pm_steam_threshers)", "Steam-Powered Thresher Machines", "pm_steam_threshers"]
 tags: [TGR, метод-производства]

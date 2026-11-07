@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Credit at Central Bank debt» — подсказка-понятие Victoria 3 1.13 (`concept_credit_at_central_bank`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Credit at Central Bank debt", "concept_credit_at_central_bank"]
 tags: [ef, термин]

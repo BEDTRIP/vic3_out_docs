@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Water» — T&R 1.13, `water`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Water", "water"]
 tags: [tr, товар]

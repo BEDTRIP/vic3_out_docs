@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Southern Copper Corporation» — T&R 1.13, `company_southern_copper_corp`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Southern Copper Corporation", "company_southern_copper_corp"]
 tags: [tr, вид-компании]

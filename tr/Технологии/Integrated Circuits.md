@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Integrated Circuits» — T&R 1.13, `integrated_circuits`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Integrated Circuits", "integrated_circuits"]
 tags: [tr, технология]

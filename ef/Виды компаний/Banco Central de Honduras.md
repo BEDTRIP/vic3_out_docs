@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Central de Honduras» — E&F 1.13, `company_BancoCentralDeHonduras`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Central de Honduras", "company_BancoCentralDeHonduras"]
 tags: [ef, вид-компании]

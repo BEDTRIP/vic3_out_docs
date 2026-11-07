@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Polkist Expansionist» — VC 1.13, `ideology_polk_jingoist_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Polkist Expansionist", "ideology_polk_jingoist_leader"]
 tags: [VC, идеология]

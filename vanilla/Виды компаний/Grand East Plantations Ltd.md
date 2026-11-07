@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Grand East Plantations Ltd» — ваниль 1.13, `company_basic_colonial_plantations_1`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Grand East Plantations Ltd", "company_basic_colonial_plantations_1"]
 tags: [ваниль, вид-компании]

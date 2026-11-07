@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Porphyrogenitus» — Gates of Bosphorus 1.13, `gbbf_trait_porphyrogenitus`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Porphyrogenitus", "gbbf_trait_porphyrogenitus"]
 tags: [gates_of_bosphorus, черта]

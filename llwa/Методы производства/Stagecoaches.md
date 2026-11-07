@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Stagecoaches» — LLWA 1.13, `LLWA_pm_stagecoaches`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Stagecoaches", "LLWA_pm_stagecoaches"]
 tags: [LLWA, метод-производства]

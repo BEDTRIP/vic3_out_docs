@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Условия труда (pmg_working_conditions_tobacco)» — ваниль 1.13, `pmg_working_conditions_tobacco`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Условия труда (pmg_working_conditions_tobacco)", "Условия труда", "pmg_working_conditions_tobacco"]
 tags: [ваниль, группа-методов]

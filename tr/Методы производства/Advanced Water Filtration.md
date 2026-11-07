@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Water Filtration» — T&R 1.13, `pm_advanced_water_filtration`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Water Filtration", "pm_advanced_water_filtration"]
 tags: [tr, метод-производства]

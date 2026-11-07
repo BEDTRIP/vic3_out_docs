@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Traditional Cosmetics» — T&R 1.13, `pm_traditional_perfumes_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Traditional Cosmetics", "pm_traditional_perfumes_cosmetics"]
 tags: [tr, метод-производства]

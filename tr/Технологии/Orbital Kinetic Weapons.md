@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Orbital Kinetic Weapons» — T&R 1.13, `orbital_kinetic_weapons`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Orbital Kinetic Weapons", "orbital_kinetic_weapons"]
 tags: [tr, технология]

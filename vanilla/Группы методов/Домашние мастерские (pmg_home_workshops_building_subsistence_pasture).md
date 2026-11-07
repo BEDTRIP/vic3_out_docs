@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Домашние мастерские (pmg_home_workshops_building_subsistence_pasture)» — ваниль 1.13, `pmg_home_workshops_building_subsistence_pasture`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Домашние мастерские (pmg_home_workshops_building_subsistence_pasture)", "Домашние мастерские", "pmg_home_workshops_building_subsistence_pasture"]
 tags: [ваниль, группа-методов]

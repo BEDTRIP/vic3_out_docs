@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Industrial Cosmetics» — T&R 1.13, `pm_industrial_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Industrial Cosmetics", "pm_industrial_cosmetics"]
 tags: [tr, метод-производства]

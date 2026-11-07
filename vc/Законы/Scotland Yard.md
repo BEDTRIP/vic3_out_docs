@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Scotland Yard» — VC 1.13, `law_scotland_yard`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Scotland Yard", "law_scotland_yard"]
 tags: [VC, закон]

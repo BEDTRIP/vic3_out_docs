@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Baht» — E&F 1.13, `law_spe_baht_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Baht", "law_spe_baht_currency"]
 tags: [ef, закон]

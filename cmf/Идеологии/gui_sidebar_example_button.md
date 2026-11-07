@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «gui_sidebar_example_button» — CMF 1.13, `gui_sidebar_example_button`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["gui_sidebar_example_button"]
 tags: [CMF, идеология]

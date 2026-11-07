@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Vertical Silo Drying» — T&R 1.13, `pm_vertical_silo_drying`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vertical Silo Drying", "pm_vertical_silo_drying"]
 tags: [tr, метод-производства]

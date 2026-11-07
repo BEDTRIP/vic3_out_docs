@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Proportional System» — TGR 1.13, `law_proportional_system`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Proportional System", "law_proportional_system"]
 tags: [TGR, закон]

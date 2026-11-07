@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Тактика ведения мобильной войны (pm_mobile_warfare_tactics)» — T&R 1.13, `pm_mobile_warfare_tactics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Тактика ведения мобильной войны (pm_mobile_warfare_tactics)", "Mobile Warfare Tactics", "pm_mobile_warfare_tactics"]
 tags: [tr, метод-производства]

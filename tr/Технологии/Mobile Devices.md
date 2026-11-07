@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Mobile Devices» — T&R 1.13, `mobile_devices`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mobile Devices", "mobile_devices"]
 tags: [tr, технология]

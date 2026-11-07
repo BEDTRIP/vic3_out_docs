@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Tersâne-i Âmire»» — TGR 1.13, `company_imperial_arsenal`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["«Tersâne-i Âmire»", "Tersâne-i Âmire", "company_imperial_arsenal"]
 tags: [TGR, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Vacuum Tube» — T&R 1.13, `pm_vacuum_tube`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vacuum Tube", "pm_vacuum_tube"]
 tags: [tr, метод-производства]

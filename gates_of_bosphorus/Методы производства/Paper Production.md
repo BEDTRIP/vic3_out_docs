@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Paper Production» — Gates of Bosphorus 1.13, `gbbf_esparto_papermill`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Paper Production", "gbbf_esparto_papermill"]
 tags: [gates_of_bosphorus, метод-производства]

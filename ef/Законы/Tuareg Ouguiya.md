@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Tuareg Ouguiya» — E&F 1.13, `law_eco_tuareg_ouguiya_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Tuareg Ouguiya", "law_eco_tuareg_ouguiya_currency"]
 tags: [ef, закон]

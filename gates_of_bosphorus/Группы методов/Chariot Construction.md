@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Chariot Construction» — Gates of Bosphorus 1.13, `pmg_gbbf_chariot_construction`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Chariot Construction", "pmg_gbbf_chariot_construction"]
 tags: [gates_of_bosphorus, группа-методов]

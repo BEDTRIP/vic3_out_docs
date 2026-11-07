@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Railway Tracks» — Gates of Bosphorus 1.13, `pm_gbbf_railway_tracks`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Railway Tracks", "pm_gbbf_railway_tracks"]
 tags: [gates_of_bosphorus, метод-производства]

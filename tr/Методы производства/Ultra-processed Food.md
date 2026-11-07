@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Ultra-processed Food» — T&R 1.13, `pm_ultraprocessed_snacks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ultra-processed Food", "pm_ultraprocessed_snacks"]
 tags: [tr, метод-производства]

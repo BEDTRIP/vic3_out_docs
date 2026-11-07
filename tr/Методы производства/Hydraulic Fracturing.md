@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hydraulic Fracturing» — T&R 1.13, `pm_oil_hydraulic_fracturing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydraulic Fracturing", "pm_oil_hydraulic_fracturing"]
 tags: [tr, метод-производства]

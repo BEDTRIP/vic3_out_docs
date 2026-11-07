@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Watertube Boiler (pm_watertube_boiler_building_general)» — T&R 1.13, `pm_watertube_boiler_building_general`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Watertube Boiler (pm_watertube_boiler_building_general)", "Watertube Boiler", "pm_watertube_boiler_building_general"]
 tags: [tr, метод-производства]

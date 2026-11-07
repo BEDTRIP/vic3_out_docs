@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Agricultural Stock» — E&F 1.13, `pmg_agricultural_stock_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Agricultural Stock", "pmg_agricultural_stock_exchange"]
 tags: [ef, группа-методов]

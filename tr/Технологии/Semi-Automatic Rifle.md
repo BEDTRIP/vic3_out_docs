@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Semi-Automatic Rifle» — T&R 1.13, `semi_automatic_rifle`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Semi-Automatic Rifle", "semi_automatic_rifle"]
 tags: [tr, технология]

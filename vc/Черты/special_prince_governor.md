@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «special_prince_governor» — VC 1.13, `special_prince_governor`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["special_prince_governor"]
 tags: [VC, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Data Optimization (pm_digital_data_optimization_primary_sector)» — T&R 1.13, `pm_digital_data_optimization_primary_sector`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Data Optimization (pm_digital_data_optimization_primary_sector)", "Digital Data Optimization", "pm_digital_data_optimization_primary_sector"]
 tags: [tr, метод-производства]

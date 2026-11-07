@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Oil-Fired Power Plant (pm_oil-fired_plant_3)» — T&R 1.13, `pm_oil-fired_plant_3`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Oil-Fired Power Plant (pm_oil-fired_plant_3)", "Oil-Fired Power Plant", "pm_oil-fired_plant_3"]
 tags: [tr, метод-производства]

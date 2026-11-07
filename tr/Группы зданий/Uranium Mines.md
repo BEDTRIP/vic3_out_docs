@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Uranium Mines» — T&R 1.13, `bg_uranium_mining`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Uranium Mines", "bg_uranium_mining"]
 tags: [tr, группа-зданий]

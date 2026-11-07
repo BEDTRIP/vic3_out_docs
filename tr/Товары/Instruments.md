@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Instruments» — T&R 1.13, `elgar_instruments`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Instruments", "elgar_instruments"]
 tags: [tr, товар]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Пролетарии (ideology_proletarian)» — ваниль 1.13, `ideology_proletarian`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Пролетарии (ideology_proletarian)", "Proletarian", "ideology_proletarian"]
 tags: [ваниль, идеология]

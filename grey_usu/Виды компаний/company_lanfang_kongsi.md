@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_lanfang_kongsi» — grey USU 1.13, `:company_lanfang_kongsi`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_lanfang_kongsi", ":company_lanfang_kongsi"]
 tags: [grey_usu, вид-компании]

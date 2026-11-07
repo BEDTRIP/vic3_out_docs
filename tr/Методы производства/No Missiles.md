@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Missiles» — T&R 1.13, `pm_no_missiles_building_munition_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Missiles", "pm_no_missiles_building_munition_plant"]
 tags: [tr, метод-производства]

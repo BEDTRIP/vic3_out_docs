@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Aerospace Industries» — T&R 1.13, `building_aircraft_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aerospace Industries", "building_aircraft_industry"]
 tags: [tr, здание]

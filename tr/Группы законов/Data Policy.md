@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Data Policy» — T&R 1.13, `lawgroup_data_policy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Data Policy", "lawgroup_data_policy"]
 tags: [tr, группа-законов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Overland Transport Trust» — LLWA 1.13, `LLWA_company_turnpike`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Overland Transport Trust", "LLWA_company_turnpike"]
 tags: [LLWA, вид-компании]

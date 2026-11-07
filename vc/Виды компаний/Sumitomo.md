@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sumitomo» — VC 1.13, `company_sumitomo`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Sumitomo", "company_sumitomo"]
 tags: [VC, вид-компании]

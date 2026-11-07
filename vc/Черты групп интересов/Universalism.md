@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Universalism» — VC 1.13, `ig_trait_universalism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Universalism", "ig_trait_universalism"]
 tags: [VC, черта-группы-интересов]

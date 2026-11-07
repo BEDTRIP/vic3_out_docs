@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Chemins de fer Orientaux»» — ваниль 1.13, `company_orient_express`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Chemins de fer Orientaux»", "Chemins de fer Orientaux", "company_orient_express"]
 tags: [ваниль, вид-компании]

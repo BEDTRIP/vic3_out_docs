@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Russo_Baltic_Wagon» — grey USU 1.13, `company_Russo_Baltic_Wagon`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Russo_Baltic_Wagon"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Sense of Mission» — VC 1.13, `ig_trait_burden_of_mission`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Sense of Mission", "ig_trait_burden_of_mission"]
 tags: [VC, черта-группы-интересов]

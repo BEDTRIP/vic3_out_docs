@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Constitutionalist» — Gates of Bosphorus 1.13, `ideology_gbbf_constitutionalist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Constitutionalist", "ideology_gbbf_constitutionalist"]
 tags: [gates_of_bosphorus, идеология]

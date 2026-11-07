@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Baidu» — T&R 1.13, `company_baidu`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Baidu", "company_baidu"]
 tags: [tr, вид-компании]

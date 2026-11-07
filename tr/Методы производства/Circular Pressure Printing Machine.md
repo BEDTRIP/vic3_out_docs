@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Circular Pressure Printing Machine» — T&R 1.13, `manzoni_pm_cylinder_presses`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Circular Pressure Printing Machine", "manzoni_pm_cylinder_presses"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «New York Stock Exchange» — E&F 1.13, `building_financial_centre_usa`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["New York Stock Exchange", "building_financial_centre_usa"]
 tags: [ef, здание]

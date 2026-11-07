@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Private Expansion Allowed» — LLWA 1.13, `LLWA_pm_yes_private_expansion`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Private Expansion Allowed", "LLWA_pm_yes_private_expansion"]
 tags: [LLWA, метод-производства]

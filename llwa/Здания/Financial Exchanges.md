@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Financial Exchanges» — LLWA 1.13, `llwa_building_exchange`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Financial Exchanges", "llwa_building_exchange"]
 tags: [LLWA, здание]

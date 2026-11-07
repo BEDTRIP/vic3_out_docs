@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bourse de Paris» — E&F 1.13, `building_financial_centre_fra`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bourse de Paris", "building_financial_centre_fra"]
 tags: [ef, здание]

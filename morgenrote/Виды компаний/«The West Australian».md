@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««The West Australian»» — Morgenröte 1.13, `pbi_company_the_west_australian`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«The West Australian»", "The West Australian", "pbi_company_the_west_australian"]
 tags: [Morgenröte, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Printers» — T&R 1.13, `pm_digital_press`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Printers", "pm_digital_press"]
 tags: [tr, метод-производства]

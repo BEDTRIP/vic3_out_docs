@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rocketry» — T&R 1.13, `rocketery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rocketry", "rocketery"]
 tags: [tr, технология]

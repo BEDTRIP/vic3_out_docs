@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cable Cars» — Hail Columbia 1.13, `pm_usfp_brookyln_bridge_cable_cars`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Cable Cars", "pm_usfp_brookyln_bridge_cable_cars"]
 tags: [hail_columbia, метод-производства]

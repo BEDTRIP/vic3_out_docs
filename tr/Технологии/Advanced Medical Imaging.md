@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Advanced Medical Imaging» — T&R 1.13, `advanced_medical_imaging`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Medical Imaging", "advanced_medical_imaging"]
 tags: [tr, технология]

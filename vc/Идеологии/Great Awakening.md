@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Great Awakening» — VC 1.13, `ideology_protestant_awakening`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Great Awakening", "ideology_protestant_awakening"]
 tags: [VC, идеология]

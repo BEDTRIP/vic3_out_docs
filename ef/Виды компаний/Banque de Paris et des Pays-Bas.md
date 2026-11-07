@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque de Paris et des Pays-Bas» — E&F 1.13, `company_BanqueDeParisEtDesPaysBas`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque de Paris et des Pays-Bas", "company_BanqueDeParisEtDesPaysBas"]
 tags: [ef, вид-компании]

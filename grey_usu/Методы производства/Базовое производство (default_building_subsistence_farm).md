@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_subsistence_farm)» — grey USU 1.13, `default_building_subsistence_farm`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Базовое производство (default_building_subsistence_farm)", "Базовое производство", "default_building_subsistence_farm"]
 tags: [grey_usu, метод-производства]

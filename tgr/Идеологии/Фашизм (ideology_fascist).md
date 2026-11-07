@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Фашизм (ideology_fascist)» — TGR 1.13, `ideology_fascist`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Фашизм (ideology_fascist)", "Fascist", "ideology_fascist"]
 tags: [TGR, идеология]

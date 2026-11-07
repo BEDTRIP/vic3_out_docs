@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «AGI» — T&R 1.13, `artificial_general_intelligence`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AGI", "artificial_general_intelligence"]
 tags: [tr, технология]

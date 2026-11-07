@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Raw Material Supply Treaty» — подсказка-понятие Victoria 3 1.13 (`concept_r_m_s_a`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Raw Material Supply Treaty", "concept_r_m_s_a"]
 tags: [ef, термин]

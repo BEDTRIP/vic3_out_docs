@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Smart Energy Grid» — T&R 1.13, `smart_energy_grid`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart Energy Grid", "smart_energy_grid"]
 tags: [tr, технология]

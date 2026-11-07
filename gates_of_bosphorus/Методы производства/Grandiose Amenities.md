@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Grandiose Amenities» — Gates of Bosphorus 1.13, `pm_gbbf_grandiose_amenities`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Grandiose Amenities", "pm_gbbf_grandiose_amenities"]
 tags: [gates_of_bosphorus, метод-производства]

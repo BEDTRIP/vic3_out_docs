@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Mode of Transport» — Gates of Bosphorus 1.13, `pmg_gbbf_karadag_transportation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Mode of Transport", "pmg_gbbf_karadag_transportation"]
 tags: [gates_of_bosphorus, группа-методов]

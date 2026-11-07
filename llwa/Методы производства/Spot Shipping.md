@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Spot Shipping» — LLWA 1.13, `LLWA_pm_spot_shipping`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Spot Shipping", "LLWA_pm_spot_shipping"]
 tags: [LLWA, метод-производства]

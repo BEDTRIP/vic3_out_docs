@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Confédération générale des vignerons»» — ваниль 1.13, `company_cgv`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Confédération générale des vignerons»", "Confédération générale des vignerons", "company_cgv"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «LGBTQ+ Rights» — T&R 1.13, `lawgroup_lgbtq_rights`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["LGBTQ+ Rights", "lawgroup_lgbtq_rights"]
 tags: [tr, группа-законов]

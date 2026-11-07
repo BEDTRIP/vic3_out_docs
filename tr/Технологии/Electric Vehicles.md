@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Electric Vehicles» — T&R 1.13, `electric_vehicles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Vehicles", "electric_vehicles"]
 tags: [tr, технология]

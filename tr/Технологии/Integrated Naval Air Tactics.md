@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Integrated Naval Air Tactics» — T&R 1.13, `integrated_naval_air_tactics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Integrated Naval Air Tactics", "integrated_naval_air_tactics"]
 tags: [tr, технология]

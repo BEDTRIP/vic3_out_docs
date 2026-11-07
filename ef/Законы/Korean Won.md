@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Korean Won» — E&F 1.13, `law_spe_korean_won_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Korean Won", "law_spe_korean_won_currency"]
 tags: [ef, закон]

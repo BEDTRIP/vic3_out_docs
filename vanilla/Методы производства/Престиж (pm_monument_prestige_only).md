@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Престиж (pm_monument_prestige_only)» — ваниль 1.13, `pm_monument_prestige_only`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Престиж (pm_monument_prestige_only)", "Prestige", "pm_monument_prestige_only"]
 tags: [ваниль, метод-производства]

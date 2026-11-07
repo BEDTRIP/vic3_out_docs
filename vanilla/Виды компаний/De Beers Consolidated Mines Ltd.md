@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «De Beers Consolidated Mines Ltd» — ваниль 1.13, `company_de_beers`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["De Beers Consolidated Mines Ltd", "company_de_beers"]
 tags: [ваниль, вид-компании]

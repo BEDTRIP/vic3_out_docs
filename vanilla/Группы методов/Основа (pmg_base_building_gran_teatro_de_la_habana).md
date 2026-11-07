@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_gran_teatro_de_la_habana)» — ваниль 1.13, `pmg_base_building_gran_teatro_de_la_habana`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_gran_teatro_de_la_habana)", "Основа", "pmg_base_building_gran_teatro_de_la_habana"]
 tags: [ваниль, группа-методов]

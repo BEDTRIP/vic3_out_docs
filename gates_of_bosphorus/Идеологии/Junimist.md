@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Junimist» — Gates of Bosphorus 1.13, `ideology_gbbf_junimist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Junimist", "ideology_gbbf_junimist"]
 tags: [gates_of_bosphorus, идеология]

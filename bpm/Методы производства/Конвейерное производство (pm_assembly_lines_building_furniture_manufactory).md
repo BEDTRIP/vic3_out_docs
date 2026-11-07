@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_furniture_manufactory)» — BPM 1.13, `pm_assembly_lines_building_furniture_manufactory`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Конвейерное производство (pm_assembly_lines_building_furniture_manufactory)", "Assembly Lines", "pm_assembly_lines_building_furniture_manufactory"]
 tags: [BPM, метод-производства]

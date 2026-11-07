@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Exchange Studies» — Hail Columbia 1.13, `usfp_ig_trait_european_science`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Exchange Studies", "usfp_ig_trait_european_science"]
 tags: [hail_columbia, черта-группы-интересов]

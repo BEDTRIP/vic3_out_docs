@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Absolutist Ruler» — Gates of Bosphorus 1.13, `gbbf_trait_absolutist_ruler`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Absolutist Ruler", "gbbf_trait_absolutist_ruler"]
 tags: [gates_of_bosphorus, черта]

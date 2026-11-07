@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основание (pmg_base_building_saint_basils_cathedral)» — ваниль 1.13, `pmg_base_building_saint_basils_cathedral`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основание (pmg_base_building_saint_basils_cathedral)", "Base", "pmg_base_building_saint_basils_cathedral"]
 tags: [ваниль, группа-методов]

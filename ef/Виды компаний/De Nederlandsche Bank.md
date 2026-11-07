@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «De Nederlandsche Bank» — E&F 1.13, `company_DeNederlandscheBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["De Nederlandsche Bank", "company_DeNederlandscheBank"]
 tags: [ef, вид-компании]

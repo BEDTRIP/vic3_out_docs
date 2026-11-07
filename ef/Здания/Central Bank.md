@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Central Bank» — E&F 1.13, `building_bank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Central Bank", "building_bank"]
 tags: [ef, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Private Charters» — T&R 1.13, `pm_private_charters`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Private Charters", "pm_private_charters"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Liberal Sovereignty» — VC 1.13, `ig_trait_liberal_sovereignty`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Liberal Sovereignty", "ig_trait_liberal_sovereignty"]
 tags: [VC, черта-группы-интересов]

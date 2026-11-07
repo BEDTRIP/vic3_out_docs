@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Water Plants» — T&R 1.13, `building_water_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Water Plants", "building_water_plant"]
 tags: [tr, здание]

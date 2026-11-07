@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Shein» — T&R 1.13, `company_shein`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Shein", "company_shein"]
 tags: [tr, вид-компании]

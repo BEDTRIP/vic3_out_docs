@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ramirez & Cia. (Filhos) Lda» — ваниль 1.13, `company_ramirez`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Ramirez & Cia. (Filhos) Lda", "company_ramirez"]
 tags: [ваниль, вид-компании]

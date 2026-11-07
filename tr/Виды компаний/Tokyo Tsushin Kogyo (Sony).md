@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Tokyo Tsushin Kogyo (Sony)» — T&R 1.13, `company_tokyo_tsushin_kogyo_sony`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Tokyo Tsushin Kogyo (Sony)", "company_tokyo_tsushin_kogyo_sony"]
 tags: [tr, вид-компании]

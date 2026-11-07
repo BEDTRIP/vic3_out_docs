@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Satellites» — T&R 1.13, `satellites`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Satellites", "satellites"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Norsk Hydroelektrisk Kvælstofaktieselskap» — ваниль 1.13, `company_norsk_hydro`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Norsk Hydroelektrisk Kvælstofaktieselskap", "company_norsk_hydro"]
 tags: [ваниль, вид-компании]

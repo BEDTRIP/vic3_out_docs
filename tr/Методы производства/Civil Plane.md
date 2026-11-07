@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Civil Plane» — T&R 1.13, `pm_civil_planes_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Civil Plane", "pm_civil_planes_production"]
 tags: [tr, метод-производства]

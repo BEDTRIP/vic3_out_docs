@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Economic Decentralization» — TGR 1.13, `law_economic_decentralism`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Economic Decentralization", "law_economic_decentralism"]
 tags: [TGR, закон]

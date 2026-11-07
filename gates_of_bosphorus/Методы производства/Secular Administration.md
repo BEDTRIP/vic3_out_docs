@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Secular Administration» — Gates of Bosphorus 1.13, `pm_gbbf_secular_administration`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Secular Administration", "pm_gbbf_secular_administration"]
 tags: [gates_of_bosphorus, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Turkish Secularist» — VC 1.13, `ideology_kemalism_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Turkish Secularist", "ideology_kemalism_leader"]
 tags: [VC, идеология]

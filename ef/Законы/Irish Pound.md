@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Irish Pound» — E&F 1.13, `law_pound_irish_pound_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Irish Pound", "law_pound_irish_pound_currency"]
 tags: [ef, закон]

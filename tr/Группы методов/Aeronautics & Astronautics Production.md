@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Aeronautics & Astronautics Production» — T&R 1.13, `pmg_civil_space_aircraft`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aeronautics & Astronautics Production", "pmg_civil_space_aircraft"]
 tags: [tr, группа-методов]

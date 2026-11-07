@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Digital Governance» — T&R 1.13, `digital_governance`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Governance", "digital_governance"]
 tags: [tr, технология]

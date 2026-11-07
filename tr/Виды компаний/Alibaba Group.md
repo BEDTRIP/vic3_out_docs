@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Alibaba Group» — T&R 1.13, `company_alibaba`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alibaba Group", "company_alibaba"]
 tags: [tr, вид-компании]

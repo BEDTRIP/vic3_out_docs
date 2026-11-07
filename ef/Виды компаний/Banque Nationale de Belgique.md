@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque Nationale de Belgique» — E&F 1.13, `company_BanqueNationaleDeBelgique`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque Nationale de Belgique", "company_BanqueNationaleDeBelgique"]
 tags: [ef, вид-компании]

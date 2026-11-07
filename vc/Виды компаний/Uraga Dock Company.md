@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Uraga Dock Company» — VC 1.13, `company_uragadockcompany`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Uraga Dock Company", "company_uragadockcompany"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_motor_industry)» — TGR 1.13, `pm_rotary_valve_engine_building_motor_industry`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Ротативный двигатель (pm_rotary_valve_engine_building_motor_industry)", "Rotary Valve Engine", "pm_rotary_valve_engine_building_motor_industry"]
 tags: [TGR, метод-производства]

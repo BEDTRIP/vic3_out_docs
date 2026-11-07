@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Mark» — E&F 1.13, `law_mark_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Mark", "law_mark_currency"]
 tags: [ef, закон]

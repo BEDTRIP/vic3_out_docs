@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Catalytic Cracking» — T&R 1.13, `pm_catalytic_cracking`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Catalytic Cracking", "pm_catalytic_cracking"]
 tags: [tr, метод-производства]

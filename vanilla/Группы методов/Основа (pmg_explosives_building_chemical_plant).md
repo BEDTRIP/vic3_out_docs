@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_explosives_building_chemical_plant)» — ваниль 1.13, `pmg_explosives_building_chemical_plant`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_explosives_building_chemical_plant)", "Основа", "pmg_explosives_building_chemical_plant"]
 tags: [ваниль, группа-методов]

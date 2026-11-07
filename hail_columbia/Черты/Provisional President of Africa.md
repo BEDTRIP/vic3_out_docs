@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Provisional President of Africa» — Hail Columbia 1.13, `usfp_special_character_provisional_president_of_africa`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Provisional President of Africa", "usfp_special_character_provisional_president_of_africa"]
 tags: [hail_columbia, черта]

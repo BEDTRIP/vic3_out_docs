@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ghanaian Pound» — E&F 1.13, `law_eco_ghanaian_pound_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Ghanaian Pound", "law_eco_ghanaian_pound_currency"]
 tags: [ef, закон]

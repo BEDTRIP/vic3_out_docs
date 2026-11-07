@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод grey food 2 ranch меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 tags: [grey_food_2_ranch, что-меняет]
 generated: "v3 graph mods"

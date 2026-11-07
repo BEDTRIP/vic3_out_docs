@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Standard Oil»» — ваниль 1.13, `company_standard_oil`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Standard Oil»", "Standard Oil", "company_standard_oil"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Nederlandsche Handel-Maatschappij» — ваниль 1.13, `company_nhm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Nederlandsche Handel-Maatschappij", "company_nhm"]
 tags: [ваниль, вид-компании]

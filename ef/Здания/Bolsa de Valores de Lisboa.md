@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bolsa de Valores de Lisboa» — E&F 1.13, `building_financial_centre_por`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bolsa de Valores de Lisboa", "building_financial_centre_por"]
 tags: [ef, здание]

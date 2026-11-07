@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «A. Markwald & Company, Ltd» — VC 1.13, `company_a_markwald_and_company`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["A. Markwald & Company, Ltd", "company_a_markwald_and_company"]
 tags: [VC, вид-компании]

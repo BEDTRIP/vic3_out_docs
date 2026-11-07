@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Carrier of the Seas» — VC 1.13, `ig_trait_carrier_of_the_seas`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Carrier of the Seas", "ig_trait_carrier_of_the_seas"]
 tags: [VC, черта-группы-интересов]

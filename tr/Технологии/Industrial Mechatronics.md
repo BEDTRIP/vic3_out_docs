@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Industrial Mechatronics» — T&R 1.13, `mechatronics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Industrial Mechatronics", "mechatronics"]
 tags: [tr, технология]

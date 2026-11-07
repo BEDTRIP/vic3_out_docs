@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «com_situation_background_asia_westerners_arriving» — CMF 1.13, `com_situation_background_asia_westerners_arriving`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["com_situation_background_asia_westerners_arriving"]
 tags: [CMF, черта-группы-интересов]

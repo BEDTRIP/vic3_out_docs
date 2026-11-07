@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Leu» — E&F 1.13, `law_leon_leu_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Leu", "law_leon_leu_currency"]
 tags: [ef, закон]

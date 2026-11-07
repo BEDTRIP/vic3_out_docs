@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Österreichische Creditanstalt» — E&F 1.13, `company_OesterreichischeCreditAnstalt`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Österreichische Creditanstalt", "company_OesterreichischeCreditAnstalt"]
 tags: [ef, вид-компании]

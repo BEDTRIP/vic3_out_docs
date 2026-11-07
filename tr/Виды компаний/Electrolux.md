@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Electrolux» — T&R 1.13, `company_electrolux`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electrolux", "company_electrolux"]
 tags: [tr, вид-компании]

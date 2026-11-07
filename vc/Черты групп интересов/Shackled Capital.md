@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Shackled Capital» — VC 1.13, `ig_trait_capital_in_chains`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Shackled Capital", "ig_trait_capital_in_chains"]
 tags: [VC, черта-группы-интересов]

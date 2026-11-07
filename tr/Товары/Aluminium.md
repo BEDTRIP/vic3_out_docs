@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Aluminium» — T&R 1.13, `aluminium`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aluminium", "aluminium"]
 tags: [tr, товар]

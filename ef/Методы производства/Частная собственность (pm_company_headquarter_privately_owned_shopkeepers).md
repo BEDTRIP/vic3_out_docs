@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_shopkeepers)» — E&F 1.13, `pm_company_headquarter_privately_owned_shopkeepers`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Частная собственность (pm_company_headquarter_privately_owned_shopkeepers)", "Частная собственность", "pm_company_headquarter_privately_owned_shopkeepers"]
 tags: [ef, метод-производства]

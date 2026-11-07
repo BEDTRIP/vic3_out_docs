@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Legislative process» — TGR 1.13, `lawgroup_legislative_process`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Legislative process", "lawgroup_legislative_process"]
 tags: [TGR, группа-законов]

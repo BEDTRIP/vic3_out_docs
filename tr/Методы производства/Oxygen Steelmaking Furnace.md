@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Oxygen Steelmaking Furnace» — T&R 1.13, `pm_oxygen_steel_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Oxygen Steelmaking Furnace", "pm_oxygen_steel_process"]
 tags: [tr, метод-производства]

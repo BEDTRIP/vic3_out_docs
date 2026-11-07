@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Raw Data» — T&R 1.13, `raw_data`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Raw Data", "raw_data"]
 tags: [tr, товар]

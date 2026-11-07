@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_dubois_university_humanities» — Morgenröte 1.13, `pm_dubois_university_humanities`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["pm_dubois_university_humanities"]
 tags: [Morgenröte, метод-производства]

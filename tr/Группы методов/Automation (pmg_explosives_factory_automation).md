@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Automation (pmg_explosives_factory_automation)» — T&R 1.13, `pmg_explosives_factory_automation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automation (pmg_explosives_factory_automation)", "Automation", "pmg_explosives_factory_automation"]
 tags: [tr, группа-методов]

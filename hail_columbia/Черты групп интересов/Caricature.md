@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Caricature» — Hail Columbia 1.13, `usfp_ig_trait_caricature`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Caricature", "usfp_ig_trait_caricature"]
 tags: [hail_columbia, черта-группы-интересов]

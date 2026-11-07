@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Same Sex Unions» — T&R 1.13, `lgbtq_civil_unions`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Same Sex Unions", "lgbtq_civil_unions"]
 tags: [tr, закон]

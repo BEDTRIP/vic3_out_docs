@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Economic Centralization» — TGR 1.13, `law_economic_centralism`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Economic Centralization", "law_economic_centralism"]
 tags: [TGR, закон]

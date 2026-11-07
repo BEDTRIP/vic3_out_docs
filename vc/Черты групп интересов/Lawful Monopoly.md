@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Lawful Monopoly» — VC 1.13, `ig_trait_legal_monopoly`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Lawful Monopoly", "ig_trait_legal_monopoly"]
 tags: [VC, черта-группы-интересов]

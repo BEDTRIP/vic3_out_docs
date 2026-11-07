@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bourse de Bruxelles» — E&F 1.13, `building_financial_centre_bel`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bourse de Bruxelles", "building_financial_centre_bel"]
 tags: [ef, здание]

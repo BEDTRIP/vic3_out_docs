@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bösendorfer» — Morgenröte 1.13, `elgar_company_boesendorfer`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Bösendorfer", "elgar_company_boesendorfer"]
 tags: [Morgenröte, вид-компании]

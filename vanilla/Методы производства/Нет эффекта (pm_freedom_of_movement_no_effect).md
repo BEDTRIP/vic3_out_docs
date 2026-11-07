@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Нет эффекта (pm_freedom_of_movement_no_effect)» — ваниль 1.13, `pm_freedom_of_movement_no_effect`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Нет эффекта (pm_freedom_of_movement_no_effect)", "No effect", "pm_freedom_of_movement_no_effect"]
 tags: [ваниль, метод-производства]

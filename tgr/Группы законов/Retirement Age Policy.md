@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Retirement Age Policy» — TGR 1.13, `lawgroup_retirement_age`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Retirement Age Policy", "lawgroup_retirement_age"]
 tags: [TGR, группа-законов]

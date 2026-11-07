@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Plantation Harvesting (advanced_plantation_methods_building_vineyard)» — T&R 1.13, `advanced_plantation_methods_building_vineyard`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Plantation Harvesting (advanced_plantation_methods_building_vineyard)", "Advanced Plantation Harvesting", "advanced_plantation_methods_building_vineyard"]
 tags: [tr, метод-производства]

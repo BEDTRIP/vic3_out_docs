@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «al-Muhammadiya Palace» — Gates of Bosphorus 1.13, `gbbf_building_mohamedia_palace`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["al-Muhammadiya Palace", "gbbf_building_mohamedia_palace"]
 tags: [gates_of_bosphorus, здание]

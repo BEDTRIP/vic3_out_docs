@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Plantation Investments» — TGR 1.13, `economic_incentives_plantation`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Plantation Investments", "economic_incentives_plantation"]
 tags: [TGR, закон]

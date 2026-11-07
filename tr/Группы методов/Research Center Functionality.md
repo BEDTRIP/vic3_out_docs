@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Research Center Functionality» — T&R 1.13, `pmg_base_building_research_center`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Research Center Functionality", "pmg_base_building_research_center"]
 tags: [tr, группа-методов]

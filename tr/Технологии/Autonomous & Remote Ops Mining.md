@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Autonomous & Remote Ops Mining» — T&R 1.13, `autonomous_and_remote_ops_mining`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Autonomous & Remote Ops Mining", "autonomous_and_remote_ops_mining"]
 tags: [tr, технология]

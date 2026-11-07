@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «EV Engines» — T&R 1.13, `pm_ev_motors`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["EV Engines", "pm_ev_motors"]
 tags: [tr, метод-производства]

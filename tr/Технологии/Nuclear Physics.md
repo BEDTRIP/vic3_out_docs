@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Nuclear Physics» — T&R 1.13, `verrier_nuclear_physics_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Physics", "verrier_nuclear_physics_tech"]
 tags: [tr, технология]

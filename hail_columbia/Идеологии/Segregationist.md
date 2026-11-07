@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Segregationist» — Hail Columbia 1.13, `ideology_reactionary_segregationist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Segregationist", "ideology_reactionary_segregationist"]
 tags: [hail_columbia, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — grey USU 1.13, `company_fcm`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Forges et Chantiers de la Méditerranée»", "Forges et Chantiers de la Méditerranée", "company_fcm"]
 tags: [grey_usu, вид-компании]

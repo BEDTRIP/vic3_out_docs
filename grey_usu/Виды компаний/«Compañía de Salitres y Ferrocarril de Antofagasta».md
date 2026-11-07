@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compañía de Salitres y Ferrocarril de Antofagasta»» — grey USU 1.13, `company_csfa`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Compañía de Salitres y Ferrocarril de Antofagasta»", "Compañía de Salitres y Ferrocarril de Antofagasta", "company_csfa"]
 tags: [grey_usu, вид-компании]

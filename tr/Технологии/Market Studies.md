@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Market Studies» — T&R 1.13, `market_studies`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Market Studies", "market_studies"]
 tags: [tr, технология]

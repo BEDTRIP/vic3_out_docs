@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fruits» — T&R 1.13, `pm_hydroponic_fruit`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fruits", "pm_hydroponic_fruit"]
 tags: [tr, метод-производства]

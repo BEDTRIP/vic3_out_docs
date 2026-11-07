@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Reconnaissance Balloons» — T&R 1.13, `curtiss_reconnaissance_balloon_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Reconnaissance Balloons", "curtiss_reconnaissance_balloon_tech"]
 tags: [tr, технология]

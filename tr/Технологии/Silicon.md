@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Silicon» — T&R 1.13, `silicon`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Silicon", "silicon"]
 tags: [tr, технология]

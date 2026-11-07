@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «UGVs» — T&R 1.13, `military_ugv`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["UGVs", "military_ugv"]
 tags: [tr, технология]

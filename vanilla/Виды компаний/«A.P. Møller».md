@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««A.P. Møller»» — ваниль 1.13, `company_ap_moller`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«A.P. Møller»", "A.P. Møller", "company_ap_moller"]
 tags: [ваниль, вид-компании]

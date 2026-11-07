@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Linotype» — T&R 1.13, `manzoni_linotype_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Linotype", "manzoni_linotype_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_private_charters» — grey USU 1.13, `pm_private_charters`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_private_charters"]
 tags: [grey_usu, метод-производства]

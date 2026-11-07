@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_republican_reactionary» — Hail Columbia 1.13, `ideology_republican_reactionary`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["ideology_republican_reactionary"]
 tags: [hail_columbia, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Patriot» — VC 1.13, `ideology_patriotism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Patriot", "ideology_patriotism"]
 tags: [VC, идеология]

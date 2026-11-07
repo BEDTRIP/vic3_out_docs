@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_CAFD» — grey USU 1.13, `company_CAFD`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_CAFD"]
 tags: [grey_usu, вид-компании]

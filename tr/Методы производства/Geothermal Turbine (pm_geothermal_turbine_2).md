@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Geothermal Turbine (pm_geothermal_turbine_2)» — T&R 1.13, `pm_geothermal_turbine_2`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Geothermal Turbine (pm_geothermal_turbine_2)", "Geothermal Turbine", "pm_geothermal_turbine_2"]
 tags: [tr, метод-производства]

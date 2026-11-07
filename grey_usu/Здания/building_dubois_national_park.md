@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «building_dubois_national_park» — grey USU 1.13, `building_dubois_national_park`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["building_dubois_national_park"]
 tags: [grey_usu, здание]

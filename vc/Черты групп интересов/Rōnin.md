@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Rōnin» — VC 1.13, `ig_trait_ronin`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Rōnin", "ig_trait_ronin"]
 tags: [VC, черта-группы-интересов]

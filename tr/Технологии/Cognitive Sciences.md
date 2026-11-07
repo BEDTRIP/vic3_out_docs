@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Cognitive Sciences» — T&R 1.13, `cognitive_sciences`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cognitive Sciences", "cognitive_sciences"]
 tags: [tr, технология]

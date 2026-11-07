@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Compulsory Secondary School» — T&R 1.13, `law_compulsory_secondary_school`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Compulsory Secondary School", "law_compulsory_secondary_school"]
 tags: [tr, закон]

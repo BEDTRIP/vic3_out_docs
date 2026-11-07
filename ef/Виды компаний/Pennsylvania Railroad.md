@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Pennsylvania Railroad» — E&F 1.13, `company_PennsylvaniaRailroad`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Pennsylvania Railroad", "company_PennsylvaniaRailroad"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Жестокость (ruthless)» — ваниль 1.13, `ruthless`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Жестокость (ruthless)", "Ruthless", "ruthless"]
 tags: [ваниль, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Drachma» — E&F 1.13, `law_spe_drachma_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Drachma", "law_spe_drachma_currency"]
 tags: [ef, закон]

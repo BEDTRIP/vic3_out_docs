@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Administrative System» — Gates of Bosphorus 1.13, `pmg_gbbf_karadag_administration`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Administrative System", "pmg_gbbf_karadag_administration"]
 tags: [gates_of_bosphorus, группа-методов]

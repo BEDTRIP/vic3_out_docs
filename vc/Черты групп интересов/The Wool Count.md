@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «The Wool Count» — VC 1.13, `ig_trait_conde_de_wool`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["The Wool Count", "ig_trait_conde_de_wool"]
 tags: [VC, черта-группы-интересов]

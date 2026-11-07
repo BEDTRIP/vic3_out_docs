@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Neoliberal Progressist» — T&R 1.13, `ideology_neoliberal_progressist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neoliberal Progressist", "ideology_neoliberal_progressist"]
 tags: [tr, идеология]

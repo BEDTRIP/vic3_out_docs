@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Silent Cinema» — T&R 1.13, `silent_films`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Silent Cinema", "silent_films"]
 tags: [tr, метод-производства]

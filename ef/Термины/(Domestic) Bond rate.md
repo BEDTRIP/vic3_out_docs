@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «(Domestic) Bond rate» — подсказка-понятие Victoria 3 1.13 (`concept_interest_value_domestic`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["(Domestic) Bond rate", "concept_interest_value_domestic"]
 tags: [ef, термин]

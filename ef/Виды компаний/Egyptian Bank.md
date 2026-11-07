@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Egyptian Bank» — E&F 1.13, `company_BanqueEgyptienne`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Egyptian Bank", "company_BanqueEgyptienne"]
 tags: [ef, вид-компании]

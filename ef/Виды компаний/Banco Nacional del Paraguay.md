@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Nacional del Paraguay» — E&F 1.13, `company_BancoNacionalDelParaguay`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Nacional del Paraguay", "company_BancoNacionalDelParaguay"]
 tags: [ef, вид-компании]

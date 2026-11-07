@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Oil Refineries» — T&R 1.13, `building_mendelejew_hydrogenation_plants`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Oil Refineries", "building_mendelejew_hydrogenation_plants"]
 tags: [tr, здание]

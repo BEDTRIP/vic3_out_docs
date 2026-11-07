@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Automated Industrial Robots» — T&R 1.13, `automated_industrial_robots`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automated Industrial Robots", "automated_industrial_robots"]
 tags: [tr, технология]

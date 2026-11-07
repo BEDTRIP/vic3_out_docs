@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_moh_revolutionary» — CMF 1.13, `ideology_moh_revolutionary`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["ideology_moh_revolutionary"]
 tags: [CMF, идеология]

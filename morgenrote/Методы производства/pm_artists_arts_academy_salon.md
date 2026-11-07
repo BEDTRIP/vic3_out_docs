@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_artists_arts_academy_salon» — Morgenröte 1.13, `pm_artists_arts_academy_salon`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["pm_artists_arts_academy_salon"]
 tags: [Morgenröte, метод-производства]

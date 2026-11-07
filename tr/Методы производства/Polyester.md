@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Polyester» — T&R 1.13, `pm_polyester`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Polyester", "pm_polyester"]
 tags: [tr, метод-производства]

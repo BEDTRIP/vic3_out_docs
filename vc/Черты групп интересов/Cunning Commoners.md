@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Cunning Commoners» — VC 1.13, `ig_trait_conning_commoner`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Cunning Commoners", "ig_trait_conning_commoner"]
 tags: [VC, черта-группы-интересов]

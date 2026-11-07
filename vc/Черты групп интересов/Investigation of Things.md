@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Investigation of Things» — VC 1.13, `ig_trait_social_research`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Investigation of Things", "ig_trait_social_research"]
 tags: [VC, черта-группы-интересов]

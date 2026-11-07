@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Lackawanna_IaCC» — grey USU 1.13, `company_Lackawanna_IaCC`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Lackawanna_IaCC"]
 tags: [grey_usu, вид-компании]

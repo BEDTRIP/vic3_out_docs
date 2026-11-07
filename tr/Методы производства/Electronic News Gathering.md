@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electronic News Gathering» — T&R 1.13, `pm_electronic_news_gathering`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electronic News Gathering", "pm_electronic_news_gathering"]
 tags: [tr, метод-производства]

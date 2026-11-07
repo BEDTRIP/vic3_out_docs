@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Mexican Peso» — E&F 1.13, `law_peso_mexican_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Mexican Peso", "law_peso_mexican_peso_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Cуэцкий канал» — grey USU 1.13, `building_suez_canal`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Cуэцкий канал", "Suez Canal", "building_suez_canal"]
 tags: [grey_usu, здание]

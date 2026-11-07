@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ente Nazionale Idrocarburi (ENI)» — T&R 1.13, `company_eni`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ente Nazionale Idrocarburi (ENI)", "company_eni"]
 tags: [tr, вид-компании]

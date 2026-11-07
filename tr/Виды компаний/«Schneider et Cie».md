@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Schneider et Cie»» — T&R 1.13, `company_schneider_creusot`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Schneider et Cie»", "Schneider et Cie", "company_schneider_creusot"]
 tags: [tr, вид-компании]

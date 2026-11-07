@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Lithium Ion Battery» — T&R 1.13, `lithium_battery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Lithium Ion Battery", "lithium_battery"]
 tags: [tr, технология]

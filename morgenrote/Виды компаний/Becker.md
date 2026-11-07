@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Becker» — Morgenröte 1.13, `elgar_company_becker`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Becker", "elgar_company_becker"]
 tags: [Morgenröte, вид-компании]

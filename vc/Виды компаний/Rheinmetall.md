@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Rheinmetall» — VC 1.13, `company_rheinmetall`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Rheinmetall", "company_rheinmetall"]
 tags: [VC, вид-компании]

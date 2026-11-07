@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_dubois_university_mathematics» — Morgenröte 1.13, `pm_dubois_university_mathematics`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["pm_dubois_university_mathematics"]
 tags: [Morgenröte, метод-производства]

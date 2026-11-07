@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Van Vlissingen en Dudok van Heel» — ваниль 1.13, `company_van_vlissingen_en_dudok_van_heel`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Van Vlissingen en Dudok van Heel", "company_van_vlissingen_en_dudok_van_heel"]
 tags: [ваниль, вид-компании]

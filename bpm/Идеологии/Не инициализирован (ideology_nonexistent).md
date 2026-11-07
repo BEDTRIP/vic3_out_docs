@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Не инициализирован (ideology_nonexistent)» — BPM 1.13, `ideology_nonexistent`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Не инициализирован (ideology_nonexistent)", "Uninitialized", "ideology_nonexistent"]
 tags: [BPM, идеология]

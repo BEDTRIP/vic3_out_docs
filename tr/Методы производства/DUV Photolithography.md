@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «DUV Photolithography» — T&R 1.13, `pm_deep_uv_photolithography`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["DUV Photolithography", "pm_deep_uv_photolithography"]
 tags: [tr, метод-производства]

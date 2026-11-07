@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «II Generation Tanks» — T&R 1.13, `pm_second_gen_tank_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["II Generation Tanks", "pm_second_gen_tank_production"]
 tags: [tr, метод-производства]

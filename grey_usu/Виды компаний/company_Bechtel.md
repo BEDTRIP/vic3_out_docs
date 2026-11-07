@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bechtel» — grey USU 1.13, `company_Bechtel`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bechtel"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nitroglycerin (pm_nitroglycerin_building_advancedores_mine)» — T&R 1.13, `pm_nitroglycerin_building_advancedores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nitroglycerin (pm_nitroglycerin_building_advancedores_mine)", "Nitroglycerin", "pm_nitroglycerin_building_advancedores_mine"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Toscane Lira» — E&F 1.13, `law_lira_toscane_lira_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Toscane Lira", "law_lira_toscane_lira_currency"]
 tags: [ef, закон]

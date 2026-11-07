@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Healthcare» — T&R 1.13, `pm_advanced_healtcare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Healthcare", "pm_advanced_healtcare"]
 tags: [tr, метод-производства]

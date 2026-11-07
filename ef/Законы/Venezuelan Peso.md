@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Venezuelan Peso» — E&F 1.13, `law_peso_venezuelan_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Venezuelan Peso", "law_peso_venezuelan_peso_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «British Conservative» — VC 1.13, `ideology_british_conservatism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["British Conservative", "ideology_british_conservatism"]
 tags: [VC, идеология]

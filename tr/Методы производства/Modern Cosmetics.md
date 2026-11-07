@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Cosmetics» — T&R 1.13, `pm_modern_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Cosmetics", "pm_modern_cosmetics"]
 tags: [tr, метод-производства]

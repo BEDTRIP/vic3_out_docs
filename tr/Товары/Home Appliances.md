@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Home Appliances» — T&R 1.13, `homeappliances`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Home Appliances", "homeappliances"]
 tags: [tr, товар]

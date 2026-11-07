@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Chase Bank» — E&F 1.13, `company_ChaseBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Chase Bank", "company_ChaseBank"]
 tags: [ef, вид-компании]

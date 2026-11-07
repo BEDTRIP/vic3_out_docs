@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Software» — T&R 1.13, `software_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Software", "software_tech"]
 tags: [tr, технология]

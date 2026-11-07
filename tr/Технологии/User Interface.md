@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «User Interface» — T&R 1.13, `user_interface`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["User Interface", "user_interface"]
 tags: [tr, технология]

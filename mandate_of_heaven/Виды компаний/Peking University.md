@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Peking University» — Mandate of Heaven 1.13, `company_peking_university`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Peking University", "company_peking_university"]
 tags: [mandate_of_heaven, вид-компании]

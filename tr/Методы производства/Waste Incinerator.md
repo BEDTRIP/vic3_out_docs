@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Waste Incinerator» — T&R 1.13, `pm_waste_incinerator`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Waste Incinerator", "pm_waste_incinerator"]
 tags: [tr, метод-производства]

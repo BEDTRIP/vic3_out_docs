@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Streamlined Railways» — T&R 1.13, `vikelas_streamliners_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Streamlined Railways", "vikelas_streamliners_tech"]
 tags: [tr, технология]

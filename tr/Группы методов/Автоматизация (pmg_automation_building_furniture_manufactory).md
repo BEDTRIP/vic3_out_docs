@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_furniture_manufactory)» — T&R 1.13, `pmg_automation_building_furniture_manufactory`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Автоматизация (pmg_automation_building_furniture_manufactory)", "Automation", "pmg_automation_building_furniture_manufactory"]
 tags: [tr, группа-методов]

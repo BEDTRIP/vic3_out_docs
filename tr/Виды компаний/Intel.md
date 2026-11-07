@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Intel» — T&R 1.13, `company_intel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Intel", "company_intel"]
 tags: [tr, вид-компании]

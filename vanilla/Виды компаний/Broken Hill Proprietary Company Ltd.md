@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Broken Hill Proprietary Company Ltd» — ваниль 1.13, `company_broken_hill_proprietary_company`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Broken Hill Proprietary Company Ltd", "company_broken_hill_proprietary_company"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Philips»» — VC 1.13, `company_philips`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Philips»", "Philips", "company_philips"]
 tags: [VC, вид-компании]

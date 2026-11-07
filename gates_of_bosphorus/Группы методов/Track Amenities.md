@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Track Amenities» — Gates of Bosphorus 1.13, `pmg_gbbf_track_amenities`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Track Amenities", "pmg_gbbf_track_amenities"]
 tags: [gates_of_bosphorus, группа-методов]

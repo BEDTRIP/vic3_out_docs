@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Native Sovereignist» — Hail Columbia 1.13, `ideology_usfp_american_indian_movement`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Native Sovereignist", "ideology_usfp_american_indian_movement"]
 tags: [hail_columbia, идеология]

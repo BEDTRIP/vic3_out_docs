@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «A&R Operations (pm_autonomous_and_remote_ops_building_coal_mine)» — T&R 1.13, `pm_autonomous_and_remote_ops_building_coal_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["A&R Operations (pm_autonomous_and_remote_ops_building_coal_mine)", "A&R Operations", "pm_autonomous_and_remote_ops_building_coal_mine"]
 tags: [tr, метод-производства]

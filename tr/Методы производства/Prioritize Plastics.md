@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Prioritize Plastics» — T&R 1.13, `pm_no_synthetic_rubber`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Prioritize Plastics", "pm_no_synthetic_rubber"]
 tags: [tr, метод-производства]

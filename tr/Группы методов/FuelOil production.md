@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «FuelOil production» — T&R 1.13, `pmg_fuel_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["FuelOil production", "pmg_fuel_production"]
 tags: [tr, группа-методов]

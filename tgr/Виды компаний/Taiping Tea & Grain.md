@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Taiping Tea & Grain» — TGR 1.13, `company_ong_lung_sheng_tea_company_heaven_kingdom`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Taiping Tea & Grain", "company_ong_lung_sheng_tea_company_heaven_kingdom"]
 tags: [TGR, вид-компании]

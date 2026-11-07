@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hydrotreated Biofuels» — T&R 1.13, `pm_hydrotreated_biofuels`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydrotreated Biofuels", "pm_hydrotreated_biofuels"]
 tags: [tr, метод-производства]

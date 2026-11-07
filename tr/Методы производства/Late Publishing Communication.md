@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Late Publishing Communication» — T&R 1.13, `manzoni_pm_telephone`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Late Publishing Communication", "manzoni_pm_telephone"]
 tags: [tr, метод-производства]

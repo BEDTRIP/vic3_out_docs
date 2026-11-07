@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Colombian Peso» — E&F 1.13, `law_peso_colombian_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Colombian Peso", "law_peso_colombian_peso_currency"]
 tags: [ef, закон]

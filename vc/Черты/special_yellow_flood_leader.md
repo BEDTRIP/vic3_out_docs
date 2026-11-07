@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «special_yellow_flood_leader» — VC 1.13, `special_yellow_flood_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["special_yellow_flood_leader"]
 tags: [VC, черта]

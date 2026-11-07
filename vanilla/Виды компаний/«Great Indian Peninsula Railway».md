@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Great Indian Peninsula Railway»» — ваниль 1.13, `company_great_indian_railway`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Great Indian Peninsula Railway»", "Great Indian Peninsula Railway", "company_great_indian_railway"]
 tags: [ваниль, вид-компании]

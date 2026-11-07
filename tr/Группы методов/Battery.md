@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Battery» — T&R 1.13, `pmg_base_building_batteries`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Battery", "pmg_base_building_batteries"]
 tags: [tr, группа-методов]

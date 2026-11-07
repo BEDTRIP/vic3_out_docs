@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Удаленный доступ к торгам (usu_pm_port_r_logistics_2)» — grey USU 1.13, `usu_pm_port_r_logistics_2`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Удаленный доступ к торгам (usu_pm_port_r_logistics_2)", "Remote Access Bidding", "usu_pm_port_r_logistics_2"]
 tags: [grey_usu, метод-производства]

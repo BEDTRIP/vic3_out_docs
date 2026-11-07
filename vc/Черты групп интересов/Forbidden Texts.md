@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Forbidden Texts» — VC 1.13, `ig_trait_forbidden_books`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Forbidden Texts", "ig_trait_forbidden_books"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_food_industry)» — ваниль 1.13, `pmg_automation_building_food_industry`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Автоматизация (pmg_automation_building_food_industry)", "Automation", "pmg_automation_building_food_industry"]
 tags: [ваниль, группа-методов]

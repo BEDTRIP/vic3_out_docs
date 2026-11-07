@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Advanced Ores» — T&R 1.13, `advancedores`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Ores", "advancedores"]
 tags: [tr, товар]

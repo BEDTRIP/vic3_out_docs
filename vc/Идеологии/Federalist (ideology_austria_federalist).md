@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Federalist (ideology_austria_federalist)» — VC 1.13, `ideology_austria_federalist`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Federalist (ideology_austria_federalist)", "Federalist", "ideology_austria_federalist"]
 tags: [VC, идеология]

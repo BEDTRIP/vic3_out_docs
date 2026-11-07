@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Yen» — E&F 1.13, `law_spe_yen_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Yen", "law_spe_yen_currency"]
 tags: [ef, закон]

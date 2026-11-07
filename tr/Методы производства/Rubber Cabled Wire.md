@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rubber Cabled Wire» — T&R 1.13, `pm_cabled_copperwires`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rubber Cabled Wire", "pm_cabled_copperwires"]
 tags: [tr, метод-производства]

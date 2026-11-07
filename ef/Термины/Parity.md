@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Parity» — подсказка-понятие Victoria 3 1.13 (`concept_parity`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Parity", "concept_parity"]
 tags: [ef, термин]

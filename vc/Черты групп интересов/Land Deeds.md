@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Land Deeds» — VC 1.13, `ig_trait_land_deeds`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Land Deeds", "ig_trait_land_deeds"]
 tags: [VC, черта-группы-интересов]

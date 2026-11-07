@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «building_mendelejew_hydrogenation_plants» — grey USU 1.13, `building_mendelejew_hydrogenation_plants`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["building_mendelejew_hydrogenation_plants"]
 tags: [grey_usu, здание]

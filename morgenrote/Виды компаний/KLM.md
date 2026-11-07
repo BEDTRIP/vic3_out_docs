@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «KLM» — Morgenröte 1.13, `curtiss_company_KLM`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["KLM", "curtiss_company_KLM"]
 tags: [Morgenröte, вид-компании]

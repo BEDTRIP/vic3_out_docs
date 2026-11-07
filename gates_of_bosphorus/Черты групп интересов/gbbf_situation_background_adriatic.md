@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «gbbf_situation_background_adriatic» — Gates of Bosphorus 1.13, `gbbf_situation_background_adriatic`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["gbbf_situation_background_adriatic"]
 tags: [gates_of_bosphorus, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Emperor of India» — VC 1.13, `special_character_emperor_of_india`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Emperor of India", "special_character_emperor_of_india"]
 tags: [VC, черта]

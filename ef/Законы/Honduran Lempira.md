@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Honduran Lempira» — E&F 1.13, `law_peso_honduran_lempira_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Honduran Lempira", "law_peso_honduran_lempira_currency"]
 tags: [ef, закон]

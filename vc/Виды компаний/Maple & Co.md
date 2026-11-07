@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Maple & Co» — VC 1.13, `company_maple_and_co`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Maple & Co", "company_maple_and_co"]
 tags: [VC, вид-компании]

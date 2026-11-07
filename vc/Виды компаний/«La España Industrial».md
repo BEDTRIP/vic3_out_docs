@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««La España Industrial»» — VC 1.13, `company_espana_industrial`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«La España Industrial»", "La España Industrial", "company_espana_industrial"]
 tags: [VC, вид-компании]

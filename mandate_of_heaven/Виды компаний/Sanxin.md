@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sanxin» — Mandate of Heaven 1.13, `company_sanxin`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Sanxin", "company_sanxin"]
 tags: [mandate_of_heaven, вид-компании]

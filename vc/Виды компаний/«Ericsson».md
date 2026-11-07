@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ericsson»» — VC 1.13, `company_ericsson`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Ericsson»", "Ericsson", "company_ericsson"]
 tags: [VC, вид-компании]

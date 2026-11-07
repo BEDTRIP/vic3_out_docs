@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Local Electricity Systems» — T&R 1.13, `law_no_national_electric_system`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Local Electricity Systems", "law_no_national_electric_system"]
 tags: [tr, закон]

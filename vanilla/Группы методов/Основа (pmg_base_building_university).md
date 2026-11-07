@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_university)» — ваниль 1.13, `pmg_base_building_university`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_university)", "Основа", "pmg_base_building_university"]
 tags: [ваниль, группа-методов]

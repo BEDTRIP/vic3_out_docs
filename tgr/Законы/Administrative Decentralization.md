@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Administrative Decentralization» — TGR 1.13, `law_administrative_decentralism`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Administrative Decentralization", "law_administrative_decentralism"]
 tags: [TGR, закон]

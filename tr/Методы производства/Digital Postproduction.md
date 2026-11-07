@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Postproduction» — T&R 1.13, `pm_digital_postproduction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Postproduction", "pm_digital_postproduction"]
 tags: [tr, метод-производства]

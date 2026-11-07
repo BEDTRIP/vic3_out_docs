@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Working Hours» — TGR 1.13, `lawgroup_working_hours`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Working Hours", "lawgroup_working_hours"]
 tags: [TGR, группа-законов]

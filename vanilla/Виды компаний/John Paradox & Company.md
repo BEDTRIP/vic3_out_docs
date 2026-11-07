@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «John Paradox & Company» — ваниль 1.13, `company_paradox`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["John Paradox & Company", "company_paradox"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Airbus» — T&R 1.13, `company_airbus`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Airbus", "company_airbus"]
 tags: [tr, вид-компании]

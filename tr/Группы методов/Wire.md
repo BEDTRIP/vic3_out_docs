@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Wire» — T&R 1.13, `pmg_base_building_copperwires`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wire", "pmg_base_building_copperwires"]
 tags: [tr, группа-методов]

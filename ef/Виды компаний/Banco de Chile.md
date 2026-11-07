@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco de Chile» — E&F 1.13, `company_BancoDeChile`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco de Chile", "company_BancoDeChile"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Prefab Concrete Buildings» — T&R 1.13, `pm_prefabricated_concrete_buildings`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Prefab Concrete Buildings", "pm_prefabricated_concrete_buildings"]
 tags: [tr, метод-производства]

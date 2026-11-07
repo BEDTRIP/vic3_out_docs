@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Intermediary Reformers» — VC 1.13, `ig_trait_mediating_reformers`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Intermediary Reformers", "ig_trait_mediating_reformers"]
 tags: [VC, черта-группы-интересов]

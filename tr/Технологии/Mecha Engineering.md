@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Mecha Engineering» — T&R 1.13, `mecha_engineering`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mecha Engineering", "mecha_engineering"]
 tags: [tr, технология]

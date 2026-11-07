@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «bg_national_stockpile» — E&F 1.13, `bg_national_stockpile`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["bg_national_stockpile"]
 tags: [ef, группа-зданий]

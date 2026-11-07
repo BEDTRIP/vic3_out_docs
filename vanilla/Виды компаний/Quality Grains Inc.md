@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Quality Grains Inc» — ваниль 1.13, `company_basic_agriculture_1`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Quality Grains Inc", "company_basic_agriculture_1"]
 tags: [ваниль, вид-компании]

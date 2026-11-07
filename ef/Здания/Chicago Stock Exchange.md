@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Chicago Stock Exchange» — E&F 1.13, `building_financial_centre_usa_2`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Chicago Stock Exchange", "building_financial_centre_usa_2"]
 tags: [ef, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «All Parties Banned» — BPM 1.13, `law_no_parties_allowed`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["All Parties Banned", "law_no_parties_allowed"]
 tags: [BPM, закон]

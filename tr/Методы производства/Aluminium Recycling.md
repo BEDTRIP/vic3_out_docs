@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Aluminium Recycling» — T&R 1.13, `pm_aluminium_recycling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aluminium Recycling", "pm_aluminium_recycling"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Toyota» — T&R 1.13, `company_toyota`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Toyota", "company_toyota"]
 tags: [tr, вид-компании]

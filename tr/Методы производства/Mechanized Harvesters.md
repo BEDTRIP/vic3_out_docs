@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mechanized Harvesters» — T&R 1.13, `pm_mechanized_harvesters`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mechanized Harvesters", "pm_mechanized_harvesters"]
 tags: [tr, метод-производства]

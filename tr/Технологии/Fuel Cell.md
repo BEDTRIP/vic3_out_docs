@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Fuel Cell» — T&R 1.13, `fuel_cell_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fuel Cell", "fuel_cell_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Steam Automation (pmg_curie_steam_automation_building_uranium_mine)» — T&R 1.13, `pmg_curie_steam_automation_building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Steam Automation (pmg_curie_steam_automation_building_uranium_mine)", "Steam Automation", "pmg_curie_steam_automation_building_uranium_mine"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_steel_mill)» — T&R 1.13, `pmg_automation_building_steel_mill`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Автоматизация (pmg_automation_building_steel_mill)", "Automation", "pmg_automation_building_steel_mill"]
 tags: [tr, группа-методов]

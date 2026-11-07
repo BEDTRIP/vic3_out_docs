@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bolsa de Valores de Lima» — E&F 1.13, `building_financial_centre_peu`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bolsa de Valores de Lima", "building_financial_centre_peu"]
 tags: [ef, здание]

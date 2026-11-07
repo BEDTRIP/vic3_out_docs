@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Workstations» — T&R 1.13, `pm_advanced_personal_computers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Workstations", "pm_advanced_personal_computers"]
 tags: [tr, метод-производства]

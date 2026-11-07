@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««William Sandford Limited»» — ваниль 1.13, `company_william_sandford`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«William Sandford Limited»", "William Sandford Limited", "company_william_sandford"]
 tags: [ваниль, вид-компании]

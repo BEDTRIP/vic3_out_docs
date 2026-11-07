@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Landmands Banken» — E&F 1.13, `company_LandmandsBanken`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Landmands Banken", "company_LandmandsBanken"]
 tags: [ef, вид-компании]

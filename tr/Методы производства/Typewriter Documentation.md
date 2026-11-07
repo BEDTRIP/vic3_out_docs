@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Typewriter Documentation» — T&R 1.13, `pm_typewriter_documentation_building_office`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Typewriter Documentation", "pm_typewriter_documentation_building_office"]
 tags: [tr, метод-производства]

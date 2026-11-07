@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Automation (pmg_hydroponic_automation_drone)» — T&R 1.13, `pmg_hydroponic_automation_drone`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automation (pmg_hydroponic_automation_drone)", "Automation", "pmg_hydroponic_automation_drone"]
 tags: [tr, группа-методов]

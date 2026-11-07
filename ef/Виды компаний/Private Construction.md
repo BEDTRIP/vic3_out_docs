@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Private Construction» — E&F 1.13, `company_private_construction`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Private Construction", "company_private_construction"]
 tags: [ef, вид-компании]

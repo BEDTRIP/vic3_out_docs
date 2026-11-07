@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Casual Games Development» — T&R 1.13, `pm_cross_platform_building_interactive_media_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Casual Games Development", "pm_cross_platform_building_interactive_media_industry"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Telecommunications Plants» — T&R 1.13, `building_telecommunications_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Telecommunications Plants", "building_telecommunications_industry"]
 tags: [tr, здание]

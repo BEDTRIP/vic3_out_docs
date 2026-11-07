@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Nuclear Weapon Type» — T&R 1.13, `pmg_nuclear_type_military`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Weapon Type", "pmg_nuclear_type_military"]
 tags: [tr, группа-методов]

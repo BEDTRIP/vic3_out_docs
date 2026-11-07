@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Atmospheric Engine Pump» — E&F 1.13, `pm_atmospheric_engine_pump_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Atmospheric Engine Pump", "pm_atmospheric_engine_pump_building_silver_mine"]
 tags: [ef, метод-производства]

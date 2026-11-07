@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Balance of Powers» — TGR 1.13, `law_chamber_of_deputies`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Balance of Powers", "law_chamber_of_deputies"]
 tags: [TGR, закон]

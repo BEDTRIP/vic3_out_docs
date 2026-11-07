@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Physics» — T&R 1.13, `verrier_modern_physics_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Physics", "verrier_modern_physics_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Hydrogen bomb» — T&R 1.13, `hydrogen_bomb`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydrogen bomb", "hydrogen_bomb"]
 tags: [tr, технология]

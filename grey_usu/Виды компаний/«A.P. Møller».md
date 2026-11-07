@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««A.P. Møller»» — grey USU 1.13, `company_ap_moller`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«A.P. Møller»", "A.P. Møller", "company_ap_moller"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Sovereign Wealth Fund» — PBE 1.13, `pmg_sovereign_wealth_fund_company_headquarter`"
 project: vic3
+audience: agent
 source: pbe
 aliases: ["Sovereign Wealth Fund", "pmg_sovereign_wealth_fund_company_headquarter"]
 tags: [PBE, группа-методов]

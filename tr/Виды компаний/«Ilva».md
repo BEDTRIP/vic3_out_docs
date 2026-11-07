@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ilva»» — T&R 1.13, `company_ilva`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Ilva»", "Ilva", "company_ilva"]
 tags: [tr, вид-компании]

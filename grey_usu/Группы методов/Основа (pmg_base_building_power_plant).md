@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_power_plant)» — grey USU 1.13, `pmg_base_building_power_plant`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Основа (pmg_base_building_power_plant)", "Основа", "pmg_base_building_power_plant"]
 tags: [grey_usu, группа-методов]

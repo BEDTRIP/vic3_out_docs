@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Aluminium Passenger Carriages» — T&R 1.13, `pm_aluminium_passenger_carriages`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aluminium Passenger Carriages", "pm_aluminium_passenger_carriages"]
 tags: [tr, метод-производства]

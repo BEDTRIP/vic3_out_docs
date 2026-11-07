@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Devaluation» — E&F 1.13, `pm_devaluation`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Devaluation", "pm_devaluation"]
 tags: [ef, метод-производства]

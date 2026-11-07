@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_manila_cathedral_monument)» — ваниль 1.13, `pmg_base_building_manila_cathedral_monument`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_manila_cathedral_monument)", "Основа", "pmg_base_building_manila_cathedral_monument"]
 tags: [ваниль, группа-методов]

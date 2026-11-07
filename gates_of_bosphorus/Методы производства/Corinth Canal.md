@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Corinth Canal» — Gates of Bosphorus 1.13, `pm_gbbf_corinth_canal`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Corinth Canal", "pm_gbbf_corinth_canal"]
 tags: [gates_of_bosphorus, метод-производства]

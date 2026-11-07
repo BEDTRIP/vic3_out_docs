@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Stabilimento Tecnico Triestino»» — grey USU 1.13, `company_stt`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Stabilimento Tecnico Triestino»", "Stabilimento Tecnico Triestino", "company_stt"]
 tags: [grey_usu, вид-компании]

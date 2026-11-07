@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «American School» — Hail Columbia 1.13, `ideology_american_school`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["American School", "ideology_american_school"]
 tags: [hail_columbia, идеология]

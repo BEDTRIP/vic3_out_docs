@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Gunboat Diplomacy» — Hail Columbia 1.13, `usfp_ig_trait_gunboat_diplomacy`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Gunboat Diplomacy", "usfp_ig_trait_gunboat_diplomacy"]
 tags: [hail_columbia, черта-группы-интересов]

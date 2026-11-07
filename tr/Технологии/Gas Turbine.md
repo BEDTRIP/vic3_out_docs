@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Gas Turbine» — T&R 1.13, `gas_turbine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gas Turbine", "gas_turbine"]
 tags: [tr, технология]

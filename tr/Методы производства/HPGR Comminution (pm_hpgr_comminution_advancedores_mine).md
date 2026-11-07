@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «HPGR Comminution (pm_hpgr_comminution_advancedores_mine)» — T&R 1.13, `pm_hpgr_comminution_advancedores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HPGR Comminution (pm_hpgr_comminution_advancedores_mine)", "HPGR Comminution", "pm_hpgr_comminution_advancedores_mine"]
 tags: [tr, метод-производства]

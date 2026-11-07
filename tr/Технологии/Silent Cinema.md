@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Silent Cinema» — T&R 1.13, `silent_cinema`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Silent Cinema", "silent_cinema"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Кирки и лопаты (pm_picks_and_shovels_building_sulfur_mine)» — ваниль 1.13, `pm_picks_and_shovels_building_sulfur_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Кирки и лопаты (pm_picks_and_shovels_building_sulfur_mine)", "Picks and Shovels", "pm_picks_and_shovels_building_sulfur_mine"]
 tags: [ваниль, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_ImperialCC» — grey USU 1.13, `company_ImperialCC`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_ImperialCC"]
 tags: [grey_usu, вид-компании]

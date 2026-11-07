@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Uranium Glass» — T&R 1.13, `pm_curie_uranium_glass`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Uranium Glass", "pm_curie_uranium_glass"]
 tags: [tr, метод-производства]

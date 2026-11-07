@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rudimental Appliances» — T&R 1.13, `rudimental_home_appliances`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rudimental Appliances", "rudimental_home_appliances"]
 tags: [tr, технология]

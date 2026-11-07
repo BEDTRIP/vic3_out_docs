@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ursus»» — ваниль 1.13, `company_ursus`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Ursus»", "Ursus", "company_ursus"]
 tags: [ваниль, вид-компании]

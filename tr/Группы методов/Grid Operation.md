@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Grid Operation» — T&R 1.13, `pmg_grid_download`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Grid Operation", "pmg_grid_download"]
 tags: [tr, группа-методов]

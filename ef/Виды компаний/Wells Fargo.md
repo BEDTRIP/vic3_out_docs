@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Wells Fargo» — E&F 1.13, `company_BankWellsFargo`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Wells Fargo", "company_BankWellsFargo"]
 tags: [ef, вид-компании]

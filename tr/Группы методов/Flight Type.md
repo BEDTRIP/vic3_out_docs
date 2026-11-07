@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Flight Type» — T&R 1.13, `pmg_base_building_airport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Flight Type", "pmg_base_building_airport"]
 tags: [tr, группа-методов]

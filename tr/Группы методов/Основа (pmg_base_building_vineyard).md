@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_vineyard)» — T&R 1.13, `pmg_base_building_vineyard`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Основа (pmg_base_building_vineyard)", "Основа", "pmg_base_building_vineyard"]
 tags: [tr, группа-методов]

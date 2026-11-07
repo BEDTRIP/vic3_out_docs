@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Market Liquidity» — E&F 1.13, `pmg_market_liquidity`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Market Liquidity", "pmg_market_liquidity"]
 tags: [ef, группа-методов]

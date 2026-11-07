@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Smart Appliances» — T&R 1.13, `smart_appliances`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart Appliances", "smart_appliances"]
 tags: [tr, технология]

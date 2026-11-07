@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_tooling_workshop)» — T&R 1.13, `pmg_automation_building_tooling_workshop`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Автоматизация (pmg_automation_building_tooling_workshop)", "Automation", "pmg_automation_building_tooling_workshop"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Elastomers» — T&R 1.13, `elastomers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Elastomers", "elastomers"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Boulder Dam» — Hail Columbia 1.13, `usfp_pmg_base_hoover_dam`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Boulder Dam", "usfp_pmg_base_hoover_dam"]
 tags: [hail_columbia, группа-методов]

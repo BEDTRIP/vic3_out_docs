@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Plastics Recycling» — T&R 1.13, `pm_plastic_recycling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Plastics Recycling", "pm_plastic_recycling"]
 tags: [tr, метод-производства]

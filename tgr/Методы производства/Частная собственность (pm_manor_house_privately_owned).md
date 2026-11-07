@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Частная собственность (pm_manor_house_privately_owned)» — TGR 1.13, `pm_manor_house_privately_owned`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Частная собственность (pm_manor_house_privately_owned)", "Частная собственность", "pm_manor_house_privately_owned"]
 tags: [TGR, метод-производства]

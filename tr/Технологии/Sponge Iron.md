@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Sponge Iron» — T&R 1.13, `direct_reduced_iron`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sponge Iron", "direct_reduced_iron"]
 tags: [tr, технология]

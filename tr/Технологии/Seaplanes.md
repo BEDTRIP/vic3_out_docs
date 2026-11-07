@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Seaplanes» — T&R 1.13, `curtiss_seaplanes_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Seaplanes", "curtiss_seaplanes_tech"]
 tags: [tr, технология]

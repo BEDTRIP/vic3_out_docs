@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Sol de Oro» — E&F 1.13, `law_peso_sol_de_oro_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Sol de Oro", "law_peso_sol_de_oro_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Massey-Harris Limited» — ваниль 1.13, `company_massey_harris`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Massey-Harris Limited", "company_massey_harris"]
 tags: [ваниль, вид-компании]

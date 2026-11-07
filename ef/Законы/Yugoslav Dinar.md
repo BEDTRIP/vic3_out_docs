@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Yugoslav Dinar» — E&F 1.13, `law_dinar_yugoslav_dinar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Yugoslav Dinar", "law_dinar_yugoslav_dinar_currency"]
 tags: [ef, закон]

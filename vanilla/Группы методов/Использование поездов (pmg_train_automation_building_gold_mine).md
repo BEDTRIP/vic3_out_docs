@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Использование поездов (pmg_train_automation_building_gold_mine)» — ваниль 1.13, `pmg_train_automation_building_gold_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Использование поездов (pmg_train_automation_building_gold_mine)", "Использование поездов", "pmg_train_automation_building_gold_mine"]
 tags: [ваниль, группа-методов]

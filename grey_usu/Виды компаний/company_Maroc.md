@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Maroc» — grey USU 1.13, `company_Maroc`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Maroc"]
 tags: [grey_usu, вид-компании]

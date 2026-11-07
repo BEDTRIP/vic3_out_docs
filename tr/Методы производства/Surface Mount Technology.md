@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Surface Mount Technology» — T&R 1.13, `pm_surface_mount_technology_building_electronics_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Surface Mount Technology", "pm_surface_mount_technology_building_electronics_plant"]
 tags: [tr, метод-производства]

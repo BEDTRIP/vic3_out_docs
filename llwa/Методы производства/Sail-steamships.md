@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Sail-steamships» — LLWA 1.13, `LLWA_pm_sail_steamboats`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Sail-steamships", "LLWA_pm_sail_steamboats"]
 tags: [LLWA, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rudimental Chemical Pharmaceuticals» — T&R 1.13, `pm_rudimental_chemical_pharmaceuticals`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rudimental Chemical Pharmaceuticals", "pm_rudimental_chemical_pharmaceuticals"]
 tags: [tr, метод-производства]

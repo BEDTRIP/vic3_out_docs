@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Keynesian Economics» — T&R 1.13, `keynesian_economics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Keynesian Economics", "keynesian_economics"]
 tags: [tr, технология]

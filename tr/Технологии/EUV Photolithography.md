@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «EUV Photolithography» — T&R 1.13, `euv_photolithography`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["EUV Photolithography", "euv_photolithography"]
 tags: [tr, технология]

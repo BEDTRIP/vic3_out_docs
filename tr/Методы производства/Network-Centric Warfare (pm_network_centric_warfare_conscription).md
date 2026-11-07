@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Network-Centric Warfare (pm_network_centric_warfare_conscription)» — T&R 1.13, `pm_network_centric_warfare_conscription`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Network-Centric Warfare (pm_network_centric_warfare_conscription)", "Network-Centric Warfare", "pm_network_centric_warfare_conscription"]
 tags: [tr, метод-производства]

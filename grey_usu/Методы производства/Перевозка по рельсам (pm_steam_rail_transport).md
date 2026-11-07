@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Перевозка по рельсам (pm_steam_rail_transport)» — grey USU 1.13, `pm_steam_rail_transport`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Перевозка по рельсам (pm_steam_rail_transport)", "Rail Transportation", "pm_steam_rail_transport"]
 tags: [grey_usu, метод-производства]

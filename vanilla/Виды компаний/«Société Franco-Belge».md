@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Société Franco-Belge»» — ваниль 1.13, `company_franco_belge`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Société Franco-Belge»", "Société Franco-Belge", "company_franco_belge"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Amadeo Rossi & Cia.»» — ваниль 1.13, `company_rossi`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Amadeo Rossi & Cia.»", "Amadeo Rossi & Cia", "company_rossi"]
 tags: [ваниль, вид-компании]

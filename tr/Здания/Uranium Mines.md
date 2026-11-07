@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Uranium Mines» — T&R 1.13, `building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Uranium Mines", "building_uranium_mine"]
 tags: [tr, здание]

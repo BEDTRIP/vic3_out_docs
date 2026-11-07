@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Software Production» — T&R 1.13, `pmg_software_building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Software Production", "pmg_software_building_software_industry"]
 tags: [tr, группа-методов]

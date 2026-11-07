@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Esparto Plantation» — Gates of Bosphorus 1.13, `gbbf_building_esparto_plantation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Esparto Plantation", "gbbf_building_esparto_plantation"]
 tags: [gates_of_bosphorus, здание]

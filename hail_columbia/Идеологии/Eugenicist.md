@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Eugenicist» — Hail Columbia 1.13, `ideology_usfp_eugenicist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Eugenicist", "ideology_usfp_eugenicist"]
 tags: [hail_columbia, идеология]

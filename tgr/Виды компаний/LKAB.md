@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «LKAB» — TGR 1.13, `company_lkab`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["LKAB", "company_lkab"]
 tags: [TGR, вид-компании]

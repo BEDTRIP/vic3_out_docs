@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Gas Liquefaction» — T&R 1.13, `gas_liquefaction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gas Liquefaction", "gas_liquefaction"]
 tags: [tr, технология]

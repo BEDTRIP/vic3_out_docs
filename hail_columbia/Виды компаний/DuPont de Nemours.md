@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «DuPont de Nemours» — Hail Columbia 1.13, `company_usfp_dupont`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["DuPont de Nemours", "company_usfp_dupont"]
 tags: [hail_columbia, вид-компании]

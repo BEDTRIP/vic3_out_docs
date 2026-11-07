@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «De Rothschild Frères» — E&F 1.13, `company_Rothschild_Bank_fra`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["De Rothschild Frères", "company_Rothschild_Bank_fra"]
 tags: [ef, вид-компании]

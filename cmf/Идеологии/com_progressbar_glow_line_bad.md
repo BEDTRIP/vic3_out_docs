@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «com_progressbar_glow_line_bad» — CMF 1.13, `com_progressbar_glow_line_bad`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["com_progressbar_glow_line_bad"]
 tags: [CMF, идеология]

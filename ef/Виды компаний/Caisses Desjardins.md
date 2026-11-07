@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Caisses Desjardins» — E&F 1.13, `company_BankDesjardins`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Caisses Desjardins", "company_BankDesjardins"]
 tags: [ef, вид-компании]

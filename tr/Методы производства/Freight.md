@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Freight» — T&R 1.13, `pm_air_freight`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Freight", "pm_air_freight"]
 tags: [tr, метод-производства]

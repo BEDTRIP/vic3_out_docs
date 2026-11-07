@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smart Grid Energy Management (pm_smart_grid_energy_management)» — T&R 1.13, `pm_smart_grid_energy_management`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart Grid Energy Management (pm_smart_grid_energy_management)", "Smart Grid Energy Management", "pm_smart_grid_energy_management"]
 tags: [tr, метод-производства]

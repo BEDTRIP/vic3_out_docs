@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «AcquaFarm Systems» — T&R 1.13, `pm_hydroponic_acquafarm_system`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AcquaFarm Systems", "pm_hydroponic_acquafarm_system"]
 tags: [tr, метод-производства]

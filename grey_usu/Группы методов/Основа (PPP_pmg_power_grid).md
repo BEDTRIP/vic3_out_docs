@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (PPP_pmg_power_grid)» — grey USU 1.13, `PPP_pmg_power_grid`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Основа (PPP_pmg_power_grid)", "Основа", "PPP_pmg_power_grid"]
 tags: [grey_usu, группа-методов]

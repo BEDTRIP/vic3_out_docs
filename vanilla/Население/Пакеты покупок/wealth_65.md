@@ -2,6 +2,7 @@
 type: concept
 description: "Пакет покупок «wealth_65» — ваниль 1.13, `wealth_65`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["wealth_65"]
 tags: [ваниль, пакет-покупок]

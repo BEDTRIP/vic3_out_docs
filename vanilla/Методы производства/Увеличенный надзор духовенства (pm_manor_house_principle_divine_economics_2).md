@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)» — ваниль 1.13, `pm_manor_house_principle_divine_economics_2`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Увеличенный надзор духовенства (pm_manor_house_principle_divine_economics_2)", "Increased Clergy Oversight", "pm_manor_house_principle_divine_economics_2"]
 tags: [ваниль, метод-производства]

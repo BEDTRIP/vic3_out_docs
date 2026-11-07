@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Производство предметов роскоши (pmg_luxury_building_glassworks)» — T&R 1.13, `pmg_luxury_building_glassworks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Производство предметов роскоши (pmg_luxury_building_glassworks)", "Luxury Production", "pmg_luxury_building_glassworks"]
 tags: [tr, группа-методов]

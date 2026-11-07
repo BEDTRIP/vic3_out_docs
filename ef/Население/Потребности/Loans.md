@@ -2,6 +2,7 @@
 type: concept
 description: "Потребность населения «Loans» — E&F 1.13, `popneed_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Loans", "popneed_currency"]
 tags: [ef, потребность]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Harbin_Brewery» — grey USU 1.13, `company_Harbin_Brewery`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Harbin_Brewery"]
 tags: [grey_usu, вид-компании]

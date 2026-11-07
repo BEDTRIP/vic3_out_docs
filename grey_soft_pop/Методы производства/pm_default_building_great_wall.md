@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_great_wall» — grey soft pop 1.13, `pm_default_building_great_wall`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_great_wall"]
 tags: [grey_soft_pop, метод-производства]

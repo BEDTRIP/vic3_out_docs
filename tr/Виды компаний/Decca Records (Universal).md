@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Decca Records (Universal)» — T&R 1.13, `company_universal_records`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Decca Records (Universal)", "company_universal_records"]
 tags: [tr, вид-компании]

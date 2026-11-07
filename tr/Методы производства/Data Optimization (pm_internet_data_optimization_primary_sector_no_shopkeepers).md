@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Data Optimization (pm_internet_data_optimization_primary_sector_no_shopkeepers)» — T&R 1.13, `pm_internet_data_optimization_primary_sector_no_shopkeepers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Data Optimization (pm_internet_data_optimization_primary_sector_no_shopkeepers)", "Data Optimization", "pm_internet_data_optimization_primary_sector_no_shopkeepers"]
 tags: [tr, метод-производства]

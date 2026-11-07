@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_consolidated_lake_superior» — grey USU 1.13, `company_consolidated_lake_superior`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_consolidated_lake_superior"]
 tags: [grey_usu, вид-компании]

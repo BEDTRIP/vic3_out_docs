@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Environmentalism» — T&R 1.13, `ambientalism`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Environmentalism", "ambientalism"]
 tags: [tr, технология]

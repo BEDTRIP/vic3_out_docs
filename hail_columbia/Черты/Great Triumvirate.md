@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Great Triumvirate» — Hail Columbia 1.13, `usfp_special_character_great_triumvirate`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Great Triumvirate", "usfp_special_character_great_triumvirate"]
 tags: [hail_columbia, черта]

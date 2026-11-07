@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Madura Mills Co. Ltd»» — ваниль 1.13, `company_madura_mills`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Madura Mills Co. Ltd»", "Madura Mills Co. Ltd", "company_madura_mills"]
 tags: [ваниль, вид-компании]

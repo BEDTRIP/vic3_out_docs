@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Guatemalan Quetzal» — E&F 1.13, `law_peso_guatemalan_quetzal_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Guatemalan Quetzal", "law_peso_guatemalan_quetzal_currency"]
 tags: [ef, закон]

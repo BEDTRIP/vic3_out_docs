@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «İstanbul Menkul Kıymetler Borsası» — E&F 1.13, `building_financial_centre_tur`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["İstanbul Menkul Kıymetler Borsası", "building_financial_centre_tur"]
 tags: [ef, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Louis Vuitton» — T&R 1.13, `company_louis_vuitton`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Louis Vuitton", "company_louis_vuitton"]
 tags: [tr, вид-компании]

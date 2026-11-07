@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Federalist (ideology_us_federalism)» — VC 1.13, `ideology_us_federalism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Federalist (ideology_us_federalism)", "Federalist", "ideology_us_federalism"]
 tags: [VC, идеология]

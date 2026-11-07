@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Data Free Harvest» — T&R 1.13, `law_data_free_harvest`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Data Free Harvest", "law_data_free_harvest"]
 tags: [tr, закон]

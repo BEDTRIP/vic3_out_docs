@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hydrogen Bomb» — T&R 1.13, `pm_hydrogen_bomb`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydrogen Bomb", "pm_hydrogen_bomb"]
 tags: [tr, метод-производства]

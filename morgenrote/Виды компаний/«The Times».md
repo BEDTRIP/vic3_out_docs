@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««The Times»» — Morgenröte 1.13, `pbi_company_the_times`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«The Times»", "The Times", "pbi_company_the_times"]
 tags: [Morgenröte, вид-компании]

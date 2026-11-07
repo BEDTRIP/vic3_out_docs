@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Compañía Sansinena de Carnes Congeladas» — VC 1.13, `company_compania_sansinena_de_carnes_congeladas`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Compañía Sansinena de Carnes Congeladas", "company_compania_sansinena_de_carnes_congeladas"]
 tags: [VC, вид-компании]

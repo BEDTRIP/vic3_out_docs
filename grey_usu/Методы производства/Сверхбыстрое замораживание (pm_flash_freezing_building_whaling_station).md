@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Сверхбыстрое замораживание (pm_flash_freezing_building_whaling_station)» — grey USU 1.13, `pm_flash_freezing_building_whaling_station`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Сверхбыстрое замораживание (pm_flash_freezing_building_whaling_station)", "Flash Freezing", "pm_flash_freezing_building_whaling_station"]
 tags: [grey_usu, метод-производства]

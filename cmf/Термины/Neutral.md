@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода CMF «Neutral» — подсказка-понятие Victoria 3 1.13 (`concept_com_situation_faction_neutral`)"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["Neutral", "concept_com_situation_faction_neutral"]
 tags: [cmf, термин]

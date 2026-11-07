@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Imperial Examination System» — Mandate of Heaven 1.13, `law_imperial_examinations`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Imperial Examination System", "law_imperial_examinations"]
 tags: [mandate_of_heaven, закон]

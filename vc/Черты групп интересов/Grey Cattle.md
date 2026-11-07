@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Grey Cattle» — VC 1.13, `ig_trait_gray_cattle`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Grey Cattle", "ig_trait_gray_cattle"]
 tags: [VC, черта-группы-интересов]

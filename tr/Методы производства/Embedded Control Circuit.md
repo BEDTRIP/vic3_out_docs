@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Embedded Control Circuit» — T&R 1.13, `pm_embedded_control_circuit`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Embedded Control Circuit", "pm_embedded_control_circuit"]
 tags: [tr, метод-производства]

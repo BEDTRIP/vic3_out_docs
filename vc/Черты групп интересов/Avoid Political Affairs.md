@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Avoid Political Affairs» — VC 1.13, `ig_trait_pragmatism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Avoid Political Affairs", "ig_trait_pragmatism"]
 tags: [VC, черта-группы-интересов]

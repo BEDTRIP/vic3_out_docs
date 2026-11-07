@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Gold exchange Standard» — E&F 1.13, `law_gold_exchange_standard`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Gold exchange Standard", "law_gold_exchange_standard"]
 tags: [ef, закон]

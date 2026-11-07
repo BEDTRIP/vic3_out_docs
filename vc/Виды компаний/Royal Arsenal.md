@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Royal Arsenal» — VC 1.13, `company_royal_arsenal`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Royal Arsenal", "company_royal_arsenal"]
 tags: [VC, вид-компании]

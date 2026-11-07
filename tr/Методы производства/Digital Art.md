@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Art» — T&R 1.13, `pm_digital_art`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Art", "pm_digital_art"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Domestic Routes» — T&R 1.13, `pm_domestic_routes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Domestic Routes", "pm_domestic_routes"]
 tags: [tr, метод-производства]

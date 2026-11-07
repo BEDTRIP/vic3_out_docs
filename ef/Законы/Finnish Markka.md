@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Finnish Markka» — E&F 1.13, `law_mark_finnish_markka_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Finnish Markka", "law_mark_finnish_markka_currency"]
 tags: [ef, закон]

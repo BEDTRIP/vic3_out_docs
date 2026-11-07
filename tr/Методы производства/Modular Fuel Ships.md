@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modular Fuel Ships» — T&R 1.13, `pm_modular_shipbuilding`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modular Fuel Ships", "pm_modular_shipbuilding"]
 tags: [tr, метод-производства]

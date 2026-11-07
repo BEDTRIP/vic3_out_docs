@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Base Money» — E&F 1.13, `liquidity_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Base Money", "liquidity_currency"]
 tags: [ef, товар]

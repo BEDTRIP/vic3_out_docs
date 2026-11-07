@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sociedad Rodriguez Argüelles y Cia» — ваниль 1.13, `company_rodriguez_arguelles_y_cia`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Sociedad Rodriguez Argüelles y Cia", "company_rodriguez_arguelles_y_cia"]
 tags: [ваниль, вид-компании]

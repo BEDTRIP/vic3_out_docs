@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Aviation Fuel» — T&R 1.13, `curtiss_modern_aviation_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aviation Fuel", "curtiss_modern_aviation_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Municipal Autonomy» — VC 1.13, `ig_trait_municipality`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Municipal Autonomy", "ig_trait_municipality"]
 tags: [VC, черта-группы-интересов]

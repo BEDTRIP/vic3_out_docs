@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Manufacture Stock» — E&F 1.13, `pmg_manufacture_stock_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Manufacture Stock", "pmg_manufacture_stock_exchange"]
 tags: [ef, группа-методов]

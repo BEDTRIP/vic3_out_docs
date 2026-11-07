@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Secure Market Transactions» — T&R 1.13, `secure_market_transactions`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Secure Market Transactions", "secure_market_transactions"]
 tags: [tr, технология]

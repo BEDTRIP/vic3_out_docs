@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Alloyworking» — T&R 1.13, `alloysworking`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alloyworking", "alloysworking"]
 tags: [tr, технология]

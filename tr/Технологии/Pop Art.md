@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Pop Art» — T&R 1.13, `pop_art`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Pop Art", "pop_art"]
 tags: [tr, технология]

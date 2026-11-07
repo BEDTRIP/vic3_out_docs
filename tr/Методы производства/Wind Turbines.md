@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Wind Turbines» — T&R 1.13, `pm_wind_turbines`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wind Turbines", "pm_wind_turbines"]
 tags: [tr, метод-производства]

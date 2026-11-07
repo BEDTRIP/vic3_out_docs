@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Genetic Analysis» — T&R 1.13, `pm_genetic_analysis_breeding`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Genetic Analysis", "pm_genetic_analysis_breeding"]
 tags: [tr, метод-производства]

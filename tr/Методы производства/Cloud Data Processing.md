@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cloud Data Processing» — T&R 1.13, `pm_cloud_databased_data_analysis`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cloud Data Processing", "pm_cloud_databased_data_analysis"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Clayhills_and_Son» — grey USU 1.13, `company_Clayhills_and_Son`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Clayhills_and_Son"]
 tags: [grey_usu, вид-компании]

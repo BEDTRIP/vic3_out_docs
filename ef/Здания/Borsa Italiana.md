@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Borsa Italiana» — E&F 1.13, `building_financial_centre_ita`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Borsa Italiana", "building_financial_centre_ita"]
 tags: [ef, здание]

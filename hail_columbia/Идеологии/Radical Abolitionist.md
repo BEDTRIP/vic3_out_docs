@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Radical Abolitionist» — Hail Columbia 1.13, `ideology_usfp_abolitionist_radical`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Radical Abolitionist", "ideology_usfp_abolitionist_radical"]
 tags: [hail_columbia, идеология]

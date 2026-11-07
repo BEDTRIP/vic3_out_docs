@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Transport Lines» — LLWA 1.13, `LLWA_pm_transport_lines`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Transport Lines", "LLWA_pm_transport_lines"]
 tags: [LLWA, метод-производства]

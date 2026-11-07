@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Boulder Dam» — Hail Columbia 1.13, `building_usfp_hoover_dam`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Boulder Dam", "building_usfp_hoover_dam"]
 tags: [hail_columbia, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Commonwealth Sovereignty» — подсказка-понятие Victoria 3 1.13 (`concept_commonwealth_realm`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Commonwealth Sovereignty", "concept_commonwealth_realm"]
 tags: [vc, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Paper Recycling» — T&R 1.13, `pm_paper_recycling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Paper Recycling", "pm_paper_recycling"]
 tags: [tr, метод-производства]

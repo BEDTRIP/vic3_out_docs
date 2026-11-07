@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Fundição Ipanema»» — VC 1.13, `company_fundicao_ipanema`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Fundição Ipanema»", "Fundição Ipanema", "company_fundicao_ipanema"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Motorized Chariots» — Gates of Bosphorus 1.13, `pm_gbbf_motorized_chariots`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Motorized Chariots", "pm_gbbf_motorized_chariots"]
 tags: [gates_of_bosphorus, метод-производства]

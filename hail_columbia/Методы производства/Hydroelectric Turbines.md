@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hydroelectric Turbines» — Hail Columbia 1.13, `pm_usfp_hoover_dam`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Hydroelectric Turbines", "pm_usfp_hoover_dam"]
 tags: [hail_columbia, метод-производства]

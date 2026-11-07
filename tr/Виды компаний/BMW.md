@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «BMW» — T&R 1.13, `company_bmw`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["BMW", "company_bmw"]
 tags: [tr, вид-компании]

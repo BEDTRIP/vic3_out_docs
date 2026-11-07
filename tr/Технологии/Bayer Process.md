@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Bayer Process» — T&R 1.13, `bayer_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bayer Process", "bayer_process"]
 tags: [tr, технология]

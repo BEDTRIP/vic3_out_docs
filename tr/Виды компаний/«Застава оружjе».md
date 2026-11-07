@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Застава оружjе»» — T&R 1.13, `company_zastava`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Застава оружjе»", "Zastava oružje", "company_zastava"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Logistics Corporations» — LLWA 1.13, `LLWA_pm_logistics_company`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Logistics Corporations", "LLWA_pm_logistics_company"]
 tags: [LLWA, метод-производства]

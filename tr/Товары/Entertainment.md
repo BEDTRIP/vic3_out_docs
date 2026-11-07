@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Entertainment» — T&R 1.13, `elgar_music`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Entertainment", "elgar_music"]
 tags: [tr, товар]

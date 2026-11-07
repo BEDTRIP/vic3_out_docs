@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_aristocrats_commercial_agriculture)» — grey USU 1.13, `pm_company_headquarter_privately_owned_aristocrats_commercial_agriculture`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Частная собственность (pm_company_headquarter_privately_owned_aristocrats_commercial_agriculture)", "Частная собственность", "pm_company_headquarter_privately_owned_aristocrats_commercial_agriculture"]
 tags: [grey_usu, метод-производства]

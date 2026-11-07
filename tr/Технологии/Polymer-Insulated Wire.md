@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Polymer-Insulated Wire» — T&R 1.13, `advanced_wire`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Polymer-Insulated Wire", "advanced_wire"]
 tags: [tr, технология]

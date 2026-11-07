@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартное производство (pm_default_building_kaiserforum_1)» — ваниль 1.13, `pm_default_building_kaiserforum_1`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартное производство (pm_default_building_kaiserforum_1)", "Default Production", "pm_default_building_kaiserforum_1"]
 tags: [ваниль, метод-производства]

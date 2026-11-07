@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Paper Recycling» — T&R 1.13, `paper_recycling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Paper Recycling", "paper_recycling"]
 tags: [tr, технология]

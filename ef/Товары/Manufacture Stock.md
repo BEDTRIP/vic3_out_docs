@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Manufacture Stock» — E&F 1.13, `manufacture_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Manufacture Stock", "manufacture_stock"]
 tags: [ef, товар]

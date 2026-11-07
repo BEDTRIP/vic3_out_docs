@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Густав V» — Morgenröte 1.13, `mr_ruler_trait_gustaf_v`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Густав V", "Gustaf V", "mr_ruler_trait_gustaf_v"]
 tags: [Morgenröte, черта]

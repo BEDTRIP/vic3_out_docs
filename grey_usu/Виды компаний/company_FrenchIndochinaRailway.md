@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_FrenchIndochinaRailway» — grey USU 1.13, `company_FrenchIndochinaRailway`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_FrenchIndochinaRailway"]
 tags: [grey_usu, вид-компании]

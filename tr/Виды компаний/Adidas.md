@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Adidas» — T&R 1.13, `company_adidas`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Adidas", "company_adidas"]
 tags: [tr, вид-компании]

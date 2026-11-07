@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Анархизм (ideology_anarchist)» — ваниль 1.13, `ideology_anarchist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Анархизм (ideology_anarchist)", "Anarchist", "ideology_anarchist"]
 tags: [ваниль, идеология]

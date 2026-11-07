@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Progressive (ideology_usfp_progressive_movement)» — Hail Columbia 1.13, `ideology_usfp_progressive_movement`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Progressive (ideology_usfp_progressive_movement)", "Progressive", "ideology_usfp_progressive_movement"]
 tags: [hail_columbia, идеология]

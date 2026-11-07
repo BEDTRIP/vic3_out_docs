@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Central de Costa Rica» — E&F 1.13, `company_BancoCentralDeCostaRica`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Central de Costa Rica", "company_BancoCentralDeCostaRica"]
 tags: [ef, вид-компании]

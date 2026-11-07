@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Decolonization» — подсказка-понятие Victoria 3 1.13 (`concept_decolonization`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Decolonization", "concept_decolonization"]
 tags: [tr, термин]

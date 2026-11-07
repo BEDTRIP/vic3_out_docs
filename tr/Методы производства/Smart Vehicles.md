@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smart Vehicles» — T&R 1.13, `pm_smart_vehicles_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart Vehicles", "pm_smart_vehicles_production"]
 tags: [tr, метод-производства]

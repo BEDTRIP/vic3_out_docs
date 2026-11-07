@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Market Liquidity» — E&F 1.13, `pm_market_liquidity_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Market Liquidity", "pm_market_liquidity_currency"]
 tags: [ef, метод-производства]

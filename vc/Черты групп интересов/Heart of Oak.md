@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Heart of Oak» — VC 1.13, `ig_trait_heart_of_oak`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Heart of Oak", "ig_trait_heart_of_oak"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Destroyer» — T&R 1.13, `modern_naval_doctrine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Destroyer", "modern_naval_doctrine"]
 tags: [tr, технология]

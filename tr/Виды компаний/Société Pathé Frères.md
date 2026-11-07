@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Société Pathé Frères» — T&R 1.13, `company_societe_pathe_freres`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Société Pathé Frères", "company_societe_pathe_freres"]
 tags: [tr, вид-компании]

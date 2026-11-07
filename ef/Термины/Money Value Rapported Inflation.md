@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Money Value Rapported Inflation» — подсказка-понятие Victoria 3 1.13 (`concept_money_value_rapported_inflation`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Money Value Rapported Inflation", "concept_money_value_rapported_inflation"]
 tags: [ef, термин]

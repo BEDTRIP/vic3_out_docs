@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «National Academy of Sciences» — VC 1.13, `ig_trait_leopoldina`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["National Academy of Sciences", "ig_trait_leopoldina"]
 tags: [VC, черта-группы-интересов]

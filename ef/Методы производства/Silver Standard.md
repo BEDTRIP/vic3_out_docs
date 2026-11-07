@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Silver Standard» — E&F 1.13, `pm_silver_standard_bank_money_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Silver Standard", "pm_silver_standard_bank_money_currency"]
 tags: [ef, метод-производства]

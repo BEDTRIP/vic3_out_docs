@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Service Section» — T&R 1.13, `pmg_service_section_building_office`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Service Section", "pmg_service_section_building_office"]
 tags: [tr, группа-методов]

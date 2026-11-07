@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_paper_mill)» — ваниль 1.13, `pmg_automation_building_paper_mill`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Автоматизация (pmg_automation_building_paper_mill)", "Automation", "pmg_automation_building_paper_mill"]
 tags: [ваниль, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_full_eggs_dairy» — grey food 2 ranch 1.13, `pm_full_eggs_dairy`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_full_eggs_dairy"]
 tags: [grey_food_2_ranch, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Georgist» — Hail Columbia 1.13, `ideology_usfp_georgist_leader`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Georgist", "ideology_usfp_georgist_leader"]
 tags: [hail_columbia, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_shopkeepers)» — ваниль 1.13, `pm_company_headquarter_principle_divine_economics_2_shopkeepers`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_shopkeepers)", "Увеличенный надзор духовенства", "pm_company_headquarter_principle_divine_economics_2_shopkeepers"]
 tags: [ваниль, метод-производства]

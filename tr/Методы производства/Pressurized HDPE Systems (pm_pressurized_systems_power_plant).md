@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Pressurized HDPE Systems (pm_pressurized_systems_power_plant)» — T&R 1.13, `pm_pressurized_systems_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Pressurized HDPE Systems (pm_pressurized_systems_power_plant)", "Pressurized HDPE Systems", "pm_pressurized_systems_power_plant"]
 tags: [tr, метод-производства]

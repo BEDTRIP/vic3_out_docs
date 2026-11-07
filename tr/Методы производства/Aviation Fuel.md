@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Aviation Fuel» — T&R 1.13, `pm_airport_oil`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aviation Fuel", "pm_airport_oil"]
 tags: [tr, метод-производства]

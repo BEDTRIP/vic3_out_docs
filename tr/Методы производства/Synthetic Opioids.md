@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Synthetic Opioids» — T&R 1.13, `pm_synthetic_opioids`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Opioids", "pm_synthetic_opioids"]
 tags: [tr, метод-производства]

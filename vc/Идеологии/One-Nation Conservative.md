@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «One-Nation Conservative» — VC 1.13, `ideology_one_nation_conservatism_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["One-Nation Conservative", "ideology_one_nation_conservatism_leader"]
 tags: [VC, идеология]

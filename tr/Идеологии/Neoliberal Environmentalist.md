@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Neoliberal Environmentalist» — T&R 1.13, `ideology_neoliberal_ambientalist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neoliberal Environmentalist", "ideology_neoliberal_ambientalist"]
 tags: [tr, идеология]

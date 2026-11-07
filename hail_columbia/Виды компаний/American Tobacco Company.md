@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «American Tobacco Company» — Hail Columbia 1.13, `company_usfp_american_tobacco`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["American Tobacco Company", "company_usfp_american_tobacco"]
 tags: [hail_columbia, вид-компании]

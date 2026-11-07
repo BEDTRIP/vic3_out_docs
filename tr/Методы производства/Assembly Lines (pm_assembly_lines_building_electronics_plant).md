@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Assembly Lines (pm_assembly_lines_building_electronics_plant)» — T&R 1.13, `pm_assembly_lines_building_electronics_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Assembly Lines (pm_assembly_lines_building_electronics_plant)", "Assembly Lines", "pm_assembly_lines_building_electronics_plant"]
 tags: [tr, метод-производства]

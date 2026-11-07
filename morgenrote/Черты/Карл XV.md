@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Карл XV» — Morgenröte 1.13, `mr_ruler_trait_karl_xv`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Карл XV", "Karl XV", "mr_ruler_trait_karl_xv"]
 tags: [Morgenröte, черта]

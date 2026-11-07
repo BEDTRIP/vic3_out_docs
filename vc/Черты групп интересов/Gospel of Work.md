@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Gospel of Work» — VC 1.13, `ig_trait_gospel_of_work`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Gospel of Work", "ig_trait_gospel_of_work"]
 tags: [VC, черта-группы-интересов]

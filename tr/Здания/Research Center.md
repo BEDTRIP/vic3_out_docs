@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Research Center» — T&R 1.13, `building_research_center`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Research Center", "building_research_center"]
 tags: [tr, здание]

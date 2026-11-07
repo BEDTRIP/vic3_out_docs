@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «AWACS» — T&R 1.13, `awacs`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AWACS", "awacs"]
 tags: [tr, технология]

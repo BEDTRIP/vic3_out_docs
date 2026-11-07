@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Hydroponic Farms» — T&R 1.13, `building_hydroponic`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydroponic Farms", "building_hydroponic"]
 tags: [tr, здание]

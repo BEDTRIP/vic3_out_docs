@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «J.P. Morgan» — E&F 1.13, `company_BankJPMorgan`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["J.P. Morgan", "company_BankJPMorgan"]
 tags: [ef, вид-компании]

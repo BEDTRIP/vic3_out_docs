@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Aluminium» — T&R 1.13, `pm_no_aluminium_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Aluminium", "pm_no_aluminium_production"]
 tags: [tr, метод-производства]

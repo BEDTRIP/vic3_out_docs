@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Agers Mechaniske Værksted»» — ваниль 1.13, `company_aker_mek`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Agers Mechaniske Værksted»", "Agers Mechaniske Værksted", "company_aker_mek"]
 tags: [ваниль, вид-компании]

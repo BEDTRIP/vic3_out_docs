@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Digital Media Production» — T&R 1.13, `pmg_digital_media_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Media Production", "pmg_digital_media_industry"]
 tags: [tr, группа-методов]

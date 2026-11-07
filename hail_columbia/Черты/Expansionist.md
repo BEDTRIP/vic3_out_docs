@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Expansionist» — Hail Columbia 1.13, `usfp_trait_expansionist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Expansionist", "usfp_trait_expansionist"]
 tags: [hail_columbia, черта]

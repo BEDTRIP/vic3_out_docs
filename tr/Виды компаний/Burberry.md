@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Burberry» — T&R 1.13, `company_burberry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Burberry", "company_burberry"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Neo-Feminism» — T&R 1.13, `neo_feminism`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neo-Feminism", "neo_feminism"]
 tags: [tr, технология]

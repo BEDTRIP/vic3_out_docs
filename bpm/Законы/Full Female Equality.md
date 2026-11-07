@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Full Female Equality» — BPM 1.13, `law_womens_suffrage_upgraded`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Full Female Equality", "law_womens_suffrage_upgraded"]
 tags: [BPM, закон]

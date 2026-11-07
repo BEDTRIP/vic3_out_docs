@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Коммунизм (ideology_communist_movement)» — ваниль 1.13, `ideology_communist_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Коммунизм (ideology_communist_movement)", "Communist", "ideology_communist_movement"]
 tags: [ваниль, идеология]

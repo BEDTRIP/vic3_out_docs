@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Wireless Telecommunications» — T&R 1.13, `pmg_mobile_network_building_telecommunications`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wireless Telecommunications", "pmg_mobile_network_building_telecommunications"]
 tags: [tr, группа-методов]

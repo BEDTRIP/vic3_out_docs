@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Railway_Cochin» — grey USU 1.13, `company_Railway_Cochin`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Railway_Cochin"]
 tags: [grey_usu, вид-компании]

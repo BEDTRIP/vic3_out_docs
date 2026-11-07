@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««San Miguel»» — ваниль 1.13, `company_san_miguel`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«San Miguel»", "San Miguel", "company_san_miguel"]
 tags: [ваниль, вид-компании]

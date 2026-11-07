@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Echo Sounding» — T&R 1.13, `agassiz_sounding_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Echo Sounding", "agassiz_sounding_tech"]
 tags: [tr, технология]

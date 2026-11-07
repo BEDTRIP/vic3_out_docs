@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «За рабство (ideology_pro_slavery)» — ваниль 1.13, `ideology_pro_slavery`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["За рабство (ideology_pro_slavery)", "Pro-Slavery", "ideology_pro_slavery"]
 tags: [ваниль, идеология]

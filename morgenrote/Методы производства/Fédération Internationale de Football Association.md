@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fédération Internationale de Football Association» — Morgenröte 1.13, `pm_vikelas_fifa`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Fédération Internationale de Football Association", "pm_vikelas_fifa"]
 tags: [Morgenröte, метод-производства]

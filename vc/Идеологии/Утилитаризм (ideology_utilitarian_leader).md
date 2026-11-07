@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — VC 1.13, `ideology_utilitarian_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Утилитаризм (ideology_utilitarian_leader)", "Utilitarian", "ideology_utilitarian_leader"]
 tags: [VC, идеология]

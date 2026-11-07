@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «CNC Control» — T&R 1.13, `cnc_control`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CNC Control", "cnc_control"]
 tags: [tr, технология]

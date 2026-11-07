@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_oil_la_brea» — grey USU 1.13, `company_oil_la_brea`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_oil_la_brea"]
 tags: [grey_usu, вид-компании]

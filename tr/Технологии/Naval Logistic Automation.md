@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Naval Logistic Automation» — T&R 1.13, `naval_logistic_automation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Naval Logistic Automation", "naval_logistic_automation"]
 tags: [tr, технология]

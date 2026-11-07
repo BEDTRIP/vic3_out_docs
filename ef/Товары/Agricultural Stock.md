@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Agricultural Stock» — E&F 1.13, `agricultural_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Agricultural Stock", "agricultural_stock"]
 tags: [ef, товар]

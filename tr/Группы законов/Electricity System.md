@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Electricity System» — T&R 1.13, `lawgroup_national_electric_system`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electricity System", "lawgroup_national_electric_system"]
 tags: [tr, группа-законов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Steinway & Sons» — Morgenröte 1.13, `elgar_company_steinway`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Steinway & Sons", "elgar_company_steinway"]
 tags: [Morgenröte, вид-компании]

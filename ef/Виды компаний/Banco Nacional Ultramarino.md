@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Nacional Ultramarino» — E&F 1.13, `company_Bank_Ultramarino`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Nacional Ultramarino", "company_Bank_Ultramarino"]
 tags: [ef, вид-компании]

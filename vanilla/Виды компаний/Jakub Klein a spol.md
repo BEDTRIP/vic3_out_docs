@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Jakub Klein a spol» — ваниль 1.13, `company_jakub_klein`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Jakub Klein a spol", "company_jakub_klein"]
 tags: [ваниль, вид-компании]

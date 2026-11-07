@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Molecular Biology» — T&R 1.13, `molecular_biology`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Molecular Biology", "molecular_biology"]
 tags: [tr, технология]

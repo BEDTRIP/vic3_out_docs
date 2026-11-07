@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Kraft Recovery Process» — T&R 1.13, `kraft_recovery_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Kraft Recovery Process", "kraft_recovery_process"]
 tags: [tr, технология]

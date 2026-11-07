@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Recycling Center» — T&R 1.13, `pmg_recycling_center`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Recycling Center", "pmg_recycling_center"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Biljarda» — Gates of Bosphorus 1.13, `gbbf_building_biljarda`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Biljarda", "gbbf_building_biljarda"]
 tags: [gates_of_bosphorus, здание]

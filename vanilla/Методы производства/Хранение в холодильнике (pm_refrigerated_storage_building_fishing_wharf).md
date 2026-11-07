@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)» — ваниль 1.13, `pm_refrigerated_storage_building_fishing_wharf`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)", "Refrigerated Storage", "pm_refrigerated_storage_building_fishing_wharf"]
 tags: [ваниль, метод-производства]

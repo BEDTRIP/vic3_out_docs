@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Voltaic Pile» — T&R 1.13, `pm_voltaic_pile`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Voltaic Pile", "pm_voltaic_pile"]
 tags: [tr, метод-производства]

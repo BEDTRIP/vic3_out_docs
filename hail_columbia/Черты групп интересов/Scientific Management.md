@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Scientific Management» — Hail Columbia 1.13, `usfp_ig_trait_scientific_management`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Scientific Management", "usfp_ig_trait_scientific_management"]
 tags: [hail_columbia, черта-группы-интересов]

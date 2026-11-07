@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Organized Data» — T&R 1.13, `organized_data`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Organized Data", "organized_data"]
 tags: [tr, товар]

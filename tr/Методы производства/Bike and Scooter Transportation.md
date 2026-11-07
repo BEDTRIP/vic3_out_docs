@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Bike and Scooter Transportation» — T&R 1.13, `pm_bike_scooter_transportation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bike and Scooter Transportation", "pm_bike_scooter_transportation"]
 tags: [tr, метод-производства]

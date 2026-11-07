@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Computer» — T&R 1.13, `pmg_base_building_computers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Computer", "pmg_base_building_computers"]
 tags: [tr, группа-методов]

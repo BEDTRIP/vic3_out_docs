@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Missile Fortification» — T&R 1.13, `pm_naval_fortification_coastal_missile_batteries`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Missile Fortification", "pm_naval_fortification_coastal_missile_batteries"]
 tags: [tr, метод-производства]

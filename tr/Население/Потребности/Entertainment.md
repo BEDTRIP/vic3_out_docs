@@ -2,6 +2,7 @@
 type: concept
 description: "Потребность населения «Entertainment» — T&R 1.13, `popneed_entertainment`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Entertainment", "popneed_entertainment"]
 tags: [tr, потребность]

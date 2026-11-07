@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Loyal to the People» — VC 1.13, `ig_trait_loyal_to_nations`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Loyal to the People", "ig_trait_loyal_to_nations"]
 tags: [VC, черта-группы-интересов]

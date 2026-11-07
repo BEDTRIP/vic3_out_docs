@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Royal Bank of Scotland» — E&F 1.13, `company_RoyalBankOfScotland`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Royal Bank of Scotland", "company_RoyalBankOfScotland"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Yasuda» — ваниль 1.13, `company_yasuda`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Yasuda", "company_yasuda"]
 tags: [ваниль, вид-компании]

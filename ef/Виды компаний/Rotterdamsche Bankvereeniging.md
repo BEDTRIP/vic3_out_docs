@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Rotterdamsche Bankvereeniging» — E&F 1.13, `company_RotterdamscheBankvereeniging`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Rotterdamsche Bankvereeniging", "company_RotterdamscheBankvereeniging"]
 tags: [ef, вид-компании]

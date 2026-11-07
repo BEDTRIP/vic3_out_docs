@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Fishing Investments» — TGR 1.13, `economic_incentives_fishing`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Fishing Investments", "economic_incentives_fishing"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Home Appliances» — T&R 1.13, `pm_basic_homeappliances`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Home Appliances", "pm_basic_homeappliances"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_food_industry)» — ваниль 1.13, `pmg_base_building_food_industry`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_food_industry)", "Основа", "pmg_base_building_food_industry"]
 tags: [ваниль, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «State Grid» — Mandate of Heaven 1.13, `company_state_grid`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["State Grid", "company_state_grid"]
 tags: [mandate_of_heaven, вид-компании]

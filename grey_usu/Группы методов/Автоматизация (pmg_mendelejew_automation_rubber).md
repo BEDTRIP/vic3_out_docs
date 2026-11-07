@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_mendelejew_automation_rubber)» — grey USU 1.13, `pmg_mendelejew_automation_rubber`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Автоматизация (pmg_mendelejew_automation_rubber)", "Automation", "pmg_mendelejew_automation_rubber"]
 tags: [grey_usu, группа-методов]

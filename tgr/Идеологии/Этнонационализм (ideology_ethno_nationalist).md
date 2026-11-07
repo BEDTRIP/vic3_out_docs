@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — TGR 1.13, `ideology_ethno_nationalist`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Этнонационализм (ideology_ethno_nationalist)", "Ethno-Nationalist", "ideology_ethno_nationalist"]
 tags: [TGR, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Getzner, Mutter & Cie» — grey USU 1.13, `company_getzner_mutter`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Getzner, Mutter & Cie", "company_getzner_mutter"]
 tags: [grey_usu, вид-компании]

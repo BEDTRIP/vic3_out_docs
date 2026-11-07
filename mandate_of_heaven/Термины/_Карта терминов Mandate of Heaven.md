@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода Mandate of Heaven — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 tags: [mandate_of_heaven, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

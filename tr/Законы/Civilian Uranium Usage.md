@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Civilian Uranium Usage» — T&R 1.13, `law_uranium_civil_usage`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Civilian Uranium Usage", "law_uranium_civil_usage"]
 tags: [tr, закон]

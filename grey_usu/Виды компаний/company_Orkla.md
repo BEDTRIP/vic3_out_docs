@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Orkla» — grey USU 1.13, `company_Orkla`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Orkla"]
 tags: [grey_usu, вид-компании]

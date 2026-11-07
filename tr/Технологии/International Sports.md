@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «International Sports» — T&R 1.13, `vikelas_international_sports_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["International Sports", "vikelas_international_sports_tech"]
 tags: [tr, технология]

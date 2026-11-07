@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ford Motor Company»» — ваниль 1.13, `company_ford_motor`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Ford Motor Company»", "Ford Motor Company", "company_ford_motor"]
 tags: [ваниль, вид-компании]

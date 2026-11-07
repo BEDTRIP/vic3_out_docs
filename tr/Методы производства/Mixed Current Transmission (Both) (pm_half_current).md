@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mixed Current Transmission (Both) (pm_half_current)» — T&R 1.13, `pm_half_current`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mixed Current Transmission (Both) (pm_half_current)", "Mixed Current Transmission (Both)", "pm_half_current"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Centralized Economy» — BPM 1.13, `ideology_eco_centralized_economy`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Centralized Economy", "ideology_eco_centralized_economy"]
 tags: [BPM, идеология]

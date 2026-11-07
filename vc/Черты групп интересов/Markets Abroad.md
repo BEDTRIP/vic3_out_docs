@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Markets Abroad» — VC 1.13, `ig_trait_markets_elsewhere`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Markets Abroad", "ig_trait_markets_elsewhere"]
 tags: [VC, черта-группы-интересов]

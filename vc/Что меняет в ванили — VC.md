@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод VC меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: vc
 tags: [VC, что-меняет]
 generated: "v3 graph mods"

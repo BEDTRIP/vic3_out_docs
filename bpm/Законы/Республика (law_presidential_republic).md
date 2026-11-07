@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Республика (law_presidential_republic)» — BPM 1.13, `law_presidential_republic`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Республика (law_presidential_republic)", "Republic", "law_presidential_republic"]
 tags: [BPM, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Color Broadcasting» — T&R 1.13, `pm_color_broadcasting`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Color Broadcasting", "pm_color_broadcasting"]
 tags: [tr, метод-производства]

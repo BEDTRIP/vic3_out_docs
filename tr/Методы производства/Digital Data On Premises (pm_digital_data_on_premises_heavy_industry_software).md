@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Data On Premises (pm_digital_data_on_premises_heavy_industry_software)» — T&R 1.13, `pm_digital_data_on_premises_heavy_industry_software`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Data On Premises (pm_digital_data_on_premises_heavy_industry_software)", "Digital Data On Premises", "pm_digital_data_on_premises_heavy_industry_software"]
 tags: [tr, метод-производства]

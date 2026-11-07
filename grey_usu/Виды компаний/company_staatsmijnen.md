@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_staatsmijnen» — grey USU 1.13, `company_staatsmijnen`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_staatsmijnen"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Sea Water Desalination» — T&R 1.13, `sea_water_desalination`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sea Water Desalination", "sea_water_desalination"]
 tags: [tr, технология]

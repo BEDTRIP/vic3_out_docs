@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «On-Demand Delivery» — T&R 1.13, `on_demand_delivery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["On-Demand Delivery", "on_demand_delivery"]
 tags: [tr, технология]

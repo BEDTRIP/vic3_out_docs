@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Agentic AI» — T&R 1.13, `agentic_ai`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Agentic AI", "agentic_ai"]
 tags: [tr, технология]

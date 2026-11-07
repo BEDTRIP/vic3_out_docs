@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Фашизм (ideology_fascist)» — ваниль 1.13, `ideology_fascist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Фашизм (ideology_fascist)", "Fascist", "ideology_fascist"]
 tags: [ваниль, идеология]

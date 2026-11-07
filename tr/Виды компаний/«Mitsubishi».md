@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Mitsubishi»» — T&R 1.13, `company_mitsubishi`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Mitsubishi»", "Mitsubishi", "company_mitsubishi"]
 tags: [tr, вид-компании]

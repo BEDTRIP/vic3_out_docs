@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Aquafarm Systems» — T&R 1.13, `acquafarm_systems`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aquafarm Systems", "acquafarm_systems"]
 tags: [tr, технология]

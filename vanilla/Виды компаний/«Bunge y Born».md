@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Bunge y Born»» — ваниль 1.13, `company_bunge_born`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Bunge y Born»", "Bunge & Born", "company_bunge_born"]
 tags: [ваниль, вид-компании]

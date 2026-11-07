@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Real» — E&F 1.13, `law_real_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Real", "law_real_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Passenger Only» — T&R 1.13, `pm_air_passenger_only`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Passenger Only", "pm_air_passenger_only"]
 tags: [tr, метод-производства]

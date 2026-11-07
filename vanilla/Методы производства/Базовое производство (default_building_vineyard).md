@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_vineyard)» — ваниль 1.13, `default_building_vineyard`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Базовое производство (default_building_vineyard)", "Базовое производство", "default_building_vineyard"]
 tags: [ваниль, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compañía Sudamericana de Vapores»» — grey USU 1.13, `company_sudamericana_de_vapores`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Compañía Sudamericana de Vapores»", "Compañía Sudamericana de Vapores", "company_sudamericana_de_vapores"]
 tags: [grey_usu, вид-компании]

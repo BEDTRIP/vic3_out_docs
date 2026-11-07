@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Liberian Dollar» — E&F 1.13, `law_dollar_liberian_dollar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Liberian Dollar", "law_dollar_liberian_dollar_currency"]
 tags: [ef, закон]

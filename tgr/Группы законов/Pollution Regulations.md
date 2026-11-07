@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Pollution Regulations» — TGR 1.13, `lawgroup_environment`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Pollution Regulations", "lawgroup_environment"]
 tags: [TGR, группа-законов]

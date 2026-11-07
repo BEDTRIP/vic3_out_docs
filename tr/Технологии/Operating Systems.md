@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Operating Systems» — T&R 1.13, `operating_systems`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Operating Systems", "operating_systems"]
 tags: [tr, технология]

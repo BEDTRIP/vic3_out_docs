@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Political Machines» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_political_machines`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Political Machines", "concept_usfp_political_machines"]
 tags: [hail_columbia, термин]

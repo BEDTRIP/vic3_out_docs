@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Феминизм (ideology_feminist_ig)» — BPM 1.13, `ideology_feminist_ig`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Феминизм (ideology_feminist_ig)", "Feminist", "ideology_feminist_ig"]
 tags: [BPM, идеология]

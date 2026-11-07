@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ministerial Council» — Gates of Bosphorus 1.13, `law_ministerial_council`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Ministerial Council", "law_ministerial_council"]
 tags: [gates_of_bosphorus, закон]

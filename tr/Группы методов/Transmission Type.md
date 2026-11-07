@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Transmission Type» — T&R 1.13, `pmg_power_transmission`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Transmission Type", "pmg_power_transmission"]
 tags: [tr, группа-методов]

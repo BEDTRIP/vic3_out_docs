@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Afro-American Liberation» — Hail Columbia 1.13, `ideology_usfp_afro_american_movement`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Afro-American Liberation", "ideology_usfp_afro_american_movement"]
 tags: [hail_columbia, идеология]

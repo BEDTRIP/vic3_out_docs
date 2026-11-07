@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««General Electric»» — T&R 1.13, `company_general_electric`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«General Electric»", "General Electric", "company_general_electric"]
 tags: [tr, вид-компании]

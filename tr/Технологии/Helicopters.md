@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Helicopters» — T&R 1.13, `helicopters`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Helicopters", "helicopters"]
 tags: [tr, технология]

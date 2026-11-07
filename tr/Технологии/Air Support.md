@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Air Support» — T&R 1.13, `air_support`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Air Support", "air_support"]
 tags: [tr, технология]

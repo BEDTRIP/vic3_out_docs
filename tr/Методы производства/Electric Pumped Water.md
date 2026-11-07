@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Pumped Water» — T&R 1.13, `pm_electric_pumped_water`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Pumped Water", "pm_electric_pumped_water"]
 tags: [tr, метод-производства]

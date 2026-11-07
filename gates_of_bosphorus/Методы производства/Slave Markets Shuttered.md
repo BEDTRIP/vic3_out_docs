@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Slave Markets Shuttered» — Gates of Bosphorus 1.13, `pm_gbbf_slave_market_shuttered`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Slave Markets Shuttered", "pm_gbbf_slave_market_shuttered"]
 tags: [gates_of_bosphorus, метод-производства]

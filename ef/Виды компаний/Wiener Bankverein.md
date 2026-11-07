@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Wiener Bankverein» — E&F 1.13, `company_WienerBankverein`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Wiener Bankverein", "company_WienerBankverein"]
 tags: [ef, вид-компании]

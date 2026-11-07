@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Currency Reserves» — подсказка-понятие Victoria 3 1.13 (`concept_currency_reserves`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Currency Reserves", "concept_currency_reserves"]
 tags: [ef, термин]

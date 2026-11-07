@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Общая подготовка (pm_general_training_conscription)» — ваниль 1.13, `pm_general_training_conscription`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Общая подготовка (pm_general_training_conscription)", "Общая подготовка", "pm_general_training_conscription"]
 tags: [ваниль, метод-производства]

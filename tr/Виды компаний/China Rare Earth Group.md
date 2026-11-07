@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «China Rare Earth Group» — T&R 1.13, `company_china_rare_earth_group`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["China Rare Earth Group", "company_china_rare_earth_group"]
 tags: [tr, вид-компании]

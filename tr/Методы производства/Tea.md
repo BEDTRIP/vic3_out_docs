@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Tea» — T&R 1.13, `pm_hydroponic_tea`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Tea", "pm_hydroponic_tea"]
 tags: [tr, метод-производства]

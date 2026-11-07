@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Advanced Alloys» — T&R 1.13, `advanced_alloys`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Alloys", "advanced_alloys"]
 tags: [tr, технология]

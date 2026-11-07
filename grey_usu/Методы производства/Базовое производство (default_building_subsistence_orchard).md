@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_subsistence_orchard)» — grey USU 1.13, `default_building_subsistence_orchard`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Базовое производство (default_building_subsistence_orchard)", "Базовое производство", "default_building_subsistence_orchard"]
 tags: [grey_usu, метод-производства]

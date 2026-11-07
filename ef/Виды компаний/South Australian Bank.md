@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «South Australian Bank» — E&F 1.13, `company_SouthAustralianBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["South Australian Bank", "company_SouthAustralianBank"]
 tags: [ef, вид-компании]

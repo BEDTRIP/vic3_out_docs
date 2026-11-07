@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Spread Socialist Ideas» — TGR 1.13, `foreign_policy_socialist_ideas`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Spread Socialist Ideas", "foreign_policy_socialist_ideas"]
 tags: [TGR, закон]

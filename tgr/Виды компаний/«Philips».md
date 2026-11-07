@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Philips»» — TGR 1.13, `company_philips`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["«Philips»", "Konglomerat der Niederlande", "company_philips"]
 tags: [TGR, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Обычный труд (default_labour_tobacco)» — ваниль 1.13, `default_labour_tobacco`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Обычный труд (default_labour_tobacco)", "Standard Labor", "default_labour_tobacco"]
 tags: [ваниль, метод-производства]

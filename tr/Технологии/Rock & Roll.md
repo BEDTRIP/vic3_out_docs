@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rock & Roll» — T&R 1.13, `rock_and_roll`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rock & Roll", "rock_and_roll"]
 tags: [tr, технология]

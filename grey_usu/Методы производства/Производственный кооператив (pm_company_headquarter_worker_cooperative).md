@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Производственный кооператив (pm_company_headquarter_worker_cooperative)» — grey USU 1.13, `pm_company_headquarter_worker_cooperative`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Производственный кооператив (pm_company_headquarter_worker_cooperative)", "Производственный кооператив", "pm_company_headquarter_worker_cooperative"]
 tags: [grey_usu, метод-производства]

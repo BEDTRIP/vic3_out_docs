@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Секуляризм (pmg_university_academia)» — ваниль 1.13, `pmg_university_academia`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Секуляризм (pmg_university_academia)", "Secularism", "pmg_university_academia"]
 tags: [ваниль, группа-методов]

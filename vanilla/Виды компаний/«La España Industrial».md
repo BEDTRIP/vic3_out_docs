@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««La España Industrial»» — ваниль 1.13, `company_espana_industrial`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«La España Industrial»", "La España Industrial", "company_espana_industrial"]
 tags: [ваниль, вид-компании]

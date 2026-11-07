@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Equality Index» — подсказка-понятие Victoria 3 1.13 (`concept_equality_index`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Equality Index", "concept_equality_index"]
 tags: [tr, термин]

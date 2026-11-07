@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «The Last Marshal» — VC 1.13, `special_character_old_marshal`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["The Last Marshal", "special_character_old_marshal"]
 tags: [VC, черта]

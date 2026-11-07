@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Фиговые сады (pm_fig_orchards)» — ваниль 1.13, `pm_fig_orchards`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Фиговые сады (pm_fig_orchards)", "Fig Orchards", "pm_fig_orchards"]
 tags: [ваниль, метод-производства]

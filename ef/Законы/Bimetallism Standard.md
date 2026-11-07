@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Bimetallism Standard» — E&F 1.13, `law_bimetallism_standard`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bimetallism Standard", "law_bimetallism_standard"]
 tags: [ef, закон]

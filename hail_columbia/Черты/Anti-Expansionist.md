@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Anti-Expansionist» — Hail Columbia 1.13, `usfp_trait_antiexpansionist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Anti-Expansionist", "usfp_trait_antiexpansionist"]
 tags: [hail_columbia, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Lawmen» — Hail Columbia 1.13, `usfp_ig_trait_lawmen`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Lawmen", "usfp_ig_trait_lawmen"]
 tags: [hail_columbia, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «IoT Assembly Lines (pm_iot_building_aircraft_industry)» — T&R 1.13, `pm_iot_building_aircraft_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["IoT Assembly Lines (pm_iot_building_aircraft_industry)", "IoT Assembly Lines", "pm_iot_building_aircraft_industry"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Processor» — T&R 1.13, `pmg_base_building_processors`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Processor", "pmg_base_building_processors"]
 tags: [tr, группа-методов]

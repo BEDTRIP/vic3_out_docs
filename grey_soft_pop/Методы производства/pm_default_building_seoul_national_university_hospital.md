@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_seoul_national_university_hospital» — grey soft pop 1.13, `pm_default_building_seoul_national_university_hospital`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_seoul_national_university_hospital"]
 tags: [grey_soft_pop, метод-производства]

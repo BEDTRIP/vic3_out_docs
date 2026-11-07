@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Hippopotamus Ranch» — Hail Columbia 1.13, `usfp_hippo_ranch`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Hippopotamus Ranch", "usfp_hippo_ranch"]
 tags: [hail_columbia, здание]

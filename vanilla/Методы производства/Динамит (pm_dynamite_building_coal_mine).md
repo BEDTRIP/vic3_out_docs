@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Динамит (pm_dynamite_building_coal_mine)» — ваниль 1.13, `pm_dynamite_building_coal_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Динамит (pm_dynamite_building_coal_mine)", "Dynamite", "pm_dynamite_building_coal_mine"]
 tags: [ваниль, метод-производства]

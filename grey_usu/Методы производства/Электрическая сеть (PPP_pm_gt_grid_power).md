@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Электрическая сеть (PPP_pm_gt_grid_power)» — grey USU 1.13, `PPP_pm_gt_grid_power`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Электрическая сеть (PPP_pm_gt_grid_power)", "Electrical Grid", "PPP_pm_gt_grid_power"]
 tags: [grey_usu, метод-производства]

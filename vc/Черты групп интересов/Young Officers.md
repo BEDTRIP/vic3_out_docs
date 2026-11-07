@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Young Officers» — VC 1.13, `ig_trait_genc_subaylar`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Young Officers", "ig_trait_genc_subaylar"]
 tags: [VC, черта-группы-интересов]

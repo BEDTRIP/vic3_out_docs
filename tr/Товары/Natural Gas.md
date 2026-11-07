@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Natural Gas» — T&R 1.13, `gas`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Natural Gas", "gas"]
 tags: [tr, товар]

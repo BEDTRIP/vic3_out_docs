@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Shanghai Sharebrokers' Association» — E&F 1.13, `building_financial_centre_chi`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Shanghai Sharebrokers' Association", "building_financial_centre_chi"]
 tags: [ef, здание]

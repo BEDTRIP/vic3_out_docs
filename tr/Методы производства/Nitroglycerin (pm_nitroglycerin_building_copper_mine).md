@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nitroglycerin (pm_nitroglycerin_building_copper_mine)» — T&R 1.13, `pm_nitroglycerin_building_copper_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nitroglycerin (pm_nitroglycerin_building_copper_mine)", "Nitroglycerin", "pm_nitroglycerin_building_copper_mine"]
 tags: [tr, метод-производства]

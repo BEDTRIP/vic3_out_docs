@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Mining Stock» — E&F 1.13, `mining_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Mining Stock", "mining_stock"]
 tags: [ef, товар]

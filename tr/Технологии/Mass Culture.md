@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Mass Culture» — T&R 1.13, `elgar_mass_culture_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mass Culture", "elgar_mass_culture_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Ethylene» — T&R 1.13, `polyethylene`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ethylene", "polyethylene"]
 tags: [tr, технология]

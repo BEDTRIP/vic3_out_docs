@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Empire of Liberty» — Hail Columbia 1.13, `ideology_empire_of_liberty`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Empire of Liberty", "ideology_empire_of_liberty"]
 tags: [hail_columbia, идеология]

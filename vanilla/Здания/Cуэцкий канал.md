@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Cуэцкий канал» — ваниль 1.13, `building_suez_canal`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Cуэцкий канал", "Suez Canal", "building_suez_canal"]
 tags: [ваниль, здание]

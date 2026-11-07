@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Computer Teleprinters» — T&R 1.13, `pm_computer_teleprinters`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Computer Teleprinters", "pm_computer_teleprinters"]
 tags: [tr, метод-производства]

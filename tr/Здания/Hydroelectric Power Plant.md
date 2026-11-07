@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Hydroelectric Power Plant» — T&R 1.13, `building_hydroelectric_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydroelectric Power Plant", "building_hydroelectric_power_plant"]
 tags: [tr, здание]

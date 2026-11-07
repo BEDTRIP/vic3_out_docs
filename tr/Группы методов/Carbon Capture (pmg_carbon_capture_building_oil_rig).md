@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Carbon Capture (pmg_carbon_capture_building_oil_rig)» — T&R 1.13, `pmg_carbon_capture_building_oil_rig`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Carbon Capture (pmg_carbon_capture_building_oil_rig)", "Carbon Capture", "pmg_carbon_capture_building_oil_rig"]
 tags: [tr, группа-методов]

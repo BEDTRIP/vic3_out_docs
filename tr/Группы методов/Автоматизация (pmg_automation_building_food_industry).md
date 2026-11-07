@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Автоматизация (pmg_automation_building_food_industry)» — T&R 1.13, `pmg_automation_building_food_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Автоматизация (pmg_automation_building_food_industry)", "Automation", "pmg_automation_building_food_industry"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Пакет покупок «wealth_74» — E&F 1.13, `wealth_74`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["wealth_74"]
 tags: [ef, пакет-покупок]

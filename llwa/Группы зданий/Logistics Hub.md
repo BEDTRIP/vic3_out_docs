@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Logistics Hub» — LLWA 1.13, `LLWA_bg_logihub`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Logistics Hub", "LLWA_bg_logihub"]
 tags: [LLWA, группа-зданий]

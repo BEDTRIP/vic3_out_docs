@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned)» — grey USU 1.13, `pm_company_headquarter_privately_owned`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Частная собственность (pm_company_headquarter_privately_owned)", "Частная собственность", "pm_company_headquarter_privately_owned"]
 tags: [grey_usu, метод-производства]

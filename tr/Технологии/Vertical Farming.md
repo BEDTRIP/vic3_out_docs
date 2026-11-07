@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Vertical Farming» — T&R 1.13, `vertical_farming`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vertical Farming", "vertical_farming"]
 tags: [tr, технология]

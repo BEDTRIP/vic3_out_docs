@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rocket Artillery» — T&R 1.13, `pm_mobile_artillery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rocket Artillery", "pm_mobile_artillery"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Gas Steam Derrick» — T&R 1.13, `pm_gas_steam_derricks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gas Steam Derrick", "pm_gas_steam_derricks"]
 tags: [tr, метод-производства]

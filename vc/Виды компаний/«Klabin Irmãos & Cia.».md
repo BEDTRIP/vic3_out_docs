@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Klabin Irmãos & Cia.»» — VC 1.13, `company_kablin`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Klabin Irmãos & Cia.»", "Klabin Irmãos & Cia", "company_kablin"]
 tags: [VC, вид-компании]

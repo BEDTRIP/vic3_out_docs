@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Condensing Engine Pump (pm_condensing_engine_pump_building_copper_mine)» — T&R 1.13, `pm_condensing_engine_pump_building_copper_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Condensing Engine Pump (pm_condensing_engine_pump_building_copper_mine)", "Condensing Engine Pump", "pm_condensing_engine_pump_building_copper_mine"]
 tags: [tr, метод-производства]

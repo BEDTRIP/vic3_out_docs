@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Software» — T&R 1.13, `softwares`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Software", "softwares"]
 tags: [tr, товар]

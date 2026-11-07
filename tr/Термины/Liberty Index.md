@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Liberty Index» — подсказка-понятие Victoria 3 1.13 (`concept_liberty_index`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Liberty Index", "concept_liberty_index"]
 tags: [tr, термин]

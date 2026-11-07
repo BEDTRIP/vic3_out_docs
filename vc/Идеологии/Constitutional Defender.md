@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Constitutional Defender» — VC 1.13, `ideology_united_states_constitution`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Constitutional Defender", "ideology_united_states_constitution"]
 tags: [VC, идеология]

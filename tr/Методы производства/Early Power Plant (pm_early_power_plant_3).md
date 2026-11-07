@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Early Power Plant (pm_early_power_plant_3)» — T&R 1.13, `pm_early_power_plant_3`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Early Power Plant (pm_early_power_plant_3)", "Early Power Plant", "pm_early_power_plant_3"]
 tags: [tr, метод-производства]

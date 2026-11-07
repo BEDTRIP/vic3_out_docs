@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Palaiá Anáktora» — Gates of Bosphorus 1.13, `gbbf_building_palaia_anaktora`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Palaiá Anáktora", "gbbf_building_palaia_anaktora"]
 tags: [gates_of_bosphorus, здание]

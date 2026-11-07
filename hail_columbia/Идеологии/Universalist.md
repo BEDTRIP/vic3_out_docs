@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Universalist» — Hail Columbia 1.13, `ideology_usfp_universalist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Universalist", "ideology_usfp_universalist"]
 tags: [hail_columbia, идеология]

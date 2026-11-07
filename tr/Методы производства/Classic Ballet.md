@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Classic Ballet» — T&R 1.13, `pm_elgar_classic_ballet`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Classic Ballet", "pm_elgar_classic_ballet"]
 tags: [tr, метод-производства]

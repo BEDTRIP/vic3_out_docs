@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Land of Chimneys» — VC 1.13, `ig_trait_land_of_chimneys`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Land of Chimneys", "ig_trait_land_of_chimneys"]
 tags: [VC, черта-группы-интересов]

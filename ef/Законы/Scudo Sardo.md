@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Scudo Sardo» — E&F 1.13, `law_lira_scudo_sardo_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Scudo Sardo", "law_lira_scudo_sardo_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Alkaline Battery» — T&R 1.13, `pm_alkaline_battery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alkaline Battery", "pm_alkaline_battery"]
 tags: [tr, метод-производства]

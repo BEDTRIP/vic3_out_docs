@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Basic Enviroment Protection» — T&R 1.13, `law_basic_protection`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Enviroment Protection", "law_basic_protection"]
 tags: [tr, закон]

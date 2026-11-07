@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Société Générale» — E&F 1.13, `company_SocieteGenerale`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Société Générale", "company_SocieteGenerale"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Tetsudo_sho» — grey USU 1.13, `company_Tetsudo_sho`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Tetsudo_sho"]
 tags: [grey_usu, вид-компании]

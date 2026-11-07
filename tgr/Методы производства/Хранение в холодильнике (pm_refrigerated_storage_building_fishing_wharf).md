@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)» — TGR 1.13, `pm_refrigerated_storage_building_fishing_wharf`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)", "Railway Storage", "pm_refrigerated_storage_building_fishing_wharf"]
 tags: [TGR, метод-производства]

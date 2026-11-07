@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Inditex» — T&R 1.13, `company_inditex`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Inditex", "company_inditex"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Schneider et Cie»» — VC 1.13, `company_schneider_creusot`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Schneider et Cie»", "Schneider et Cie", "company_schneider_creusot"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Плюрализм (ideology_pluralist_movement_1)» — ваниль 1.13, `ideology_pluralist_movement_1`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Плюрализм (ideology_pluralist_movement_1)", "Pluralist", "ideology_pluralist_movement_1"]
 tags: [ваниль, идеология]

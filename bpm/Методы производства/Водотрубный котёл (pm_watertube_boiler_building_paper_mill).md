@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Водотрубный котёл (pm_watertube_boiler_building_paper_mill)» — BPM 1.13, `pm_watertube_boiler_building_paper_mill`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Водотрубный котёл (pm_watertube_boiler_building_paper_mill)", "Water-tube Boiler", "pm_watertube_boiler_building_paper_mill"]
 tags: [BPM, метод-производства]

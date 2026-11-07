@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «HD TV» — T&R 1.13, `pm_hd_televisions`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HD TV", "pm_hd_televisions"]
 tags: [tr, метод-производства]

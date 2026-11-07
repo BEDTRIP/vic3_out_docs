@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rotary Press» — T&R 1.13, `manzoni_pm_rotary_presses`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rotary Press", "manzoni_pm_rotary_presses"]
 tags: [tr, метод-производства]

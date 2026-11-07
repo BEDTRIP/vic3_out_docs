@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Construction Regulators» — PSC 1.13, `bg_construction_regulator`"
 project: vic3
+audience: agent
 source: psc
 aliases: ["Construction Regulators", "bg_construction_regulator"]
 tags: [PSC, группа-зданий]

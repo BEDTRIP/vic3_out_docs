@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Перевозка по рельсам (pm_rail_transport_building_oil_rig)» — T&R 1.13, `pm_rail_transport_building_oil_rig`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Перевозка по рельсам (pm_rail_transport_building_oil_rig)", "Перевозка по рельсам", "pm_rail_transport_building_oil_rig"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «ICBMs» — T&R 1.13, `icbms`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["ICBMs", "icbms"]
 tags: [tr, технология]

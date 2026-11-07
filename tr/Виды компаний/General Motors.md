@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «General Motors» — T&R 1.13, `company_general_motors`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["General Motors", "company_general_motors"]
 tags: [tr, вид-компании]

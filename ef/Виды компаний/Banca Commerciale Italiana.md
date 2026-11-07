@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banca Commerciale Italiana» — E&F 1.13, `company_BancaCommercialeItaliana`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banca Commerciale Italiana", "company_BancaCommercialeItaliana"]
 tags: [ef, вид-компании]

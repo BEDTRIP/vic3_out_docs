@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Takeda Pharmaceuticals» — T&R 1.13, `company_takeda_pharmaceutical`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Takeda Pharmaceuticals", "company_takeda_pharmaceutical"]
 tags: [tr, вид-компании]

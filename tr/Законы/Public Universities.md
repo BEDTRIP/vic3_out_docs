@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Public Universities» — T&R 1.13, `law_public_universities`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Public Universities", "law_public_universities"]
 tags: [tr, закон]

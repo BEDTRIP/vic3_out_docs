@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_paternalistic_conservative» — VC 1.13, `ideology_paternalistic_conservative`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["ideology_paternalistic_conservative"]
 tags: [VC, идеология]

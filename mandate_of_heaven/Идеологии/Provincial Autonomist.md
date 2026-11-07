@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Provincial Autonomist» — Mandate of Heaven 1.13, `ideology_moh_zgp`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Provincial Autonomist", "ideology_moh_zgp"]
 tags: [mandate_of_heaven, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «UHV Distribution» — T&R 1.13, `pm_uhv_grid_download`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["UHV Distribution", "pm_uhv_grid_download"]
 tags: [tr, метод-производства]

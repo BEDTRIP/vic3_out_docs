@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Costa Rican Colon» — E&F 1.13, `law_peso_costa_rican_colon_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Costa Rican Colon", "law_peso_costa_rican_colon_currency"]
 tags: [ef, закон]

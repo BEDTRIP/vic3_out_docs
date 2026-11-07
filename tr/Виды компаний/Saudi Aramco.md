@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Saudi Aramco» — T&R 1.13, `company_saudi_aramco`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Saudi Aramco", "company_saudi_aramco"]
 tags: [tr, вид-компании]

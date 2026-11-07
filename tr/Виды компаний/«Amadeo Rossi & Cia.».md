@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Amadeo Rossi & Cia.»» — T&R 1.13, `company_rossi`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Amadeo Rossi & Cia.»", "Amadeo Rossi & Cia", "company_rossi"]
 tags: [tr, вид-компании]

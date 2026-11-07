@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — ваниль 1.13, `company_fcm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Forges et Chantiers de la Méditerranée»", "Forges et Chantiers de la Méditerranée", "company_fcm"]
 tags: [ваниль, вид-компании]

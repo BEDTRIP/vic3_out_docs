@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Royal Society» — VC 1.13, `ig_trait_frs`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Royal Society", "ig_trait_frs"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «CD Projekt» — T&R 1.13, `company_cd_projekt`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CD Projekt", "company_cd_projekt"]
 tags: [tr, вид-компании]

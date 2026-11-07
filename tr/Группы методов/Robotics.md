@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Robotics» — T&R 1.13, `pmg_base_building_robotics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Robotics", "pmg_base_building_robotics"]
 tags: [tr, группа-методов]

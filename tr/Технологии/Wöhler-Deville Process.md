@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Wöhler-Deville Process» — T&R 1.13, `bauxite_processing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wöhler-Deville Process", "bauxite_processing"]
 tags: [tr, технология]

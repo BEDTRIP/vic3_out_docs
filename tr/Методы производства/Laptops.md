@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Laptops» — T&R 1.13, `pm_laptops`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Laptops", "pm_laptops"]
 tags: [tr, метод-производства]

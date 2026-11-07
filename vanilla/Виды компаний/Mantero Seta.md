@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mantero Seta» — ваниль 1.13, `company_mantero_seta`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Mantero Seta", "company_mantero_seta"]
 tags: [ваниль, вид-компании]

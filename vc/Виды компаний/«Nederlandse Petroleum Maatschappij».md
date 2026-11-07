@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — VC 1.13, `company_nederlandse_petroleum`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Nederlandse Petroleum Maatschappij»", "Nederlandse Petroleum Maatschappij", "company_nederlandse_petroleum"]
 tags: [VC, вид-компании]

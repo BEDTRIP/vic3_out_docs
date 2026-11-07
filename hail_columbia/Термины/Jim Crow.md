@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Jim Crow» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_jim_crow`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Jim Crow", "concept_usfp_jim_crow"]
 tags: [hail_columbia, термин]

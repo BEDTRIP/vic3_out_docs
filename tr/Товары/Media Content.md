@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Media Content» — T&R 1.13, `manzoni_prints`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Media Content", "manzoni_prints"]
 tags: [tr, товар]

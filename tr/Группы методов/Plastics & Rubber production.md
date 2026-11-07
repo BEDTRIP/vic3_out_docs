@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Plastics & Rubber production» — T&R 1.13, `pmg_plastics_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Plastics & Rubber production", "pmg_plastics_production"]
 tags: [tr, группа-методов]

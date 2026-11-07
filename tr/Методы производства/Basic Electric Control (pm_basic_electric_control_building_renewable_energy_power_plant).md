@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Electric Control (pm_basic_electric_control_building_renewable_energy_power_plant)» — T&R 1.13, `pm_basic_electric_control_building_renewable_energy_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Electric Control (pm_basic_electric_control_building_renewable_energy_power_plant)", "Basic Electric Control", "pm_basic_electric_control_building_renewable_energy_power_plant"]
 tags: [tr, метод-производства]

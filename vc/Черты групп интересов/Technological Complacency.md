@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Technological Complacency» — VC 1.13, `ig_trait_technological_laziness`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Technological Complacency", "ig_trait_technological_laziness"]
 tags: [VC, черта-группы-интересов]

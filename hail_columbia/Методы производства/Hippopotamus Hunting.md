@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hippopotamus Hunting» — Hail Columbia 1.13, `usfp_pm_hippo_hunting`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Hippopotamus Hunting", "usfp_pm_hippo_hunting"]
 tags: [hail_columbia, метод-производства]

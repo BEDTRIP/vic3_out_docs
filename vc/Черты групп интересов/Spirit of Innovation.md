@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Spirit of Innovation» — VC 1.13, `ig_trait_innovative_spirit`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Spirit of Innovation", "ig_trait_innovative_spirit"]
 tags: [VC, черта-группы-интересов]

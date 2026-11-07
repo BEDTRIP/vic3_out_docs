@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Enhanced Cracking Distillation» — T&R 1.13, `enhanced_cracking_distillation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Enhanced Cracking Distillation", "enhanced_cracking_distillation"]
 tags: [tr, технология]

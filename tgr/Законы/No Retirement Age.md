@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Retirement Age» — TGR 1.13, `law_no_retirement_age`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Retirement Age", "law_no_retirement_age"]
 tags: [TGR, закон]

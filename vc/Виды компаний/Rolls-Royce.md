@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Rolls-Royce» — VC 1.13, `company_rolls_royce`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Rolls-Royce", "company_rolls_royce"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bolsa de Valores de Montevideo» — E&F 1.13, `building_financial_centre_uru`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bolsa de Valores de Montevideo", "building_financial_centre_uru"]
 tags: [ef, здание]

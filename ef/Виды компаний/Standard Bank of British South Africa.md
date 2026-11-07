@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Standard Bank of British South Africa» — E&F 1.13, `company_BankSBoBSA`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Standard Bank of British South Africa", "company_BankSBoBSA"]
 tags: [ef, вид-компании]

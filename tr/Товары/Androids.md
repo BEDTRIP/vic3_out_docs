@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Androids» — T&R 1.13, `androids`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Androids", "androids"]
 tags: [tr, товар]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «National Power Grid» — T&R 1.13, `national_power_grid`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["National Power Grid", "national_power_grid"]
 tags: [tr, технология]

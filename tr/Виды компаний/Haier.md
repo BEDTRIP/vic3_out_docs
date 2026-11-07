@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Haier» — T&R 1.13, `company_haier`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Haier", "company_haier"]
 tags: [tr, вид-компании]

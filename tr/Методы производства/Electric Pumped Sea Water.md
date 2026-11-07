@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Pumped Sea Water» — T&R 1.13, `pm_electric_pumped_desalinated_water`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Pumped Sea Water", "pm_electric_pumped_desalinated_water"]
 tags: [tr, метод-производства]

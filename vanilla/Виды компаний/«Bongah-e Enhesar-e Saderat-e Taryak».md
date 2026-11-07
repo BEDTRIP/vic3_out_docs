@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Bongah-e Enhesar-e Saderat-e Taryak»» — ваниль 1.13, `company_opium_export_monopoly`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Bongah-e Enhesar-e Saderat-e Taryak»", "Bongah-e Enhesar-e Saderat-e Taryak", "company_opium_export_monopoly"]
 tags: [ваниль, вид-компании]

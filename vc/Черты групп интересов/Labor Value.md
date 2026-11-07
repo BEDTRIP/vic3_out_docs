@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Labor Value» — VC 1.13, `ig_trait_labor_value`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Labor Value", "ig_trait_labor_value"]
 tags: [VC, черта-группы-интересов]

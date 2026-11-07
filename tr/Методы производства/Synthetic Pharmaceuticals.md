@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Synthetic Pharmaceuticals» — T&R 1.13, `pm_synthetic_pharmaceuticals`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Pharmaceuticals", "pm_synthetic_pharmaceuticals"]
 tags: [tr, метод-производства]

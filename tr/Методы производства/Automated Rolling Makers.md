@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Automated Rolling Makers» — T&R 1.13, `pm_automated_cigarette_makers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automated Rolling Makers", "pm_automated_cigarette_makers"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Breeding» — T&R 1.13, `pm_no_selective_breeding`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Breeding", "pm_no_selective_breeding"]
 tags: [tr, метод-производства]

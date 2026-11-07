@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Automation (pmg_automation_building_commonalloys_plant)» — T&R 1.13, `pmg_automation_building_commonalloys_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automation (pmg_automation_building_commonalloys_plant)", "Automation", "pmg_automation_building_commonalloys_plant"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Expansionist Zeal» — VC 1.13, `ig_trait_war_frenzy`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Expansionist Zeal", "ig_trait_war_frenzy"]
 tags: [VC, черта-группы-интересов]

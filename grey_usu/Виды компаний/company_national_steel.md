@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_national_steel» — grey USU 1.13, `company_national_steel`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_national_steel"]
 tags: [grey_usu, вид-компании]

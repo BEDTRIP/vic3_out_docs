@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Bimetallic Ratio 101» — E&F 1.13, `law_bimetallic_ratio_10`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bimetallic Ratio 101", "law_bimetallic_ratio_10"]
 tags: [ef, закон]

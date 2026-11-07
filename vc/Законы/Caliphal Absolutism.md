@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Caliphal Absolutism» — VC 1.13, `law_sublime_porte_absolutism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Caliphal Absolutism", "law_sublime_porte_absolutism"]
 tags: [VC, закон]

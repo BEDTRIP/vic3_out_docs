@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Sovereignist» — VC 1.13, `ideology_indian_farmer_sovereignist`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Sovereignist", "ideology_indian_farmer_sovereignist"]
 tags: [VC, идеология]

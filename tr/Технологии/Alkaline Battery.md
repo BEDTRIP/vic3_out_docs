@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Alkaline Battery» — T&R 1.13, `alkaline_battery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alkaline Battery", "alkaline_battery"]
 tags: [tr, технология]

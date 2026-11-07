@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Кайзерфорум (building_kaiserforum_4)» — ваниль 1.13, `building_kaiserforum_4`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Кайзерфорум (building_kaiserforum_4)", "Kaiserforum", "building_kaiserforum_4"]
 tags: [ваниль, здание]

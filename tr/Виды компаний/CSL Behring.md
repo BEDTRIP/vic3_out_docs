@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «CSL Behring» — T&R 1.13, `company_csl`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CSL Behring", "company_csl"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Kogalnitchanist» — Gates of Bosphorus 1.13, `ideology_gbbf_kogalnitchanism`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Kogalnitchanist", "ideology_gbbf_kogalnitchanism"]
 tags: [gates_of_bosphorus, идеология]

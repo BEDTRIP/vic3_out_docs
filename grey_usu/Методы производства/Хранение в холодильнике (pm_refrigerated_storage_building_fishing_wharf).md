@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)» — grey USU 1.13, `pm_refrigerated_storage_building_fishing_wharf`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)", "Refrigerated Storage", "pm_refrigerated_storage_building_fishing_wharf"]
 tags: [grey_usu, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_cristo_redentor)» — ваниль 1.13, `pmg_base_building_cristo_redentor`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_cristo_redentor)", "Основа", "pmg_base_building_cristo_redentor"]
 tags: [ваниль, группа-методов]

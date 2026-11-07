@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Foreign Debt Investment» — подсказка-понятие Victoria 3 1.13 (`concept_purchase_of_bond_debt`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Foreign Debt Investment", "concept_purchase_of_bond_debt"]
 tags: [ef, термин]

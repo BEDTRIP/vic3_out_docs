@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «10-hour Work Days» — TGR 1.13, `law_limited_work_hours`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["10-hour Work Days", "law_limited_work_hours"]
 tags: [TGR, закон]

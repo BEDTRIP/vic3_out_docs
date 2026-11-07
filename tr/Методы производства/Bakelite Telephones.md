@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Bakelite Telephones» — T&R 1.13, `pm_bakelite_telephones`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bakelite Telephones", "pm_bakelite_telephones"]
 tags: [tr, метод-производства]

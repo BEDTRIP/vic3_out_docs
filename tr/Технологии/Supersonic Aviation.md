@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Supersonic Aviation» — T&R 1.13, `supersonic_aviation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Supersonic Aviation", "supersonic_aviation"]
 tags: [tr, технология]

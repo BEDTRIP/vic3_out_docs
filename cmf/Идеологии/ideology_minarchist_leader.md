@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_minarchist_leader» — CMF 1.13, `ideology_minarchist_leader`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["ideology_minarchist_leader"]
 tags: [CMF, идеология]

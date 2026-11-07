@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «House of Representatives» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_house_of_representatives`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["House of Representatives", "concept_usfp_house_of_representatives"]
 tags: [hail_columbia, термин]

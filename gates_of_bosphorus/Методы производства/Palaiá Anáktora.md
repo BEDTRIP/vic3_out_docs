@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Palaiá Anáktora» — Gates of Bosphorus 1.13, `pm_gbbf_palaia_anaktora`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Palaiá Anáktora", "pm_gbbf_palaia_anaktora"]
 tags: [gates_of_bosphorus, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Devaluation» — E&F 1.13, `law_devaluation`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Devaluation", "law_devaluation"]
 tags: [ef, закон]

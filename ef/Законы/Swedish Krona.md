@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Swedish Krona» — E&F 1.13, `law_krone_swedish_krona_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Swedish Krona", "law_krone_swedish_krona_currency"]
 tags: [ef, закон]

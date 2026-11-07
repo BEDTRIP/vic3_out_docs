@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque Impériale Ottomane» — E&F 1.13, `company_BanqueImperialeOttomane`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque Impériale Ottomane", "company_BanqueImperialeOttomane"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Deutsche Luftreederei» — Morgenröte 1.13, `curtiss_company_DLR`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Deutsche Luftreederei", "curtiss_company_DLR"]
 tags: [Morgenröte, вид-компании]

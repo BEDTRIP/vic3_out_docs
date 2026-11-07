@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Telephone Lines» — LLWA 1.13, `LLWA_pm_telephones`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Telephone Lines", "LLWA_pm_telephones"]
 tags: [LLWA, метод-производства]

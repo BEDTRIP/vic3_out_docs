@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_slavery_building_subsistence_pasture» — grey USU 1.13, `pm_slavery_building_subsistence_pasture`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_slavery_building_subsistence_pasture"]
 tags: [grey_usu, метод-производства]

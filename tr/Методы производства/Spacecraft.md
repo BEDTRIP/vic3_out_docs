@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Spacecraft» — T&R 1.13, `pm_rocket_spacecraft`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Spacecraft", "pm_rocket_spacecraft"]
 tags: [tr, метод-производства]

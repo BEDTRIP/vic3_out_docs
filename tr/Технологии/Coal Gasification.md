@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Coal Gasification» — T&R 1.13, `coal_gasification`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Coal Gasification", "coal_gasification"]
 tags: [tr, технология]

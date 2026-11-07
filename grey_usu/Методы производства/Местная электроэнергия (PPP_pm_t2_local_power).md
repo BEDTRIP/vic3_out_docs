@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Местная электроэнергия (PPP_pm_t2_local_power)» — grey USU 1.13, `PPP_pm_t2_local_power`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Местная электроэнергия (PPP_pm_t2_local_power)", "Local Electricity", "PPP_pm_t2_local_power"]
 tags: [grey_usu, метод-производства]

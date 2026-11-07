@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Анархо-синдикалист (ideology_anarchist_syndicalist)» — BPM 1.13, `ideology_anarchist_syndicalist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Анархо-синдикалист (ideology_anarchist_syndicalist)", "Anarcho-Syndicalist", "ideology_anarchist_syndicalist"]
 tags: [BPM, идеология]

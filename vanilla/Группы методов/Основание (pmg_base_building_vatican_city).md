@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основание (pmg_base_building_vatican_city)» — ваниль 1.13, `pmg_base_building_vatican_city`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основание (pmg_base_building_vatican_city)", "Base", "pmg_base_building_vatican_city"]
 tags: [ваниль, группа-методов]

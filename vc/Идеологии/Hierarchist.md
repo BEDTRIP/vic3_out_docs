@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Hierarchist» — VC 1.13, `ideology_british_hierarchic`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Hierarchist", "ideology_british_hierarchic"]
 tags: [VC, идеология]

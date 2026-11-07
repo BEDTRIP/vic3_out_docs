@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Market Liquidity» — E&F 1.13, `pm_no_market_liquidity`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No Market Liquidity", "pm_no_market_liquidity"]
 tags: [ef, метод-производства]

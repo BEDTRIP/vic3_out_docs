@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Gates of Bosphorus «Involvement» — подсказка-понятие Victoria 3 1.13 (`concept_balkan_situation_involvement`)"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Involvement", "concept_balkan_situation_involvement"]
 tags: [gates_of_bosphorus, термин]

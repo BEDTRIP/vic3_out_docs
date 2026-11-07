@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Common Ores» — T&R 1.13, `commonores`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Common Ores", "commonores"]
 tags: [tr, товар]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Феминизм (ideology_feminist)» — ваниль 1.13, `ideology_feminist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Феминизм (ideology_feminist)", "Feminist", "ideology_feminist"]
 tags: [ваниль, идеология]

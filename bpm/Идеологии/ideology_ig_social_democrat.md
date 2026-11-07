@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_ig_social_democrat» — BPM 1.13, `ideology_ig_social_democrat`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["ideology_ig_social_democrat"]
 tags: [BPM, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bank» — E&F 1.13, `company_BasicBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bank", "company_BasicBank"]
 tags: [ef, вид-компании]

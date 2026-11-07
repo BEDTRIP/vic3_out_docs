@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Mining Investments» — TGR 1.13, `economic_incentives_extracting_mining`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Mining Investments", "economic_incentives_extracting_mining"]
 tags: [TGR, закон]

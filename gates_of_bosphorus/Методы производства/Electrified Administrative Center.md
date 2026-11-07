@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electrified Administrative Center» — Gates of Bosphorus 1.13, `pm_gbbf_dolmabahce_palace_upgraded`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Electrified Administrative Center", "pm_gbbf_dolmabahce_palace_upgraded"]
 tags: [gates_of_bosphorus, метод-производства]

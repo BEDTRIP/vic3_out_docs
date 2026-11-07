@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mobile Apps» — T&R 1.13, `pm_mobile_based_building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mobile Apps", "pm_mobile_based_building_software_industry"]
 tags: [tr, метод-производства]

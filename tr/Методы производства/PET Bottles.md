@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «PET Bottles» — T&R 1.13, `pm_plastics_pipes_and_pet`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["PET Bottles", "pm_plastics_pipes_and_pet"]
 tags: [tr, метод-производства]

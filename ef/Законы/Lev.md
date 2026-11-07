@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Lev» — E&F 1.13, `law_leon_lev_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Lev", "law_leon_lev_currency"]
 tags: [ef, закон]

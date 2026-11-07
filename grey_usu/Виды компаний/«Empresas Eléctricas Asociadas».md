@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Empresas Eléctricas Asociadas»» — grey USU 1.13, `company_eea`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Empresas Eléctricas Asociadas»", "Empresas Eléctricas Asociadas", "company_eea"]
 tags: [grey_usu, вид-компании]

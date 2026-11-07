@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Geothermal Energy» — T&R 1.13, `geothermal_energy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Geothermal Energy", "geothermal_energy"]
 tags: [tr, технология]

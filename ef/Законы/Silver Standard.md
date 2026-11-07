@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Silver Standard» — E&F 1.13, `law_silver_standard`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Silver Standard", "law_silver_standard"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «AI Systems» — T&R 1.13, `ai_systems`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AI Systems", "ai_systems"]
 tags: [tr, товар]

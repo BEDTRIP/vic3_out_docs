@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Financial Centre» — E&F 1.13, `building_financial_centre`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Financial Centre", "building_financial_centre"]
 tags: [ef, здание]

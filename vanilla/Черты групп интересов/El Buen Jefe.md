@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «El Buen Jefe» — ваниль 1.13, `ig_trait_el_buen_jefe`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["El Buen Jefe", "ig_trait_el_buen_jefe"]
 tags: [ваниль, черта-группы-интересов]

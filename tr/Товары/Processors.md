@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Processors» — T&R 1.13, `processors`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Processors", "processors"]
 tags: [tr, товар]

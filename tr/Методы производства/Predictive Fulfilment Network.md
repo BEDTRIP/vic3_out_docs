@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Predictive Fulfilment Network» — T&R 1.13, `pm_predictive_fulfilment_network`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Predictive Fulfilment Network", "pm_predictive_fulfilment_network"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Smartphones» — T&R 1.13, `smartphones`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smartphones", "smartphones"]
 tags: [tr, технология]

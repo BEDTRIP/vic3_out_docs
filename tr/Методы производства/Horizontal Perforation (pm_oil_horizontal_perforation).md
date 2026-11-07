@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Horizontal Perforation (pm_oil_horizontal_perforation)» — T&R 1.13, `pm_oil_horizontal_perforation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Horizontal Perforation (pm_oil_horizontal_perforation)", "Horizontal Perforation", "pm_oil_horizontal_perforation"]
 tags: [tr, метод-производства]

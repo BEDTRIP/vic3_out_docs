@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2)» — E&F 1.13, `pm_company_headquarter_principle_divine_economics_2`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2)", "Увеличенный надзор духовенства", "pm_company_headquarter_principle_divine_economics_2"]
 tags: [ef, метод-производства]

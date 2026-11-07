@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «National TV» — T&R 1.13, `government_broadcasting`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["National TV", "government_broadcasting"]
 tags: [tr, технология]

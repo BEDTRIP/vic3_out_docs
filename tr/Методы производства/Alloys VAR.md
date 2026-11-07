@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Alloys VAR» — T&R 1.13, `pm_vacuum_arc_remelting`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alloys VAR", "pm_vacuum_arc_remelting"]
 tags: [tr, метод-производства]

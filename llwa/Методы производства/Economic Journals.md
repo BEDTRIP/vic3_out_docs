@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Economic Journals» — LLWA 1.13, `LLWA_pm_econ_journals`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Economic Journals", "LLWA_pm_econ_journals"]
 tags: [LLWA, метод-производства]

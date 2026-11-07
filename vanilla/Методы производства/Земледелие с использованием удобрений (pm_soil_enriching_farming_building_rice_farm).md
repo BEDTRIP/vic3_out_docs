@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Земледелие с использованием удобрений (pm_soil_enriching_farming_building_rice_farm)» — ваниль 1.13, `pm_soil_enriching_farming_building_rice_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Земледелие с использованием удобрений (pm_soil_enriching_farming_building_rice_farm)", "Soil-Enriching Farming", "pm_soil_enriching_farming_building_rice_farm"]
 tags: [ваниль, метод-производства]

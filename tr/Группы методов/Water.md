@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Water» — T&R 1.13, `pmg_base_building_water`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Water", "pmg_base_building_water"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Personal Computers» — T&R 1.13, `pm_personal_computers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Personal Computers", "pm_personal_computers"]
 tags: [tr, метод-производства]

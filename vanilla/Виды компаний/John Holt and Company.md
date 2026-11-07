@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «John Holt and Company» — ваниль 1.13, `company_john_holt`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["John Holt and Company", "company_john_holt"]
 tags: [ваниль, вид-компании]

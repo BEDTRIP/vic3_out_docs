@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Refining» — T&R 1.13, `pm_advanced_purification_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Refining", "pm_advanced_purification_mine"]
 tags: [tr, метод-производства]

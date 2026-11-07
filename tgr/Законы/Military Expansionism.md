@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Military Expansionism» — TGR 1.13, `foreign_policy_military_expansionism`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Military Expansionism", "foreign_policy_military_expansionism"]
 tags: [TGR, закон]

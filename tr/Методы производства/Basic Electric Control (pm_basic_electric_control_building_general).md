@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Electric Control (pm_basic_electric_control_building_general)» — T&R 1.13, `pm_basic_electric_control_building_general`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Electric Control (pm_basic_electric_control_building_general)", "Basic Electric Control", "pm_basic_electric_control_building_general"]
 tags: [tr, метод-производства]

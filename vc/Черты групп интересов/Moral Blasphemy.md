@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Moral Blasphemy» — VC 1.13, `ig_trait_moral_blasphemy`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Moral Blasphemy", "ig_trait_moral_blasphemy"]
 tags: [VC, черта-группы-интересов]

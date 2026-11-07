@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Evolution of the currency value» — подсказка-понятие Victoria 3 1.13 (`concept_evolution_of_the_currency_value`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Evolution of the currency value", "concept_evolution_of_the_currency_value"]
 tags: [ef, термин]

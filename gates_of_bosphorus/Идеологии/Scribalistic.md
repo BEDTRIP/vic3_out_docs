@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Scribalistic» — Gates of Bosphorus 1.13, `ideology_gbbf_scribalist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Scribalistic", "ideology_gbbf_scribalist"]
 tags: [gates_of_bosphorus, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Solar Panels» — T&R 1.13, `pm_solar_panels`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Solar Panels", "pm_solar_panels"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Advanced Water Depuration» — T&R 1.13, `advanced_water_filtration`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Water Depuration", "advanced_water_filtration"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Jazz & Blues» — T&R 1.13, `jazz_blues`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Jazz & Blues", "jazz_blues"]
 tags: [tr, технология]

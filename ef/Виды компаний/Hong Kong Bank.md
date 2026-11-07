@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Hong Kong Bank» — E&F 1.13, `company_BankHSBC`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Hong Kong Bank", "company_BankHSBC"]
 tags: [ef, вид-компании]

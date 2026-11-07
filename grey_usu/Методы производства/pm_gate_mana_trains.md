@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_gate_mana_trains» — grey USU 1.13, `pm_gate_mana_trains`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_gate_mana_trains"]
 tags: [grey_usu, метод-производства]

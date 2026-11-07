@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Telecommunications» — T&R 1.13, `pmg_base_building_telecommunications`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Telecommunications", "pmg_base_building_telecommunications"]
 tags: [tr, группа-методов]

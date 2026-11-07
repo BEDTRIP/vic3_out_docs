@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «bg_opera» — T&R 1.13, `bg_opera`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["bg_opera"]
 tags: [tr, группа-зданий]

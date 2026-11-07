@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Pro-Workers Regulations» — TGR 1.13, `law_salary_national_contract`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Pro-Workers Regulations", "law_salary_national_contract"]
 tags: [TGR, закон]

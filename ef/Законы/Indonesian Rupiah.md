@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Indonesian Rupiah» — E&F 1.13, `law_rupee_indonesian_rupiah_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Indonesian Rupiah", "law_rupee_indonesian_rupiah_currency"]
 tags: [ef, закон]

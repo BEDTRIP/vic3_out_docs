@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Lilpop, Rau i Loewenstein»» — ваниль 1.13, `company_lilpop`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Lilpop, Rau i Loewenstein»", "Lilpop, Rau i Loewenstein", "company_lilpop"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Bunmei Kaika (Civilization and Enlightenment)» — VC 1.13, `ig_trait_bunmei_kaika`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Bunmei Kaika (Civilization and Enlightenment)", "ig_trait_bunmei_kaika"]
 tags: [VC, черта-группы-интересов]

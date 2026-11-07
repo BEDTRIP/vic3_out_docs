@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rudimental Refining» — T&R 1.13, `pm_basic_purification_rare_earths_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rudimental Refining", "pm_basic_purification_rare_earths_mine"]
 tags: [tr, метод-производства]

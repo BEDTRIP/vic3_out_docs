@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Laissez-faire (ideology_bpm_movement_laissez_faire)» — BPM 1.13, `ideology_bpm_movement_laissez_faire`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Laissez-faire (ideology_bpm_movement_laissez_faire)", "Laissez-faire", "ideology_bpm_movement_laissez_faire"]
 tags: [BPM, идеология]

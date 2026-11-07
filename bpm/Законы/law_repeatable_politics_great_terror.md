@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «law_repeatable_politics_great_terror» — BPM 1.13, `law_repeatable_politics_great_terror`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["law_repeatable_politics_great_terror"]
 tags: [BPM, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «NVIDIA» — T&R 1.13, `company_nvidia`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["NVIDIA", "company_nvidia"]
 tags: [tr, вид-компании]

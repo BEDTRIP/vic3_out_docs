@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Dong» — E&F 1.13, `law_spe_dong_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Dong", "law_spe_dong_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Вторичный (pmg_secondary_building_maize_farm)» — ваниль 1.13, `pmg_secondary_building_maize_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Вторичный (pmg_secondary_building_maize_farm)", "Secondary", "pmg_secondary_building_maize_farm"]
 tags: [ваниль, группа-методов]

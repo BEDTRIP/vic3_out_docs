@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Sierra Leonean Dollar» — E&F 1.13, `law_dollar_sierra_leonean_dollar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Sierra Leonean Dollar", "law_dollar_sierra_leonean_dollar_currency"]
 tags: [ef, закон]

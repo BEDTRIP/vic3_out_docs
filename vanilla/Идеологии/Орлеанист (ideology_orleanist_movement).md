@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Орлеанист (ideology_orleanist_movement)» — ваниль 1.13, `ideology_orleanist_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Орлеанист (ideology_orleanist_movement)", "Орлеанист", "ideology_orleanist_movement"]
 tags: [ваниль, идеология]

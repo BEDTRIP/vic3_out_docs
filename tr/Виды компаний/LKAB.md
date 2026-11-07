@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «LKAB» — T&R 1.13, `company_lkab`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["LKAB", "company_lkab"]
 tags: [tr, вид-компании]

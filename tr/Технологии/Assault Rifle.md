@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Assault Rifle» — T&R 1.13, `assault_rifles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Assault Rifle", "assault_rifles"]
 tags: [tr, технология]

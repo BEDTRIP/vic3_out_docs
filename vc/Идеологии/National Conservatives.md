@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «National Conservatives» — VC 1.13, `ideology_national_conservatism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["National Conservatives", "ideology_national_conservatism"]
 tags: [VC, идеология]

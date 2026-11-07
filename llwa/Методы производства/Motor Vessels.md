@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Motor Vessels» — LLWA 1.13, `LLWA_pm_motor_vessels`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Motor Vessels", "LLWA_pm_motor_vessels"]
 tags: [LLWA, метод-производства]

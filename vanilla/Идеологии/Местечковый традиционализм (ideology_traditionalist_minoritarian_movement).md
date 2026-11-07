@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Местечковый традиционализм (ideology_traditionalist_minoritarian_movement)» — ваниль 1.13, `ideology_traditionalist_minoritarian_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Местечковый традиционализм (ideology_traditionalist_minoritarian_movement)", "Местечковый традиционализм", "ideology_traditionalist_minoritarian_movement"]
 tags: [ваниль, идеология]

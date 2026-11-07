@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Fur Trapping» — Hail Columbia 1.13, `bg_usfp_fur_trapping`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Fur Trapping", "bg_usfp_fur_trapping"]
 tags: [hail_columbia, группа-зданий]

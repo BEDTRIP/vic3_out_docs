@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Laser-Guided Weapons» — T&R 1.13, `laser_guided_weapons`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Laser-Guided Weapons", "laser_guided_weapons"]
 tags: [tr, технология]

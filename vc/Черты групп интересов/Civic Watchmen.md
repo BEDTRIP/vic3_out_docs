@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Civic Watchmen» — VC 1.13, `ig_trait_civic_watchmen`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Civic Watchmen", "ig_trait_civic_watchmen"]
 tags: [VC, черта-группы-интересов]

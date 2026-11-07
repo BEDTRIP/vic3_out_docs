@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Роялизм (ideology_royalist)» — ваниль 1.13, `ideology_royalist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Роялизм (ideology_royalist)", "Royalist", "ideology_royalist"]
 tags: [ваниль, идеология]

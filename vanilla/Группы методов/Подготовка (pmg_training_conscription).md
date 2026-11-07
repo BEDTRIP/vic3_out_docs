@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Подготовка (pmg_training_conscription)» — ваниль 1.13, `pmg_training_conscription`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Подготовка (pmg_training_conscription)", "Подготовка", "pmg_training_conscription"]
 tags: [ваниль, группа-методов]

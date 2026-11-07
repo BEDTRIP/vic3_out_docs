@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Yamaha» — T&R 1.13, `company_yamaha`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Yamaha", "company_yamaha"]
 tags: [tr, вид-компании]

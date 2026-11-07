@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Specific Focus» — TGR 1.13, `foreign_policy_no_focus`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Specific Focus", "foreign_policy_no_focus"]
 tags: [TGR, закон]

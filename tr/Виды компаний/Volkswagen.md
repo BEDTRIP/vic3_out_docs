@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Volkswagen» — T&R 1.13, `company_volkswagen`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Volkswagen", "company_volkswagen"]
 tags: [tr, вид-компании]

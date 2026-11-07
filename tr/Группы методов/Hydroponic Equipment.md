@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Hydroponic Equipment» — T&R 1.13, `pmg_base_building_hydroponic_type`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydroponic Equipment", "pmg_base_building_hydroponic_type"]
 tags: [tr, группа-методов]

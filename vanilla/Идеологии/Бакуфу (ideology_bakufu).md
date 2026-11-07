@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Бакуфу (ideology_bakufu)» — ваниль 1.13, `ideology_bakufu`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Бакуфу (ideology_bakufu)", "Bakufu", "ideology_bakufu"]
 tags: [ваниль, идеология]

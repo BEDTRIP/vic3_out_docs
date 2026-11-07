@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Частная собственность (pm_privately_owned_building_arms_industry)» — E&F 1.13, `pm_privately_owned_building_arms_industry`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Частная собственность (pm_privately_owned_building_arms_industry)", "Частная собственность", "pm_privately_owned_building_arms_industry"]
 tags: [ef, метод-производства]

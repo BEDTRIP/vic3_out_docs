@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Neoliberism» — T&R 1.13, `ideology_neoliberism`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neoliberism", "ideology_neoliberism"]
 tags: [tr, идеология]

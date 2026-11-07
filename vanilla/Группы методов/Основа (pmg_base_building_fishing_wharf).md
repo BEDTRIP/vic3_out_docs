@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_fishing_wharf)» — ваниль 1.13, `pmg_base_building_fishing_wharf`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_fishing_wharf)", "Основа", "pmg_base_building_fishing_wharf"]
 tags: [ваниль, группа-методов]

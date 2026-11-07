@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Smart Vehicles» — T&R 1.13, `smart_vehicles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart Vehicles", "smart_vehicles"]
 tags: [tr, технология]

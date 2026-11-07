@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Controlled Environment Agriculture» — T&R 1.13, `controlled_environment_agriculture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Controlled Environment Agriculture", "controlled_environment_agriculture"]
 tags: [tr, технология]

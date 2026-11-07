@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sinopec» — T&R 1.13, `company_sinopec`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sinopec", "company_sinopec"]
 tags: [tr, вид-компании]

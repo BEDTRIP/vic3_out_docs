@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Iron Cross» — VC 1.13, `ig_trait_ironcross`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Iron Cross", "ig_trait_ironcross"]
 tags: [VC, черта-группы-интересов]

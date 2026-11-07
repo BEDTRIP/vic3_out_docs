@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Barclays Bank» — E&F 1.13, `company_barclaysBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Barclays Bank", "company_barclaysBank"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Københavns Fondsbørs» — E&F 1.13, `building_financial_centre_den`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Københavns Fondsbørs", "building_financial_centre_den"]
 tags: [ef, здание]

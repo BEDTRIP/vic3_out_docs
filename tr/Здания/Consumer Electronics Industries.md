@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Consumer Electronics Industries» — T&R 1.13, `building_consumer_electronics_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Consumer Electronics Industries", "building_consumer_electronics_industry"]
 tags: [tr, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Global Outsourcing Hub» — T&R 1.13, `pm_global_outsourcing_hub`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Global Outsourcing Hub", "pm_global_outsourcing_hub"]
 tags: [tr, метод-производства]

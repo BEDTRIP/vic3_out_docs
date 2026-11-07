@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Light Fuel» — T&R 1.13, `light_fuel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Light Fuel", "light_fuel"]
 tags: [tr, товар]

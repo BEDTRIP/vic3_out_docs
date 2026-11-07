@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Religious Segregation» — VC 1.13, `ig_trait_dini_ayrimcilik`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Religious Segregation", "ig_trait_dini_ayrimcilik"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Revolutionary» — Mandate of Heaven 1.13, `ideology_moh_revolutionary`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Revolutionary", "ideology_moh_revolutionary"]
 tags: [mandate_of_heaven, идеология]

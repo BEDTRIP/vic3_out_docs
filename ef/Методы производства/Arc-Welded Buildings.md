@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Arc-Welded Buildings» — E&F 1.13, `pm_arc_welded_buildings_private`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Arc-Welded Buildings", "pm_arc_welded_buildings_private"]
 tags: [ef, метод-производства]

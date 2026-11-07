@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Advanced Interbank Refinancing» — E&F 1.13, `advanced_interbank_refinancing`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Advanced Interbank Refinancing", "advanced_interbank_refinancing"]
 tags: [ef, технология]

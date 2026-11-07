@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Пароатмосферный насос (pm_atmospheric_engine_pump_building_iron_mine)» — ваниль 1.13, `pm_atmospheric_engine_pump_building_iron_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Пароатмосферный насос (pm_atmospheric_engine_pump_building_iron_mine)", "Atmospheric Engine Pump", "pm_atmospheric_engine_pump_building_iron_mine"]
 tags: [ваниль, метод-производства]

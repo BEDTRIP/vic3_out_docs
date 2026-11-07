@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод CMF меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: cmf
 tags: [CMF, что-меняет]
 generated: "v3 graph mods"

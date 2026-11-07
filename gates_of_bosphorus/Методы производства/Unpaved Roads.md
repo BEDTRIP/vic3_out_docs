@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Unpaved Roads» — Gates of Bosphorus 1.13, `pm_gbbf_unpaved_roads`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Unpaved Roads", "pm_gbbf_unpaved_roads"]
 tags: [gates_of_bosphorus, метод-производства]

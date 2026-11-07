@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Motorized Transport» — Gates of Bosphorus 1.13, `pm_gbbf_motor_carts`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Motorized Transport", "pm_gbbf_motor_carts"]
 tags: [gates_of_bosphorus, метод-производства]

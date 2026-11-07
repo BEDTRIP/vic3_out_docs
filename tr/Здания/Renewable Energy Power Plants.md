@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Renewable Energy Power Plants» — T&R 1.13, `building_renewable_energy_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Renewable Energy Power Plants", "building_renewable_energy_power_plant"]
 tags: [tr, здание]

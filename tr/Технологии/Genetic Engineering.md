@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Genetic Engineering» — T&R 1.13, `genetic_engineering`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Genetic Engineering", "genetic_engineering"]
 tags: [tr, технология]

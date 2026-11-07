@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода CMF «International Organization Member» — подсказка-понятие Victoria 3 1.13 (`concept_com_international_organization_member`)"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["International Organization Members", "Organization Member", "Organization Members", "Member", "Members", "International Organization Member", "concept_com_international_organization_member"]
 tags: [cmf, термин]

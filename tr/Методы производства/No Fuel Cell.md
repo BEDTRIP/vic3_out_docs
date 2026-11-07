@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Fuel Cell» — T&R 1.13, `pm_no_fuel_cell`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Fuel Cell", "pm_no_fuel_cell"]
 tags: [tr, метод-производства]

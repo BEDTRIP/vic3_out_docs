@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «III Generation Tanks» — T&R 1.13, `pm_third_gen_tank_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["III Generation Tanks", "pm_third_gen_tank_production"]
 tags: [tr, метод-производства]

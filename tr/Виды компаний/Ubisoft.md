@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ubisoft» — T&R 1.13, `company_ubisoft`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ubisoft", "company_ubisoft"]
 tags: [tr, вид-компании]

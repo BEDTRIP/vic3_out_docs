@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Little Father» — VC 1.13, `ig_trait_adm_expert`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Little Father", "ig_trait_adm_expert"]
 tags: [VC, черта-группы-интересов]

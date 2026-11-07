@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Valve» — T&R 1.13, `company_valve`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Valve", "company_valve"]
 tags: [tr, вид-компании]

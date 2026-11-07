@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_ABAtlas» — grey USU 1.13, `company_ABAtlas`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_ABAtlas"]
 tags: [grey_usu, вид-компании]

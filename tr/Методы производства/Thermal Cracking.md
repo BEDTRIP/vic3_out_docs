@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Thermal Cracking» — T&R 1.13, `pm_thermal_cracking`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Thermal Cracking", "pm_thermal_cracking"]
 tags: [tr, метод-производства]

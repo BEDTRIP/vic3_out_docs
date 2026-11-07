@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ethiopian Birr» — E&F 1.13, `law_eco_ethiopian_birr_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Ethiopian Birr", "law_eco_ethiopian_birr_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Pan-Islamism» — VC 1.13, `law_pan_islamism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Pan-Islamism", "law_pan_islamism"]
 tags: [VC, закон]

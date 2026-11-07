@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Church of England» — VC 1.13, `ideology_british_anglicanism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Church of England", "ideology_british_anglicanism"]
 tags: [VC, идеология]

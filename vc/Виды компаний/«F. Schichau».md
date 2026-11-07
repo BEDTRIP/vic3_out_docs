@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««F. Schichau»» — VC 1.13, `company_schichau`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«F. Schichau»", "F. Schichau", "company_schichau"]
 tags: [VC, вид-компании]

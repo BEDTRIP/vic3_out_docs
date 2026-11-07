@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Indies Guilder» — E&F 1.13, `law_gulden_indies_guilder_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Indies Guilder", "law_gulden_indies_guilder_currency"]
 tags: [ef, закон]

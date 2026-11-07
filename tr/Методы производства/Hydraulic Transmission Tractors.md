@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hydraulic Transmission Tractors» — T&R 1.13, `pm_hydraulic_transmission_tractors_building_rice_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydraulic Transmission Tractors", "pm_hydraulic_transmission_tractors_building_rice_farm"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Anti-Shogunate» — VC 1.13, `ideology_anti_shogunate`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Anti-Shogunate", "ideology_anti_shogunate"]
 tags: [VC, идеология]

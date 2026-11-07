@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Maximum level Private Construction Sector» — подсказка-понятие Victoria 3 1.13 (`concept_building_urban_center_lvl_by_base_rate`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Maximum level Private Construction Sector", "concept_building_urban_center_lvl_by_base_rate"]
 tags: [ef, термин]

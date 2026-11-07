@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Imperial Administrative Center (pm_gbbf_dolmabahce_palace_active)» — Gates of Bosphorus 1.13, `pm_gbbf_dolmabahce_palace_active`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Imperial Administrative Center (pm_gbbf_dolmabahce_palace_active)", "Imperial Administrative Center", "pm_gbbf_dolmabahce_palace_active"]
 tags: [gates_of_bosphorus, метод-производства]

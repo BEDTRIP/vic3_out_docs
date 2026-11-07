@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rail Transportation (pm_rail_transport_building_natural_gas_rig)» — T&R 1.13, `pm_rail_transport_building_natural_gas_rig`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rail Transportation (pm_rail_transport_building_natural_gas_rig)", "Rail Transportation", "pm_rail_transport_building_natural_gas_rig"]
 tags: [tr, метод-производства]

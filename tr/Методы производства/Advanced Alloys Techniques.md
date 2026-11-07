@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Alloys Techniques» — T&R 1.13, `pm_advanced_alloying_techniques`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Alloys Techniques", "pm_advanced_alloying_techniques"]
 tags: [tr, метод-производства]

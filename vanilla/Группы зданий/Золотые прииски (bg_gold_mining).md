@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Золотые прииски (bg_gold_mining)» — ваниль 1.13, `bg_gold_mining`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Золотые прииски (bg_gold_mining)", "Gold Mines", "bg_gold_mining"]
 tags: [ваниль, группа-зданий]

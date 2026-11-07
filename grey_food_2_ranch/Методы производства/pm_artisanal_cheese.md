@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_artisanal_cheese» — grey food 2 ranch 1.13, `pm_artisanal_cheese`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_artisanal_cheese"]
 tags: [grey_food_2_ranch, метод-производства]

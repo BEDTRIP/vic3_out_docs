@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_government_administration)» — ваниль 1.13, `pmg_base_building_government_administration`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_government_administration)", "Основа", "pmg_base_building_government_administration"]
 tags: [ваниль, группа-методов]

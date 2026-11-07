@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_livestock_ranch)» — TGR 1.13, `pm_refrigerated_rail_cars_building_livestock_ranch`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_livestock_ranch)", "Refrigerated Rail Cars", "pm_refrigerated_rail_cars_building_livestock_ranch"]
 tags: [TGR, метод-производства]

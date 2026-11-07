@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Social Justice» — VC 1.13, `ig_trait_social_justice`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Social Justice", "ig_trait_social_justice"]
 tags: [VC, черта-группы-интересов]

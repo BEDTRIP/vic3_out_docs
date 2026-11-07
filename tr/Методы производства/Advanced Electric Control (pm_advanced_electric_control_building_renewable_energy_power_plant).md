@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Electric Control (pm_advanced_electric_control_building_renewable_energy_power_plant)» — T&R 1.13, `pm_advanced_electric_control_building_renewable_energy_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Electric Control (pm_advanced_electric_control_building_renewable_energy_power_plant)", "Advanced Electric Control", "pm_advanced_electric_control_building_renewable_energy_power_plant"]
 tags: [tr, метод-производства]

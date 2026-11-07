@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_fishing_village)» — grey USU 1.13, `pm_serfdom_building_subsistence_fishing_village`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Крепостное право (pm_serfdom_building_subsistence_fishing_village)", "Крепостное право", "pm_serfdom_building_subsistence_fishing_village"]
 tags: [grey_usu, метод-производства]

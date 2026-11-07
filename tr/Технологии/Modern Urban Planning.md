@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Urban Planning» — T&R 1.13, `modern_urban_planning`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Urban Planning", "modern_urban_planning"]
 tags: [tr, технология]

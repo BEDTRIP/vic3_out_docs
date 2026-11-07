@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Clandestine Slave Markets» — Gates of Bosphorus 1.13, `pm_gbbf_hidden_slave_markets`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Clandestine Slave Markets", "pm_gbbf_hidden_slave_markets"]
 tags: [gates_of_bosphorus, метод-производства]

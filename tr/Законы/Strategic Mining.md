@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Strategic Mining» — T&R 1.13, `law_mining_strategic`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Strategic Mining", "law_mining_strategic"]
 tags: [tr, закон]

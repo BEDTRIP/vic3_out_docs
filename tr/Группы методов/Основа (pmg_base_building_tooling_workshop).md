@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_tooling_workshop)» — T&R 1.13, `pmg_base_building_tooling_workshop`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Основа (pmg_base_building_tooling_workshop)", "Основа", "pmg_base_building_tooling_workshop"]
 tags: [tr, группа-методов]

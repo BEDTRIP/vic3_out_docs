@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Heavy Fuel» — T&R 1.13, `pm_automation_HFO_fuel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Heavy Fuel", "pm_automation_HFO_fuel"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Радикализм (ideology_radical)» — TGR 1.13, `ideology_radical`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Радикализм (ideology_radical)", "Radical", "ideology_radical"]
 tags: [TGR, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартное производство (pm_default_building_pena_palace)» — ваниль 1.13, `pm_default_building_pena_palace`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартное производство (pm_default_building_pena_palace)", "Default Production", "pm_default_building_pena_palace"]
 tags: [ваниль, метод-производства]

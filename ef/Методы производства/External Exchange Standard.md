@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «External Exchange Standard» — E&F 1.13, `pm_external_exchange_standard_bank_money_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["External Exchange Standard", "pm_external_exchange_standard_bank_money_currency"]
 tags: [ef, метод-производства]

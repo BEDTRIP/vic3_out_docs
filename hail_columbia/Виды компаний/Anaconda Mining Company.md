@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Anaconda Mining Company» — Hail Columbia 1.13, `company_usfp_anaconda`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Anaconda Mining Company", "company_usfp_anaconda"]
 tags: [hail_columbia, вид-компании]

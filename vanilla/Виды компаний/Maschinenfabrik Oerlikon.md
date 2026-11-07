@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Maschinenfabrik Oerlikon» — ваниль 1.13, `company_maschinenfabrik_oerlikon`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Maschinenfabrik Oerlikon", "company_maschinenfabrik_oerlikon"]
 tags: [ваниль, вид-компании]

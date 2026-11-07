@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Jusighoesa joheung-eunhaeng» — E&F 1.13, `company_ChohungBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Jusighoesa joheung-eunhaeng", "company_ChohungBank"]
 tags: [ef, вид-компании]

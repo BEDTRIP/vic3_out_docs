@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Electronic Components» — T&R 1.13, `pmg_base_building_electroniccomponents`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electronic Components", "pmg_base_building_electroniccomponents"]
 tags: [tr, группа-методов]

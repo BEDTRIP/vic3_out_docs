@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««B. Grimm»» — ваниль 1.13, `company_b_grimm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«B. Grimm»", "B.Grimm", "company_b_grimm"]
 tags: [ваниль, вид-компании]

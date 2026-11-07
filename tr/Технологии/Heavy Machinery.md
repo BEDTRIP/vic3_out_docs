@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Heavy Machinery» — T&R 1.13, `heavy_machinery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Heavy Machinery", "heavy_machinery"]
 tags: [tr, технология]

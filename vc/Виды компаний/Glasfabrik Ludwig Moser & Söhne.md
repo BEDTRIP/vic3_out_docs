@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — VC 1.13, `company_ludwig_moser_and_sons`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Glasfabrik Ludwig Moser & Söhne", "company_ludwig_moser_and_sons"]
 tags: [VC, вид-компании]

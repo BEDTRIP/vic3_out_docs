@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compagnie du Congo»» — grey USU 1.13, `company_ccci`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Compagnie du Congo»", "Compagnie du Congo", "company_ccci"]
 tags: [grey_usu, вид-компании]

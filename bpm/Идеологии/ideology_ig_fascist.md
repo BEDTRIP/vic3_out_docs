@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_ig_fascist» — BPM 1.13, `ideology_ig_fascist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["ideology_ig_fascist"]
 tags: [BPM, идеология]

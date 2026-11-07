@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Нитроглицерин (pm_nitroglycerin_building_lead_mine)» — ваниль 1.13, `pm_nitroglycerin_building_lead_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Нитроглицерин (pm_nitroglycerin_building_lead_mine)", "Nitroglycerin", "pm_nitroglycerin_building_lead_mine"]
 tags: [ваниль, метод-производства]

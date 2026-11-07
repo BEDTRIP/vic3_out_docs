@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_notre_dame_saigon» — grey soft pop 1.13, `pm_default_building_notre_dame_saigon`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_notre_dame_saigon"]
 tags: [grey_soft_pop, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Precision Agriculture» — T&R 1.13, `precision_agriculture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Precision Agriculture", "precision_agriculture"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_werkspoor» — grey USU 1.13, `company_werkspoor`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_werkspoor"]
 tags: [grey_usu, вид-компании]

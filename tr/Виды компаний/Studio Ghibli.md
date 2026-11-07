@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Studio Ghibli» — T&R 1.13, `company_studio_ghibli`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Studio Ghibli", "company_studio_ghibli"]
 tags: [tr, вид-компании]

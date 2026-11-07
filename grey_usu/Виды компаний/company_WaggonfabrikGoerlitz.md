@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_WaggonfabrikGoerlitz» — grey USU 1.13, `company_WaggonfabrikGoerlitz`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_WaggonfabrikGoerlitz"]
 tags: [grey_usu, вид-компании]

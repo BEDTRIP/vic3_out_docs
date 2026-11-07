@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_MIN» — grey USU 1.13, `company_MIN`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_MIN"]
 tags: [grey_usu, вид-компании]

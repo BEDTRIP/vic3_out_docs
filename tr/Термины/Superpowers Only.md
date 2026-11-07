@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Superpowers Only» — подсказка-понятие Victoria 3 1.13 (`concept_un_voting_model_superpowers_only`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Superpowers Only", "concept_un_voting_model_superpowers_only"]
 tags: [tr, термин]

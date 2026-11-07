@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_subsistence_rice_farm)» — VC 1.13, `default_building_subsistence_rice_farm`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Базовое производство (default_building_subsistence_rice_farm)", "Базовое производство", "default_building_subsistence_rice_farm"]
 tags: [VC, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Instruments» — T&R 1.13, `pm_elgar_digital_instruments`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Instruments", "pm_elgar_digital_instruments"]
 tags: [tr, метод-производства]

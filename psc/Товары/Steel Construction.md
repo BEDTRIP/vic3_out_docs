@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Steel Construction» — PSC 1.13, `steel_construction`"
 project: vic3
+audience: agent
 source: psc
 aliases: ["Steel Construction", "steel_construction"]
 tags: [PSC, товар]

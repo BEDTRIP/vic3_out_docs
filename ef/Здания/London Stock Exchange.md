@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «London Stock Exchange» — E&F 1.13, `building_financial_centre_gbr`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["London Stock Exchange", "building_financial_centre_gbr"]
 tags: [ef, здание]

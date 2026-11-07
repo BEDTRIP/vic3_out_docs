@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Printing Presses» — T&R 1.13, `manzoni_pm_printing_presses`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Printing Presses", "manzoni_pm_printing_presses"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Nature Protection» — T&R 1.13, `dubois_nature_protection_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nature Protection", "dubois_nature_protection_tech"]
 tags: [tr, технология]

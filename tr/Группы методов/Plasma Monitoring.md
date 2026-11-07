@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Plasma Monitoring» — T&R 1.13, `pmg_fusion_plasma_monitoring`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Plasma Monitoring", "pmg_fusion_plasma_monitoring"]
 tags: [tr, группа-методов]

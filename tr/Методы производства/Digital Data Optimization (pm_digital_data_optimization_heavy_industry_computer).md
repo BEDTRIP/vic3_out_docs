@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Data Optimization (pm_digital_data_optimization_heavy_industry_computer)» — T&R 1.13, `pm_digital_data_optimization_heavy_industry_computer`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Data Optimization (pm_digital_data_optimization_heavy_industry_computer)", "Digital Data Optimization", "pm_digital_data_optimization_heavy_industry_computer"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Dynamite (pm_dynamite_building_commonores_mine)» — T&R 1.13, `pm_dynamite_building_commonores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Dynamite (pm_dynamite_building_commonores_mine)", "Dynamite", "pm_dynamite_building_commonores_mine"]
 tags: [tr, метод-производства]

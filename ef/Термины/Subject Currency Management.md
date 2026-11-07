@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Subject Currency Management» — подсказка-понятие Victoria 3 1.13 (`concept_subject_currency_management`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Subject Currency Management", "concept_subject_currency_management"]
 tags: [ef, термин]

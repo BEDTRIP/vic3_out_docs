@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Wind Turbines» — T&R 1.13, `wind_turbines`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wind Turbines", "wind_turbines"]
 tags: [tr, технология]

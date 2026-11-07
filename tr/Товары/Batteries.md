@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Batteries» — T&R 1.13, `batteries`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Batteries", "batteries"]
 tags: [tr, товар]

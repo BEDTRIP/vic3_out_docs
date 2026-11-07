@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «AI Assisted Creativity» — T&R 1.13, `pm_ai_assisted_art`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AI Assisted Creativity", "pm_ai_assisted_art"]
 tags: [tr, метод-производства]

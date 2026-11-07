@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Information Distribution» — LLWA 1.13, `LLWA_pm_no_comms`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["No Information Distribution", "LLWA_pm_no_comms"]
 tags: [LLWA, метод-производства]

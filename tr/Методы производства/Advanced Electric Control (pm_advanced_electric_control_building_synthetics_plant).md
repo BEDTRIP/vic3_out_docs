@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Electric Control (pm_advanced_electric_control_building_synthetics_plant)» — T&R 1.13, `pm_advanced_electric_control_building_synthetics_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Electric Control (pm_advanced_electric_control_building_synthetics_plant)", "Advanced Electric Control", "pm_advanced_electric_control_building_synthetics_plant"]
 tags: [tr, метод-производства]

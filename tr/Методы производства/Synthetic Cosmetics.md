@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Synthetic Cosmetics» — T&R 1.13, `pm_synthetic_compounds_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Cosmetics", "pm_synthetic_compounds_cosmetics"]
 tags: [tr, метод-производства]

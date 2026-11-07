@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «High Speed Trains (pm_high_speed_trains)» — T&R 1.13, `pm_high_speed_trains`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["High Speed Trains (pm_high_speed_trains)", "High Speed Trains", "pm_high_speed_trains"]
 tags: [tr, метод-производства]

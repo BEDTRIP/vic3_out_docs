@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Nicaraguan Cordoba» — E&F 1.13, `law_peso_nicaraguan_cordoba_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Nicaraguan Cordoba", "law_peso_nicaraguan_cordoba_currency"]
 tags: [ef, закон]

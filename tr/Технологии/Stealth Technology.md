@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Stealth Technology» — T&R 1.13, `stealth_technology`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Stealth Technology", "stealth_technology"]
 tags: [tr, технология]

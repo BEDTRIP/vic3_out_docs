@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco de la República» — E&F 1.13, `company_BancoRepublicaColombia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco de la República", "company_BancoRepublicaColombia"]
 tags: [ef, вид-компании]

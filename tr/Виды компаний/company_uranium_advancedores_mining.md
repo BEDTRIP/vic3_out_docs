@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_uranium_advancedores_mining» — T&R 1.13, `company_uranium_advancedores_mining`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["company_uranium_advancedores_mining"]
 tags: [tr, вид-компании]

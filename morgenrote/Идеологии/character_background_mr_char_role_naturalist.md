@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «character_background_mr_char_role_naturalist» — Morgenröte 1.13, `character_background_mr_char_role_naturalist`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["character_background_mr_char_role_naturalist"]
 tags: [Morgenröte, идеология]

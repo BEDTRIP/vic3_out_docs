@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Revlon» — T&R 1.13, `company_revlon`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Revlon", "company_revlon"]
 tags: [tr, вид-компании]

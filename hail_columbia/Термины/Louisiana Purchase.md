@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Louisiana Purchase» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_louisiana_purchase`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Louisiana Purchase", "concept_usfp_louisiana_purchase"]
 tags: [hail_columbia, термин]

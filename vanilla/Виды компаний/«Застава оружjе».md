@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Застава оружjе»» — ваниль 1.13, `company_zastava`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Застава оружjе»", "Zastava oružje", "company_zastava"]
 tags: [ваниль, вид-компании]

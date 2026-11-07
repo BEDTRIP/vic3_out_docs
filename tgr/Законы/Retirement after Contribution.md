@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Retirement after Contribution» — TGR 1.13, `law_retirement_after_contribution`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Retirement after Contribution", "law_retirement_after_contribution"]
 tags: [TGR, закон]

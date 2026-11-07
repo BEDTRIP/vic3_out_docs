@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — ваниль 1.13, `ideology_utilitarian_leader`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Утилитаризм (ideology_utilitarian_leader)", "Utilitarian", "ideology_utilitarian_leader"]
 tags: [ваниль, идеология]

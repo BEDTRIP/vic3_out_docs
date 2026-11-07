@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mixed Recycling» — T&R 1.13, `pm_mixed_recycling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mixed Recycling", "pm_mixed_recycling"]
 tags: [tr, метод-производства]

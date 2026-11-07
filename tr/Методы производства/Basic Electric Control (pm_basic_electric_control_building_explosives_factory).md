@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Electric Control (pm_basic_electric_control_building_explosives_factory)» — T&R 1.13, `pm_basic_electric_control_building_explosives_factory`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Electric Control (pm_basic_electric_control_building_explosives_factory)", "Basic Electric Control", "pm_basic_electric_control_building_explosives_factory"]
 tags: [tr, метод-производства]

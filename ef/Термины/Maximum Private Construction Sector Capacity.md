@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Maximum Private Construction Sector Capacity» — подсказка-понятие Victoria 3 1.13 (`concept_maximum_pcs_capacity`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Maximum Private Construction Sector Capacity", "concept_maximum_pcs_capacity"]
 tags: [ef, термин]

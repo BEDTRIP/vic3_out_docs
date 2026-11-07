@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Phanariot» — Gates of Bosphorus 1.13, `gbbf_trait_phanariot`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Phanariot", "gbbf_trait_phanariot"]
 tags: [gates_of_bosphorus, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Records» — T&R 1.13, `company_basic_records_and_films`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Records", "company_basic_records_and_films"]
 tags: [tr, вид-компании]

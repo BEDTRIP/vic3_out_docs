@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Ritual Principles» — VC 1.13, `ig_trait_rule_of_etiquette`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Ritual Principles", "ig_trait_rule_of_etiquette"]
 tags: [VC, черта-группы-интересов]

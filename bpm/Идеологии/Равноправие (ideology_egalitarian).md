@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Равноправие (ideology_egalitarian)» — BPM 1.13, `ideology_egalitarian`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Равноправие (ideology_egalitarian)", "Egalitarian", "ideology_egalitarian"]
 tags: [BPM, идеология]

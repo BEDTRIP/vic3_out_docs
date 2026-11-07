@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Natural Gas Rigs» — T&R 1.13, `building_natural_gas_rig`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Natural Gas Rigs", "building_natural_gas_rig"]
 tags: [tr, здание]

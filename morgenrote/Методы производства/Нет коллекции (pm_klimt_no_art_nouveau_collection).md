@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Нет коллекции (pm_klimt_no_art_nouveau_collection)» — Morgenröte 1.13, `pm_klimt_no_art_nouveau_collection`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Нет коллекции (pm_klimt_no_art_nouveau_collection)", "No Collection", "pm_klimt_no_art_nouveau_collection"]
 tags: [Morgenröte, метод-производства]

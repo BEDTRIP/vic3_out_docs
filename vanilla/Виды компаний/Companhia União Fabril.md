@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Companhia União Fabril» — ваниль 1.13, `company_uniao_fabril`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Companhia União Fabril", "company_uniao_fabril"]
 tags: [ваниль, вид-компании]

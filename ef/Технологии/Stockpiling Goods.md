@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Stockpiling Goods» — E&F 1.13, `stockpiling_goods`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Stockpiling Goods", "stockpiling_goods"]
 tags: [ef, технология]

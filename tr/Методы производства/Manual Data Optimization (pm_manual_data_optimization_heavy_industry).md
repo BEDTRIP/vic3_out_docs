@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Manual Data Optimization (pm_manual_data_optimization_heavy_industry)» — T&R 1.13, `pm_manual_data_optimization_heavy_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Manual Data Optimization (pm_manual_data_optimization_heavy_industry)", "Manual Data Optimization", "pm_manual_data_optimization_heavy_industry"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rotary Valve Engine» — Gates of Bosphorus 1.13, `gbbf_rotary_valve_engine_building_esparto`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Rotary Valve Engine", "gbbf_rotary_valve_engine_building_esparto"]
 tags: [gates_of_bosphorus, метод-производства]

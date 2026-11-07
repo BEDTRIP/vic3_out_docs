@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Volvo» — T&R 1.13, `company_volvo`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Volvo", "company_volvo"]
 tags: [tr, вид-компании]

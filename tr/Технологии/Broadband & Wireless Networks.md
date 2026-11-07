@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Broadband & Wireless Networks» — T&R 1.13, `wireless_broadband_networks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Broadband & Wireless Networks", "wireless_broadband_networks"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Government Policies (ideology_government_rural_folk)» — TGR 1.13, `ideology_government_rural_folk`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Government Policies (ideology_government_rural_folk)", "Government Policies", "ideology_government_rural_folk"]
 tags: [TGR, идеология]

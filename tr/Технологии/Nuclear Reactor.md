@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Nuclear Reactor» — T&R 1.13, `nuclear_reactor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Reactor", "nuclear_reactor"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Regulated Adoption» — T&R 1.13, `law_regulated_adoption`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Regulated Adoption", "law_regulated_adoption"]
 tags: [tr, закон]

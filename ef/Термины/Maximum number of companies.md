@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Maximum number of companies» — подсказка-понятие Victoria 3 1.13 (`concept_maximum_number_companies`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Maximum number of companies", "concept_maximum_number_companies"]
 tags: [ef, термин]

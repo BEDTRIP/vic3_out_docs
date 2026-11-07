@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Duro y Compañía»» — VC 1.13, `company_duro_y_compania`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Duro y Compañía»", "Duro y Compañía", "company_duro_y_compania"]
 tags: [VC, вид-компании]

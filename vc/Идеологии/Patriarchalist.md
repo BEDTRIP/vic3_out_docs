@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Patriarchalist» — VC 1.13, `ideology_tory_patriarchal`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Patriarchalist", "ideology_tory_patriarchal"]
 tags: [VC, идеология]

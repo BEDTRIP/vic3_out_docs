@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Paradox Interactive» — T&R 1.13, `company_paradox_interactive`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Paradox Interactive", "company_paradox_interactive"]
 tags: [tr, вид-компании]

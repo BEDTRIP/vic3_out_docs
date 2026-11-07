@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Bimetallic Ratio» — E&F 1.13, `lawgroup_bimetalism_ratio`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bimetallic Ratio", "lawgroup_bimetalism_ratio"]
 tags: [ef, группа-законов]

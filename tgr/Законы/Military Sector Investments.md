@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Military Sector Investments» — TGR 1.13, `economic_incentives_military`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Military Sector Investments", "economic_incentives_military"]
 tags: [TGR, закон]

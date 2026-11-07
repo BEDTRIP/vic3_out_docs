@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Horizontal Drilling» — T&R 1.13, `horizontal_drilling`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Horizontal Drilling", "horizontal_drilling"]
 tags: [tr, технология]

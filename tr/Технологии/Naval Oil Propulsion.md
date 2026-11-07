@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Naval Oil Propulsion» — T&R 1.13, `naval_oil_propulsion`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Naval Oil Propulsion", "naval_oil_propulsion"]
 tags: [tr, технология]

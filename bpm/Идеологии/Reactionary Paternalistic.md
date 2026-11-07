@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Reactionary Paternalistic» — BPM 1.13, `ideology_wel_reactionary_paternalistic`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Reactionary Paternalistic", "ideology_wel_reactionary_paternalistic"]
 tags: [BPM, идеология]

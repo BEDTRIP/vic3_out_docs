@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fast Fashion» — T&R 1.13, `pm_fast_fashion`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fast Fashion", "pm_fast_fashion"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Pan-Indianist (ideology_usfp_pan_indianist)» — Hail Columbia 1.13, `ideology_usfp_pan_indianist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Pan-Indianist (ideology_usfp_pan_indianist)", "Pan-Indianist", "ideology_usfp_pan_indianist"]
 tags: [hail_columbia, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Flower of Freedom» — VC 1.13, `ig_trait_flower_of_free`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Flower of Freedom", "ig_trait_flower_of_free"]
 tags: [VC, черта-группы-интересов]

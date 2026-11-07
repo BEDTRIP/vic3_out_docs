@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Gas Fired Ovens» — T&R 1.13, `pm_gas_fired_ovens`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gas Fired Ovens", "pm_gas_fired_ovens"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «DBR» — подсказка-понятие Victoria 3 1.13 (`concept_interest_value_domestic_s`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["DBR", "concept_interest_value_domestic_s"]
 tags: [ef, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Gebrüder Thonet» — VC 1.13, `company_gebruder_thonet`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Gebrüder Thonet", "company_gebruder_thonet"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Управление цепочками поставок (usu_pm_port_c_logistics_3)» — grey USU 1.13, `usu_pm_port_c_logistics_3`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Управление цепочками поставок (usu_pm_port_c_logistics_3)", "Supply Chain Management", "usu_pm_port_c_logistics_3"]
 tags: [grey_usu, метод-производства]

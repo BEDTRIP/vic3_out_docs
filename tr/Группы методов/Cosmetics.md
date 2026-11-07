@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Cosmetics» — T&R 1.13, `pmg_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cosmetics", "pmg_cosmetics"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Synthetic Furniture Molding» — T&R 1.13, `pm_synthetic_furniture_molding`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Furniture Molding", "pm_synthetic_furniture_molding"]
 tags: [tr, метод-производства]

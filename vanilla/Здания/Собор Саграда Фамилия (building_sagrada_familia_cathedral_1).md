@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)» — ваниль 1.13, `building_sagrada_familia_cathedral_1`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)", "Sagrada Família Cathedral", "building_sagrada_familia_cathedral_1"]
 tags: [ваниль, здание]

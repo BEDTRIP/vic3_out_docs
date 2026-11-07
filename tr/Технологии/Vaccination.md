@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Vaccination» — T&R 1.13, `panum_vaccination_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vaccination", "panum_vaccination_tech"]
 tags: [tr, технология]

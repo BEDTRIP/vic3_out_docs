@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Morphine Extraction» — T&R 1.13, `pm_morphine_extraction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Morphine Extraction", "pm_morphine_extraction"]
 tags: [tr, метод-производства]

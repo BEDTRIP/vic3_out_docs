@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Siam Electricity Company Limited» — ваниль 1.13, `company_siam_electrical_company_limited`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Siam Electricity Company Limited", "company_siam_electrical_company_limited"]
 tags: [ваниль, вид-компании]

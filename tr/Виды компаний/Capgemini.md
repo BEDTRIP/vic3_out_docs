@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Capgemini» — T&R 1.13, `company_capgemini`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Capgemini", "company_capgemini"]
 tags: [tr, вид-компании]

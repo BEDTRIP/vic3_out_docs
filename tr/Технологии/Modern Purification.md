@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Purification» — T&R 1.13, `selective_mineral_extraction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Purification", "selective_mineral_extraction"]
 tags: [tr, технология]

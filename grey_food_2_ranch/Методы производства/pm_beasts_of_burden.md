@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_beasts_of_burden» — grey food 2 ranch 1.13, `pm_beasts_of_burden`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_beasts_of_burden"]
 tags: [grey_food_2_ranch, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Традиционализм (ideology_traditionalist_movement)» — ваниль 1.13, `ideology_traditionalist_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Традиционализм (ideology_traditionalist_movement)", "Традиционализм", "ideology_traditionalist_movement"]
 tags: [ваниль, идеология]

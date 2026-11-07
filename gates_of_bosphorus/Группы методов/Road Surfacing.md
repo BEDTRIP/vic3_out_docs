@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Road Surfacing» — Gates of Bosphorus 1.13, `pmg_gbbf_karadag_roads`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Road Surfacing", "pmg_gbbf_karadag_roads"]
 tags: [gates_of_bosphorus, группа-методов]

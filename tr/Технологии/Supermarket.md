@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Supermarket» — T&R 1.13, `supermarket`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Supermarket", "supermarket"]
 tags: [tr, технология]

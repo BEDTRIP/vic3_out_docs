@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «High-Performance War Apparel» — T&R 1.13, `high_performance_apparel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["High-Performance War Apparel", "high_performance_apparel"]
 tags: [tr, технология]

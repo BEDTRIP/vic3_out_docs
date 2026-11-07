@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Pound Sterling» — E&F 1.13, `law_pound_sterling_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Pound Sterling", "law_pound_sterling_currency"]
 tags: [ef, закон]

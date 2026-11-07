@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Bolckow, Vaughan & Co.»» — T&R 1.13, `company_bolckow_vaughan`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Bolckow, Vaughan & Co.»", "Bolckow, Vaughan & Co", "company_bolckow_vaughan"]
 tags: [tr, вид-компании]

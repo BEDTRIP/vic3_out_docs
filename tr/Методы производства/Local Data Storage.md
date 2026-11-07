@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Local Data Storage» — T&R 1.13, `pm_local_data_storage_building_datacenter`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Local Data Storage", "pm_local_data_storage_building_datacenter"]
 tags: [tr, метод-производства]

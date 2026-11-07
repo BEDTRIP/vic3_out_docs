@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Superpower» — подсказка-понятие Victoria 3 1.13 (`concept_superpower`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Superpower", "concept_superpower"]
 tags: [tr, термин]

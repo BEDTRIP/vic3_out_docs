@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «CNC Machines» — T&R 1.13, `pm_cnc_machines`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CNC Machines", "pm_cnc_machines"]
 tags: [tr, метод-производства]

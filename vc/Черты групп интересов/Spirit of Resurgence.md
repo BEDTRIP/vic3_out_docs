@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Spirit of Resurgence» — VC 1.13, `ig_trait_risorgimento`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Spirit of Resurgence", "ig_trait_risorgimento"]
 tags: [VC, черта-группы-интересов]

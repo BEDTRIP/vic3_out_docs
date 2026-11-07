@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Gates of Bosphorus «Nile Floods» — подсказка-понятие Victoria 3 1.13 (`concept_nile_floods`)"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Nile Floods", "concept_nile_floods"]
 tags: [gates_of_bosphorus, термин]

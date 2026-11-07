@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Launched Guided Projectiles» — T&R 1.13, `pm_launched_guided_projectiles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Launched Guided Projectiles", "pm_launched_guided_projectiles"]
 tags: [tr, метод-производства]

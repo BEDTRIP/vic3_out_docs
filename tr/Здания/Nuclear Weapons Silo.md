@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Nuclear Weapons Silo» — T&R 1.13, `building_nuclear_weapons_silo`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Weapons Silo", "building_nuclear_weapons_silo"]
 tags: [tr, здание]

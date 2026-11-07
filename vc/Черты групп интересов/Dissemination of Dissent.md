@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Dissemination of Dissent» — VC 1.13, `ig_trait_spread_of_dissent`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Dissemination of Dissent", "ig_trait_spread_of_dissent"]
 tags: [VC, черта-группы-интересов]

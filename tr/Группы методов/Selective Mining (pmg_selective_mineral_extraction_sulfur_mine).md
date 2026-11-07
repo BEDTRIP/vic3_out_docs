@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Selective Mining (pmg_selective_mineral_extraction_sulfur_mine)» — T&R 1.13, `pmg_selective_mineral_extraction_sulfur_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Selective Mining (pmg_selective_mineral_extraction_sulfur_mine)", "Selective Mining", "pmg_selective_mineral_extraction_sulfur_mine"]
 tags: [tr, группа-методов]

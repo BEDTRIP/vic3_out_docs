@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Imperialist» — VC 1.13, `ideology_imperialism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Imperialist", "ideology_imperialism"]
 tags: [VC, идеология]

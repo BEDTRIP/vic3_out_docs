@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Monetary system» — E&F 1.13, `lawgroup_monetary_system`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary system", "lawgroup_monetary_system"]
 tags: [ef, группа-законов]

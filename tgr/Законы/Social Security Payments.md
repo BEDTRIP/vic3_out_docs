@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Social Security Payments» — TGR 1.13, `law_medium_pension`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Social Security Payments", "law_medium_pension"]
 tags: [TGR, закон]

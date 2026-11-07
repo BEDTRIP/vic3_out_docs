@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_masjed_soleyman_oil_field» — grey soft pop 1.13, `pm_default_building_masjed_soleyman_oil_field`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_masjed_soleyman_oil_field"]
 tags: [grey_soft_pop, метод-производства]

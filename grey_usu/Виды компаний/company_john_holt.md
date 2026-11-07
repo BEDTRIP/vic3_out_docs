@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_john_holt» — grey USU 1.13, `:company_john_holt`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_john_holt", ":company_john_holt"]
 tags: [grey_usu, вид-компании]

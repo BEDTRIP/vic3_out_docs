@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Vehicles» — T&R 1.13, `pm_electric_vehicles_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Vehicles", "pm_electric_vehicles_production"]
 tags: [tr, метод-производства]

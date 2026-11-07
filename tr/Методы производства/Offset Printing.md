@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Offset Printing» — T&R 1.13, `pm_offset_printing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Offset Printing", "pm_offset_printing"]
 tags: [tr, метод-производства]

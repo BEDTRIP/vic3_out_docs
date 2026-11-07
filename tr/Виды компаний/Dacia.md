@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Dacia» — T&R 1.13, `company_dacia`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Dacia", "company_dacia"]
 tags: [tr, вид-компании]

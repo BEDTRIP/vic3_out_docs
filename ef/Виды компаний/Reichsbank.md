@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Reichsbank» — E&F 1.13, `company_Reichsbank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Reichsbank", "company_Reichsbank"]
 tags: [ef, вид-компании]

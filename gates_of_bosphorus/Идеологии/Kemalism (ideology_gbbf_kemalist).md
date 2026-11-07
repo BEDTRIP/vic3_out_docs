@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Kemalism (ideology_gbbf_kemalist)» — Gates of Bosphorus 1.13, `ideology_gbbf_kemalist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Kemalism (ideology_gbbf_kemalist)", "Kemalism", "ideology_gbbf_kemalist"]
 tags: [gates_of_bosphorus, идеология]

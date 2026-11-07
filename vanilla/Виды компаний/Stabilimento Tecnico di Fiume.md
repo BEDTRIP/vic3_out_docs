@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Stabilimento Tecnico di Fiume» — ваниль 1.13, `company_stabilimento_tecnico_di_fiume`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Stabilimento Tecnico di Fiume", "company_stabilimento_tecnico_di_fiume"]
 tags: [ваниль, вид-компании]

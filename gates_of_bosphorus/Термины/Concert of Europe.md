@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Gates of Bosphorus «Concert of Europe» — подсказка-понятие Victoria 3 1.13 (`concept_concert_of_europe`)"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Concert of Europe", "concept_concert_of_europe"]
 tags: [gates_of_bosphorus, термин]

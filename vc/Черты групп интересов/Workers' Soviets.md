@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Workers' Soviets» — VC 1.13, `ig_trait_worker_soviet`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Workers' Soviets", "ig_trait_worker_soviet"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Desalination» — T&R 1.13, `pmg_base_building_water_desalination`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Desalination", "pmg_base_building_water_desalination"]
 tags: [tr, группа-методов]

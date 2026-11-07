@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «White Star Line» — ваниль 1.13, `company_white_star_line`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["White Star Line", "company_white_star_line"]
 tags: [ваниль, вид-компании]

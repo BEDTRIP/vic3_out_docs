@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Celluloid Processing» — T&R 1.13, `pm_celluloid_processing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Celluloid Processing", "pm_celluloid_processing"]
 tags: [tr, метод-производства]

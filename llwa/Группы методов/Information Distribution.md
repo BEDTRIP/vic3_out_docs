@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Information Distribution» — LLWA 1.13, `LLWA_pmg_mapi_comms`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Information Distribution", "LLWA_pmg_mapi_comms"]
 tags: [LLWA, группа-методов]

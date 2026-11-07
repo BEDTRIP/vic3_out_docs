@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Type of Communication» — T&R 1.13, `manzoni_pmg_communication`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Type of Communication", "manzoni_pmg_communication"]
 tags: [tr, группа-методов]

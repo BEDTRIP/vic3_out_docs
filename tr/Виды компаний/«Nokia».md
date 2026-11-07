@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Nokia»» — T&R 1.13, `company_nokia`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Nokia»", "Nokia", "company_nokia"]
 tags: [tr, вид-компании]

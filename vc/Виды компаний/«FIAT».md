@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««FIAT»» — VC 1.13, `company_fiat`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«FIAT»", "FIAT", "company_fiat"]
 tags: [VC, вид-компании]

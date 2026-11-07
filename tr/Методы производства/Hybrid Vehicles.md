@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Hybrid Vehicles» — T&R 1.13, `pm_hybrid_vehicles_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hybrid Vehicles", "pm_hybrid_vehicles_production"]
 tags: [tr, метод-производства]

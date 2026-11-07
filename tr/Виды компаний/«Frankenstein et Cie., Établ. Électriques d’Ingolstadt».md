@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Frankenstein et Cie., Établ. Électriques d’Ingolstadt»» — T&R 1.13, `company_ingolstadt_electrical_company`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Frankenstein et Cie., Établ. Électriques d’Ingolstadt»", "Frankenstein et Cie., Établ. Électriques d’Ingolstadt", "company_ingolstadt_electrical_company"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа интересов «Christian Democrats» — BPM 1.13, `ig_christian_democrats`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Christian Democrats", "ig_christian_democrats"]
 tags: [BPM, группа-интересов]

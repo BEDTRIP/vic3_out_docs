@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Fusion Reactor» — T&R 1.13, `pmg_fusion_reactor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fusion Reactor", "pmg_fusion_reactor"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Monetary System» — E&F 1.13, `law_no_monetary_system`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No Monetary System", "law_no_monetary_system"]
 tags: [ef, закон]

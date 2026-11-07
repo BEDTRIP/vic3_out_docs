@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Government Treasury» — подсказка-понятие Victoria 3 1.13 (`concept_government_treasury`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Government Treasury", "concept_government_treasury"]
 tags: [ef, термин]

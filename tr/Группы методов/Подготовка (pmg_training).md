@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Подготовка (pmg_training)» — T&R 1.13, `pmg_training`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Подготовка (pmg_training)", "Training", "pmg_training"]
 tags: [tr, группа-методов]

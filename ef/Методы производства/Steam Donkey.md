@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Steam Donkey» — E&F 1.13, `pm_steam_donkey_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Steam Donkey", "pm_steam_donkey_building_silver_mine"]
 tags: [ef, метод-производства]

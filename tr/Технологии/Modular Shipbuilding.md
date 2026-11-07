@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modular Shipbuilding» — T&R 1.13, `modular_shipbuilding`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modular Shipbuilding", "modular_shipbuilding"]
 tags: [tr, технология]

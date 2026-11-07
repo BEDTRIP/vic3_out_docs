@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Yasuda» — VC 1.13, `company_yasuda`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Yasuda", "company_yasuda"]
 tags: [VC, вид-компании]

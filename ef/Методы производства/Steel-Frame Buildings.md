@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Steel-Frame Buildings» — E&F 1.13, `pm_steel_frame_buildings_private`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Steel-Frame Buildings", "pm_steel_frame_buildings_private"]
 tags: [ef, метод-производства]

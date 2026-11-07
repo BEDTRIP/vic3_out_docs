@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Modern Individualism» — T&R 1.13, `ideology_modern_individualism`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Individualism", "ideology_modern_individualism"]
 tags: [tr, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Смешанное электроснабжение (PPP_pm_t3_hybrid_power)» — grey USU 1.13, `PPP_pm_t3_hybrid_power`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Смешанное электроснабжение (PPP_pm_t3_hybrid_power)", "Mixed Grid Supply", "PPP_pm_t3_hybrid_power"]
 tags: [grey_usu, метод-производства]

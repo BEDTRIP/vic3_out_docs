@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Boeing» — T&R 1.13, `company_boeing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Boeing", "company_boeing"]
 tags: [tr, вид-компании]

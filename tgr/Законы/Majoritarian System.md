@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Majoritarian System» — TGR 1.13, `law_majoritarian_system`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Majoritarian System", "law_majoritarian_system"]
 tags: [TGR, закон]

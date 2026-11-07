@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Imperial Airways» — Morgenröte 1.13, `curtiss_company_imperial_airways`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Imperial Airways", "curtiss_company_imperial_airways"]
 tags: [Morgenröte, вид-компании]

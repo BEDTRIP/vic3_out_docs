@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««United Fruit Company»» — VC 1.13, `company_united_fruit`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«United Fruit Company»", "United Fruit Company", "company_united_fruit"]
 tags: [VC, вид-компании]

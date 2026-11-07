@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Environmental Policy» — T&R 1.13, `lawgroup_environmental_policy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Environmental Policy", "lawgroup_environmental_policy"]
 tags: [tr, группа-законов]

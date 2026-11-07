@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Distributist Economy» — BPM 1.13, `ideology_eco_distributist_economy`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Distributist Economy", "ideology_eco_distributist_economy"]
 tags: [BPM, идеология]

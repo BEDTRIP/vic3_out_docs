@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bolsa de Valores de México» — E&F 1.13, `building_financial_centre_mex`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bolsa de Valores de México", "building_financial_centre_mex"]
 tags: [ef, здание]

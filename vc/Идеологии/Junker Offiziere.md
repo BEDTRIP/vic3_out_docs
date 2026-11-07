@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Junker Offiziere» — VC 1.13, `ideology_junker_militarism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Junker Offiziere", "ideology_junker_militarism"]
 tags: [VC, идеология]

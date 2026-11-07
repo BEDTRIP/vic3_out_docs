@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Société française des charbonnages du Tonkin» — grey USU 1.13, `company_societe_francaise_charbonnages_du_tonkin`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Société française des charbonnages du Tonkin", "company_societe_francaise_charbonnages_du_tonkin"]
 tags: [grey_usu, вид-компании]

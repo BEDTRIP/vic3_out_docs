@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Warplanes Production» — T&R 1.13, `pm_modern_warplanes_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Warplanes Production", "pm_modern_warplanes_production"]
 tags: [tr, метод-производства]

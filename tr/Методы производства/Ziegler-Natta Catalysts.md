@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Ziegler-Natta Catalysts» — T&R 1.13, `pm_ziegler-natta_catalysts`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ziegler-Natta Catalysts", "pm_ziegler-natta_catalysts"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Steamships» — LLWA 1.13, `LLWA_pm_steamboats`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Steamships", "LLWA_pm_steamboats"]
 tags: [LLWA, метод-производства]

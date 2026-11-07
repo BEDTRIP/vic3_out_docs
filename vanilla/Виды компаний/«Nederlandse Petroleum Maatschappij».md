@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — ваниль 1.13, `company_nederlandse_petroleum`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Nederlandse Petroleum Maatschappij»", "Nederlandse Petroleum Maatschappij", "company_nederlandse_petroleum"]
 tags: [ваниль, вид-компании]

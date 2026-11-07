@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Монументы (bg_monuments_hidden)» — ваниль 1.13, `bg_monuments_hidden`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Монументы (bg_monuments_hidden)", "Monuments", "bg_monuments_hidden"]
 tags: [ваниль, группа-зданий]

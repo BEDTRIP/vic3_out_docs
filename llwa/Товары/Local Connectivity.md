@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Local Connectivity» — LLWA 1.13, `llwa_logi_conn`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Local Connectivity", "llwa_logi_conn"]
 tags: [LLWA, товар]

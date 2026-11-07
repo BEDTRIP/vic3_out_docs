@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Imperial Divan» — Gates of Bosphorus 1.13, `law_imperial_divan`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Imperial Divan", "law_imperial_divan"]
 tags: [gates_of_bosphorus, закон]

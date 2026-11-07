@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Aerodrome» — LLWA 1.13, `LLWA_building_airway`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Aerodrome", "LLWA_building_airway"]
 tags: [LLWA, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Artisans» — BPM 1.13, `ideology_eco_artisan`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Artisans", "ideology_eco_artisan"]
 tags: [BPM, идеология]

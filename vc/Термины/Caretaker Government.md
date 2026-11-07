@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Caretaker Government» — подсказка-понятие Victoria 3 1.13 (`concept_caretaker_government`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Caretaker Government", "concept_caretaker_government"]
 tags: [vc, термин]

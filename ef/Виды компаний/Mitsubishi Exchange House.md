@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mitsubishi Exchange House» — E&F 1.13, `company_Mitsubishiexchangehousebank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Mitsubishi Exchange House", "company_Mitsubishiexchangehousebank"]
 tags: [ef, вид-компании]

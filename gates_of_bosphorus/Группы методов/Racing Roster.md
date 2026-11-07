@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Racing Roster» — Gates of Bosphorus 1.13, `pmg_gbbf_racing_roster`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Racing Roster", "pmg_gbbf_racing_roster"]
 tags: [gates_of_bosphorus, группа-методов]

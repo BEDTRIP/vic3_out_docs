@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Demographic Stages» — подсказка-понятие Victoria 3 1.13 (`concept_demographic_stages`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Demographic Stages", "concept_demographic_stages"]
 tags: [tr, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Bond Stock» — E&F 1.13, `pmg_bond_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bond Stock", "pmg_bond_exchange"]
 tags: [ef, группа-методов]

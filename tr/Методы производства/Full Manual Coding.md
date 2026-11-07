@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Full Manual Coding» — T&R 1.13, `pm_coding_by_hand_building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Full Manual Coding", "pm_coding_by_hand_building_software_industry"]
 tags: [tr, метод-производства]

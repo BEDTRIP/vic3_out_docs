@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Power Grid Stations» — T&R 1.13, `building_power_grid_station`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Power Grid Stations", "building_power_grid_station"]
 tags: [tr, здание]

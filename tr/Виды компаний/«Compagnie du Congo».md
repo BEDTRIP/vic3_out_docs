@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compagnie du Congo»» — T&R 1.13, `company_ccci`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Compagnie du Congo»", "Compagnie du Congo", "company_ccci"]
 tags: [tr, вид-компании]

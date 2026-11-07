@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_livestock_ranch)» — T&R 1.13, `pmg_base_building_livestock_ranch`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Основа (pmg_base_building_livestock_ranch)", "Основа", "pmg_base_building_livestock_ranch"]
 tags: [tr, группа-методов]

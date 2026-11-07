@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Jet Engines» — T&R 1.13, `jet_aviation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Jet Engines", "jet_aviation"]
 tags: [tr, технология]

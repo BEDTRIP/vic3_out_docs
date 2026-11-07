@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Military Uranium Usage» — T&R 1.13, `law_uranium_full_usage`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Military Uranium Usage", "law_uranium_full_usage"]
 tags: [tr, закон]

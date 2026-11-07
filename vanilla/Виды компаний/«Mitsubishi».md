@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Mitsubishi»» — ваниль 1.13, `company_mitsubishi`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Mitsubishi»", "Mitsubishi", "company_mitsubishi"]
 tags: [ваниль, вид-компании]

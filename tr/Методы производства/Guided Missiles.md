@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Guided Missiles» — T&R 1.13, `pm_guided_missiles_building_munition_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Guided Missiles", "pm_guided_missiles_building_munition_plant"]
 tags: [tr, метод-производства]

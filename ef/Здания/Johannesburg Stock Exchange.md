@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Johannesburg Stock Exchange» — E&F 1.13, `building_financial_centre_saf`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Johannesburg Stock Exchange", "building_financial_centre_saf"]
 tags: [ef, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ilva»» — ваниль 1.13, `company_ilva`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Ilva»", "Ilva", "company_ilva"]
 tags: [ваниль, вид-компании]

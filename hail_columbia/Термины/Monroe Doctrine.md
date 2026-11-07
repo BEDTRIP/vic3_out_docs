@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Monroe Doctrine» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_monroe_doctrine`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Monroe Doctrine", "concept_usfp_monroe_doctrine"]
 tags: [hail_columbia, термин]

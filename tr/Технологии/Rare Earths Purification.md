@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rare Earths Purification» — T&R 1.13, `rare_earths_advanced_purification`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rare Earths Purification", "rare_earths_advanced_purification"]
 tags: [tr, технология]

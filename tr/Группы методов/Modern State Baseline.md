@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Modern State Baseline» — T&R 1.13, `pmg_modern_state_baseline`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern State Baseline", "pmg_modern_state_baseline"]
 tags: [tr, группа-методов]

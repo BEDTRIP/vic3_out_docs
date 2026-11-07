@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Beurs van Amsterdam» — E&F 1.13, `building_financial_centre_net`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Beurs van Amsterdam", "building_financial_centre_net"]
 tags: [ef, здание]

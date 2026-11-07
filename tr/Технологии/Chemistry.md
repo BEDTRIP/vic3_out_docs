@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Chemistry» — T&R 1.13, `verrier_chemistry_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Chemistry", "verrier_chemistry_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Inflation Value» — подсказка-понятие Victoria 3 1.13 (`concept_inflation_value`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Inflation Value", "concept_inflation_value"]
 tags: [ef, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Language Barriers» — VC 1.13, `ig_trait_language_barrier`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Language Barriers", "ig_trait_language_barrier"]
 tags: [VC, черта-группы-интересов]

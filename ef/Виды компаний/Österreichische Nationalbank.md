@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Österreichische Nationalbank» — E&F 1.13, `company_OesterreichischeNationalbank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Österreichische Nationalbank", "company_OesterreichischeNationalbank"]
 tags: [ef, вид-компании]

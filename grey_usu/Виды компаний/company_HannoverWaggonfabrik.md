@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_HannoverWaggonfabrik» — grey USU 1.13, `company_HannoverWaggonfabrik`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_HannoverWaggonfabrik"]
 tags: [grey_usu, вид-компании]

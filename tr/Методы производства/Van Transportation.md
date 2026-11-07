@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Van Transportation» — T&R 1.13, `pm_truck_van_transportation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Van Transportation", "pm_truck_van_transportation"]
 tags: [tr, метод-производства]

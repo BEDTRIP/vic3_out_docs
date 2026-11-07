@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Broken Hill Propretary Company» — T&R 1.13, `company_bhp`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Broken Hill Propretary Company", "company_bhp"]
 tags: [tr, вид-компании]

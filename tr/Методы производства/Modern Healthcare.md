@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Healthcare» — T&R 1.13, `pm_modern_healtcare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Healthcare", "pm_modern_healtcare"]
 tags: [tr, метод-производства]

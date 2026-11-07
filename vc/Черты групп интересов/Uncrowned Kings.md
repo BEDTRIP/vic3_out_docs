@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Uncrowned Kings» — VC 1.13, `ig_trait_journalist`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Uncrowned Kings", "ig_trait_journalist"]
 tags: [VC, черта-группы-интересов]

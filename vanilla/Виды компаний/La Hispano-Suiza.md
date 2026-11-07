@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «La Hispano-Suiza» — ваниль 1.13, `company_hispano_suiza`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["La Hispano-Suiza", "company_hispano_suiza"]
 tags: [ваниль, вид-компании]

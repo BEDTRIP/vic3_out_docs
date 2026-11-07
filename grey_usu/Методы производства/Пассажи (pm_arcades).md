@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Пассажи (pm_arcades)» — grey USU 1.13, `pm_arcades`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Пассажи (pm_arcades)", "Arcades", "pm_arcades"]
 tags: [grey_usu, метод-производства]

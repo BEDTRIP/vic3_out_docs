@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Missiles» — T&R 1.13, `pmg_missiles_building_munition_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Missiles", "pmg_missiles_building_munition_plant"]
 tags: [tr, группа-методов]

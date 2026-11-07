@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Traditional Kiln» — Mandate of Heaven 1.13, `pm_chinese_kiln`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Traditional Kiln", "pm_chinese_kiln"]
 tags: [mandate_of_heaven, метод-производства]

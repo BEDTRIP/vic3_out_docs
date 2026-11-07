@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Metal Coverage Ratio» — подсказка-понятие Victoria 3 1.13 (`concept_money_value_target`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Metal Coverage Ratio", "concept_money_value_target"]
 tags: [ef, термин]

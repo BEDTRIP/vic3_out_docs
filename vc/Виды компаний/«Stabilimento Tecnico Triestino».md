@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Stabilimento Tecnico Triestino»» — VC 1.13, `company_stt`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Stabilimento Tecnico Triestino»", "Stabilimento Tecnico Triestino", "company_stt"]
 tags: [VC, вид-компании]

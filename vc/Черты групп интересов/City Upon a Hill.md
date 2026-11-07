@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «City Upon a Hill» — VC 1.13, `ig_trait_city_upon_hill`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["City Upon a Hill", "ig_trait_city_upon_hill"]
 tags: [VC, черта-группы-интересов]

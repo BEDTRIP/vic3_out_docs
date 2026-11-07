@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Радикализм (ideology_radical_movement)» — ваниль 1.13, `ideology_radical_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Радикализм (ideology_radical_movement)", "Radical", "ideology_radical_movement"]
 tags: [ваниль, идеология]

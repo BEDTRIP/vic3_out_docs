@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Light Industry Investments» — TGR 1.13, `economic_incentives_industry_light`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Light Industry Investments", "economic_incentives_industry_light"]
 tags: [TGR, закон]

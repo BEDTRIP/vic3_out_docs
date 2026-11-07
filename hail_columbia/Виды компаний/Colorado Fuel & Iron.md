@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Colorado Fuel & Iron» — Hail Columbia 1.13, `company_usfp_cfi`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Colorado Fuel & Iron", "company_usfp_cfi"]
 tags: [hail_columbia, вид-компании]

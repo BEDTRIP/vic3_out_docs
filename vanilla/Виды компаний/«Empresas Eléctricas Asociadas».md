@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Empresas Eléctricas Asociadas»» — ваниль 1.13, `company_eea`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Empresas Eléctricas Asociadas»", "Empresas Eléctricas Asociadas", "company_eea"]
 tags: [ваниль, вид-компании]

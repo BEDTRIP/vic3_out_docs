@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Explosives» — E&F 1.13, `pmg_explosives_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Explosives", "pmg_explosives_building_silver_mine"]
 tags: [ef, группа-методов]

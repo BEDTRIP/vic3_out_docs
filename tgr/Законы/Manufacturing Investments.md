@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Manufacturing Investments» — TGR 1.13, `economic_incentives_industry_manufactoring`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Manufacturing Investments", "economic_incentives_industry_manufactoring"]
 tags: [TGR, закон]

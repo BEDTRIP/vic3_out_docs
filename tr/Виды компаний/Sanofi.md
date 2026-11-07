@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sanofi» — T&R 1.13, `company_sanofi`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sanofi", "company_sanofi"]
 tags: [tr, вид-компании]

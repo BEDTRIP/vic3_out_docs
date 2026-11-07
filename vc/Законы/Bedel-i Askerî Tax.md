@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Bedel-i Askerî Tax» — VC 1.13, `law_askeri_tax`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Bedel-i Askerî Tax", "law_askeri_tax"]
 tags: [VC, закон]

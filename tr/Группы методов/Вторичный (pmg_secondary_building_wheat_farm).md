@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Вторичный (pmg_secondary_building_wheat_farm)» — T&R 1.13, `pmg_secondary_building_wheat_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Вторичный (pmg_secondary_building_wheat_farm)", "Secondary", "pmg_secondary_building_wheat_farm"]
 tags: [tr, группа-методов]

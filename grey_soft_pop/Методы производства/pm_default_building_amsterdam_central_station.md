@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_amsterdam_central_station» — grey soft pop 1.13, `pm_default_building_amsterdam_central_station`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_amsterdam_central_station"]
 tags: [grey_soft_pop, метод-производства]

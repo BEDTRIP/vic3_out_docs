@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Robotic Bottle Blowers» — T&R 1.13, `pm_advanced_automatic_bottle_blowers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Robotic Bottle Blowers", "pm_advanced_automatic_bottle_blowers"]
 tags: [tr, метод-производства]

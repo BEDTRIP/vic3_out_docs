@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Laser» — T&R 1.13, `laser`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Laser", "laser"]
 tags: [tr, технология]

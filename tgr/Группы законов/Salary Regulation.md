@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Salary Regulation» — TGR 1.13, `lawgroup_salary_regulation`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Salary Regulation", "lawgroup_salary_regulation"]
 tags: [TGR, группа-законов]

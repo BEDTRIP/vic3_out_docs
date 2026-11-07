@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Bioethics» — T&R 1.13, `lawgroup_bioethics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bioethics", "lawgroup_bioethics"]
 tags: [tr, группа-законов]

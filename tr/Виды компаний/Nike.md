@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Nike» — T&R 1.13, `company_nike`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nike", "company_nike"]
 tags: [tr, вид-компании]

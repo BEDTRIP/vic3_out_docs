@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Isoprene» — T&R 1.13, `pm_mendelejew_isoprene`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Isoprene", "pm_mendelejew_isoprene"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Stockholmsbörsen» — E&F 1.13, `building_financial_centre_swe`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Stockholmsbörsen", "building_financial_centre_swe"]
 tags: [ef, здание]

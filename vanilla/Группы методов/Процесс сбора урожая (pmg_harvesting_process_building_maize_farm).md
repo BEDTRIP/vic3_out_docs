@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Процесс сбора урожая (pmg_harvesting_process_building_maize_farm)» — ваниль 1.13, `pmg_harvesting_process_building_maize_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Процесс сбора урожая (pmg_harvesting_process_building_maize_farm)", "Процесс сбора урожая", "pmg_harvesting_process_building_maize_farm"]
 tags: [ваниль, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Alloys & Aluminium Process» — T&R 1.13, `pmg_alloys_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alloys & Aluminium Process", "pmg_alloys_process"]
 tags: [tr, группа-методов]

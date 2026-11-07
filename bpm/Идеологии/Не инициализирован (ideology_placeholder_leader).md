@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Не инициализирован (ideology_placeholder_leader)» — BPM 1.13, `ideology_placeholder_leader`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Не инициализирован (ideology_placeholder_leader)", "Не инициализирован", "ideology_placeholder_leader"]
 tags: [BPM, идеология]

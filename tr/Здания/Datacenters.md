@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Datacenters» — T&R 1.13, `building_datacenter_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Datacenters", "building_datacenter_industry"]
 tags: [tr, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Bond» — E&F 1.13, `bond`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bond", "bond"]
 tags: [ef, товар]

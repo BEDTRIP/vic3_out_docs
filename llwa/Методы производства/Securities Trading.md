@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Securities Trading» — LLWA 1.13, `LLWA_pm_securities_trading`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Securities Trading", "LLWA_pm_securities_trading"]
 tags: [LLWA, метод-производства]

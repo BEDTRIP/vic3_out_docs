@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Huawei» — T&R 1.13, `company_huawei`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Huawei", "company_huawei"]
 tags: [tr, вид-компании]

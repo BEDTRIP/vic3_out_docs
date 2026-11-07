@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «GlaxoSmithKline» — T&R 1.13, `company_glaxosmithkline`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["GlaxoSmithKline", "company_glaxosmithkline"]
 tags: [tr, вид-компании]

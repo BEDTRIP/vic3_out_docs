@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Frankfurter Wertpapierbörse» — E&F 1.13, `building_financial_centre_frm`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Frankfurter Wertpapierbörse", "building_financial_centre_frm"]
 tags: [ef, здание]

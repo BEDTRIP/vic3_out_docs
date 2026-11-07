@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Base Rate Percentage» — подсказка-понятие Victoria 3 1.13 (`concept_base_rate_percentage`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Base Rate Percentage", "concept_base_rate_percentage"]
 tags: [ef, термин]

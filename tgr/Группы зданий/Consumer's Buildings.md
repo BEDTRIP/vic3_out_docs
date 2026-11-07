@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Consumer's Buildings» — TGR 1.13, `bg_consumer_goods`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Consumer's Buildings", "bg_consumer_goods"]
 tags: [TGR, группа-зданий]

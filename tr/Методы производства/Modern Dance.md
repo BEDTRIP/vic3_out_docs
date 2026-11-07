@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Dance» — T&R 1.13, `pm_elgar_modern_ballet`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Dance", "pm_elgar_modern_ballet"]
 tags: [tr, метод-производства]

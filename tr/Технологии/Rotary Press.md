@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rotary Press» — T&R 1.13, `manzoni_rotary_press_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rotary Press", "manzoni_rotary_press_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bugatti» — grey USU 1.13, `company_Bugatti`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bugatti"]
 tags: [grey_usu, вид-компании]

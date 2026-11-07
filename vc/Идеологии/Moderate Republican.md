@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Moderate Republican» — VC 1.13, `ideology_opportunistes`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Moderate Republican", "ideology_opportunistes"]
 tags: [VC, идеология]

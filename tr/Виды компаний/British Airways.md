@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «British Airways» — T&R 1.13, `curtiss_company_imperial_airways`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["British Airways", "curtiss_company_imperial_airways"]
 tags: [tr, вид-компании]

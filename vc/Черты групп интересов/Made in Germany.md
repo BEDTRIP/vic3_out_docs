@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Made in Germany» — VC 1.13, `ig_trait_made_in_germany`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Made in Germany", "ig_trait_made_in_germany"]
 tags: [VC, черта-группы-интересов]

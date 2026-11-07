@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Iron-Frame Buildings» — E&F 1.13, `pm_iron_frame_buildings_private`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Iron-Frame Buildings", "pm_iron_frame_buildings_private"]
 tags: [ef, метод-производства]

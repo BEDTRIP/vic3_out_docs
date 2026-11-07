@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Scribal Bureaucrats» — Gates of Bosphorus 1.13, `law_scribal_bureaucrats`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Scribal Bureaucrats", "law_scribal_bureaucrats"]
 tags: [gates_of_bosphorus, закон]

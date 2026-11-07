@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Integrated Fortification Grid» — T&R 1.13, `pm_naval_fortification_integrated_defense_grid`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Integrated Fortification Grid", "pm_naval_fortification_integrated_defense_grid"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Continuous Beet Diffusion» — T&R 1.13, `pm_continuous_diffusion_sugar_beet_refining`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Continuous Beet Diffusion", "pm_continuous_diffusion_sugar_beet_refining"]
 tags: [tr, метод-производства]

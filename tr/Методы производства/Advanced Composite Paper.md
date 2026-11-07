@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Composite Paper» — T&R 1.13, `pm_advanced_composite_paper`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Composite Paper", "pm_advanced_composite_paper"]
 tags: [tr, метод-производства]

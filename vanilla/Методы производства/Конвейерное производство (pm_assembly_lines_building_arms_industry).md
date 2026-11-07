@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_arms_industry)» — ваниль 1.13, `pm_assembly_lines_building_arms_industry`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Конвейерное производство (pm_assembly_lines_building_arms_industry)", "Assembly Lines", "pm_assembly_lines_building_arms_industry"]
 tags: [ваниль, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Industrial Investments» — TGR 1.13, `lawgroup_economic_incentives_tertiary`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Industrial Investments", "lawgroup_economic_incentives_tertiary"]
 tags: [TGR, группа-законов]

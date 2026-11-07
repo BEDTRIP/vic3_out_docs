@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Battery Plants» — T&R 1.13, `building_battery_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Battery Plants", "building_battery_plant"]
 tags: [tr, здание]

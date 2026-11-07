@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Fraternal Societies» — Hail Columbia 1.13, `law_usfp_fraternities`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Fraternal Societies", "law_usfp_fraternities"]
 tags: [hail_columbia, закон]

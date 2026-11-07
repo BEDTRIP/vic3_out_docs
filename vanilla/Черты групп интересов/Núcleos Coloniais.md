@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Núcleos Coloniais» — ваниль 1.13, `ig_trait_nucleos_coloniais`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Núcleos Coloniais", "ig_trait_nucleos_coloniais"]
 tags: [ваниль, черта-группы-интересов]

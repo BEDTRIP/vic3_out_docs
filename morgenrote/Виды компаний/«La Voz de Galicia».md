@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««La Voz de Galicia»» — Morgenröte 1.13, `pbi_company_la_voz_de_galicia`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«La Voz de Galicia»", "La Voz de Galicia", "pbi_company_la_voz_de_galicia"]
 tags: [Morgenröte, вид-компании]

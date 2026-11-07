@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Oil Distillation» — T&R 1.13, `oil_distillation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Oil Distillation", "oil_distillation"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Steel Brothers & Co. Ltd»» — ваниль 1.13, `company_steel_brothers`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Steel Brothers & Co. Ltd»", "Steel Brothers & Co. Ltd", "company_steel_brothers"]
 tags: [ваниль, вид-компании]

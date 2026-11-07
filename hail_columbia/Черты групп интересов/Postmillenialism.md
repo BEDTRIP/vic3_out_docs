@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Postmillenialism» — Hail Columbia 1.13, `usfp_ig_trait_postmillennialism`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Postmillenialism", "usfp_ig_trait_postmillennialism"]
 tags: [hail_columbia, черта-группы-интересов]

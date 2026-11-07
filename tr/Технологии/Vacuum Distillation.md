@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Vacuum Distillation» — T&R 1.13, `vacuum_distillation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vacuum Distillation", "vacuum_distillation"]
 tags: [tr, технология]

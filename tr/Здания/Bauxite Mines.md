@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bauxite Mines» — T&R 1.13, `building_bauxite_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bauxite Mines", "building_bauxite_mine"]
 tags: [tr, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Tejarat Persia Bank» — E&F 1.13, `company_BankTejaratPersia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Tejarat Persia Bank", "company_BankTejaratPersia"]
 tags: [ef, вид-компании]

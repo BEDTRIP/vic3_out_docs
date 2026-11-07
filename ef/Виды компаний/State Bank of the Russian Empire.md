@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «State Bank of the Russian Empire» — E&F 1.13, `company_StateBankRussianEmpire`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["State Bank of the Russian Empire", "company_StateBankRussianEmpire"]
 tags: [ef, вид-компании]

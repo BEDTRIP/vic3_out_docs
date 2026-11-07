@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Extreme Environmentalist» — T&R 1.13, `ideology_extreme_ambientalist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Extreme Environmentalist", "ideology_extreme_ambientalist"]
 tags: [tr, идеология]

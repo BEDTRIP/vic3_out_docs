@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Directed Energy Weapons» — T&R 1.13, `directed_energy_weapons`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Directed Energy Weapons", "directed_energy_weapons"]
 tags: [tr, технология]

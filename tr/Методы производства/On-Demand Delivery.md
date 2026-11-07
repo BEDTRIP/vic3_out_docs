@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «On-Demand Delivery» — T&R 1.13, `pm_delivering_on_demand_bakery`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["On-Demand Delivery", "pm_delivering_on_demand_bakery"]
 tags: [tr, метод-производства]

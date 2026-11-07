@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Интегрализм (ideology_integralist)» — ваниль 1.13, `ideology_integralist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Интегрализм (ideology_integralist)", "Integralist", "ideology_integralist"]
 tags: [ваниль, идеология]

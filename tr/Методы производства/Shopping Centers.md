@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Shopping Centers» — T&R 1.13, `pm_shopping_centers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Shopping Centers", "pm_shopping_centers"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Mining Stock» — E&F 1.13, `pm_no_private_ownership_mining_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No Mining Stock", "pm_no_private_ownership_mining_stock"]
 tags: [ef, метод-производства]

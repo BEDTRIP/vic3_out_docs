@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Universalist» — VC 1.13, `ideology_inclusiveness`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Universalist", "ideology_inclusiveness"]
 tags: [VC, идеология]

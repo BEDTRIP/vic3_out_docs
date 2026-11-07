@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Mercantil» — E&F 1.13, `company_BancoMercantil`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Mercantil", "company_BancoMercantil"]
 tags: [ef, вид-компании]

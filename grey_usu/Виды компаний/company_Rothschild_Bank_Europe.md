@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Rothschild_Bank_Europe» — grey USU 1.13, `company_Rothschild_Bank_Europe`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Rothschild_Bank_Europe"]
 tags: [grey_usu, вид-компании]

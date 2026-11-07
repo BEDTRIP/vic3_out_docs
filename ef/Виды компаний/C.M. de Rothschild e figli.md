@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «C.M. de Rothschild e figli» — E&F 1.13, `company_Rothschild_Bank_ita`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["C.M. de Rothschild e figli", "company_Rothschild_Bank_ita"]
 tags: [ef, вид-компании]

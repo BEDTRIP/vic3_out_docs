@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Janissary Corps» — VC 1.13, `ideology_janissary`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Janissary Corps", "ideology_janissary"]
 tags: [VC, идеология]

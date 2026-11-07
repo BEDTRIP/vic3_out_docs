@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Restitutor Orbis» — ваниль 1.13, `special_character_restitutor_orbis`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Restitutor Orbis", "special_character_restitutor_orbis"]
 tags: [ваниль, черта]

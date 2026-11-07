@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Logistics Hubs» — T&R 1.13, `pm_logistics_hubs_building_railway`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Logistics Hubs", "pm_logistics_hubs_building_railway"]
 tags: [tr, метод-производства]

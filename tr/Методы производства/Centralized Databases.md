@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Centralized Databases» — T&R 1.13, `pm_rudimental_data_networks`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Centralized Databases", "pm_rudimental_data_networks"]
 tags: [tr, метод-производства]

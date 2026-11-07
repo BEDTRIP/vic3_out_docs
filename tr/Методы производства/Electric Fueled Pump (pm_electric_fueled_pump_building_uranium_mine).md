@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Fueled Pump (pm_electric_fueled_pump_building_uranium_mine)» — T&R 1.13, `pm_electric_fueled_pump_building_uranium_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Fueled Pump (pm_electric_fueled_pump_building_uranium_mine)", "Electric Fueled Pump", "pm_electric_fueled_pump_building_uranium_mine"]
 tags: [tr, метод-производства]

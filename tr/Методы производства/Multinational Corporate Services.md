@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Multinational Corporate Services» — T&R 1.13, `pm_multinational_corporate_services`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Multinational Corporate Services", "pm_multinational_corporate_services"]
 tags: [tr, метод-производства]

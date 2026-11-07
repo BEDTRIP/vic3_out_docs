@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Patriotism» — VC 1.13, `ig_trait_light_not_reach`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Patriotism", "ig_trait_light_not_reach"]
 tags: [VC, черта-группы-интересов]

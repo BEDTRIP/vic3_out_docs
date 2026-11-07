@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Nacional de Panamá» — E&F 1.13, `company_BancoNacionalDePanama`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Nacional de Panamá", "company_BancoNacionalDePanama"]
 tags: [ef, вид-компании]

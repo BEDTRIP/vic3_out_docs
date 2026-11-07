@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Сёдзёи (ideology_meiji_restorationist_movement_shojoi)» — ваниль 1.13, `ideology_meiji_restorationist_movement_shojoi`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Сёдзёи (ideology_meiji_restorationist_movement_shojoi)", "Shōjōi", "ideology_meiji_restorationist_movement_shojoi"]
 tags: [ваниль, идеология]

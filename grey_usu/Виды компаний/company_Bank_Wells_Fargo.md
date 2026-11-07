@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bank_Wells_Fargo» — grey USU 1.13, `company_Bank_Wells_Fargo`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bank_Wells_Fargo"]
 tags: [grey_usu, вид-компании]

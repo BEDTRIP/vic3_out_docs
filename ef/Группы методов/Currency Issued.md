@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Currency Issued» — E&F 1.13, `pmg_currency_type`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Currency Issued", "pmg_currency_type"]
 tags: [ef, группа-методов]

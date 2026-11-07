@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «PVC Cabled Wire» — T&R 1.13, `pm_advanced_copperwires`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["PVC Cabled Wire", "pm_advanced_copperwires"]
 tags: [tr, метод-производства]

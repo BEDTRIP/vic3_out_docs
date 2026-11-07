@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Pop Art» — T&R 1.13, `pm_pop_art`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Pop Art", "pm_pop_art"]
 tags: [tr, метод-производства]

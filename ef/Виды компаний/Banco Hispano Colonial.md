@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Hispano Colonial» — E&F 1.13, `company_BancoHispanoColonial`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Hispano Colonial", "company_BancoHispanoColonial"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Vienna Circle» — VC 1.13, `ig_trait_wiener_kreis`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Vienna Circle", "ig_trait_wiener_kreis"]
 tags: [VC, черта-группы-интересов]

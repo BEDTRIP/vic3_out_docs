@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «GMO Crops (pm_ogm_building_rice_farm)» — T&R 1.13, `pm_ogm_building_rice_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["GMO Crops (pm_ogm_building_rice_farm)", "GMO Crops", "pm_ogm_building_rice_farm"]
 tags: [tr, метод-производства]

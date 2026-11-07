@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Дизельный насос (pm_diesel_pump_building_gold_mine)» — ваниль 1.13, `pm_diesel_pump_building_gold_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Дизельный насос (pm_diesel_pump_building_gold_mine)", "Diesel Pump", "pm_diesel_pump_building_gold_mine"]
 tags: [ваниль, метод-производства]

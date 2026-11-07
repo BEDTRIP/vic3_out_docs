@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Anglo Persian Bank» — E&F 1.13, `company_BankAngloPersian`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Anglo Persian Bank", "company_BankAngloPersian"]
 tags: [ef, вид-компании]

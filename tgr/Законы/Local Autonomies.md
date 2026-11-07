@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Local Autonomies» — TGR 1.13, `law_local_autonomies`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Local Autonomies", "law_local_autonomies"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Disused Administrative Center (pm_gbbf_dolmabahce_palace_inactive)» — Gates of Bosphorus 1.13, `pm_gbbf_dolmabahce_palace_inactive`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Disused Administrative Center (pm_gbbf_dolmabahce_palace_inactive)", "Disused Administrative Center", "pm_gbbf_dolmabahce_palace_inactive"]
 tags: [gates_of_bosphorus, метод-производства]

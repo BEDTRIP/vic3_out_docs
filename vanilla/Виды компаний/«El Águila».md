@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««El Águila»» — ваниль 1.13, `company_el_aguila`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«El Águila»", "El Águila", "company_el_aguila"]
 tags: [ваниль, вид-компании]

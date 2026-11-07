@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Philippine Peso» — E&F 1.13, `law_peso_philippine_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Philippine Peso", "law_peso_philippine_peso_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «By Divine Right» — VC 1.13, `ig_trait_godrights`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["By Divine Right", "ig_trait_godrights"]
 tags: [VC, черта-группы-интересов]

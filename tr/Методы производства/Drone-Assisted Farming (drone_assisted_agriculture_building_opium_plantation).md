@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Drone-Assisted Farming (drone_assisted_agriculture_building_opium_plantation)» — T&R 1.13, `drone_assisted_agriculture_building_opium_plantation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Drone-Assisted Farming (drone_assisted_agriculture_building_opium_plantation)", "Drone-Assisted Farming", "drone_assisted_agriculture_building_opium_plantation"]
 tags: [tr, метод-производства]

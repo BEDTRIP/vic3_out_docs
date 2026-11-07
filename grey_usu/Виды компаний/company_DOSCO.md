@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_DOSCO» — grey USU 1.13, `company_DOSCO`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_DOSCO"]
 tags: [grey_usu, вид-компании]

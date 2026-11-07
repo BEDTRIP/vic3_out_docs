@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Civil Drones» — T&R 1.13, `civil_drones`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Civil Drones", "civil_drones"]
 tags: [tr, технология]

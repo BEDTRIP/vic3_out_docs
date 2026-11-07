@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bourse de Montréal» — E&F 1.13, `building_financial_centre_que`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bourse de Montréal", "building_financial_centre_que"]
 tags: [ef, здание]

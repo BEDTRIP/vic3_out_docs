@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Belgian Franc» — E&F 1.13, `law_franc_belgian_franc_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Belgian Franc", "law_franc_belgian_franc_currency"]
 tags: [ef, закон]

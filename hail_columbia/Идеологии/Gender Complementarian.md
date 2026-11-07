@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Gender Complementarian» — Hail Columbia 1.13, `ideology_usfp_gender_complementarian`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Gender Complementarian", "ideology_usfp_gender_complementarian"]
 tags: [hail_columbia, идеология]

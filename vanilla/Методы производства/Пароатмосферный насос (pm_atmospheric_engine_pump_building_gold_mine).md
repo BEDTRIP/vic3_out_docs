@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Пароатмосферный насос (pm_atmospheric_engine_pump_building_gold_mine)» — ваниль 1.13, `pm_atmospheric_engine_pump_building_gold_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Пароатмосферный насос (pm_atmospheric_engine_pump_building_gold_mine)", "Atmospheric Engine Pump", "pm_atmospheric_engine_pump_building_gold_mine"]
 tags: [ваниль, метод-производства]

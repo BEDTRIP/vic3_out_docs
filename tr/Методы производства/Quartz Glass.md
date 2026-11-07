@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Quartz Glass» — T&R 1.13, `pm_quartz_glass`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Quartz Glass", "pm_quartz_glass"]
 tags: [tr, метод-производства]

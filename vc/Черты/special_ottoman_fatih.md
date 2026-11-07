@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «special_ottoman_fatih» — VC 1.13, `special_ottoman_fatih`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["special_ottoman_fatih"]
 tags: [VC, черта]

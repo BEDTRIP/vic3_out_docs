@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Memorialized Administrative Center» — Gates of Bosphorus 1.13, `pm_gbbf_topkapi_palace_museum`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Memorialized Administrative Center", "pm_gbbf_topkapi_palace_museum"]
 tags: [gates_of_bosphorus, метод-производства]

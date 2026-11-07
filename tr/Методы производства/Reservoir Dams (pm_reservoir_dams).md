@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Reservoir Dams (pm_reservoir_dams)» — T&R 1.13, `pm_reservoir_dams`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Reservoir Dams (pm_reservoir_dams)", "Reservoir Dams", "pm_reservoir_dams"]
 tags: [tr, метод-производства]

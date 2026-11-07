@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ford Motor Company»» — T&R 1.13, `company_ford_motor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Ford Motor Company»", "Ford Motor Company", "company_ford_motor"]
 tags: [tr, вид-компании]

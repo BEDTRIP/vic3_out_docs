@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартное производство (pm_default_building_gran_teatro_de_la_habana)» — ваниль 1.13, `pm_default_building_gran_teatro_de_la_habana`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартное производство (pm_default_building_gran_teatro_de_la_habana)", "Default Production", "pm_default_building_gran_teatro_de_la_habana"]
 tags: [ваниль, метод-производства]

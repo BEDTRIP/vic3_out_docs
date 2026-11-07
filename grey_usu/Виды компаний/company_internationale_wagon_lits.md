@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_internationale_wagon_lits» — grey USU 1.13, `company_internationale_wagon_lits`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_internationale_wagon_lits"]
 tags: [grey_usu, вид-компании]

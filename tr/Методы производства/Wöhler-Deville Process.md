@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Wöhler-Deville Process» — T&R 1.13, `pm_wohler_deville_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wöhler-Deville Process", "pm_wohler_deville_process"]
 tags: [tr, метод-производства]

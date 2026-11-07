@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Frontier Pioneers» — VC 1.13, `ig_trait_frontier_pioneers`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Frontier Pioneers", "ig_trait_frontier_pioneers"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_usfp_strongman_populist» — CMF 1.13, `ideology_usfp_strongman_populist`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["ideology_usfp_strongman_populist"]
 tags: [CMF, идеология]

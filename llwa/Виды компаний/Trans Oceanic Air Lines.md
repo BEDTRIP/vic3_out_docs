@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Trans Oceanic Air Lines» — LLWA 1.13, `LLWA_company_airline`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Trans Oceanic Air Lines", "LLWA_company_airline"]
 tags: [LLWA, вид-компании]

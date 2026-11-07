@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electro-Refining Process» — T&R 1.13, `pm_electro-refining_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electro-Refining Process", "pm_electro-refining_process"]
 tags: [tr, метод-производства]

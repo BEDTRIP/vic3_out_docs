@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Fundição Ipanema»» — T&R 1.13, `company_fundicao_ipanema`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Fundição Ipanema»", "Fundição Ipanema", "company_fundicao_ipanema"]
 tags: [tr, вид-компании]

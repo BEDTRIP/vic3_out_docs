@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Nomura Research Institute» — T&R 1.13, `company_nri_nomura`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nomura Research Institute", "company_nri_nomura"]
 tags: [tr, вид-компании]

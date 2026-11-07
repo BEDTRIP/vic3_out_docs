@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Revolutionary Vanguard» — VC 1.13, `ig_trait_revolutionsfuhrer`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Revolutionary Vanguard", "ig_trait_revolutionsfuhrer"]
 tags: [VC, черта-группы-интересов]

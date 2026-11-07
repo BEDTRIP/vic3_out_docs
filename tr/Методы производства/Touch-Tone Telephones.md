@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Touch-Tone Telephones» — T&R 1.13, `pm_touch_tone_telephones`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Touch-Tone Telephones", "pm_touch_tone_telephones"]
 tags: [tr, метод-производства]

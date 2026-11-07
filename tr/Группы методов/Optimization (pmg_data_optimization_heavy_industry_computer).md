@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Optimization (pmg_data_optimization_heavy_industry_computer)» — T&R 1.13, `pmg_data_optimization_heavy_industry_computer`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Optimization (pmg_data_optimization_heavy_industry_computer)", "Optimization", "pmg_data_optimization_heavy_industry_computer"]
 tags: [tr, группа-методов]

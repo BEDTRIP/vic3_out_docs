@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Software Industry» — T&R 1.13, `building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Software Industry", "building_software_industry"]
 tags: [tr, здание]

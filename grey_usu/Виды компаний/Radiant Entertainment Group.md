@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Radiant Entertainment Group» — grey USU 1.13, `company_basic_community`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Radiant Entertainment Group", "company_basic_community"]
 tags: [grey_usu, вид-компании]

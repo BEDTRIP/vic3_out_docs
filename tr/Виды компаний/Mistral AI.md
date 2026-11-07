@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mistral AI» — T&R 1.13, `company_mistral_ai`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mistral AI", "company_mistral_ai"]
 tags: [tr, вид-компании]

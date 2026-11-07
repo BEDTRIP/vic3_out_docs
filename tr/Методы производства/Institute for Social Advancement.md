@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Institute for Social Advancement» — T&R 1.13, `pm_research_center_education`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Institute for Social Advancement", "pm_research_center_education"]
 tags: [tr, метод-производства]

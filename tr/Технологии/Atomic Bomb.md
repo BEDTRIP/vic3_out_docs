@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Atomic Bomb» — T&R 1.13, `atomic_bomb`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Atomic Bomb", "atomic_bomb"]
 tags: [tr, технология]

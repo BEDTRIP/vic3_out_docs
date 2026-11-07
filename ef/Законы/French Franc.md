@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «French Franc» — E&F 1.13, `law_franc_french_franc_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["French Franc", "law_franc_french_franc_currency"]
 tags: [ef, закон]

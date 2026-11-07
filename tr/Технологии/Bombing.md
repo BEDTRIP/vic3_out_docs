@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Bombing» — T&R 1.13, `bombing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bombing", "bombing"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Iraqi Dinar» — E&F 1.13, `law_dinar_iraqi_dinar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Iraqi Dinar", "law_dinar_iraqi_dinar_currency"]
 tags: [ef, закон]

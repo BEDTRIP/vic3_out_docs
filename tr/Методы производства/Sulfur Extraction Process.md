@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Sulfur Extraction Process» — T&R 1.13, `selective_mineral_extraction_coal_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sulfur Extraction Process", "selective_mineral_extraction_coal_mine"]
 tags: [tr, метод-производства]

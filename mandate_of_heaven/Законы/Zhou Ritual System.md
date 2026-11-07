@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Zhou Ritual System» — Mandate of Heaven 1.13, `law_zhou_ritual_system`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Zhou Ritual System", "law_zhou_ritual_system"]
 tags: [mandate_of_heaven, закон]

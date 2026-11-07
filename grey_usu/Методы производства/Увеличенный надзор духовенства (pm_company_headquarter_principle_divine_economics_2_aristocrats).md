@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_aristocrats)» — grey USU 1.13, `pm_company_headquarter_principle_divine_economics_2_aristocrats`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_aristocrats)", "Увеличенный надзор духовенства", "pm_company_headquarter_principle_divine_economics_2_aristocrats"]
 tags: [grey_usu, метод-производства]

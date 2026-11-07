@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «National Institute of Social Security» — TGR 1.13, `law_modern_pension`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["National Institute of Social Security", "law_modern_pension"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Gyokusai (Shattered Jewel Charge)» — VC 1.13, `ig_trait_gyokusai_charge`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Gyokusai (Shattered Jewel Charge)", "ig_trait_gyokusai_charge"]
 tags: [VC, черта-группы-интересов]

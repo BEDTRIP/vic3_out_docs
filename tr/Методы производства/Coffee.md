@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Coffee» — T&R 1.13, `pm_hydroponic_coffee`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Coffee", "pm_hydroponic_coffee"]
 tags: [tr, метод-производства]

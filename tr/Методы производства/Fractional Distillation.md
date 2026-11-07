@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fractional Distillation» — T&R 1.13, `pm_fractional_distillation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fractional Distillation", "pm_fractional_distillation"]
 tags: [tr, метод-производства]

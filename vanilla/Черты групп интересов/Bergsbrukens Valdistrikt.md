@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Bergsbrukens Valdistrikt» — ваниль 1.13, `ig_trait_bergsbrukens_valdistrikten`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Bergsbrukens Valdistrikt", "ig_trait_bergsbrukens_valdistrikten"]
 tags: [ваниль, черта-группы-интересов]

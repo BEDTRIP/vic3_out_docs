@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «bg_silver_mining» — E&F 1.13, `bg_silver_mining`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["bg_silver_mining"]
 tags: [ef, группа-зданий]

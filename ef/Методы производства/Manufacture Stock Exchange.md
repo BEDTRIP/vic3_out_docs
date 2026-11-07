@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Manufacture Stock Exchange» — E&F 1.13, `pm_manufacture_stock_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Manufacture Stock Exchange", "pm_manufacture_stock_exchange"]
 tags: [ef, метод-производства]

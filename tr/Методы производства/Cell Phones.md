@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cell Phones» — T&R 1.13, `pm_cell_phones`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cell Phones", "pm_cell_phones"]
 tags: [tr, метод-производства]

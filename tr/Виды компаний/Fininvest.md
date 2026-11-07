@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Fininvest» — T&R 1.13, `company_fininvest`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fininvest", "company_fininvest"]
 tags: [tr, вид-компании]

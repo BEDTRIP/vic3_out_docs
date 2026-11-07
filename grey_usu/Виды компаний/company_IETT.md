@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_IETT» — grey USU 1.13, `company_IETT`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_IETT"]
 tags: [grey_usu, вид-компании]

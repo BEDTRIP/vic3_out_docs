@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Montgolfier Balloons» — T&R 1.13, `curtiss_montgolfier_balloon_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Montgolfier Balloons", "curtiss_montgolfier_balloon_tech"]
 tags: [tr, технология]

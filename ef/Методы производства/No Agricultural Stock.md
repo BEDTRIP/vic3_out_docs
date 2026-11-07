@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Agricultural Stock» — E&F 1.13, `pm_no_private_ownership_agricultural_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No Agricultural Stock", "pm_no_private_ownership_agricultural_stock"]
 tags: [ef, метод-производства]

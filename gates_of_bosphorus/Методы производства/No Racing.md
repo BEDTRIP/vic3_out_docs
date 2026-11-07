@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Racing» — Gates of Bosphorus 1.13, `pm_gbbf_no_races`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["No Racing", "pm_gbbf_no_races"]
 tags: [gates_of_bosphorus, метод-производства]

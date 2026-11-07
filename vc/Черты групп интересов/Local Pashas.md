@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Local Pashas» — VC 1.13, `ig_trait_local_pashas`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Local Pashas", "ig_trait_local_pashas"]
 tags: [VC, черта-группы-интересов]

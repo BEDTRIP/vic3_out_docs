@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Florin» — E&F 1.13, `law_gulden_florin_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Florin", "law_gulden_florin_currency"]
 tags: [ef, закон]

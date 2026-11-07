@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_banca_nationala_romaniei» — grey soft pop 1.13, `pm_default_building_banca_nationala_romaniei`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_banca_nationala_romaniei"]
 tags: [grey_soft_pop, метод-производства]

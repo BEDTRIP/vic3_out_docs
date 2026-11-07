@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Beiersdorf» — T&R 1.13, `company_beiersdorf`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Beiersdorf", "company_beiersdorf"]
 tags: [tr, вид-компании]

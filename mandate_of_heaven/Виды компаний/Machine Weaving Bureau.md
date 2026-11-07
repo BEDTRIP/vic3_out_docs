@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Machine Weaving Bureau» — Mandate of Heaven 1.13, `company_machine_weaving_bureau`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Machine Weaving Bureau", "company_machine_weaving_bureau"]
 tags: [mandate_of_heaven, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Vacuum Distillation» — T&R 1.13, `pm_vacuum_distillation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vacuum Distillation", "pm_vacuum_distillation"]
 tags: [tr, метод-производства]

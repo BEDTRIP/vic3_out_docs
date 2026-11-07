@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fur Trapping» — Hail Columbia 1.13, `usfp_pm_fur_trapping`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Fur Trapping", "usfp_pm_fur_trapping"]
 tags: [hail_columbia, метод-производства]

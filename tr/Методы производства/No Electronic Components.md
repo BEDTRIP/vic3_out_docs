@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Electronic Components» — T&R 1.13, `pm_no_electroniccomponents_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Electronic Components", "pm_no_electroniccomponents_production"]
 tags: [tr, метод-производства]

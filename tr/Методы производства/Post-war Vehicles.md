@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Post-war Vehicles» — T&R 1.13, `pm_modern_vehicles_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Post-war Vehicles", "pm_modern_vehicles_production"]
 tags: [tr, метод-производства]

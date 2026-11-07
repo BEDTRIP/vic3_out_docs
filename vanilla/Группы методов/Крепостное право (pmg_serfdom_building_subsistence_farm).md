@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Крепостное право (pmg_serfdom_building_subsistence_farm)» — ваниль 1.13, `pmg_serfdom_building_subsistence_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Крепостное право (pmg_serfdom_building_subsistence_farm)", "Крепостное право", "pmg_serfdom_building_subsistence_farm"]
 tags: [ваниль, группа-методов]

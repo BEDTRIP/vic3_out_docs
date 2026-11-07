@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Corinth Canal» — Gates of Bosphorus 1.13, `gbbf_building_corinth_canal`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Corinth Canal", "gbbf_building_corinth_canal"]
 tags: [gates_of_bosphorus, здание]

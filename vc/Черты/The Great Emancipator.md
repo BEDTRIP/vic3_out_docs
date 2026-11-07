@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «The Great Emancipator» — VC 1.13, `special_character_abraham_lincoln_popularity`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["The Great Emancipator", "special_character_abraham_lincoln_popularity"]
 tags: [VC, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Tokyo Electric Light Company, Ltd» — ваниль 1.13, `company_tokyo_electric_light_company`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Tokyo Electric Light Company, Ltd", "company_tokyo_electric_light_company"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Astronautics» — T&R 1.13, `astronautics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Astronautics", "astronautics"]
 tags: [tr, технология]

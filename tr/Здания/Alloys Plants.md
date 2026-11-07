@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Alloys Plants» — T&R 1.13, `building_alloys_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alloys Plants", "building_alloys_plant"]
 tags: [tr, здание]

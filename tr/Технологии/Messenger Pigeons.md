@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Messenger Pigeons» — T&R 1.13, `curtiss_messenger_pidgeons_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Messenger Pigeons", "curtiss_messenger_pidgeons_tech"]
 tags: [tr, технология]

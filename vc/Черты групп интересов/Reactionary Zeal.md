@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Reactionary Zeal» — VC 1.13, `ig_trait_reactionary_enthusiasm`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Reactionary Zeal", "ig_trait_reactionary_enthusiasm"]
 tags: [VC, черта-группы-интересов]

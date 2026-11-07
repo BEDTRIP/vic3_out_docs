@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «TotalEnergies» — T&R 1.13, `company_total`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["TotalEnergies", "company_total"]
 tags: [tr, вид-компании]

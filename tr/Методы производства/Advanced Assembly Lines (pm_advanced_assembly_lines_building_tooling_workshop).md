@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Assembly Lines (pm_advanced_assembly_lines_building_tooling_workshop)» — T&R 1.13, `pm_advanced_assembly_lines_building_tooling_workshop`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Assembly Lines (pm_advanced_assembly_lines_building_tooling_workshop)", "Advanced Assembly Lines", "pm_advanced_assembly_lines_building_tooling_workshop"]
 tags: [tr, метод-производства]

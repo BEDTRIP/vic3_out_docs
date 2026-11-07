@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Imperial Dominion» — подсказка-понятие Victoria 3 1.13 (`concept_british_dominion`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Imperial Dominion", "concept_british_dominion"]
 tags: [vc, термин]

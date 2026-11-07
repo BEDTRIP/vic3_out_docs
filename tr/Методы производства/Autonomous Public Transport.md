@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Autonomous Public Transport» — T&R 1.13, `pm_autonomous_city_transport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Autonomous Public Transport", "pm_autonomous_city_transport"]
 tags: [tr, метод-производства]

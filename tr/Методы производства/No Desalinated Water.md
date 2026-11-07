@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Desalinated Water» — T&R 1.13, `pm_no_desalinated_water`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Desalinated Water", "pm_no_desalinated_water"]
 tags: [tr, метод-производства]

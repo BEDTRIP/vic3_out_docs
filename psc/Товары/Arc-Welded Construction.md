@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Arc-Welded Construction» — PSC 1.13, `arc_welded_construction`"
 project: vic3
+audience: agent
 source: psc
 aliases: ["Arc-Welded Construction", "arc_welded_construction"]
 tags: [PSC, товар]

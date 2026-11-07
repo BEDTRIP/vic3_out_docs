@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «3D Printed Tools» — T&R 1.13, `pm_3d_printed_tools`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["3D Printed Tools", "pm_3d_printed_tools"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Agricultural Investments» — TGR 1.13, `economic_incentives_agricolture`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Agricultural Investments", "economic_incentives_agricolture"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Chocolate-Cream Soldier» — VC 1.13, `ig_trait_chocolate_cream_soldier`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Chocolate-Cream Soldier", "ig_trait_chocolate_cream_soldier"]
 tags: [VC, черта-группы-интересов]

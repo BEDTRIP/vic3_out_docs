@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Производство предметов роскоши (pmg_luxury_building_furniture_manufactory)» — ваниль 1.13, `pmg_luxury_building_furniture_manufactory`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Производство предметов роскоши (pmg_luxury_building_furniture_manufactory)", "Luxury Production", "pmg_luxury_building_furniture_manufactory"]
 tags: [ваниль, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Extreme Traditionalist» — T&R 1.13, `ideology_extreme_traditionalist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Extreme Traditionalist", "ideology_extreme_traditionalist"]
 tags: [tr, идеология]

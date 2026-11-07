@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Networking Protocols» — T&R 1.13, `networking_protocols`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Networking Protocols", "networking_protocols"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No monetary policy» — E&F 1.13, `pm_no_monetary_policy`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No monetary policy", "pm_no_monetary_policy"]
 tags: [ef, метод-производства]

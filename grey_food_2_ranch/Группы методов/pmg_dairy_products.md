@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «pmg_dairy_products» — grey food 2 ranch 1.13, `pmg_dairy_products`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pmg_dairy_products"]
 tags: [grey_food_2_ranch, группа-методов]

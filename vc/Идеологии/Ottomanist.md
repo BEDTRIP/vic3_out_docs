@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Ottomanist» — VC 1.13, `ideology_ottomanism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Ottomanist", "ideology_ottomanism"]
 tags: [VC, идеология]

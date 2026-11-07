@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Funded Research Projects» — T&R 1.13, `funded_research_projects`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Funded Research Projects", "funded_research_projects"]
 tags: [tr, технология]

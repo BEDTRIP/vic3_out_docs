@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_industrial_preserves» — grey food 2 ranch 1.13, `pm_industrial_preserves`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_industrial_preserves"]
 tags: [grey_food_2_ranch, метод-производства]

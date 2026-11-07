@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Revaluation» — E&F 1.13, `law_revaluation`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Revaluation", "law_revaluation"]
 tags: [ef, закон]

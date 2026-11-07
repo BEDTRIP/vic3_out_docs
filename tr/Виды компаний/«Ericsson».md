@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ericsson»» — T&R 1.13, `company_ericsson`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Ericsson»", "Ericsson", "company_ericsson"]
 tags: [tr, вид-компании]

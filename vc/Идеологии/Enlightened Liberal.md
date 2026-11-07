@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Enlightened Liberal» — VC 1.13, `ideology_enlightlism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Enlightened Liberal", "ideology_enlightlism"]
 tags: [VC, идеология]

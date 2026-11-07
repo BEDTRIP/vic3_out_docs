@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Clearing Houses» — LLWA 1.13, `LLWA_pm_clearing_houses`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Clearing Houses", "LLWA_pm_clearing_houses"]
 tags: [LLWA, метод-производства]

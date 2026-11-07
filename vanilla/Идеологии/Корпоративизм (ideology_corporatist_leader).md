@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Корпоративизм (ideology_corporatist_leader)» — ваниль 1.13, `ideology_corporatist_leader`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Корпоративизм (ideology_corporatist_leader)", "Corporatist", "ideology_corporatist_leader"]
 tags: [ваниль, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Welsh MPs» — подсказка-понятие Victoria 3 1.13 (`concept_westminster_wales`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Welsh MPs", "concept_westminster_wales"]
 tags: [vc, термин]

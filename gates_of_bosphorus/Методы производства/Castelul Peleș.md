@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Castelul Peleș» — Gates of Bosphorus 1.13, `pm_gbbf_castelul_peles`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Castelul Peleș", "pm_gbbf_castelul_peles"]
 tags: [gates_of_bosphorus, метод-производства]

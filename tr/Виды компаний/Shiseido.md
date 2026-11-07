@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Shiseido» — T&R 1.13, `company_shiseido`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Shiseido", "company_shiseido"]
 tags: [tr, вид-компании]

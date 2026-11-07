@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ericsson»» — ваниль 1.13, `company_ericsson`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Ericsson»", "Ericsson", "company_ericsson"]
 tags: [ваниль, вид-компании]

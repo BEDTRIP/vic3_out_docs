@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Hong Kong Stock Exchange» — E&F 1.13, `building_financial_centre_hkh`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Hong Kong Stock Exchange", "building_financial_centre_hkh"]
 tags: [ef, здание]

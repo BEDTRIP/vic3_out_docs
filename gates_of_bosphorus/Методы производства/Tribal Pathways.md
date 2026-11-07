@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Tribal Pathways» — Gates of Bosphorus 1.13, `pm_gbbf_tribal_paths`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Tribal Pathways", "pm_gbbf_tribal_paths"]
 tags: [gates_of_bosphorus, метод-производства]

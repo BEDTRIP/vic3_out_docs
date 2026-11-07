@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Cyber Warfare» — T&R 1.13, `cyber_warfare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cyber Warfare", "cyber_warfare"]
 tags: [tr, технология]

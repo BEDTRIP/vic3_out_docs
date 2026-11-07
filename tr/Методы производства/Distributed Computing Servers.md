@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Distributed Computing Servers» — T&R 1.13, `pm_late_computer_server_building_datacenter`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Distributed Computing Servers", "pm_late_computer_server_building_datacenter"]
 tags: [tr, метод-производства]

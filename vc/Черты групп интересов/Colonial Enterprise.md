@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Colonial Enterprise» — VC 1.13, `ig_trait_colonial_commerce`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Colonial Enterprise", "ig_trait_colonial_commerce"]
 tags: [VC, черта-группы-интересов]

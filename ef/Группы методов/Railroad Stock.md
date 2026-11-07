@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Railroad Stock» — E&F 1.13, `pmg_railroad_stock_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Railroad Stock", "pmg_railroad_stock_exchange"]
 tags: [ef, группа-методов]

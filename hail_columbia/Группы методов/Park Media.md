@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Park Media» — Hail Columbia 1.13, `usfp_pmg_national_parks_media`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Park Media", "usfp_pmg_national_parks_media"]
 tags: [hail_columbia, группа-методов]

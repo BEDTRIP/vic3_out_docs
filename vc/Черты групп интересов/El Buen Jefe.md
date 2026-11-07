@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «El Buen Jefe» — VC 1.13, `ig_trait_el_buen_jefe`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["El Buen Jefe", "ig_trait_el_buen_jefe"]
 tags: [VC, черта-группы-интересов]

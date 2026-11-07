@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «HV Distribution» — T&R 1.13, `pm_hv_grid_download`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HV Distribution", "pm_hv_grid_download"]
 tags: [tr, метод-производства]

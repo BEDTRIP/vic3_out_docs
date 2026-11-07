@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_motor_industry)» — TGR 1.13, `pm_assembly_lines_building_motor_industry`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Конвейерное производство (pm_assembly_lines_building_motor_industry)", "Assembly Lines", "pm_assembly_lines_building_motor_industry"]
 tags: [TGR, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «S.M. von Rothschild» — E&F 1.13, `company_Rothschild_Bank_aus`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["S.M. von Rothschild", "company_Rothschild_Bank_aus"]
 tags: [ef, вид-компании]

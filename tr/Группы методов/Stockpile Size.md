@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Stockpile Size» — T&R 1.13, `pmg_nuclear_stockpile_military`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Stockpile Size", "pmg_nuclear_stockpile_military"]
 tags: [tr, группа-методов]

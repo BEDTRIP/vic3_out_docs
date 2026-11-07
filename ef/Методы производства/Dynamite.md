@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Dynamite» — E&F 1.13, `pm_dynamite_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Dynamite", "pm_dynamite_building_silver_mine"]
 tags: [ef, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Universal Anglicanism» — VC 1.13, `ideology_ecumenical_anglicanism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Universal Anglicanism", "ideology_ecumenical_anglicanism"]
 tags: [VC, идеология]

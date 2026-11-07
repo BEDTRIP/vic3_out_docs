@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Freedom Above All» — VC 1.13, `ig_trait_if_for_freedom`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Freedom Above All", "ig_trait_if_for_freedom"]
 tags: [VC, черта-группы-интересов]

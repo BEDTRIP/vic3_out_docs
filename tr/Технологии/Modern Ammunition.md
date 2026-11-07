@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Ammunition» — T&R 1.13, `precision_ammunition`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Ammunition", "precision_ammunition"]
 tags: [tr, технология]

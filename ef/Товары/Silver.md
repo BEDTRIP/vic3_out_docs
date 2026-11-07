@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Silver» — E&F 1.13, `silver`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Silver", "silver"]
 tags: [ef, товар]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — T&R 1.13, `company_fcm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Forges et Chantiers de la Méditerranée»", "Forges et Chantiers de la Méditerranée", "company_fcm"]
 tags: [tr, вид-компании]

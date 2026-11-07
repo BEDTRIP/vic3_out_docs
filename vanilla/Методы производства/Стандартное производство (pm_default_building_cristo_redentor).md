@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартное производство (pm_default_building_cristo_redentor)» — ваниль 1.13, `pm_default_building_cristo_redentor`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартное производство (pm_default_building_cristo_redentor)", "Default Production", "pm_default_building_cristo_redentor"]
 tags: [ваниль, метод-производства]

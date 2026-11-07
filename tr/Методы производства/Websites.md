@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Websites» — T&R 1.13, `pm_web_based_building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Websites", "pm_web_based_building_software_industry"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Thirteen Colonies» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_thirteen_colonies`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Thirteen Colonies", "concept_usfp_thirteen_colonies"]
 tags: [hail_columbia, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Moroccan Dirham» — E&F 1.13, `law_dinar_moroccan_dirham_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Moroccan Dirham", "law_dinar_moroccan_dirham_currency"]
 tags: [ef, закон]

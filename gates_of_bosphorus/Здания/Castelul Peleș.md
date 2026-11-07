@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Castelul Peleș» — Gates of Bosphorus 1.13, `gbbf_building_castelul_peles`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Castelul Peleș", "gbbf_building_castelul_peles"]
 tags: [gates_of_bosphorus, здание]

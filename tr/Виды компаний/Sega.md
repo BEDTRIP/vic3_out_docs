@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sega» — T&R 1.13, `company_sega`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sega", "company_sega"]
 tags: [tr, вид-компании]

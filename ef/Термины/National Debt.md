@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «National Debt» — подсказка-понятие Victoria 3 1.13 (`concept_national_debt`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["National Debt", "concept_national_debt"]
 tags: [ef, термин]

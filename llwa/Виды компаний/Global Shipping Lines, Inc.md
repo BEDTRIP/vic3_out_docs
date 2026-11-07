@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Global Shipping Lines, Inc» — LLWA 1.13, `LLWA_company_ship_line`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Global Shipping Lines, Inc", "LLWA_company_ship_line"]
 tags: [LLWA, вид-компании]

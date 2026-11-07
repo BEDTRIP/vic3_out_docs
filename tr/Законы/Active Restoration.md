@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Active Restoration» — T&R 1.13, `law_active_restoration`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Active Restoration", "law_active_restoration"]
 tags: [tr, закон]

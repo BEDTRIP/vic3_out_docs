@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Traditional Roles» — T&R 1.13, `lgbtq_traditional_couples`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Traditional Roles", "lgbtq_traditional_couples"]
 tags: [tr, закон]

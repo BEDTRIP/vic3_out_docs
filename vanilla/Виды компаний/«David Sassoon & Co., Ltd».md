@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««David Sassoon & Co., Ltd»» — ваниль 1.13, `company_david_sassoon`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«David Sassoon & Co., Ltd»", "David Sassoon & Co., Ltd", "company_david_sassoon"]
 tags: [ваниль, вид-компании]

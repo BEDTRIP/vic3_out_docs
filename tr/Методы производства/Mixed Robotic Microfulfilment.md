@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mixed Robotic Microfulfilment» — T&R 1.13, `pm_mixed_robotic_microfulfilment`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mixed Robotic Microfulfilment", "pm_mixed_robotic_microfulfilment"]
 tags: [tr, метод-производства]

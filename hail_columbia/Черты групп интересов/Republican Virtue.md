@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Republican Virtue» — Hail Columbia 1.13, `usfp_ig_trait_republican_virtue`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Republican Virtue", "usfp_ig_trait_republican_virtue"]
 tags: [hail_columbia, черта-группы-интересов]

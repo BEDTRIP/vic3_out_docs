@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Citizen Salon» — VC 1.13, `ig_trait_citizen_salon`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Citizen Salon", "ig_trait_citizen_salon"]
 tags: [VC, черта-группы-интересов]

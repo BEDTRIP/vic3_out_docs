@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Astrophysics» — T&R 1.13, `verrier_astro_physics_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Astrophysics", "verrier_astro_physics_tech"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основание (pmg_base_building_angkor_wat)» — ваниль 1.13, `pmg_base_building_angkor_wat`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основание (pmg_base_building_angkor_wat)", "Base", "pmg_base_building_angkor_wat"]
 tags: [ваниль, группа-методов]

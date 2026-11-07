@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_homemade_tools» — grey food 2 ranch 1.13, `pm_homemade_tools`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_homemade_tools"]
 tags: [grey_food_2_ranch, метод-производства]

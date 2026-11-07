@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Sherkat-e Ettehadiya-ye Welayat-e Shemali»» — ваниль 1.13, `company_sherkat_shemali`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Sherkat-e Ettehadiya-ye Welayat-e Shemali»", "Sherkat-e Ettehadiya-ye Welayat-e Shemali", "company_sherkat_shemali"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Transport (pmg_train_automation_building_hydroponic)» — T&R 1.13, `pmg_train_automation_building_hydroponic`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Transport (pmg_train_automation_building_hydroponic)", "Transport", "pmg_train_automation_building_hydroponic"]
 tags: [tr, группа-методов]

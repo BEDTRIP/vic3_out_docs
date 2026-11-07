@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Monetary Populists» — E&F 1.13, `ideology_monetary_left`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary Populists", "ideology_monetary_left"]
 tags: [ef, идеология]

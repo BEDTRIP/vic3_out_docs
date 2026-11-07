@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No AI Service» — T&R 1.13, `pm_no_model_training`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No AI Service", "pm_no_model_training"]
 tags: [tr, метод-производства]

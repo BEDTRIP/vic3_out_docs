@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Synthetic Rubber» — T&R 1.13, `mendelejew_synthetic_rubber_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Rubber", "mendelejew_synthetic_rubber_tech"]
 tags: [tr, технология]

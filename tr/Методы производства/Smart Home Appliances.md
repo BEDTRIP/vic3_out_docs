@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smart Home Appliances» — T&R 1.13, `pm_smart_homeappliances`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart Home Appliances", "pm_smart_homeappliances"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Teleprinter Network» — T&R 1.13, `pm_teleprinter_network_building_office`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Teleprinter Network", "pm_teleprinter_network_building_office"]
 tags: [tr, метод-производства]

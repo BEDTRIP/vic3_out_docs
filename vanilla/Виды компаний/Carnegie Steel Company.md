@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Carnegie Steel Company» — ваниль 1.13, `company_us_steel`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Carnegie Steel Company", "company_us_steel"]
 tags: [ваниль, вид-компании]

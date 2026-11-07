@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Heavy Industry Investments» — TGR 1.13, `economic_incentives_industry_heavy`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Heavy Industry Investments", "economic_incentives_industry_heavy"]
 tags: [TGR, закон]

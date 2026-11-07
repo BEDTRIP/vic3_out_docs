@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Unicameral Parliamentary System» — TGR 1.13, `law_unicameral_parliamentary_system`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Unicameral Parliamentary System", "law_unicameral_parliamentary_system"]
 tags: [TGR, закон]

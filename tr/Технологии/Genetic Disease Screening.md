@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Genetic Disease Screening» — T&R 1.13, `genetic_disease_screening`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Genetic Disease Screening", "genetic_disease_screening"]
 tags: [tr, технология]

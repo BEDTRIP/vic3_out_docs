@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Novo Nordisk» — T&R 1.13, `company_novo_nordisk`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Novo Nordisk", "company_novo_nordisk"]
 tags: [tr, вид-компании]

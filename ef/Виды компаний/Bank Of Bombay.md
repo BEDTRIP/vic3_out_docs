@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bank Of Bombay» — E&F 1.13, `company_BankOfBombay`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bank Of Bombay", "company_BankOfBombay"]
 tags: [ef, вид-компании]

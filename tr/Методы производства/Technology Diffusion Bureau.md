@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Technology Diffusion Bureau» — T&R 1.13, `pm_research_center_tech_spread`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Technology Diffusion Bureau", "pm_research_center_tech_spread"]
 tags: [tr, метод-производства]

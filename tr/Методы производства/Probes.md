@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Probes» — T&R 1.13, `pm_rocket_probes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Probes", "pm_rocket_probes"]
 tags: [tr, метод-производства]

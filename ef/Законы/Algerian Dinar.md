@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Algerian Dinar» — E&F 1.13, `law_dinar_algerian_dinar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Algerian Dinar", "law_dinar_algerian_dinar_currency"]
 tags: [ef, закон]

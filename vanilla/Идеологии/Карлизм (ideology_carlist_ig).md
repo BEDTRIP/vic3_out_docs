@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Карлизм (ideology_carlist_ig)» — ваниль 1.13, `ideology_carlist_ig`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Карлизм (ideology_carlist_ig)", "Carlist", "ideology_carlist_ig"]
 tags: [ваниль, идеология]

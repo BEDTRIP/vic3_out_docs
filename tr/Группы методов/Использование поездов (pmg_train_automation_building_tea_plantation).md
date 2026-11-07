@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Использование поездов (pmg_train_automation_building_tea_plantation)» — T&R 1.13, `pmg_train_automation_building_tea_plantation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Использование поездов (pmg_train_automation_building_tea_plantation)", "Использование поездов", "pmg_train_automation_building_tea_plantation"]
 tags: [tr, группа-методов]

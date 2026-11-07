@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_state_bank_india» — grey soft pop 1.13, `pm_default_building_state_bank_india`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_state_bank_india"]
 tags: [grey_soft_pop, метод-производства]

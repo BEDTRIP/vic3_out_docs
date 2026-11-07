@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Consulting Firm Services» — T&R 1.13, `pm_consulting_firm_services`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Consulting Firm Services", "pm_consulting_firm_services"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Neoclassical Plays» — T&R 1.13, `classic_plays_pm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neoclassical Plays", "classic_plays_pm"]
 tags: [tr, метод-производства]

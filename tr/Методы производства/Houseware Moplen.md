@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Houseware Moplen» — T&R 1.13, `pm_moplen_houseware`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Houseware Moplen", "pm_moplen_houseware"]
 tags: [tr, метод-производства]

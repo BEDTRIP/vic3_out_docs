@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Hermès» — T&R 1.13, `company_hermes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hermès", "company_hermes"]
 tags: [tr, вид-компании]

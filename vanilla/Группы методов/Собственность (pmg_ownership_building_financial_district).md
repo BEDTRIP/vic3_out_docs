@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Собственность (pmg_ownership_building_financial_district)» — ваниль 1.13, `pmg_ownership_building_financial_district`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Собственность (pmg_ownership_building_financial_district)", "Собственность", "pmg_ownership_building_financial_district"]
 tags: [ваниль, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Machine Learning» — T&R 1.13, `machine_learning`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Machine Learning", "machine_learning"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Société française des charbonnages du Tonkin» — VC 1.13, `company_societe_francaise_charbonnages_du_tonkin`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Société française des charbonnages du Tonkin", "company_societe_francaise_charbonnages_du_tonkin"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Alkaline Fuel Cell» — T&R 1.13, `pm_alkaline_fuel_cell`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alkaline Fuel Cell", "pm_alkaline_fuel_cell"]
 tags: [tr, метод-производства]

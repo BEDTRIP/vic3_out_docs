@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Turbo-Diesel Engines» — T&R 1.13, `pm_turbo_diesel_engines`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Turbo-Diesel Engines", "pm_turbo_diesel_engines"]
 tags: [tr, метод-производства]

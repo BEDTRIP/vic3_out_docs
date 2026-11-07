@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «International Financial Power» — подсказка-понятие Victoria 3 1.13 (`concept_international_financial_power`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["International Financial Power", "concept_international_financial_power"]
 tags: [ef, термин]

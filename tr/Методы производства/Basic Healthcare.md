@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Healthcare» — T&R 1.13, `pm_basic_healtcare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Healthcare", "pm_basic_healtcare"]
 tags: [tr, метод-производства]

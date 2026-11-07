@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_banco_republica_uruguay» — grey soft pop 1.13, `pm_default_building_banco_republica_uruguay`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_banco_republica_uruguay"]
 tags: [grey_soft_pop, метод-производства]

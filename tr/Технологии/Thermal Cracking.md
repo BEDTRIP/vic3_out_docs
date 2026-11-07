@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Thermal Cracking» — T&R 1.13, `thermal_cracking`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Thermal Cracking", "thermal_cracking"]
 tags: [tr, технология]

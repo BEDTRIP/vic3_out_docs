@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Amenities» — Gates of Bosphorus 1.13, `pm_gbbf_basic_amenities`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Basic Amenities", "pm_gbbf_basic_amenities"]
 tags: [gates_of_bosphorus, метод-производства]

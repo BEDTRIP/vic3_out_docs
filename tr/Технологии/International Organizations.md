@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «International Organizations» — T&R 1.13, `international_organizations`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["International Organizations", "international_organizations"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Genetics» — T&R 1.13, `dubois_genetics_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Genetics", "dubois_genetics_tech"]
 tags: [tr, технология]

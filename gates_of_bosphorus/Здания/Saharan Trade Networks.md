@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Saharan Trade Networks» — Gates of Bosphorus 1.13, `gbbf_building_saharan_networks`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Saharan Trade Networks", "gbbf_building_saharan_networks"]
 tags: [gates_of_bosphorus, здание]

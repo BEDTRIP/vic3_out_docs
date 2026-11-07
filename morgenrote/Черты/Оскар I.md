@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Оскар I» — Morgenröte 1.13, `mr_ruler_trait_oscar_i`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Оскар I", "Oscar I", "mr_ruler_trait_oscar_i"]
 tags: [Morgenröte, черта]

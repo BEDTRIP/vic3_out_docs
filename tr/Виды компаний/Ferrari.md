@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ferrari» — T&R 1.13, `company_ferrari`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ferrari", "company_ferrari"]
 tags: [tr, вид-компании]

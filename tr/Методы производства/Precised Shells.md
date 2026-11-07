@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Precised Shells» — T&R 1.13, `pm_precised_shells`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Precised Shells", "pm_precised_shells"]
 tags: [tr, метод-производства]

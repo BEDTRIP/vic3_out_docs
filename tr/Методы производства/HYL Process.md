@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «HYL Process» — T&R 1.13, `pm_direct_reduced_iron_hyl_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HYL Process", "pm_direct_reduced_iron_hyl_process"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««William Sandford Limited»» — T&R 1.13, `company_william_sandford`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«William Sandford Limited»", "William Sandford Limited", "company_william_sandford"]
 tags: [tr, вид-компании]

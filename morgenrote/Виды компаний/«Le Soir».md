@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Le Soir»» — Morgenröte 1.13, `pbi_company_le_soir`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«Le Soir»", "Le Soir", "pbi_company_le_soir"]
 tags: [Morgenröte, вид-компании]

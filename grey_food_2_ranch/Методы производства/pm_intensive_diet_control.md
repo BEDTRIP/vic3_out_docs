@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_intensive_diet_control» — grey food 2 ranch 1.13, `pm_intensive_diet_control`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_intensive_diet_control"]
 tags: [grey_food_2_ranch, метод-производства]

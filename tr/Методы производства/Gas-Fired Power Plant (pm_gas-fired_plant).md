@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Gas-Fired Power Plant (pm_gas-fired_plant)» — T&R 1.13, `pm_gas-fired_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gas-Fired Power Plant (pm_gas-fired_plant)", "Gas-Fired Power Plant", "pm_gas-fired_plant"]
 tags: [tr, метод-производства]

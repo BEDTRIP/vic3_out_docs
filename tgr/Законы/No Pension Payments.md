@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Pension Payments» — TGR 1.13, `law_no_pension`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Pension Payments", "law_no_pension"]
 tags: [TGR, закон]

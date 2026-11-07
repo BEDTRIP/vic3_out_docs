@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Precision Strike Doctrine» — T&R 1.13, `precision_strike_doctrine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Precision Strike Doctrine", "precision_strike_doctrine"]
 tags: [tr, технология]

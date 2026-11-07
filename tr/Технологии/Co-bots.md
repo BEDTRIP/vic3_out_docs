@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Co-bots» — T&R 1.13, `cobots`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Co-bots", "cobots"]
 tags: [tr, технология]

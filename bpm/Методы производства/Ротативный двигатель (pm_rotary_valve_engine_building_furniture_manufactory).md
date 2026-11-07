@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_furniture_manufactory)» — BPM 1.13, `pm_rotary_valve_engine_building_furniture_manufactory`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Ротативный двигатель (pm_rotary_valve_engine_building_furniture_manufactory)", "Rotary Valve Engine", "pm_rotary_valve_engine_building_furniture_manufactory"]
 tags: [BPM, метод-производства]

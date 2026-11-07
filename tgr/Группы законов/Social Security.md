@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Social Security» — TGR 1.13, `lawgroup_social_security`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Social Security", "lawgroup_social_security"]
 tags: [TGR, группа-законов]

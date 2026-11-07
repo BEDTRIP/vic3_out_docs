@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Hippodrome» — Gates of Bosphorus 1.13, `gbbf_building_hippodrome`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Hippodrome", "gbbf_building_hippodrome"]
 tags: [gates_of_bosphorus, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Oxygen Steelmaking Process» — T&R 1.13, `oxygen_steelmaking_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Oxygen Steelmaking Process", "oxygen_steelmaking_process"]
 tags: [tr, технология]

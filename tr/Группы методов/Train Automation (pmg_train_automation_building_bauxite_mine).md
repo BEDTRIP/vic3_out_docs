@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Train Automation (pmg_train_automation_building_bauxite_mine)» — T&R 1.13, `pmg_train_automation_building_bauxite_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Train Automation (pmg_train_automation_building_bauxite_mine)", "Train Automation", "pmg_train_automation_building_bauxite_mine"]
 tags: [tr, группа-методов]

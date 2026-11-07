@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «National Electricity» — T&R 1.13, `global_electricity`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["National Electricity", "global_electricity"]
 tags: [tr, товар]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_tooling_workshop)» — BPM 1.13, `pm_rotary_valve_engine_building_tooling_workshop`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Ротативный двигатель (pm_rotary_valve_engine_building_tooling_workshop)", "Rotary Valve Engine", "pm_rotary_valve_engine_building_tooling_workshop"]
 tags: [BPM, метод-производства]

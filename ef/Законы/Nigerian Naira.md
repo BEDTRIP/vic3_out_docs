@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Nigerian Naira» — E&F 1.13, `law_eco_nigerian_naira_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Nigerian Naira", "law_eco_nigerian_naira_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Riverboats» — LLWA 1.13, `LLWA_pm_riverboats`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Riverboats", "LLWA_pm_riverboats"]
 tags: [LLWA, метод-производства]

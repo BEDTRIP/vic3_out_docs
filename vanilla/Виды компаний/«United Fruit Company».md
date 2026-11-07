@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««United Fruit Company»» — ваниль 1.13, `company_united_fruit`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«United Fruit Company»", "United Fruit Company", "company_united_fruit"]
 tags: [ваниль, вид-компании]

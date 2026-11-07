@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Arthur Guinness Son & Co.»» — ваниль 1.13, `company_guinness`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Arthur Guinness Son & Co.»", "Arthur Guinness Son & Co. Ltd", "company_guinness"]
 tags: [ваниль, вид-компании]

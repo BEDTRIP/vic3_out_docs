@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Young Turk» — Gates of Bosphorus 1.13, `gbbf_trait_young_turk`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Young Turk", "gbbf_trait_young_turk"]
 tags: [gates_of_bosphorus, черта]

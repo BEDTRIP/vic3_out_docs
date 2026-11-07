@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Electronic Warfare» — T&R 1.13, `electronic_warfare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electronic Warfare", "electronic_warfare"]
 tags: [tr, технология]

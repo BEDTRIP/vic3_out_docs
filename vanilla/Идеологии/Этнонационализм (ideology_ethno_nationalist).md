@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — ваниль 1.13, `ideology_ethno_nationalist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Этнонационализм (ideology_ethno_nationalist)", "Ethno-Nationalist", "ideology_ethno_nationalist"]
 tags: [ваниль, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Islamist (ideology_gbbf_islamist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_islamist_leader`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Islamist (ideology_gbbf_islamist_leader)", "Islamist", "ideology_gbbf_islamist_leader"]
 tags: [gates_of_bosphorus, идеология]

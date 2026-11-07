@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Lithuanian Litas» — E&F 1.13, `law_spe_lithuanian_litas_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Lithuanian Litas", "law_spe_lithuanian_litas_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Computer Assembly Plants» — T&R 1.13, `building_computer_assembly_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Computer Assembly Plants", "building_computer_assembly_plant"]
 tags: [tr, здание]

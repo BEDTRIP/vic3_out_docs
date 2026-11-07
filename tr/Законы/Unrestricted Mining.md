@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Unrestricted Mining» — T&R 1.13, `law_mining_unrestricted`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Unrestricted Mining", "law_mining_unrestricted"]
 tags: [tr, закон]

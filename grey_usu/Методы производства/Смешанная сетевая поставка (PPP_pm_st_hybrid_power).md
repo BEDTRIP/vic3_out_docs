@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Смешанная сетевая поставка (PPP_pm_st_hybrid_power)» — grey USU 1.13, `PPP_pm_st_hybrid_power`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Смешанная сетевая поставка (PPP_pm_st_hybrid_power)", "Mixed Grid Supply", "PPP_pm_st_hybrid_power"]
 tags: [grey_usu, метод-производства]

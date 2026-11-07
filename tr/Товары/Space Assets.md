@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Space Assets» — T&R 1.13, `space_assets`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Space Assets", "space_assets"]
 tags: [tr, товар]

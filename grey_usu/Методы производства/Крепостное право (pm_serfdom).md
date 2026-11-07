@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Крепостное право (pm_serfdom)» — grey USU 1.13, `pm_serfdom`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Крепостное право (pm_serfdom)", "Serfdom", "pm_serfdom"]
 tags: [grey_usu, метод-производства]

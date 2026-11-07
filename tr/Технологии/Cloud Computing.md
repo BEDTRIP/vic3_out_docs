@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Cloud Computing» — T&R 1.13, `cloud_computing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cloud Computing", "cloud_computing"]
 tags: [tr, технология]

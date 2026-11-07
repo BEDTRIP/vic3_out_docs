@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Assembly» — T&R 1.13, `pm_advanced_assembly_lines_building_consumer_electronics_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Assembly", "pm_advanced_assembly_lines_building_consumer_electronics_industry"]
 tags: [tr, метод-производства]

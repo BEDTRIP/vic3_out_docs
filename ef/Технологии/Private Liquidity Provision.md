@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Private Liquidity Provision» — E&F 1.13, `private_liquidity_provision`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Private Liquidity Provision", "private_liquidity_provision"]
 tags: [ef, технология]

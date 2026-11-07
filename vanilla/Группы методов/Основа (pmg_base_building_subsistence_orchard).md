@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_subsistence_orchard)» — ваниль 1.13, `pmg_base_building_subsistence_orchard`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_subsistence_orchard)", "Основа", "pmg_base_building_subsistence_orchard"]
 tags: [ваниль, группа-методов]

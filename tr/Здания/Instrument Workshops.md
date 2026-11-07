@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Instrument Workshops» — T&R 1.13, `building_instrument_workshops`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Instrument Workshops", "building_instrument_workshops"]
 tags: [tr, здание]

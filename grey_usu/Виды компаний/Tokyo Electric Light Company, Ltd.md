@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Tokyo Electric Light Company, Ltd» — grey USU 1.13, `company_tokyo_electric_light_company`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Tokyo Electric Light Company, Ltd", "company_tokyo_electric_light_company"]
 tags: [grey_usu, вид-компании]

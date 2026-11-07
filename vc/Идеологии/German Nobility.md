@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «German Nobility» — VC 1.13, `ideology_german_nobles`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["German Nobility", "ideology_german_nobles"]
 tags: [VC, идеология]

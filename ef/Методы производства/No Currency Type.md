@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Currency Type» — E&F 1.13, `pm_no_currency_type`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["No Currency Type", "pm_no_currency_type"]
 tags: [ef, метод-производства]

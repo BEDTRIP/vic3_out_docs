@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Sunni Sharia» — VC 1.13, `ideology_shariah`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Sunni Sharia", "ideology_shariah"]
 tags: [VC, идеология]

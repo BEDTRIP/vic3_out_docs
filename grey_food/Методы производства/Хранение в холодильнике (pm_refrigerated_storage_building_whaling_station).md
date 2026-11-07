@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_whaling_station)» — grey food 1.13, `pm_refrigerated_storage_building_whaling_station`"
 project: vic3
+audience: agent
 source: grey_food
 aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_whaling_station)", "Refrigerated Storage", "pm_refrigerated_storage_building_whaling_station"]
 tags: [grey_food, метод-производства]

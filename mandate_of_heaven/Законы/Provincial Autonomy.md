@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Provincial Autonomy» — Mandate of Heaven 1.13, `law_provincial_autonomy`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Provincial Autonomy", "law_provincial_autonomy"]
 tags: [mandate_of_heaven, закон]

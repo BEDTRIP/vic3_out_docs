@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Modern State Building Baseline» — T&R 1.13, `building_modern_state_baseline`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern State Building Baseline", "building_modern_state_baseline"]
 tags: [tr, здание]

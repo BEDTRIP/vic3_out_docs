@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Media Industries» — T&R 1.13, `building_manzoni_publishing_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Media Industries", "building_manzoni_publishing_industry"]
 tags: [tr, здание]

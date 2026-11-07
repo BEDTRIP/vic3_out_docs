@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Bicameral Parliamentary System» — TGR 1.13, `law_bicameral_parliamentary_system`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Bicameral Parliamentary System", "law_bicameral_parliamentary_system"]
 tags: [TGR, закон]

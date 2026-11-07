@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Gladstonian Liberal» — VC 1.13, `ideology_gladstonian_liberalism_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Gladstonian Liberal", "ideology_gladstonian_liberalism_leader"]
 tags: [VC, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Morgenröte «Памятники в Morgenröte» — подсказка-понятие Victoria 3 1.13 (`concept_gaudi_monuments`)"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Monuments in Morgenröte", "concept_gaudi_monuments"]
 tags: [morgenrote, термин]

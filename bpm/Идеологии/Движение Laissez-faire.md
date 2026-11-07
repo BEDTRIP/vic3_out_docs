@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Движение Laissez-faire» — BPM 1.13, `ideology_eco_market_liberal_mov`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Движение Laissez-faire", "Laissez-Faire Movement", "ideology_eco_market_liberal_mov"]
 tags: [BPM, идеология]

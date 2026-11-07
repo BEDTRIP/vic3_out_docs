@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Interactive Media Production» — T&R 1.13, `pmg_interactive_media_building_interactive_media_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Interactive Media Production", "pmg_interactive_media_building_interactive_media_industry"]
 tags: [tr, группа-методов]

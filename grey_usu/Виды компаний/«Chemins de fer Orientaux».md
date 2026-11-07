@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Chemins de fer Orientaux»» — grey USU 1.13, `company_orient_express`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Chemins de fer Orientaux»", "Chemins de fer Orientaux", "company_orient_express"]
 tags: [grey_usu, вид-компании]

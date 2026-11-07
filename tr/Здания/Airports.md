@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Airports» — T&R 1.13, `building_airport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Airports", "building_airport"]
 tags: [tr, здание]

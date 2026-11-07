@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Nissui» — VC 1.13, `company_nissui`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Nissui", "company_nissui"]
 tags: [VC, вид-компании]

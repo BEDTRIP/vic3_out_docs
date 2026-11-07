@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Brooklyn Bridge» — Hail Columbia 1.13, `usfp_pmg_base_brooklyn_bridge`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Brooklyn Bridge", "usfp_pmg_base_brooklyn_bridge"]
 tags: [hail_columbia, группа-методов]

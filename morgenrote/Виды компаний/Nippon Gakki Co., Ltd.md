@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Nippon Gakki Co., Ltd» — Morgenröte 1.13, `elgar_company_nippon_gakki`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Nippon Gakki Co., Ltd", "elgar_company_nippon_gakki"]
 tags: [Morgenröte, вид-компании]

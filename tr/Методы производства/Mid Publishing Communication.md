@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mid Publishing Communication» — T&R 1.13, `manzoni_pm_electric_telegraph`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mid Publishing Communication", "manzoni_pm_electric_telegraph"]
 tags: [tr, метод-производства]

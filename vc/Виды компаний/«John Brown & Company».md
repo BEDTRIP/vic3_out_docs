@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««John Brown & Company»» — VC 1.13, `company_john_brown`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«John Brown & Company»", "John Brown & Company", "company_john_brown"]
 tags: [VC, вид-компании]

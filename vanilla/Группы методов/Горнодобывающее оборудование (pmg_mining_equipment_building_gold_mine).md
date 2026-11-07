@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Горнодобывающее оборудование (pmg_mining_equipment_building_gold_mine)» — ваниль 1.13, `pmg_mining_equipment_building_gold_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Горнодобывающее оборудование (pmg_mining_equipment_building_gold_mine)", "Mining Equipment", "pmg_mining_equipment_building_gold_mine"]
 tags: [ваниль, группа-методов]

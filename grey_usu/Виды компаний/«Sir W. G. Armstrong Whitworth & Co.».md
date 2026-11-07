@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — grey USU 1.13, `company_armstrong_whitworth`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Sir W. G. Armstrong Whitworth & Co.»", "Sir W. G. Armstrong Whitworth & Co", "company_armstrong_whitworth"]
 tags: [grey_usu, вид-компании]

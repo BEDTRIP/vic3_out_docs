@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Corinth Canal» — Gates of Bosphorus 1.13, `pmg_gbbf_corinth_canal`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Corinth Canal", "pmg_gbbf_corinth_canal"]
 tags: [gates_of_bosphorus, группа-методов]

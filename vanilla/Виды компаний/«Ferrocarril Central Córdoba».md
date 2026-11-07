@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ferrocarril Central Córdoba»» — ваниль 1.13, `company_cordoba_railway`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Ferrocarril Central Córdoba»", "Ferrocarril Central Córdoba", "company_cordoba_railway"]
 tags: [ваниль, вид-компании]

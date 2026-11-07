@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Road Infrastructure» — T&R 1.13, `pmg_transport_infrastructure_building_railway`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Road Infrastructure", "pmg_transport_infrastructure_building_railway"]
 tags: [tr, группа-методов]

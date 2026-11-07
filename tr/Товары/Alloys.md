@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Alloys» — T&R 1.13, `alloys`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Alloys", "alloys"]
 tags: [tr, товар]

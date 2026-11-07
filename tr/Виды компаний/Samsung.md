@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Samsung» — T&R 1.13, `company_samsung`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Samsung", "company_samsung"]
 tags: [tr, вид-компании]

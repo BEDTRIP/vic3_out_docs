@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Paratroopers» — T&R 1.13, `paratroopers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Paratroopers", "paratroopers"]
 tags: [tr, технология]

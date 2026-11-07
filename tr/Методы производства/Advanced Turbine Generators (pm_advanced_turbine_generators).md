@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Turbine Generators (pm_advanced_turbine_generators)» — T&R 1.13, `pm_advanced_turbine_generators`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Turbine Generators (pm_advanced_turbine_generators)", "Advanced Turbine Generators", "pm_advanced_turbine_generators"]
 tags: [tr, метод-производства]

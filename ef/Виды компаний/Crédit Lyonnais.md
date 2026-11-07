@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Crédit Lyonnais» — E&F 1.13, `company_BankCreditLyonnais`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Crédit Lyonnais", "company_BankCreditLyonnais"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_assembly_lines_building_tooling_workshops» — TGR 1.13, `pm_assembly_lines_building_tooling_workshops`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["pm_assembly_lines_building_tooling_workshops"]
 tags: [TGR, метод-производства]

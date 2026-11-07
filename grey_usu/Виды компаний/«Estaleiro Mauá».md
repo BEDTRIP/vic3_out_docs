@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Estaleiro Mauá»» — grey USU 1.13, `company_estaleiro_maua`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Estaleiro Mauá»", "Estaleiro Mauá", "company_estaleiro_maua"]
 tags: [grey_usu, вид-компании]

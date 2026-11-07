@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Neo-Confederate» — Hail Columbia 1.13, `ideology_usfp_neoconfederate_movement`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Neo-Confederate", "ideology_usfp_neoconfederate_movement"]
 tags: [hail_columbia, идеология]

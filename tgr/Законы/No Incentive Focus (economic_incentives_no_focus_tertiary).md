@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Incentive Focus (economic_incentives_no_focus_tertiary)» — TGR 1.13, `economic_incentives_no_focus_tertiary`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Incentive Focus (economic_incentives_no_focus_tertiary)", "No Incentive Focus", "economic_incentives_no_focus_tertiary"]
 tags: [TGR, закон]

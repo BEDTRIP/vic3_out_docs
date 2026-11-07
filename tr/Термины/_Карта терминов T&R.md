@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода T&R — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: tr
 tags: [tr, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

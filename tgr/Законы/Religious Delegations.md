@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Religious Delegations» — TGR 1.13, `foreign_policy_religious_embassies`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Religious Delegations", "foreign_policy_religious_embassies"]
 tags: [TGR, закон]

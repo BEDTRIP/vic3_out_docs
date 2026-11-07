@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Diesel Pump (pm_diesel_pump_building_rare_earths_mine)» — T&R 1.13, `pm_diesel_pump_building_rare_earths_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Diesel Pump (pm_diesel_pump_building_rare_earths_mine)", "Diesel Pump", "pm_diesel_pump_building_rare_earths_mine"]
 tags: [tr, метод-производства]

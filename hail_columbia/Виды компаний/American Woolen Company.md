@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «American Woolen Company» — Hail Columbia 1.13, `company_usfp_american_woolen`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["American Woolen Company", "company_usfp_american_woolen"]
 tags: [hail_columbia, вид-компании]

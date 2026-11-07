@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Fábrica de Armas de Trubia»» — VC 1.13, `company_trubia`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Fábrica de Armas de Trubia»", "Fábrica de Armas de Trubia", "company_trubia"]
 tags: [VC, вид-компании]

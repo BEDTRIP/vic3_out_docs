@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Bushidō» — VC 1.13, `ig_trait_bushido`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Bushidō", "ig_trait_bushido"]
 tags: [VC, черта-группы-интересов]

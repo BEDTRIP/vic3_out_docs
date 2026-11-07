@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Приоритет на грузы (LLWA_pm_no_buses)» — LLWA 1.13, `LLWA_pm_no_buses`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Приоритет на грузы (LLWA_pm_no_buses)", "Приоритет на грузы", "LLWA_pm_no_buses"]
 tags: [LLWA, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bydgoszcz_RSRS» — grey USU 1.13, `company_Bydgoszcz_RSRS`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bydgoszcz_RSRS"]
 tags: [grey_usu, вид-компании]

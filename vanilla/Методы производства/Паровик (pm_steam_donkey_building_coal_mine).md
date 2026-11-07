@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровик (pm_steam_donkey_building_coal_mine)» — ваниль 1.13, `pm_steam_donkey_building_coal_mine`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Паровик (pm_steam_donkey_building_coal_mine)", "Steam Donkey", "pm_steam_donkey_building_coal_mine"]
 tags: [ваниль, метод-производства]

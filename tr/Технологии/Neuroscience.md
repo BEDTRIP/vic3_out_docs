@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Neuroscience» — T&R 1.13, `neuroscience`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Neuroscience", "neuroscience"]
 tags: [tr, технология]

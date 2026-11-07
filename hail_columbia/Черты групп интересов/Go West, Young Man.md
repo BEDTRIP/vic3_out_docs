@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Go West, Young Man» — Hail Columbia 1.13, `usfp_ig_trait_go_west`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Go West, Young Man", "usfp_ig_trait_go_west"]
 tags: [hail_columbia, черта-группы-интересов]

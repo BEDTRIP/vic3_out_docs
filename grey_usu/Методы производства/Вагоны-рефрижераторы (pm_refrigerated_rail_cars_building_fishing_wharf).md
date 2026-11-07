@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)» — grey USU 1.13, `pm_refrigerated_rail_cars_building_fishing_wharf`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)", "Refrigerated Rail Cars", "pm_refrigerated_rail_cars_building_fishing_wharf"]
 tags: [grey_usu, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Нигилизм (ideology_nihilist_movement)» — ваниль 1.13, `ideology_nihilist_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Нигилизм (ideology_nihilist_movement)", "Нигилизм", "ideology_nihilist_movement"]
 tags: [ваниль, идеология]

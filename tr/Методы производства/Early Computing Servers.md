@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Early Computing Servers» — T&R 1.13, `pm_early_computer_server_building_datacenter`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Early Computing Servers", "pm_early_computer_server_building_datacenter"]
 tags: [tr, метод-производства]

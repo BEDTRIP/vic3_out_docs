@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Nuclear Submarine» — T&R 1.13, `nuclear_submarine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Submarine", "nuclear_submarine"]
 tags: [tr, технология]

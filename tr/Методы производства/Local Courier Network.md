@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Local Courier Network» — T&R 1.13, `pm_local_courier_network`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Local Courier Network", "pm_local_courier_network"]
 tags: [tr, метод-производства]

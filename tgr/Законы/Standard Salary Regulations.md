@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Standard Salary Regulations» — TGR 1.13, `law_salary_minimum_safety`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Standard Salary Regulations", "law_salary_minimum_safety"]
 tags: [TGR, закон]

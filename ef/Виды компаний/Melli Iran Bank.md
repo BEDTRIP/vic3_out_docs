@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Melli Iran Bank» — E&F 1.13, `company_BankMelliIran`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Melli Iran Bank", "company_BankMelliIran"]
 tags: [ef, вид-компании]

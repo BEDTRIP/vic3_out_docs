@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Első Budapesti Gőzmalom Rt» — ваниль 1.13, `company_elso_budapesti_gozmalom`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Első Budapesti Gőzmalom Rt", "company_elso_budapesti_gozmalom"]
 tags: [ваниль, вид-компании]

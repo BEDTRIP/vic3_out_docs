@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «United East India Company» — VC 1.13, `company_dutch_east_india_company`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["United East India Company", "company_dutch_east_india_company"]
 tags: [VC, вид-компании]

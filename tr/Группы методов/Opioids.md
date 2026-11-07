@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Opioids» — T&R 1.13, `pmg_opioid_refinement`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Opioids", "pmg_opioid_refinement"]
 tags: [tr, группа-методов]

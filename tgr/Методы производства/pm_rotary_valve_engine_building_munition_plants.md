@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_rotary_valve_engine_building_munition_plants» — TGR 1.13, `pm_rotary_valve_engine_building_munition_plants`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["pm_rotary_valve_engine_building_munition_plants"]
 tags: [TGR, метод-производства]

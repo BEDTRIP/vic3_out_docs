@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Türkiye Ziraat Bankası» — E&F 1.13, `company_TurkishZiraatBankasi`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Türkiye Ziraat Bankası", "company_TurkishZiraatBankasi"]
 tags: [ef, вид-компании]

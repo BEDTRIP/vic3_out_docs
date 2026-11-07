@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Opposition Alliance» — VC 1.13, `ig_trait_alianza_de_oposicion`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Opposition Alliance", "ig_trait_alianza_de_oposicion"]
 tags: [VC, черта-группы-интересов]

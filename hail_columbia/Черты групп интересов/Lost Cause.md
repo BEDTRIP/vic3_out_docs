@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Lost Cause» — Hail Columbia 1.13, `usfp_ig_trait_lost_cause`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Lost Cause", "usfp_ig_trait_lost_cause"]
 tags: [hail_columbia, черта-группы-интересов]

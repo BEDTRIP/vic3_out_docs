@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Power Production» — Gates of Bosphorus 1.13, `pmg_gbbf_nile_hydroelectricity`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Power Production", "pmg_gbbf_nile_hydroelectricity"]
 tags: [gates_of_bosphorus, группа-методов]

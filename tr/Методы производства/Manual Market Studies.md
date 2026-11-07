@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Manual Market Studies» — T&R 1.13, `pm_manual_market_studies`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Manual Market Studies", "pm_manual_market_studies"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Main Battle Tank» — T&R 1.13, `main_battle_tank`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Main Battle Tank", "main_battle_tank"]
 tags: [tr, технология]

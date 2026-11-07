@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Night Watchmen» — Mandate of Heaven 1.13, `law_night_watchmen`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Night Watchmen", "law_night_watchmen"]
 tags: [mandate_of_heaven, закон]

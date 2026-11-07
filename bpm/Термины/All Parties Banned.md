@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода BPM «All Parties Banned» — подсказка-понятие Victoria 3 1.13 (`concept_bpm_bannable_parties`)"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["All Parties Banned", "concept_bpm_bannable_parties"]
 tags: [bpm, термин]

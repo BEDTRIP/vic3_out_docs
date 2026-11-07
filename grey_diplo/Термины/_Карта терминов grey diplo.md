@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода grey diplo — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: grey_diplo
 tags: [grey_diplo, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

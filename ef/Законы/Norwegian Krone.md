@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Norwegian Krone» — E&F 1.13, `law_krone_norwegian_krone_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Norwegian Krone", "law_krone_norwegian_krone_currency"]
 tags: [ef, закон]

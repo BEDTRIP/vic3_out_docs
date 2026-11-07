@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Oil Investments» — TGR 1.13, `economic_incentives_extracting_oil`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Oil Investments", "economic_incentives_extracting_oil"]
 tags: [TGR, закон]

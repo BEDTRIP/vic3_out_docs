@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Egyptian Pound» — E&F 1.13, `law_pound_egyptian_pound_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Egyptian Pound", "law_pound_egyptian_pound_currency"]
 tags: [ef, закон]

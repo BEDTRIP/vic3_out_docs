@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_air_passenger_only» — grey USU 1.13, `pm_air_passenger_only`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_air_passenger_only"]
 tags: [grey_usu, метод-производства]

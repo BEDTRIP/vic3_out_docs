@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «CNC Weaving Machines» — T&R 1.13, `pm_cnc_weaving_machines`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["CNC Weaving Machines", "pm_cnc_weaving_machines"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Early Publishing Communication» — T&R 1.13, `manzoni_pm_physical`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Early Publishing Communication", "manzoni_pm_physical"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — VC 1.13, `company_oesterreichisch_alpine_montangesellschaft`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Oesterreichisch-Alpine Montangesellschaft", "company_oesterreichisch_alpine_montangesellschaft"]
 tags: [VC, вид-компании]

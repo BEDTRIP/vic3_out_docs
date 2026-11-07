@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_HandelsBanken» — grey USU 1.13, `company_HandelsBanken`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_HandelsBanken"]
 tags: [grey_usu, вид-компании]

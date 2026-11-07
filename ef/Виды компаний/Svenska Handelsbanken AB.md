@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Svenska Handelsbanken AB» — E&F 1.13, `company_HandelsBanken`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Svenska Handelsbanken AB", "company_HandelsBanken"]
 tags: [ef, вид-компании]

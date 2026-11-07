@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Classical Orchestra» — T&R 1.13, `pm_elgar_classical_orchestra`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Classical Orchestra", "pm_elgar_classical_orchestra"]
 tags: [tr, метод-производства]

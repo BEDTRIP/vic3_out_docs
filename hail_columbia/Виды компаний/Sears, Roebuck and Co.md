@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sears, Roebuck and Co» — Hail Columbia 1.13, `company_usfp_sears`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Sears, Roebuck and Co", "company_usfp_sears"]
 tags: [hail_columbia, вид-компании]

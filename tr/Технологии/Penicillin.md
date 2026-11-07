@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Penicillin» — T&R 1.13, `penicillin`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Penicillin", "penicillin"]
 tags: [tr, технология]

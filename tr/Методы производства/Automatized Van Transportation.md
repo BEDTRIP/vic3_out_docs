@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Automatized Van Transportation» — T&R 1.13, `pm_autonomous_truck_van_transportation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automatized Van Transportation", "pm_autonomous_truck_van_transportation"]
 tags: [tr, метод-производства]

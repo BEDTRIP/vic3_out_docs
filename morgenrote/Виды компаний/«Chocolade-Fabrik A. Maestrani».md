@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Chocolade-Fabrik A. Maestrani»» — Morgenröte 1.13, `company_maestrani`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«Chocolade-Fabrik A. Maestrani»", "Chocolade-Fabrik A. Maestrani", "company_maestrani"]
 tags: [Morgenröte, вид-компании]

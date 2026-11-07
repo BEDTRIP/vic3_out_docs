@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco do Brasil» — E&F 1.13, `company_BancoDoBrasil`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco do Brasil", "company_BancoDoBrasil"]
 tags: [ef, вид-компании]

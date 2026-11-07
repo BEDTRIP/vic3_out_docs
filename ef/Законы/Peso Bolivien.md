@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Peso Bolivien» — E&F 1.13, `law_peso_bolivien_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Peso Bolivien", "law_peso_bolivien_peso_currency"]
 tags: [ef, закон]

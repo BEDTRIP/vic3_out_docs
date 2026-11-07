@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «8-hour Work Days» — TGR 1.13, `law_protected_leisure`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["8-hour Work Days", "law_protected_leisure"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Breeding» — T&R 1.13, `pmg_breeding_livestock_ranch`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Breeding", "pmg_breeding_livestock_ranch"]
 tags: [tr, группа-методов]

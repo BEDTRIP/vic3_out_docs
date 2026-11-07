@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_SocieteJF» — grey USU 1.13, `company_SocieteJF`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_SocieteJF"]
 tags: [grey_usu, вид-компании]

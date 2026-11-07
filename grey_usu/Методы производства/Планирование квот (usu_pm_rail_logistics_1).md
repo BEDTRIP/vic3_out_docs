@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Планирование квот (usu_pm_rail_logistics_1)» — grey USU 1.13, `usu_pm_rail_logistics_1`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Планирование квот (usu_pm_rail_logistics_1)", "Quota Allowance Planning", "usu_pm_rail_logistics_1"]
 tags: [grey_usu, метод-производства]

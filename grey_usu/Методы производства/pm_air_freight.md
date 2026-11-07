@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_air_freight» — grey USU 1.13, `pm_air_freight`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_air_freight"]
 tags: [grey_usu, метод-производства]

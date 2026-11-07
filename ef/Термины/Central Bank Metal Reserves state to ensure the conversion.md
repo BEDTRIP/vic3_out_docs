@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Central Bank Metal Reserves state to ensure the conversion» — подсказка-понятие Victoria 3 1.13 (`concept_central_bank_metal_reserves_state_to_ensure_the_conversion`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Central Bank Metal Reserves state to ensure the conversion", "concept_central_bank_metal_reserves_state_to_ensure_the_conversion"]
 tags: [ef, термин]

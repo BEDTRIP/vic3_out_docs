@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Confederate States Dollar» — E&F 1.13, `law_dollar_confederate_states_dollar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Confederate States Dollar", "law_dollar_confederate_states_dollar_currency"]
 tags: [ef, закон]

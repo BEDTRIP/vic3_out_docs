@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Бонапартист (ideology_bonapartist)» — ваниль 1.13, `ideology_bonapartist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Бонапартист (ideology_bonapartist)", "Bonapartist", "ideology_bonapartist"]
 tags: [ваниль, идеология]

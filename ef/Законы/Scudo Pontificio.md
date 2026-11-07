@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Scudo Pontificio» — E&F 1.13, `law_lira_scudo_pontificio_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Scudo Pontificio", "law_lira_scudo_pontificio_currency"]
 tags: [ef, закон]

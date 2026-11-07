@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Commercial Press» — Mandate of Heaven 1.13, `company_commercial_press`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Commercial Press", "company_commercial_press"]
 tags: [mandate_of_heaven, вид-компании]

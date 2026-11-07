@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Ilva»» — VC 1.13, `company_ilva`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Ilva»", "Ilva", "company_ilva"]
 tags: [VC, вид-компании]

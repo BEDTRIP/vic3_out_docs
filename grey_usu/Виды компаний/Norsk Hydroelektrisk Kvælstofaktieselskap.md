@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Norsk Hydroelektrisk Kvælstofaktieselskap» — grey USU 1.13, `company_norsk_hydro`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Norsk Hydroelektrisk Kvælstofaktieselskap", "company_norsk_hydro"]
 tags: [grey_usu, вид-компании]

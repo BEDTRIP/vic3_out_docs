@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Import Cost (in Gold)» — подсказка-понятие Victoria 3 1.13 (`concept_import_value`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Import Cost (in Gold)", "concept_import_value"]
 tags: [ef, термин]

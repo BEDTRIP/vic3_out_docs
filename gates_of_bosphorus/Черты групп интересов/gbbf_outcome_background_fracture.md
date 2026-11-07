@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «gbbf_outcome_background_fracture» — Gates of Bosphorus 1.13, `gbbf_outcome_background_fracture`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["gbbf_outcome_background_fracture"]
 tags: [gates_of_bosphorus, черта-группы-интересов]

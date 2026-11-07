@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Республиканство (ideology_liberal_republican_movement)» — ваниль 1.13, `ideology_liberal_republican_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Республиканство (ideology_liberal_republican_movement)", "Republican", "ideology_liberal_republican_movement"]
 tags: [ваниль, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Central Railway Corporation» — LLWA 1.13, `LLWA_company_railroad`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Central Railway Corporation", "LLWA_company_railroad"]
 tags: [LLWA, вид-компании]

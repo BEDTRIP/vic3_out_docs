@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rickshaws» — LLWA 1.13, `LLWA_pm_rickshaws`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Rickshaws", "LLWA_pm_rickshaws"]
 tags: [LLWA, метод-производства]

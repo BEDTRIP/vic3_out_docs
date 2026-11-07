@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Co-bots» — T&R 1.13, `pm_cobots`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Co-bots", "pm_cobots"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Anti-Proletarian» — BPM 1.13, `ideology_gov_anti_proletarian`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Anti-Proletarian", "ideology_gov_anti_proletarian"]
 tags: [BPM, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Pump» — T&R 1.13, `pm_electric_fueled_pump_building_rare_earths_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Pump", "pm_electric_fueled_pump_building_rare_earths_mine"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Повторяемый закон не выбран (law_repeatable_economy_none)» — BPM 1.13, `law_repeatable_economy_none`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Повторяемый закон не выбран (law_repeatable_economy_none)", "Повторяемый закон не выбран", "law_repeatable_economy_none"]
 tags: [BPM, закон]

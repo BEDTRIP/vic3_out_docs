@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nuclear Fission Power Plant (pm_nuclear-fission_plant_2)» — T&R 1.13, `pm_nuclear-fission_plant_2`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Fission Power Plant (pm_nuclear-fission_plant_2)", "Nuclear Fission Power Plant", "pm_nuclear-fission_plant_2"]
 tags: [tr, метод-производства]

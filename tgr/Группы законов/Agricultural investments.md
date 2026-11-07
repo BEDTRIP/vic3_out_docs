@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Agricultural investments» — TGR 1.13, `lawgroup_economic_incentives_primary`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Agricultural investments", "lawgroup_economic_incentives_primary"]
 tags: [TGR, группа-законов]

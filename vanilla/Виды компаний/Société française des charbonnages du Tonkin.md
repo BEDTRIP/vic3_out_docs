@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Société française des charbonnages du Tonkin» — ваниль 1.13, `company_societe_francaise_charbonnages_du_tonkin`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Société française des charbonnages du Tonkin", "company_societe_francaise_charbonnages_du_tonkin"]
 tags: [ваниль, вид-компании]

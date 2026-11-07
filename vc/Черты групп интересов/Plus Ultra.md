@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Plus Ultra» — VC 1.13, `ig_trait_plus_ultra`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Plus Ultra", "ig_trait_plus_ultra"]
 tags: [VC, черта-группы-интересов]

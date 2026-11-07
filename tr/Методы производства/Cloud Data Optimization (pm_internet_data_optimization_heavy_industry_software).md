@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cloud Data Optimization (pm_internet_data_optimization_heavy_industry_software)» — T&R 1.13, `pm_internet_data_optimization_heavy_industry_software`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cloud Data Optimization (pm_internet_data_optimization_heavy_industry_software)", "Cloud Data Optimization", "pm_internet_data_optimization_heavy_industry_software"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Negligent Environmentalist» — T&R 1.13, `ideology_neg_ambientalist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Negligent Environmentalist", "ideology_neg_ambientalist"]
 tags: [tr, идеология]

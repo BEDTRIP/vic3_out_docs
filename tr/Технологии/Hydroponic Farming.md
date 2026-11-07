@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Hydroponic Farming» — T&R 1.13, `hydroponic_farming`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydroponic Farming", "hydroponic_farming"]
 tags: [tr, технология]

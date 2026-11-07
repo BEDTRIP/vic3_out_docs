@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Iron Duke» — VC 1.13, `special_iron_duke`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Iron Duke", "special_iron_duke"]
 tags: [VC, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Cargo Type» — T&R 1.13, `pmg_cargo_airport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cargo Type", "pmg_cargo_airport"]
 tags: [tr, группа-методов]

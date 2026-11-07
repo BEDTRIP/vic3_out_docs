@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Ynchausti y Compañía» — grey USU 1.13, `company_ynchausti_y_compania`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Ynchausti y Compañía", "company_ynchausti_y_compania"]
 tags: [grey_usu, вид-компании]

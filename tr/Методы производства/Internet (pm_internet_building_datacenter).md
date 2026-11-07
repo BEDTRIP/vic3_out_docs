@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Internet (pm_internet_building_datacenter)» — T&R 1.13, `pm_internet_building_datacenter`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Internet (pm_internet_building_datacenter)", "Internet", "pm_internet_building_datacenter"]
 tags: [tr, метод-производства]

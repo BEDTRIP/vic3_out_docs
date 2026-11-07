@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Video Games» — T&R 1.13, `videogames`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Video Games", "videogames"]
 tags: [tr, технология]

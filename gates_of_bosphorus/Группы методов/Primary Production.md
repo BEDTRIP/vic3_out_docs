@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Primary Production» — Gates of Bosphorus 1.13, `pmg_esparto_plantation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Primary Production", "pmg_esparto_plantation"]
 tags: [gates_of_bosphorus, группа-методов]

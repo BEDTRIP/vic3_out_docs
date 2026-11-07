@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Free Silver» — Hail Columbia 1.13, `usfp_ig_trait_free_silver`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Free Silver", "usfp_ig_trait_free_silver"]
 tags: [hail_columbia, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Central Bank Metal Reserve Ratio» — подсказка-понятие Victoria 3 1.13 (`concept_central_bank_gold_reserve_ratio`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Central Bank Metal Reserve Ratio", "concept_central_bank_gold_reserve_ratio"]
 tags: [ef, термин]

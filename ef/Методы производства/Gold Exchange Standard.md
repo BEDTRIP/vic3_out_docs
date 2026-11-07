@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Gold Exchange Standard» — E&F 1.13, `pm_gold_exchange_standard_bank_money_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Gold Exchange Standard", "pm_gold_exchange_standard_bank_money_currency"]
 tags: [ef, метод-производства]

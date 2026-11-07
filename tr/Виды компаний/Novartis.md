@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Novartis» — T&R 1.13, `company_novartis`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Novartis", "company_novartis"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Kazatomprom» — T&R 1.13, `company_kazatomprom`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Kazatomprom", "company_kazatomprom"]
 tags: [tr, вид-компании]

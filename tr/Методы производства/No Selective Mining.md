@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Selective Mining» — T&R 1.13, `pm_no_selective_mineral_extraction`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Selective Mining", "pm_no_selective_mineral_extraction"]
 tags: [tr, метод-производства]

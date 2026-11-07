@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Trace Recovery for Common Ores» — T&R 1.13, `selective_mineral_extraction_iron_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Trace Recovery for Common Ores", "selective_mineral_extraction_iron_mine"]
 tags: [tr, метод-производства]

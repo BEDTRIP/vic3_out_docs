@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Constitutionalist» — Hail Columbia 1.13, `ideology_usfp_american_constitution_movement`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Constitutionalist", "ideology_usfp_american_constitution_movement"]
 tags: [hail_columbia, идеология]

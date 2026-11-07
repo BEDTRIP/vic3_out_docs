@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Omanian Rial» — E&F 1.13, `law_dinar_omanian_rial_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Omanian Rial", "law_dinar_omanian_rial_currency"]
 tags: [ef, закон]

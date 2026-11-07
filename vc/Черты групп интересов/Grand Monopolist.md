@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Grand Monopolist» — VC 1.13, `ig_trait_gran_monopoly`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Grand Monopolist", "ig_trait_gran_monopoly"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Sound Devices» — T&R 1.13, `pm_digital_sound_devices`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Sound Devices", "pm_digital_sound_devices"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «M.A. Rothschild & Söhne» — E&F 1.13, `company_Rothschild_Bank_ger`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["M.A. Rothschild & Söhne", "company_Rothschild_Bank_ger"]
 tags: [ef, вид-компании]

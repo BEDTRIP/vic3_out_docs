@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «World Currency» — подсказка-понятие Victoria 3 1.13 (`concept_world_currency`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["World Currency", "concept_world_currency"]
 tags: [ef, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Copper» — T&R 1.13, `copper`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Copper", "copper"]
 tags: [tr, товар]

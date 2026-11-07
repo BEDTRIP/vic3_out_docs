@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Roads» — T&R 1.13, `pm_basic_roads_building_railway`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Roads", "pm_basic_roads_building_railway"]
 tags: [tr, метод-производства]

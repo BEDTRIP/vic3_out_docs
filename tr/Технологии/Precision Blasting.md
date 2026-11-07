@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Precision Blasting» — T&R 1.13, `mine_precision_blasting`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Precision Blasting", "mine_precision_blasting"]
 tags: [tr, технология]

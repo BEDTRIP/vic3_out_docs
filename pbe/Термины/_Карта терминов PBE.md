@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода PBE — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: pbe
 tags: [pbe, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

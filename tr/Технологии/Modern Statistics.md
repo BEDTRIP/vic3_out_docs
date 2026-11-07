@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Statistics» — T&R 1.13, `modern_statistics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Statistics", "modern_statistics"]
 tags: [tr, технология]

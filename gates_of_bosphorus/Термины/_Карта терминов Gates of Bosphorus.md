@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода Gates of Bosphorus — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 tags: [gates_of_bosphorus, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

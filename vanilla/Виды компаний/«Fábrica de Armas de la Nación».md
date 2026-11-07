@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Fábrica de Armas de la Nación»» — ваниль 1.13, `company_famae`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Fábrica de Armas de la Nación»", "Fábrica de Armas de la Nación", "company_famae"]
 tags: [ваниль, вид-компании]

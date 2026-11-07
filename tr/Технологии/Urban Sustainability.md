@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Urban Sustainability» — T&R 1.13, `urban_sustainability`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Urban Sustainability", "urban_sustainability"]
 tags: [tr, технология]

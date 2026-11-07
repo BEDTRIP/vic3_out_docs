@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Cosmetics» — T&R 1.13, `cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cosmetics", "cosmetics"]
 tags: [tr, товар]

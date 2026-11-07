@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Технократ (ideology_positivist)» — BPM 1.13, `ideology_positivist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Технократ (ideology_positivist)", "Technocrat", "ideology_positivist"]
 tags: [BPM, идеология]

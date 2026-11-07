@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Internet» — T&R 1.13, `internet`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Internet", "internet"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Da-Qing Bank» — E&F 1.13, `company_DaQingBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Da-Qing Bank", "company_DaQingBank"]
 tags: [ef, вид-компании]

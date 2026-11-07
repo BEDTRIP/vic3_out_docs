@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Суверенизм (ideology_sovereignist)» — BPM 1.13, `ideology_sovereignist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Суверенизм (ideology_sovereignist)", "Sovereignist", "ideology_sovereignist"]
 tags: [BPM, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Market Connectivity» — LLWA 1.13, `llwa_market_conn`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Market Connectivity", "llwa_market_conn"]
 tags: [LLWA, товар]

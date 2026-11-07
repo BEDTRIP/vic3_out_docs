@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Авангардизм (ideology_vanguardist)» — TGR 1.13, `ideology_vanguardist`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Авангардизм (ideology_vanguardist)", "Vanguardist", "ideology_vanguardist"]
 tags: [TGR, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_subsistence_fishing_village)» — ваниль 1.13, `default_building_subsistence_fishing_village`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Базовое производство (default_building_subsistence_fishing_village)", "Базовое производство", "default_building_subsistence_fishing_village"]
 tags: [ваниль, метод-производства]

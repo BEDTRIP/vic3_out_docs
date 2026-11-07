@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Global Music» — T&R 1.13, `global_music`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Global Music", "global_music"]
 tags: [tr, технология]

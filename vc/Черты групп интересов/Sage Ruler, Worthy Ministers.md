@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Sage Ruler, Worthy Ministers» — VC 1.13, `ig_trait_wise_ruler`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Sage Ruler, Worthy Ministers", "ig_trait_wise_ruler"]
 tags: [VC, черта-группы-интересов]

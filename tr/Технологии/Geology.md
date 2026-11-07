@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Geology» — T&R 1.13, `agassiz_geology_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Geology", "agassiz_geology_tech"]
 tags: [tr, технология]

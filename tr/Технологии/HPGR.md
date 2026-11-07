@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «HPGR» — T&R 1.13, `high_pressure_grinding_rolls`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HPGR", "high_pressure_grinding_rolls"]
 tags: [tr, технология]

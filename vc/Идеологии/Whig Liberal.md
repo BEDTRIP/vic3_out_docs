@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Whig Liberal» — VC 1.13, `ideology_british_whig_liberalism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Whig Liberal", "ideology_british_whig_liberalism"]
 tags: [VC, идеология]

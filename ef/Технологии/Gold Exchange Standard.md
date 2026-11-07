@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Gold Exchange Standard» — E&F 1.13, `gold_exchange_standard`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Gold Exchange Standard", "gold_exchange_standard"]
 tags: [ef, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_gate_magic_streetlights» — grey USU 1.13, `pm_gate_magic_streetlights`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_gate_magic_streetlights"]
 tags: [grey_usu, метод-производства]

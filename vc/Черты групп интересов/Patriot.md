@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Patriot» — VC 1.13, `ig_trait_patriot`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Patriot", "ig_trait_patriot"]
 tags: [VC, черта-группы-интересов]

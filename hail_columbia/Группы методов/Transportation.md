@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Transportation» — Hail Columbia 1.13, `usfp_pmg_fur_trapper_transport`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Transportation", "usfp_pmg_fur_trapper_transport"]
 tags: [hail_columbia, группа-методов]

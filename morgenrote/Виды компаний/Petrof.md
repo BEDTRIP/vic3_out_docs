@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Petrof» — Morgenröte 1.13, `elgar_company_petrof`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Petrof", "elgar_company_petrof"]
 tags: [Morgenröte, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Корпоративизм (ideology_corporatist_leader)» — TGR 1.13, `ideology_corporatist_leader`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Корпоративизм (ideology_corporatist_leader)", "Corporatist", "ideology_corporatist_leader"]
 tags: [TGR, идеология]

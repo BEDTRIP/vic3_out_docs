@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_GN_railway» — grey USU 1.13, `company_GN_railway`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_GN_railway"]
 tags: [grey_usu, вид-компании]

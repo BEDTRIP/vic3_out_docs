@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Johnson & Johnson» — T&R 1.13, `company_johnson_and_johnson`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Johnson & Johnson", "company_johnson_and_johnson"]
 tags: [tr, вид-компании]

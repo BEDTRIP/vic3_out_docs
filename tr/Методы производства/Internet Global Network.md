@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Internet Global Network» — T&R 1.13, `pm_internet_global_network_building_telecommunications`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Internet Global Network", "pm_internet_global_network_building_telecommunications"]
 tags: [tr, метод-производства]

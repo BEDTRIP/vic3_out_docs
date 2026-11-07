@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque de Montréal» — E&F 1.13, `company_BankOfMontreal`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque de Montréal", "company_BankOfMontreal"]
 tags: [ef, вид-компании]

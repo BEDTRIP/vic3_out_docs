@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_rice_farm)» — grey USU 1.13, `pm_serfdom_building_subsistence_rice_farm`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Крепостное право (pm_serfdom_building_subsistence_rice_farm)", "Крепостное право", "pm_serfdom_building_subsistence_rice_farm"]
 tags: [grey_usu, метод-производства]

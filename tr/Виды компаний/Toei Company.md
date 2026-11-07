@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Toei Company» — T&R 1.13, `company_toei`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Toei Company", "company_toei"]
 tags: [tr, вид-компании]

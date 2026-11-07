@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «American Dream» — VC 1.13, `ig_trait_american_dream`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["American Dream", "ig_trait_american_dream"]
 tags: [VC, черта-группы-интересов]

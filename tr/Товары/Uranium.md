@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Uranium» — T&R 1.13, `good_uranium`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Uranium", "good_uranium"]
 tags: [tr, товар]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Light Store Pickup» — T&R 1.13, `pm_light_store_pickup`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Light Store Pickup", "pm_light_store_pickup"]
 tags: [tr, метод-производства]

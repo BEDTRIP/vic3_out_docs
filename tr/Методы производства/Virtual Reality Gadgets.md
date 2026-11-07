@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Virtual Reality Gadgets» — T&R 1.13, `pm_virtual_reality_gadgets`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Virtual Reality Gadgets", "pm_virtual_reality_gadgets"]
 tags: [tr, метод-производства]

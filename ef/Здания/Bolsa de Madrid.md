@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bolsa de Madrid» — E&F 1.13, `building_financial_centre_spa`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bolsa de Madrid", "building_financial_centre_spa"]
 tags: [ef, здание]

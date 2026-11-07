@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_livestock_ranch)» — grey food 1.13, `pm_refrigerated_rail_cars_building_livestock_ranch`"
 project: vic3
+audience: agent
 source: grey_food
 aliases: ["Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_livestock_ranch)", "Refrigerated Rail Cars", "pm_refrigerated_rail_cars_building_livestock_ranch"]
 tags: [grey_food, метод-производства]

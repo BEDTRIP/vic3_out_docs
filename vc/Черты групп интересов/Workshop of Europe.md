@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Workshop of Europe» — VC 1.13, `ig_trait_europe_workshop`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Workshop of Europe", "ig_trait_europe_workshop"]
 tags: [VC, черта-группы-интересов]

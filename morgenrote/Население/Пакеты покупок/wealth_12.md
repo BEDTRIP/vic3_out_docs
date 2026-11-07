@@ -2,6 +2,7 @@
 type: concept
 description: "Пакет покупок «wealth_12» — Morgenröte 1.13, `wealth_12`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["wealth_12"]
 tags: [Morgenröte, пакет-покупок]

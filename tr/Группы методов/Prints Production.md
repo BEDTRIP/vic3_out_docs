@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Prints Production» — T&R 1.13, `manzoni_pmg_building_publishing_industry_automation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Prints Production", "manzoni_pmg_building_publishing_industry_automation"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Telecommunications» — T&R 1.13, `telecommunications`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Telecommunications", "telecommunications"]
 tags: [tr, технология]

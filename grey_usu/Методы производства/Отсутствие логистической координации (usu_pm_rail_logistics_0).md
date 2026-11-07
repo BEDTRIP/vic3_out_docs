@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Отсутствие логистической координации (usu_pm_rail_logistics_0)» — grey USU 1.13, `usu_pm_rail_logistics_0`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Отсутствие логистической координации (usu_pm_rail_logistics_0)", "No Logistical Coordination", "usu_pm_rail_logistics_0"]
 tags: [grey_usu, метод-производства]

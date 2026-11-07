@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Government Policies (ideology_government_petty_bourgeoisie)» — TGR 1.13, `ideology_government_petty_bourgeoisie`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Government Policies (ideology_government_petty_bourgeoisie)", "Government Policies", "ideology_government_petty_bourgeoisie"]
 tags: [TGR, идеология]

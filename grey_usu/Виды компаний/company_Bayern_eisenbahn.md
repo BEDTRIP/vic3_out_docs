@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bayern_eisenbahn» — grey USU 1.13, `company_Bayern_eisenbahn`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bayern_eisenbahn"]
 tags: [grey_usu, вид-компании]

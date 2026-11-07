@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_ThurnTaxis» — grey USU 1.13, `company_ThurnTaxis`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_ThurnTaxis"]
 tags: [grey_usu, вид-компании]

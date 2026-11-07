@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Легитимист (ideology_legitimist)» — ваниль 1.13, `ideology_legitimist`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Легитимист (ideology_legitimist)", "Legitimist", "ideology_legitimist"]
 tags: [ваниль, идеология]

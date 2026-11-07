@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Götaverken»» — ваниль 1.13, `company_gotaverken`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Götaverken»", "Götaverken", "company_gotaverken"]
 tags: [ваниль, вид-компании]

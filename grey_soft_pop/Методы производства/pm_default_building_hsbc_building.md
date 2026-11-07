@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_hsbc_building» — grey soft pop 1.13, `pm_default_building_hsbc_building`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_hsbc_building"]
 tags: [grey_soft_pop, метод-производства]

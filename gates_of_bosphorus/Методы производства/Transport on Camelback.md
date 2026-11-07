@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Transport on Camelback» — Gates of Bosphorus 1.13, `pm_gbbf_camelback`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Transport on Camelback", "pm_gbbf_camelback"]
 tags: [gates_of_bosphorus, метод-производства]

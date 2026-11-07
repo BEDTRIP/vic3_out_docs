@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Commodities Listings» — LLWA 1.13, `LLWA_pm_commidities_listings`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Commodities Listings", "LLWA_pm_commidities_listings"]
 tags: [LLWA, метод-производства]

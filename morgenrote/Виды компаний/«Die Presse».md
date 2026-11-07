@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Die Presse»» — Morgenröte 1.13, `pbi_company_die_presse`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«Die Presse»", "Die Presse", "pbi_company_die_presse"]
 tags: [Morgenröte, вид-компании]

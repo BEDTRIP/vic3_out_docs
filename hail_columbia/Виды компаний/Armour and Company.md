@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Armour and Company» — Hail Columbia 1.13, `company_usfp_armours`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Armour and Company", "company_usfp_armours"]
 tags: [hail_columbia, вид-компании]

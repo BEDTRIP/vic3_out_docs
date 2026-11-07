@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Стандартное производство (pm_default_building_manila_cathedral_ruins)» — ваниль 1.13, `pm_default_building_manila_cathedral_ruins`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Стандартное производство (pm_default_building_manila_cathedral_ruins)", "Default Production", "pm_default_building_manila_cathedral_ruins"]
 tags: [ваниль, метод-производства]

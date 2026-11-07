@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Steaua Română»» — grey USU 1.13, `company_romanian_star`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Steaua Română»", "Steaua Română", "company_romanian_star"]
 tags: [grey_usu, вид-компании]

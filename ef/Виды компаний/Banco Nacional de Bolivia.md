@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Nacional de Bolivia» — E&F 1.13, `company_BancoNacionalDeBolivia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Nacional de Bolivia", "company_BancoNacionalDeBolivia"]
 tags: [ef, вид-компании]

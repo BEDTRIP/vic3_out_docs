@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Hitotsubashi (Shueisha, Shogakukan, Kodansha)» — T&R 1.13, `company_hitotsubashi`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hitotsubashi (Shueisha, Shogakukan, Kodansha)", "company_hitotsubashi"]
 tags: [tr, вид-компании]

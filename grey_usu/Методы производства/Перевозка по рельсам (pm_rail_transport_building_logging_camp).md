@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Перевозка по рельсам (pm_rail_transport_building_logging_camp)» — grey USU 1.13, `pm_rail_transport_building_logging_camp`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Перевозка по рельсам (pm_rail_transport_building_logging_camp)", "Перевозка по рельсам", "pm_rail_transport_building_logging_camp"]
 tags: [grey_usu, метод-производства]

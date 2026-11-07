@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_PTT» — grey USU 1.13, `company_PTT`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_PTT"]
 tags: [grey_usu, вид-компании]

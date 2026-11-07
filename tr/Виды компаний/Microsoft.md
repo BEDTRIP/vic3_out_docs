@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Microsoft» — T&R 1.13, `company_microsoft`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Microsoft", "company_microsoft"]
 tags: [tr, вид-компании]

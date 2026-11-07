@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Anarchist Movement» — BPM 1.13, `ideology_gov_anarchist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Anarchist Movement", "ideology_gov_anarchist"]
 tags: [BPM, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Паровая автоматизация (pmg_steam_automation_building_iron_mine)» — T&R 1.13, `pmg_steam_automation_building_iron_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Паровая автоматизация (pmg_steam_automation_building_iron_mine)", "Паровая автоматизация", "pmg_steam_automation_building_iron_mine"]
 tags: [tr, группа-методов]

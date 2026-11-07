@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Progressivism» — подсказка-понятие Victoria 3 1.13 (`concept_progressivism`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Progressivism", "concept_progressivism"]
 tags: [tr, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Revivalist» — VC 1.13, `ideology_revivalism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Revivalist", "ideology_revivalism"]
 tags: [VC, идеология]

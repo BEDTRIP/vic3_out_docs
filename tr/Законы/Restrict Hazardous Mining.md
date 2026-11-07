@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Restrict Hazardous Mining» — T&R 1.13, `law_mining_restrict_hazardous`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Restrict Hazardous Mining", "law_mining_restrict_hazardous"]
 tags: [tr, закон]

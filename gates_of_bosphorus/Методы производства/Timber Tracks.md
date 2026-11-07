@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Timber Tracks» — Gates of Bosphorus 1.13, `pm_gbbf_timber_tracks`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Timber Tracks", "pm_gbbf_timber_tracks"]
 tags: [gates_of_bosphorus, метод-производства]

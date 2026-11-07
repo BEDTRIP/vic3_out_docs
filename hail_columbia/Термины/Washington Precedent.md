@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Washington Precedent» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_washington_precedent`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Washington Precedent", "concept_usfp_washington_precedent"]
 tags: [hail_columbia, термин]

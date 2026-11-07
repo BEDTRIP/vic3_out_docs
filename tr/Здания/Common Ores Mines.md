@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Common Ores Mines» — T&R 1.13, `building_commonores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Common Ores Mines", "building_commonores_mine"]
 tags: [tr, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Peaceful Golden Age» — VC 1.13, `ig_trait_peaceful_times`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Peaceful Golden Age", "ig_trait_peaceful_times"]
 tags: [VC, черта-группы-интересов]

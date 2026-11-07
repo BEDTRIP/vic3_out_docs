@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Inability to work» — TGR 1.13, `law_retirement_age_inability_to_work`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Inability to work", "law_retirement_age_inability_to_work"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Apple» — T&R 1.13, `company_apple`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Apple", "company_apple"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Vanguards of Civilization» — VC 1.13, `ig_trait_kazoku_system`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Vanguards of Civilization", "ig_trait_kazoku_system"]
 tags: [VC, черта-группы-интересов]

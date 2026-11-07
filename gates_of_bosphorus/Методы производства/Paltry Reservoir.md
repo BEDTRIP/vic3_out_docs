@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Paltry Reservoir» — Gates of Bosphorus 1.13, `pm_gbbf_no_reservior`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Paltry Reservoir", "pm_gbbf_no_reservior"]
 tags: [gates_of_bosphorus, метод-производства]

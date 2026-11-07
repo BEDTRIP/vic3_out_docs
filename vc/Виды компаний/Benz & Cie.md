@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Benz & Cie» — VC 1.13, `company_benz_cie`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Benz & Cie", "company_benz_cie"]
 tags: [VC, вид-компании]

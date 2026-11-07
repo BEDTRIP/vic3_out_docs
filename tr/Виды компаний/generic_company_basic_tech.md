@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «generic_company_basic_tech» — T&R 1.13, `generic_company_basic_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["generic_company_basic_tech"]
 tags: [tr, вид-компании]

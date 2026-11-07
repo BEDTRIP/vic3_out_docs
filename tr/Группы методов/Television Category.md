@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Television Category» — T&R 1.13, `pmg_television_category`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Television Category", "pmg_television_category"]
 tags: [tr, группа-методов]

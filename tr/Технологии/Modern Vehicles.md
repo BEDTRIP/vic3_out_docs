@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Vehicles» — T&R 1.13, `modern_transport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Vehicles", "modern_transport"]
 tags: [tr, технология]

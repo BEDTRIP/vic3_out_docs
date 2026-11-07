@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Gates of Bosphorus «Beylik» — подсказка-понятие Victoria 3 1.13 (`concept_beylik`)"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Beylik", "concept_beylik"]
 tags: [gates_of_bosphorus, термин]

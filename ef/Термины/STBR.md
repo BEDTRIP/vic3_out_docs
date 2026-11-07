@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «STBR» — подсказка-понятие Victoria 3 1.13 (`concept_base_interest_value_5Y_s`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["STBR", "concept_base_interest_value_5Y_s"]
 tags: [ef, термин]

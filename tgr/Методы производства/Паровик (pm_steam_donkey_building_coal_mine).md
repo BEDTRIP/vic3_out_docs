@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровик (pm_steam_donkey_building_coal_mine)» — TGR 1.13, `pm_steam_donkey_building_coal_mine`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Паровик (pm_steam_donkey_building_coal_mine)", "Steam Donkey", "pm_steam_donkey_building_coal_mine"]
 tags: [TGR, метод-производства]

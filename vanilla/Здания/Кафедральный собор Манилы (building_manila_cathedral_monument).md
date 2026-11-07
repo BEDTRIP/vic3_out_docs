@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Кафедральный собор Манилы (building_manila_cathedral_monument)» — ваниль 1.13, `building_manila_cathedral_monument`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Кафедральный собор Манилы (building_manila_cathedral_monument)", "Manila Cathedral", "building_manila_cathedral_monument"]
 tags: [ваниль, здание]

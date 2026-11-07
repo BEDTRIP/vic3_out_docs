@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Accommodationist» — Hail Columbia 1.13, `ideology_usfp_accomodationist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Accommodationist", "ideology_usfp_accomodationist"]
 tags: [hail_columbia, идеология]

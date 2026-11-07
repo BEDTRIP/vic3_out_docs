@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Münchener Börse» — E&F 1.13, `building_financial_centre_bav`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Münchener Börse", "building_financial_centre_bav"]
 tags: [ef, здание]

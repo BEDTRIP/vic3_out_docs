@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Versatile Transportation (pm_multiway_transport_mine)» — T&R 1.13, `pm_multiway_transport_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Versatile Transportation (pm_multiway_transport_mine)", "Versatile Transportation", "pm_multiway_transport_mine"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Quartz Glass» — T&R 1.13, `quartz_glass`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Quartz Glass", "quartz_glass"]
 tags: [tr, технология]

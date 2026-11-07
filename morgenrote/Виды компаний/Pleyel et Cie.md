@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Pleyel et Cie» — Morgenröte 1.13, `elgar_company_pleyel`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Pleyel et Cie", "elgar_company_pleyel"]
 tags: [Morgenröte, вид-компании]

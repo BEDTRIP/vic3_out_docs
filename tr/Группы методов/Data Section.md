@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Data Section» — T&R 1.13, `pmg_data_section_building_office`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Data Section", "pmg_data_section_building_office"]
 tags: [tr, группа-методов]

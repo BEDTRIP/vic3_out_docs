@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Metalique Standard» — E&F 1.13, `metalique_standard`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Metalique Standard", "metalique_standard"]
 tags: [ef, технология]

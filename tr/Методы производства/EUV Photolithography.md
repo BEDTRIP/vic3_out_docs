@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «EUV Photolithography» — T&R 1.13, `pm_euv_photolithography`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["EUV Photolithography", "pm_euv_photolithography"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Xiaomi» — T&R 1.13, `company_xiaomi`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Xiaomi", "company_xiaomi"]
 tags: [tr, вид-компании]

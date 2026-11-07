@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Götaverken»» — grey USU 1.13, `company_gotaverken`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Götaverken»", "Götaverken", "company_gotaverken"]
 tags: [grey_usu, вид-компании]

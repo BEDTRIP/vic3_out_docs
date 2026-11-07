@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Symphonist (ideology_gbbf_symphonist)» — Gates of Bosphorus 1.13, `ideology_gbbf_symphonist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Symphonist (ideology_gbbf_symphonist)", "Symphonist", "ideology_gbbf_symphonist"]
 tags: [gates_of_bosphorus, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Drugs Healthcare» — T&R 1.13, `pm_drugs_healtcare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Drugs Healthcare", "pm_drugs_healtcare"]
 tags: [tr, метод-производства]

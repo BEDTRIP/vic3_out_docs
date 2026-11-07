@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Модернизатор (ideology_modernizer)» — ваниль 1.13, `ideology_modernizer`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Модернизатор (ideology_modernizer)", "Modernizer", "ideology_modernizer"]
 tags: [ваниль, идеология]

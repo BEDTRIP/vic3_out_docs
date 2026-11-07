@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Патернализм (ideology_paternalistic)» — ваниль 1.13, `ideology_paternalistic`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Патернализм (ideology_paternalistic)", "Paternalistic", "ideology_paternalistic"]
 tags: [ваниль, идеология]

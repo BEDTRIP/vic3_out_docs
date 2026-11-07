@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Cuban Peso» — E&F 1.13, `law_peso_cuban_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Cuban Peso", "law_peso_cuban_peso_currency"]
 tags: [ef, закон]

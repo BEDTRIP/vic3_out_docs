@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Tanzimat» — VC 1.13, `ig_trait_tanzimat`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Tanzimat", "ig_trait_tanzimat"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Military Encryption» — T&R 1.13, `military_encryption`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Military Encryption", "military_encryption"]
 tags: [tr, технология]

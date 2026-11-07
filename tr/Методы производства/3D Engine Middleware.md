@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «3D Engine Middleware» — T&R 1.13, `pm_3d_engine_building_interactive_media_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["3D Engine Middleware", "pm_3d_engine_building_interactive_media_industry"]
 tags: [tr, метод-производства]

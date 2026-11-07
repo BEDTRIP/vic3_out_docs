@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «BCBR» — подсказка-понятие Victoria 3 1.13 (`concept_base_rate_percentage_s`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["BCBR", "concept_base_rate_percentage_s"]
 tags: [ef, термин]

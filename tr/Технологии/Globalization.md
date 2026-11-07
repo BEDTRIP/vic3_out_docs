@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Globalization» — T&R 1.13, `globalization`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Globalization", "globalization"]
 tags: [tr, технология]

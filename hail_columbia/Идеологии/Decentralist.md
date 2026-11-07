@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Decentralist» — Hail Columbia 1.13, `ideology_usfp_tribal_government`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Decentralist", "ideology_usfp_tribal_government"]
 tags: [hail_columbia, идеология]

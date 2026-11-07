@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Imperial Examination» — VC 1.13, `law_imperial_examination`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Imperial Examination", "law_imperial_examination"]
 tags: [VC, закон]

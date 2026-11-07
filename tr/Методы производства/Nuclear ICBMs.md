@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nuclear ICBMs» — T&R 1.13, `pm_icbms`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear ICBMs", "pm_icbms"]
 tags: [tr, метод-производства]

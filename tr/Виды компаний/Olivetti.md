@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Olivetti» — T&R 1.13, `company_olivetti`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Olivetti", "company_olivetti"]
 tags: [tr, вид-компании]

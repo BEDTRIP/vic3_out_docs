@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «La Hispano-Suiza» — T&R 1.13, `company_hispano_suiza`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["La Hispano-Suiza", "company_hispano_suiza"]
 tags: [tr, вид-компании]

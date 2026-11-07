@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Sovereign Money» — E&F 1.13, `lawgroup_currency_type`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Sovereign Money", "lawgroup_currency_type"]
 tags: [ef, группа-законов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Klaničko Društvo» — ваниль 1.13, `company_klanicko_drustvo`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Klaničko Društvo", "company_klanicko_drustvo"]
 tags: [ваниль, вид-компании]

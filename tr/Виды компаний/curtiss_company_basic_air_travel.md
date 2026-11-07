@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «curtiss_company_basic_air_travel» — T&R 1.13, `curtiss_company_basic_air_travel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["curtiss_company_basic_air_travel"]
 tags: [tr, вид-компании]

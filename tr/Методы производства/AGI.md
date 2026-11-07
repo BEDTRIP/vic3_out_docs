@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «AGI» — T&R 1.13, `pm_artificial_general_intelligence`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["AGI", "pm_artificial_general_intelligence"]
 tags: [tr, метод-производства]

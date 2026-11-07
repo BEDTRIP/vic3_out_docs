@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Erste Brünner Maschinenfabriks-Gesellschaft» — ваниль 1.13, `company_erste_brunner`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Erste Brünner Maschinenfabriks-Gesellschaft", "company_erste_brunner"]
 tags: [ваниль, вид-компании]

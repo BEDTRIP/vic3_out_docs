@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Automation» — T&R 1.13, `pm_automation_disabled_power_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Automation", "pm_automation_disabled_power_plant"]
 tags: [tr, метод-производства]

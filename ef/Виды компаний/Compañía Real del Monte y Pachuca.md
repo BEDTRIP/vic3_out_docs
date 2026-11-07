@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Compañía Real del Monte y Pachuca» — E&F 1.13, `company_basic_silver_mining_mex`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Compañía Real del Monte y Pachuca", "company_basic_silver_mining_mex"]
 tags: [ef, вид-компании]

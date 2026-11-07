@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Равноправие (ideology_egalitarian)» — ваниль 1.13, `ideology_egalitarian`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Равноправие (ideology_egalitarian)", "Egalitarian", "ideology_egalitarian"]
 tags: [ваниль, идеология]

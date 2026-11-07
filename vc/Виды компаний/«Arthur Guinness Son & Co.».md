@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Arthur Guinness Son & Co.»» — VC 1.13, `company_guinness`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Arthur Guinness Son & Co.»", "Arthur Guinness Son & Co. Ltd", "company_guinness"]
 tags: [VC, вид-компании]

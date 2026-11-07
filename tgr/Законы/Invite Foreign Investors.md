@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Invite Foreign Investors» — TGR 1.13, `foreign_policy_foreign_investments`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Invite Foreign Investors", "foreign_policy_foreign_investments"]
 tags: [TGR, закон]

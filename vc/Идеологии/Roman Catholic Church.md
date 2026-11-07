@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Roman Catholic Church» — VC 1.13, `ideology_catholic_church`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Roman Catholic Church", "ideology_catholic_church"]
 tags: [VC, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Exclusionary» — Hail Columbia 1.13, `ideology_reactionary_exclusionist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Exclusionary", "ideology_reactionary_exclusionist"]
 tags: [hail_columbia, идеология]

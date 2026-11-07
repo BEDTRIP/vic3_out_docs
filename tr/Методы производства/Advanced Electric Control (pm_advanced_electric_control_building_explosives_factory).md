@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Electric Control (pm_advanced_electric_control_building_explosives_factory)» — T&R 1.13, `pm_advanced_electric_control_building_explosives_factory`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Electric Control (pm_advanced_electric_control_building_explosives_factory)", "Advanced Electric Control", "pm_advanced_electric_control_building_explosives_factory"]
 tags: [tr, метод-производства]

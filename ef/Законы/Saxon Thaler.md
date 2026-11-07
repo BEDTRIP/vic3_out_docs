@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Saxon Thaler» — E&F 1.13, `law_thaler_saxon_thaler_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Saxon Thaler", "law_thaler_saxon_thaler_currency"]
 tags: [ef, закон]

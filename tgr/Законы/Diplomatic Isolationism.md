@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Diplomatic Isolationism» — TGR 1.13, `foreign_policy_diplomatic_isolationism`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Diplomatic Isolationism", "foreign_policy_diplomatic_isolationism"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «South African Rand» — E&F 1.13, `law_eco_south_african_rand_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["South African Rand", "law_eco_south_african_rand_currency"]
 tags: [ef, закон]

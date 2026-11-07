@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Blockbuster Cinema» — T&R 1.13, `blockbuster_films`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Blockbuster Cinema", "blockbuster_films"]
 tags: [tr, метод-производства]

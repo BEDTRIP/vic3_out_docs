@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Congress» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_congress`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Congress", "concept_usfp_congress"]
 tags: [hail_columbia, термин]

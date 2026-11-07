@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Continuous Cane Diffusion» — T&R 1.13, `pm_continuous_diffusion_sugar_cane_refining`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Continuous Cane Diffusion", "pm_continuous_diffusion_sugar_cane_refining"]
 tags: [tr, метод-производства]

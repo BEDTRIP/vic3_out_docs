@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Nintendo» — T&R 1.13, `company_nintendo`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nintendo", "company_nintendo"]
 tags: [tr, вид-компании]

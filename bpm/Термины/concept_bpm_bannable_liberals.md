@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода BPM «concept_bpm_bannable_liberals» — подсказка-понятие Victoria 3 1.13 (`concept_bpm_bannable_liberals`)"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["concept_bpm_bannable_liberals"]
 tags: [bpm, термин]

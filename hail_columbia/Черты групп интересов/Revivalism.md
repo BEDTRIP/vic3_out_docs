@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Revivalism» — Hail Columbia 1.13, `usfp_ig_trait_revivalism`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Revivalism", "usfp_ig_trait_revivalism"]
 tags: [hail_columbia, черта-группы-интересов]

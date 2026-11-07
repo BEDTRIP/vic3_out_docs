@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Reformist Confucian» — VC 1.13, `ideology_western_confucian`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Reformist Confucian", "ideology_western_confucian"]
 tags: [VC, идеология]

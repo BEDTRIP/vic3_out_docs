@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rail Transportation (pm_rail_transport_building_robotics_industry)» — T&R 1.13, `pm_rail_transport_building_robotics_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rail Transportation (pm_rail_transport_building_robotics_industry)", "Rail Transportation", "pm_rail_transport_building_robotics_industry"]
 tags: [tr, метод-производства]

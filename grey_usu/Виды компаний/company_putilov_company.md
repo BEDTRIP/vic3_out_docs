@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_putilov_company» — grey USU 1.13, `:company_putilov_company`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_putilov_company", ":company_putilov_company"]
 tags: [grey_usu, вид-компании]

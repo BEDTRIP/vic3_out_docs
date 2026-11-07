@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Royal Bank of Canada» — E&F 1.13, `company_RoyalBankofCanada`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Royal Bank of Canada", "company_RoyalBankofCanada"]
 tags: [ef, вид-компании]

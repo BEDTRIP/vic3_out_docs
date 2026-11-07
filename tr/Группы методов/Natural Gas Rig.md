@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Natural Gas Rig» — T&R 1.13, `pmg_base_building_natural_gas_rig`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Natural Gas Rig", "pmg_base_building_natural_gas_rig"]
 tags: [tr, группа-методов]

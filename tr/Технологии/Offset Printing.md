@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Offset Printing» — T&R 1.13, `offset_printing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Offset Printing", "offset_printing"]
 tags: [tr, технология]

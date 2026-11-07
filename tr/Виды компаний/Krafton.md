@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Krafton» — T&R 1.13, `company_krafton`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Krafton", "company_krafton"]
 tags: [tr, вид-компании]

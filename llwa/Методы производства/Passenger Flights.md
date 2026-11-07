@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Passenger Flights» — LLWA 1.13, `LLWA_pm_air_travel`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Passenger Flights", "LLWA_pm_air_travel"]
 tags: [LLWA, метод-производства]

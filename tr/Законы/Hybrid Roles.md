@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Hybrid Roles» — T&R 1.13, `lgbtq_sex_equality`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hybrid Roles", "lgbtq_sex_equality"]
 tags: [tr, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bank_of_England» — grey USU 1.13, `company_Bank_of_England`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bank_of_England"]
 tags: [grey_usu, вид-компании]

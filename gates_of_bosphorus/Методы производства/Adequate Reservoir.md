@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Adequate Reservoir» — Gates of Bosphorus 1.13, `pm_gbbf_adequate_reservior`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Adequate Reservoir", "pm_gbbf_adequate_reservior"]
 tags: [gates_of_bosphorus, метод-производства]

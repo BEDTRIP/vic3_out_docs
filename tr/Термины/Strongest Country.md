@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Strongest Country» — подсказка-понятие Victoria 3 1.13 (`concept_un_member_selection_strongest_country`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Strongest Country", "concept_un_member_selection_strongest_country"]
 tags: [tr, термин]

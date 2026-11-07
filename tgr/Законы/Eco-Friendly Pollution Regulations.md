@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Eco-Friendly Pollution Regulations» — TGR 1.13, `law_eco_environment_regulations`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Eco-Friendly Pollution Regulations", "law_eco_environment_regulations"]
 tags: [TGR, закон]

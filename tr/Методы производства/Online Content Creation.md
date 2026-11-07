@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Online Content Creation» — T&R 1.13, `pm_online_content_creation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Online Content Creation", "pm_online_content_creation"]
 tags: [tr, метод-производства]

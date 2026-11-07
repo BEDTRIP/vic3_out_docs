@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Parallel Computing Architectures» — T&R 1.13, `parallel_computing_architecture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Parallel Computing Architectures", "parallel_computing_architecture"]
 tags: [tr, технология]

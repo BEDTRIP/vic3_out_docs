@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основание (pmg_base_building_hagia_sophia)» — ваниль 1.13, `pmg_base_building_hagia_sophia`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основание (pmg_base_building_hagia_sophia)", "Base", "pmg_base_building_hagia_sophia"]
 tags: [ваниль, группа-методов]

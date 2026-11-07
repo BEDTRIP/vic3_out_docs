@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Raw Data Processing» — T&R 1.13, `data_processing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Raw Data Processing", "data_processing"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Muckrakers» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_muckrakers`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Muckrakers", "concept_usfp_muckrakers"]
 tags: [hail_columbia, термин]

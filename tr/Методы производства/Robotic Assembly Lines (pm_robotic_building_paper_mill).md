@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Robotic Assembly Lines (pm_robotic_building_paper_mill)» — T&R 1.13, `pm_robotic_building_paper_mill`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Robotic Assembly Lines (pm_robotic_building_paper_mill)", "Robotic Assembly Lines", "pm_robotic_building_paper_mill"]
 tags: [tr, метод-производства]

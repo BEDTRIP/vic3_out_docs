@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Saudi Riyal» — E&F 1.13, `law_dinar_saudi_riyal_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Saudi Riyal", "law_dinar_saudi_riyal_currency"]
 tags: [ef, закон]

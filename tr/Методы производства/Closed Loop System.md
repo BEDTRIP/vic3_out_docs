@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Closed Loop System» — T&R 1.13, `pm_automation_closed_loop_system`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Closed Loop System", "pm_automation_closed_loop_system"]
 tags: [tr, метод-производства]

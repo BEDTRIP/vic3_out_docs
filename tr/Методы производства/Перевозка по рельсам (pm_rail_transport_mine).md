@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Перевозка по рельсам (pm_rail_transport_mine)» — T&R 1.13, `pm_rail_transport_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Перевозка по рельсам (pm_rail_transport_mine)", "Перевозка по рельсам", "pm_rail_transport_mine"]
 tags: [tr, метод-производства]

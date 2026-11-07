@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bertelsmann» — T&R 1.13, `company_bertelsmann`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bertelsmann", "company_bertelsmann"]
 tags: [tr, вид-компании]

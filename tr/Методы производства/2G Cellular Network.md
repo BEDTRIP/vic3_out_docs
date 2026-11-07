@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «2G Cellular Network» — T&R 1.13, `pm_2g_digital_cellular`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["2G Cellular Network", "pm_2g_digital_cellular"]
 tags: [tr, метод-производства]

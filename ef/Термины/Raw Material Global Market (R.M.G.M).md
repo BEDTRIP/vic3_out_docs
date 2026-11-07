@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Raw Material Global Market (R.M.G.M)» — подсказка-понятие Victoria 3 1.13 (`concept_r_m_g_m`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Raw Material Global Market (R.M.G.M)", "concept_r_m_g_m"]
 tags: [ef, термин]

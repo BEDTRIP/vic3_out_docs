@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Gender Equality» — T&R 1.13, `lgbtq_full_gender_equality`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gender Equality", "lgbtq_full_gender_equality"]
 tags: [tr, закон]

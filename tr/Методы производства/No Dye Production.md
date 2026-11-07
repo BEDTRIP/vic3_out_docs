@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Dye Production» — T&R 1.13, `pm_no_dye_production`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Dye Production", "pm_no_dye_production"]
 tags: [tr, метод-производства]

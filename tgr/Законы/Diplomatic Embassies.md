@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Diplomatic Embassies» — TGR 1.13, `foreign_policy_diplomatic_embassies`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Diplomatic Embassies", "foreign_policy_diplomatic_embassies"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Sociedad Rodriguez Argüelles y Cia» — T&R 1.13, `company_rodriguez_arguelles_y_cia`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Sociedad Rodriguez Argüelles y Cia", "company_rodriguez_arguelles_y_cia"]
 tags: [tr, вид-компании]

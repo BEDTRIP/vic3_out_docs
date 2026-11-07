@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Roland Berger» — T&R 1.13, `company_roland_berger`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Roland Berger", "company_roland_berger"]
 tags: [tr, вид-компании]

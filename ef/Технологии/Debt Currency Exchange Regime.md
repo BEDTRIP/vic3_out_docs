@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Debt Currency Exchange Regime» — E&F 1.13, `debt_currency_exchange_regime`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Debt Currency Exchange Regime", "debt_currency_exchange_regime"]
 tags: [ef, технология]

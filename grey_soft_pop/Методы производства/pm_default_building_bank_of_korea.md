@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_bank_of_korea» — grey soft pop 1.13, `pm_default_building_bank_of_korea`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_bank_of_korea"]
 tags: [grey_soft_pop, метод-производства]

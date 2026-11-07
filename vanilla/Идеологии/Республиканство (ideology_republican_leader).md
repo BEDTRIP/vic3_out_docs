@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Республиканство (ideology_republican_leader)» — ваниль 1.13, `ideology_republican_leader`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Республиканство (ideology_republican_leader)", "Republican", "ideology_republican_leader"]
 tags: [ваниль, идеология]

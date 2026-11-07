@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_eiffel_tower)» — ваниль 1.13, `pmg_base_building_eiffel_tower`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Основа (pmg_base_building_eiffel_tower)", "Основа", "pmg_base_building_eiffel_tower"]
 tags: [ваниль, группа-методов]

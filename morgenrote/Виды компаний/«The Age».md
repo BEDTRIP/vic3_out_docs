@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««The Age»» — Morgenröte 1.13, `pbi_company_the_age`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«The Age»", "The Age", "pbi_company_the_age"]
 tags: [Morgenröte, вид-компании]

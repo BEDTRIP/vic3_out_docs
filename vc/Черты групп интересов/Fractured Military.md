@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Fractured Military» — VC 1.13, `ig_trait_divided_troops`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Fractured Military", "ig_trait_divided_troops"]
 tags: [VC, черта-группы-интересов]

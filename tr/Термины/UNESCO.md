@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «UNESCO» — подсказка-понятие Victoria 3 1.13 (`concept_un_subject_unesco`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["UNESCO", "concept_un_subject_unesco"]
 tags: [tr, термин]

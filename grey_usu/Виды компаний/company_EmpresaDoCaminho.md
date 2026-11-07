@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_EmpresaDoCaminho» — grey USU 1.13, `company_EmpresaDoCaminho`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_EmpresaDoCaminho"]
 tags: [grey_usu, вид-компании]

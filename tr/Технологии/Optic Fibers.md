@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Optic Fibers» — T&R 1.13, `optic_fibers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Optic Fibers", "optic_fibers"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Price Gouging» — VC 1.13, `ig_trait_against_imports`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Price Gouging", "ig_trait_against_imports"]
 tags: [VC, черта-группы-интересов]

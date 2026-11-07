@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Реакционеры (ideology_reactionary_movement)» — ваниль 1.13, `ideology_reactionary_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Реакционеры (ideology_reactionary_movement)", "Реакционеры", "ideology_reactionary_movement"]
 tags: [ваниль, идеология]

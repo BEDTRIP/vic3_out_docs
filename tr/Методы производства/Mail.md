@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Mail» — T&R 1.13, `pm_air_mail`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mail", "pm_air_mail"]
 tags: [tr, метод-производства]

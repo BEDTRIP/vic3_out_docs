@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Colt's Patent Firearms Manufacturing Company» — VC 1.13, `company_colt_firearms`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Colt's Patent Firearms Manufacturing Company", "company_colt_firearms"]
 tags: [VC, вид-компании]

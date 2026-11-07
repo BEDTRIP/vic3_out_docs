@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Gold & Silver» — E&F 1.13, `company_basic_gold_and_silver_mining_2`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Gold & Silver", "company_basic_gold_and_silver_mining_2"]
 tags: [ef, вид-компании]

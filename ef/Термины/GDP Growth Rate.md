@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «GDP Growth Rate» — подсказка-понятие Victoria 3 1.13 (`concept_gdp_growth_rate`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["GDP Growth Rate", "concept_gdp_growth_rate"]
 tags: [ef, термин]

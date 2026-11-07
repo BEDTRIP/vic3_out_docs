@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Multinational Corporations» — T&R 1.13, `multinational_corporations`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Multinational Corporations", "multinational_corporations"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Petrochemical Industries» — T&R 1.13, `building_mendelejew_synthetic_rubber_factory`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Petrochemical Industries", "building_mendelejew_synthetic_rubber_factory"]
 tags: [tr, здание]

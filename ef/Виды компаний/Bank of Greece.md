@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bank of Greece» — E&F 1.13, `company_bankofgreec`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bank of Greece", "company_bankofgreec"]
 tags: [ef, вид-компании]

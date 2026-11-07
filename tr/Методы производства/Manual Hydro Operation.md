@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Manual Hydro Operation» — T&R 1.13, `pm_manual_hydro_operation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Manual Hydro Operation", "pm_manual_hydro_operation"]
 tags: [tr, метод-производства]

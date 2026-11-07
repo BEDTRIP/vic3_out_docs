@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Arc Process Alloying» — T&R 1.13, `pm_electric_arc_process_alloying`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Arc Process Alloying", "pm_electric_arc_process_alloying"]
 tags: [tr, метод-производства]

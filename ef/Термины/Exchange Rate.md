@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Exchange Rate» — подсказка-понятие Victoria 3 1.13 (`concept_exchange_rate`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Exchange Rate", "concept_exchange_rate"]
 tags: [ef, термин]

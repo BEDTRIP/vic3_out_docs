@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Autonomous Agricultural Vehicles (pm_autonomous_agricultural_vehicles_building_rice_farm)» — T&R 1.13, `pm_autonomous_agricultural_vehicles_building_rice_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Autonomous Agricultural Vehicles (pm_autonomous_agricultural_vehicles_building_rice_farm)", "Autonomous Agricultural Vehicles", "pm_autonomous_agricultural_vehicles_building_rice_farm"]
 tags: [tr, метод-производства]

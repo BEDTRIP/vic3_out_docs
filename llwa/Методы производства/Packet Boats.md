@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Packet Boats» — LLWA 1.13, `LLWA_pm_packet_ships`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Packet Boats", "LLWA_pm_packet_ships"]
 tags: [LLWA, метод-производства]

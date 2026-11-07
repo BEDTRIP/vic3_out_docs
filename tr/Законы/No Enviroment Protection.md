@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Enviroment Protection» — T&R 1.13, `law_no_protection`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Enviroment Protection", "law_no_protection"]
 tags: [tr, закон]

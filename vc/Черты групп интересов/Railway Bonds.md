@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Railway Bonds» — VC 1.13, `ig_trait_railway_bonds`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Railway Bonds", "ig_trait_railway_bonds"]
 tags: [VC, черта-группы-интересов]

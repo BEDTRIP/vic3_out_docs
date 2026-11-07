@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bank_JP_Morgan» — grey USU 1.13, `company_Bank_JP_Morgan`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bank_JP_Morgan"]
 tags: [grey_usu, вид-компании]

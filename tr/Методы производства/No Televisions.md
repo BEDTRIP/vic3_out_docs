@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Televisions» — T&R 1.13, `pm_no_televisions`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Televisions", "pm_no_televisions"]
 tags: [tr, метод-производства]

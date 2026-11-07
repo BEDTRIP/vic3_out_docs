@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Icon in the Snow» — VC 1.13, `ig_trait_icon_in_the_snow`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Icon in the Snow", "ig_trait_icon_in_the_snow"]
 tags: [VC, черта-группы-интересов]

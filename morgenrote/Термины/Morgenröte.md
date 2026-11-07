@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Morgenröte «Morgenröte» — подсказка-понятие Victoria 3 1.13 (`concept_morgenroete`)"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["MR", "Концепт", "Morgenröte", "concept_morgenroete"]
 tags: [morgenrote, термин]

@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Devaluation» — подсказка-понятие Victoria 3 1.13 (`concept_devaluation`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Devaluation", "concept_devaluation"]
 tags: [ef, термин]

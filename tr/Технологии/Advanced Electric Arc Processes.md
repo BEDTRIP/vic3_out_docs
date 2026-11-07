@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Advanced Electric Arc Processes» — T&R 1.13, `advanced_electric_arc_processes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Electric Arc Processes", "advanced_electric_arc_processes"]
 tags: [tr, технология]

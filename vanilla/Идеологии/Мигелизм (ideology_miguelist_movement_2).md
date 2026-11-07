@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Мигелизм (ideology_miguelist_movement_2)» — ваниль 1.13, `ideology_miguelist_movement_2`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Мигелизм (ideology_miguelist_movement_2)", "Мигелизм", "ideology_miguelist_movement_2"]
 tags: [ваниль, идеология]

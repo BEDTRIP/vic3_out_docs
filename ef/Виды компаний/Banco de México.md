@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco de México» — E&F 1.13, `company_BancoDeMexico`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco de México", "company_BancoDeMexico"]
 tags: [ef, вид-компании]

@@ -3,6 +3,7 @@ type: history
 kind: research
 description: "Сводка Morgenröte: что мод меняет относительно ванили 1.13 — разбор по файлам до этапа ДОК; исходный материал для графа источника, не сверен с текущим снимком"
 project: vic3
+audience: agent
 source: morgenrote
 tags: [источники, сводка]
 date: 2026-10-04

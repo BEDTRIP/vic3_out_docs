@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Telegraph Lines» — LLWA 1.13, `LLWA_pm_telegraphs`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Telegraph Lines", "LLWA_pm_telegraphs"]
 tags: [LLWA, метод-производства]

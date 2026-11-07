@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Liquefied Gas Tankers» — T&R 1.13, `pm_liquefied_gas_tankers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Liquefied Gas Tankers", "pm_liquefied_gas_tankers"]
 tags: [tr, метод-производства]

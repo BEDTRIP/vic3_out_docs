@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Hanseong Jeongi Hoesa»» — grey USU 1.13, `company_hanseong_jeongi_hoesa`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Hanseong Jeongi Hoesa»", "Hanseong Jeongi Hoesa", "company_hanseong_jeongi_hoesa"]
 tags: [grey_usu, вид-компании]

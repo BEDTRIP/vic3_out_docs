@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Metal Parity» — подсказка-понятие Victoria 3 1.13 (`concept_money_value_target_real`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Metal Parity", "concept_money_value_target_real"]
 tags: [ef, термин]

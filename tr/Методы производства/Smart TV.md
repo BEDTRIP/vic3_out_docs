@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smart TV» — T&R 1.13, `pm_smart_televisions`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smart TV", "pm_smart_televisions"]
 tags: [tr, метод-производства]

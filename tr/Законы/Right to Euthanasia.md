@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Right to Euthanasia» — T&R 1.13, `law_euthanasia`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Right to Euthanasia", "law_euthanasia"]
 tags: [tr, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Passenger Vessels» — LLWA 1.13, `LLWA_pmg_water_traffic`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Passenger Vessels", "LLWA_pmg_water_traffic"]
 tags: [LLWA, группа-методов]

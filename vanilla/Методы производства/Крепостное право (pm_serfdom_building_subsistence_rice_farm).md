@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_rice_farm)» — ваниль 1.13, `pm_serfdom_building_subsistence_rice_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Крепостное право (pm_serfdom_building_subsistence_rice_farm)", "Крепостное право", "pm_serfdom_building_subsistence_rice_farm"]
 tags: [ваниль, метод-производства]

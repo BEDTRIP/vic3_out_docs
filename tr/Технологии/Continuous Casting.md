@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Continuous Casting» — T&R 1.13, `continuous_casting`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Continuous Casting", "continuous_casting"]
 tags: [tr, технология]

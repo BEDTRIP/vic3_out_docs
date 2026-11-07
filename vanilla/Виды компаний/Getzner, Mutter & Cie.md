@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Getzner, Mutter & Cie» — ваниль 1.13, `company_getzner_mutter`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Getzner, Mutter & Cie", "company_getzner_mutter"]
 tags: [ваниль, вид-компании]

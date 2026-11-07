@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Electric Instruments» — T&R 1.13, `pm_elgar_electric_instruments`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electric Instruments", "pm_elgar_electric_instruments"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Classicism» — T&R 1.13, `elgar_classicism_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Classicism", "elgar_classicism_tech"]
 tags: [tr, технология]

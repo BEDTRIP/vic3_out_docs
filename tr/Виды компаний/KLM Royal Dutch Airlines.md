@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «KLM Royal Dutch Airlines» — T&R 1.13, `curtiss_company_KLM`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["KLM Royal Dutch Airlines", "curtiss_company_KLM"]
 tags: [tr, вид-компании]

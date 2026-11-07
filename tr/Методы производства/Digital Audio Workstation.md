@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Audio Workstation» — T&R 1.13, `pm_digital_audio_workstation`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Audio Workstation", "pm_digital_audio_workstation"]
 tags: [tr, метод-производства]

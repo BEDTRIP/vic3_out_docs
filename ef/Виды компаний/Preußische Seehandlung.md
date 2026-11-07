@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Preußische Seehandlung» — E&F 1.13, `company_PreussischeSeehandlung`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Preußische Seehandlung", "company_PreussischeSeehandlung"]
 tags: [ef, вид-компании]

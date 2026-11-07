@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Mercantilism» — TGR 1.13, `law_ai_subventioned_trade`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Mercantilism", "law_ai_subventioned_trade"]
 tags: [TGR, закон]

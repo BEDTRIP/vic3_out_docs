@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Right Kuomintang Nationalist» — Mandate of Heaven 1.13, `ideology_moh_right_kmt`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Right Kuomintang Nationalist", "ideology_moh_right_kmt"]
 tags: [mandate_of_heaven, идеология]

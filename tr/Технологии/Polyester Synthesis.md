@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Polyester Synthesis» — T&R 1.13, `polyester_synthesis`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Polyester Synthesis", "polyester_synthesis"]
 tags: [tr, технология]

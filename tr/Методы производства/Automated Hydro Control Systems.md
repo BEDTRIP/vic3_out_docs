@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Automated Hydro Control Systems» — T&R 1.13, `pm_automated_hydro_control_systems`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Automated Hydro Control Systems", "pm_automated_hydro_control_systems"]
 tags: [tr, метод-производства]

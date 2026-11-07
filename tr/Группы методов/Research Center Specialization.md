@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Research Center Specialization» — T&R 1.13, `pmg_specialization_research_center`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Research Center Specialization", "pmg_specialization_research_center"]
 tags: [tr, группа-методов]

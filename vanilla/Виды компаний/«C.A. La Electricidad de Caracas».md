@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««C.A. La Electricidad de Caracas»» — ваниль 1.13, `company_electricidad_de_caracas`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«C.A. La Electricidad de Caracas»", "C.A. La Electricidad de Caracas", "company_electricidad_de_caracas"]
 tags: [ваниль, вид-компании]

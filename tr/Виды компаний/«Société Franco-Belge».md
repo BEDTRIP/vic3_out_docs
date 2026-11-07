@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Société Franco-Belge»» — T&R 1.13, `company_franco_belge`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Société Franco-Belge»", "Société Franco-Belge", "company_franco_belge"]
 tags: [tr, вид-компании]

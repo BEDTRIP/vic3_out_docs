@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Calcutta Electric Supply Corporation Limited»» — ваниль 1.13, `company_calcutta_electric`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Calcutta Electric Supply Corporation Limited»", "Calcutta Electric Supply Corporation Limited", "company_calcutta_electric"]
 tags: [ваниль, вид-компании]

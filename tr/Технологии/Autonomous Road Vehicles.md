@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Autonomous Road Vehicles» — T&R 1.13, `autonomous_road_vehicles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Autonomous Road Vehicles", "autonomous_road_vehicles"]
 tags: [tr, технология]

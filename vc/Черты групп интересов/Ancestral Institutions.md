@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Ancestral Institutions» — VC 1.13, `ig_trait_confucian_ethics`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Ancestral Institutions", "ig_trait_confucian_ethics"]
 tags: [VC, черта-группы-интересов]

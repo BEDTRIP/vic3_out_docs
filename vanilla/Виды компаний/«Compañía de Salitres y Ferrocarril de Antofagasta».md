@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Compañía de Salitres y Ferrocarril de Antofagasta»» — ваниль 1.13, `company_csfa`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Compañía de Salitres y Ferrocarril de Antofagasta»", "Compañía de Salitres y Ferrocarril de Antofagasta", "company_csfa"]
 tags: [ваниль, вид-компании]

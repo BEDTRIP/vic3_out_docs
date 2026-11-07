@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Monetary Conservatives» — E&F 1.13, `ideology_monetary_conservative`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Monetary Conservatives", "ideology_monetary_conservative"]
 tags: [ef, идеология]

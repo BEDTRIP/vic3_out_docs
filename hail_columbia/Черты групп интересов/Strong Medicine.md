@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Strong Medicine» — Hail Columbia 1.13, `usfp_ig_trait_strong_medicine`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Strong Medicine", "usfp_ig_trait_strong_medicine"]
 tags: [hail_columbia, черта-группы-интересов]

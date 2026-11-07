@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Water-tube Boiler» — Gates of Bosphorus 1.13, `gbbf_watertube_boiler_building_esparto`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Water-tube Boiler", "gbbf_watertube_boiler_building_esparto"]
 tags: [gates_of_bosphorus, метод-производства]

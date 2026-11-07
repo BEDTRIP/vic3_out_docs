@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Precision Blasting (pm_high_precision_blasting_building_lead_mine)» — T&R 1.13, `pm_high_precision_blasting_building_lead_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Precision Blasting (pm_high_precision_blasting_building_lead_mine)", "Precision Blasting", "pm_high_precision_blasting_building_lead_mine"]
 tags: [tr, метод-производства]

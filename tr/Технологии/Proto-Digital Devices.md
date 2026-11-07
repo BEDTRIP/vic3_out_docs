@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Proto-Digital Devices» — T&R 1.13, `proto_digital_devices`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Proto-Digital Devices", "proto_digital_devices"]
 tags: [tr, технология]

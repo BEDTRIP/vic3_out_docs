@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Healthcare» — T&R 1.13, `pmg_urban_center_healtcare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Healthcare", "pmg_urban_center_healtcare"]
 tags: [tr, группа-методов]

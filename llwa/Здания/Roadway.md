@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Roadway» — LLWA 1.13, `LLWA_building_roadway`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Roadway", "LLWA_building_roadway"]
 tags: [LLWA, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««General Electric»» — ваниль 1.13, `company_general_electric`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«General Electric»", "General Electric", "company_general_electric"]
 tags: [ваниль, вид-компании]

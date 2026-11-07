@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Subsidiary State» — BPM 1.13, `ideology_sta_regionalized_state`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Subsidiary State", "ideology_sta_regionalized_state"]
 tags: [BPM, идеология]

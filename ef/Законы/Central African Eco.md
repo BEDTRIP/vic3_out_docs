@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Central African Eco» — E&F 1.13, `law_eco_central_african_eco_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Central African Eco", "law_eco_central_african_eco_currency"]
 tags: [ef, закон]

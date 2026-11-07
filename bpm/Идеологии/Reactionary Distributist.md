@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Reactionary Distributist» — BPM 1.13, `ideology_reactionary_anti_capitalist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Reactionary Distributist", "ideology_reactionary_anti_capitalist"]
 tags: [BPM, идеология]

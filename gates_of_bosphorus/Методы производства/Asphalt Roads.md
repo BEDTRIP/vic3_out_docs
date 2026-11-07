@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Asphalt Roads» — Gates of Bosphorus 1.13, `pm_gbbf_asphalt_roads`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Asphalt Roads", "pm_gbbf_asphalt_roads"]
 tags: [gates_of_bosphorus, метод-производства]

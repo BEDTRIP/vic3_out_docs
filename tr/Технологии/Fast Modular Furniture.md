@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Fast Modular Furniture» — T&R 1.13, `fast_modular_furniture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fast Modular Furniture", "fast_modular_furniture"]
 tags: [tr, технология]

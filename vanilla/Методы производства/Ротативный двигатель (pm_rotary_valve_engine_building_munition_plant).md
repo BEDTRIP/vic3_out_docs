@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_munition_plant)» — ваниль 1.13, `pm_rotary_valve_engine_building_munition_plant`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Ротативный двигатель (pm_rotary_valve_engine_building_munition_plant)", "Rotary Valve Engine", "pm_rotary_valve_engine_building_munition_plant"]
 tags: [ваниль, метод-производства]

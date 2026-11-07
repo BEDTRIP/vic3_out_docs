@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Cosmetics» — T&R 1.13, `modern_cosmetics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Cosmetics", "modern_cosmetics"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)» — TGR 1.13, `pm_refrigerated_storage_building_livestock_ranch`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)", "Railway Storage", "pm_refrigerated_storage_building_livestock_ranch"]
 tags: [TGR, метод-производства]

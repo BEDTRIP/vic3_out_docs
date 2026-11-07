@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Guthrie & Co» — ваниль 1.13, `company_guthrie`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Guthrie & Co", "company_guthrie"]
 tags: [ваниль, вид-компании]

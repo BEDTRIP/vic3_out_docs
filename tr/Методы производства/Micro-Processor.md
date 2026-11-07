@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Micro-Processor» — T&R 1.13, `pm_microprocessor`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Micro-Processor", "pm_microprocessor"]
 tags: [tr, метод-производства]

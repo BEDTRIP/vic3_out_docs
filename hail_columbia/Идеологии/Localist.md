@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Localist» — Hail Columbia 1.13, `ideology_usfp_localist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Localist", "ideology_usfp_localist"]
 tags: [hail_columbia, идеология]

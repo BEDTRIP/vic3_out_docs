@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Libyan Dinar» — E&F 1.13, `law_dinar_libyan_dinar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Libyan Dinar", "law_dinar_libyan_dinar_currency"]
 tags: [ef, закон]

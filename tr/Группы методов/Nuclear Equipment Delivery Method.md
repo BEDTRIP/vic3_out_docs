@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Nuclear Equipment Delivery Method» — T&R 1.13, `pmg_nuclear_bomber_military`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Equipment Delivery Method", "pmg_nuclear_bomber_military"]
 tags: [tr, группа-методов]

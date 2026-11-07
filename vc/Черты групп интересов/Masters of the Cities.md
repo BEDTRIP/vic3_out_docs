@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Masters of the Cities» — VC 1.13, `ig_trait_master_of_city`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Masters of the Cities", "ig_trait_master_of_city"]
 tags: [VC, черта-группы-интересов]

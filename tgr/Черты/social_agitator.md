@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «social_agitator» — TGR 1.13, `social_agitator`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["social_agitator"]
 tags: [TGR, черта]

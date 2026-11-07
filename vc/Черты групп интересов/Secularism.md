@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Secularism» — VC 1.13, `ig_trait_secularism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Secularism", "ig_trait_secularism"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Automobiles» — Hail Columbia 1.13, `pm_usfp_brookyln_bridge_roadway`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Automobiles", "pm_usfp_brookyln_bridge_roadway"]
 tags: [hail_columbia, метод-производства]

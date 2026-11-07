@@ -2,6 +2,7 @@
 type: concept
 description: "Термин игры «Колония (colony_subject)» — подсказка-понятие Victoria 3 1.13 (`concept_colony_subject`)"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Колонии", "Colony", "concept_colony_subject"]
 tags: [ваниль, термин]

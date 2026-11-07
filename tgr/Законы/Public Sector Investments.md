@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Public Sector Investments» — TGR 1.13, `economic_incentives_university`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Public Sector Investments", "economic_incentives_university"]
 tags: [TGR, закон]

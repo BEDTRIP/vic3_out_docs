@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «building_airport» — grey USU 1.13, `building_airport`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["building_airport"]
 tags: [grey_usu, здание]

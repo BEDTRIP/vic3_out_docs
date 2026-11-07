@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_watertube_boiler_building_furniture_manufacturies» — TGR 1.13, `pm_watertube_boiler_building_furniture_manufacturies`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["pm_watertube_boiler_building_furniture_manufacturies"]
 tags: [TGR, метод-производства]

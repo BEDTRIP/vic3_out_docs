@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Centralist» — VC 1.13, `ideology_austria_centraliser`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Centralist", "ideology_austria_centraliser"]
 tags: [VC, идеология]

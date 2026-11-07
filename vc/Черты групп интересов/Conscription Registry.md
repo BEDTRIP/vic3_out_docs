@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Conscription Registry» — VC 1.13, `ig_trait_register_for_army`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Conscription Registry", "ig_trait_register_for_army"]
 tags: [VC, черта-группы-интересов]

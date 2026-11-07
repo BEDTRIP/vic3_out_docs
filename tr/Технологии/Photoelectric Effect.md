@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Photoelectric Effect» — T&R 1.13, `photovoltaic_effect`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Photoelectric Effect", "photovoltaic_effect"]
 tags: [tr, технология]

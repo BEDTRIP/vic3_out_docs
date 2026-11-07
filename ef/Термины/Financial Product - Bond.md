@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Financial Product - Bond» — подсказка-понятие Victoria 3 1.13 (`concept_financial_product_bond`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Financial Product - Bond", "concept_financial_product_bond"]
 tags: [ef, термин]

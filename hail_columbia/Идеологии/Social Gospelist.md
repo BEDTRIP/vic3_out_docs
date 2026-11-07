@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Social Gospelist» — Hail Columbia 1.13, `ideology_usfp_social_gospel_leader`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Social Gospelist", "ideology_usfp_social_gospel_leader"]
 tags: [hail_columbia, идеология]

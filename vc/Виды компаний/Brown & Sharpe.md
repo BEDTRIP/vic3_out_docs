@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Brown & Sharpe» — VC 1.13, `company_brown_sharpe`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Brown & Sharpe", "company_brown_sharpe"]
 tags: [VC, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Sherkat-e Eslamiya»» — TGR 1.13, `company_sherkate_eslamiya`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["«Sherkat-e Eslamiya»", "Sherkat-e Eslamiya", "company_sherkate_eslamiya"]
 tags: [TGR, вид-компании]

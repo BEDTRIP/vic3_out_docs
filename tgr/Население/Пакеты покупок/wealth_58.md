@@ -2,6 +2,7 @@
 type: concept
 description: "Пакет покупок «wealth_58» — TGR 1.13, `wealth_58`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["wealth_58"]
 tags: [TGR, пакет-покупок]

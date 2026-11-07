@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Realpolitik» — VC 1.13, `ig_trait_realists`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Realpolitik", "ig_trait_realists"]
 tags: [VC, черта-группы-интересов]

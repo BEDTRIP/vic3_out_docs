@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «com_progressbar_glow_green» — CMF 1.13, `com_progressbar_glow_green`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["com_progressbar_glow_green"]
 tags: [CMF, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Railroad Stock» — E&F 1.13, `pm_private_ownership_majority_railroad_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Railroad Stock", "pm_private_ownership_majority_railroad_stock"]
 tags: [ef, метод-производства]

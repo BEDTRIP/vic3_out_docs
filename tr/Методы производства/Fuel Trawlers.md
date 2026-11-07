@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fuel Trawlers» — T&R 1.13, `pm_fuel_trawlers`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fuel Trawlers", "pm_fuel_trawlers"]
 tags: [tr, метод-производства]

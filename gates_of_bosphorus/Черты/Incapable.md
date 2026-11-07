@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Incapable» — Gates of Bosphorus 1.13, `gbbf_trait_incapable`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Incapable", "gbbf_trait_incapable"]
 tags: [gates_of_bosphorus, черта]

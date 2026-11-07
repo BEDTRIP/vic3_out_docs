@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Mining Policy» — T&R 1.13, `lawgroup_mining_policy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mining Policy", "lawgroup_mining_policy"]
 tags: [tr, группа-законов]

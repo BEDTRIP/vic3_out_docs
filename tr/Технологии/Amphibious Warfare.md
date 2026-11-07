@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Amphibious Warfare» — T&R 1.13, `amphibious_warfare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Amphibious Warfare", "amphibious_warfare"]
 tags: [tr, технология]

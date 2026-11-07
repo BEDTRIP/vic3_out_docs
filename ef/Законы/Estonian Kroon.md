@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Estonian Kroon» — E&F 1.13, `law_krone_estonian_kroon_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Estonian Kroon", "law_krone_estonian_kroon_currency"]
 tags: [ef, закон]

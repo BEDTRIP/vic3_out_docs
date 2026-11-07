@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Old Summer Palace» — Mandate of Heaven 1.13, `pm_default_building_old_summer_palace`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Old Summer Palace", "pm_default_building_old_summer_palace"]
 tags: [mandate_of_heaven, метод-производства]

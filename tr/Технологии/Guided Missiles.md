@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Guided Missiles» — T&R 1.13, `guided_missiles`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Guided Missiles", "guided_missiles"]
 tags: [tr, технология]

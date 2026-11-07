@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Finacial Center» — E&F 1.13, `bg_financial_centre`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Finacial Center", "bg_financial_centre"]
 tags: [ef, группа-зданий]

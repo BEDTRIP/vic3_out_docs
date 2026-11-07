@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Retail» — T&R 1.13, `pm_digital_retail`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Retail", "pm_digital_retail"]
 tags: [tr, метод-производства]

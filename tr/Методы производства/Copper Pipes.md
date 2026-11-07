@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Copper Pipes» — T&R 1.13, `pm_copper_pipes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Copper Pipes", "pm_copper_pipes"]
 tags: [tr, метод-производства]

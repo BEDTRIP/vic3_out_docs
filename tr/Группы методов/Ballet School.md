@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Ballet School» — T&R 1.13, `pmg_elgar_ballet_school`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Ballet School", "pmg_elgar_ballet_school"]
 tags: [tr, группа-методов]

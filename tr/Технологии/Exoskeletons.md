@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Exoskeletons» — T&R 1.13, `exoskeleton_warfare`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Exoskeletons", "exoskeleton_warfare"]
 tags: [tr, технология]

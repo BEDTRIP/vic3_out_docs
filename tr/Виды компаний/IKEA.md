@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «IKEA» — T&R 1.13, `company_ikea`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["IKEA", "company_ikea"]
 tags: [tr, вид-компании]

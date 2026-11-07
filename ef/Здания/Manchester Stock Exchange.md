@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Manchester Stock Exchange» — E&F 1.13, `building_financial_centre_gbr_2`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Manchester Stock Exchange", "building_financial_centre_gbr_2"]
 tags: [ef, здание]

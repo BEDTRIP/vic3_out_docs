@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Union Pacific Railroad» — Hail Columbia 1.13, `company_usfp_union_pacific`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Union Pacific Railroad", "company_usfp_union_pacific"]
 tags: [hail_columbia, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Österreichische Waffenfabriks-Gesellschaft» — ваниль 1.13, `company_oevg`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Österreichische Waffenfabriks-Gesellschaft", "company_oevg"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «ASML» — T&R 1.13, `company_asml`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["ASML", "company_asml"]
 tags: [tr, вид-компании]

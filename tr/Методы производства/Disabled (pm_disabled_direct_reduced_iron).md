@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Disabled (pm_disabled_direct_reduced_iron)» — T&R 1.13, `pm_disabled_direct_reduced_iron`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Disabled (pm_disabled_direct_reduced_iron)", "Disabled", "pm_disabled_direct_reduced_iron"]
 tags: [tr, метод-производства]

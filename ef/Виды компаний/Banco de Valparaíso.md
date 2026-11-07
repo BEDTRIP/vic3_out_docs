@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco de Valparaíso» — E&F 1.13, `company_BancoDeValparaiso`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco de Valparaíso", "company_BancoDeValparaiso"]
 tags: [ef, вид-компании]

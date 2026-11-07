@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Sachsen_eisenbahn» — grey USU 1.13, `company_Sachsen_eisenbahn`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Sachsen_eisenbahn"]
 tags: [grey_usu, вид-компании]

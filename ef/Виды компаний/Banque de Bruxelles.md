@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banque de Bruxelles» — E&F 1.13, `company_BanqueDeBruxelles`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banque de Bruxelles", "company_BanqueDeBruxelles"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rail Transport» — Hail Columbia 1.13, `usfp_pm_fur_rail_hunting`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Rail Transport", "usfp_pm_fur_rail_hunting"]
 tags: [hail_columbia, метод-производства]

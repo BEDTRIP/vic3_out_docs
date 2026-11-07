@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Lubricants» — T&R 1.13, `lubricant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Lubricants", "lubricant"]
 tags: [tr, товар]

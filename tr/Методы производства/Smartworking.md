@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Smartworking» — T&R 1.13, `pm_smartworking_building_office`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Smartworking", "pm_smartworking_building_office"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Dacianist» — Gates of Bosphorus 1.13, `ideology_gbbf_dacianist`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Dacianist", "ideology_gbbf_dacianist"]
 tags: [gates_of_bosphorus, идеология]

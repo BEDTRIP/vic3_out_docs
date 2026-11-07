@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Aluminium Process» — T&R 1.13, `pmg_aluminiummaking_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Aluminium Process", "pmg_aluminiummaking_process"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Аграрный социалист (ideology_agrarian_socialist_leader)» — BPM 1.13, `ideology_agrarian_socialist_leader`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Аграрный социалист (ideology_agrarian_socialist_leader)", "Agrarian Socialist", "ideology_agrarian_socialist_leader"]
 tags: [BPM, идеология]

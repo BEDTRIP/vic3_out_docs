@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода VC — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: vc
 tags: [vc, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

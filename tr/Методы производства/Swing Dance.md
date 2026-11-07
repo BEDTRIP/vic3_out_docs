@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Swing Dance» — T&R 1.13, `pm_elgar_swing_ballet`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Swing Dance", "pm_elgar_swing_ballet"]
 tags: [tr, метод-производства]

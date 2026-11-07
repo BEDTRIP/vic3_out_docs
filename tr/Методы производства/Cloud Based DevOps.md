@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cloud Based DevOps» — T&R 1.13, `pm_cloud_based_devops_building_software_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cloud Based DevOps", "pm_cloud_based_devops_building_software_industry"]
 tags: [tr, метод-производства]

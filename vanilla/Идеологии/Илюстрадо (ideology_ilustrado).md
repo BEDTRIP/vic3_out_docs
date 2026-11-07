@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Илюстрадо (ideology_ilustrado)» — ваниль 1.13, `ideology_ilustrado`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Илюстрадо (ideology_ilustrado)", "Ilustrado", "ideology_ilustrado"]
 tags: [ваниль, идеология]

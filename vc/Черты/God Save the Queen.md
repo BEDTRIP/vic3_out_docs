@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «God Save the Queen» — VC 1.13, `special_character_god_save_the_queen`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["God Save the Queen", "special_character_god_save_the_queen"]
 tags: [VC, черта]

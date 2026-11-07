@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Első Budapesti Gőzmalom Rt» — VC 1.13, `company_elso_budapesti_gozmalom`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Első Budapesti Gőzmalom Rt", "company_elso_budapesti_gozmalom"]
 tags: [VC, вид-компании]

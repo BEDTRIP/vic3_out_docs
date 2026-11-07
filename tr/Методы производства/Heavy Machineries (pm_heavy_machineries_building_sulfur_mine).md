@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Heavy Machineries (pm_heavy_machineries_building_sulfur_mine)» — T&R 1.13, `pm_heavy_machineries_building_sulfur_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Heavy Machineries (pm_heavy_machineries_building_sulfur_mine)", "Heavy Machineries", "pm_heavy_machineries_building_sulfur_mine"]
 tags: [tr, метод-производства]

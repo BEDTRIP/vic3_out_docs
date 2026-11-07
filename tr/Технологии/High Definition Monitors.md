@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «High Definition Monitors» — T&R 1.13, `high_definition_television`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["High Definition Monitors", "high_definition_television"]
 tags: [tr, технология]

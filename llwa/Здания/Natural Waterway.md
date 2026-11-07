@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Natural Waterway» — LLWA 1.13, `LLWA_building_riverway`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Natural Waterway", "LLWA_building_riverway"]
 tags: [LLWA, здание]

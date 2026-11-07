@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Arab Stability» — подсказка-понятие Victoria 3 1.13 (`concept_unruly_arabs_timer`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Arab Stability", "concept_unruly_arabs_timer"]
 tags: [vc, термин]

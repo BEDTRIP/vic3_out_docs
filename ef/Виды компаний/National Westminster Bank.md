@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «National Westminster Bank» — E&F 1.13, `company_NationalWestminsterBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["National Westminster Bank", "company_NationalWestminsterBank"]
 tags: [ef, вид-компании]

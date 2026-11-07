@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Air France» — Morgenröte 1.13, `curtiss_company_air_france`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Air France", "curtiss_company_air_france"]
 tags: [Morgenröte, вид-компании]

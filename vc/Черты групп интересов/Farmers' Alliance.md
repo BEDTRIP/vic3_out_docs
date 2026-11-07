@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Farmers' Alliance» — VC 1.13, `ig_trait_farmers_allies`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Farmers' Alliance", "ig_trait_farmers_allies"]
 tags: [VC, черта-группы-интересов]

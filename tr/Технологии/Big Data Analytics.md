@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Big Data Analytics» — T&R 1.13, `big_data_analytics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Big Data Analytics", "big_data_analytics"]
 tags: [tr, технология]

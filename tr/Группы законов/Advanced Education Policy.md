@@ -2,6 +2,7 @@
 type: concept
 description: "Группа законов «Advanced Education Policy» — T&R 1.13, `lawgroup_advanced_education`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Education Policy", "lawgroup_advanced_education"]
 tags: [tr, группа-законов]

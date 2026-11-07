@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «LTBR» — подсказка-понятие Victoria 3 1.13 (`concept_base_interest_value_10Y_s`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["LTBR", "concept_base_interest_value_10Y_s"]
 tags: [ef, термин]

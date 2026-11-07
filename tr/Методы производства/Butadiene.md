@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Butadiene» — T&R 1.13, `pm_mendelejev_butadiene`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Butadiene", "pm_mendelejev_butadiene"]
 tags: [tr, метод-производства]

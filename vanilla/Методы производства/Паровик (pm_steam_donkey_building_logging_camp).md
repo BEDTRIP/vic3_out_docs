@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровик (pm_steam_donkey_building_logging_camp)» — ваниль 1.13, `pm_steam_donkey_building_logging_camp`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Паровик (pm_steam_donkey_building_logging_camp)", "Steam Donkey", "pm_steam_donkey_building_logging_camp"]
 tags: [ваниль, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Moderate Traditionalist» — T&R 1.13, `ideology_moderate_traditionalist`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Moderate Traditionalist", "ideology_moderate_traditionalist"]
 tags: [tr, идеология]

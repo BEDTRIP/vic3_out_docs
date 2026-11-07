@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «International Travel» — T&R 1.13, `international_travel`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["International Travel", "international_travel"]
 tags: [tr, технология]

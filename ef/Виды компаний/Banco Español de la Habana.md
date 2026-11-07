@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Español de la Habana» — E&F 1.13, `company_BancoEspanolDeLaHabana`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Español de la Habana", "company_BancoEspanolDeLaHabana"]
 tags: [ef, вид-компании]

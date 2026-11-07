@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Electromagnetism» — T&R 1.13, `verrier_electromagnetism_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electromagnetism", "verrier_electromagnetism_tech"]
 tags: [tr, технология]

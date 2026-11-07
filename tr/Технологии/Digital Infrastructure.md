@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Digital Infrastructure» — T&R 1.13, `digital_infrastructure`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Infrastructure", "digital_infrastructure"]
 tags: [tr, технология]

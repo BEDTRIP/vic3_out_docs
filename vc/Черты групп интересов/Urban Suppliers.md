@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Urban Suppliers» — VC 1.13, `ig_trait_urban_suppliers`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Urban Suppliers", "ig_trait_urban_suppliers"]
 tags: [VC, черта-группы-интересов]

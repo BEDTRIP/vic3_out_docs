@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Free Trade» — VC 1.13, `ig_trait_free_trade_policy`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Free Trade", "ig_trait_free_trade_policy"]
 tags: [VC, черта-группы-интересов]

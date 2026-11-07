@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bank of England» — E&F 1.13, `company_BankofEngland`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bank of England", "company_BankofEngland"]
 tags: [ef, вид-компании]

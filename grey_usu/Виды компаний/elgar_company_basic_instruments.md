@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «elgar_company_basic_instruments» — grey USU 1.13, `elgar_company_basic_instruments`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["elgar_company_basic_instruments"]
 tags: [grey_usu, вид-компании]

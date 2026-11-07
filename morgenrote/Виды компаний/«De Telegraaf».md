@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««De Telegraaf»» — Morgenröte 1.13, `pbi_company_de_telegraaf`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["«De Telegraaf»", "De Telegraaf", "pbi_company_de_telegraaf"]
 tags: [Morgenröte, вид-компании]

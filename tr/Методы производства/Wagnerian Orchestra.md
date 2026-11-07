@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Wagnerian Orchestra» — T&R 1.13, `pm_elgar_mid_romantic_orchestra`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Wagnerian Orchestra", "pm_elgar_mid_romantic_orchestra"]
 tags: [tr, метод-производства]

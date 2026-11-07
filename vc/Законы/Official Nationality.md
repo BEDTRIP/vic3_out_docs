@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Official Nationality» — VC 1.13, `law_official_nationalism`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Official Nationality", "law_official_nationalism"]
 tags: [VC, закон]

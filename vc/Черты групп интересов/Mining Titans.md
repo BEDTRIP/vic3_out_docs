@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Mining Titans» — VC 1.13, `ig_trait_gigantes_mineros`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Mining Titans", "ig_trait_gigantes_mineros"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Compagnie Générale des Matières Nucléaires (Orano)» — T&R 1.13, `company_compagnie_generale_des_matieres_nucleaires`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Compagnie Générale des Matières Nucléaires (Orano)", "company_compagnie_generale_des_matieres_nucleaires"]
 tags: [tr, вид-компании]

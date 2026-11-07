@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Additive Manufacturing» — T&R 1.13, `additive_manufacturing`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Additive Manufacturing", "additive_manufacturing"]
 tags: [tr, технология]

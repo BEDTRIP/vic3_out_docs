@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««F. Schichau»» — grey USU 1.13, `company_schichau`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«F. Schichau»", "F. Schichau", "company_schichau"]
 tags: [grey_usu, вид-компании]

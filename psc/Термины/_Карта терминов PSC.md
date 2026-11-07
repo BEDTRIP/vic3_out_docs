@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода PSC — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: psc
 tags: [psc, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

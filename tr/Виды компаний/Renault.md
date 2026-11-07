@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Renault» — T&R 1.13, `company_renault`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Renault", "company_renault"]
 tags: [tr, вид-компании]

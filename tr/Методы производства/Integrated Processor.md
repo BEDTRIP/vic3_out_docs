@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Integrated Processor» — T&R 1.13, `pm_integrated_circuit`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Integrated Processor", "pm_integrated_circuit"]
 tags: [tr, метод-производства]

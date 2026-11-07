@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Deutsche Bank» — E&F 1.13, `company_DeutscheBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Deutsche Bank", "company_DeutscheBank"]
 tags: [ef, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Fiber Production» — Gates of Bosphorus 1.13, `gbbf_esparto_default`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Fiber Production", "gbbf_esparto_default"]
 tags: [gates_of_bosphorus, метод-производства]

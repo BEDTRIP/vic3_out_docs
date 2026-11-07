@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Latvian Lats» — E&F 1.13, `law_spe_latvian_lats_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Latvian Lats", "law_spe_latvian_lats_currency"]
 tags: [ef, закон]

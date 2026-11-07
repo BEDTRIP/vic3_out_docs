@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Bonapartist» — VC 1.13, `ideology_bonapartiste`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Bonapartist", "ideology_bonapartiste"]
 tags: [VC, идеология]

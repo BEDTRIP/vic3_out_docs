@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Internet Data Reporting (pm_internet_data_reporting_light_industry)» — T&R 1.13, `pm_internet_data_reporting_light_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Internet Data Reporting (pm_internet_data_reporting_light_industry)", "Internet Data Reporting", "pm_internet_data_reporting_light_industry"]
 tags: [tr, метод-производства]

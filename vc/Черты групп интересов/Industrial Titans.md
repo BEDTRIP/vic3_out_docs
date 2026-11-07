@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Industrial Titans» — VC 1.13, `ig_trait_industrial_giants`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Industrial Titans", "ig_trait_industrial_giants"]
 tags: [VC, черта-группы-интересов]

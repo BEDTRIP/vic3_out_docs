@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Antibiotics» — T&R 1.13, `pm_antibiotics_pharmaceuticals`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Antibiotics", "pm_antibiotics_pharmaceuticals"]
 tags: [tr, метод-производства]

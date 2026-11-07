@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Nydq» — grey USU 1.13, `company_Nydq`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Nydq"]
 tags: [grey_usu, вид-компании]

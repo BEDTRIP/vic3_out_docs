@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Plasma Control Systems» — T&R 1.13, `pm_fusion_plasma_control`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Plasma Control Systems", "pm_fusion_plasma_control"]
 tags: [tr, метод-производства]

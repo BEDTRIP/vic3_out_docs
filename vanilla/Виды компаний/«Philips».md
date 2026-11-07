@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Philips»» — ваниль 1.13, `company_philips`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Philips»", "Philips", "company_philips"]
 tags: [ваниль, вид-компании]

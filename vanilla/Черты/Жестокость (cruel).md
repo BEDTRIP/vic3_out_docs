@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Жестокость (cruel)» — ваниль 1.13, `cruel`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Жестокость (cruel)", "Cruel", "cruel"]
 tags: [ваниль, черта]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Park Advertising» — Hail Columbia 1.13, `usfp_pm_national_park_photos`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Park Advertising", "usfp_pm_national_park_photos"]
 tags: [hail_columbia, метод-производства]

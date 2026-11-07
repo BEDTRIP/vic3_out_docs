@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Battleships» — T&R 1.13, `modern_battleships`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Battleships", "modern_battleships"]
 tags: [tr, технология]

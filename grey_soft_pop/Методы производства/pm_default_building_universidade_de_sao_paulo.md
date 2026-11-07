@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_universidade_de_sao_paulo» — grey soft pop 1.13, `pm_default_building_universidade_de_sao_paulo`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_universidade_de_sao_paulo"]
 tags: [grey_soft_pop, метод-производства]

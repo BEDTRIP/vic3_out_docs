@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Business Data» — T&R 1.13, `business_data`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Business Data", "business_data"]
 tags: [tr, товар]

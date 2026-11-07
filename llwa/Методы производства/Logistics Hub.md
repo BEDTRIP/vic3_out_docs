@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Logistics Hub» — LLWA 1.13, `LLWA_pm_logihub_base`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Logistics Hub", "LLWA_pm_logihub_base"]
 tags: [LLWA, метод-производства]

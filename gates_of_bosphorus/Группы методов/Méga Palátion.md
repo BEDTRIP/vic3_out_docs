@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Méga Palátion» — Gates of Bosphorus 1.13, `pmg_gbbf_mega_palation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Méga Palátion", "pmg_gbbf_mega_palation"]
 tags: [gates_of_bosphorus, группа-методов]

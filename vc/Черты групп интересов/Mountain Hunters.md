@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Mountain Hunters» — VC 1.13, `ig_trait_mountain_hunter`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Mountain Hunters", "ig_trait_mountain_hunter"]
 tags: [VC, черта-группы-интересов]

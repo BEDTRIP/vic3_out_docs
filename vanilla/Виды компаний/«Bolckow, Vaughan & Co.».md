@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Bolckow, Vaughan & Co.»» — ваниль 1.13, `company_bolckow_vaughan`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Bolckow, Vaughan & Co.»", "Bolckow, Vaughan & Co", "company_bolckow_vaughan"]
 tags: [ваниль, вид-компании]

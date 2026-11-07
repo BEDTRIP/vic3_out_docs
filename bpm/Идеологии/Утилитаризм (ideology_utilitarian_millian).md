@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Утилитаризм (ideology_utilitarian_millian)» — BPM 1.13, `ideology_utilitarian_millian`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Утилитаризм (ideology_utilitarian_millian)", "Utilitarian", "ideology_utilitarian_millian"]
 tags: [BPM, идеология]

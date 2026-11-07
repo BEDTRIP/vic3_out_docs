@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Clerical Administration» — Gates of Bosphorus 1.13, `pm_gbbf_clerical_administration`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Clerical Administration", "pm_gbbf_clerical_administration"]
 tags: [gates_of_bosphorus, метод-производства]

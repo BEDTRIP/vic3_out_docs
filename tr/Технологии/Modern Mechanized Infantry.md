@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Mechanized Infantry» — T&R 1.13, `mechanized_infantry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Mechanized Infantry", "mechanized_infantry"]
 tags: [tr, технология]

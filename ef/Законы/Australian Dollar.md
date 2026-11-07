@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Australian Dollar» — E&F 1.13, `law_dollar_australian_dollar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Australian Dollar", "law_dollar_australian_dollar_currency"]
 tags: [ef, закон]

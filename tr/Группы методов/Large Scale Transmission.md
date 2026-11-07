@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Large Scale Transmission» — T&R 1.13, `pmg_power_transmission_large`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Large Scale Transmission", "pmg_power_transmission_large"]
 tags: [tr, группа-методов]

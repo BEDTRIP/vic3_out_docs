@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_NeSp» — grey USU 1.13, `company_NeSp`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_NeSp"]
 tags: [grey_usu, вид-компании]

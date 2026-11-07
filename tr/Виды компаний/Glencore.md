@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Glencore» — T&R 1.13, `company_Glencore`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Glencore", "company_Glencore"]
 tags: [tr, вид-компании]

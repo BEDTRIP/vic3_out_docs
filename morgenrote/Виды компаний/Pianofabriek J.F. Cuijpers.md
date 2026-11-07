@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Pianofabriek J.F. Cuijpers» — Morgenröte 1.13, `elgar_pianofabriek_j_f_cuijpers`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Pianofabriek J.F. Cuijpers", "elgar_pianofabriek_j_f_cuijpers"]
 tags: [Morgenröte, вид-компании]

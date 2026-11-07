@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Fast Food» — T&R 1.13, `fast_food`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fast Food", "fast_food"]
 tags: [tr, технология]

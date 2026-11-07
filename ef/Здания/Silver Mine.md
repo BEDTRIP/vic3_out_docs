@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Silver Mine» — E&F 1.13, `building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Silver Mine", "building_silver_mine"]
 tags: [ef, здание]

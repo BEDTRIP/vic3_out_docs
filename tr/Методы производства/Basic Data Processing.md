@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Data Processing» — T&R 1.13, `pm_basic_data_analysis`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Data Processing", "pm_basic_data_analysis"]
 tags: [tr, метод-производства]

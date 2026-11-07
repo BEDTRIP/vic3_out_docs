@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Reformer» — Mandate of Heaven 1.13, `ideology_moh_reformer`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Reformer", "ideology_moh_reformer"]
 tags: [mandate_of_heaven, идеология]

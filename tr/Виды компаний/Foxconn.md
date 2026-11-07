@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Foxconn» — T&R 1.13, `company_foxconn`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Foxconn", "company_foxconn"]
 tags: [tr, вид-компании]

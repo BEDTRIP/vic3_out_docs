@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bacardí y Compañía» — ваниль 1.13, `company_bacardi`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Bacardí y Compañía", "company_bacardi"]
 tags: [ваниль, вид-компании]

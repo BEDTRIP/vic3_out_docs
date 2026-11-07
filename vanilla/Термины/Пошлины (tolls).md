@@ -2,6 +2,7 @@
 type: concept
 description: "Термин игры «Пошлины (tolls)» — подсказка-понятие Victoria 3 1.13 (`concept_tolls`)"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Tolls", "concept_tolls"]
 tags: [ваниль, термин]

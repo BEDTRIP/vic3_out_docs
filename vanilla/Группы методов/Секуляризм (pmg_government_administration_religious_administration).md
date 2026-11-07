@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Секуляризм (pmg_government_administration_religious_administration)» — ваниль 1.13, `pmg_government_administration_religious_administration`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Секуляризм (pmg_government_administration_religious_administration)", "Secularism", "pmg_government_administration_religious_administration"]
 tags: [ваниль, группа-методов]

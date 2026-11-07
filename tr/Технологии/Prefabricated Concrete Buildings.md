@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Prefabricated Concrete Buildings» — T&R 1.13, `prefabricated_concrete_buildings`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Prefabricated Concrete Buildings", "prefabricated_concrete_buildings"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (LLWA_pmg_water_base)» — LLWA 1.13, `LLWA_pmg_water_base`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Основа (LLWA_pmg_water_base)", "Основа", "LLWA_pmg_water_base"]
 tags: [LLWA, группа-методов]

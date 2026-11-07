@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Khedive Stock Exchange» — E&F 1.13, `building_financial_centre_egy`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Khedive Stock Exchange", "building_financial_centre_egy"]
 tags: [ef, здание]

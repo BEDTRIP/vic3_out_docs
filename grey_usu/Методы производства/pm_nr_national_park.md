@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_nr_national_park» — grey USU 1.13, `pm_nr_national_park`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_nr_national_park"]
 tags: [grey_usu, метод-производства]

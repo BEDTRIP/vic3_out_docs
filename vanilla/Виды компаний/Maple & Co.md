@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Maple & Co» — ваниль 1.13, `company_maple_and_co`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Maple & Co", "company_maple_and_co"]
 tags: [ваниль, вид-компании]

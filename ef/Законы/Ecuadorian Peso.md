@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ecuadorian Peso» — E&F 1.13, `law_peso_ecuadorian_peso_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Ecuadorian Peso", "law_peso_ecuadorian_peso_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ranked System» — TGR 1.13, `law_ranked_system`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Ranked System", "law_ranked_system"]
 tags: [TGR, закон]

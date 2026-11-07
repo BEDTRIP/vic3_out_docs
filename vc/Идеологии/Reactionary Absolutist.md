@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Reactionary Absolutist» — VC 1.13, `ideology_reactionism_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Reactionary Absolutist", "ideology_reactionism_leader"]
 tags: [VC, идеология]

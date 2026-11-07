@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern Warplanes» — T&R 1.13, `modern_warplanes`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Warplanes", "modern_warplanes"]
 tags: [tr, технология]

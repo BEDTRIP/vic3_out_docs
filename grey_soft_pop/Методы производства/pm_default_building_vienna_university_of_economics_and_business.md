@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_default_building_vienna_university_of_economics_and_business» — grey soft pop 1.13, `pm_default_building_vienna_university_of_economics_and_business`"
 project: vic3
+audience: agent
 source: grey_soft_pop
 aliases: ["pm_default_building_vienna_university_of_economics_and_business"]
 tags: [grey_soft_pop, метод-производства]

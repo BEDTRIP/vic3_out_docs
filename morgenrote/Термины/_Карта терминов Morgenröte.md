@@ -2,6 +2,7 @@
 type: map
 description: "Карта терминов мода Morgenröte — его подсказки-понятия по алфавиту"
 project: vic3
+audience: agent
 source: morgenrote
 tags: [morgenrote, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"

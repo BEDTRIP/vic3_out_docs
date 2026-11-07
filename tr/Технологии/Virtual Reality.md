@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Virtual Reality» — T&R 1.13, `virtual_reality`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Virtual Reality", "virtual_reality"]
 tags: [tr, технология]

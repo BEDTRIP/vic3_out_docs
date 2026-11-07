@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Bonds Exchange» — E&F 1.13, `pm_bond_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bonds Exchange", "pm_bond_exchange"]
 tags: [ef, метод-производства]

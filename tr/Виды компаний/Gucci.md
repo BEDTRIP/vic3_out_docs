@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Gucci» — T&R 1.13, `company_gucci`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Gucci", "company_gucci"]
 tags: [tr, вид-компании]

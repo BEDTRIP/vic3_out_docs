@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Rare Earths» — T&R 1.13, `rare_earths`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rare Earths", "rare_earths"]
 tags: [tr, технология]

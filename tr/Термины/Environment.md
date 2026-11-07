@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «Environment» — подсказка-понятие Victoria 3 1.13 (`concept_environment`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Environment", "concept_environment"]
 tags: [tr, термин]

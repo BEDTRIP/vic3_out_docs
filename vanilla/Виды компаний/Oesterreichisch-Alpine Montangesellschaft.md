@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — ваниль 1.13, `company_oesterreichisch_alpine_montangesellschaft`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Oesterreichisch-Alpine Montangesellschaft", "company_oesterreichisch_alpine_montangesellschaft"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Carbon Capture» — T&R 1.13, `pm_urban_carbon_capture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Carbon Capture", "pm_urban_carbon_capture"]
 tags: [tr, метод-производства]

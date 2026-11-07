@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nuclear Reactor» — T&R 1.13, `pm_nuclear-fission_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Reactor", "pm_nuclear-fission_plant"]
 tags: [tr, метод-производства]

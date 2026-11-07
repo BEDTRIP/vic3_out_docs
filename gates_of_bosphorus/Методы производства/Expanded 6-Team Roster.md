@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Expanded 6-Team Roster» — Gates of Bosphorus 1.13, `pm_gbbf_expanded_roster`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Expanded 6-Team Roster", "pm_gbbf_expanded_roster"]
 tags: [gates_of_bosphorus, метод-производства]

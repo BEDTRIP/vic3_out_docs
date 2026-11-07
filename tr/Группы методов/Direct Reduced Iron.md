@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Direct Reduced Iron» — T&R 1.13, `pmg_direct_reduced_iron_steelmaking`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Direct Reduced Iron", "pmg_direct_reduced_iron_steelmaking"]
 tags: [tr, группа-методов]

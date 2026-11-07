@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Transnational Activism» — T&R 1.13, `transnational_activism`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Transnational Activism", "transnational_activism"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Interactive Media Industry» — T&R 1.13, `building_interactive_media_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Interactive Media Industry", "building_interactive_media_industry"]
 tags: [tr, здание]

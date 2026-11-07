@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Picks and Shovels (pm_picks_and_shovels_building_rare_earths_mine)» — T&R 1.13, `pm_picks_and_shovels_building_rare_earths_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Picks and Shovels (pm_picks_and_shovels_building_rare_earths_mine)", "Picks and Shovels", "pm_picks_and_shovels_building_rare_earths_mine"]
 tags: [tr, метод-производства]

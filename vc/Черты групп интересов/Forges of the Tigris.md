@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Forges of the Tigris» — VC 1.13, `ig_trait_forges_of_tigris`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Forges of the Tigris", "ig_trait_forges_of_tigris"]
 tags: [VC, черта-группы-интересов]

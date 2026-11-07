@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Global Stock Market» — T&R 1.13, `global_stock_market`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Global Stock Market", "global_stock_market"]
 tags: [tr, технология]

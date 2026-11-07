@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «HV Transmission» — T&R 1.13, `high_voltage_transmission`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["HV Transmission", "high_voltage_transmission"]
 tags: [tr, технология]

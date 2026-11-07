@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Dolmabahçe Palace» — Gates of Bosphorus 1.13, `pmg_gbbf_dolmabahce_palace`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Dolmabahçe Palace", "pmg_gbbf_dolmabahce_palace"]
 tags: [gates_of_bosphorus, группа-методов]

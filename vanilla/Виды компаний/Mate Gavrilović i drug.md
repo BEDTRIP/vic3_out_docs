@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mate Gavrilović i drug» — ваниль 1.13, `company_mate_gavrilovic`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Mate Gavrilović i drug", "company_mate_gavrilovic"]
 tags: [ваниль, вид-компании]

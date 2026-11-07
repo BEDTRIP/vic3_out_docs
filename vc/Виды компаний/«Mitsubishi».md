@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Mitsubishi»» — VC 1.13, `company_mitsubishi`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["«Mitsubishi»", "Mitsubishi", "company_mitsubishi"]
 tags: [VC, вид-компании]

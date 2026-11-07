@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Subsistence Hunting» — Hail Columbia 1.13, `usfp_pm_subsistence_hunting`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Subsistence Hunting", "usfp_pm_subsistence_hunting"]
 tags: [hail_columbia, метод-производства]

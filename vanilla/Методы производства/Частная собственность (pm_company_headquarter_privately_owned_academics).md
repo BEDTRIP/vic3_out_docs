@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_academics)» — ваниль 1.13, `pm_company_headquarter_privately_owned_academics`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Частная собственность (pm_company_headquarter_privately_owned_academics)", "Частная собственность", "pm_company_headquarter_privately_owned_academics"]
 tags: [ваниль, метод-производства]

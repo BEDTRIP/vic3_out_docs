@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Săedineni Tyutyunevi Fabriki AD» — ваниль 1.13, `company_united_tobacco_factories`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Săedineni Tyutyunevi Fabriki AD", "company_united_tobacco_factories"]
 tags: [ваниль, вид-компании]

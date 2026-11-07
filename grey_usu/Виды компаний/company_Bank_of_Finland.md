@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Bank_of_Finland» — grey USU 1.13, `company_Bank_of_Finland`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Bank_of_Finland"]
 tags: [grey_usu, вид-компании]

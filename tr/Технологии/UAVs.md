@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «UAVs» — T&R 1.13, `military_uav`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["UAVs", "military_uav"]
 tags: [tr, технология]

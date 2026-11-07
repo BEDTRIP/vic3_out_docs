@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Carbon Capture» — T&R 1.13, `pm_no_carbon_capture`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["No Carbon Capture", "pm_no_carbon_capture"]
 tags: [tr, метод-производства]

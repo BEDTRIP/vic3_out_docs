@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «El Salvador Colon» — E&F 1.13, `law_peso_el_salvador_colon_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["El Salvador Colon", "law_peso_el_salvador_colon_currency"]
 tags: [ef, закон]

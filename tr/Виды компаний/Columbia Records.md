@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Columbia Records» — T&R 1.13, `company_columbia_records`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Columbia Records", "company_columbia_records"]
 tags: [tr, вид-компании]

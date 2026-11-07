@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Trusts» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_trusts`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Trusts", "concept_usfp_trusts"]
 tags: [hail_columbia, термин]

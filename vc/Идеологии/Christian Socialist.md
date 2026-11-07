@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Christian Socialist» — VC 1.13, `ideology_catholicisme_social`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Christian Socialist", "ideology_catholicisme_social"]
 tags: [VC, идеология]

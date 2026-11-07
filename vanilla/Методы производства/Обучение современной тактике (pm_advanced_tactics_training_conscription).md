@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Обучение современной тактике (pm_advanced_tactics_training_conscription)» — ваниль 1.13, `pm_advanced_tactics_training_conscription`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Обучение современной тактике (pm_advanced_tactics_training_conscription)", "Обучение современной тактике", "pm_advanced_tactics_training_conscription"]
 tags: [ваниль, метод-производства]

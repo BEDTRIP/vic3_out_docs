@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Photomask Projection» — T&R 1.13, `pm_photomask_projection`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Photomask Projection", "pm_photomask_projection"]
 tags: [tr, метод-производства]

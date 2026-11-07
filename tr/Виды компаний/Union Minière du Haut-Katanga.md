@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Union Minière du Haut-Katanga» — T&R 1.13, `company_union_miniere_du_haut_katanga`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Union Minière du Haut-Katanga", "company_union_miniere_du_haut_katanga"]
 tags: [tr, вид-компании]

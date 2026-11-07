@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Gebrüder Thonet» — TGR 1.13, `company_gebruder_thonet`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Gebrüder Thonet", "company_gebruder_thonet"]
 tags: [TGR, вид-компании]

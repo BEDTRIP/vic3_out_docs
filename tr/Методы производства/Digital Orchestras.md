@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Orchestras» — T&R 1.13, `pm_elgar_digital_orchestra`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Orchestras", "pm_elgar_digital_orchestra"]
 tags: [tr, метод-производства]

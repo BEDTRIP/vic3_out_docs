@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Modern Interventionist» — BPM 1.13, `ideology_eco_modern_interventionist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Modern Interventionist", "ideology_eco_modern_interventionist"]
 tags: [BPM, идеология]

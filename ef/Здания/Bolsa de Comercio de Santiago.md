@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bolsa de Comercio de Santiago» — E&F 1.13, `building_financial_centre_chl`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bolsa de Comercio de Santiago", "building_financial_centre_chl"]
 tags: [ef, здание]

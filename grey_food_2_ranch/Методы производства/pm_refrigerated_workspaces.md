@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_refrigerated_workspaces» — grey food 2 ranch 1.13, `pm_refrigerated_workspaces`"
 project: vic3
+audience: agent
 source: grey_food_2_ranch
 aliases: ["pm_refrigerated_workspaces"]
 tags: [grey_food_2_ranch, метод-производства]

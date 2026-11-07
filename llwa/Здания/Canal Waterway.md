@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Canal Waterway» — LLWA 1.13, `LLWA_building_waterway`"
 project: vic3
+audience: agent
 source: llwa
 aliases: ["Canal Waterway", "LLWA_building_waterway"]
 tags: [LLWA, здание]

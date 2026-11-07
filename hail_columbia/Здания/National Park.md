@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «National Park» — Hail Columbia 1.13, `building_usfp_national_park`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["National Park", "building_usfp_national_park"]
 tags: [hail_columbia, здание]

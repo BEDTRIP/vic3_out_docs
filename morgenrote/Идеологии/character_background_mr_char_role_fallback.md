@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «character_background_mr_char_role_fallback» — Morgenröte 1.13, `character_background_mr_char_role_fallback`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["character_background_mr_char_role_fallback"]
 tags: [Morgenröte, идеология]

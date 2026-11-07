@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Swissair» — Morgenröte 1.13, `curtiss_company_swissair`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Swissair", "curtiss_company_swissair"]
 tags: [Morgenröte, вид-компании]

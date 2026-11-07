@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Авангардизм (ideology_vanguardist_movement)» — ваниль 1.13, `ideology_vanguardist_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Авангардизм (ideology_vanguardist_movement)", "Vanguardist", "ideology_vanguardist_movement"]
 tags: [ваниль, идеология]

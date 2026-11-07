@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Синдикалист (ideology_dop_syndicalist)» — BPM 1.13, `ideology_dop_syndicalist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Синдикалист (ideology_dop_syndicalist)", "Syndicalist", "ideology_dop_syndicalist"]
 tags: [BPM, идеология]

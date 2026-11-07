@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Petrobras» — T&R 1.13, `company_petrobas`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Petrobras", "company_petrobas"]
 tags: [tr, вид-компании]

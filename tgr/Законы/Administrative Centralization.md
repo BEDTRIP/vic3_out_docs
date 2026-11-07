@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Administrative Centralization» — TGR 1.13, `law_administrative_centralism`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Administrative Centralization", "law_administrative_centralism"]
 tags: [TGR, закон]

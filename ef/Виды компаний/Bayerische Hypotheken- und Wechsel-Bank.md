@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bayerische Hypotheken- und Wechsel-Bank» — E&F 1.13, `company_BayerischeHypothekenUndWechselBank`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bayerische Hypotheken- und Wechsel-Bank", "company_BayerischeHypothekenUndWechselBank"]
 tags: [ef, вид-компании]

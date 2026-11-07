@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Copper Co-Extraction» — T&R 1.13, `selective_mineral_extraction_lead_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Copper Co-Extraction", "selective_mineral_extraction_lead_mine"]
 tags: [tr, метод-производства]

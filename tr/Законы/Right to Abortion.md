@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Right to Abortion» — T&R 1.13, `law_abortion`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Right to Abortion", "law_abortion"]
 tags: [tr, закон]

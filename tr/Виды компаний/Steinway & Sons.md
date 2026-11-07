@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Steinway & Sons» — T&R 1.13, `elgar_company_steinway`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Steinway & Sons", "elgar_company_steinway"]
 tags: [tr, вид-компании]

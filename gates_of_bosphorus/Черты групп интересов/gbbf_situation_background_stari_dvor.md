@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «gbbf_situation_background_stari_dvor» — Gates of Bosphorus 1.13, `gbbf_situation_background_stari_dvor`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["gbbf_situation_background_stari_dvor"]
 tags: [gates_of_bosphorus, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Medium Stockpile» — T&R 1.13, `pm_nuclear_stockpile_2`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Medium Stockpile", "pm_nuclear_stockpile_2"]
 tags: [tr, метод-производства]

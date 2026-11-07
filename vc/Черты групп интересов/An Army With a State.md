@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «An Army With a State» — VC 1.13, `ig_trait_army_hasastate`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["An Army With a State", "ig_trait_army_hasastate"]
 tags: [VC, черта-группы-интересов]

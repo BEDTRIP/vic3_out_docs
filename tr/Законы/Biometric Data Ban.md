@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Biometric Data Ban» — T&R 1.13, `law_data_biometric_ban`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Biometric Data Ban", "law_data_biometric_ban"]
 tags: [tr, закон]

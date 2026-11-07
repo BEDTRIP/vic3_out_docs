@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Qiran» — E&F 1.13, `law_dinar_qiran_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Qiran", "law_dinar_qiran_currency"]
 tags: [ef, закон]

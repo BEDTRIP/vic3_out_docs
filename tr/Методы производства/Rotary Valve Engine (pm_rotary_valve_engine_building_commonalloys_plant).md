@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rotary Valve Engine (pm_rotary_valve_engine_building_commonalloys_plant)» — T&R 1.13, `pm_rotary_valve_engine_building_commonalloys_plant`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rotary Valve Engine (pm_rotary_valve_engine_building_commonalloys_plant)", "Rotary Valve Engine", "pm_rotary_valve_engine_building_commonalloys_plant"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Midrex Process» — T&R 1.13, `pm_direct_reduced_iron_midrex_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Midrex Process", "pm_direct_reduced_iron_midrex_process"]
 tags: [tr, метод-производства]

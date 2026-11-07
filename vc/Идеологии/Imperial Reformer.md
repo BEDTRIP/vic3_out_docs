@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Imperial Reformer» — VC 1.13, `ideology_imperial_reformer_leader`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Imperial Reformer", "ideology_imperial_reformer_leader"]
 tags: [VC, идеология]

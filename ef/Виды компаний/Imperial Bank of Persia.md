@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Imperial Bank of Persia» — E&F 1.13, `company_ImperialBankofPersia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Imperial Bank of Persia", "company_ImperialBankofPersia"]
 tags: [ef, вид-компании]

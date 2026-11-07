@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Government–Merchant Cooperation» — VC 1.13, `ig_trait_government_cooperation`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Government–Merchant Cooperation", "ig_trait_government_cooperation"]
 tags: [VC, черта-группы-интересов]

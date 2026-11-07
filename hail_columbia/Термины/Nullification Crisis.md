@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Hail Columbia «Nullification Crisis» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_nullification_crisis`)"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Nullification Crisis", "concept_usfp_nullification_crisis"]
 tags: [hail_columbia, термин]

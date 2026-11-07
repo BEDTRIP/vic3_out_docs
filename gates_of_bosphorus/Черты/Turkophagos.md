@@ -2,6 +2,7 @@
 type: concept
 description: "Черта персонажа «Turkophagos» — Gates of Bosphorus 1.13, `gbbf_trait_turkophagos`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Turkophagos", "gbbf_trait_turkophagos"]
 tags: [gates_of_bosphorus, черта]

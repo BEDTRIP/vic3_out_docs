@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Société Franco-Belge»» — grey USU 1.13, `company_franco_belge`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«Société Franco-Belge»", "Société Franco-Belge", "company_franco_belge"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Raising the Standard» — VC 1.13, `ig_trait_catch_a_fire`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Raising the Standard", "ig_trait_catch_a_fire"]
 tags: [VC, черта-группы-интересов]

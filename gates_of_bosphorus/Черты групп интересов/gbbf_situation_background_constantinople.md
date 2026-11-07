@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «gbbf_situation_background_constantinople» — Gates of Bosphorus 1.13, `gbbf_situation_background_constantinople`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["gbbf_situation_background_constantinople"]
 tags: [gates_of_bosphorus, черта-группы-интересов]

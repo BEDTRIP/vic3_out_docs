@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_sagrada_level_1)» — Morgenröte 1.13, `pmg_base_building_sagrada_level_1`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Основа (pmg_base_building_sagrada_level_1)", "Основа", "pmg_base_building_sagrada_level_1"]
 tags: [Morgenröte, группа-методов]

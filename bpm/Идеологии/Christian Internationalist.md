@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Christian Internationalist» — BPM 1.13, `ideology_cit_christian_internationalist`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Christian Internationalist", "ideology_cit_christian_internationalist"]
 tags: [BPM, идеология]

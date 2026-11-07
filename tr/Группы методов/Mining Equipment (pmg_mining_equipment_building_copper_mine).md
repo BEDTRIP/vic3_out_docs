@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Mining Equipment (pmg_mining_equipment_building_copper_mine)» — T&R 1.13, `pmg_mining_equipment_building_copper_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mining Equipment (pmg_mining_equipment_building_copper_mine)", "Mining Equipment", "pmg_mining_equipment_building_copper_mine"]
 tags: [tr, группа-методов]

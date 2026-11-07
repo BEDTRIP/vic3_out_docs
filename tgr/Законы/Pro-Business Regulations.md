@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Pro-Business Regulations» — TGR 1.13, `law_salary_competitive_economy`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Pro-Business Regulations", "law_salary_competitive_economy"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Evangelicalism» — VC 1.13, `ideology_evangelical_revival`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Evangelicalism", "ideology_evangelical_revival"]
 tags: [VC, идеология]

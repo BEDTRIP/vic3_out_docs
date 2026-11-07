@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «mr_sidebar_button_science_sgui» — Morgenröte 1.13, `mr_sidebar_button_science_sgui`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["mr_sidebar_button_science_sgui"]
 tags: [Morgenröte, идеология]

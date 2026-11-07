@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Использование поездов (pmg_train_automation_building_lead_mine)» — T&R 1.13, `pmg_train_automation_building_lead_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Использование поездов (pmg_train_automation_building_lead_mine)", "Использование поездов", "pmg_train_automation_building_lead_mine"]
 tags: [tr, группа-методов]

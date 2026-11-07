@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Toronto Stock Exchange» — E&F 1.13, `building_financial_centre_ont`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Toronto Stock Exchange", "building_financial_centre_ont"]
 tags: [ef, здание]

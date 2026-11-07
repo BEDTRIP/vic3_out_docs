@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Minting Type» — E&F 1.13, `pmg_minting_type`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Minting Type", "pmg_minting_type"]
 tags: [ef, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_Imperial_Bank_of_India» — grey USU 1.13, `company_Imperial_Bank_of_India`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_Imperial_Bank_of_India"]
 tags: [grey_usu, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Green Revolution» — T&R 1.13, `green_revolution`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Green Revolution", "green_revolution"]
 tags: [tr, технология]

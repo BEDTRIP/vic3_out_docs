@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Простое земледелие (pm_simple_farming_building_rice_farm)» — ваниль 1.13, `pm_simple_farming_building_rice_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Простое земледелие (pm_simple_farming_building_rice_farm)", "Simple Farming", "pm_simple_farming_building_rice_farm"]
 tags: [ваниль, метод-производства]

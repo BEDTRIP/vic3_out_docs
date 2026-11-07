@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Personal Computer» — T&R 1.13, `personal_computer`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Personal Computer", "personal_computer"]
 tags: [tr, технология]

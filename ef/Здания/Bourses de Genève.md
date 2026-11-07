@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Bourses de Genève» — E&F 1.13, `building_financial_centre_swi`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Bourses de Genève", "building_financial_centre_swi"]
 tags: [ef, здание]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Blitzkrieg» — T&R 1.13, `blitzkrieg`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Blitzkrieg", "blitzkrieg"]
 tags: [tr, технология]

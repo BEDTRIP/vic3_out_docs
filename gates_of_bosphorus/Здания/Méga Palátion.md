@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Méga Palátion» — Gates of Bosphorus 1.13, `gbbf_building_mega_palation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Méga Palátion", "gbbf_building_mega_palation"]
 tags: [gates_of_bosphorus, здание]

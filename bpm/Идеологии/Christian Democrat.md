@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Christian Democrat» — BPM 1.13, `ideology_dop_christian_democrat`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Christian Democrat", "ideology_dop_christian_democrat"]
 tags: [BPM, идеология]

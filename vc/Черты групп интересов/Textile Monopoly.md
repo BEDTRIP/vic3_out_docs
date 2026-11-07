@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Textile Monopoly» — VC 1.13, `ig_trait_textile_monopoly`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Textile Monopoly", "ig_trait_textile_monopoly"]
 tags: [VC, черта-группы-интересов]

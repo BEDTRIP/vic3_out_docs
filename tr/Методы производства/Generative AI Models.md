@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Generative AI Models» — T&R 1.13, `pm_generative_ai_models`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Generative AI Models", "pm_generative_ai_models"]
 tags: [tr, метод-производства]

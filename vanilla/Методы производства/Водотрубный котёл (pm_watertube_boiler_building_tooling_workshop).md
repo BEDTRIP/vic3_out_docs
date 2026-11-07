@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Водотрубный котёл (pm_watertube_boiler_building_tooling_workshop)» — ваниль 1.13, `pm_watertube_boiler_building_tooling_workshop`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Водотрубный котёл (pm_watertube_boiler_building_tooling_workshop)", "Water-tube Boiler", "pm_watertube_boiler_building_tooling_workshop"]
 tags: [ваниль, метод-производства]

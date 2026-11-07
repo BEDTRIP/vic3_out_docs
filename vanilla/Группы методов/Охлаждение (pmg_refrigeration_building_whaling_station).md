@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_whaling_station)» — ваниль 1.13, `pmg_refrigeration_building_whaling_station`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Охлаждение (pmg_refrigeration_building_whaling_station)", "Refrigeration", "pmg_refrigeration_building_whaling_station"]
 tags: [ваниль, группа-методов]

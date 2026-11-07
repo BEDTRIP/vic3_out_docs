@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_international_routes» — grey USU 1.13, `pm_international_routes`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["pm_international_routes"]
 tags: [grey_usu, метод-производства]

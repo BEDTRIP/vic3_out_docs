@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Diesel Pump» — E&F 1.13, `pm_diesel_pump_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Diesel Pump", "pm_diesel_pump_building_silver_mine"]
 tags: [ef, метод-производства]

@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод E&F меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: ef
 tags: [ef, что-меняет]
 generated: "v3 graph mods"

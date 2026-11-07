@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода T&R «United Nations» — подсказка-понятие Victoria 3 1.13 (`concept_united_nations`)"
 project: vic3
+audience: agent
 source: tr
 aliases: ["United Nations", "concept_united_nations"]
 tags: [tr, термин]

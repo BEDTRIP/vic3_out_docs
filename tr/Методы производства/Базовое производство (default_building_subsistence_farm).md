@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Базовое производство (default_building_subsistence_farm)» — T&R 1.13, `default_building_subsistence_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Базовое производство (default_building_subsistence_farm)", "Базовое производство", "default_building_subsistence_farm"]
 tags: [tr, метод-производства]

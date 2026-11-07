@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Процесс сбора урожая (pmg_harvesting_process_building_rice_farm)» — T&R 1.13, `pmg_harvesting_process_building_rice_farm`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Процесс сбора урожая (pmg_harvesting_process_building_rice_farm)", "Процесс сбора урожая", "pmg_harvesting_process_building_rice_farm"]
 tags: [tr, группа-методов]

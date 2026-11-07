@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Opera Orchestra Size» — T&R 1.13, `pmg_elgar_orchestra`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Opera Orchestra Size", "pmg_elgar_orchestra"]
 tags: [tr, группа-методов]

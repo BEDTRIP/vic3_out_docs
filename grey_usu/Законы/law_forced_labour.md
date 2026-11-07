@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «law_forced_labour» — grey USU 1.13, `law_forced_labour`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["law_forced_labour"]
 tags: [grey_usu, закон]

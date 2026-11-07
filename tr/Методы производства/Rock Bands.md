@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Rock Bands» — T&R 1.13, `pm_elgar_rock_band`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Rock Bands", "pm_elgar_rock_band"]
 tags: [tr, метод-производства]

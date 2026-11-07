@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Altos Hornos de Vizcaya»» — TGR 1.13, `company_altos_hornos_de_vizcaya`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["«Altos Hornos de Vizcaya»", "Compañía de Andaluza", "company_altos_hornos_de_vizcaya"]
 tags: [TGR, вид-компании]

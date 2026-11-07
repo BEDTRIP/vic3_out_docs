@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Honda» — T&R 1.13, `company_honda`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Honda", "company_honda"]
 tags: [tr, вид-компании]

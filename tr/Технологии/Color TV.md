@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Color TV» — T&R 1.13, `tv_color`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Color TV", "tv_color"]
 tags: [tr, технология]

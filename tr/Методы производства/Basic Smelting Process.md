@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Basic Smelting Process» — T&R 1.13, `pm_basic_smelting_process`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Basic Smelting Process", "pm_basic_smelting_process"]
 tags: [tr, метод-производства]

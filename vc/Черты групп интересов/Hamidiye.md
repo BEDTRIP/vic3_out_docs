@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Hamidiye» — VC 1.13, `ig_trait_el_hamidiye`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Hamidiye", "ig_trait_el_hamidiye"]
 tags: [VC, черта-группы-интересов]

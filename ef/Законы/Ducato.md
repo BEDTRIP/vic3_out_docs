@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ducato» — E&F 1.13, `law_lira_ducato_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Ducato", "law_lira_ducato_currency"]
 tags: [ef, закон]

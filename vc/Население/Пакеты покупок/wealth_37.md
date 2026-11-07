@@ -2,6 +2,7 @@
 type: concept
 description: "Пакет покупок «wealth_37» — VC 1.13, `wealth_37`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["wealth_37"]
 tags: [VC, пакет-покупок]

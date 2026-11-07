@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Nile Barrage» — Gates of Bosphorus 1.13, `gbbf_building_nile_barrage`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Nile Barrage", "gbbf_building_nile_barrage"]
 tags: [gates_of_bosphorus, здание]

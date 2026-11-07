@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Digital Communication» — T&R 1.13, `manzoni_pm_digital_media`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Digital Communication", "manzoni_pm_digital_media"]
 tags: [tr, метод-производства]

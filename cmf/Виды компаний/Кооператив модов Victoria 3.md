@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Кооператив модов Victoria 3» — CMF 1.13, `company_vic3_mod_coop`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["Кооператив модов Victoria 3", "Victoria 3 Mod Co-op", "company_vic3_mod_coop"]
 tags: [CMF, вид-компании]

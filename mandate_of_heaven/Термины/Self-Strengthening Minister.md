@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода Mandate of Heaven «Self-Strengthening Minister» — подсказка-понятие Victoria 3 1.13 (`concept_character_role_self_strengthening_leader`)"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Self-Strengthening Minister", "concept_character_role_self_strengthening_leader"]
 tags: [mandate_of_heaven, термин]

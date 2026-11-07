@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Integrated Retail E-Commerce» — T&R 1.13, `pm_integrated_retail_ecommerce`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Integrated Retail E-Commerce", "pm_integrated_retail_ecommerce"]
 tags: [tr, метод-производства]

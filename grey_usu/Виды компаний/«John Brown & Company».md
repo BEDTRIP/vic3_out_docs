@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««John Brown & Company»» — grey USU 1.13, `company_john_brown`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["«John Brown & Company»", "John Brown & Company", "company_john_brown"]
 tags: [grey_usu, вид-компании]

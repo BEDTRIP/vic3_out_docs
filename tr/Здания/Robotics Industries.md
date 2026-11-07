@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Robotics Industries» — T&R 1.13, `building_robotics_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Robotics Industries", "building_robotics_industry"]
 tags: [tr, здание]

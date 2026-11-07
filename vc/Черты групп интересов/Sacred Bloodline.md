@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Sacred Bloodline» — VC 1.13, `ig_trait_holy_blood`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Sacred Bloodline", "ig_trait_holy_blood"]
 tags: [VC, черта-группы-интересов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_yugoslav_integralist_leader`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Yugoslav Integralist (ideology_gbbf_yugoslav_integralist_leader)", "Yugoslav Integralist", "ideology_gbbf_yugoslav_integralist_leader"]
 tags: [gates_of_bosphorus, идеология]

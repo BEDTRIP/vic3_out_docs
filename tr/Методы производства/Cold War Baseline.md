@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Cold War Baseline» — T&R 1.13, `pm_postwar_base`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cold War Baseline", "pm_postwar_base"]
 tags: [tr, метод-производства]

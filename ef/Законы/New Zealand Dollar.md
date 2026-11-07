@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «New Zealand Dollar» — E&F 1.13, `law_dollar_new_zealand_dollar_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["New Zealand Dollar", "law_dollar_new_zealand_dollar_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Electronic Components Industries» — T&R 1.13, `building_electronics_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Electronic Components Industries", "building_electronics_industry"]
 tags: [tr, здание]

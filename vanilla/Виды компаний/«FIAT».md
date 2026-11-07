@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««FIAT»» — ваниль 1.13, `company_fiat`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«FIAT»", "FIAT", "company_fiat"]
 tags: [ваниль, вид-компании]

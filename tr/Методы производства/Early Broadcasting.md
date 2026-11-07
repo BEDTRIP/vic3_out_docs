@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Early Broadcasting» — T&R 1.13, `pm_early_broadcasting`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Early Broadcasting", "pm_early_broadcasting"]
 tags: [tr, метод-производства]

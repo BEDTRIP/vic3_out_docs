@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Salary Regulations» — TGR 1.13, `law_no_salary_regulation`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Salary Regulations", "law_no_salary_regulation"]
 tags: [TGR, закон]

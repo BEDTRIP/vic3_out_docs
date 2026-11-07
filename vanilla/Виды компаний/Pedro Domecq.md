@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Pedro Domecq» — ваниль 1.13, `company_pedro_domecq`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Pedro Domecq", "company_pedro_domecq"]
 tags: [ваниль, вид-компании]

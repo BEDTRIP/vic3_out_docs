@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Companhia Fiação e Tecidos de Pernambuco»» — ваниль 1.13, `company_pernambuco_textiles`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Companhia Fiação e Tecidos de Pernambuco»", "Companhia Fiação e Tecidos de Pernambuco", "company_pernambuco_textiles"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Early Aviation» — T&R 1.13, `curtiss_early_aviation_tech`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Early Aviation", "curtiss_early_aviation_tech"]
 tags: [tr, технология]

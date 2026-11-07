@@ -2,6 +2,7 @@
 type: reference
 description: "Справочник движка Victoria 3 1.13: Модификаторы D — 1, из дампа script_docs"
 project: vic3
+audience: agent
 source: vanilla
 tags: [ваниль, движок]
 generated: "v3 graph engine"

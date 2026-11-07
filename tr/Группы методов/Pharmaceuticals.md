@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Pharmaceuticals» — T&R 1.13, `pmg_base_building_pharmaceuticals`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Pharmaceuticals", "pmg_base_building_pharmaceuticals"]
 tags: [tr, группа-методов]

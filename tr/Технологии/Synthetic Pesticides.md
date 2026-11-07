@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Synthetic Pesticides» — T&R 1.13, `synthetic_pesticides`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Synthetic Pesticides", "synthetic_pesticides"]
 tags: [tr, технология]

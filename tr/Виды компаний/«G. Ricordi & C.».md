@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««G. Ricordi & C.»» — T&R 1.13, `company_ricordi`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«G. Ricordi & C.»", "G. Ricordi & C", "company_ricordi"]
 tags: [tr, вид-компании]

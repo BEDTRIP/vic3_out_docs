@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «pm_watertube_boiler_building_steel_mills» — TGR 1.13, `pm_watertube_boiler_building_steel_mills`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["pm_watertube_boiler_building_steel_mills"]
 tags: [TGR, метод-производства]

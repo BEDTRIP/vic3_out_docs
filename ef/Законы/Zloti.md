@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Zloti» — E&F 1.13, `law_spe_zloti_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Zloti", "law_spe_zloti_currency"]
 tags: [ef, закон]

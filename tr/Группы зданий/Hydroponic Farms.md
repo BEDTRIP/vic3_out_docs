@@ -2,6 +2,7 @@
 type: concept
 description: "Группа зданий «Hydroponic Farms» — T&R 1.13, `bg_hydroponic_farms`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Hydroponic Farms", "bg_hydroponic_farms"]
 tags: [tr, группа-зданий]

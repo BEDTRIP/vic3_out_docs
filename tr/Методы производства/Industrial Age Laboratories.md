@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Industrial Age Laboratories» — T&R 1.13, `pm_research_center_basic`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Industrial Age Laboratories", "pm_research_center_basic"]
 tags: [tr, метод-производства]

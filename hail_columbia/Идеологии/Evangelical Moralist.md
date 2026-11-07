@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Evangelical Moralist» — Hail Columbia 1.13, `ideology_usfp_evangelical_moralist`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Evangelical Moralist", "ideology_usfp_evangelical_moralist"]
 tags: [hail_columbia, идеология]

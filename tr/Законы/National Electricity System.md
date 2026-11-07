@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «National Electricity System» — T&R 1.13, `law_national_electric_system`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["National Electricity System", "law_national_electric_system"]
 tags: [tr, закон]

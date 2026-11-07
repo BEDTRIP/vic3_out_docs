@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Copper Mines» — T&R 1.13, `building_copper_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Copper Mines", "building_copper_mine"]
 tags: [tr, здание]

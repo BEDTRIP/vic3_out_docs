@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Philanthropy» — VC 1.13, `ig_trait_philanthropy`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Philanthropy", "ig_trait_philanthropy"]
 tags: [VC, черта-группы-интересов]

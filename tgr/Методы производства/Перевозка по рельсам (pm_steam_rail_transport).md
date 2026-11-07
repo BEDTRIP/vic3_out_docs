@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Перевозка по рельсам (pm_steam_rail_transport)» — TGR 1.13, `pm_steam_rail_transport`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Перевозка по рельсам (pm_steam_rail_transport)", "Rail Transportation", "pm_steam_rail_transport"]
 tags: [TGR, метод-производства]

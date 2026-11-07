@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Protestant Church» — VC 1.13, `ideology_protestant_church`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Protestant Church", "ideology_protestant_church"]
 tags: [VC, идеология]

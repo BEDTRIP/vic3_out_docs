@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Country Rating» — подсказка-понятие Victoria 3 1.13 (`concept_country_rating`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Country Rating", "concept_country_rating"]
 tags: [ef, термин]

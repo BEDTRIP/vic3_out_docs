@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Unregulated Working Hours» — TGR 1.13, `law_unregulated_work_time`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Unregulated Working Hours", "law_unregulated_work_time"]
 tags: [TGR, закон]

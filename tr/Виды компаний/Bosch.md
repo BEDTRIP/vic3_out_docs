@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Bosch» — T&R 1.13, `company_bosch`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Bosch", "company_bosch"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Walt Disney Company» — T&R 1.13, `company_disney`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Walt Disney Company", "company_disney"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Ruble» — E&F 1.13, `law_spe_ruble_currency`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Ruble", "law_spe_ruble_currency"]
 tags: [ef, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «ideology_gbbf_islamist_leader» — CMF 1.13, `ideology_gbbf_islamist_leader`"
 project: vic3
+audience: agent
 source: cmf
 aliases: ["ideology_gbbf_islamist_leader"]
 tags: [CMF, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_John_Booth_lumber_mills» — grey USU 1.13, `company_John_Booth_lumber_mills`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_John_Booth_lumber_mills"]
 tags: [grey_usu, вид-компании]

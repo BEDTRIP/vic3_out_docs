@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)» — Morgenröte 1.13, `building_sagrada_familia_cathedral_1`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)", "Sagrada Família Cathedral", "building_sagrada_familia_cathedral_1"]
 tags: [Morgenröte, здание]

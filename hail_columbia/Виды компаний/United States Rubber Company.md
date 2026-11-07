@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «United States Rubber Company» — Hail Columbia 1.13, `company_usfp_us_rubber`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["United States Rubber Company", "company_usfp_us_rubber"]
 tags: [hail_columbia, вид-компании]

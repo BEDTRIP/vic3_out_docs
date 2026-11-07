@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «England Expects» — VC 1.13, `ig_trait_do_his_duty`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["England Expects", "ig_trait_do_his_duty"]
 tags: [VC, черта-группы-интересов]

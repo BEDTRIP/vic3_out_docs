@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Robotics» — T&R 1.13, `robotics`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Robotics", "robotics"]
 tags: [tr, товар]

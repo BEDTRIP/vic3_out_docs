@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Nokia»» — ваниль 1.13, `company_nokia`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Nokia»", "Nokia", "company_nokia"]
 tags: [ваниль, вид-компании]

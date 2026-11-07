@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_VRailways» — grey USU 1.13, `company_VRailways`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_VRailways"]
 tags: [grey_usu, вид-компании]

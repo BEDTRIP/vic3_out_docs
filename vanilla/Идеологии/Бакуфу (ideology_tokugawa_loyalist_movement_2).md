@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Бакуфу (ideology_tokugawa_loyalist_movement_2)» — ваниль 1.13, `ideology_tokugawa_loyalist_movement_2`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Бакуфу (ideology_tokugawa_loyalist_movement_2)", "Бакуфу", "ideology_tokugawa_loyalist_movement_2"]
 tags: [ваниль, идеология]

@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод grey subject меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: grey_subject
 tags: [grey_subject, что-меняет]
 generated: "v3 graph mods"

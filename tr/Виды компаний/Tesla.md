@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Tesla» — T&R 1.13, `company_tesla`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Tesla", "company_tesla"]
 tags: [tr, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Tribal Tributes» — Gates of Bosphorus 1.13, `pm_gbbf_sahara_tributes`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Tribal Tributes", "pm_gbbf_sahara_tributes"]
 tags: [gates_of_bosphorus, метод-производства]

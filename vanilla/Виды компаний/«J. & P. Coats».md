@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««J. & P. Coats»» — ваниль 1.13, `company_j_p_coats`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«J. & P. Coats»", "J. & P. Coats", "company_j_p_coats"]
 tags: [ваниль, вид-компании]

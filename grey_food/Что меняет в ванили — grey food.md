@@ -2,6 +2,7 @@
 type: reference
 description: "Что мод grey food меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
+audience: agent
 source: grey_food
 tags: [grey_food, что-меняет]
 generated: "v3 graph mods"

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_EgyptPost» — grey USU 1.13, `company_EgyptPost`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_EgyptPost"]
 tags: [grey_usu, вид-компании]

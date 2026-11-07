@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_standard_fruit» — grey USU 1.13, `company_standard_fruit`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_standard_fruit"]
 tags: [grey_usu, вид-компании]

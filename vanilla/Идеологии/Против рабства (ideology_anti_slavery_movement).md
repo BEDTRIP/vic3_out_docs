@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Против рабства (ideology_anti_slavery_movement)» — ваниль 1.13, `ideology_anti_slavery_movement`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Против рабства (ideology_anti_slavery_movement)", "Против рабства", "ideology_anti_slavery_movement"]
 tags: [ваниль, идеология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Pharmaceuticals Industries» — T&R 1.13, `building_pharmaceuticals_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Pharmaceuticals Industries", "building_pharmaceuticals_industry"]
 tags: [tr, здание]

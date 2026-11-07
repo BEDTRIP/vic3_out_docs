@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Reinforces Foreign perception» — TGR 1.13, `foreign_policy_authoritarian_representation`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Reinforces Foreign perception", "foreign_policy_authoritarian_representation"]
 tags: [TGR, закон]

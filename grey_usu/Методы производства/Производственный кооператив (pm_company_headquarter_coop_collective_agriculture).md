@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Производственный кооператив (pm_company_headquarter_coop_collective_agriculture)» — grey USU 1.13, `pm_company_headquarter_coop_collective_agriculture`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Производственный кооператив (pm_company_headquarter_coop_collective_agriculture)", "Производственный кооператив", "pm_company_headquarter_coop_collective_agriculture"]
 tags: [grey_usu, метод-производства]

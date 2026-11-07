@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Нет домашних мастерских (pm_home_workshops_no_building_subsistence_farm)» — ваниль 1.13, `pm_home_workshops_no_building_subsistence_farm`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Нет домашних мастерских (pm_home_workshops_no_building_subsistence_farm)", "Нет домашних мастерских", "pm_home_workshops_no_building_subsistence_farm"]
 tags: [ваниль, метод-производства]

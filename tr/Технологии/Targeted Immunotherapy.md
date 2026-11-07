@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Targeted Immunotherapy» — T&R 1.13, `targeted_immunotherapy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Targeted Immunotherapy", "targeted_immunotherapy"]
 tags: [tr, технология]

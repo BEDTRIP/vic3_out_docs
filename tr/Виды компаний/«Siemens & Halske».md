@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Siemens & Halske»» — T&R 1.13, `company_siemens_and_halske`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["«Siemens & Halske»", "Siemens & Halske", "company_siemens_and_halske"]
 tags: [tr, вид-компании]

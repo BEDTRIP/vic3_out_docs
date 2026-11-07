@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Manufacture Stock» — E&F 1.13, `pm_private_ownership_majority_manufacture_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Manufacture Stock", "pm_private_ownership_majority_manufacture_stock"]
 tags: [ef, метод-производства]

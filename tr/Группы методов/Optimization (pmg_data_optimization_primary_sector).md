@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Optimization (pmg_data_optimization_primary_sector)» — T&R 1.13, `pmg_data_optimization_primary_sector`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Optimization (pmg_data_optimization_primary_sector)", "Optimization", "pmg_data_optimization_primary_sector"]
 tags: [tr, группа-методов]

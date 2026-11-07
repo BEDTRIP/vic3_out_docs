@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Changyu» — Mandate of Heaven 1.13, `company_changyu`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Changyu", "company_changyu"]
 tags: [mandate_of_heaven, вид-компании]

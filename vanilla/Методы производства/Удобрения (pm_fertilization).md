@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Удобрения (pm_fertilization)» — ваниль 1.13, `pm_fertilization`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Удобрения (pm_fertilization)", "Fertilizers", "pm_fertilization"]
 tags: [ваниль, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «British Petroleum» — T&R 1.13, `company_bg`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["British Petroleum", "company_bg"]
 tags: [tr, вид-компании]

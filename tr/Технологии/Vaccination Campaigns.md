@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Vaccination Campaigns» — T&R 1.13, `vaccination_campaigns`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Vaccination Campaigns", "vaccination_campaigns"]
 tags: [tr, технология]

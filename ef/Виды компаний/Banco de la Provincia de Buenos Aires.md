@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco de la Provincia de Buenos Aires» — E&F 1.13, `company_BancoProvincia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco de la Provincia de Buenos Aires", "company_BancoProvincia"]
 tags: [ef, вид-компании]

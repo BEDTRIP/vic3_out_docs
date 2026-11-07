@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_automotive_industry)» — BPM 1.13, `pm_assembly_lines_building_automotive_industry`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Конвейерное производство (pm_assembly_lines_building_automotive_industry)", "Assembly Lines", "pm_assembly_lines_building_automotive_industry"]
 tags: [BPM, метод-производства]

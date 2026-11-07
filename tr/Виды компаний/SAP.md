@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «SAP» — T&R 1.13, `company_sap`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["SAP", "company_sap"]
 tags: [tr, вид-компании]

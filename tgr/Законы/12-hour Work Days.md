@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «12-hour Work Days» — TGR 1.13, `law_token_time_regulations`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["12-hour Work Days", "law_token_time_regulations"]
 tags: [TGR, закон]

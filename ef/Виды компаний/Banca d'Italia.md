@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banca d'Italia» — E&F 1.13, `company_BancaDItalia`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banca d'Italia", "company_BancaDItalia"]
 tags: [ef, вид-компании]

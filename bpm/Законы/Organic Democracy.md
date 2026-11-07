@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Organic Democracy» — BPM 1.13, `law_organic_democracy`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Organic Democracy", "law_organic_democracy"]
 tags: [BPM, закон]

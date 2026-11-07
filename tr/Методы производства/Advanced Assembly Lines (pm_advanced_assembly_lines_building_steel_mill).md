@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Advanced Assembly Lines (pm_advanced_assembly_lines_building_steel_mill)» — T&R 1.13, `pm_advanced_assembly_lines_building_steel_mill`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Assembly Lines (pm_advanced_assembly_lines_building_steel_mill)", "Advanced Assembly Lines", "pm_advanced_assembly_lines_building_steel_mill"]
 tags: [tr, метод-производства]

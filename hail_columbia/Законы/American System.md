@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «American System» — Hail Columbia 1.13, `law_usfp_american_system`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["American System", "law_usfp_american_system"]
 tags: [hail_columbia, закон]

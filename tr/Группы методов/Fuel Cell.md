@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Fuel Cell» — T&R 1.13, `pmg_base_building_fuel_cell`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Fuel Cell", "pmg_base_building_fuel_cell"]
 tags: [tr, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Data Optimization (pmg_data_optimization_heavy_industry_algorithmic_dispatch)» — T&R 1.13, `pmg_data_optimization_heavy_industry_algorithmic_dispatch`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Data Optimization (pmg_data_optimization_heavy_industry_algorithmic_dispatch)", "Data Optimization", "pmg_data_optimization_heavy_industry_algorithmic_dispatch"]
 tags: [tr, группа-методов]

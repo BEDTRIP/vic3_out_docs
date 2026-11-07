@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Run-of-River Plants (pm_run_of_river_plants_3)» — T&R 1.13, `pm_run_of_river_plants_3`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Run-of-River Plants (pm_run_of_river_plants_3)", "Run-of-River Plants", "pm_run_of_river_plants_3"]
 tags: [tr, метод-производства]

@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Cathode Tube» — T&R 1.13, `cathode_tube`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cathode Tube", "cathode_tube"]
 tags: [tr, технология]

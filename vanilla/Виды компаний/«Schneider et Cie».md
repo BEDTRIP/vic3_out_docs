@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Schneider et Cie»» — ваниль 1.13, `company_schneider_creusot`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Schneider et Cie»", "Schneider et Cie", "company_schneider_creusot"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Инструменты для сбора урожая (pm_tools)» — TGR 1.13, `pm_tools`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["Инструменты для сбора урожая (pm_tools)", "Harvesting Tools", "pm_tools"]
 tags: [TGR, метод-производства]

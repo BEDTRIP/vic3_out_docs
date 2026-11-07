@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Modern City Transport» — T&R 1.13, `modern_city_transport`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern City Transport", "modern_city_transport"]
 tags: [tr, технология]

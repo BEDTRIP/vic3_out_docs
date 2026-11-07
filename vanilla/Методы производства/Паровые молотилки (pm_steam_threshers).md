@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — ваниль 1.13, `pm_steam_threshers`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Паровые молотилки (pm_steam_threshers)", "Steam-Powered Thresher Machines", "pm_steam_threshers"]
 tags: [ваниль, метод-производства]

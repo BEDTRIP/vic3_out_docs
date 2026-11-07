@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nuclear Bomber» — T&R 1.13, `pm_nuclear_bomber`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nuclear Bomber", "pm_nuclear_bomber"]
 tags: [tr, метод-производства]

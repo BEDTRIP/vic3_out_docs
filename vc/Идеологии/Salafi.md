@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Salafi» — VC 1.13, `ideology_salafi`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Salafi", "ideology_salafi"]
 tags: [VC, идеология]

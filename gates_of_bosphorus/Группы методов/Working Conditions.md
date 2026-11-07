@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Working Conditions» — Gates of Bosphorus 1.13, `pmg_esparto_exploitation`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Working Conditions", "pmg_esparto_exploitation"]
 tags: [gates_of_bosphorus, группа-методов]

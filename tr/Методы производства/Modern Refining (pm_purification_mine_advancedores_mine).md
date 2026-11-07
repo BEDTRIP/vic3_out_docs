@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Modern Refining (pm_purification_mine_advancedores_mine)» — T&R 1.13, `pm_purification_mine_advancedores_mine`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Modern Refining (pm_purification_mine_advancedores_mine)", "Modern Refining", "pm_purification_mine_advancedores_mine"]
 tags: [tr, метод-производства]

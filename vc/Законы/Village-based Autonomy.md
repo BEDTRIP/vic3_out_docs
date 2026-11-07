@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Village-based Autonomy» — VC 1.13, `law_gram_swaraj`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Village-based Autonomy", "law_gram_swaraj"]
 tags: [VC, закон]

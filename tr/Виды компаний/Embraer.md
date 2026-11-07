@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Embraer» — T&R 1.13, `company_embraer`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Embraer", "company_embraer"]
 tags: [tr, вид-компании]

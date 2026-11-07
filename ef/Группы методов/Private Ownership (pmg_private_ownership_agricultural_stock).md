@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Private Ownership (pmg_private_ownership_agricultural_stock)» — E&F 1.13, `pmg_private_ownership_agricultural_stock`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Private Ownership (pmg_private_ownership_agricultural_stock)", "Private Ownership", "pmg_private_ownership_agricultural_stock"]
 tags: [ef, группа-методов]

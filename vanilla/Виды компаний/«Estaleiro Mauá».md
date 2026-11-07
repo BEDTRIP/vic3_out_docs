@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Estaleiro Mauá»» — ваниль 1.13, `company_estaleiro_maua`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Estaleiro Mauá»", "Estaleiro Mauá", "company_estaleiro_maua"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «Industrial Salvation» — VC 1.13, `ig_trait_national_industry`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Industrial Salvation", "ig_trait_national_industry"]
 tags: [VC, черта-группы-интересов]

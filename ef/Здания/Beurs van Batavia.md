@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Beurs van Batavia» — E&F 1.13, `building_financial_centre_dei`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Beurs van Batavia", "building_financial_centre_dei"]
 tags: [ef, здание]

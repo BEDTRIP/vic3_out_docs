@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Основа (pmg_base_building_railway)» — grey USU 1.13, `pmg_base_building_railway`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["Основа (pmg_base_building_railway)", "Основа", "pmg_base_building_railway"]
 tags: [grey_usu, группа-методов]

@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_motor_industry)» — T&R 1.13, `pm_assembly_lines_building_motor_industry`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Конвейерное производство (pm_assembly_lines_building_motor_industry)", "Assembly Lines", "pm_assembly_lines_building_motor_industry"]
 tags: [tr, метод-производства]

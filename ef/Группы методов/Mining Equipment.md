@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Mining Equipment» — E&F 1.13, `pmg_mining_equipment_building_silver_mine`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Mining Equipment", "pmg_mining_equipment_building_silver_mine"]
 tags: [ef, группа-методов]

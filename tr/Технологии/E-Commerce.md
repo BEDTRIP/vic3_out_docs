@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «E-Commerce» — T&R 1.13, `e_commerce`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["E-Commerce", "e_commerce"]
 tags: [tr, технология]

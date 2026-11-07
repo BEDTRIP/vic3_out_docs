@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Agricultural Stock Capitalization» — подсказка-понятие Victoria 3 1.13 (`concept_agricultural_stock_index`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Agricultural Stock Capitalization", "concept_agricultural_stock_index"]
 tags: [ef, термин]

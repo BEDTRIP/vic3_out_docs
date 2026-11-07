@@ -3,6 +3,7 @@ type: history
 kind: research
 description: "Сводка BPM: что мод меняет относительно ванили 1.13 — разбор по файлам до этапа ДОК; исходный материал для графа источника, не сверен с текущим снимком"
 project: vic3
+audience: agent
 source: bpm
 tags: [источники, сводка]
 date: 2026-01-07

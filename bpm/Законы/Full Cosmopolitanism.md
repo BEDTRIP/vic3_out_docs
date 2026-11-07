@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «Full Cosmopolitanism» — BPM 1.13, `law_multicultural_upgraded`"
 project: vic3
+audience: agent
 source: bpm
 aliases: ["Full Cosmopolitanism", "law_multicultural_upgraded"]
 tags: [BPM, закон]

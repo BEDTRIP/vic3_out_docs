@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Использование поездов (pmg_train_automation_building_cotton_plantation)» — ваниль 1.13, `pmg_train_automation_building_cotton_plantation`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Использование поездов (pmg_train_automation_building_cotton_plantation)", "Использование поездов", "pmg_train_automation_building_cotton_plantation"]
 tags: [ваниль, группа-методов]

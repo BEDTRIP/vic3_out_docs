@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Advanced Personal Computer» — T&R 1.13, `advanced_personal_computer`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Advanced Personal Computer", "advanced_personal_computer"]
 tags: [tr, технология]

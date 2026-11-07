@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода E&F «Export Profit (in Gold)» — подсказка-понятие Victoria 3 1.13 (`concept_export_value`)"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Export Profit (in Gold)", "concept_export_value"]
 tags: [ef, термин]

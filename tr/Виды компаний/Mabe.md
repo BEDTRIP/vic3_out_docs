@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Mabe» — T&R 1.13, `company_mabe`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Mabe", "company_mabe"]
 tags: [tr, вид-компании]

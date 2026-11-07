@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Railroad Stock Exchange» — E&F 1.13, `pm_railroad_stock_exchange`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Railroad Stock Exchange", "pm_railroad_stock_exchange"]
 tags: [ef, метод-производства]

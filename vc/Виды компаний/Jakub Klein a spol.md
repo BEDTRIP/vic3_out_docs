@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Jakub Klein a spol» — VC 1.13, `company_jakub_klein`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Jakub Klein a spol", "company_jakub_klein"]
 tags: [VC, вид-компании]

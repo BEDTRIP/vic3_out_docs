@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Elections» — TGR 1.13, `law_no_election`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Elections", "law_no_election"]
 tags: [TGR, закон]

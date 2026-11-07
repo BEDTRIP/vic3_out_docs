@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «BYD» — T&R 1.13, `company_byd`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["BYD", "company_byd"]
 tags: [tr, вид-компании]

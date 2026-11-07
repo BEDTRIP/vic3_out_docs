@@ -2,6 +2,7 @@
 type: concept
 description: "Термин мода VC «Arab National Fervour» — подсказка-понятие Victoria 3 1.13 (`concept_unruly_arabs_progress`)"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Arab National Fervour", "concept_unruly_arabs_progress"]
 tags: [vc, термин]

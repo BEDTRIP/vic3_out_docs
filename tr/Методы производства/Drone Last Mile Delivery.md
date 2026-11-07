@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Drone Last Mile Delivery» — T&R 1.13, `pm_drone_last_mile`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Drone Last Mile Delivery", "pm_drone_last_mile"]
 tags: [tr, метод-производства]

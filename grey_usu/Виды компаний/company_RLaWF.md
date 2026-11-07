@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «company_RLaWF» — grey USU 1.13, `company_RLaWF`"
 project: vic3
+audience: agent
 source: grey_usu
 aliases: ["company_RLaWF"]
 tags: [grey_usu, вид-компании]

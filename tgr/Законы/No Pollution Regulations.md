@@ -2,6 +2,7 @@
 type: concept
 description: "Закон «No Pollution Regulations» — TGR 1.13, `law_no_environment_regulations`"
 project: vic3
+audience: agent
 source: tgr
 aliases: ["No Pollution Regulations", "law_no_environment_regulations"]
 tags: [TGR, закон]

@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Puritan» — VC 1.13, `ideology_puritan`"
 project: vic3
+audience: agent
 source: vc
 aliases: ["Puritan", "ideology_puritan"]
 tags: [VC, идеология]

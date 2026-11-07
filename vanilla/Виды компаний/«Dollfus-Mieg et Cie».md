@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Dollfus-Mieg et Cie»» — ваниль 1.13, `company_dmc`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Dollfus-Mieg et Cie»", "Dollfus-Mieg et Cie", "company_dmc"]
 tags: [ваниль, вид-компании]

@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Перевозка (pmg_transportation_building_oil_rig)» — ваниль 1.13, `pmg_transportation_building_oil_rig`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["Перевозка (pmg_transportation_building_oil_rig)", "Transportation", "pmg_transportation_building_oil_rig"]
 tags: [ваниль, группа-методов]

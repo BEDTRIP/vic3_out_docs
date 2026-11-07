@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Banco Central del Uruguay» — E&F 1.13, `company_BancoCentralDelUruguay`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Banco Central del Uruguay", "company_BancoCentralDelUruguay"]
 tags: [ef, вид-компании]

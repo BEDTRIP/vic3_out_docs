@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании «Duriyabun» — Morgenröte 1.13, `elgar_company_duriyabun`"
 project: vic3
+audience: agent
 source: morgenrote
 aliases: ["Duriyabun", "elgar_company_duriyabun"]
 tags: [Morgenröte, вид-компании]

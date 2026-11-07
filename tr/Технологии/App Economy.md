@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «App Economy» — T&R 1.13, `app_economy`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["App Economy", "app_economy"]
 tags: [tr, технология]

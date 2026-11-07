@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «Nylon» — T&R 1.13, `pm_nylon`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Nylon", "pm_nylon"]
 tags: [tr, метод-производства]

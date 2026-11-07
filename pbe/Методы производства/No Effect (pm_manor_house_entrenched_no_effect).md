@@ -2,6 +2,7 @@
 type: concept
 description: "Метод производства «No Effect (pm_manor_house_entrenched_no_effect)» — PBE 1.13, `pm_manor_house_entrenched_no_effect`"
 project: vic3
+audience: agent
 source: pbe
 aliases: ["No Effect (pm_manor_house_entrenched_no_effect)", "No Effect", "pm_manor_house_entrenched_no_effect"]
 tags: [PBE, метод-производства]

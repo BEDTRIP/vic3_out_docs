@@ -2,6 +2,7 @@
 type: concept
 description: "Черта группы интересов «King Cotton» — Hail Columbia 1.13, `usfp_ig_trait_king_cotton`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["King Cotton", "usfp_ig_trait_king_cotton"]
 tags: [hail_columbia, черта-группы-интересов]

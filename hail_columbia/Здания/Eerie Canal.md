@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Eerie Canal» — Hail Columbia 1.13, `building_usfp_eerie_canal`"
 project: vic3
+audience: agent
 source: hail_columbia
 aliases: ["Eerie Canal", "building_usfp_eerie_canal"]
 tags: [hail_columbia, здание]

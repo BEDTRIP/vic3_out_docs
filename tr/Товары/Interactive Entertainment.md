@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Interactive Entertainment» — T&R 1.13, `interactive_entertainment`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Interactive Entertainment", "interactive_entertainment"]
 tags: [tr, товар]

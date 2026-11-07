@@ -2,6 +2,7 @@
 type: concept
 description: "Группа методов производства «Avret Pazarları» — Gates of Bosphorus 1.13, `pmg_gbbf_avret_pazarlari`"
 project: vic3
+audience: agent
 source: gates_of_bosphorus
 aliases: ["Avret Pazarları", "pmg_gbbf_avret_pazarlari"]
 tags: [gates_of_bosphorus, группа-методов]

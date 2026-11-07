@@ -2,6 +2,7 @@
 type: concept
 description: "Здание «Borsa di Napoli» — E&F 1.13, `building_financial_centre_sic`"
 project: vic3
+audience: agent
 source: ef
 aliases: ["Borsa di Napoli", "building_financial_centre_sic"]
 tags: [ef, здание]

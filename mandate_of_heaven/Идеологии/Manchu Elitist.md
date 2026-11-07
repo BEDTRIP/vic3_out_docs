@@ -2,6 +2,7 @@
 type: concept
 description: "Идеология «Manchu Elitist» — Mandate of Heaven 1.13, `ideology_manchu_elitist`"
 project: vic3
+audience: agent
 source: mandate_of_heaven
 aliases: ["Manchu Elitist", "ideology_manchu_elitist"]
 tags: [mandate_of_heaven, идеология]

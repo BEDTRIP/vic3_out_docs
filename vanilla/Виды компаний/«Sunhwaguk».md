@@ -2,6 +2,7 @@
 type: concept
 description: "Вид компании ««Sunhwaguk»» — ваниль 1.13, `company_sunhwaguk`"
 project: vic3
+audience: agent
 source: vanilla
 aliases: ["«Sunhwaguk»", "Sunhwaguk", "company_sunhwaguk"]
 tags: [ваниль, вид-компании]

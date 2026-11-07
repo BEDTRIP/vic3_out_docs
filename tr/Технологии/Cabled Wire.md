@@ -2,6 +2,7 @@
 type: concept
 description: "Технология «Cabled Wire» — T&R 1.13, `cabled_wire`"
 project: vic3
+audience: agent
 source: tr
 aliases: ["Cabled Wire", "cabled_wire"]
 tags: [tr, технология]

@@ -2,6 +2,7 @@
 type: concept
 description: "Товар «Wood Construction» — PSC 1.13, `wood_construction`"
 project: vic3
+audience: agent
 source: psc
 aliases: ["Wood Construction", "wood_construction"]
 tags: [PSC, товар]
