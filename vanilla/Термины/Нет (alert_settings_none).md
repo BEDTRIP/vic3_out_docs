@@ -5,7 +5,7 @@ project: vic3
 source: vanilla
 aliases: ["None", "concept_alert_settings_none"]
 tags: [ваниль, термин]
-generated: "regen_ld_vanilla_concepts.py (tools/ форка); ручной раздел — «## Рабочее»"
+generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 key: concept_alert_settings_none
 ---
 # Нет (alert_settings_none)

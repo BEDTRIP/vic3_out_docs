@@ -1,0 +1,33 @@
+---
+type: concept
+description: "Вид компании ««Bunge y Born»» — ваниль 1.13, `company_bunge_born`"
+project: vic3
+source: vanilla
+aliases: ["«Bunge y Born»", "Bunge & Born", "company_bunge_born"]
+tags: [ваниль, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_bunge_born
+paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
+---
+# «Bunge y Born»
+
+Вид компании · `company_bunge_born` · `common/company_types/00_companies_americas.txt:301`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/historical_company_icons/argentina_bunge_y_born.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds`
+- **flavored_company**: `yes`
+- **building_types**: [[vanilla/Здания/Пшеничные поля|Пшеничные поля]], [[vanilla/Здания/Маисовые поля|Маисовые поля]], [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+- **extension_building_types**: [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
+- **possible_prestige_goods**: `prestige_good_generic_groceries`
+- **prestige_goods_trigger**: скрипт, строки 321–326
+- **potential**: скрипт, строки 328–330
+- **attainable**: скрипт, строки 332–338
+- **possible**: скрипт, строки 340–353
+- **prosperity_modifier**:
+  - `interest_group_ig_rural_folk_pop_attraction_mult` = `0.2`
+  - `building_tooling_workshop_throughput_add` = `0.1` → [[vanilla/Здания/Производства инструментов|Производства инструментов]]
+- **ai_will_do**: скрипт, строки 360–365
+- **ai_construction_targets**: скрипт, строки 367–382
+- **ai_weight**: скрипт, строки 384–386

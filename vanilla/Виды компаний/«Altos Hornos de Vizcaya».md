@@ -1,0 +1,33 @@
+---
+type: concept
+description: "Вид компании ««Altos Hornos de Vizcaya»» — ваниль 1.13, `company_altos_hornos_de_vizcaya`"
+project: vic3
+source: vanilla
+aliases: ["«Altos Hornos de Vizcaya»", "Altos Hornos de Vizcaya", "company_altos_hornos_de_vizcaya"]
+tags: [ваниль, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_altos_hornos_de_vizcaya
+paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
+---
+# «Altos Hornos de Vizcaya»
+
+Вид компании · `company_altos_hornos_de_vizcaya` · `common/company_types/00_companies_europe.txt:1214`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/historical_company_icons/basque_altos_hornos_de_vizcaya.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
+- **flavored_company**: `yes`
+- **preferred_headquarters**: `STATE_BASQUE_COUNTRY`
+- **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]]
+- **extension_building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]]
+- **possible_prestige_goods**: `prestige_good_generic_steel`
+- **prestige_goods_trigger**: скрипт, строки 1235–1240
+- **potential**: скрипт, строки 1242–1244
+- **attainable**: скрипт, строки 1246–1252
+- **possible**: скрипт, строки 1254–1264
+- **prosperity_modifier**:
+  - `state_infrastructure_mult` = `0.1`
+- **ai_will_do**: скрипт, строки 1270–1276
+- **ai_construction_targets**: скрипт, строки 1278–1285
+- **ai_weight**: скрипт, строки 1287–1289

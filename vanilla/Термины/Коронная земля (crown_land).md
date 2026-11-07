@@ -5,7 +5,7 @@ project: vic3
 source: vanilla
 aliases: ["Коронные земли", "Crown Land", "concept_crown_land"]
 tags: [ваниль, термин]
-generated: "regen_ld_vanilla_concepts.py (tools/ форка); ручной раздел — «## Рабочее»"
+generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 key: concept_crown_land
 ---
 # Коронная земля (crown_land)

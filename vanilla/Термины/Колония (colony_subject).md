@@ -5,7 +5,7 @@ project: vic3
 source: vanilla
 aliases: ["Колонии", "Colony", "concept_colony_subject"]
 tags: [ваниль, термин]
-generated: "regen_ld_vanilla_concepts.py (tools/ форка); ручной раздел — «## Рабочее»"
+generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 key: concept_colony_subject
 ---
 # Колония (colony_subject)

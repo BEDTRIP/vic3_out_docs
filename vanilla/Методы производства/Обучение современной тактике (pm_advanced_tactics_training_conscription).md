@@ -1,0 +1,32 @@
+---
+type: concept
+description: "Метод производства «Обучение современной тактике (pm_advanced_tactics_training_conscription)» — ваниль 1.13, `pm_advanced_tactics_training_conscription`"
+project: vic3
+source: vanilla
+aliases: ["Обучение современной тактике (pm_advanced_tactics_training_conscription)", "Обучение современной тактике", "pm_advanced_tactics_training_conscription"]
+tags: [ваниль, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_advanced_tactics_training_conscription
+paths: [.vanillaVIC3/common/production_methods/05_military.txt]
+---
+# Обучение современной тактике (pm_advanced_tactics_training_conscription)
+
+Метод производства · `pm_advanced_tactics_training_conscription` · `common/production_methods/05_military.txt:210`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/squad_infantry.dds`
+- **profession_ratio**:
+  - [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]] = `90`
+  - [[vanilla/Население/Типы/Офицеры|Офицеры]] = `10`
+- **unlocking_technologies**: [[vanilla/Технологии/Военная статистика|Военная статистика]]
+- **disallowing_laws**: [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]], [[vanilla/Законы/Воинская каста|Воинская каста]]
+- **building_modifiers**:
+  - **unscaled**:
+    - `building_training_rate_add` = `50`
+  - **level_scaled**:
+    - `building_training_rate_add` = `21`
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[vanilla/Группы методов/Подготовка (pmg_training_conscription)|Подготовка (pmg_training_conscription)]]

@@ -1,0 +1,27 @@
+---
+type: concept
+description: "Метод производства «Основа (pm_basic_army_logistics_center)» — ваниль 1.13, `pm_basic_army_logistics_center`"
+project: vic3
+source: vanilla
+aliases: ["Основа (pm_basic_army_logistics_center)", "Основа", "pm_basic_army_logistics_center"]
+tags: [ваниль, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_basic_army_logistics_center
+paths: [.vanillaVIC3/common/production_methods/05_military.txt]
+---
+# Основа (pm_basic_army_logistics_center)
+
+Метод производства · `pm_basic_army_logistics_center` · `common/production_methods/05_military.txt:555`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/logistics_center.dds`
+- **building_modifiers**:
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `60` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_bureaucrats_add` = `30` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
+    - `building_employment_officers_add` = `10` → [[vanilla/Население/Типы/Офицеры|Офицеры]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[vanilla/Группы методов/Склад снабжения армии|Склад снабжения армии]]

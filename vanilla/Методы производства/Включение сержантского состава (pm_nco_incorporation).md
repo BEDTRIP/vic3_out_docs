@@ -1,0 +1,32 @@
+---
+type: concept
+description: "Метод производства «Включение сержантского состава (pm_nco_incorporation)» — ваниль 1.13, `pm_nco_incorporation`"
+project: vic3
+source: vanilla
+aliases: ["Включение сержантского состава (pm_nco_incorporation)", "NCO Incorporation", "pm_nco_incorporation"]
+tags: [ваниль, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_nco_incorporation
+paths: [.vanillaVIC3/common/production_methods/05_military.txt]
+---
+# Включение сержантского состава (pm_nco_incorporation)
+
+Метод производства · `pm_nco_incorporation` · `common/production_methods/05_military.txt:96`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/nco_incorporation.dds`
+- **profession_ratio**:
+  - [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]] = `80`
+  - [[vanilla/Население/Типы/Офицеры|Офицеры]] = `20`
+- **disallowing_laws**: [[vanilla/Законы/Воинская каста|Воинская каста]]
+- **unlocking_technologies**: [[vanilla/Технологии/Подготовка сержантского состава|Подготовка сержантского состава]]
+- **building_modifiers**:
+  - **unscaled**:
+    - `building_training_rate_add` = `50`
+  - **level_scaled**:
+    - `building_training_rate_add` = `22`
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[vanilla/Группы методов/Подготовка (pmg_training)|Подготовка (pmg_training)]]

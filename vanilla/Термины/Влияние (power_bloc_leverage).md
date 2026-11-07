@@ -5,7 +5,7 @@ project: vic3
 source: vanilla
 aliases: ["Отставание во влиянии", "Отставание", "Leverage", "concept_power_bloc_leverage"]
 tags: [ваниль, термин]
-generated: "regen_ld_vanilla_concepts.py (tools/ форка); ручной раздел — «## Рабочее»"
+generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 key: concept_power_bloc_leverage
 ---
 # Влияние (power_bloc_leverage)

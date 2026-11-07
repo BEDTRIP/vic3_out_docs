@@ -1,0 +1,9 @@
+# Генерат графа источников: v3 graph (решения узла Д.ДОК.26–28, Д.ДОК.33). Снимок — vic3_mods_out (папка выше).
+version = "1.13"
+paths_root = ".."
+# имена генерата не должны повторять заметки форка и узла (одно хранилище Obsidian)
+avoid = ["../../Economic-and-Financial-Ledgerdemain-Mod/docs/понятия", "../../docs"]
+
+[sources.vanilla]
+snapshot = "../.vanillaVIC3"
+label = "ваниль"
