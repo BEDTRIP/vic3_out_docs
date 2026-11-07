@@ -1,0 +1,25 @@
+---
+type: concept
+description: "Пакет покупок «wealth_34» — E&F 1.13, `wealth_34`"
+project: vic3
+source: ef
+aliases: ["wealth_34"]
+tags: [ef, пакет-покупок]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: wealth_34
+paths: [E&F/common/buy_packages/00_ef_buy_packages.txt]
+replaces: "[[vanilla/Население/Пакеты покупок/wealth_34]]"
+---
+# wealth_34
+
+Пакет покупок · `wealth_34` · `common/buy_packages/00_ef_buy_packages.txt:35` · дополняет запись ваниль (`INJECT:`)
+
+## Отличия от ваниль
+
+- **goods**: вставка в блок
+
+## Поля
+
+- **goods**:
+  - [[ef/Население/Потребности/Loans|Loans]] = `72`
+  - [[ef/Население/Потребности/Financial Product|Financial Product]] = `789`

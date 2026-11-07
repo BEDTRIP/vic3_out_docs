@@ -1,0 +1,34 @@
+---
+type: concept
+description: "Метод производства «Robotic Assembly Lines (pm_robotic_building_robotics_industry)» — T&R 1.13, `pm_robotic_building_robotics_industry`"
+project: vic3
+source: tr
+aliases: ["Robotic Assembly Lines (pm_robotic_building_robotics_industry)", "Robotic Assembly Lines", "pm_robotic_building_robotics_industry"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_robotic_building_robotics_industry
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+---
+# Robotic Assembly Lines (pm_robotic_building_robotics_industry)
+
+Метод производства · `pm_robotic_building_robotics_industry` · `common/production_methods/ztr_new_production_methods.txt:1856`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_mechatronics_assembly_lines.dds`
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_generation_add` = `5`
+- **unlocking_technologies**: [[tr/Технологии/Automated Industrial Robots|Automated Industrial Robots]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_processors_add` = `2` → [[tr/Товары/Processors|Processors]]
+    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_input_lubricant_add` = `2` → [[tr/Товары/Lubricants|Lubricants]]
+  - **level_scaled**:
+    - `building_employment_machinists_add` = `-1250` → [[vanilla/Население/Типы/Механики|Механики]]
+- **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Automation (pmg_automation_building_robotics_industry)|Automation (pmg_automation_building_robotics_industry)]]

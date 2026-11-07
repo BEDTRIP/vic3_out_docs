@@ -1,0 +1,24 @@
+---
+type: concept
+description: "Пакет покупок «wealth_16» — Morgenröte 1.13, `wealth_16`"
+project: vic3
+source: morgenrote
+aliases: ["wealth_16"]
+tags: [Morgenröte, пакет-покупок]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: wealth_16
+paths: [Morgenrote/common/buy_packages/mr_buy_packages.txt]
+replaces: "[[vanilla/Население/Пакеты покупок/wealth_16]]"
+---
+# wealth_16
+
+Пакет покупок · `wealth_16` · `common/buy_packages/mr_buy_packages.txt:37`
+
+## Отличия от ваниль
+
+- **goods**: вставка в блок
+
+## Поля
+
+- **goods**:
+  - [[morgenrote/Население/Потребности/Развлечения|Развлечения]] = `26`

@@ -1,0 +1,39 @@
+---
+type: concept
+description: "Вид компании «Melli Iran Bank» — E&F 1.13, `company_BankMelliIran`"
+project: vic3
+source: ef
+aliases: ["Melli Iran Bank", "company_BankMelliIran"]
+tags: [ef, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_BankMelliIran
+paths: [E&F/common/company_types/00_ef_companies.txt]
+---
+# Melli Iran Bank
+
+Вид компании · `company_BankMelliIran` · `common/company_types/00_ef_companies.txt:3666`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/bank/bank_melli_iran.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **flavored_company**: `yes`
+- **preferred_headquarters**: `STATE_IRAKAJEMI`
+- **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]], [[ef/Здания/Железные дороги|Железные дороги]], [[ef/Здания/Торговые центры|Торговые центры]], [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Financial Centre|Financial Centre]]
+- **potential**: скрипт, строки 3685–3687
+- **possible**: скрипт, строки 3689–3697
+- **attainable**: скрипт, строки 3699–3705
+- **prosperity_modifier**:
+  - `building_cash_reserves_mult` = `0.05`
+  - `country_loan_interest_rate_mult` = `-0.05`
+  - `country_private_construction_allocation_mult` = `0.05`
+  - `state_farmers_investment_pool_contribution_add` = `0.015`
+  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
+  - `state_clergymen_investment_pool_contribution_add` = `0.04`
+  - `state_aristocrats_investment_pool_contribution_add` = `0.04`
+  - `state_capitalists_investment_pool_contribution_add` = `0.065`
+  - `building_nationalization_investment_return_add` = `0.05`
+  - `country_government_dividends_reinvestment_add` = `0.075`
+  - `country_government_dividends_efficiency_add` = `0.075`
+  - `country_max_companies_add` = `1`
+- **ai_will_do**: скрипт, строки 3726–3728

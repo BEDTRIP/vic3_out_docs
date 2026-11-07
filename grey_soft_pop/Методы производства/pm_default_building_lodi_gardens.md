@@ -1,0 +1,28 @@
+---
+type: concept
+description: "Метод производства «pm_default_building_lodi_gardens» — grey soft pop 1.13, `pm_default_building_lodi_gardens`"
+project: vic3
+source: grey_soft_pop
+aliases: ["pm_default_building_lodi_gardens"]
+tags: [grey_soft_pop, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_default_building_lodi_gardens
+paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SPA_compat_balancing.txt]
+---
+# pm_default_building_lodi_gardens
+
+Метод производства · `pm_default_building_lodi_gardens` · `common/production_methods/yMoG_SPA_compat_balancing.txt:2241`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_reduction_health_mult` = `-0.15`
+    - `state_pollution_generation_add` = `-200`
+  - **unscaled**:
+    - `state_migration_pull_mult` = `0.1`
+- **building_modifiers**:
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `1000` → [[grey_soft_pop/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_clerks_add` = `500` → [[grey_soft_pop/Население/Типы/Служащие|Служащие]]

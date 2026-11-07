@@ -1,0 +1,33 @@
+---
+type: concept
+description: "Черта персонажа «Absolutist Ruler» — Gates of Bosphorus 1.13, `gbbf_trait_absolutist_ruler`"
+project: vic3
+source: gates_of_bosphorus
+aliases: ["Absolutist Ruler", "gbbf_trait_absolutist_ruler"]
+tags: [gates_of_bosphorus, черта]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: gbbf_trait_absolutist_ruler
+paths: [for addon/gatesofbosphorus/common/character_traits/gbbf_personality_traits.txt]
+---
+# Absolutist Ruler
+
+Черта персонажа · `gbbf_trait_absolutist_ruler` · `common/character_traits/gbbf_personality_traits.txt:1`
+
+## Поля
+
+- **type**: `personality`
+- **texture**: `gfx/interface/icons/character_trait_icons/imperious.dds`
+- **value**: `2`
+- **character_modifier**:
+  - `character_popularity_add` = `25`
+- **country_modifier**:
+  - `country_authority_mult` = `0.10`
+  - `country_prestige_mult` = `0.05`
+- **command_modifier**:
+  - `character_command_limit_mult` = `0.25`
+- **interest_group_modifier**:
+  - `interest_group_pol_str_mult` = `0.05`
+  - `interest_group_pop_attraction_mult` = `0.05`
+- **possible**: скрипт, строки 21–23
+- **weight**:
+  - `value` = `0`

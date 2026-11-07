@@ -1,0 +1,40 @@
+---
+type: concept
+description: "Вид компании «Banco do Brasil» — E&F 1.13, `company_BancoDoBrasil`"
+project: vic3
+source: ef
+aliases: ["Banco do Brasil", "company_BancoDoBrasil"]
+tags: [ef, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_BancoDoBrasil
+paths: [E&F/common/company_types/00_ef_companies.txt]
+---
+# Banco do Brasil
+
+Вид компании · `company_BancoDoBrasil` · `common/company_types/00_ef_companies.txt:5578`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/bank/banco_do_brasil.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **flavored_company**: `yes`
+- **replaces_company**: `company_Bank_of_Brazil`
+- **preferred_headquarters**: `STATE_RIO_DE_JANEIRO`
+- **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]], [[ef/Здания/Железные дороги|Железные дороги]], [[ef/Здания/Торговые центры|Торговые центры]], [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Brasil Bolsa Balcão|Brasil Bolsa Balcão]]
+- **potential**: скрипт, строки 5598–5600
+- **possible**: скрипт, строки 5602–5610
+- **attainable**: скрипт, строки 5612–5618
+- **prosperity_modifier**:
+  - `building_cash_reserves_mult` = `0.05`
+  - `country_loan_interest_rate_mult` = `-0.05`
+  - `country_private_construction_allocation_mult` = `0.05`
+  - `state_farmers_investment_pool_contribution_add` = `0.015`
+  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
+  - `state_clergymen_investment_pool_contribution_add` = `0.04`
+  - `state_aristocrats_investment_pool_contribution_add` = `0.04`
+  - `state_capitalists_investment_pool_contribution_add` = `0.065`
+  - `building_nationalization_investment_return_add` = `0.05`
+  - `country_government_dividends_reinvestment_add` = `0.075`
+  - `country_government_dividends_efficiency_add` = `0.075`
+  - `country_max_companies_add` = `1`
+- **ai_will_do**: скрипт, строки 5639–5641

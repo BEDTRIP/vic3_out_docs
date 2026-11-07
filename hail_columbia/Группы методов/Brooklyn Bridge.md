@@ -1,0 +1,25 @@
+---
+type: concept
+description: "Группа методов производства «Brooklyn Bridge» — Hail Columbia 1.13, `usfp_pmg_base_brooklyn_bridge`"
+project: vic3
+source: hail_columbia
+aliases: ["Brooklyn Bridge", "usfp_pmg_base_brooklyn_bridge"]
+tags: [hail_columbia, группа-методов]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: usfp_pmg_base_brooklyn_bridge
+paths: [for addon/Hail Columbia/common/production_method_groups/usfp_production_method_groups.txt]
+---
+# Brooklyn Bridge
+
+Группа методов производства · `usfp_pmg_base_brooklyn_bridge` · `common/production_method_groups/usfp_production_method_groups.txt:41`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/generic_icons/mixed_icon_base.dds`
+- **ai_selection**: `most_productive`
+- **is_hidden_when_unavailable**: `yes`
+- **production_methods**: [[hail_columbia/Методы производства/Cable Cars|Cable Cars]], [[hail_columbia/Методы производства/Automobiles|Automobiles]], [[vanilla/Методы производства/Престиж (pm_monument_prestige_only)|Престиж (pm_monument_prestige_only)]], [[vanilla/Методы производства/Нет эффекта (pm_monument_no_effects)|Нет эффекта (pm_monument_no_effects)]]
+
+## Ссылаются
+
+- **Здания** (группы методов здания): [[hail_columbia/Здания/Brooklyn Bridge|Brooklyn Bridge]]

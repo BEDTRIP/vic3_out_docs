@@ -1,0 +1,50 @@
+---
+type: concept
+description: "Идеология «Движение Laissez-faire» — BPM 1.13, `ideology_eco_market_liberal_mov`"
+project: vic3
+source: bpm
+aliases: ["Движение Laissez-faire", "Laissez-Faire Movement", "ideology_eco_market_liberal_mov"]
+tags: [BPM, идеология]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: ideology_eco_market_liberal_mov
+paths: [BPM/common/ideologies/bpm_eco_mov_ideologies.txt]
+---
+# Движение Laissez-faire
+
+Идеология · `ideology_eco_market_liberal_mov` · `common/ideologies/bpm_eco_mov_ideologies.txt:185`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/ideology_icons/eco_ideology/laissez_faire.dds`
+- **lawgroup_economic_system**:
+  - [[bpm/Законы/Традиционализм|Традиционализм]] = `strongly_disapprove`
+  - [[bpm/Законы/Интервенционизм|Интервенционизм]] = `neutral`
+  - [[bpm/Законы/Аграрность|Аграрность]] = `disapprove`
+  - [[bpm/Законы/Запрет промышленности|Запрет промышленности]] = `strongly_disapprove`
+  - [[bpm/Законы/Свободная конкуренция|Свободная конкуренция]] = `approve`
+  - [[bpm/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
+  - [[bpm/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
+  - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `strongly_disapprove`
+- **lawgroup_trade_policy**:
+  - [[vanilla/Законы/Свободная торговля|Свободная торговля]] = `approve`
+  - [[vanilla/Законы/Протекционизм|Протекционизм]] = `neutral`
+  - [[bpm/Законы/Изоляционизм|Изоляционизм]] = `strongly_disapprove`
+  - [[vanilla/Законы/Меркантилизм|Меркантилизм]] = `disapprove`
+- **lawgroup_land_reform**:
+  - [[bpm/Законы/Крепостное право|Крепостное право]] = `strongly_disapprove`
+  - [[bpm/Законы/Арендаторы|Арендаторы]] = `disapprove`
+  - [[bpm/Законы/Крестьянское хозяйство|Крестьянское хозяйство]] = `neutral`
+  - [[bpm/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]] = `approve`
+  - [[bpm/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `strongly_disapprove`
+- **lawgroup_taxation**:
+  - [[vanilla/Законы/Потребительское налогообложение|Потребительское налогообложение]] = `neutral`
+  - [[bpm/Законы/Крестьянский налог|Крестьянский налог]] = `disapprove`
+  - [[vanilla/Законы/Налог на душу населения|Налог на душу населения]] = `approve`
+  - [[vanilla/Законы/Пропорциональный налог|Пропорциональный налог]] = `disapprove`
+  - [[vanilla/Законы/Прогрессивный налог|Прогрессивный налог]] = `strongly_disapprove`
+- **lawgroup_slavery**:
+  - [[bpm/Законы/Запрет рабства|Запрет рабства]] = `neutral`
+  - [[bpm/Законы/Долговое рабство|Долговое рабство]] = `neutral`
+  - [[bpm/Законы/Работорговля|Работорговля]] = `strongly_disapprove`
+  - [[bpm/Законы/Унаследованное рабство|Унаследованное рабство]] = `disapprove`
+  - [[vanilla/Законы/Колониальное рабство|Колониальное рабство]] = `disapprove`

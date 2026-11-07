@@ -1,0 +1,33 @@
+---
+type: concept
+description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)» — grey food 1.13, `pm_refrigerated_storage_building_fishing_wharf`"
+project: vic3
+source: grey_food
+aliases: ["Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)", "Refrigerated Storage", "pm_refrigerated_storage_building_fishing_wharf"]
+tags: [grey_food, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_refrigerated_storage_building_fishing_wharf
+paths: [grey_add_alot_of_things/grey_food/common/production_methods/mog_ztrains_food_inputs.txt]
+replaces: "[[vanilla/Методы производства/Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)]]"
+---
+# Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)
+
+Метод производства · `pm_refrigerated_storage_building_fishing_wharf` · `common/production_methods/mog_ztrains_food_inputs.txt:67`
+
+## Отличия от ваниль
+
+- **state_modifiers**: добавлено
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/refrigerated_storage.dds`
+- **unlocking_technologies**: [[vanilla/Технологии/Пастеризация|Пастеризация]]
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `building_food_industry_throughput_add` = `0.01` → [[grey_food/Здания/Пищевые производства|Пищевые производства]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_electricity_add` = `5` → [[vanilla/Товары/Электричество|Электричество]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+- **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]

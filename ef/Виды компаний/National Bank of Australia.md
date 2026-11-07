@@ -1,0 +1,39 @@
+---
+type: concept
+description: "Вид компании «National Bank of Australia» — E&F 1.13, `company_NationalBankOfAustralia`"
+project: vic3
+source: ef
+aliases: ["National Bank of Australia", "company_NationalBankOfAustralia"]
+tags: [ef, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_NationalBankOfAustralia
+paths: [E&F/common/company_types/00_ef_companies.txt]
+---
+# National Bank of Australia
+
+Вид компании · `company_NationalBankOfAustralia` · `common/company_types/00_ef_companies.txt:4992`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/bank/national_bank_of_australia.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **flavored_company**: `yes`
+- **preferred_headquarters**: `STATE_NEW_SOUTH_WALES`
+- **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]], [[ef/Здания/Железные дороги|Железные дороги]], [[ef/Здания/Торговые центры|Торговые центры]], [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Australian Securities Exchange|Australian Securities Exchange]]
+- **potential**: скрипт, строки 5011–5013
+- **possible**: скрипт, строки 5015–5023
+- **attainable**: скрипт, строки 5025–5031
+- **prosperity_modifier**:
+  - `building_cash_reserves_mult` = `0.05`
+  - `country_loan_interest_rate_mult` = `-0.05`
+  - `country_private_construction_allocation_mult` = `0.05`
+  - `state_farmers_investment_pool_contribution_add` = `0.015`
+  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
+  - `state_clergymen_investment_pool_contribution_add` = `0.04`
+  - `state_aristocrats_investment_pool_contribution_add` = `0.04`
+  - `state_capitalists_investment_pool_contribution_add` = `0.065`
+  - `building_nationalization_investment_return_add` = `0.05`
+  - `country_government_dividends_reinvestment_add` = `0.075`
+  - `country_government_dividends_efficiency_add` = `0.075`
+  - `country_max_companies_add` = `1`
+- **ai_will_do**: скрипт, строки 5052–5054

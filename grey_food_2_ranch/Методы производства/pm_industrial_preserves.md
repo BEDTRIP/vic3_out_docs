@@ -1,0 +1,35 @@
+---
+type: concept
+description: "Метод производства «pm_industrial_preserves» — grey food 2 ranch 1.13, `pm_industrial_preserves`"
+project: vic3
+source: grey_food_2_ranch
+aliases: ["pm_industrial_preserves"]
+tags: [grey_food_2_ranch, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_industrial_preserves
+paths: [grey_add_alot_of_things/grey_food_2_ranch/common/production_methods/mog_4_cheese_pms.txt]
+---
+# pm_industrial_preserves
+
+Метод производства · `pm_industrial_preserves` · `common/production_methods/mog_4_cheese_pms.txt:23`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/cheese_extra.dds`
+- **unlocking_technologies**: [[vanilla/Технологии/Консервные заводы|Консервные заводы]]
+- **unlocking_production_methods**: [[grey_food_2_ranch/Методы производства/Скотобойни|Скотобойни]], [[grey_food_2_ranch/Методы производства/Механизированные скотобойни|Механизированные скотобойни]], [[grey_food_2_ranch/Методы производства/pm_refrigerated_workspaces|pm_refrigerated_workspaces]]
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `building_food_industry_throughput_add` = `0.005` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_paper_add` = `4` → [[vanilla/Товары/Бумага|Бумага]]
+    - `goods_output_meat_add` = `-15` → [[vanilla/Товары/Мясо|Мясо]]
+    - `goods_output_groceries_add` = `20` → [[vanilla/Товары/Продукты|Продукты]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `-200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_machinists_add` = `100` → [[vanilla/Население/Типы/Механики|Механики]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[grey_food_2_ranch/Группы методов/pmg_dairy_products|pmg_dairy_products]]

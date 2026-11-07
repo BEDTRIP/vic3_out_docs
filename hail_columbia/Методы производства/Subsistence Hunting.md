@@ -1,0 +1,31 @@
+---
+type: concept
+description: "Метод производства «Subsistence Hunting» — Hail Columbia 1.13, `usfp_pm_subsistence_hunting`"
+project: vic3
+source: hail_columbia
+aliases: ["Subsistence Hunting", "usfp_pm_subsistence_hunting"]
+tags: [hail_columbia, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: usfp_pm_subsistence_hunting
+paths: [for addon/Hail Columbia/common/production_methods/usfp_production_methods.txt]
+---
+# Subsistence Hunting
+
+Метод производства · `usfp_pm_subsistence_hunting` · `common/production_methods/usfp_production_methods.txt:72`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_bow_and_arrow.dds`
+- **unlocking_laws**: [[hail_columbia/Законы/Land Stewardship|Land Stewardship]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_output_silk_add` = `1` → [[vanilla/Товары/Шёлк|Шёлк]]
+    - `goods_output_fabric_add` = `1` → [[vanilla/Товары/Ткань|Ткань]]
+    - `goods_output_meat_add` = `1` → [[vanilla/Товары/Мясо|Мясо]]
+    - `building_subsistence_output_add` = `4`
+  - **level_scaled**:
+    - `building_employment_soldiers_add` = `100` → [[vanilla/Население/Типы/Военнослужащие|Военнослужащие]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[hail_columbia/Группы методов/Pelt Hunting|Pelt Hunting]]

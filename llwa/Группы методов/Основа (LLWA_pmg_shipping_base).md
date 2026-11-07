@@ -1,0 +1,24 @@
+---
+type: concept
+description: "Группа методов производства «Основа (LLWA_pmg_shipping_base)» — LLWA 1.13, `LLWA_pmg_shipping_base`"
+project: vic3
+source: llwa
+aliases: ["Основа (LLWA_pmg_shipping_base)", "Основа", "LLWA_pmg_shipping_base"]
+tags: [LLWA, группа-методов]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: LLWA_pmg_shipping_base
+paths: [llwa/common/production_method_groups/LLWA_pmgs.txt]
+---
+# Основа (LLWA_pmg_shipping_base)
+
+Группа методов производства · `LLWA_pmg_shipping_base` · `common/production_method_groups/LLWA_pmgs.txt:78`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/generic_icons/mixed_icon_base.dds`
+- **ai_selection**: `most_productive`
+- **production_methods**: [[llwa/Методы производства/Spot Shipping|Spot Shipping]], [[llwa/Методы производства/Transport Lines|Transport Lines]], [[llwa/Методы производства/Logistics Corporations|Logistics Corporations]]
+
+## Ссылаются
+
+- **Здания** (группы методов здания): [[llwa/Здания/Shipping Lines|Shipping Lines]]

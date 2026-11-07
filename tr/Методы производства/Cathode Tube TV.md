@@ -1,0 +1,33 @@
+---
+type: concept
+description: "Метод производства «Cathode Tube TV» — T&R 1.13, `pm_cathode_tube_televisions`"
+project: vic3
+source: tr
+aliases: ["Cathode Tube TV", "pm_cathode_tube_televisions"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_cathode_tube_televisions
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+---
+# Cathode Tube TV
+
+Метод производства · `pm_cathode_tube_televisions` · `common/production_methods/ztr_new_production_methods.txt:6212`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_cathode_tube_televisions.dds`
+- **unlocking_technologies**: [[tr/Технологии/Cathode Tube|Cathode Tube]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_glass_add` = `5` → [[vanilla/Товары/Стекло|Стекло]]
+    - `goods_input_manzoni_prints_add` = `20` → [[tr/Товары/Media Content|Media Content]]
+    - `goods_input_plastics_add` = `15` → [[tr/Товары/Пластмассы|Пластмассы]]
+    - `goods_input_telecommunications_add` = `20` → [[tr/Товары/Telecommunications|Telecommunications]]
+    - `goods_output_homeappliances_add` = `-15` → [[tr/Товары/Home Appliances|Home Appliances]]
+    - `goods_output_televisions_add` = `40` → [[tr/Товары/Televisions|Televisions]]
+  - **level_scaled**:
+    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Television Category|Television Category]]

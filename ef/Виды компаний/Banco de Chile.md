@@ -1,0 +1,39 @@
+---
+type: concept
+description: "Вид компании «Banco de Chile» — E&F 1.13, `company_BancoDeChile`"
+project: vic3
+source: ef
+aliases: ["Banco de Chile", "company_BancoDeChile"]
+tags: [ef, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_BancoDeChile
+paths: [E&F/common/company_types/00_ef_companies.txt]
+---
+# Banco de Chile
+
+Вид компании · `company_BancoDeChile` · `common/company_types/00_ef_companies.txt:5967`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/bank/banco_de_chile.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **flavored_company**: `yes`
+- **preferred_headquarters**: `STATE_SANTIAGO`
+- **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]], [[ef/Здания/Железные дороги|Железные дороги]], [[ef/Здания/Торговые центры|Торговые центры]], [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Bolsa de Comercio de Santiago|Bolsa de Comercio de Santiago]]
+- **potential**: скрипт, строки 5986–5988
+- **possible**: скрипт, строки 5990–5998
+- **attainable**: скрипт, строки 6000–6006
+- **prosperity_modifier**:
+  - `building_cash_reserves_mult` = `0.05`
+  - `country_loan_interest_rate_mult` = `-0.05`
+  - `country_private_construction_allocation_mult` = `0.05`
+  - `state_farmers_investment_pool_contribution_add` = `0.015`
+  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
+  - `state_clergymen_investment_pool_contribution_add` = `0.04`
+  - `state_aristocrats_investment_pool_contribution_add` = `0.04`
+  - `state_capitalists_investment_pool_contribution_add` = `0.065`
+  - `building_nationalization_investment_return_add` = `0.05`
+  - `country_government_dividends_reinvestment_add` = `0.075`
+  - `country_government_dividends_efficiency_add` = `0.075`
+  - `country_max_companies_add` = `1`
+- **ai_will_do**: скрипт, строки 6027–6029

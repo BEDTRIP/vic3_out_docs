@@ -1,0 +1,23 @@
+---
+type: concept
+description: "Черта группы интересов «Sea Power Doctrine» — VC 1.13, `ig_trait_sea_power`"
+project: vic3
+source: vc
+aliases: ["Sea Power Doctrine", "ig_trait_sea_power"]
+tags: [VC, черта-группы-интересов]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: ig_trait_sea_power
+paths: [VC/common/interest_group_traits/joi_group_traits.txt]
+---
+# Sea Power Doctrine
+
+Черта группы интересов · `ig_trait_sea_power` · `common/interest_group_traits/joi_group_traits.txt:780`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/ig_trait_icons/veteran_consultation.dds`
+- **min_approval**: `happy`
+- **modifier**:
+  - `country_military_tech_research_speed_mult` = `0.1`
+  - `ship_crew_damage_mult` = `0.05`
+  - `ship_hull_damage_mult` = `0.05`

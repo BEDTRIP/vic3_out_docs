@@ -1,0 +1,42 @@
+---
+type: concept
+description: "Идеология «Christian Internationalist» — BPM 1.13, `ideology_cit_christian_internationalist`"
+project: vic3
+source: bpm
+aliases: ["Christian Internationalist", "ideology_cit_christian_internationalist"]
+tags: [BPM, идеология]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: ideology_cit_christian_internationalist
+paths: [BPM/common/ideologies/bpm_cit_ig_ideologies.txt]
+---
+# Christian Internationalist
+
+Идеология · `ideology_cit_christian_internationalist` · `common/ideologies/bpm_cit_ig_ideologies.txt:358`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/ideology_icons/cit_ideology/christian_internationalist.dds`
+- **priority**: `1000`
+- **lawgroup_citizenship**:
+  - [[vanilla/Законы/Подданство|Подданство]] = `strongly_disapprove`
+  - [[vanilla/Законы/Этническое государство|Этническое государство]] = `strongly_disapprove`
+  - [[vanilla/Законы/Национальное превосходство|Национальное превосходство]] = `disapprove`
+  - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `disapprove`
+  - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `approve`
+  - [[bpm/Законы/Космополитизм|Космополитизм]] = `strongly_approve`
+- **lawgroup_migration**:
+  - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `approve`
+  - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `neutral`
+  - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `disapprove`
+- **lawgroup_repeatable_culture**:
+  - [[bpm/Законы/Пригласить иностранных специалистов|Пригласить иностранных специалистов]] = `strongly_approve`
+  - [[bpm/Законы/Продвижение демократических ценностей|Продвижение демократических ценностей]] = `strongly_approve`
+  - [[bpm/Законы/Продвижение социалистических ценностей|Продвижение социалистических ценностей]] = `disapprove`
+  - [[bpm/Законы/Продвижение патриотических ценностей|Продвижение патриотических ценностей]] = `approve`
+  - [[bpm/Законы/Продвижение абсолютистских ценностей|Продвижение абсолютистских ценностей]] = `strongly_disapprove`
+  - [[bpm/Законы/Продвижение ультранационалистических ценностей|Продвижение ультранационалистических ценностей]] = `strongly_disapprove`
+- **lawgroup_caste_hegemony**:
+  - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_disapprove`
+  - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `strongly_disapprove`
+  - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `disapprove`
+  - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `strongly_approve`

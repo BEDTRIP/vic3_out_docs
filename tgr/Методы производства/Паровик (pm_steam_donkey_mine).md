@@ -1,0 +1,34 @@
+---
+type: concept
+description: "Метод производства «Паровик (pm_steam_donkey_mine)» — TGR 1.13, `pm_steam_donkey_mine`"
+project: vic3
+source: tgr
+aliases: ["Паровик (pm_steam_donkey_mine)", "Steam Donkey", "pm_steam_donkey_mine"]
+tags: [TGR, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_steam_donkey_mine
+paths: [TheGreatRevision/common/production_methods/TGR_TRADE_automation.txt]
+replaces: "[[vanilla/Методы производства/Паровик (pm_steam_donkey_mine)]]"
+---
+# Паровик (pm_steam_donkey_mine)
+
+Метод производства · `pm_steam_donkey_mine` · `common/production_methods/TGR_TRADE_automation.txt:32`
+
+## Отличия от ваниль
+
+- **building_modifiers**: изменено
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/steam_donkey.dds`
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_generation_add` = `5`
+- **unlocking_technologies**: [[vanilla/Технологии/Паровик|Паровик]]
+- **disallowing_laws**: [[tgr/Законы/Запрет промышленности|Запрет промышленности]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_engines_add` = `1` → [[tgr/Товары/Двигатели|Двигатели]]
+    - `goods_input_coal_add` = `2` → [[tgr/Товары/Уголь|Уголь]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `-1500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

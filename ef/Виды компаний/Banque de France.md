@@ -1,0 +1,35 @@
+---
+type: concept
+description: "Вид компании «Banque de France» — E&F 1.13, `company_BanqueDeFrance`"
+project: vic3
+source: ef
+aliases: ["Banque de France", "company_BanqueDeFrance"]
+tags: [ef, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_BanqueDeFrance
+paths: [E&F/common/company_types/00_ef_companies.txt]
+---
+# Banque de France
+
+Вид компании · `company_BanqueDeFrance` · `common/company_types/00_ef_companies.txt:2195`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/bank/BankeFrance.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]], [[ef/Здания/Железные дороги|Железные дороги]], [[ef/Здания/Торговые центры|Торговые центры]], [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Bourse de Paris|Bourse de Paris]]
+- **potential**: скрипт, строки 2214–2216
+- **attainable**: скрипт, строки 2218–2224
+- **possible**: скрипт, строки 2226–2235
+- **prosperity_modifier**:
+  - `building_cash_reserves_mult` = `0.15`
+  - `country_private_construction_allocation_mult` = `0.05`
+  - `state_farmers_investment_pool_contribution_add` = `0.015`
+  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
+  - `state_clergymen_investment_pool_contribution_add` = `0.04`
+  - `state_aristocrats_investment_pool_contribution_add` = `0.065`
+  - `state_capitalists_investment_pool_contribution_add` = `0.065`
+  - `building_nationalization_investment_return_add` = `0.05`
+  - `country_government_dividends_reinvestment_add` = `0.05`
+  - `country_government_dividends_efficiency_add` = `0.05`
+  - `country_max_companies_add` = `1`

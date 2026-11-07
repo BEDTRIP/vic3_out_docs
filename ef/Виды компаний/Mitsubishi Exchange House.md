@@ -1,0 +1,40 @@
+---
+type: concept
+description: "Вид компании «Mitsubishi Exchange House» — E&F 1.13, `company_Mitsubishiexchangehousebank`"
+project: vic3
+source: ef
+aliases: ["Mitsubishi Exchange House", "company_Mitsubishiexchangehousebank"]
+tags: [ef, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: company_Mitsubishiexchangehousebank
+paths: [E&F/common/company_types/00_ef_companies.txt]
+---
+# Mitsubishi Exchange House
+
+Вид компании · `company_Mitsubishiexchangehousebank` · `common/company_types/00_ef_companies.txt:4239`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/bank/japanese_mitsubishi.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **flavored_company**: `yes`
+- **replaces_company**: `company_Mitsubishi_exchange_house_bank`
+- **preferred_headquarters**: `STATE_KANTO`
+- **building_types**: [[ef/Здания/Private Construction Sector|Private Construction Sector]], [[ef/Здания/Железные дороги|Железные дороги]], [[ef/Здания/Торговые центры|Торговые центры]], [[ef/Здания/Золотые рудники|Золотые рудники]], [[ef/Здания/Silver Mine|Silver Mine]], [[ef/Здания/Tokyo Stock Exchange|Tokyo Stock Exchange]]
+- **potential**: скрипт, строки 4259–4261
+- **possible**: скрипт, строки 4263–4283
+- **attainable**: скрипт, строки 4285–4291
+- **prosperity_modifier**:
+  - `building_cash_reserves_mult` = `0.05`
+  - `country_loan_interest_rate_mult` = `-0.05`
+  - `country_private_construction_allocation_mult` = `0.05`
+  - `state_farmers_investment_pool_contribution_add` = `0.015`
+  - `state_shopkeepers_investment_pool_contribution_add` = `0.015`
+  - `state_clergymen_investment_pool_contribution_add` = `0.04`
+  - `state_aristocrats_investment_pool_contribution_add` = `0.04`
+  - `state_capitalists_investment_pool_contribution_add` = `0.065`
+  - `building_nationalization_investment_return_add` = `0.05`
+  - `country_government_dividends_reinvestment_add` = `0.075`
+  - `country_government_dividends_efficiency_add` = `0.075`
+  - `country_max_companies_add` = `1`
+- **ai_will_do**: скрипт, строки 4312–4314

@@ -1,0 +1,32 @@
+---
+type: concept
+description: "Метод производства «Перевозка по рельсам (pm_steam_rail_transport)» — TGR 1.13, `pm_steam_rail_transport`"
+project: vic3
+source: tgr
+aliases: ["Перевозка по рельсам (pm_steam_rail_transport)", "Rail Transportation", "pm_steam_rail_transport"]
+tags: [TGR, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_steam_rail_transport
+paths: [TheGreatRevision/common/production_methods/TGR_TRADE_automation.txt]
+replaces: "[[vanilla/Методы производства/Перевозка по рельсам (pm_steam_rail_transport)]]"
+---
+# Перевозка по рельсам (pm_steam_rail_transport)
+
+Метод производства · `pm_steam_rail_transport` · `common/production_methods/TGR_TRADE_automation.txt:85`
+
+## Отличия от ваниль
+
+- **building_modifiers**: изменено
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/rail_transport.dds`
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_generation_add` = `10`
+- **unlocking_technologies**: [[vanilla/Технологии/Железные дороги|Железные дороги]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_transportation_add` = `4` → [[tgr/Товары/Перевозка|Перевозка]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

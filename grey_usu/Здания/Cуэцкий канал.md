@@ -1,0 +1,51 @@
+---
+type: concept
+description: "Здание «Cуэцкий канал» — grey USU 1.13, `building_suez_canal`"
+project: vic3
+source: grey_usu
+aliases: ["Cуэцкий канал", "Suez Canal", "building_suez_canal"]
+tags: [grey_usu, здание]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: building_suez_canal
+paths: [grey_add_alot_of_things/grey_usu/common/buildings/yMoG_USU_canals.txt]
+replaces: "[[vanilla/Здания/Cуэцкий канал]]"
+---
+# Cуэцкий канал
+
+Здание · `building_suez_canal` · `common/buildings/yMoG_USU_canals.txt:1`
+
+## Отличия от ваниль
+
+- **ownership_type**: добавлено
+- **ai_nationalization_desire**: добавлено
+- **ai_value**: `100000` → `50000`
+- **production_method_groups**: изменено
+
+## Поля
+
+- **building_group**: [[grey_usu/Группы зданий/Каналы|Каналы]]
+- **icon**: `gfx/interface/icons/building_icons/suez_canal.dds`
+- **strait**: `canal_suez`
+- **expandable**: `no`
+- **downsizeable**: `no`
+- **unique**: `yes`
+- **required_construction**: `construction_cost_canal`
+- **ownership_type**: `self`
+- **ai_nationalization_desire**: `0.05`
+- **ai_value**: `50000`
+- **unlocking_technologies**: [[vanilla/Технологии/Колонизация|Колонизация]]
+- **potential**: скрипт, строки 19–21
+- **possible**: скрипт, строки 23–34
+- **entity_not_constructed**: пусто
+- **entity_under_construction**: `canal_suezcanal_under_construction_01_entity`
+- **entity_constructed**: `canal_suezcanal_01_entity`
+- **locator**: `canal_suez_locator`
+- **city_gfx_interactions**:
+  - `clear_collision_mesh_area` = `yes`
+  - `clear_size_area` = `no`
+- **production_method_groups**: [[grey_usu/Группы методов/Канал (группа методов производства)|Канал (группа методов производства)]], [[grey_usu/Группы методов/Управление каналом|Управление каналом]], [[grey_usu/Группы методов/Логистика канала|Логистика канала]]
+- **background**: `gfx/interface/icons/building_icons/backgrounds/building_panel_bg_harbour.dds`
+
+## Ссылаются
+
+- **Виды компаний** (здания компании): [[grey_usu/Виды компаний/«Компания Суэцкого канала»|«Компания Суэцкого канала»]], [[grey_usu/Виды компаний/Компания Панамо-Суэцкого канала|Компания Панамо-Суэцкого канала]]

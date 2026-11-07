@@ -1,0 +1,44 @@
+---
+type: concept
+description: "Метод производства «A&R Operations (pm_autonomous_and_remote_ops_building_uranium_mine)» — T&R 1.13, `pm_autonomous_and_remote_ops_building_uranium_mine`"
+project: vic3
+source: tr
+aliases: ["A&R Operations (pm_autonomous_and_remote_ops_building_uranium_mine)", "A&R Operations", "pm_autonomous_and_remote_ops_building_uranium_mine"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_autonomous_and_remote_ops_building_uranium_mine
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+---
+# A&R Operations (pm_autonomous_and_remote_ops_building_uranium_mine)
+
+Метод производства · `pm_autonomous_and_remote_ops_building_uranium_mine` · `common/production_methods/ztr_new_production_methods.txt:2785`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_autonomous_and_remote_ops_mining.dds`
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_generation_add` = `15`
+- **unlocking_technologies**: [[tr/Технологии/Autonomous & Remote Ops Mining|Autonomous & Remote Ops Mining]]
+- **building_modifiers**:
+  - **unscaled**:
+    - `building_laborers_mortality_mult` = `0.1`
+  - **workforce_scaled**:
+    - `goods_input_electricity_add` = `10` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_input_processors_add` = `2` → [[tr/Товары/Processors|Processors]]
+    - `goods_input_robotics_add` = `12` → [[tr/Товары/Robotics|Robotics]]
+    - `goods_input_telecommunications_add` = `10` → [[tr/Товары/Telecommunications|Telecommunications]]
+    - `goods_input_engines_add` = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
+    - `goods_output_good_uranium_add` = `135` → [[tr/Товары/Uranium|Uranium]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `2250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_machinists_add` = `750` → [[vanilla/Население/Типы/Механики|Механики]]
+    - `building_employment_engineers_add` = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+- **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Mining equipment (pmg_curie_mining_equipment_building_uranium_mine)|Mining equipment (pmg_curie_mining_equipment_building_uranium_mine)]]
+- **Методы производства** (unlocking_production_methods): [[tr/Методы производства/HPGR Comminution (pm_hpgr_comminution)|HPGR Comminution (pm_hpgr_comminution)]]

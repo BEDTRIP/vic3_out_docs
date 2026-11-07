@@ -1,0 +1,44 @@
+---
+type: concept
+description: "Метод производства «Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)» — T&R 1.13, `pm_nuclear-fission_plant_3`"
+project: vic3
+source: tr
+aliases: ["Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)", "Nuclear Fission Power Plant", "pm_nuclear-fission_plant_3"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_nuclear-fission_plant_3
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_energy_production_methods.txt]
+---
+# Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)
+
+Метод производства · `pm_nuclear-fission_plant_3` · `common/production_methods/ztr_energy_production_methods.txt:994`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_nuclear_reactor.dds`
+- **is_hidden_when_unavailable**: `yes`
+- **unlocking_technologies**: [[tr/Технологии/Nuclear Reactor|Nuclear Reactor]]
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_generation_add` = `5`
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_batteries_add` = `2` → [[tr/Товары/Batteries|Batteries]]
+    - `goods_input_engines_add` = `6` → [[vanilla/Товары/Двигатели|Двигатели]]
+    - `goods_input_water_add` = `10` → [[tr/Товары/Water|Water]]
+    - `goods_input_copperwires_add` = `2` → [[tr/Товары/Wires|Wires]]
+    - `goods_input_electroniccomponents_add` = `3` → [[tr/Товары/Electronic Components|Electronic Components]]
+    - `goods_input_good_uranium_add` = `20` → [[tr/Товары/Uranium|Uranium]]
+    - `goods_output_electricity_add` = `11` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_output_global_electricity_add` = `115` → [[tr/Товары/National Electricity|National Electricity]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `200` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_machinists_add` = `300` → [[vanilla/Население/Типы/Механики|Механики]]
+    - `building_employment_engineers_add` = `300` → [[tr/Население/Типы/Инженеры|Инженеры]]
+- **unlocking_laws**: [[tr/Законы/Modern National Electricity System|Modern National Electricity System]]
+- **disallowing_laws**: [[tr/Законы/Uranium Ban|Uranium Ban]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Основа (pmg_base_building_power_plant)|Основа (pmg_base_building_power_plant)]]
+- **Методы производства** (unlocking_production_methods): [[tr/Методы производства/Pressurized HDPE Systems (pm_pressurized_systems_power_plant)|Pressurized HDPE Systems (pm_pressurized_systems_power_plant)]], [[tr/Методы производства/Second Generation|Second Generation]], [[tr/Методы производства/Smart Grid Energy Management (pm_smart_grid_energy_management_power_plant)|Smart Grid Energy Management (pm_smart_grid_energy_management_power_plant)]], [[tr/Методы производства/Third Generation|Third Generation]]

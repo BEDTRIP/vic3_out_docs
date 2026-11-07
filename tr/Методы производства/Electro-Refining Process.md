@@ -1,0 +1,39 @@
+---
+type: concept
+description: "Метод производства «Electro-Refining Process» — T&R 1.13, `pm_electro-refining_process`"
+project: vic3
+source: tr
+aliases: ["Electro-Refining Process", "pm_electro-refining_process"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_electro-refining_process
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+---
+# Electro-Refining Process
+
+Метод производства · `pm_electro-refining_process` · `common/production_methods/ztr_new_production_methods.txt:5799`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_electrorefining_process.dds`
+- **state_modifiers**:
+  - **workforce_scaled**:
+    - `state_pollution_generation_add` = `10`
+- **unlocking_technologies**: [[tr/Технологии/Advanced Electric Arc Processes|Advanced Electric Arc Processes]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_bauxite_add` = `40` → [[tr/Товары/Bauxite|Bauxite]]
+    - `goods_input_electricity_add` = `20` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_input_gas_add` = `5` → [[tr/Товары/Natural Gas|Natural Gas]]
+    - `goods_input_advancedores_add` = `5` → [[tr/Товары/Advanced Ores|Advanced Ores]]
+    - `goods_input_electroniccomponents_add` = `5` → [[tr/Товары/Electronic Components|Electronic Components]]
+    - `goods_output_alloys_add` = `-30` → [[tr/Товары/Alloys|Alloys]]
+    - `goods_output_aluminium_add` = `110` → [[tr/Товары/Aluminium|Aluminium]]
+  - **level_scaled**:
+    - `building_employment_engineers_add` = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
+- **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Aluminium Process|Aluminium Process]]
+- **Методы производства** (unlocking_production_methods): [[tr/Методы производства/Advanced Assembly Lines (pm_advanced_assembly_lines_building_commonalloys_plant)|Advanced Assembly Lines (pm_advanced_assembly_lines_building_commonalloys_plant)]], [[tr/Методы производства/Robotic Assembly Lines (pm_robotic_building_commonalloys_plant)|Robotic Assembly Lines (pm_robotic_building_commonalloys_plant)]]

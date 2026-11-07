@@ -1,0 +1,38 @@
+---
+type: concept
+description: "Метод производства «Touch-Tone Telephones» — T&R 1.13, `pm_touch_tone_telephones`"
+project: vic3
+source: tr
+aliases: ["Touch-Tone Telephones", "pm_touch_tone_telephones"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_touch_tone_telephones
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+---
+# Touch-Tone Telephones
+
+Метод производства · `pm_touch_tone_telephones` · `common/production_methods/ztr_new_production_methods.txt:3932`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_touch_tone_telephones.dds`
+- **unlocking_technologies**: [[tr/Технологии/Proto-Digital Devices|Proto-Digital Devices]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_electricity_add` = `20` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_input_tools_add` = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - `goods_input_electroniccomponents_add` = `20` → [[tr/Товары/Electronic Components|Electronic Components]]
+    - `goods_input_lead_add` = `10` → [[vanilla/Товары/Свинец|Свинец]]
+    - `goods_input_telecommunications_add` = `15` → [[tr/Товары/Telecommunications|Telecommunications]]
+    - `goods_input_plastics_add` = `15` → [[tr/Товары/Пластмассы|Пластмассы]]
+    - `goods_output_telephones_add` = `100` → [[vanilla/Товары/Телефоны|Телефоны]]
+  - **level_scaled**:
+    - `building_employment_academics_add` = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
+    - `building_employment_shopkeepers_add` = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
+    - `building_employment_laborers_add` = `2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_machinists_add` = `2250` → [[vanilla/Население/Типы/Механики|Механики]]
+    - `building_employment_engineers_add` = `1000` → [[tr/Население/Типы/Инженеры|Инженеры]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Телефоны|Телефоны]]

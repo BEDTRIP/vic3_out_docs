@@ -1,0 +1,37 @@
+---
+type: concept
+description: "Метод производства «Synthetic Pharmaceuticals» — T&R 1.13, `pm_synthetic_pharmaceuticals`"
+project: vic3
+source: tr
+aliases: ["Synthetic Pharmaceuticals", "pm_synthetic_pharmaceuticals"]
+tags: [tr, метод-производства]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pm_synthetic_pharmaceuticals
+paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+---
+# Synthetic Pharmaceuticals
+
+Метод производства · `pm_synthetic_pharmaceuticals` · `common/production_methods/ztr_new_production_methods.txt:7169`
+
+## Поля
+
+- **texture**: `gfx/interface/icons/production_method_icons/pm_synthetic_pharmaceuticals.dds`
+- **unlocking_technologies**: [[tr/Технологии/Genetic Disease Screening|Genetic Disease Screening]]
+- **building_modifiers**:
+  - **workforce_scaled**:
+    - `goods_input_glass_add` = `25` → [[vanilla/Товары/Стекло|Стекло]]
+    - `goods_input_plastics_add` = `20` → [[tr/Товары/Пластмассы|Пластмассы]]
+    - `goods_input_water_add` = `10` → [[tr/Товары/Water|Water]]
+    - `goods_input_fertilizer_add` = `40` → [[vanilla/Товары/Удобрение|Удобрение]]
+    - `goods_input_electricity_add` = `10` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_output_pharmaceuticals_add` = `135` → [[tr/Товары/Фармацевтика|Фармацевтика]]
+  - **level_scaled**:
+    - `building_employment_laborers_add` = `1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
+    - `building_employment_machinists_add` = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
+    - `building_employment_engineers_add` = `750` → [[tr/Население/Типы/Инженеры|Инженеры]]
+    - `building_employment_academics_add` = `250` → [[vanilla/Население/Типы/Учёные|Учёные]]
+- **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]
+
+## Ссылаются
+
+- **Группы методов** (методы группы): [[tr/Группы методов/Pharmaceuticals|Pharmaceuticals]]

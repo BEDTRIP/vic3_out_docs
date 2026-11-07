@@ -7,3 +7,80 @@ avoid = ["../../Economic-and-Financial-Ledgerdemain-Mod/docs/понятия", ".
 [sources.vanilla]
 snapshot = "../.vanillaVIC3"
 label = "ваниль"
+
+# моды снимка — порядок Д.ДОК.17: E&F, пачка, фреймворки, аддоны, моды grey, TechRes+Kuromi последними
+[sources.ef]
+snapshot = "../E&F"
+label = "E&F"
+[sources.bpm]
+snapshot = "../BPM"
+label = "BPM"
+[sources.mmrpa]
+snapshot = "../MMRPA"
+label = "MMRPA"
+[sources.morgenrote]
+snapshot = "../Morgenrote"
+label = "Morgenröte"
+[sources.pbe]
+snapshot = "../PowerBlocksExpanded"
+label = "PBE"
+[sources.psc]
+snapshot = "../PSC"
+label = "PSC"
+[sources.tgr]
+snapshot = "../TheGreatRevision"
+label = "TGR"
+[sources.tgr_loans]
+snapshot = "../TGR_Loans"
+label = "TGR Loans"
+[sources.vc]
+snapshot = "../VC"
+label = "VC"
+[sources.llwa]
+snapshot = "../llwa"
+label = "LLWA"
+[sources.cmf]
+snapshot = "../_cmf"
+label = "CMF"
+[sources.etf]
+snapshot = "../_etf"
+label = "ETF"
+[sources.hail_columbia]
+snapshot = "../for addon/Hail Columbia"
+label = "Hail Columbia"
+[sources.mandate_of_heaven]
+snapshot = "../for addon/Mandate of Heaven"
+label = "Mandate of Heaven"
+[sources.gates_of_bosphorus]
+snapshot = "../for addon/gatesofbosphorus"
+label = "Gates of Bosphorus"
+[sources.grey_soft_econ]
+snapshot = "../grey_add_alot_of_things/_grey_soft_econ"
+label = "grey soft econ"
+[sources.grey_soft_pop]
+snapshot = "../grey_add_alot_of_things/_grey_soft_pop"
+label = "grey soft pop"
+[sources.grey_deeper_cinosphere]
+snapshot = "../grey_add_alot_of_things/grey_deeper_cinosphere"
+label = "grey deeper sinosphere"
+[sources.grey_diplo]
+snapshot = "../grey_add_alot_of_things/grey_diplo"
+label = "grey diplo"
+[sources.grey_food]
+snapshot = "../grey_add_alot_of_things/grey_food"
+label = "grey food"
+[sources.grey_food_2_ranch]
+snapshot = "../grey_add_alot_of_things/grey_food_2_ranch"
+label = "grey food 2 ranch"
+[sources.grey_subject]
+snapshot = "../grey_add_alot_of_things/grey_subject"
+label = "grey subject"
+[sources.grey_usu]
+snapshot = "../grey_add_alot_of_things/grey_usu"
+label = "grey USU"
+[sources.tr]
+snapshot = "../TechRes+Kuromi/t&r"
+label = "T&R"
+[sources.kai]
+snapshot = "../TechRes+Kuromi/kai"
+label = "KAI"

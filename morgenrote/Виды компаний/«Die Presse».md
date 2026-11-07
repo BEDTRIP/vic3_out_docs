@@ -1,0 +1,34 @@
+---
+type: concept
+description: "Вид компании ««Die Presse»» — Morgenröte 1.13, `pbi_company_die_presse`"
+project: vic3
+source: morgenrote
+aliases: ["«Die Presse»", "Die Presse", "pbi_company_die_presse"]
+tags: [Morgenröte, вид-компании]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: pbi_company_die_presse
+paths: [Morgenrote/common/company_types/mr_manzoni_company_types.txt]
+---
+# «Die Presse»
+
+Вид компании · `pbi_company_die_presse` · `common/company_types/mr_manzoni_company_types.txt:556`
+
+## Поля
+
+- **icon**: `gfx/interface/icons/company_icons/historical_company_icons/pbi_die_presse_logo.dds`
+- **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
+- **flavored_company**: `yes`
+- **preferred_headquarters**: `STATE_AUSTRIA`
+- **building_types**: [[morgenrote/Здания/Издательские предприятия|Издательские предприятия]]
+- **extension_building_types**: [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]], [[vanilla/Здания/Производства инструментов|Производства инструментов]], [[vanilla/Здания/Лесозаготовки|Лесозаготовки]]
+- **possible_prestige_goods**: `prestige_good_generic_prints`
+- **prestige_goods_trigger**: скрипт, строки 578–583
+- **potential**: скрипт, строки 585–589
+- **attainable**: скрипт, строки 591–595
+- **possible**: скрипт, строки 597–607
+- **prosperity_modifier**:
+  - `interest_group_ig_intelligentsia_pop_attraction_mult` = `0.1`
+  - `country_weekly_innovation_mult` = `0.05`
+- **ai_will_do**: скрипт, строки 614–619
+- **ai_construction_targets**: скрипт, строки 621–628
+- **ai_weight**: скрипт, строки 630–632

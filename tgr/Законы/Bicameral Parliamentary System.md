@@ -1,0 +1,38 @@
+---
+type: concept
+description: "Закон «Bicameral Parliamentary System» — TGR 1.13, `law_bicameral_parliamentary_system`"
+project: vic3
+source: tgr
+aliases: ["Bicameral Parliamentary System", "law_bicameral_parliamentary_system"]
+tags: [TGR, закон]
+generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
+key: law_bicameral_parliamentary_system
+paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
+---
+# Bicameral Parliamentary System
+
+Закон · `law_bicameral_parliamentary_system` · `common/laws/TGR_POLITICS_legislative process.txt:156`
+
+## Поля
+
+- **group**: [[tgr/Группы законов/Legislative process|Legislative process]]
+- **icon**: `gfx/interface/icons/law_icons/separated_powers.dds`
+- **progressiveness**: `50`
+- **modifier**:
+  - `country_legitimacy_govt_total_votes_add` = `50`
+  - `country_legitimacy_govt_total_clout_add` = `-50`
+  - `country_law_enactment_speed_mult` = `-0.40`
+  - `country_law_enactment_success_add` = `0.20`
+- **on_enact**: пусто
+- **disallowing_laws**: [[tgr/Законы/Автократия|Автократия]], [[tgr/Законы/Технократия|Технократия]], [[tgr/Законы/Олигархия|Олигархия]], [[tgr/Законы/Анархия|Анархия]], [[tgr/Законы/Однопартийное государство|Однопартийное государство]], [[tgr/Законы/Голосуют землевладельцы|Голосуют землевладельцы]], [[tgr/Законы/Голосуют богатые|Голосуют богатые]]
+- **unlocking_laws**: пусто
+- **unlocking_technologies**: пусто
+- **ai_enact_weight_modifier**: скрипт, строки 193–210
+
+## Ссылаются
+
+- **Идеологии** (lawgroup_legislative_process: approve): [[tgr/Идеологии/Либерализм (ideology_liberal_leader)|Либерализм (ideology_liberal_leader)]], [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]], [[tgr/Идеологии/Пролетарии|Пролетарии]], [[tgr/Идеологии/Республиканство|Республиканство]]
+- **Идеологии** (lawgroup_legislative_process: disapprove): [[tgr/Идеологии/Абсолютизм|Абсолютизм]], [[tgr/Идеологии/Авторитаризм|Авторитаризм]], [[tgr/Идеологии/Позитивист (ideology_positivist)|Позитивист (ideology_positivist)]], [[tgr/Идеологии/Позитивист (ideology_positivist_movement)|Позитивист (ideology_positivist_movement)]], [[tgr/Идеологии/Роялизм|Роялизм]], [[tgr/Идеологии/Теократия|Теократия]], [[tgr/Идеологии/Традиционализм|Традиционализм]], [[tgr/Идеологии/Умеренные взгляды|Умеренные взгляды]]
+- **Идеологии** (lawgroup_legislative_process: neutral): [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]], [[tgr/Идеологии/Нигилизм|Нигилизм]], [[tgr/Идеологии/Реформы|Реформы]]
+- **Идеологии** (lawgroup_legislative_process: strongly_approve): [[tgr/Идеологии/Джексонианский демократ|Джексонианский демократ]], [[tgr/Идеологии/Радикализм (ideology_radical)|Радикализм (ideology_radical)]], [[tgr/Идеологии/Радикализм (ideology_radical_movement)|Радикализм (ideology_radical_movement)]], [[tgr/Идеологии/Социалисты|Социалисты]], [[tgr/Идеологии/Социальная демократия|Социальная демократия]]
+- **Идеологии** (lawgroup_legislative_process: strongly_disapprove): [[tgr/Идеологии/Авангардизм (ideology_vanguardist)|Авангардизм (ideology_vanguardist)]], [[tgr/Идеологии/Авангардизм (ideology_vanguardist_movement)|Авангардизм (ideology_vanguardist_movement)]], [[tgr/Идеологии/Анархизм|Анархизм]], [[tgr/Идеологии/Интегрализм|Интегрализм]], [[tgr/Идеологии/Фашизм (ideology_fascist)|Фашизм (ideology_fascist)]], [[tgr/Идеологии/Фашизм (ideology_fascist_movement)|Фашизм (ideology_fascist_movement)]]
