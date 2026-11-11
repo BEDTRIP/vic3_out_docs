@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Kuomintang Nationalist» — Mandate of Heaven 1.13, `ideology_moh_kmt`"
+description: "Идеология «Kuomintang Nationalist» — Mandate of Heaven 1.15, `ideology_moh_kmt`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
@@ -12,12 +12,22 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
 ---
 # Kuomintang Nationalist
 
-Идеология · `ideology_moh_kmt` · `common/ideologies/moh_leader_ideologies.txt:405`
+Идеология · `ideology_moh_kmt` · `common/ideologies/moh_leader_ideologies.txt:433`
 
 ## Поля
 
 - **icon**: `gfx/interface/icons/ideology_icons/ideology_leader/ideology_moh_revolutionary_kmt.dds`
 - **character_ideology**: `yes`
+- **lawgroup_distribution_of_power**:
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
+- **lawgroup_bureaucracy**:
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
+- **lawgroup_army_model**:
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `strongly_disapprove`
+- **lawgroup_internal_security**:
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_labour_associations**:
+  - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
 - **lawgroup_governance_principles**:
   - [[mandate_of_heaven/Законы/Теократия|Теократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Монархия|Монархия]] = `strongly_disapprove`
@@ -47,12 +57,12 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
   - [[vanilla/Законы/Крестьянское землевладение|Крестьянское землевладение]] = `approve`
   - [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `strongly_disapprove`
   - [[vanilla/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]] = `neutral`
-- **country_trigger**: скрипт, строки 449–478
+- **country_trigger**: скрипт, строки 493–522
 - **interest_group_leader_trigger**:
   - `ideology_moh_kmt_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 484–491
-- **interest_group_leader_weight**: скрипт, строки 493–522
-- **non_interest_group_leader_weight**: скрипт, строки 524–540
+- **non_interest_group_leader_trigger**: скрипт, строки 528–535
+- **interest_group_leader_weight**: скрипт, строки 537–566
+- **non_interest_group_leader_weight**: скрипт, строки 568–584
 
 ## Ссылаются
 

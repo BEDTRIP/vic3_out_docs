@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Ewo Hong» — Mandate of Heaven 1.13, `company_ewo_hong`"
+description: "Вид компании «Ewo Hong» — Mandate of Heaven 1.15, `company_ewo_hong`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

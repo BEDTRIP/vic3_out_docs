@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Reformer» — Mandate of Heaven 1.13, `ideology_moh_reformer`"
+description: "Идеология «Reformer» — Mandate of Heaven 1.15, `ideology_moh_reformer`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
@@ -21,6 +21,7 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `neutral`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
   - [[vanilla/Законы/Имущественный ценз|Имущественный ценз]] = `approve`
   - [[vanilla/Законы/Голосуют богатые|Голосуют богатые]] = `strongly_approve`
   - [[vanilla/Законы/Голосуют землевладельцы|Голосуют землевладельцы]] = `strongly_approve`
@@ -45,17 +46,24 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `strongly_approve`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `strongly_disapprove`
+- **lawgroup_bureaucracy**:
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
+- **lawgroup_internal_security**:
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_labour_associations**:
+  - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`
   - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `neutral`
   - [[vanilla/Законы/Частные школы|Частные школы]] = `strongly_approve`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `disapprove`
-- **country_trigger**: скрипт, строки 48–82
+- **country_trigger**: скрипт, строки 60–94
 - **interest_group_leader_trigger**:
   - `ideology_moh_reformer_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 88–95
-- **non_interest_group_leader_weight**: скрипт, строки 97–115
-- **interest_group_leader_weight**: скрипт, строки 117–194
+- **non_interest_group_leader_trigger**: скрипт, строки 100–107
+- **non_interest_group_leader_weight**: скрипт, строки 109–127
+- **interest_group_leader_weight**: скрипт, строки 129–206
 
 ## Ссылаются
 

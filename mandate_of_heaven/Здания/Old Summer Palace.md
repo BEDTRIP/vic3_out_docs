@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Здание «Old Summer Palace» — Mandate of Heaven 1.13, `building_old_summer_palace`"
+description: "Здание «Old Summer Palace» — Mandate of Heaven 1.15, `building_old_summer_palace`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

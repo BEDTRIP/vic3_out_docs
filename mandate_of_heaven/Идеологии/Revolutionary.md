@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Revolutionary» — Mandate of Heaven 1.13, `ideology_moh_revolutionary`"
+description: "Идеология «Revolutionary» — Mandate of Heaven 1.15, `ideology_moh_revolutionary`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
@@ -12,12 +12,22 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
 ---
 # Revolutionary
 
-Идеология · `ideology_moh_revolutionary` · `common/ideologies/moh_leader_ideologies.txt:197`
+Идеология · `ideology_moh_revolutionary` · `common/ideologies/moh_leader_ideologies.txt:209`
 
 ## Поля
 
 - **icon**: `gfx/interface/icons/ideology_icons/ideology_leader/ideology_moh_revolutionary.png`
 - **character_ideology**: `yes`
+- **lawgroup_distribution_of_power**:
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
+- **lawgroup_bureaucracy**:
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
+- **lawgroup_army_model**:
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `strongly_disapprove`
+- **lawgroup_internal_security**:
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_labour_associations**:
+  - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
 - **lawgroup_governance_principles**:
   - [[mandate_of_heaven/Законы/Теократия|Теократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Монархия|Монархия]] = `strongly_disapprove`
@@ -47,11 +57,11 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
   - [[vanilla/Законы/Крестьянское землевладение|Крестьянское землевладение]] = `neutral`
   - [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `strongly_disapprove`
   - [[vanilla/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]] = `neutral`
-- **country_trigger**: скрипт, строки 241–276
-- **interest_group_leader_trigger**: скрипт, строки 278–286
-- **non_interest_group_leader_trigger**: скрипт, строки 288–301
-- **interest_group_leader_weight**: скрипт, строки 303–382
-- **non_interest_group_leader_weight**: скрипт, строки 384–402
+- **country_trigger**: скрипт, строки 269–304
+- **interest_group_leader_trigger**: скрипт, строки 306–314
+- **non_interest_group_leader_trigger**: скрипт, строки 316–329
+- **interest_group_leader_weight**: скрипт, строки 331–410
+- **non_interest_group_leader_weight**: скрипт, строки 412–430
 
 ## Ссылаются
 

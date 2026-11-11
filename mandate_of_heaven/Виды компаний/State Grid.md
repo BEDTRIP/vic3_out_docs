@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «State Grid» — Mandate of Heaven 1.13, `company_state_grid`"
+description: "Вид компании «State Grid» — Mandate of Heaven 1.15, `company_state_grid`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

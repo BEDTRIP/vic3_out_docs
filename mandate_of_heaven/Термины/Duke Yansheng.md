@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода Mandate of Heaven «Duke Yansheng» — подсказка-понятие Victoria 3 1.13 (`concept_character_role_duke_yansheng`)"
+description: "Термин мода Mandate of Heaven «Duke Yansheng» — подсказка-понятие Victoria 3 1.15 (`concept_character_role_duke_yansheng`)"
 project: vic3
 audience: agent
 source: mandate_of_heaven

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Juren» — Mandate of Heaven 1.13, `ideology_eight_legged`"
+description: "Идеология «Juren» — Mandate of Heaven 1.15, `ideology_eight_legged`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
@@ -26,6 +26,7 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_ig_ideologies_flavored
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `strongly_disapprove`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `approve`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Частные школы|Частные школы]] = `approve`
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `disapprove`

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Sanxin» — Mandate of Heaven 1.13, `company_sanxin`"
+description: "Вид компании «Sanxin» — Mandate of Heaven 1.15, `company_sanxin`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Provincial Autonomist» — Mandate of Heaven 1.13, `ideology_moh_zgp`"
+description: "Идеология «Provincial Autonomist» — Mandate of Heaven 1.15, `ideology_moh_zgp`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
@@ -12,12 +12,20 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
 ---
 # Provincial Autonomist
 
-Идеология · `ideology_moh_zgp` · `common/ideologies/moh_leader_ideologies.txt:704`
+Идеология · `ideology_moh_zgp` · `common/ideologies/moh_leader_ideologies.txt:760`
 
 ## Поля
 
 - **icon**: `gfx/interface/icons/ideology_icons/ideology_leader/ideology_moh_zgp.dds`
 - **character_ideology**: `yes`
+- **lawgroup_bureaucracy**:
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `disapprove`
+- **lawgroup_army_model**:
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `disapprove`
+- **lawgroup_internal_security**:
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_labour_associations**:
+  - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `disapprove`
 - **lawgroup_governance_principles**:
   - [[mandate_of_heaven/Законы/Теократия|Теократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Монархия|Монархия]] = `strongly_disapprove`
@@ -27,6 +35,7 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_leader_ideologies.txt]
   - [[vanilla/Законы/Корпоративное государство|Корпоративное государство]] = `neutral`
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `disapprove`
   - [[vanilla/Законы/Голосуют землевладельцы|Голосуют землевладельцы]] = `disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Олигархия|Олигархия]] = `neutral`

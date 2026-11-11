@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Manchu Elitist» — Mandate of Heaven 1.13, `ideology_manchu_elitist`"
+description: "Идеология «Manchu Elitist» — Mandate of Heaven 1.15, `ideology_manchu_elitist`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
@@ -12,7 +12,7 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_ig_ideologies_flavored
 ---
 # Manchu Elitist
 
-Идеология · `ideology_manchu_elitist` · `common/ideologies/moh_ig_ideologies_flavored.txt:25`
+Идеология · `ideology_manchu_elitist` · `common/ideologies/moh_ig_ideologies_flavored.txt:26`
 
 ## Поля
 
@@ -21,6 +21,7 @@ paths: [for addon/Mandate of Heaven/common/ideologies/moh_ig_ideologies_flavored
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `strongly_disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Этническое государство|Этническое государство]] = `disapprove`
   - [[vanilla/Законы/Подданство|Подданство]] = `strongly_approve`

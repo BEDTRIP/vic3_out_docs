@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Heavenly Land System» — Mandate of Heaven 1.13, `law_heavenly_land_system`"
+description: "Закон «Heavenly Land System» — Mandate of Heaven 1.15, `law_heavenly_land_system`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «gui_sidebar_a_vast_country_button» — Mandate of Heaven 1.13, `gui_sidebar_a_vast_country_button`"
+description: "Идеология «gui_sidebar_a_vast_country_button» — Mandate of Heaven 1.15, `gui_sidebar_a_vast_country_button`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода Mandate of Heaven «Shih-chin Faction» — подсказка-понятие Victoria 3 1.13 (`concept_shih_chin_pai`)"
+description: "Термин мода Mandate of Heaven «Shih-chin Faction» — подсказка-понятие Victoria 3 1.15 (`concept_shih_chin_pai`)"
 project: vic3
 audience: agent
 source: mandate_of_heaven

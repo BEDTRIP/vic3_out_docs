@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «China Aviation» — Mandate of Heaven 1.13, `company_china_aviation`"
+description: "Вид компании «China Aviation» — Mandate of Heaven 1.15, `company_china_aviation`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
