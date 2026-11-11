@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Что мод ETF меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
+description: "Что мод ETF меняет в ванили 1.15: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
 audience: agent
 source: etf
@@ -10,7 +10,7 @@ paths: [_etf/**]
 ---
 # Что меняет в ванили — ETF
 
-Снимок `_etf`, сравнение с ваниль 1.13. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
+Снимок `_etf`, сравнение с ваниль 1.15. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
 
 ## Записи common/
 
@@ -18,7 +18,7 @@ paths: [_etf/**]
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | `on_actions` | 3 | 0 | 0 | 7 | 0 | 0 | 0 |
 | `scripted_effects` | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
-| `scripted_guis` | 23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| `scripted_guis` | 24 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### on_actions
 
@@ -31,7 +31,7 @@ paths: [_etf/**]
 
 ### scripted_guis
 
-- **добавляет** (23): `com_topbar_clear_first_line`, `com_topbar_clear_second_line`, `com_topbar_element_agitators`, `com_topbar_element_army_size`, `com_topbar_element_bloc_cohesion`, `com_topbar_element_bloc_prestige`, `com_topbar_element_bloc_size`, `com_topbar_element_charters`, `com_topbar_element_companies`, `com_topbar_element_innovation`, `com_topbar_element_interests`, `com_topbar_element_legitimacy`, `com_topbar_element_market_balance`, `com_topbar_element_market_gdp`, `com_topbar_element_navy_size`, `com_topbar_element_prestige`, `com_topbar_element_subsistence_pops`, `com_topbar_element_trade_capacity`, `com_topbar_element_unemployed_pops`, `com_topbar_element_unrealized_taxes`, `com_topbar_toggle_always_show`, `com_topbar_toggle_element_first_line`, `com_topbar_toggle_element_second_line`
+- **добавляет** (24): `com_topbar_clear_first_line`, `com_topbar_clear_second_line`, `com_topbar_element_agitators`, `com_topbar_element_army_size`, `com_topbar_element_bloc_cohesion`, `com_topbar_element_bloc_prestige`, `com_topbar_element_bloc_size`, `com_topbar_element_charters`, `com_topbar_element_companies`, `com_topbar_element_innovation`, `com_topbar_element_interests`, `com_topbar_element_legitimacy`, `com_topbar_element_market_balance`, `com_topbar_element_market_gdp`, `com_topbar_element_navy_size`, `com_topbar_element_prestige`, `com_topbar_element_sailors`, `com_topbar_element_subsistence_pops`, `com_topbar_element_trade_capacity`, `com_topbar_element_unemployed_pops`, `com_topbar_element_unrealized_taxes`, `com_topbar_toggle_always_show`, `com_topbar_toggle_element_first_line`, `com_topbar_toggle_element_second_line`
 
 ## Вне common/
 
@@ -45,4 +45,4 @@ paths: [_etf/**]
 
 **События**: 1 id; с id ваниль — 0.
 
-**Локализация** (английская и русская): ключей 334; в `replace/` — 0; есть у ваниль вне `replace/` — 0 (не действуют: побеждает первый файл).
+**Локализация** (английская и русская): ключей 368; в `replace/` — 0; есть у ваниль вне `replace/` — 0 (не действуют: побеждает первый файл).
