@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Карлизм (ideology_carlist_ig_2)» — ваниль 1.13, `ideology_carlist_ig_2`"
+description: "Идеология «Карлизм (ideology_carlist_ig_2)» — ваниль 1.15, `ideology_carlist_ig_2`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
 ---
 # Карлизм (ideology_carlist_ig_2)
 
-Идеология · `ideology_carlist_ig_2` · `common/ideologies/00_ig_ideologies_flavored.txt:1115`
+Идеология · `ideology_carlist_ig_2` · `common/ideologies/00_ig_ideologies_flavored.txt:1178`
 
 ## Поля
 
@@ -34,15 +34,18 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
+- **lawgroup_church_and_state**:
+  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_approve`
+  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
+  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `strongly_disapprove`
+  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_disapprove`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
-- **lawgroup_policing**:
-  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `approve`
-  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
-  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `neutral`
-  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Традиционализм|Традиционализм]] = `neutral`
   - [[vanilla/Законы/Аграрность|Аграрность]] = `strongly_approve`
@@ -52,8 +55,8 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
   - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
   - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `disapprove`
-- **lawgroup_church_and_state**:
-  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_approve`
-  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
-  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `strongly_disapprove`
-  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_disapprove`
+- **lawgroup_policing**:
+  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `approve`
+  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
+  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `neutral`
+  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_estacion_de_madrid_atocha)» — ваниль 1.13, `pmg_base_building_estacion_de_madrid_atocha`"
+description: "Группа методов производства «Основа (pmg_base_building_estacion_de_madrid_atocha)» — ваниль 1.15, `pmg_base_building_estacion_de_madrid_atocha`"
 project: vic3
 audience: agent
 source: vanilla

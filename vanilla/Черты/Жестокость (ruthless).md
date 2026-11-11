@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Жестокость (ruthless)» — ваниль 1.13, `ruthless`"
+description: "Черта персонажа «Жестокость (ruthless)» — ваниль 1.15, `ruthless`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/character_traits/personality_traits.txt]
 ---
 # Жестокость (ruthless)
 
-Черта персонажа · `ruthless` · `common/character_traits/personality_traits.txt:905`
+Черта персонажа · `ruthless` · `common/character_traits/personality_traits.txt:977`
 
 ## Поля
 
@@ -39,6 +39,6 @@ paths: [.vanillaVIC3/common/character_traits/personality_traits.txt]
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-mortality-mult|building_group_bg_plantations_mortality_mult]] = `0.10`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-mortality-mult|building_group_bg_agriculture_mortality_mult]] = `0.10`
-- **possible**: скрипт, строки 944–949
-- **weight**: скрипт, строки 951–959
+- **possible**: скрипт, строки 1016–1021
+- **weight**: скрипт, строки 1023–1031
 - **value**: `3`

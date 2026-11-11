@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «El Buen Jefe» — ваниль 1.13, `ig_trait_el_buen_jefe`"
+description: "Черта группы интересов «El Buen Jefe» — ваниль 1.15, `ig_trait_el_buen_jefe`"
 project: vic3
 audience: agent
 source: vanilla

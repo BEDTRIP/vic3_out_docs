@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_university)» — ваниль 1.13, `pmg_base_building_university`"
+description: "Группа методов производства «Основа (pmg_base_building_university)» — ваниль 1.15, `pmg_base_building_university`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_method_groups/07_government.txt]
 ---
 # Основа (pmg_base_building_university)
 
-Группа методов производства · `pmg_base_building_university` · `common/production_method_groups/07_government.txt:45`
+Группа методов производства · `pmg_base_building_university` · `common/production_method_groups/07_government.txt:48`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Легитимист (ideology_legitimist)» — ваниль 1.13, `ideology_legitimist`"
+description: "Идеология «Легитимист (ideology_legitimist)» — ваниль 1.15, `ideology_legitimist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
 ---
 # Легитимист (ideology_legitimist)
 
-Идеология · `ideology_legitimist` · `common/ideologies/02_character_french_flavored.txt:291`
+Идеология · `ideology_legitimist` · `common/ideologies/02_character_french_flavored.txt:302`
 
 ## Поля
 
@@ -36,6 +36,7 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_church_and_state**:
   - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `approve`
   - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
@@ -53,9 +54,9 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `neutral`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 341–360
+- **country_trigger**: скрипт, строки 353–372
 - **interest_group_leader_trigger**:
   - `ideology_legitimist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 366–369
-- **interest_group_leader_weight**: скрипт, строки 371–473
-- **non_interest_group_leader_weight**: скрипт, строки 475–558
+- **non_interest_group_leader_trigger**: скрипт, строки 378–381
+- **interest_group_leader_weight**: скрипт, строки 383–490
+- **non_interest_group_leader_weight**: скрипт, строки 492–580

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Перевозка по рельсам (pm_rail_transport_building_oil_rig)» — ваниль 1.13, `pm_rail_transport_building_oil_rig`"
+description: "Метод производства «Перевозка по рельсам (pm_rail_transport_building_oil_rig)» — ваниль 1.15, `pm_rail_transport_building_oil_rig`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/09_misc_resource.txt]
 ---
 # Перевозка по рельсам (pm_rail_transport_building_oil_rig)
 
-Метод производства · `pm_rail_transport_building_oil_rig` · `common/production_methods/09_misc_resource.txt:592`
+Метод производства · `pm_rail_transport_building_oil_rig` · `common/production_methods/09_misc_resource.txt:598`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Бонапартист (ideology_bonapartist_movement)» — ваниль 1.13, `ideology_bonapartist_movement`"
+description: "Идеология «Бонапартист (ideology_bonapartist_movement)» — ваниль 1.15, `ideology_bonapartist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Бонапартист (ideology_bonapartist_movement)
 
-Идеология · `ideology_bonapartist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1208`
+Идеология · `ideology_bonapartist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1442`
 
 ## Поля
 
@@ -35,11 +35,13 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_approve`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_army_model**:
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `strongly_approve`
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `approve`
   - [[vanilla/Законы/Национальное ополчение|Национальное ополчение]] = `disapprove`
-  - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
+  - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `strongly_disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `strongly_disapprove`
 - **lawgroup_navy_model**:
   - [[vanilla/Законы/Торговый флот|Торговый флот]] = `strongly_disapprove`
   - [[vanilla/Законы/Молодая школа|Молодая школа]] = `neutral`

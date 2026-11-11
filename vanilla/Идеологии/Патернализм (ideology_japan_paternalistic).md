@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Патернализм (ideology_japan_paternalistic)» — ваниль 1.13, `ideology_japan_paternalistic`"
+description: "Идеология «Патернализм (ideology_japan_paternalistic)» — ваниль 1.15, `ideology_japan_paternalistic`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
 ---
 # Патернализм (ideology_japan_paternalistic)
 
-Идеология · `ideology_japan_paternalistic` · `common/ideologies/00_ig_ideologies_flavored.txt:1518`
+Идеология · `ideology_japan_paternalistic` · `common/ideologies/00_ig_ideologies_flavored.txt:1601`
 
 ## Поля
 
@@ -35,15 +35,12 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `approve`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
-- **lawgroup_policing**:
-  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `approve`
-  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
-  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `neutral`
-  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Традиционализм|Традиционализм]] = `strongly_approve`
   - [[vanilla/Законы/Аграрность|Аграрность]] = `approve`
@@ -53,3 +50,8 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
   - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
   - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `disapprove`
+- **lawgroup_policing**:
+  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `approve`
+  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
+  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `neutral`
+  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`

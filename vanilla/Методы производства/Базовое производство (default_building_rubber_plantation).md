@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Базовое производство (default_building_rubber_plantation)» — ваниль 1.13, `default_building_rubber_plantation`"
+description: "Метод производства «Базовое производство (default_building_rubber_plantation)» — ваниль 1.15, `default_building_rubber_plantation`"
 project: vic3
 audience: agent
 source: vanilla

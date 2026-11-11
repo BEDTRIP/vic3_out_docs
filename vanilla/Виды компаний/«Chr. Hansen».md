@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Chr. Hansen»» — ваниль 1.13, `company_chr_hansens`"
+description: "Вид компании ««Chr. Hansen»» — ваниль 1.15, `company_chr_hansens`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Chr. Hansen»
 
-Вид компании · `company_chr_hansens` · `common/company_types/00_companies_europe.txt:1614`
+Вид компании · `company_chr_hansens` · `common/company_types/00_companies_europe.txt:1597`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **building_types**: [[vanilla/Здания/Пищевые производства|Пищевые производства]], [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
 - **extension_building_types**: [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
 - **possible_prestige_goods**: `prestige_good_generic_groceries`
-- **prestige_goods_trigger**: скрипт, строки 1635–1640
-- **potential**: скрипт, строки 1642–1644
-- **attainable**: скрипт, строки 1646–1652
-- **possible**: скрипт, строки 1654–1666
+- **prestige_goods_trigger**: скрипт, строки 1618–1623
+- **potential**: скрипт, строки 1625–1627
+- **attainable**: скрипт, строки 1629–1635
+- **possible**: скрипт, строки 1637–1649
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
   - [[vanilla/движок/Модификаторы B#^m-building-fishing-wharf-throughput-add|building_fishing_wharf_throughput_add]] = `0.1` → [[vanilla/Здания/Рыболовные верфи|Рыболовные верфи]]
-- **ai_will_do**: скрипт, строки 1673–1678
-- **ai_construction_targets**: скрипт, строки 1680–1693
-- **ai_weight**: скрипт, строки 1695–1697
+- **ai_will_do**: скрипт, строки 1656–1661
+- **ai_construction_targets**: скрипт, строки 1663–1676
+- **ai_weight**: скрипт, строки 1678–1680

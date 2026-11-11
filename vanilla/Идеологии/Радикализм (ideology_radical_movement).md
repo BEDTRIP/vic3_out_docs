@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Радикализм (ideology_radical_movement)» — ваниль 1.13, `ideology_radical_movement`"
+description: "Идеология «Радикализм (ideology_radical_movement)» — ваниль 1.15, `ideology_radical_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Радикализм (ideology_radical_movement)
 
-Идеология · `ideology_radical_movement` · `common/ideologies/03_ig_ideologies_movement.txt:584`
+Идеология · `ideology_radical_movement` · `common/ideologies/03_ig_ideologies_movement.txt:801`
 
 ## Поля
 
@@ -35,21 +35,23 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `disapprove`
-- **lawgroup_free_speech**:
-  - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
-  - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`
-  - [[vanilla/Законы/Цензура|Цензура]] = `disapprove`
-  - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `approve`
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `approve`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`
   - [[vanilla/Законы/Частные школы|Частные школы]] = `neutral`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `disapprove`
   - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `disapprove`
+- **lawgroup_free_speech**:
+  - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
+  - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`
+  - [[vanilla/Законы/Цензура|Цензура]] = `disapprove`
+  - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_disapprove`
 - **lawgroup_labour_associations**:
   - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `disapprove`
   - [[vanilla/Законы/Система гильдий|Система гильдий]] = `strongly_disapprove`

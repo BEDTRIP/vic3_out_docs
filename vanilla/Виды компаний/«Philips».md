@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Philips»» — ваниль 1.13, `company_philips`"
+description: "Вид компании ««Philips»» — ваниль 1.15, `company_philips`"
 project: vic3
 audience: agent
 source: vanilla

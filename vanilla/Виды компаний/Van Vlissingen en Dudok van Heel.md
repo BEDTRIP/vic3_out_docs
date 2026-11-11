@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Van Vlissingen en Dudok van Heel» — ваниль 1.13, `company_van_vlissingen_en_dudok_van_heel`"
+description: "Вид компании «Van Vlissingen en Dudok van Heel» — ваниль 1.15, `company_van_vlissingen_en_dudok_van_heel`"
 project: vic3
 audience: agent
 source: vanilla
@@ -20,7 +20,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_HOLLAND`
-- **building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Производства инструментов|Производства инструментов]], [[vanilla/Здания/верфи|верфи]]
+- **building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Производства инструментов|Производства инструментов]], [[vanilla/Здания/Верфи|Верфи]]
 - **extension_building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **possible_prestige_goods**: пусто
 - **prestige_goods_trigger**: пусто

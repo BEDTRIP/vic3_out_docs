@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Нигилизм (ideology_nihilist_movement)» — ваниль 1.13, `ideology_nihilist_movement`"
+description: "Идеология «Нигилизм (ideology_nihilist_movement)» — ваниль 1.15, `ideology_nihilist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Нигилизм (ideology_nihilist_movement)
 
-Идеология · `ideology_nihilist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:640`
+Идеология · `ideology_nihilist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:859`
 
 ## Поля
 
@@ -25,13 +25,17 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Корпоративное государство|Корпоративное государство]] = `disapprove`
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Советская республика|Советская республика]] = `approve`
-- **lawgroup_church_and_state**:
-  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_disapprove`
-  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
-  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `neutral`
-  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_approve`
 - **lawgroup_caste_hegemony**:
   - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_disapprove`
   - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `disapprove`
   - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
   - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `neutral`
+- **lawgroup_edo_social_system**:
+  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `disapprove`
+  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `neutral`
+- **lawgroup_church_and_state**:
+  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_disapprove`
+  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
+  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `neutral`
+  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_approve`

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Секуляризм (pmg_university_academia)» — ваниль 1.13, `pmg_university_academia`"
+description: "Группа методов производства «Секуляризм (pmg_university_academia)» — ваниль 1.15, `pmg_university_academia`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_method_groups/07_government.txt]
 ---
 # Секуляризм (pmg_university_academia)
 
-Группа методов производства · `pmg_university_academia` · `common/production_method_groups/07_government.txt:56`
+Группа методов производства · `pmg_university_academia` · `common/production_method_groups/07_government.txt:59`
 
 ## Поля
 

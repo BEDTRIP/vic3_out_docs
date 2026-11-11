@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа зданий «Золотые прииски (bg_gold_mining)» — ваниль 1.13, `bg_gold_mining`"
+description: "Группа зданий «Золотые прииски (bg_gold_mining)» — ваниль 1.15, `bg_gold_mining`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/building_groups/00_building_groups.txt]
 ---
 # Золотые прииски (bg_gold_mining)
 
-Группа зданий · `bg_gold_mining` · `common/building_groups/00_building_groups.txt:758`
+Группа зданий · `bg_gold_mining` · `common/building_groups/00_building_groups.txt:772`
 
 ## Поля
 

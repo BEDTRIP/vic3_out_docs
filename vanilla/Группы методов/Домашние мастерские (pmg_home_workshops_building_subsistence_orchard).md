@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Домашние мастерские (pmg_home_workshops_building_subsistence_orchard)» — ваниль 1.13, `pmg_home_workshops_building_subsistence_orchard`"
+description: "Группа методов производства «Домашние мастерские (pmg_home_workshops_building_subsistence_orchard)» — ваниль 1.15, `pmg_home_workshops_building_subsistence_orchard`"
 project: vic3
 audience: agent
 source: vanilla

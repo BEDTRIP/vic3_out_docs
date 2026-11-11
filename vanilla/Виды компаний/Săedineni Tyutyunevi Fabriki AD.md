@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Săedineni Tyutyunevi Fabriki AD» — ваниль 1.13, `company_united_tobacco_factories`"
+description: "Вид компании «Săedineni Tyutyunevi Fabriki AD» — ваниль 1.15, `company_united_tobacco_factories`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««United Fruit Company»» — ваниль 1.13, `company_united_fruit`"
+description: "Вид компании ««United Fruit Company»» — ваниль 1.15, `company_united_fruit`"
 project: vic3
 audience: agent
 source: vanilla
@@ -24,10 +24,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_usa.txt]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **possible_prestige_goods**: `prestige_good_gros_michel_banana`
 - **potential**: скрипт, строки 91–96
-- **possible**: скрипт, строки 98–116
+- **possible**: скрипт, строки 98–114
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-plantations-throughput-add|building_group_bg_plantations_throughput_add]] = `0.2`
   - [[vanilla/движок/Модификаторы C#^m-country-infamy-decay-mult|country_infamy_decay_mult]] = `-0.25`
-- **ai_will_do**: скрипт, строки 123–142
-- **ai_construction_targets**: скрипт, строки 144–160
-- **ai_weight**: скрипт, строки 162–164
+- **ai_will_do**: скрипт, строки 121–140
+- **ai_construction_targets**: скрипт, строки 142–158
+- **ai_weight**: скрипт, строки 160–162

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Орлеанист (ideology_orleanist)» — ваниль 1.13, `ideology_orleanist`"
+description: "Идеология «Орлеанист (ideology_orleanist)» — ваниль 1.15, `ideology_orleanist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -36,6 +36,7 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Свободная конкуренция|Свободная конкуренция]] = `strongly_approve`
   - [[vanilla/Законы/Интервенционизм|Интервенционизм]] = `neutral`
@@ -57,9 +58,9 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `neutral`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 55–74
+- **country_trigger**: скрипт, строки 56–75
 - **interest_group_leader_trigger**:
   - `ideology_orleanist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 80–83
-- **interest_group_leader_weight**: скрипт, строки 85–194
-- **non_interest_group_leader_weight**: скрипт, строки 196–288
+- **non_interest_group_leader_trigger**: скрипт, строки 81–84
+- **interest_group_leader_weight**: скрипт, строки 86–200
+- **non_interest_group_leader_weight**: скрипт, строки 202–299

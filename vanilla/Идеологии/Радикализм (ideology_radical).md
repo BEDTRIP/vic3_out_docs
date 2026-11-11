@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Радикализм (ideology_radical)» — ваниль 1.13, `ideology_radical`"
+description: "Идеология «Радикализм (ideology_radical)» — ваниль 1.15, `ideology_radical`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Радикализм (ideology_radical)
 
-Идеология · `ideology_radical` · `common/ideologies/01_character_ideologies.txt:1176`
+Идеология · `ideology_radical` · `common/ideologies/01_character_ideologies.txt:1261`
 
 ## Поля
 
@@ -36,21 +36,27 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `disapprove`
-- **lawgroup_free_speech**:
-  - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
-  - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`
-  - [[vanilla/Законы/Цензура|Цензура]] = `disapprove`
-  - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
+- **lawgroup_edo_social_system**:
+  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `disapprove`
+  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `approve`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `strongly_approve`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `approve`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`
   - [[vanilla/Законы/Частные школы|Частные школы]] = `neutral`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `disapprove`
   - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `disapprove`
+- **lawgroup_free_speech**:
+  - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
+  - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`
+  - [[vanilla/Законы/Цензура|Цензура]] = `disapprove`
+  - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_disapprove`
 - **lawgroup_labour_associations**:
   - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `disapprove`
   - [[vanilla/Законы/Система гильдий|Система гильдий]] = `strongly_disapprove`
@@ -58,16 +64,12 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `disapprove`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `neutral`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **lawgroup_edo_social_system**:
-  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `strongly_disapprove`
-  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `disapprove`
-  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `approve`
-- **country_trigger**: скрипт, строки 1239–1258
+- **country_trigger**: скрипт, строки 1326–1345
 - **interest_group_leader_trigger**:
   - `ideology_radical_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 1264–1292
-- **interest_group_leader_weight**: скрипт, строки 1294–1527
-- **non_interest_group_leader_weight**: скрипт, строки 1529–1689
+- **non_interest_group_leader_trigger**: скрипт, строки 1351–1379
+- **interest_group_leader_weight**: скрипт, строки 1381–1619
+- **non_interest_group_leader_weight**: скрипт, строки 1621–1786
 
 ## Ссылаются
 

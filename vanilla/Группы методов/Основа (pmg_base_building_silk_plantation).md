@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_silk_plantation)» — ваниль 1.13, `pmg_base_building_silk_plantation`"
+description: "Группа методов производства «Основа (pmg_base_building_silk_plantation)» — ваниль 1.15, `pmg_base_building_silk_plantation`"
 project: vic3
 audience: agent
 source: vanilla

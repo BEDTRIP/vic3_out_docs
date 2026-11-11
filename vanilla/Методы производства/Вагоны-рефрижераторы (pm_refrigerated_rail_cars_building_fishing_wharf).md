@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)» — ваниль 1.13, `pm_refrigerated_rail_cars_building_fishing_wharf`"
+description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)» — ваниль 1.15, `pm_refrigerated_rail_cars_building_fishing_wharf`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/09_misc_resource.txt]
 ---
 # Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)
 
-Метод производства · `pm_refrigerated_rail_cars_building_fishing_wharf` · `common/production_methods/09_misc_resource.txt:333`
+Метод производства · `pm_refrigerated_rail_cars_building_fishing_wharf` · `common/production_methods/09_misc_resource.txt:334`
 
 ## Поля
 
@@ -23,7 +23,8 @@ paths: [.vanillaVIC3/common/production_methods/09_misc_resource.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Электрифицированная железная дорога|Электрифицированная железная дорога]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `4` → [[vanilla/Товары/Электричество|Электричество]]
+    - `goods_input_copper_add` = `1` → [[vanilla/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `5` → [[vanilla/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

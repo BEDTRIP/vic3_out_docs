@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Тактика ведения мобильной войны (pm_mobile_warfare_tactics)» — ваниль 1.13, `pm_mobile_warfare_tactics`"
+description: "Метод производства «Тактика ведения мобильной войны (pm_mobile_warfare_tactics)» — ваниль 1.15, `pm_mobile_warfare_tactics`"
 project: vic3
 audience: agent
 source: vanilla

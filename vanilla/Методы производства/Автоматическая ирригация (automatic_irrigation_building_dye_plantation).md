@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_dye_plantation)» — ваниль 1.13, `automatic_irrigation_building_dye_plantation`"
+description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_dye_plantation)» — ваниль 1.15, `automatic_irrigation_building_dye_plantation`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Jakub Klein a spol» — ваниль 1.13, `company_jakub_klein`"
+description: "Вид компании «Jakub Klein a spol» — ваниль 1.15, `company_jakub_klein`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 ---
 # Jakub Klein a spol
 
-Вид компании · `company_jakub_klein` · `common/company_types/00_companies_ip3.txt:305`
+Вид компании · `company_jakub_klein` · `common/company_types/00_companies_ip3.txt:319`
 
 ## Поля
 
@@ -21,12 +21,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Лесозаготовки|Лесозаготовки]], [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]]
 - **extension_building_types**: [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
-- **potential**: скрипт, строки 320–322
-- **attainable**: скрипт, строки 324–332
-- **possible**: скрипт, строки 334–346
+- **potential**: скрипт, строки 334–336
+- **attainable**: скрипт, строки 338–346
+- **possible**: скрипт, строки 348–360
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-paper-mill-throughput-add|building_paper_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]]
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.05`
-- **ai_will_do**: скрипт, строки 353–358
-- **ai_construction_targets**: скрипт, строки 360–373
-- **ai_weight**: скрипт, строки 375–377
+- **ai_will_do**: скрипт, строки 367–372
+- **ai_construction_targets**: скрипт, строки 374–387
+- **ai_weight**: скрипт, строки 389–391

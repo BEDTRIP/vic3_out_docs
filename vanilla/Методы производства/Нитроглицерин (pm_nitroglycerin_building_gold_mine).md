@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Нитроглицерин (pm_nitroglycerin_building_gold_mine)» — ваниль 1.13, `pm_nitroglycerin_building_gold_mine`"
+description: "Метод производства «Нитроглицерин (pm_nitroglycerin_building_gold_mine)» — ваниль 1.15, `pm_nitroglycerin_building_gold_mine`"
 project: vic3
 audience: agent
 source: vanilla

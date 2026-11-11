@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Земельный реформатор (ideology_land_reformer_movement)» — ваниль 1.13, `ideology_land_reformer_movement`"
+description: "Идеология «Земельный реформатор (ideology_land_reformer_movement)» — ваниль 1.15, `ideology_land_reformer_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Земельный реформатор (ideology_land_reformer_movement)
 
-Идеология · `ideology_land_reformer_movement` · `common/ideologies/03_ig_ideologies_movement.txt:707`
+Идеология · `ideology_land_reformer_movement` · `common/ideologies/03_ig_ideologies_movement.txt:935`
 
 ## Поля
 
@@ -27,5 +27,5 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Крепостное право|Крепостное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Арендаторы|Арендаторы]] = `disapprove`
   - [[vanilla/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]] = `neutral`
-  - [[vanilla/Законы/Крестьянское землевладение|Крестьянское землевладение]] = `approve`
-  - [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `approve`
+  - [[vanilla/Законы/Крестьянское землевладение|Крестьянское землевладение]] = `strongly_approve`
+  - [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `neutral`

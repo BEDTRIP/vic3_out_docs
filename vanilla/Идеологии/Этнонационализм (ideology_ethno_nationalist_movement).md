@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Этнонационализм (ideology_ethno_nationalist_movement)» — ваниль 1.13, `ideology_ethno_nationalist_movement`"
+description: "Идеология «Этнонационализм (ideology_ethno_nationalist_movement)» — ваниль 1.15, `ideology_ethno_nationalist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Этнонационализм (ideology_ethno_nationalist_movement)
 
-Идеология · `ideology_ethno_nationalist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:950`
+Идеология · `ideology_ethno_nationalist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1179`
 
 ## Поля
 

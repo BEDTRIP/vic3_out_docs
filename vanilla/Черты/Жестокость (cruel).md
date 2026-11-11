@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Жестокость (cruel)» — ваниль 1.13, `cruel`"
+description: "Черта персонажа «Жестокость (cruel)» — ваниль 1.15, `cruel`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/character_traits/personality_traits.txt]
 ---
 # Жестокость (cruel)
 
-Черта персонажа · `cruel` · `common/character_traits/personality_traits.txt:483`
+Черта персонажа · `cruel` · `common/character_traits/personality_traits.txt:549`
 
 ## Поля
 
@@ -41,6 +41,6 @@ paths: [.vanillaVIC3/common/character_traits/personality_traits.txt]
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-mining-mortality-mult|building_group_bg_mining_mortality_mult]] = `0.10`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-mortality-mult|building_group_bg_agriculture_mortality_mult]] = `0.10`
-- **possible**: скрипт, строки 526–528
+- **possible**: скрипт, строки 592–594
 - **weight**: `1`
 - **value**: `3`

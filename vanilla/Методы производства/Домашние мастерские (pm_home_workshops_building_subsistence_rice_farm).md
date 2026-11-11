@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Домашние мастерские (pm_home_workshops_building_subsistence_rice_farm)» — ваниль 1.13, `pm_home_workshops_building_subsistence_rice_farm`"
+description: "Метод производства «Домашние мастерские (pm_home_workshops_building_subsistence_rice_farm)» — ваниль 1.15, `pm_home_workshops_building_subsistence_rice_farm`"
 project: vic3
 audience: agent
 source: vanilla

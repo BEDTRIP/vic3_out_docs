@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Noda Shoyu Co. Ltd» — ваниль 1.13, `company_noda_shoyu`"
+description: "Вид компании «Noda Shoyu Co. Ltd» — ваниль 1.15, `company_noda_shoyu`"
 project: vic3
 audience: agent
 source: vanilla

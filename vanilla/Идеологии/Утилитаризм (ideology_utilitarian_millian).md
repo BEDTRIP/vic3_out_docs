@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Утилитаризм (ideology_utilitarian_millian)» — ваниль 1.13, `ideology_utilitarian_millian`"
+description: "Идеология «Утилитаризм (ideology_utilitarian_millian)» — ваниль 1.15, `ideology_utilitarian_millian`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,20 +12,31 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
 ---
 # Утилитаризм (ideology_utilitarian_millian)
 
-Идеология · `ideology_utilitarian_millian` · `common/ideologies/00_ig_ideologies_flavored.txt:749`
+Идеология · `ideology_utilitarian_millian` · `common/ideologies/00_ig_ideologies_flavored.txt:799`
 
 ## Поля
 
 - **icon**: `gfx/interface/icons/ideology_icons/utilitarian.dds`
-- **lawgroup_childrens_rights**:
-  - [[vanilla/Законы/Обязательное начальное образование|Обязательное начальное образование]] = `strongly_approve`
-  - [[vanilla/Законы/Ограниченный детский труд|Ограниченный детский труд]] = `neutral`
-  - [[vanilla/Законы/Детский труд разрешён|Детский труд разрешён]] = `neutral`
+- **lawgroup_caste_hegemony**:
+  - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `disapprove`
+  - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `disapprove`
+  - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
+  - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `neutral`
+- **lawgroup_taxation**:
+  - [[vanilla/Законы/Потребительское налогообложение|Потребительское налогообложение]] = `disapprove`
+  - [[vanilla/Законы/Налог на душу населения|Налог на душу населения]] = `neutral`
+  - [[vanilla/Законы/Пропорциональный налог|Пропорциональный налог]] = `approve`
+  - [[vanilla/Законы/Прогрессивный налог|Прогрессивный налог]] = `strongly_approve`
+  - [[vanilla/Законы/Земельное налогообложение|Земельное налогообложение]] = `disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`
   - [[vanilla/Законы/Частные школы|Частные школы]] = `neutral`
   - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `neutral`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `disapprove`
+- **lawgroup_childrens_rights**:
+  - [[vanilla/Законы/Обязательное начальное образование|Обязательное начальное образование]] = `strongly_approve`
+  - [[vanilla/Законы/Ограниченный детский труд|Ограниченный детский труд]] = `neutral`
+  - [[vanilla/Законы/Детский труд разрешён|Детский труд разрешён]] = `neutral`
 - **lawgroup_rights_of_women**:
   - [[vanilla/Законы/Попечительство|Попечительство]] = `disapprove`
   - [[vanilla/Законы/Право собственности для женщин|Право собственности для женщин]] = `neutral`
@@ -37,14 +48,3 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Работорговля|Работорговля]] = `strongly_disapprove`
   - [[vanilla/Законы/Колониальное рабство|Колониальное рабство]] = `disapprove`
   - [[vanilla/Законы/Унаследованное рабство|Унаследованное рабство]] = `disapprove`
-- **lawgroup_taxation**:
-  - [[vanilla/Законы/Потребительское налогообложение|Потребительское налогообложение]] = `disapprove`
-  - [[vanilla/Законы/Налог на душу населения|Налог на душу населения]] = `neutral`
-  - [[vanilla/Законы/Пропорциональный налог|Пропорциональный налог]] = `approve`
-  - [[vanilla/Законы/Прогрессивный налог|Прогрессивный налог]] = `strongly_approve`
-  - [[vanilla/Законы/Земельное налогообложение|Земельное налогообложение]] = `disapprove`
-- **lawgroup_caste_hegemony**:
-  - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `disapprove`
-  - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `disapprove`
-  - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
-  - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `neutral`

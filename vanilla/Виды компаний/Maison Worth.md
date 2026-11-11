@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Maison Worth» — ваниль 1.13, `company_maison_worth`"
+description: "Вид компании «Maison Worth» — ваниль 1.15, `company_maison_worth`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 ---
 # Maison Worth
 
-Вид компании · `company_maison_worth` · `common/company_types/00_companies_mp1.txt:466`
+Вид компании · `company_maison_worth` · `common/company_types/00_companies_mp1.txt:460`
 
 ## Поля
 
@@ -24,13 +24,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
 - **extension_building_types**: [[vanilla/Здания/Плантации хлопка|Плантации хлопка]], [[vanilla/Здания/Академии искусств|Академии искусств]]
 - **possible_prestige_goods**: `prestige_good_haute_couture`
-- **potential**: скрипт, строки 489–492
-- **attainable**: скрипт, строки 494–502
-- **possible**: скрипт, строки 504–513
+- **potential**: скрипт, строки 483–486
+- **attainable**: скрипт, строки 488–496
+- **possible**: скрипт, строки 498–505
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы S#^m-state-assimilation-mult|state_assimilation_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 521–526
-- **ai_construction_targets**: скрипт, строки 528–535
-- **ai_weight**: скрипт, строки 537–539
+- **ai_will_do**: скрипт, строки 513–518
+- **ai_construction_targets**: скрипт, строки 520–527
+- **ai_weight**: скрипт, строки 529–537

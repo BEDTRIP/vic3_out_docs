@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Rheinmetall» — ваниль 1.13, `company_rheinmetall`"
+description: "Вид компании «Rheinmetall» — ваниль 1.15, `company_rheinmetall`"
 project: vic3
 audience: agent
 source: vanilla

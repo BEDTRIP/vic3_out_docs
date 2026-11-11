@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Автоматизация (pmg_automation_building_arms_industry)» — ваниль 1.13, `pmg_automation_building_arms_industry`"
+description: "Группа методов производства «Автоматизация (pmg_automation_building_arms_industry)» — ваниль 1.15, `pmg_automation_building_arms_industry`"
 project: vic3
 audience: agent
 source: vanilla

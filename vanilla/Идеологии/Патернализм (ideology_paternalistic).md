@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Патернализм (ideology_paternalistic)» — ваниль 1.13, `ideology_paternalistic`"
+description: "Идеология «Патернализм (ideology_paternalistic)» — ваниль 1.15, `ideology_paternalistic`"
 project: vic3
 audience: agent
 source: vanilla
@@ -35,15 +35,13 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
-- **lawgroup_policing**:
-  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `approve`
-  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
-  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `neutral`
-  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Традиционализм|Традиционализм]] = `strongly_approve`
   - [[vanilla/Законы/Аграрность|Аграрность]] = `approve`
@@ -58,6 +56,11 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
   - [[vanilla/Законы/Меркантилизм|Меркантилизм]] = `approve`
   - [[vanilla/Законы/Протекционизм|Протекционизм]] = `neutral`
   - [[vanilla/Законы/Свободная торговля|Свободная торговля]] = `disapprove`
+- **lawgroup_policing**:
+  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `approve`
+  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
+  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `neutral`
+  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`
 
 ## Ссылаются
 

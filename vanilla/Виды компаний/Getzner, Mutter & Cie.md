@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Getzner, Mutter & Cie» — ваниль 1.13, `company_getzner_mutter`"
+description: "Вид компании «Getzner, Mutter & Cie» — ваниль 1.15, `company_getzner_mutter`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 ---
 # Getzner, Mutter & Cie
 
-Вид компании · `company_getzner_mutter` · `common/company_types/00_companies_ip3.txt:620`
+Вид компании · `company_getzner_mutter` · `common/company_types/00_companies_ip3.txt:635`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]], [[vanilla/Здания/Электростанции|Электростанции]]
 - **extension_building_types**: [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
 - **possible_prestige_goods**: `prestige_good_generic_clothes`
-- **potential**: скрипт, строки 639–642
-- **attainable**: скрипт, строки 644–652
-- **possible**: скрипт, строки 654–666
+- **potential**: скрипт, строки 654–657
+- **attainable**: скрипт, строки 659–667
+- **possible**: скрипт, строки 669–681
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
   - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-petty-bourgeoisie-approval-add|interest_group_ig_petty_bourgeoisie_approval_add]] = `2`
-- **ai_will_do**: скрипт, строки 673–678
-- **ai_construction_targets**: скрипт, строки 680–693
-- **ai_weight**: скрипт, строки 695–697
+- **ai_will_do**: скрипт, строки 688–693
+- **ai_construction_targets**: скрипт, строки 695–708
+- **ai_weight**: скрипт, строки 710–712

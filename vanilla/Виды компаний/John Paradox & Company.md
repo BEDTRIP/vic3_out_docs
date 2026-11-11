@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «John Paradox & Company» — ваниль 1.13, `company_paradox`"
+description: "Вид компании «John Paradox & Company» — ваниль 1.15, `company_paradox`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 ---
 # John Paradox & Company
 
-Вид компании · `company_paradox` · `common/company_types/00_companies_mp1.txt:1611`
+Вид компании · `company_paradox` · `common/company_types/00_companies_mp1.txt:1598`
 
 ## Поля
 
@@ -24,11 +24,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **building_types**: [[vanilla/Здания/Академии искусств|Академии искусств]], [[vanilla/Здания/Электрозаводы|Электрозаводы]]
 - **extension_building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]], [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]]
 - **possible_prestige_goods**: `prestige_good_grand_strategy_games`
-- **potential**: скрипт, строки 1635–1653
+- **potential**: скрипт, строки 1622–1640
 - **attainable**: пусто
 - **possible**: пусто
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.25`
   - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.25`
-- **ai_will_do**: скрипт, строки 1666–1668
-- **ai_weight**: скрипт, строки 1670–1672
+- **ai_will_do**: скрипт, строки 1653–1655
+- **ai_weight**: скрипт, строки 1657–1659

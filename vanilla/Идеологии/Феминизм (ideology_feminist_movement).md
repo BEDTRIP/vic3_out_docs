@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Феминизм (ideology_feminist_movement)» — ваниль 1.13, `ideology_feminist_movement`"
+description: "Идеология «Феминизм (ideology_feminist_movement)» — ваниль 1.15, `ideology_feminist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Феминизм (ideology_feminist_movement)
 
-Идеология · `ideology_feminist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:727`
+Идеология · `ideology_feminist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:955`
 
 ## Поля
 

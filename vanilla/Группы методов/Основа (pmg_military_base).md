@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_military_base)» — ваниль 1.13, `pmg_military_base`"
+description: "Группа методов производства «Основа (pmg_military_base)» — ваниль 1.15, `pmg_military_base`"
 project: vic3
 audience: agent
 source: vanilla

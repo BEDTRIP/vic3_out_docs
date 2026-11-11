@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Индуистский морализм (ideology_hindu_moralist)» — ваниль 1.13, `ideology_hindu_moralist`"
+description: "Идеология «Индуистский морализм (ideology_hindu_moralist)» — ваниль 1.15, `ideology_hindu_moralist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
 ---
 # Индуистский морализм (ideology_hindu_moralist)
 
-Идеология · `ideology_hindu_moralist` · `common/ideologies/00_ig_ideologies_flavored.txt:440`
+Идеология · `ideology_hindu_moralist` · `common/ideologies/00_ig_ideologies_flavored.txt:477`
 
 ## Поля
 
@@ -25,6 +25,11 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Корпоративное государство|Корпоративное государство]] = `neutral`
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `neutral`
   - [[vanilla/Законы/Советская республика|Советская республика]] = `strongly_disapprove`
+- **lawgroup_caste_hegemony**:
+  - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_approve`
+  - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `approve`
+  - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
+  - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `strongly_disapprove`
 - **lawgroup_church_and_state**:
   - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_approve`
   - [[vanilla/Законы/Свобода совести|Свобода совести]] = `neutral`
@@ -32,10 +37,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_disapprove`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
-- **lawgroup_caste_hegemony**:
-  - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_approve`
-  - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `approve`
-  - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
-  - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `strongly_disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`

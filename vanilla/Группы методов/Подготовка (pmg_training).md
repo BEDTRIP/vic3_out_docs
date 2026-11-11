@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Подготовка (pmg_training)» — ваниль 1.13, `pmg_training`"
+description: "Группа методов производства «Подготовка (pmg_training)» — ваниль 1.15, `pmg_training`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Частная собственность (pm_manor_house_privately_owned)» — ваниль 1.13, `pm_manor_house_privately_owned`"
+description: "Метод производства «Частная собственность (pm_manor_house_privately_owned)» — ваниль 1.15, `pm_manor_house_privately_owned`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Реакционеры (ideology_reactionary_movement)» — ваниль 1.13, `ideology_reactionary_movement`"
+description: "Идеология «Реакционеры (ideology_reactionary_movement)» — ваниль 1.15, `ideology_reactionary_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Реакционеры (ideology_reactionary_movement)
 
-Идеология · `ideology_reactionary_movement` · `common/ideologies/03_ig_ideologies_movement.txt:738`
+Идеология · `ideology_reactionary_movement` · `common/ideologies/03_ig_ideologies_movement.txt:966`
 
 ## Поля
 

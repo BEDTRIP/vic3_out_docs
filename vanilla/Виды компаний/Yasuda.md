@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Yasuda» — ваниль 1.13, `company_yasuda`"
+description: "Вид компании «Yasuda» — ваниль 1.15, `company_yasuda`"
 project: vic3
 audience: agent
 source: vanilla

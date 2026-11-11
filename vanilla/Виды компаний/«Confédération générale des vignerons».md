@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Confédération générale des vignerons»» — ваниль 1.13, `company_cgv`"
+description: "Вид компании ««Confédération générale des vignerons»» — ваниль 1.15, `company_cgv`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 ---
 # «Confédération générale des vignerons»
 
-Вид компании · `company_cgv` · `common/company_types/00_companies_france.txt:223`
+Вид компании · `company_cgv` · `common/company_types/00_companies_france.txt:229`
 
 ## Поля
 
@@ -24,11 +24,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **building_types**: [[vanilla/Здания/Виноградники|Виноградники]]
 - **extension_building_types**: [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **possible_prestige_goods**: `prestige_good_champagne`
-- **potential**: скрипт, строки 245–250
-- **possible**: скрипт, строки 252–262
+- **potential**: скрипт, строки 251–256
+- **possible**: скрипт, строки 258–266
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
   - [[vanilla/движок/Модификаторы B#^m-building-vineyard-throughput-add|building_vineyard_throughput_add]] = `0.1` → [[vanilla/Здания/Виноградники|Виноградники]]
-- **ai_will_do**: скрипт, строки 269–275
-- **ai_construction_targets**: скрипт, строки 277–284
-- **ai_weight**: скрипт, строки 286–288
+- **ai_will_do**: скрипт, строки 273–279
+- **ai_construction_targets**: скрипт, строки 281–288
+- **ai_weight**: скрипт, строки 290–292

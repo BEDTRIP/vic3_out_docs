@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_tooling_workshop)» — ваниль 1.13, `pm_assembly_lines_building_tooling_workshop`"
+description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_tooling_workshop)» — ваниль 1.15, `pm_assembly_lines_building_tooling_workshop`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 ---
 # Конвейерное производство (pm_assembly_lines_building_tooling_workshop)
 
-Метод производства · `pm_assembly_lines_building_tooling_workshop` · `common/production_methods/01_industry.txt:1068`
+Метод производства · `pm_assembly_lines_building_tooling_workshop` · `common/production_methods/01_industry.txt:1076`
 
 ## Поля
 
@@ -24,7 +24,8 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 - **disallowing_laws**: [[vanilla/Законы/Запрет промышленности|Запрет промышленности]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `10` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `9` → [[vanilla/Товары/ГСМ|ГСМ]]
+    - `goods_input_copper_add` = `1` → [[vanilla/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

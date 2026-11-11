@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Автоматизация (pmg_automation_building_furniture_manufactory)» — ваниль 1.13, `pmg_automation_building_furniture_manufactory`"
+description: "Группа методов производства «Автоматизация (pmg_automation_building_furniture_manufactory)» — ваниль 1.15, `pmg_automation_building_furniture_manufactory`"
 project: vic3
 audience: agent
 source: vanilla

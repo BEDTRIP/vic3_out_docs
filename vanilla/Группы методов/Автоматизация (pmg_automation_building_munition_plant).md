@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Автоматизация (pmg_automation_building_munition_plant)» — ваниль 1.13, `pmg_automation_building_munition_plant`"
+description: "Группа методов производства «Автоматизация (pmg_automation_building_munition_plant)» — ваниль 1.15, `pmg_automation_building_munition_plant`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_method_groups/01_industry.txt]
 ---
 # Автоматизация (pmg_automation_building_munition_plant)
 
-Группа методов производства · `pmg_automation_building_munition_plant` · `common/production_method_groups/01_industry.txt:345`
+Группа методов производства · `pmg_automation_building_munition_plant` · `common/production_method_groups/01_industry.txt:347`
 
 ## Поля
 

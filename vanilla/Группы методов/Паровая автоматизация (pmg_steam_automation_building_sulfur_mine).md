@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Паровая автоматизация (pmg_steam_automation_building_sulfur_mine)» — ваниль 1.13, `pmg_steam_automation_building_sulfur_mine`"
+description: "Группа методов производства «Паровая автоматизация (pmg_steam_automation_building_sulfur_mine)» — ваниль 1.15, `pmg_steam_automation_building_sulfur_mine`"
 project: vic3
 audience: agent
 source: vanilla

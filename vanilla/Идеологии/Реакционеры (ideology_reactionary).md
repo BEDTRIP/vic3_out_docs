@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Реакционеры (ideology_reactionary)» — ваниль 1.13, `ideology_reactionary`"
+description: "Идеология «Реакционеры (ideology_reactionary)» — ваниль 1.15, `ideology_reactionary`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
 ---
 # Реакционеры (ideology_reactionary)
 
-Идеология · `ideology_reactionary` · `common/ideologies/00_ig_ideologies.txt:803`
+Идеология · `ideology_reactionary` · `common/ideologies/00_ig_ideologies.txt:938`
 
 ## Поля
 
@@ -32,6 +32,10 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
   - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `approve`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `neutral`
   - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `disapprove`
+- **lawgroup_migration**:
+  - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `approve`
+  - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `strongly_approve`
+  - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `disapprove`
 - **lawgroup_labour_associations**:
   - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `approve`
   - [[vanilla/Законы/Система гильдий|Система гильдий]] = `approve`
@@ -39,10 +43,6 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `neutral`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **lawgroup_migration**:
-  - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `approve`
-  - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `strongly_approve`
-  - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `disapprove`
 
 ## Ссылаются
 

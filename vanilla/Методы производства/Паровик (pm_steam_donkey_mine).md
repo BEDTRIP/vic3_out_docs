@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Паровик (pm_steam_donkey_mine)» — ваниль 1.13, `pm_steam_donkey_mine`"
+description: "Метод производства «Паровик (pm_steam_donkey_mine)» — ваниль 1.15, `pm_steam_donkey_mine`"
 project: vic3
 audience: agent
 source: vanilla
@@ -31,4 +31,4 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
 
 ## Ссылаются
 
-- **Группы методов** (методы группы): [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_gold_mine)|Паровая автоматизация (pmg_steam_automation_building_gold_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_iron_mine)|Паровая автоматизация (pmg_steam_automation_building_iron_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_lead_mine)|Паровая автоматизация (pmg_steam_automation_building_lead_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_sulfur_mine)|Паровая автоматизация (pmg_steam_automation_building_sulfur_mine)]]
+- **Группы методов** (методы группы): [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_copper_mine)|Паровая автоматизация (pmg_steam_automation_building_copper_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_gold_mine)|Паровая автоматизация (pmg_steam_automation_building_gold_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_iron_mine)|Паровая автоматизация (pmg_steam_automation_building_iron_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_lead_mine)|Паровая автоматизация (pmg_steam_automation_building_lead_mine)]], [[vanilla/Группы методов/Паровая автоматизация (pmg_steam_automation_building_sulfur_mine)|Паровая автоматизация (pmg_steam_automation_building_sulfur_mine)]]

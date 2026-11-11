@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Паровой насос с конденсатором (pm_condensing_engine_pump_building_iron_mine)» — ваниль 1.13, `pm_condensing_engine_pump_building_iron_mine`"
+description: "Метод производства «Паровой насос с конденсатором (pm_condensing_engine_pump_building_iron_mine)» — ваниль 1.15, `pm_condensing_engine_pump_building_iron_mine`"
 project: vic3
 audience: agent
 source: vanilla

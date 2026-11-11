@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Отсутствие организованной подготовки (pm_no_organization)» — ваниль 1.13, `pm_no_organization`"
+description: "Метод производства «Отсутствие организованной подготовки (pm_no_organization)» — ваниль 1.15, `pm_no_organization`"
 project: vic3
 audience: agent
 source: vanilla

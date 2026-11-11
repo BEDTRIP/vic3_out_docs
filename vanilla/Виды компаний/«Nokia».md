@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Nokia»» — ваниль 1.13, `company_nokia`"
+description: "Вид компании ««Nokia»» — ваниль 1.15, `company_nokia`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Nokia»
 
-Вид компании · `company_nokia` · `common/company_types/00_companies_europe.txt:870`
+Вид компании · `company_nokia` · `common/company_types/00_companies_europe.txt:867`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **building_types**: [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]], [[vanilla/Здания/Лесозаготовки|Лесозаготовки]], [[vanilla/Здания/Электростанции|Электростанции]]
 - **extension_building_types**: [[vanilla/Здания/Электрозаводы|Электрозаводы]]
 - **possible_prestige_goods**: `prestige_good_generic_paper`
-- **prestige_goods_trigger**: скрипт, строки 892–897
-- **potential**: скрипт, строки 899–901
-- **attainable**: скрипт, строки 903–909
-- **possible**: скрипт, строки 911–921
+- **prestige_goods_trigger**: скрипт, строки 889–894
+- **potential**: скрипт, строки 896–898
+- **attainable**: скрипт, строки 900–906
+- **possible**: скрипт, строки 908–916
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Электрозаводы|Электрозаводы]]
   - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
-- **ai_will_do**: скрипт, строки 928–934
-- **ai_construction_targets**: скрипт, строки 936–943
-- **ai_weight**: скрипт, строки 945–947
+- **ai_will_do**: скрипт, строки 923–929
+- **ai_construction_targets**: скрипт, строки 931–938
+- **ai_weight**: скрипт, строки 940–942

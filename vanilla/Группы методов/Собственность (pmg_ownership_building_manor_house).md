@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Собственность (pmg_ownership_building_manor_house)» — ваниль 1.13, `pmg_ownership_building_manor_house`"
+description: "Группа методов производства «Собственность (pmg_ownership_building_manor_house)» — ваниль 1.15, `pmg_ownership_building_manor_house`"
 project: vic3
 audience: agent
 source: vanilla

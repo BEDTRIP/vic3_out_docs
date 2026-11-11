@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Плюрализм (ideology_pluralist_movement_1)» — ваниль 1.13, `ideology_pluralist_movement_1`"
+description: "Идеология «Плюрализм (ideology_pluralist_movement_1)» — ваниль 1.15, `ideology_pluralist_movement_1`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Плюрализм (ideology_pluralist_movement_1)
 
-Идеология · `ideology_pluralist_movement_1` · `common/ideologies/03_ig_ideologies_movement.txt:1024`
+Идеология · `ideology_pluralist_movement_1` · `common/ideologies/03_ig_ideologies_movement.txt:1257`
 
 ## Поля
 

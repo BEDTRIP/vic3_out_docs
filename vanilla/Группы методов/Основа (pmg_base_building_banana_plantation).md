@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_banana_plantation)» — ваниль 1.13, `pmg_base_building_banana_plantation`"
+description: "Группа методов производства «Основа (pmg_base_building_banana_plantation)» — ваниль 1.15, `pmg_base_building_banana_plantation`"
 project: vic3
 audience: agent
 source: vanilla

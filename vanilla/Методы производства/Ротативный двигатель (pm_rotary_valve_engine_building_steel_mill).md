@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_steel_mill)» — ваниль 1.13, `pm_rotary_valve_engine_building_steel_mill`"
+description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_steel_mill)» — ваниль 1.15, `pm_rotary_valve_engine_building_steel_mill`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 ---
 # Ротативный двигатель (pm_rotary_valve_engine_building_steel_mill)
 
-Метод производства · `pm_rotary_valve_engine_building_steel_mill` · `common/production_methods/01_industry.txt:1680`
+Метод производства · `pm_rotary_valve_engine_building_steel_mill` · `common/production_methods/01_industry.txt:1689`
 
 ## Поля
 

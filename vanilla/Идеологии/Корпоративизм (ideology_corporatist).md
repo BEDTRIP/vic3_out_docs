@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Корпоративизм (ideology_corporatist)» — ваниль 1.13, `ideology_corporatist`"
+description: "Идеология «Корпоративизм (ideology_corporatist)» — ваниль 1.15, `ideology_corporatist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,21 +12,21 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
 ---
 # Корпоративизм (ideology_corporatist)
 
-Идеология · `ideology_corporatist` · `common/ideologies/00_ig_ideologies.txt:944`
+Идеология · `ideology_corporatist` · `common/ideologies/00_ig_ideologies.txt:1081`
 
 ## Поля
 
 - **icon**: `gfx/interface/icons/ideology_icons/corporatist.dds`
-- **lawgroup_health_system**:
-  - [[vanilla/Законы/Благотворительные лечебницы|Благотворительные лечебницы]] = `approve`
-  - [[vanilla/Законы/Государственное медицинское страхование|Государственное медицинское страхование]] = `neutral`
-  - [[vanilla/Законы/Нет системы здравоохранения|Нет системы здравоохранения]] = `disapprove`
-  - [[vanilla/Законы/Индивидуальное медицинское страхование|Индивидуальное медицинское страхование]] = `disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `approve`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `neutral`
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `disapprove`
   - [[vanilla/Законы/Частные школы|Частные школы]] = `disapprove`
+- **lawgroup_health_system**:
+  - [[vanilla/Законы/Благотворительные лечебницы|Благотворительные лечебницы]] = `approve`
+  - [[vanilla/Законы/Государственное медицинское страхование|Государственное медицинское страхование]] = `neutral`
+  - [[vanilla/Законы/Нет системы здравоохранения|Нет системы здравоохранения]] = `disapprove`
+  - [[vanilla/Законы/Индивидуальное медицинское страхование|Индивидуальное медицинское страхование]] = `disapprove`
 - **lawgroup_labor_rights**:
   - [[vanilla/Законы/Нет прав трудящихся|Нет прав трудящихся]] = `neutral`
   - [[vanilla/Законы/Регулирующие органы|Регулирующие органы]] = `approve`

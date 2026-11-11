@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Стандартное производство (pm_default_building_kaiserforum_2)» — ваниль 1.13, `pm_default_building_kaiserforum_2`"
+description: "Метод производства «Стандартное производство (pm_default_building_kaiserforum_2)» — ваниль 1.15, `pm_default_building_kaiserforum_2`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)» — ваниль 1.13, `building_sagrada_familia_cathedral_1`"
+description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)» — ваниль 1.15, `building_sagrada_familia_cathedral_1`"
 project: vic3
 audience: agent
 source: vanilla

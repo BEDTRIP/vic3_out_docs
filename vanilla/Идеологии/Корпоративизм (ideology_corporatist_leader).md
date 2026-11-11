@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Корпоративизм (ideology_corporatist_leader)» — ваниль 1.13, `ideology_corporatist_leader`"
+description: "Идеология «Корпоративизм (ideology_corporatist_leader)» — ваниль 1.15, `ideology_corporatist_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Корпоративизм (ideology_corporatist_leader)
 
-Идеология · `ideology_corporatist_leader` · `common/ideologies/01_character_ideologies.txt:9117`
+Идеология · `ideology_corporatist_leader` · `common/ideologies/01_character_ideologies.txt:10045`
 
 ## Поля
 
@@ -49,6 +49,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
 - **country_trigger**:
   - `has_technology_researched` = [[vanilla/Технологии/Корпоративизм|Корпоративизм]]
-- **non_interest_group_leader_trigger**: скрипт, строки 9165–9178
-- **interest_group_leader_weight**: скрипт, строки 9180–9312
-- **non_interest_group_leader_weight**: скрипт, строки 9314–9416
+- **non_interest_group_leader_trigger**: скрипт, строки 10093–10106
+- **interest_group_leader_weight**: скрипт, строки 10108–10245
+- **non_interest_group_leader_weight**: скрипт, строки 10247–10354

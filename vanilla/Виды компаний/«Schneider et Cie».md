@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Schneider et Cie»» — ваниль 1.13, `company_schneider_creusot`"
+description: "Вид компании ««Schneider et Cie»» — ваниль 1.15, `company_schneider_creusot`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 ---
 # «Schneider et Cie»
 
-Вид компании · `company_schneider_creusot` · `common/company_types/00_companies_france.txt:69`
+Вид компании · `company_schneider_creusot` · `common/company_types/00_companies_france.txt:67`
 
 ## Поля
 
@@ -21,14 +21,14 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_BURGUNDY`
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vanilla/Здания/Моторные заводы|Моторные заводы]]
-- **extension_building_types**: [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]], [[vanilla/Здания/верфи|верфи]]
+- **extension_building_types**: [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]], [[vanilla/Здания/Верфи|Верфи]]
 - **possible_prestige_goods**: `prestige_good_schneider_guns`
-- **potential**: скрипт, строки 92–94
-- **attainable**: скрипт, строки 96–102
-- **possible**: скрипт, строки 104–114
+- **potential**: скрипт, строки 90–92
+- **attainable**: скрипт, строки 94–100
+- **possible**: скрипт, строки 102–110
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.1`
   - [[vanilla/движок/Модификаторы U#^m-unit-morale-recovery-mult|unit_morale_recovery_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 121–127
-- **ai_construction_targets**: скрипт, строки 129–136
-- **ai_weight**: скрипт, строки 138–140
+- **ai_will_do**: скрипт, строки 117–123
+- **ai_construction_targets**: скрипт, строки 125–132
+- **ai_weight**: скрипт, строки 134–142

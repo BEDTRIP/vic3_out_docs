@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_banana_plantation)» — ваниль 1.13, `automatic_irrigation_building_banana_plantation`"
+description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_banana_plantation)» — ваниль 1.15, `automatic_irrigation_building_banana_plantation`"
 project: vic3
 audience: agent
 source: vanilla
@@ -24,7 +24,7 @@ paths: [.vanillaVIC3/common/production_methods/04_plantations.txt]
 - **building_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-add|goods_output_fruit_add]] = `35` → [[vanilla/Товары/Фрукты|Фрукты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-fruit-add|goods_output_fruit_add]] = `40` → [[vanilla/Товары/Фрукты|Фрукты]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-farmers-add|building_employment_farmers_add]] = `1500` → [[vanilla/Население/Типы/Фермеры|Фермеры]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)» — ваниль 1.13, `pm_refrigerated_storage_building_livestock_ranch`"
+description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)» — ваниль 1.15, `pm_refrigerated_storage_building_livestock_ranch`"
 project: vic3
 audience: agent
 source: vanilla

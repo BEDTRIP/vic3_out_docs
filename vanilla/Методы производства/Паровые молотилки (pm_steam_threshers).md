@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — ваниль 1.13, `pm_steam_threshers`"
+description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — ваниль 1.15, `pm_steam_threshers`"
 project: vic3
 audience: agent
 source: vanilla

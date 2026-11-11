@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «La Gran Azucarera» — ваниль 1.13, `company_gran_azucarera`"
+description: "Вид компании «La Gran Azucarera» — ваниль 1.15, `company_gran_azucarera`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 ---
 # La Gran Azucarera
 
-Вид компании · `company_gran_azucarera` · `common/company_types/00_companies_ip4.txt:167`
+Вид компании · `company_gran_azucarera` · `common/company_types/00_companies_ip4.txt:165`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **building_types**: [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]], [[vanilla/Здания/Лесозаготовки|Лесозаготовки]], [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **possible_prestige_goods**: `prestige_good_havana_sugar`
-- **potential**: скрипт, строки 189–192
-- **attainable**: скрипт, строки 194–204
-- **possible**: скрипт, строки 206–219
+- **potential**: скрипт, строки 187–190
+- **attainable**: скрипт, строки 192–202
+- **possible**: скрипт, строки 204–217
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы S#^m-state-aristocrats-investment-pool-efficiency-mult|state_aristocrats_investment_pool_efficiency_mult]] = `0.15`
-- **ai_will_do**: скрипт, строки 226–235
-- **ai_construction_targets**: скрипт, строки 237–248
-- **ai_weight**: скрипт, строки 250–252
+- **ai_will_do**: скрипт, строки 224–233
+- **ai_construction_targets**: скрипт, строки 235–246
+- **ai_weight**: скрипт, строки 248–250

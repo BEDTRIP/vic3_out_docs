@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Нет эффекта (pm_freedom_of_movement_no_effect)» — ваниль 1.13, `pm_freedom_of_movement_no_effect`"
+description: "Метод производства «Нет эффекта (pm_freedom_of_movement_no_effect)» — ваниль 1.15, `pm_freedom_of_movement_no_effect`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/06_urban_center.txt]
 ---
 # Нет эффекта (pm_freedom_of_movement_no_effect)
 
-Метод производства · `pm_freedom_of_movement_no_effect` · `common/production_methods/06_urban_center.txt:334`
+Метод производства · `pm_freedom_of_movement_no_effect` · `common/production_methods/06_urban_center.txt:335`
 
 ## Поля
 

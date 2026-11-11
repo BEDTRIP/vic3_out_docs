@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Klaničko Društvo» — ваниль 1.13, `company_klanicko_drustvo`"
+description: "Вид компании «Klaničko Društvo» — ваниль 1.15, `company_klanicko_drustvo`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 ---
 # Klaničko Društvo
 
-Вид компании · `company_klanicko_drustvo` · `common/company_types/00_companies_ip3.txt:223`
+Вид компании · `company_klanicko_drustvo` · `common/company_types/00_companies_ip3.txt:237`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **building_types**: [[vanilla/Здания/Пищевые производства|Пищевые производства]], [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
 - **extension_building_types**: [[vanilla/Здания/Пшеничные поля|Пшеничные поля]], [[vanilla/Здания/Лесозаготовки|Лесозаготовки]]
 - **possible_prestige_goods**: `prestige_good_acorn_fed_pork`
-- **potential**: скрипт, строки 243–246
-- **attainable**: скрипт, строки 248–256
-- **possible**: скрипт, строки 258–270
+- **potential**: скрипт, строки 257–260
+- **attainable**: скрипт, строки 262–270
+- **possible**: скрипт, строки 272–284
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
   - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Заводы синтетики|Заводы синтетики]]
-- **ai_will_do**: скрипт, строки 277–282
-- **ai_construction_targets**: скрипт, строки 284–297
-- **ai_weight**: скрипт, строки 299–301
+- **ai_will_do**: скрипт, строки 291–296
+- **ai_construction_targets**: скрипт, строки 298–311
+- **ai_weight**: скрипт, строки 313–315

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_aristocrats)» — ваниль 1.13, `pm_company_headquarter_privately_owned_aristocrats`"
+description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_aristocrats)» — ваниль 1.15, `pm_company_headquarter_privately_owned_aristocrats`"
 project: vic3
 audience: agent
 source: vanilla

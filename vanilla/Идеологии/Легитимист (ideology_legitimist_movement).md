@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Легитимист (ideology_legitimist_movement)» — ваниль 1.13, `ideology_legitimist_movement`"
+description: "Идеология «Легитимист (ideology_legitimist_movement)» — ваниль 1.15, `ideology_legitimist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Легитимист (ideology_legitimist_movement)
 
-Идеология · `ideology_legitimist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1267`
+Идеология · `ideology_legitimist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1503`
 
 ## Поля
 
@@ -35,6 +35,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_church_and_state**:
   - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `approve`
   - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`

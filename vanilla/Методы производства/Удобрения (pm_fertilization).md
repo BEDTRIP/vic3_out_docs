@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Удобрения (pm_fertilization)» — ваниль 1.13, `pm_fertilization`"
+description: "Метод производства «Удобрения (pm_fertilization)» — ваниль 1.15, `pm_fertilization`"
 project: vic3
 audience: agent
 source: vanilla

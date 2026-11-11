@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Джингоизм (ideology_jingoist)» — ваниль 1.13, `ideology_jingoist`"
+description: "Идеология «Джингоизм (ideology_jingoist)» — ваниль 1.15, `ideology_jingoist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
 ---
 # Джингоизм (ideology_jingoist)
 
-Идеология · `ideology_jingoist` · `common/ideologies/00_ig_ideologies.txt:551`
+Идеология · `ideology_jingoist` · `common/ideologies/00_ig_ideologies.txt:602`
 
 ## Поля
 
@@ -22,11 +22,13 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `approve`
   - [[vanilla/Законы/Национальное ополчение|Национальное ополчение]] = `disapprove`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `disapprove`
 - **lawgroup_colonization**:
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `approve`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `approve`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `approve`
-  - [[vanilla/Законы/Нет колоний|Нет колоний]] = `neutral`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `neutral`
+  - [[vanilla/Законы/Нет колоний|Нет колоний]] = `disapprove`
 
 ## Ссылаются
 

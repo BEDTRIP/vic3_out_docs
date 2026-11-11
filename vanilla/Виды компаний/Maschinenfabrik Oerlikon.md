@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Maschinenfabrik Oerlikon» — ваниль 1.13, `company_maschinenfabrik_oerlikon`"
+description: "Вид компании «Maschinenfabrik Oerlikon» — ваниль 1.15, `company_maschinenfabrik_oerlikon`"
 project: vic3
 audience: agent
 source: vanilla

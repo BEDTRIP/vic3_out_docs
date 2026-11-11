@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Орлеанист (ideology_orleanist_movement)» — ваниль 1.13, `ideology_orleanist_movement`"
+description: "Идеология «Орлеанист (ideology_orleanist_movement)» — ваниль 1.15, `ideology_orleanist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Орлеанист (ideology_orleanist_movement)
 
-Идеология · `ideology_orleanist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1155`
+Идеология · `ideology_orleanist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1388`
 
 ## Поля
 
@@ -35,6 +35,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Свободная конкуренция|Свободная конкуренция]] = `strongly_approve`
   - [[vanilla/Законы/Интервенционизм|Интервенционизм]] = `neutral`

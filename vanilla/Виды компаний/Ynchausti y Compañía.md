@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Ynchausti y Compañía» — ваниль 1.13, `company_ynchausti_y_compania`"
+description: "Вид компании «Ynchausti y Compañía» — ваниль 1.15, `company_ynchausti_y_compania`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 ---
 # Ynchausti y Compañía
 
-Вид компании · `company_ynchausti_y_compania` · `common/company_types/00_companies_ip4.txt:345`
+Вид компании · `company_ynchausti_y_compania` · `common/company_types/00_companies_ip4.txt:343`
 
 ## Поля
 
@@ -20,15 +20,15 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Пищевые производства|Пищевые производства]], [[vanilla/Здания/Порты|Порты]], [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
-- **extension_building_types**: [[vanilla/Здания/верфи|верфи]], [[vanilla/Здания/Рисовые поля|Рисовые поля]]
+- **extension_building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Рисовые поля|Рисовые поля]]
 - **possible_prestige_goods**: `prestige_good_generic_merchant_marine`
-- **prestige_goods_trigger**: скрипт, строки 366–371
-- **potential**: скрипт, строки 373–376
-- **attainable**: скрипт, строки 378–387
-- **possible**: скрипт, строки 389–405
+- **prestige_goods_trigger**: скрипт, строки 364–369
+- **potential**: скрипт, строки 371–374
+- **attainable**: скрипт, строки 376–385
+- **possible**: скрипт, строки 387–403
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-construction-mult|state_construction_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 412–420
-- **ai_construction_targets**: скрипт, строки 422–451
-- **ai_weight**: скрипт, строки 453–455
+- **ai_will_do**: скрипт, строки 410–418
+- **ai_construction_targets**: скрипт, строки 420–449
+- **ai_weight**: скрипт, строки 451–453

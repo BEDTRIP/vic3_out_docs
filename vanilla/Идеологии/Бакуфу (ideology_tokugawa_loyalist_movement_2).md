@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Бакуфу (ideology_tokugawa_loyalist_movement_2)» — ваниль 1.13, `ideology_tokugawa_loyalist_movement_2`"
+description: "Идеология «Бакуфу (ideology_tokugawa_loyalist_movement_2)» — ваниль 1.15, `ideology_tokugawa_loyalist_movement_2`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Бакуфу (ideology_tokugawa_loyalist_movement_2)
 
-Идеология · `ideology_tokugawa_loyalist_movement_2` · `common/ideologies/03_ig_ideologies_movement.txt:1832`
+Идеология · `ideology_tokugawa_loyalist_movement_2` · `common/ideologies/03_ig_ideologies_movement.txt:2083`
 
 ## Поля
 
@@ -27,16 +27,28 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
+- **lawgroup_edo_social_system**:
+  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `approve`
+  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `neutral`
+  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `disapprove`
 - **lawgroup_army_model**:
   - [[vanilla/Законы/Национальное ополчение|Национальное ополчение]] = `strongly_disapprove`
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `approve`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `neutral`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `strongly_disapprove`
 - **lawgroup_navy_model**:
   - [[vanilla/Законы/Торговый флот|Торговый флот]] = `disapprove`
   - [[vanilla/Законы/Молодая школа|Молодая школа]] = `approve`
   - [[vanilla/Законы/Флот крупных кораблей|Флот крупных кораблей]] = `neutral`
   - [[vanilla/Законы/Дипломатический флот|Дипломатический флот]] = `neutral`
+- **lawgroup_internal_security**:
+  - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `neutral`
+  - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `strongly_disapprove`
+  - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `disapprove`
+  - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `approve`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
 - **lawgroup_labour_associations**:
   - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `neutral`
   - [[vanilla/Законы/Система гильдий|Система гильдий]] = `approve`
@@ -44,12 +56,3 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `neutral`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **lawgroup_edo_social_system**:
-  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `approve`
-  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `neutral`
-  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `disapprove`
-- **lawgroup_internal_security**:
-  - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `neutral`
-  - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `strongly_disapprove`
-  - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `disapprove`
-  - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `approve`

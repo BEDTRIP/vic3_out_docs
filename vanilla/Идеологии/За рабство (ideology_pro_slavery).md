@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «За рабство (ideology_pro_slavery)» — ваниль 1.13, `ideology_pro_slavery`"
+description: "Идеология «За рабство (ideology_pro_slavery)» — ваниль 1.15, `ideology_pro_slavery`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
 ---
 # За рабство (ideology_pro_slavery)
 
-Идеология · `ideology_pro_slavery` · `common/ideologies/00_ig_ideologies.txt:920`
+Идеология · `ideology_pro_slavery` · `common/ideologies/00_ig_ideologies.txt:1057`
 
 ## Поля
 

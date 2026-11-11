@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основание (pmg_base_building_big_ben)» — ваниль 1.13, `pmg_base_building_big_ben`"
+description: "Группа методов производства «Основание (pmg_base_building_big_ben)» — ваниль 1.15, `pmg_base_building_big_ben`"
 project: vic3
 audience: agent
 source: vanilla

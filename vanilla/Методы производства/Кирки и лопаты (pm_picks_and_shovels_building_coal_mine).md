@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Кирки и лопаты (pm_picks_and_shovels_building_coal_mine)» — ваниль 1.13, `pm_picks_and_shovels_building_coal_mine`"
+description: "Метод производства «Кирки и лопаты (pm_picks_and_shovels_building_coal_mine)» — ваниль 1.15, `pm_picks_and_shovels_building_coal_mine`"
 project: vic3
 audience: agent
 source: vanilla

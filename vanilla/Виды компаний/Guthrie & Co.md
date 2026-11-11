@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Guthrie & Co» — ваниль 1.13, `company_guthrie`"
+description: "Вид компании «Guthrie & Co» — ваниль 1.15, `company_guthrie`"
 project: vic3
 audience: agent
 source: vanilla

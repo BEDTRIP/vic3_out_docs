@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Нигилизм (ideology_nihilist)» — ваниль 1.13, `ideology_nihilist`"
+description: "Идеология «Нигилизм (ideology_nihilist)» — ваниль 1.15, `ideology_nihilist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Нигилизм (ideology_nihilist)
 
-Идеология · `ideology_nihilist` · `common/ideologies/01_character_ideologies.txt:536`
+Идеология · `ideology_nihilist` · `common/ideologies/01_character_ideologies.txt:566`
 
 ## Поля
 
@@ -26,20 +26,24 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Корпоративное государство|Корпоративное государство]] = `disapprove`
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Советская республика|Советская республика]] = `approve`
-- **lawgroup_church_and_state**:
-  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_disapprove`
-  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
-  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `neutral`
-  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_approve`
 - **lawgroup_caste_hegemony**:
   - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_disapprove`
   - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `disapprove`
   - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
   - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `neutral`
+- **lawgroup_edo_social_system**:
+  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `disapprove`
+  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `neutral`
+- **lawgroup_church_and_state**:
+  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_disapprove`
+  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
+  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `neutral`
+  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_approve`
 - **country_trigger**:
   - `has_technology_researched` = [[vanilla/Технологии/Реализм|Реализм]]
 - **interest_group_leader_trigger**:
   - `ideology_nihilist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 573–600
-- **interest_group_leader_weight**: скрипт, строки 602–743
-- **non_interest_group_leader_weight**: скрипт, строки 745–849
+- **non_interest_group_leader_trigger**: скрипт, строки 609–636
+- **interest_group_leader_weight**: скрипт, строки 638–799
+- **non_interest_group_leader_weight**: скрипт, строки 801–922

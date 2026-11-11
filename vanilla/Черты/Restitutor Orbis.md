@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Restitutor Orbis» — ваниль 1.13, `special_character_restitutor_orbis`"
+description: "Черта персонажа «Restitutor Orbis» — ваниль 1.15, `special_character_restitutor_orbis`"
 project: vic3
 audience: agent
 source: vanilla

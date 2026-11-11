@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Fundição Ipanema»» — ваниль 1.13, `company_fundicao_ipanema`"
+description: "Вид компании ««Fundição Ipanema»» — ваниль 1.15, `company_fundicao_ipanema`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 ---
 # «Fundição Ipanema»
 
-Вид компании · `company_fundicao_ipanema` · `common/company_types/00_companies_cots.txt:245`
+Вид компании · `company_fundicao_ipanema` · `common/company_types/00_companies_cots.txt:243`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 266–271
-- **potential**: скрипт, строки 273–276
-- **attainable**: скрипт, строки 278–284
-- **possible**: скрипт, строки 286–295
+- **prestige_goods_trigger**: скрипт, строки 264–269
+- **potential**: скрипт, строки 271–274
+- **attainable**: скрипт, строки 276–282
+- **possible**: скрипт, строки 284–291
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-munition-plant-throughput-add|building_munition_plant_throughput_add]] = `0.05` → [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
   - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
-- **ai_will_do**: скрипт, строки 302–307
-- **ai_construction_targets**: скрипт, строки 309–322
-- **ai_weight**: скрипт, строки 324–326
+- **ai_will_do**: скрипт, строки 298–303
+- **ai_construction_targets**: скрипт, строки 305–318
+- **ai_weight**: скрипт, строки 320–322

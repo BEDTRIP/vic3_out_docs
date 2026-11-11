@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Нет домашних мастерских (pm_home_workshops_no_building_subsistence_pasture)» — ваниль 1.13, `pm_home_workshops_no_building_subsistence_pasture`"
+description: "Метод производства «Нет домашних мастерских (pm_home_workshops_no_building_subsistence_pasture)» — ваниль 1.15, `pm_home_workshops_no_building_subsistence_pasture`"
 project: vic3
 audience: agent
 source: vanilla

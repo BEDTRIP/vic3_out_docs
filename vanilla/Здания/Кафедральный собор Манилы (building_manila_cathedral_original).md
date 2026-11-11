@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Здание «Кафедральный собор Манилы (building_manila_cathedral_original)» — ваниль 1.13, `building_manila_cathedral_original`"
+description: "Здание «Кафедральный собор Манилы (building_manila_cathedral_original)» — ваниль 1.15, `building_manila_cathedral_original`"
 project: vic3
 audience: agent
 source: vanilla

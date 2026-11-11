@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_oil_rig)» — ваниль 1.13, `pmg_base_building_oil_rig`"
+description: "Группа методов производства «Основа (pmg_base_building_oil_rig)» — ваниль 1.15, `pmg_base_building_oil_rig`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Вторичный (pmg_secondary_building_rye_farm)» — ваниль 1.13, `pmg_secondary_building_rye_farm`"
+description: "Группа методов производства «Вторичный (pmg_secondary_building_rye_farm)» — ваниль 1.15, `pmg_secondary_building_rye_farm`"
 project: vic3
 audience: agent
 source: vanilla

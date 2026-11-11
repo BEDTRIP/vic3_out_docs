@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Либерализм (ideology_liberal_leader)» — ваниль 1.13, `ideology_liberal_leader`"
+description: "Идеология «Либерализм (ideology_liberal_leader)» — ваниль 1.15, `ideology_liberal_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Либерализм (ideology_liberal_leader)
 
-Идеология · `ideology_liberal_leader` · `common/ideologies/01_character_ideologies.txt:8825`
+Идеология · `ideology_liberal_leader` · `common/ideologies/01_character_ideologies.txt:9739`
 
 ## Поля
 
@@ -28,15 +28,19 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `disapprove`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `strongly_disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `strongly_approve`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `approve`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`
@@ -44,6 +48,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `disapprove`
 - **country_trigger**:
   - `has_technology_researched` = [[vanilla/Технологии/Демократия|Демократия]]
-- **non_interest_group_leader_trigger**: скрипт, строки 8866–8880
-- **interest_group_leader_weight**: скрипт, строки 8882–9009
-- **non_interest_group_leader_weight**: скрипт, строки 9011–9114
+- **non_interest_group_leader_trigger**: скрипт, строки 9784–9798
+- **interest_group_leader_weight**: скрипт, строки 9800–9932
+- **non_interest_group_leader_weight**: скрипт, строки 9934–10042

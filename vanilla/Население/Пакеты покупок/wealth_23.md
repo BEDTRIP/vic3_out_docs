@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Пакет покупок «wealth_23» — ваниль 1.13, `wealth_23`"
+description: "Пакет покупок «wealth_23» — ваниль 1.15, `wealth_23`"
 project: vic3
 audience: agent
 source: vanilla

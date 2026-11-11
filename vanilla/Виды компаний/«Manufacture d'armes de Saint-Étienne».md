@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Manufacture d'armes de Saint-Étienne»» — ваниль 1.13, `company_saint_etienne`"
+description: "Вид компании ««Manufacture d'armes de Saint-Étienne»» — ваниль 1.15, `company_saint_etienne`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 ---
 # «Manufacture d'armes de Saint-Étienne»
 
-Вид компании · `company_saint_etienne` · `common/company_types/00_companies_france.txt:293`
+Вид компании · `company_saint_etienne` · `common/company_types/00_companies_france.txt:297`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_france.txt]
 - **building_types**: [[vanilla/Здания/Оружейные заводы|Оружейные заводы]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
 - **extension_building_types**: [[vanilla/Здания/Заводы взрывчатки|Заводы взрывчатки]]
 - **possible_prestige_goods**: `prestige_good_saint_etienne_rifles`
-- **potential**: скрипт, строки 315–317
-- **attainable**: скрипт, строки 319–325
-- **possible**: скрипт, строки 327–337
+- **potential**: скрипт, строки 319–321
+- **attainable**: скрипт, строки 323–329
+- **possible**: скрипт, строки 331–339
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 344–350
-- **ai_construction_targets**: скрипт, строки 352–359
-- **ai_weight**: скрипт, строки 361–363
+- **ai_will_do**: скрипт, строки 346–352
+- **ai_construction_targets**: скрипт, строки 354–361
+- **ai_weight**: скрипт, строки 363–371

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин игры «Занятость (employment)» — подсказка-понятие Victoria 3 1.13 (`concept_employment`)"
+description: "Термин игры «Занятость (employment)» — подсказка-понятие Victoria 3 1.15 (`concept_employment`)"
 project: vic3
 audience: agent
 source: vanilla

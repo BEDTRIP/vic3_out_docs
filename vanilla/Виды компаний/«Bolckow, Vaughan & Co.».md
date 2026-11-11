@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Bolckow, Vaughan & Co.»» — ваниль 1.13, `company_bolckow_vaughan`"
+description: "Вид компании ««Bolckow, Vaughan & Co.»» — ваниль 1.15, `company_bolckow_vaughan`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 ---
 # «Bolckow, Vaughan & Co.»
 
-Вид компании · `company_bolckow_vaughan` · `common/company_types/00_companies_great_britain.txt:299`
+Вид компании · `company_bolckow_vaughan` · `common/company_types/00_companies_great_britain.txt:293`
 
 ## Поля
 
@@ -23,11 +23,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]], [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
 - **possible_prestige_goods**: `prestige_good_sheffield_steel`
-- **potential**: скрипт, строки 321–323
-- **attainable**: скрипт, строки 325–331
-- **possible**: скрипт, строки 333–347
+- **potential**: скрипт, строки 315–317
+- **attainable**: скрипт, строки 319–325
+- **possible**: скрипт, строки 327–341
 - **prosperity_modifier**:
-  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[vanilla/Здания/верфи|верфи]]
-- **ai_will_do**: скрипт, строки 353–359
-- **ai_construction_targets**: скрипт, строки 361–380
-- **ai_weight**: скрипт, строки 382–384
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[vanilla/Здания/Верфи|Верфи]]
+- **ai_will_do**: скрипт, строки 347–353
+- **ai_construction_targets**: скрипт, строки 355–374
+- **ai_weight**: скрипт, строки 376–378

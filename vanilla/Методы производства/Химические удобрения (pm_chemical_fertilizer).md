@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Химические удобрения (pm_chemical_fertilizer)» — ваниль 1.13, `pm_chemical_fertilizer`"
+description: "Метод производства «Химические удобрения (pm_chemical_fertilizer)» — ваниль 1.15, `pm_chemical_fertilizer`"
 project: vic3
 audience: agent
 source: vanilla

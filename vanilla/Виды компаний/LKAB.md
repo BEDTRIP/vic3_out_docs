@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «LKAB» — ваниль 1.13, `company_lkab`"
+description: "Вид компании «LKAB» — ваниль 1.15, `company_lkab`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # LKAB
 
-Вид компании · `company_lkab` · `common/company_types/00_companies_europe.txt:633`
+Вид компании · `company_lkab` · `common/company_types/00_companies_europe.txt:632`
 
 ## Поля
 
@@ -24,11 +24,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **possible_prestige_goods**: `prestige_good_swedish_bar_iron`
-- **potential**: скрипт, строки 655–657
-- **attainable**: скрипт, строки 659–665
-- **possible**: скрипт, строки 667–678
+- **potential**: скрипт, строки 654–656
+- **attainable**: скрипт, строки 658–664
+- **possible**: скрипт, строки 666–677
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.2` → [[vanilla/Здания/Железные рудники|Железные рудники]]
-- **ai_will_do**: скрипт, строки 684–690
-- **ai_construction_targets**: скрипт, строки 692–705
-- **ai_weight**: скрипт, строки 707–709
+- **ai_will_do**: скрипт, строки 683–689
+- **ai_construction_targets**: скрипт, строки 691–704
+- **ai_weight**: скрипт, строки 706–708

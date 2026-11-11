@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Роялизм (ideology_royalist_movement)» — ваниль 1.13, `ideology_royalist_movement`"
+description: "Идеология «Роялизм (ideology_royalist_movement)» — ваниль 1.15, `ideology_royalist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Роялизм (ideology_royalist_movement)
 
-Идеология · `ideology_royalist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:126`
+Идеология · `ideology_royalist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:181`
 
 ## Поля
 

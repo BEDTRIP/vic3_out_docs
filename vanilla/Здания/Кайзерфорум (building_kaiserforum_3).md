@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Здание «Кайзерфорум (building_kaiserforum_3)» — ваниль 1.13, `building_kaiserforum_3`"
+description: "Здание «Кайзерфорум (building_kaiserforum_3)» — ваниль 1.15, `building_kaiserforum_3`"
 project: vic3
 audience: agent
 source: vanilla

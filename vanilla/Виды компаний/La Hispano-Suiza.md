@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «La Hispano-Suiza» — ваниль 1.13, `company_hispano_suiza`"
+description: "Вид компании «La Hispano-Suiza» — ваниль 1.15, `company_hispano_suiza`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 ---
 # La Hispano-Suiza
 
-Вид компании · `company_hispano_suiza` · `common/company_types/00_companies_ip4.txt:788`
+Вид компании · `company_hispano_suiza` · `common/company_types/00_companies_ip4.txt:780`
 
 ## Поля
 
@@ -21,13 +21,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]], [[vanilla/Здания/Моторные заводы|Моторные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Производства инструментов|Производства инструментов]]
-- **potential**: скрипт, строки 803–806
-- **attainable**: скрипт, строки 808–814
-- **possible**: скрипт, строки 816–824
+- **potential**: скрипт, строки 795–798
+- **attainable**: скрипт, строки 800–806
+- **possible**: скрипт, строки 808–814
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-approval-add|interest_group_ig_landowners_approval_add]] = `2`
   - [[vanilla/движок/Модификаторы U#^m-unit-supply-consumption-mult|unit_supply_consumption_mult]] = `-0.05`
-- **ai_will_do**: скрипт, строки 832–836
-- **ai_construction_targets**: скрипт, строки 838–845
-- **ai_weight**: скрипт, строки 846–848
+- **ai_will_do**: скрипт, строки 822–826
+- **ai_construction_targets**: скрипт, строки 828–835
+- **ai_weight**: скрипт, строки 836–838

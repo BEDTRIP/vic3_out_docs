@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_explosives_building_chemical_plant)» — ваниль 1.13, `pmg_explosives_building_chemical_plant`"
+description: "Группа методов производства «Основа (pmg_explosives_building_chemical_plant)» — ваниль 1.15, `pmg_explosives_building_chemical_plant`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Базовое производство (default_building_tea_plantation)» — ваниль 1.13, `default_building_tea_plantation`"
+description: "Метод производства «Базовое производство (default_building_tea_plantation)» — ваниль 1.15, `default_building_tea_plantation`"
 project: vic3
 audience: agent
 source: vanilla

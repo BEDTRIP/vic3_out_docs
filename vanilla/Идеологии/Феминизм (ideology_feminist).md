@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Феминизм (ideology_feminist)» — ваниль 1.13, `ideology_feminist`"
+description: "Идеология «Феминизм (ideology_feminist)» — ваниль 1.15, `ideology_feminist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Феминизм (ideology_feminist)
 
-Идеология · `ideology_feminist` · `common/ideologies/01_character_ideologies.txt:1944`
+Идеология · `ideology_feminist` · `common/ideologies/01_character_ideologies.txt:2051`
 
 ## Поля
 
@@ -27,6 +27,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - `has_technology_researched` = [[vanilla/Технологии/Феминизм|Феминизм]]
 - **interest_group_leader_trigger**:
   - `ideology_feminist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 1964–1975
-- **interest_group_leader_weight**: скрипт, строки 1977–2112
-- **non_interest_group_leader_weight**: скрипт, строки 2114–2194
+- **non_interest_group_leader_trigger**: скрипт, строки 2071–2082
+- **interest_group_leader_weight**: скрипт, строки 2084–2224
+- **non_interest_group_leader_weight**: скрипт, строки 2226–2311

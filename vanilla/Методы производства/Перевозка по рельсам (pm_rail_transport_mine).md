@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Перевозка по рельсам (pm_rail_transport_mine)» — ваниль 1.13, `pm_rail_transport_mine`"
+description: "Метод производства «Перевозка по рельсам (pm_rail_transport_mine)» — ваниль 1.15, `pm_rail_transport_mine`"
 project: vic3
 audience: agent
 source: vanilla
@@ -29,4 +29,4 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
 
 ## Ссылаются
 
-- **Группы методов** (методы группы): [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_coal_mine)|Использование поездов (pmg_train_automation_building_coal_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_gold_mine)|Использование поездов (pmg_train_automation_building_gold_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_iron_mine)|Использование поездов (pmg_train_automation_building_iron_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_lead_mine)|Использование поездов (pmg_train_automation_building_lead_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_sulfur_mine)|Использование поездов (pmg_train_automation_building_sulfur_mine)]]
+- **Группы методов** (методы группы): [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_coal_mine)|Использование поездов (pmg_train_automation_building_coal_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_copper_mine)|Использование поездов (pmg_train_automation_building_copper_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_gold_mine)|Использование поездов (pmg_train_automation_building_gold_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_iron_mine)|Использование поездов (pmg_train_automation_building_iron_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_lead_mine)|Использование поездов (pmg_train_automation_building_lead_mine)]], [[vanilla/Группы методов/Использование поездов (pmg_train_automation_building_sulfur_mine)|Использование поездов (pmg_train_automation_building_sulfur_mine)]]

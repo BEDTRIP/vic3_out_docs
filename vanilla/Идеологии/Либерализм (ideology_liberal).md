@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Либерализм (ideology_liberal)» — ваниль 1.13, `ideology_liberal`"
+description: "Идеология «Либерализм (ideology_liberal)» — ваниль 1.15, `ideology_liberal`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
 ---
 # Либерализм (ideology_liberal)
 
-Идеология · `ideology_liberal` · `common/ideologies/00_ig_ideologies.txt:569`
+Идеология · `ideology_liberal` · `common/ideologies/00_ig_ideologies.txt:622`
 
 ## Поля
 
@@ -24,16 +24,17 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies.txt]
   - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `neutral`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `approve`
   - [[vanilla/Законы/Подданство|Подданство]] = `strongly_disapprove`
-- **lawgroup_policing**:
-  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `neutral`
-  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
-  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `disapprove`
-  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `strongly_disapprove`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `approve`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `neutral`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_policing**:
+  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `neutral`
+  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
+  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `disapprove`
+  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `strongly_disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`

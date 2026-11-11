@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Дизельный насос (pm_diesel_pump_building_iron_mine)» — ваниль 1.13, `pm_diesel_pump_building_iron_mine`"
+description: "Метод производства «Дизельный насос (pm_diesel_pump_building_iron_mine)» — ваниль 1.15, `pm_diesel_pump_building_iron_mine`"
 project: vic3
 audience: agent
 source: vanilla

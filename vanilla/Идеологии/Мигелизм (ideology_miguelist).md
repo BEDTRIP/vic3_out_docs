@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Мигелизм (ideology_miguelist)» — ваниль 1.13, `ideology_miguelist`"
+description: "Идеология «Мигелизм (ideology_miguelist)» — ваниль 1.15, `ideology_miguelist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Мигелизм (ideology_miguelist)
 
-Идеология · `ideology_miguelist` · `common/ideologies/01_character_ideologies.txt:11126`
+Идеология · `ideology_miguelist` · `common/ideologies/01_character_ideologies.txt:12176`
 
 ## Поля
 
@@ -26,15 +26,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `approve`
   - [[vanilla/Законы/Теократия|Теократия]] = `disapprove`
   - [[vanilla/Законы/Советская республика|Советская республика]] = `strongly_disapprove`
-- **lawgroup_economic_system**:
-  - [[vanilla/Законы/Традиционализм|Традиционализм]] = `strongly_approve`
-  - [[vanilla/Законы/Аграрность|Аграрность]] = `approve`
-  - [[vanilla/Законы/Интервенционизм|Интервенционизм]] = `disapprove`
-  - [[vanilla/Законы/Запрет промышленности|Запрет промышленности]] = `disapprove`
-  - [[vanilla/Законы/Свободная конкуренция|Свободная конкуренция]] = `disapprove`
-  - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
-  - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
-  - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `disapprove`
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Олигархия|Олигархия]] = `approve`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_approve`
@@ -45,6 +36,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Этническое государство|Этническое государство]] = `neutral`
   - [[vanilla/Законы/Подданство|Подданство]] = `approve`
@@ -57,9 +49,18 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
   - [[vanilla/Законы/Полное разделение|Полное разделение]] = `strongly_disapprove`
   - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 11180–11191
+- **lawgroup_economic_system**:
+  - [[vanilla/Законы/Традиционализм|Традиционализм]] = `strongly_approve`
+  - [[vanilla/Законы/Аграрность|Аграрность]] = `approve`
+  - [[vanilla/Законы/Интервенционизм|Интервенционизм]] = `disapprove`
+  - [[vanilla/Законы/Запрет промышленности|Запрет промышленности]] = `disapprove`
+  - [[vanilla/Законы/Свободная конкуренция|Свободная конкуренция]] = `disapprove`
+  - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
+  - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
+  - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `disapprove`
+- **country_trigger**: скрипт, строки 12231–12242
 - **interest_group_leader_trigger**:
   - `ideology_miguelist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 11197–11212
-- **interest_group_leader_weight**: скрипт, строки 11214–11305
-- **non_interest_group_leader_weight**: скрипт, строки 11307–11386
+- **non_interest_group_leader_trigger**: скрипт, строки 12248–12263
+- **interest_group_leader_weight**: скрипт, строки 12265–12361
+- **non_interest_group_leader_weight**: скрипт, строки 12363–12447

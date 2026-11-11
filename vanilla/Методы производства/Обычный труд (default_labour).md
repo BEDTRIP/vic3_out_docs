@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Обычный труд (default_labour)» — ваниль 1.13, `default_labour`"
+description: "Метод производства «Обычный труд (default_labour)» — ваниль 1.15, `default_labour`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/04_plantations.txt]
 ---
 # Обычный труд (default_labour)
 
-Метод производства · `default_labour` · `common/production_methods/04_plantations.txt:663`
+Метод производства · `default_labour` · `common/production_methods/04_plantations.txt:664`
 
 ## Поля
 

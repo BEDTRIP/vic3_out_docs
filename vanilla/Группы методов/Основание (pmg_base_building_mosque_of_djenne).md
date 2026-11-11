@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основание (pmg_base_building_mosque_of_djenne)» — ваниль 1.13, `pmg_base_building_mosque_of_djenne`"
+description: "Группа методов производства «Основание (pmg_base_building_mosque_of_djenne)» — ваниль 1.15, `pmg_base_building_mosque_of_djenne`"
 project: vic3
 audience: agent
 source: vanilla

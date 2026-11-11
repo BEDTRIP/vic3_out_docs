@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «White Star Line» — ваниль 1.13, `company_white_star_line`"
+description: "Вид компании «White Star Line» — ваниль 1.15, `company_white_star_line`"
 project: vic3
 audience: agent
 source: vanilla
@@ -21,7 +21,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_LANCASHIRE`
 - **building_types**: [[vanilla/Здания/Порты|Порты]]
-- **extension_building_types**: [[vanilla/Здания/верфи|верфи]]
+- **extension_building_types**: [[vanilla/Здания/Верфи|Верфи]]
 - **possible_prestige_goods**: `prestige_good_white_star_liners`
 - **potential**: скрипт, строки 1226–1229
 - **attainable**: скрипт, строки 1231–1237

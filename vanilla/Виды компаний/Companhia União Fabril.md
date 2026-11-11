@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Companhia União Fabril» — ваниль 1.13, `company_uniao_fabril`"
+description: "Вид компании «Companhia União Fabril» — ваниль 1.15, `company_uniao_fabril`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 ---
 # Companhia União Fabril
 
-Вид компании · `company_uniao_fabril` · `common/company_types/00_companies_ip4.txt:536`
+Вид компании · `company_uniao_fabril` · `common/company_types/00_companies_ip4.txt:532`
 
 ## Поля
 
@@ -20,15 +20,15 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Заводы удобрений|Заводы удобрений]], [[vanilla/Здания/Пшеничные поля|Пшеничные поля]], [[vanilla/Здания/Табачные плантации|Табачные плантации]]
-- **extension_building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]], [[vanilla/Здания/Порты|Порты]], [[vanilla/Здания/верфи|верфи]], [[vanilla/Здания/Пищевые производства|Пищевые производства]]
+- **extension_building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]], [[vanilla/Здания/Порты|Порты]], [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **possible_prestige_goods**: `prestige_good_generic_fertilizer`
-- **prestige_goods_trigger**: скрипт, строки 559–564
-- **potential**: скрипт, строки 566–569
-- **attainable**: скрипт, строки 571–579
-- **possible**: скрипт, строки 581–597
+- **prestige_goods_trigger**: скрипт, строки 555–560
+- **potential**: скрипт, строки 562–565
+- **attainable**: скрипт, строки 567–575
+- **possible**: скрипт, строки 577–593
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.05`
-- **ai_will_do**: скрипт, строки 604–611
-- **ai_construction_targets**: скрипт, строки 613–641
-- **ai_weight**: скрипт, строки 643–645
+- **ai_will_do**: скрипт, строки 600–607
+- **ai_construction_targets**: скрипт, строки 609–637
+- **ai_weight**: скрипт, строки 639–641

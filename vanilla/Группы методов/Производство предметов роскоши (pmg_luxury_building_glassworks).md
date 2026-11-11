@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Производство предметов роскоши (pmg_luxury_building_glassworks)» — ваниль 1.13, `pmg_luxury_building_glassworks`"
+description: "Группа методов производства «Производство предметов роскоши (pmg_luxury_building_glassworks)» — ваниль 1.15, `pmg_luxury_building_glassworks`"
 project: vic3
 audience: agent
 source: vanilla

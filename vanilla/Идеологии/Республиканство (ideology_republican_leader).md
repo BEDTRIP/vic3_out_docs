@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Республиканство (ideology_republican_leader)» — ваниль 1.13, `ideology_republican_leader`"
+description: "Идеология «Республиканство (ideology_republican_leader)» — ваниль 1.15, `ideology_republican_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Республиканство (ideology_republican_leader)
 
-Идеология · `ideology_republican_leader` · `common/ideologies/01_character_ideologies.txt:852`
+Идеология · `ideology_republican_leader` · `common/ideologies/01_character_ideologies.txt:925`
 
 ## Поля
 
@@ -28,13 +28,15 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Теократия|Теократия]] = `disapprove`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `disapprove`
 - **interest_group_leader_trigger**:
   - `ideology_republican_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 877–903
-- **interest_group_leader_weight**: скрипт, строки 905–1067
-- **non_interest_group_leader_weight**: скрипт, строки 1069–1173
+- **non_interest_group_leader_trigger**: скрипт, строки 952–978
+- **interest_group_leader_weight**: скрипт, строки 980–1147
+- **non_interest_group_leader_weight**: скрипт, строки 1149–1258
 
 ## Ссылаются
 

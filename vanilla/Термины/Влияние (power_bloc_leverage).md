@@ -1,10 +1,10 @@
 ---
 type: concept
-description: "Термин игры «Влияние (power_bloc_leverage)» — подсказка-понятие Victoria 3 1.13 (`concept_power_bloc_leverage`)"
+description: "Термин игры «Влияние (power_bloc_leverage)» — подсказка-понятие Victoria 3 1.15 (`concept_power_bloc_leverage`)"
 project: vic3
 audience: agent
 source: vanilla
-aliases: ["Отставание во влиянии", "Отставание", "Leverage", "concept_power_bloc_leverage"]
+aliases: ["Склоняется", "Отставание во влиянии", "Отставание", "Leverage", "concept_power_bloc_leverage"]
 tags: [ваниль, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 key: concept_power_bloc_leverage

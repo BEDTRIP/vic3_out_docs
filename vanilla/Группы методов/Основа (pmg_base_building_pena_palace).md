@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_pena_palace)» — ваниль 1.13, `pmg_base_building_pena_palace`"
+description: "Группа методов производства «Основа (pmg_base_building_pena_palace)» — ваниль 1.15, `pmg_base_building_pena_palace`"
 project: vic3
 audience: agent
 source: vanilla

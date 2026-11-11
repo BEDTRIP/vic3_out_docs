@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««F. Schichau»» — ваниль 1.13, `company_schichau`"
+description: "Вид компании ««F. Schichau»» — ваниль 1.15, `company_schichau`"
 project: vic3
 audience: agent
 source: vanilla
@@ -20,7 +20,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_germany.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_WEST_PRUSSIA`
-- **building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/верфи|верфи]]
+- **building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Верфи|Верфи]]
 - **possible_prestige_goods**: `prestige_good_schichau_engines`
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **potential**: скрипт, строки 234–236

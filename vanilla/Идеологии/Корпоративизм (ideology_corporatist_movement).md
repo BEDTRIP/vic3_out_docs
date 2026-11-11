@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Корпоративизм (ideology_corporatist_movement)» — ваниль 1.13, `ideology_corporatist_movement`"
+description: "Идеология «Корпоративизм (ideology_corporatist_movement)» — ваниль 1.15, `ideology_corporatist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Корпоративизм (ideology_corporatist_movement)
 
-Идеология · `ideology_corporatist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:489`
+Идеология · `ideology_corporatist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:702`
 
 ## Поля
 

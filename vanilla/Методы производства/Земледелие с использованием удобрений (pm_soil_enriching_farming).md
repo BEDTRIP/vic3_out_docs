@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Земледелие с использованием удобрений (pm_soil_enriching_farming)» — ваниль 1.13, `pm_soil_enriching_farming`"
+description: "Метод производства «Земледелие с использованием удобрений (pm_soil_enriching_farming)» — ваниль 1.15, `pm_soil_enriching_farming`"
 project: vic3
 audience: agent
 source: vanilla

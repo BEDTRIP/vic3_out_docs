@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Основа (pm_basic_naval_logistics_center)» — ваниль 1.13, `pm_basic_naval_logistics_center`"
+description: "Метод производства «Основа (pm_basic_naval_logistics_center)» — ваниль 1.15, `pm_basic_naval_logistics_center`"
 project: vic3
 audience: agent
 source: vanilla

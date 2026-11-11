@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Société Franco-Belge»» — ваниль 1.13, `company_franco_belge`"
+description: "Вид компании ««Société Franco-Belge»» — ваниль 1.15, `company_franco_belge`"
 project: vic3
 audience: agent
 source: vanilla

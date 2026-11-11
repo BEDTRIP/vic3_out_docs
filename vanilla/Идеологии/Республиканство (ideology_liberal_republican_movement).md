@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Республиканство (ideology_liberal_republican_movement)» — ваниль 1.13, `ideology_liberal_republican_movement`"
+description: "Идеология «Республиканство (ideology_liberal_republican_movement)» — ваниль 1.15, `ideology_liberal_republican_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Республиканство (ideology_liberal_republican_movement)
 
-Идеология · `ideology_liberal_republican_movement` · `common/ideologies/03_ig_ideologies_movement.txt:969`
+Идеология · `ideology_liberal_republican_movement` · `common/ideologies/03_ig_ideologies_movement.txt:1198`
 
 ## Поля
 
@@ -25,16 +25,6 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Парламентская республика|Парламентская республика]] = `approve`
   - [[vanilla/Законы/Корпоративное государство|Корпоративное государство]] = `neutral`
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `strongly_disapprove`
-- **lawgroup_internal_security**:
-  - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `approve`
-  - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `approve`
-  - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `disapprove`
-  - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
-- **lawgroup_free_speech**:
-  - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `approve`
-  - [[vanilla/Законы/Право собрания|Право собрания]] = `neutral`
-  - [[vanilla/Законы/Цензура|Цензура]] = `disapprove`
-  - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_disapprove`
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `approve`
   - [[vanilla/Законы/Имущественный ценз|Имущественный ценз]] = `approve`
@@ -45,10 +35,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
-- **lawgroup_bureaucracy**:
-  - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `approve`
-  - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
-  - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `strongly_disapprove`
   - [[vanilla/Законы/Этническое государство|Этническое государство]] = `strongly_disapprove`
@@ -56,3 +43,20 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `neutral`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `approve`
   - [[vanilla/Законы/Подданство|Подданство]] = `strongly_disapprove`
+- **lawgroup_bureaucracy**:
+  - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
+  - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
+- **lawgroup_internal_security**:
+  - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `approve`
+  - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `approve`
+  - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `disapprove`
+  - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_free_speech**:
+  - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `approve`
+  - [[vanilla/Законы/Право собрания|Право собрания]] = `neutral`
+  - [[vanilla/Законы/Цензура|Цензура]] = `disapprove`
+  - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_disapprove`

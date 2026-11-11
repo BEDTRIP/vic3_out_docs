@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Стандартное производство (pm_default_building_pena_convent)» — ваниль 1.13, `pm_default_building_pena_convent`"
+description: "Метод производства «Стандартное производство (pm_default_building_pena_convent)» — ваниль 1.15, `pm_default_building_pena_convent`"
 project: vic3
 audience: agent
 source: vanilla

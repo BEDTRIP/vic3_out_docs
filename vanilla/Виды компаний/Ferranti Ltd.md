@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Ferranti Ltd» — ваниль 1.13, `company_ferranti_ltd`"
+description: "Вид компании «Ferranti Ltd» — ваниль 1.15, `company_ferranti_ltd`"
 project: vic3
 audience: agent
 source: vanilla

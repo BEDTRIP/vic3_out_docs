@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Frankenstein et Cie., Établ. Électriques d’Ingolstadt»» — ваниль 1.13, `company_ingolstadt_electrical_company`"
+description: "Вид компании ««Frankenstein et Cie., Établ. Électriques d’Ingolstadt»» — ваниль 1.15, `company_ingolstadt_electrical_company`"
 project: vic3
 audience: agent
 source: vanilla
@@ -21,16 +21,16 @@ paths: [.vanillaVIC3/common/company_types/00_companies_totally_normal.txt]
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_BAVARIA`
 - **building_types**: [[vanilla/Здания/Электростанции|Электростанции]]
-- **extension_building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]], [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
+- **extension_building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]], [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]], [[vanilla/Здания/Медные рудники|Медные рудники]]
 - **possible_prestige_goods**: пусто
 - **potential**: пусто
-- **attainable**: скрипт, строки 25–30
-- **possible**: скрипт, строки 32–49
+- **attainable**: скрипт, строки 26–31
+- **possible**: скрипт, строки 33–50
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-frankenstein-company-bool|country_frankenstein_company_bool]] = `yes`
   - [[vanilla/движок/Модификаторы S#^m-state-mortality-mult|state_mortality_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы C#^m-country-tech-research-speed-mult|country_tech_research_speed_mult]] = `0.10`
-- **ai_will_do**: скрипт, строки 58–60
-- **ai_construction_targets**: скрипт, строки 62–75
-- **ai_weight**: скрипт, строки 77–79
+- **ai_will_do**: скрипт, строки 59–61
+- **ai_construction_targets**: скрипт, строки 63–76
+- **ai_weight**: скрипт, строки 78–80

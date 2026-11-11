@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Использование поездов (pmg_train_automation_building_lead_mine)» — ваниль 1.13, `pmg_train_automation_building_lead_mine`"
+description: "Группа методов производства «Использование поездов (pmg_train_automation_building_lead_mine)» — ваниль 1.15, `pmg_train_automation_building_lead_mine`"
 project: vic3
 audience: agent
 source: vanilla

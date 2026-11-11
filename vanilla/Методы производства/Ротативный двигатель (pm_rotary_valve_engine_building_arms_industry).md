@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — ваниль 1.13, `pm_rotary_valve_engine_building_arms_industry`"
+description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — ваниль 1.15, `pm_rotary_valve_engine_building_arms_industry`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 ---
 # Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)
 
-Метод производства · `pm_rotary_valve_engine_building_arms_industry` · `common/production_methods/01_industry.txt:2528`
+Метод производства · `pm_rotary_valve_engine_building_arms_industry` · `common/production_methods/01_industry.txt:2595`
 
 ## Поля
 
@@ -23,7 +23,8 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 - **unlocking_technologies**: [[vanilla/Технологии/Ротативный двигатель|Ротативный двигатель]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `15` → [[vanilla/Товары/Уголь|Уголь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `4` → [[vanilla/Товары/Инструменты|Инструменты]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `10` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 

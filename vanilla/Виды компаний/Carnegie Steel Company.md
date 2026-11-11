@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Carnegie Steel Company» — ваниль 1.13, `company_us_steel`"
+description: "Вид компании «Carnegie Steel Company» — ваниль 1.15, `company_us_steel`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_usa.txt]
 ---
 # Carnegie Steel Company
 
-Вид компании · `company_us_steel` · `common/company_types/00_companies_usa.txt:168`
+Вид компании · `company_us_steel` · `common/company_types/00_companies_usa.txt:166`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_usa.txt]
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Угольные шахты|Угольные шахты]]
 - **extension_building_types**: [[vanilla/Здания/Академии искусств|Академии искусств]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 190–195
-- **potential**: скрипт, строки 197–199
-- **attainable**: скрипт, строки 201–207
-- **possible**: скрипт, строки 209–219
+- **prestige_goods_trigger**: скрипт, строки 188–193
+- **potential**: скрипт, строки 195–197
+- **attainable**: скрипт, строки 199–205
+- **possible**: скрипт, строки 207–215
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[vanilla/Здания/верфи|верфи]]
-- **ai_will_do**: скрипт, строки 226–232
-- **ai_construction_targets**: скрипт, строки 234–241
-- **ai_weight**: скрипт, строки 243–245
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[vanilla/Здания/Верфи|Верфи]]
+- **ai_will_do**: скрипт, строки 222–228
+- **ai_construction_targets**: скрипт, строки 230–237
+- **ai_weight**: скрипт, строки 239–241

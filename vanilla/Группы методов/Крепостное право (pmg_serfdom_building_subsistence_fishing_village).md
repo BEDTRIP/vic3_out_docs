@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Крепостное право (pmg_serfdom_building_subsistence_fishing_village)» — ваниль 1.13, `pmg_serfdom_building_subsistence_fishing_village`"
+description: "Группа методов производства «Крепостное право (pmg_serfdom_building_subsistence_fishing_village)» — ваниль 1.15, `pmg_serfdom_building_subsistence_fishing_village`"
 project: vic3
 audience: agent
 source: vanilla

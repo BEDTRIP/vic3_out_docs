@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «De Beers Consolidated Mines Ltd» — ваниль 1.13, `company_de_beers`"
+description: "Вид компании «De Beers Consolidated Mines Ltd» — ваниль 1.15, `company_de_beers`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 ---
 # De Beers Consolidated Mines Ltd
 
-Вид компании · `company_de_beers` · `common/company_types/00_companies_mp1.txt:1320`
+Вид компании · `company_de_beers` · `common/company_types/00_companies_mp1.txt:1307`
 
 ## Поля
 
@@ -22,13 +22,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **preferred_headquarters**: `STATE_CAPE_COLONY`
 - **building_types**: [[vanilla/Здания/Золотые рудники|Золотые рудники]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]]
-- **potential**: скрипт, строки 1336–1339
+- **potential**: скрипт, строки 1323–1326
 - **attainable**: пусто
-- **possible**: скрипт, строки 1344–1352
+- **possible**: скрипт, строки 1331–1339
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-speed-mult|state_colony_growth_speed_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 1360–1365
-- **ai_construction_targets**: скрипт, строки 1367–1374
-- **ai_weight**: скрипт, строки 1376–1378
+- **ai_will_do**: скрипт, строки 1347–1352
+- **ai_construction_targets**: скрипт, строки 1354–1361
+- **ai_weight**: скрипт, строки 1363–1365

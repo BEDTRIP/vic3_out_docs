@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)» — ваниль 1.13, `pm_financial_district_principle_divine_economics_2`"
+description: "Метод производства «Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)» — ваниль 1.15, `pm_financial_district_principle_divine_economics_2`"
 project: vic3
 audience: agent
 source: vanilla

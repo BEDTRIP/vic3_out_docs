@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Da Afghan Nassaji Sherkat»» — ваниль 1.13, `company_da_afghan_nassaji_sherkat`"
+description: "Вид компании ««Da Afghan Nassaji Sherkat»» — ваниль 1.15, `company_da_afghan_nassaji_sherkat`"
 project: vic3
 audience: agent
 source: vanilla
@@ -26,10 +26,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **prestige_goods_trigger**: скрипт, строки 22–27
 - **potential**: скрипт, строки 29–32
 - **attainable**: скрипт, строки 34–40
-- **possible**: скрипт, строки 42–51
+- **possible**: скрипт, строки 42–49
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-mult|state_trade_capacity_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.1` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
-- **ai_will_do**: скрипт, строки 58–63
-- **ai_construction_targets**: скрипт, строки 65–72
-- **ai_weight**: скрипт, строки 74–76
+- **ai_will_do**: скрипт, строки 56–61
+- **ai_construction_targets**: скрипт, строки 63–70
+- **ai_weight**: скрипт, строки 72–74

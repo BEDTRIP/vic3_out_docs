@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основание (pmg_base_building_statue_of_liberty)» — ваниль 1.13, `pmg_base_building_statue_of_liberty`"
+description: "Группа методов производства «Основание (pmg_base_building_statue_of_liberty)» — ваниль 1.15, `pmg_base_building_statue_of_liberty`"
 project: vic3
 audience: agent
 source: vanilla

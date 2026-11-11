@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Водотрубный котёл (pm_watertube_boiler_building_motor_industry)» — ваниль 1.13, `pm_watertube_boiler_building_motor_industry`"
+description: "Метод производства «Водотрубный котёл (pm_watertube_boiler_building_motor_industry)» — ваниль 1.15, `pm_watertube_boiler_building_motor_industry`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 ---
 # Водотрубный котёл (pm_watertube_boiler_building_motor_industry)
 
-Метод производства · `pm_watertube_boiler_building_motor_industry` · `common/production_methods/01_industry.txt:1797`
+Метод производства · `pm_watertube_boiler_building_motor_industry` · `common/production_methods/01_industry.txt:1807`
 
 ## Поля
 

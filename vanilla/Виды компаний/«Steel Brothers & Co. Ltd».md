@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Steel Brothers & Co. Ltd»» — ваниль 1.13, `company_steel_brothers`"
+description: "Вид компании ««Steel Brothers & Co. Ltd»» — ваниль 1.15, `company_steel_brothers`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 ---
 # «Steel Brothers & Co. Ltd»
 
-Вид компании · `company_steel_brothers` · `common/company_types/00_companies_ip2.txt:585`
+Вид компании · `company_steel_brothers` · `common/company_types/00_companies_ip2.txt:573`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **building_types**: [[vanilla/Здания/Буровые вышки|Буровые вышки]], [[vanilla/Здания/Рисовые поля|Рисовые поля]]
 - **extension_building_types**: [[vanilla/Здания/Лесозаготовки|Лесозаготовки]]
 - **possible_prestige_goods**: `prestige_good_generic_grain`
-- **prestige_goods_trigger**: скрипт, строки 604–609
-- **potential**: скрипт, строки 611–614
-- **attainable**: скрипт, строки 616–622
-- **possible**: скрипт, строки 624–637
+- **prestige_goods_trigger**: скрипт, строки 592–597
+- **potential**: скрипт, строки 599–602
+- **attainable**: скрипт, строки 604–610
+- **possible**: скрипт, строки 612–625
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-throughput-add|building_group_bg_logging_throughput_add]] = `0.2`
-- **ai_will_do**: скрипт, строки 643–653
-- **ai_construction_targets**: скрипт, строки 655–666
-- **ai_weight**: скрипт, строки 668–670
+- **ai_will_do**: скрипт, строки 631–641
+- **ai_construction_targets**: скрипт, строки 643–654
+- **ai_weight**: скрипт, строки 656–658

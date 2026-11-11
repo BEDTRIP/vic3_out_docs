@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Илюстрадо (ideology_ilustrado)» — ваниль 1.13, `ideology_ilustrado`"
+description: "Идеология «Илюстрадо (ideology_ilustrado)» — ваниль 1.15, `ideology_ilustrado`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
 ---
 # Илюстрадо (ideology_ilustrado)
 
-Идеология · `ideology_ilustrado` · `common/ideologies/00_ig_ideologies_flavored.txt:1332`
+Идеология · `ideology_ilustrado` · `common/ideologies/00_ig_ideologies_flavored.txt:1411`
 
 ## Поля
 
@@ -24,17 +24,18 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_flavored.txt]
   - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `neutral`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `approve`
   - [[vanilla/Законы/Подданство|Подданство]] = `neutral`
-- **lawgroup_policing**:
-  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `neutral`
-  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
-  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `disapprove`
-  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `strongly_disapprove`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `approve`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `neutral`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `disapprove`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
+- **lawgroup_policing**:
+  - [[vanilla/Законы/Нет полиции|Нет полиции]] = `neutral`
+  - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `neutral`
+  - [[vanilla/Законы/Местная полиция|Местная полиция]] = `disapprove`
+  - [[vanilla/Законы/Военизированная полиция|Военизированная полиция]] = `strongly_disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`

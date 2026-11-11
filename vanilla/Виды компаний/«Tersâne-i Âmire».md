@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Tersâne-i Âmire»» — ваниль 1.13, `company_imperial_arsenal`"
+description: "Вид компании ««Tersâne-i Âmire»» — ваниль 1.15, `company_imperial_arsenal`"
 project: vic3
 audience: agent
 source: vanilla
@@ -21,13 +21,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **category**: `bureaucrat_owned`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_EASTERN_THRACE`
-- **building_types**: [[vanilla/Здания/верфи|верфи]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+- **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **extension_building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Заводы взрывчатки|Заводы взрывчатки]]
 - **potential**: скрипт, строки 111–113
 - **attainable**: скрипт, строки 115–121
-- **possible**: скрипт, строки 123–133
+- **possible**: скрипт, строки 123–131
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 139–145
-- **ai_construction_targets**: скрипт, строки 147–154
-- **ai_weight**: скрипт, строки 156–158
+- **ai_will_do**: скрипт, строки 137–143
+- **ai_construction_targets**: скрипт, строки 145–152
+- **ai_weight**: скрипт, строки 154–156

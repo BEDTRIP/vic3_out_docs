@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Haute Finance» — ваниль 1.13, `ig_trait_haute_finance`"
+description: "Черта группы интересов «Haute Finance» — ваниль 1.15, `ig_trait_haute_finance`"
 project: vic3
 audience: agent
 source: vanilla

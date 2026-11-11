@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Estaleiro Mauá»» — ваниль 1.13, `company_estaleiro_maua`"
+description: "Вид компании ««Estaleiro Mauá»» — ваниль 1.15, `company_estaleiro_maua`"
 project: vic3
 audience: agent
 source: vanilla
@@ -20,7 +20,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_RIO_DE_JANEIRO`
-- **building_types**: [[vanilla/Здания/верфи|верфи]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+- **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **extension_building_types**: [[vanilla/Здания/Лесозаготовки|Лесозаготовки]]
 - **potential**: скрипт, строки 106–109
 - **attainable**: скрипт, строки 111–117

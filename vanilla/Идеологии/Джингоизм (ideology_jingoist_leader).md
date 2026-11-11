@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Джингоизм (ideology_jingoist_leader)» — ваниль 1.13, `ideology_jingoist_leader`"
+description: "Идеология «Джингоизм (ideology_jingoist_leader)» — ваниль 1.15, `ideology_jingoist_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Джингоизм (ideology_jingoist_leader)
 
-Идеология · `ideology_jingoist_leader` · `common/ideologies/01_character_ideologies.txt:2810`
+Идеология · `ideology_jingoist_leader` · `common/ideologies/01_character_ideologies.txt:2959`
 
 ## Поля
 
@@ -23,21 +23,23 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `approve`
   - [[vanilla/Законы/Национальное ополчение|Национальное ополчение]] = `neutral`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `disapprove`
 - **lawgroup_navy_model**:
   - [[vanilla/Законы/Торговый флот|Торговый флот]] = `strongly_disapprove`
   - [[vanilla/Законы/Молодая школа|Молодая школа]] = `neutral`
   - [[vanilla/Законы/Флот крупных кораблей|Флот крупных кораблей]] = `strongly_approve`
   - [[vanilla/Законы/Дипломатический флот|Дипломатический флот]] = `approve`
 - **lawgroup_colonization**:
-  - [[vanilla/Законы/Нет колоний|Нет колоний]] = `neutral`
+  - [[vanilla/Законы/Нет колоний|Нет колоний]] = `disapprove`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `neutral`
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `approve`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `approve`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `strongly_approve`
 - **interest_group_leader_trigger**:
   - `ideology_jingoist_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 2840–2852
-- **interest_group_leader_weight**: скрипт, строки 2854–2986
-- **non_interest_group_leader_weight**: скрипт, строки 2988–3078
+- **non_interest_group_leader_trigger**: скрипт, строки 2991–3003
+- **interest_group_leader_weight**: скрипт, строки 3005–3142
+- **non_interest_group_leader_weight**: скрипт, строки 3144–3239
 
 ## Ссылаются
 

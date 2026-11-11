@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Позитивист (ideology_positivist_movement)» — ваниль 1.13, `ideology_positivist_movement`"
+description: "Идеология «Позитивист (ideology_positivist_movement)» — ваниль 1.15, `ideology_positivist_movement`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
 ---
 # Позитивист (ideology_positivist_movement)
 
-Идеология · `ideology_positivist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:668`
+Идеология · `ideology_positivist_movement` · `common/ideologies/03_ig_ideologies_movement.txt:893`
 
 ## Поля
 
@@ -25,11 +25,6 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Корпоративное государство|Корпоративное государство]] = `neutral`
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `disapprove`
   - [[vanilla/Законы/Президентская республика|Президентская республика]] = `approve`
-- **lawgroup_church_and_state**:
-  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_disapprove`
-  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
-  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `approve`
-  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_approve`
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_approve`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `approve`
@@ -40,7 +35,15 @@ paths: [.vanillaVIC3/common/ideologies/03_ig_ideologies_movement.txt]
   - [[vanilla/Законы/Голосуют землевладельцы|Голосуют землевладельцы]] = `disapprove`
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
+- **lawgroup_church_and_state**:
+  - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `strongly_disapprove`
+  - [[vanilla/Законы/Свобода совести|Свобода совести]] = `disapprove`
+  - [[vanilla/Законы/Полное разделение|Полное разделение]] = `approve`
+  - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_approve`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `strongly_approve`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `approve`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `strongly_disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`

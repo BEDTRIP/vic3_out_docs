@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Роялизм (ideology_royalist)» — ваниль 1.13, `ideology_royalist`"
+description: "Идеология «Роялизм (ideology_royalist)» — ваниль 1.15, `ideology_royalist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Роялизм (ideology_royalist)
 
-Идеология · `ideology_royalist` · `common/ideologies/01_character_ideologies.txt:3081`
+Идеология · `ideology_royalist` · `common/ideologies/01_character_ideologies.txt:3242`
 
 ## Поля
 
@@ -26,9 +26,9 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Социальная монархия|Социальная монархия]] = `approve`
   - [[vanilla/Законы/Теократия|Теократия]] = `disapprove`
   - [[vanilla/Законы/Советская республика|Советская республика]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 3096–3111
+- **country_trigger**: скрипт, строки 3257–3272
 - **interest_group_leader_trigger**:
   - `ideology_royalist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 3117–3128
-- **interest_group_leader_weight**: скрипт, строки 3130–3222
-- **non_interest_group_leader_weight**: скрипт, строки 3224–3271
+- **non_interest_group_leader_trigger**: скрипт, строки 3278–3289
+- **interest_group_leader_weight**: скрипт, строки 3291–3388
+- **non_interest_group_leader_weight**: скрипт, строки 3390–3442

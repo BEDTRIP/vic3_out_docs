@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Вторичный (pmg_secondary_building_maize_farm)» — ваниль 1.13, `pmg_secondary_building_maize_farm`"
+description: "Группа методов производства «Вторичный (pmg_secondary_building_maize_farm)» — ваниль 1.15, `pmg_secondary_building_maize_farm`"
 project: vic3
 audience: agent
 source: vanilla

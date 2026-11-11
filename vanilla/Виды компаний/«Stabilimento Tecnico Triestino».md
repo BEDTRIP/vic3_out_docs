@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Stabilimento Tecnico Triestino»» — ваниль 1.13, `company_stt`"
+description: "Вид компании ««Stabilimento Tecnico Triestino»» — ваниль 1.15, `company_stt`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_italy.txt]
 ---
 # «Stabilimento Tecnico Triestino»
 
-Вид компании · `company_stt` · `common/company_types/00_companies_italy.txt:328`
+Вид компании · `company_stt` · `common/company_types/00_companies_italy.txt:324`
 
 ## Поля
 
@@ -20,14 +20,14 @@ paths: [.vanillaVIC3/common/company_types/00_companies_italy.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_ISTRIA`
-- **building_types**: [[vanilla/Здания/верфи|верфи]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+- **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **extension_building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
-- **potential**: скрипт, строки 346–348
-- **attainable**: скрипт, строки 350–356
-- **possible**: скрипт, строки 358–368
+- **potential**: скрипт, строки 342–344
+- **attainable**: скрипт, строки 346–352
+- **possible**: скрипт, строки 354–362
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.025`
   - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.15`
-- **ai_will_do**: скрипт, строки 375–381
-- **ai_construction_targets**: скрипт, строки 383–390
-- **ai_weight**: скрипт, строки 392–394
+- **ai_will_do**: скрипт, строки 369–375
+- **ai_construction_targets**: скрипт, строки 377–384
+- **ai_weight**: скрипт, строки 386–388

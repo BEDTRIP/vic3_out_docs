@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Удобрения (pm_fertilization_building_rice_farm)» — ваниль 1.13, `pm_fertilization_building_rice_farm`"
+description: "Метод производства «Удобрения (pm_fertilization_building_rice_farm)» — ваниль 1.15, `pm_fertilization_building_rice_farm`"
 project: vic3
 audience: agent
 source: vanilla

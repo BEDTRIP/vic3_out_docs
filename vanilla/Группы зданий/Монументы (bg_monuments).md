@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа зданий «Монументы (bg_monuments)» — ваниль 1.13, `bg_monuments`"
+description: "Группа зданий «Монументы (bg_monuments)» — ваниль 1.15, `bg_monuments`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/building_groups/00_building_groups.txt]
 ---
 # Монументы (bg_monuments)
 
-Группа зданий · `bg_monuments` · `common/building_groups/00_building_groups.txt:656`
+Группа зданий · `bg_monuments` · `common/building_groups/00_building_groups.txt:670`
 
 ## Поля
 

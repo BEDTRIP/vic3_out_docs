@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Основа (pmg_base_building_shipyard)» — ваниль 1.13, `pmg_base_building_shipyard`"
+description: "Группа методов производства «Основа (pmg_base_building_shipyard)» — ваниль 1.15, `pmg_base_building_shipyard`"
 project: vic3
 audience: agent
 source: vanilla
@@ -22,4 +22,4 @@ paths: [.vanillaVIC3/common/production_method_groups/01_industry.txt]
 
 ## Ссылаются
 
-- **Здания** (группы методов здания): [[vanilla/Здания/верфи|верфи]]
+- **Здания** (группы методов здания): [[vanilla/Здания/Верфи|Верфи]]

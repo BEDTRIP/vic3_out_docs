@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Базовое производство (default_building_subsistence_pasture)» — ваниль 1.13, `default_building_subsistence_pasture`"
+description: "Метод производства «Базовое производство (default_building_subsistence_pasture)» — ваниль 1.15, `default_building_subsistence_pasture`"
 project: vic3
 audience: agent
 source: vanilla

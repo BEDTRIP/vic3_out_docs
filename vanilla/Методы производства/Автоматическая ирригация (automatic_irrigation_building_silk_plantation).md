@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_silk_plantation)» — ваниль 1.13, `automatic_irrigation_building_silk_plantation`"
+description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_silk_plantation)» — ваниль 1.15, `automatic_irrigation_building_silk_plantation`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/04_plantations.txt]
 ---
 # Автоматическая ирригация (automatic_irrigation_building_silk_plantation)
 
-Метод производства · `automatic_irrigation_building_silk_plantation` · `common/production_methods/04_plantations.txt:633`
+Метод производства · `automatic_irrigation_building_silk_plantation` · `common/production_methods/04_plantations.txt:634`
 
 ## Поля
 

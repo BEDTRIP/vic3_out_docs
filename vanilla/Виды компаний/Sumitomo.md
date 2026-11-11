@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Sumitomo» — ваниль 1.13, `company_sumitomo`"
+description: "Вид компании «Sumitomo» — ваниль 1.15, `company_sumitomo`"
 project: vic3
 audience: agent
 source: vanilla
@@ -20,7 +20,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_KANSAI`
-- **building_types**: [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
+- **building_types**: [[vanilla/Здания/Медные рудники|Медные рудники]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
 - **extension_building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]], [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Производства инструментов|Производства инструментов]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
 - **prestige_goods_trigger**: скрипт, строки 26–31

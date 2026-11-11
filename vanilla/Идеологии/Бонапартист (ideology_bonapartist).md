@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Бонапартист (ideology_bonapartist)» — ваниль 1.13, `ideology_bonapartist`"
+description: "Идеология «Бонапартист (ideology_bonapartist)» — ваниль 1.15, `ideology_bonapartist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
 ---
 # Бонапартист (ideology_bonapartist)
 
-Идеология · `ideology_bonapartist` · `common/ideologies/02_character_french_flavored.txt:561`
+Идеология · `ideology_bonapartist` · `common/ideologies/02_character_french_flavored.txt:583`
 
 ## Поля
 
@@ -36,11 +36,13 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `strongly_approve`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_army_model**:
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `strongly_approve`
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `approve`
   - [[vanilla/Законы/Национальное ополчение|Национальное ополчение]] = `disapprove`
-  - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
+  - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `strongly_disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `strongly_disapprove`
 - **lawgroup_navy_model**:
   - [[vanilla/Законы/Торговый флот|Торговый флот]] = `strongly_disapprove`
   - [[vanilla/Законы/Молодая школа|Молодая школа]] = `neutral`
@@ -62,9 +64,9 @@ paths: [.vanillaVIC3/common/ideologies/02_character_french_flavored.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `approve`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `neutral`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 627–646
+- **country_trigger**: скрипт, строки 651–670
 - **interest_group_leader_trigger**:
   - `ideology_bonapartist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 652–655
-- **interest_group_leader_weight**: скрипт, строки 657–760
-- **non_interest_group_leader_weight**: скрипт, строки 762–857
+- **non_interest_group_leader_trigger**: скрипт, строки 676–679
+- **interest_group_leader_weight**: скрипт, строки 681–789
+- **non_interest_group_leader_weight**: скрипт, строки 791–891

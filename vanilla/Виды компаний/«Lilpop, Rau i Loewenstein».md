@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Lilpop, Rau i Loewenstein»» — ваниль 1.13, `company_lilpop`"
+description: "Вид компании ««Lilpop, Rau i Loewenstein»» — ваниль 1.15, `company_lilpop`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Lilpop, Rau i Loewenstein»
 
-Вид компании · `company_lilpop` · `common/company_types/00_companies_europe.txt:1020`
+Вид компании · `company_lilpop` · `common/company_types/00_companies_europe.txt:1013`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Производства инструментов|Производства инструментов]]
 - **extension_building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 1042–1047
-- **potential**: скрипт, строки 1049–1051
-- **attainable**: скрипт, строки 1053–1062
-- **possible**: скрипт, строки 1064–1077
+- **prestige_goods_trigger**: скрипт, строки 1035–1040
+- **potential**: скрипт, строки 1042–1044
+- **attainable**: скрипт, строки 1046–1055
+- **possible**: скрипт, строки 1057–1070
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-motor-industry-throughput-add|building_motor_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Моторные заводы|Моторные заводы]]
-- **ai_will_do**: скрипт, строки 1083–1092
-- **ai_construction_targets**: скрипт, строки 1094–1105
-- **ai_weight**: скрипт, строки 1107–1109
+- **ai_will_do**: скрипт, строки 1076–1085
+- **ai_construction_targets**: скрипт, строки 1087–1098
+- **ai_weight**: скрипт, строки 1100–1102
