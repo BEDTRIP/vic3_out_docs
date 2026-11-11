@@ -1,5 +1,5 @@
 # Генерат графа источников: v3 graph (решения узла Д.ДОК.26–28, Д.ДОК.33). Снимок — vic3_mods_out (папка выше).
-version = "1.13"
+version = "1.15"
 paths_root = ".."
 # генерат — агенту: человеку граф, поиск и списки его не показывают (методика, «Шапка документа», «Кому заметка»)
 audience = "agent"
@@ -7,22 +7,27 @@ audience = "agent"
 # справочник движка: дамп script_docs из документов игры (копия — vanilla/движок/дамп/), дата дампа
 dump = "C:/Users/Andrey/Documents/Paradox Interactive/Victoria 3/docs"
 dump_date = "2026-10-13"
+# дамп 13.10 — ещё 1.13 (с E&F): дамп 1.15 без модов не снят (этап ОБН, шаг 2)
+dump_version = "1.13"
 avoid = ["../../Economic-and-Financial-Ledgerdemain-Mod/docs/понятия", "../../docs"]
 
 [sources.vanilla]
 snapshot = "../.vanillaVIC3"
 label = "ваниль"
 
-# моды снимка — порядок Д.ДОК.17: E&F, пачка, фреймворки, аддоны, моды grey, TechRes+Kuromi последними
+# моды снимка; version = "1.13" — источник остался на снимке 1.13 (Д.ОБН.3) — порядок Д.ДОК.17: E&F, пачка, фреймворки, аддоны, моды grey, TechRes+Kuromi последними
 [sources.ef]
 snapshot = "../E&F"
 label = "E&F"
+version = "1.13"
 [sources.bpm]
 snapshot = "../BPM"
 label = "BPM"
+version = "1.13"
 [sources.mmrpa]
 snapshot = "../MMRPA"
 label = "MMRPA"
+version = "1.13"
 [sources.morgenrote]
 snapshot = "../Morgenrote"
 label = "Morgenröte"
@@ -32,18 +37,21 @@ label = "PBE"
 [sources.psc]
 snapshot = "../PSC"
 label = "PSC"
+version = "1.13"
 [sources.tgr]
 snapshot = "../TheGreatRevision"
 label = "TGR"
 [sources.tgr_loans]
 snapshot = "../TGR_Loans"
 label = "TGR Loans"
+version = "1.13"
 [sources.vc]
 snapshot = "../VC"
 label = "VC"
 [sources.llwa]
 snapshot = "../llwa"
 label = "LLWA"
+version = "1.13"
 [sources.cmf]
 snapshot = "../_cmf"
 label = "CMF"
@@ -53,6 +61,7 @@ label = "ETF"
 [sources.hail_columbia]
 snapshot = "../for addon/Hail Columbia"
 label = "Hail Columbia"
+version = "1.13"
 [sources.mandate_of_heaven]
 snapshot = "../for addon/Mandate of Heaven"
 label = "Mandate of Heaven"
@@ -62,30 +71,38 @@ label = "Gates of Bosphorus"
 [sources.grey_soft_econ]
 snapshot = "../grey_add_alot_of_things/_grey_soft_econ"
 label = "grey soft econ"
+version = "1.13"
 [sources.grey_soft_pop]
 snapshot = "../grey_add_alot_of_things/_grey_soft_pop"
 label = "grey soft pop"
 [sources.grey_deeper_cinosphere]
 snapshot = "../grey_add_alot_of_things/grey_deeper_cinosphere"
 label = "grey deeper sinosphere"
+version = "1.13"
 [sources.grey_diplo]
 snapshot = "../grey_add_alot_of_things/grey_diplo"
 label = "grey diplo"
+version = "1.13"
 [sources.grey_food]
 snapshot = "../grey_add_alot_of_things/grey_food"
 label = "grey food"
+version = "1.13"
 [sources.grey_food_2_ranch]
 snapshot = "../grey_add_alot_of_things/grey_food_2_ranch"
 label = "grey food 2 ranch"
+version = "1.13"
 [sources.grey_subject]
 snapshot = "../grey_add_alot_of_things/grey_subject"
 label = "grey subject"
+version = "1.13"
 [sources.grey_usu]
 snapshot = "../grey_add_alot_of_things/grey_usu"
 label = "grey USU"
+version = "1.13"
 [sources.tr]
 snapshot = "../TechRes+Kuromi/t&r"
 label = "T&R"
+version = "1.13"
 [sources.kai]
 snapshot = "../TechRes+Kuromi/kai"
 label = "KAI"
