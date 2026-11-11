@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «KLM» — Morgenröte 1.13, `curtiss_company_KLM`"
+description: "Вид компании «KLM» — Morgenröte 1.15, `curtiss_company_KLM`"
 project: vic3
 audience: agent
 source: morgenrote

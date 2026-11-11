@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Association Internationale des Automobile Clubs Reconnus» — Morgenröte 1.13, `pmg_vikelas_aiacr`"
+description: "Группа методов производства «Association Internationale des Automobile Clubs Reconnus» — Morgenröte 1.15, `pmg_vikelas_aiacr`"
 project: vic3
 audience: agent
 source: morgenrote

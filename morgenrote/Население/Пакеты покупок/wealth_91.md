@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Пакет покупок «wealth_91» — Morgenröte 1.13, `wealth_91`"
+description: "Пакет покупок «wealth_91» — Morgenröte 1.15, `wealth_91`"
 project: vic3
 audience: agent
 source: morgenrote

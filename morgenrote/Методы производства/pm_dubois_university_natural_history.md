@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_dubois_university_natural_history» — Morgenröte 1.13, `pm_dubois_university_natural_history`"
+description: "Метод производства «pm_dubois_university_natural_history» — Morgenröte 1.15, `pm_dubois_university_natural_history`"
 project: vic3
 audience: agent
 source: morgenrote

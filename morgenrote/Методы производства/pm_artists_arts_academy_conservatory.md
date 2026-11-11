@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_artists_arts_academy_conservatory» — Morgenröte 1.13, `pm_artists_arts_academy_conservatory`"
+description: "Метод производства «pm_artists_arts_academy_conservatory» — Morgenröte 1.15, `pm_artists_arts_academy_conservatory`"
 project: vic3
 audience: agent
 source: morgenrote

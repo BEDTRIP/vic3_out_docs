@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Карл XIV Юхан» — Morgenröte 1.13, `mr_ruler_trait_karl_xiv`"
+description: "Черта персонажа «Карл XIV Юхан» — Morgenröte 1.15, `mr_ruler_trait_karl_xiv`"
 project: vic3
 audience: agent
 source: morgenrote

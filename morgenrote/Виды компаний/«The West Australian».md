@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««The West Australian»» — Morgenröte 1.13, `pbi_company_the_west_australian`"
+description: "Вид компании ««The West Australian»» — Morgenröte 1.15, `pbi_company_the_west_australian`"
 project: vic3
 audience: agent
 source: morgenrote

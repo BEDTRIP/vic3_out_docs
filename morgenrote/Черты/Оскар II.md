@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Оскар II» — Morgenröte 1.13, `mr_ruler_trait_oscar_ii`"
+description: "Черта персонажа «Оскар II» — Morgenröte 1.15, `mr_ruler_trait_oscar_ii`"
 project: vic3
 audience: agent
 source: morgenrote

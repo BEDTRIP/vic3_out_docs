@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««The Sun»» — Morgenröte 1.13, `pbi_company_the_sun`"
+description: "Вид компании ««The Sun»» — Morgenröte 1.15, `pbi_company_the_sun`"
 project: vic3
 audience: agent
 source: morgenrote

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)» — Morgenröte 1.13, `building_sagrada_familia_cathedral_1`"
+description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)» — Morgenröte 1.15, `building_sagrada_familia_cathedral_1`"
 project: vic3
 audience: agent
 source: morgenrote
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Здания/Собор Саграда Фамилия (buil
 ---
 # Собор Саграда Фамилия (building_sagrada_familia_cathedral_1)
 
-Здание · `building_sagrada_familia_cathedral_1` · `common/buildings/mr_vanilla_buildings_replace.txt:113` · заменяет запись ваниль (`REPLACE:`)
+Здание · `building_sagrada_familia_cathedral_1` · `common/buildings/mr_vanilla_buildings_replace.txt:106` · заменяет запись ваниль (`REPLACE:`)
 
 ## Отличия от ваниль
 
@@ -39,7 +39,7 @@ replaces: "[[vanilla/Здания/Собор Саграда Фамилия (buil
 - **production_method_groups**: [[morgenrote/Группы методов/Основа (pmg_base_building_sagrada_level_1)|Основа (pmg_base_building_sagrada_level_1)]]
 - **required_construction**: `construction_cost_sagrada_familia`
 - **unlocking_technologies**: пусто
-- **potential**: скрипт, строки 144–151
-- **possible**: скрипт, строки 153–157
+- **potential**: скрипт, строки 137–144
+- **possible**: скрипт, строки 146–150
 - **ai_value**: `10000`
 - **background**: `gfx/interface/icons/building_icons/backgrounds/building_panel_bg_monuments.dds`

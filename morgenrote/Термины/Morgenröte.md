@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода Morgenröte «Morgenröte» — подсказка-понятие Victoria 3 1.13 (`concept_morgenroete`)"
+description: "Термин мода Morgenröte «Morgenröte» — подсказка-понятие Victoria 3 1.15 (`concept_morgenroete`)"
 project: vic3
 audience: agent
 source: morgenrote
@@ -17,6 +17,7 @@ Morgenröte - Dawn of Flavor - мод, расширяющий культурны
 - Тесла: [[morgenrote/Термины/Инженерное дело|Инженерное дело]]
 - Менделеев: [[morgenrote/Термины/Химия|Химия]]
 - Веррье: [[morgenrote/Термины/Астрономия|Астрономия]]
+- Кюри: [[morgenrote/Термины/Физика|Физика]]
 - Агассис: [[morgenrote/Термины/Геология|Геология]]
 - Дюбуа: [[morgenrote/Термины/Естествознание|Палеонтология]]
 - Ито: [[morgenrote/Термины/Естествознание|Естествознание]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Chocolade-Fabrik A. Maestrani»» — Morgenröte 1.13, `company_maestrani`"
+description: "Вид компании ««Chocolade-Fabrik A. Maestrani»» — Morgenröte 1.15, `company_maestrani`"
 project: vic3
 audience: agent
 source: morgenrote
@@ -22,12 +22,12 @@ paths: [Morgenrote/common/company_types/mr_company_types.txt]
 - **preferred_headquarters**: `STATE_EAST_SWITZERLAND`
 - **building_types**: [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **extension_building_types**: [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]], [[vanilla/Здания/Пшеничные поля|Пшеничные поля]], [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
-- **possible_prestige_goods**: `prestige_good_swiss_chocolate`
-- **potential**: скрипт, строки 97–99
-- **possible**: скрипт, строки 101–110
+- **possible_prestige_goods**: `prestige_good_generic_groceries`
+- **potential**: скрипт, строки 98–100
+- **possible**: скрипт, строки 102–111
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-food-industry-throughput-add|building_food_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Пищевые производства|Пищевые производства]]
   - [[vanilla/движок/Модификаторы S#^m-state-upper-strata-standard-of-living-add|state_upper_strata_standard_of_living_add]] = `0.5`
-- **ai_will_do**: скрипт, строки 117–122
-- **ai_construction_targets**: скрипт, строки 124–131
-- **ai_weight**: скрипт, строки 133–135
+- **ai_will_do**: скрипт, строки 118–123
+- **ai_construction_targets**: скрипт, строки 125–132
+- **ai_weight**: скрипт, строки 134–136

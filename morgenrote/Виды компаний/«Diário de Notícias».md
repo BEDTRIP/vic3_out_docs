@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Diário de Notícias»» — Morgenröte 1.13, `pbi_company_diario_de_noticias`"
+description: "Вид компании ««Diário de Notícias»» — Morgenröte 1.15, `pbi_company_diario_de_noticias`"
 project: vic3
 audience: agent
 source: morgenrote

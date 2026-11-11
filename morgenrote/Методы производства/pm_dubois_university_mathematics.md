@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_dubois_university_mathematics» — Morgenröte 1.13, `pm_dubois_university_mathematics`"
+description: "Метод производства «pm_dubois_university_mathematics» — Morgenröte 1.15, `pm_dubois_university_mathematics`"
 project: vic3
 audience: agent
 source: morgenrote
@@ -17,7 +17,7 @@ paths: [Morgenrote/common/production_methods/mr_science_dubois_production_method
 ## Поля
 
 - **texture**: `gfx/interface/icons/production_method_icons/dubois_university_natural_technology_pm.dds`
-- **unlocking_technologies**: [[morgenrote/Технологии/Пароатмосферный двигатель|Пароатмосферный двигатель]]
+- **unlocking_technologies**: [[morgenrote/Технологии/Дифференциальная геометрия|Дифференциальная геометрия]]
 - **country_modifiers**:
   - **unscaled**:
     - `country_academics_decorative_can_promote_mathematical_boolean` = `yes`

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Guitarras Ramírez» — Morgenröte 1.13, `elgar_company_guitarras_ramirez`"
+description: "Вид компании «Guitarras Ramírez» — Morgenröte 1.15, `elgar_company_guitarras_ramirez`"
 project: vic3
 audience: agent
 source: morgenrote

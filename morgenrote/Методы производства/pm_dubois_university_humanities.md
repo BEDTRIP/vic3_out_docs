@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_dubois_university_humanities» — Morgenröte 1.13, `pm_dubois_university_humanities`"
+description: "Метод производства «pm_dubois_university_humanities» — Morgenröte 1.15, `pm_dubois_university_humanities`"
 project: vic3
 audience: agent
 source: morgenrote

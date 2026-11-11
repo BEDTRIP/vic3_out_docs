@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Pleyel et Cie» — Morgenröte 1.13, `elgar_company_pleyel`"
+description: "Вид компании «Pleyel et Cie» — Morgenröte 1.15, `elgar_company_pleyel`"
 project: vic3
 audience: agent
 source: morgenrote
