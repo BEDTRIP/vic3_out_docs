@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода CMF «Situation Interloper» — подсказка-понятие Victoria 3 1.13 (`concept_com_situation_interloper`)"
+description: "Термин мода CMF «Situation Interloper» — подсказка-понятие Victoria 3 1.15 (`concept_com_situation_interloper`)"
 project: vic3
 audience: agent
 source: cmf

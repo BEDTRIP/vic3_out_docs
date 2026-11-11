@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода CMF «International Organization» — подсказка-понятие Victoria 3 1.13 (`concept_com_international_organization`)"
+description: "Термин мода CMF «International Organization» — подсказка-понятие Victoria 3 1.15 (`concept_com_international_organization`)"
 project: vic3
 audience: agent
 source: cmf

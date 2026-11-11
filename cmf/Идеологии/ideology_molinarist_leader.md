@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_molinarist_leader» — CMF 1.13, `ideology_molinarist_leader`"
+description: "Идеология «ideology_molinarist_leader» — CMF 1.15, `ideology_molinarist_leader`"
 project: vic3
 audience: agent
 source: cmf

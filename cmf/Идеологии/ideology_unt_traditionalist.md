@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_unt_traditionalist» — CMF 1.13, `ideology_unt_traditionalist`"
+description: "Идеология «ideology_unt_traditionalist» — CMF 1.15, `ideology_unt_traditionalist`"
 project: vic3
 audience: agent
 source: cmf

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «com_icon_rise_of_communism» — CMF 1.13, `com_icon_rise_of_communism`"
+description: "Идеология «com_icon_rise_of_communism» — CMF 1.15, `com_icon_rise_of_communism`"
 project: vic3
 audience: agent
 source: cmf

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода CMF «Situation Leader» — подсказка-понятие Victoria 3 1.13 (`concept_com_situation_leader`)"
+description: "Термин мода CMF «Situation Leader» — подсказка-понятие Victoria 3 1.15 (`concept_com_situation_leader`)"
 project: vic3
 audience: agent
 source: cmf

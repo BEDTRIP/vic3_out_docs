@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_anz_atsi_pluralist_character» — CMF 1.13, `ideology_anz_atsi_pluralist_character`"
+description: "Идеология «ideology_anz_atsi_pluralist_character» — CMF 1.15, `ideology_anz_atsi_pluralist_character`"
 project: vic3
 audience: agent
 source: cmf

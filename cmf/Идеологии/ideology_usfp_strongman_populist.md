@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_usfp_strongman_populist» — CMF 1.13, `ideology_usfp_strongman_populist`"
+description: "Идеология «ideology_usfp_strongman_populist» — CMF 1.15, `ideology_usfp_strongman_populist`"
 project: vic3
 audience: agent
 source: cmf

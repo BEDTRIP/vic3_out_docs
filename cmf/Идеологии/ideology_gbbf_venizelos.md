@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_gbbf_venizelos» — CMF 1.13, `ideology_gbbf_venizelos`"
+description: "Идеология «ideology_gbbf_venizelos» — CMF 1.15, `ideology_gbbf_venizelos`"
 project: vic3
 audience: agent
 source: cmf

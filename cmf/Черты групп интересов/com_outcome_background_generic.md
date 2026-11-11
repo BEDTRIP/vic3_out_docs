@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «com_outcome_background_generic» — CMF 1.13, `com_outcome_background_generic`"
+description: "Черта группы интересов «com_outcome_background_generic» — CMF 1.15, `com_outcome_background_generic`"
 project: vic3
 audience: agent
 source: cmf

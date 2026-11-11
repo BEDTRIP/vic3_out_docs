@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_usfp_universalist» — CMF 1.13, `ideology_usfp_universalist`"
+description: "Идеология «ideology_usfp_universalist» — CMF 1.15, `ideology_usfp_universalist`"
 project: vic3
 audience: agent
 source: cmf

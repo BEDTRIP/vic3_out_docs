@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «com_progressbar_glow_line_gold» — CMF 1.13, `com_progressbar_glow_line_gold`"
+description: "Идеология «com_progressbar_glow_line_gold» — CMF 1.15, `com_progressbar_glow_line_gold`"
 project: vic3
 audience: agent
 source: cmf

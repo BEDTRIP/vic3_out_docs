@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_gbbf_junimist» — CMF 1.13, `ideology_gbbf_junimist`"
+description: "Идеология «ideology_gbbf_junimist» — CMF 1.15, `ideology_gbbf_junimist`"
 project: vic3
 audience: agent
 source: cmf

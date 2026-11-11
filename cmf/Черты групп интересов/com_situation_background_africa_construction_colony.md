@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «com_situation_background_africa_construction_colony» — CMF 1.13, `com_situation_background_africa_construction_colony`"
+description: "Черта группы интересов «com_situation_background_africa_construction_colony» — CMF 1.15, `com_situation_background_africa_construction_colony`"
 project: vic3
 audience: agent
 source: cmf

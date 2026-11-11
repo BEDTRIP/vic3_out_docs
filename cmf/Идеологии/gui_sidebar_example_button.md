@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «gui_sidebar_example_button» — CMF 1.13, `gui_sidebar_example_button`"
+description: "Идеология «gui_sidebar_example_button» — CMF 1.15, `gui_sidebar_example_button`"
 project: vic3
 audience: agent
 source: cmf

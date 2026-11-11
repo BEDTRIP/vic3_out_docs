@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «com_progressbar_green» — CMF 1.13, `com_progressbar_green`"
+description: "Идеология «com_progressbar_green» — CMF 1.15, `com_progressbar_green`"
 project: vic3
 audience: agent
 source: cmf

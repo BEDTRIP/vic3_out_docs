@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «com_situation_background_europenorthamerica_political_extremism» — CMF 1.13, `com_situation_background_europenorthamerica_political_extremism`"
+description: "Черта группы интересов «com_situation_background_europenorthamerica_political_extremism» — CMF 1.15, `com_situation_background_europenorthamerica_political_extremism`"
 project: vic3
 audience: agent
 source: cmf
