@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Что мод LLWA меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
+description: "Что мод LLWA меняет в ванили 1.15 (снимок мода — 1.13): записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
 audience: agent
 source: llwa
@@ -10,13 +10,13 @@ paths: [llwa/**]
 ---
 # Что меняет в ванили — LLWA
 
-Снимок `llwa`, сравнение с ваниль 1.13. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
+Снимок `llwa` (снимок мода — 1.13), сравнение с ваниль 1.15. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
 
 ## Записи common/
 
 | папка | добавляет | заменяет | дополняет | складывает | вставка в чужое | удаляет файлом | не действует |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ai_strategies` | 0 | 9 | 1 | 0 | 0 | 0 | 0 |
+| `ai_strategies` | 0 | 9 | 1 | 0 | 0 | 2 | 0 |
 | `building_groups` | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 | `buildings` | 7 | 0 | 1 | 0 | 0 | 0 | 0 |
 | `company_types` | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -37,6 +37,7 @@ paths: [llwa/**]
 
 - **заменяет** (9): `ai_strategy_conservative_agenda`, `ai_strategy_egalitarian_agenda`, `ai_strategy_great_reforms`, `ai_strategy_maintain_mandate_of_heaven`, `ai_strategy_meiji_restoration`, `ai_strategy_nationalist_agenda`, `ai_strategy_progressive_agenda`, `ai_strategy_reactionary_agenda`, `ai_strategy_tanzimat_reforms`
 - **дополняет** (1): `ai_strategy_default`
+- **удаляет заменой файла** (2): `ai_strategy_confrontation_agenda`, `ai_strategy_consolidation_agenda`
 
 ### building_groups
 
