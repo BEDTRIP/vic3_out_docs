@@ -1,18 +1,18 @@
 ---
 type: concept
-description: "Метод производства «Eerie Canal» — Hail Columbia 1.13, `pm_usfp_eerie_canal`"
+description: "Метод производства «Erie Canal» — Hail Columbia 1.13, `pm_usfp_erie_canal`"
 project: vic3
 audience: agent
 source: hail_columbia
-aliases: ["Eerie Canal", "pm_usfp_eerie_canal"]
+aliases: ["Erie Canal", "pm_usfp_erie_canal"]
 tags: [hail_columbia, метод-производства]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
-key: pm_usfp_eerie_canal
+key: pm_usfp_erie_canal
 paths: [for addon/Hail Columbia/common/production_methods/usfp_production_methods.txt]
 ---
-# Eerie Canal
+# Erie Canal
 
-Метод производства · `pm_usfp_eerie_canal` · `common/production_methods/usfp_production_methods.txt:245`
+Метод производства · `pm_usfp_erie_canal` · `common/production_methods/usfp_production_methods.txt:245`
 
 ## Поля
 
@@ -29,4 +29,4 @@ paths: [for addon/Hail Columbia/common/production_methods/usfp_production_method
 
 ## Ссылаются
 
-- **Группы методов** (методы группы): [[hail_columbia/Группы методов/Eerie Canal|Eerie Canal]]
+- **Группы методов** (методы группы): [[hail_columbia/Группы методов/Erie Canal|Erie Canal]]
