@@ -18,6 +18,7 @@ replaces: "[[vanilla/Методы производства/Хранение в �
 ## Отличия от ваниль
 
 - **state_modifiers**: добавлено
+- **building_modifiers**: изменено
 
 ## Поля
 
