@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Public Investments» — TGR 1.13, `lawgroup_economic_incentives_public`"
+description: "Группа законов «Public Investments» — TGR 1.15, `lawgroup_economic_incentives_public`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Public Investments
 
-Группа законов · `lawgroup_economic_incentives_public` · `common/law_groups/TGR_POLITICS_laws.txt:161`
+Группа законов · `lawgroup_economic_incentives_public` · `common/law_groups/TGR_POLITICS_laws.txt:167`
 
 ## Поля
 

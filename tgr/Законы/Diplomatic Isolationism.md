@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Diplomatic Isolationism» — TGR 1.13, `foreign_policy_diplomatic_isolationism`"
+description: "Закон «Diplomatic Isolationism» — TGR 1.15, `foreign_policy_diplomatic_isolationism`"
 project: vic3
 audience: agent
 source: tgr
@@ -36,7 +36,6 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 
 ## Ссылаются
 
-- **Идеологии** (lawgroup_foreign_policy: approve): [[tgr/Идеологии/Луддит|Луддит]], [[tgr/Идеологии/Пацифизм|Пацифизм]], [[tgr/Идеологии/Суверенизм|Суверенизм]], [[tgr/Идеологии/Этнонационализм (ideology_ethno_nationalist_movement)|Этнонационализм (ideology_ethno_nationalist_movement)]]
-- **Идеологии** (lawgroup_foreign_policy: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Джингоизм|Джингоизм]], [[tgr/Идеологии/Рыночный либерализм|Рыночный либерализм]]
-- **Идеологии** (lawgroup_foreign_policy: neutral): [[tgr/Идеологии/Авангардизм (ideology_vanguardist)|Авангардизм (ideology_vanguardist)]]
-- **Идеологии** (lawgroup_foreign_policy: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_rural_folk)|Government Policies (ideology_government_rural_folk)]], [[tgr/Идеологии/Протекционист|Протекционист]]
+- **Идеологии** (lawgroup_foreign_policy: approve): [[tgr/Идеологии/Луддит|Луддит]], [[tgr/Идеологии/Суверенизм|Суверенизм]], [[tgr/Идеологии/Этнонационализм (ideology_ethno_nationalist_movement)|Этнонационализм (ideology_ethno_nationalist_movement)]]
+- **Идеологии** (lawgroup_foreign_policy: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]]
+- **Идеологии** (lawgroup_foreign_policy: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_rural_folk)|Government Policies (ideology_government_rural_folk)]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Пакет покупок «wealth_62» — TGR 1.13, `wealth_62`"
+description: "Пакет покупок «wealth_62» — TGR 1.15, `wealth_62`"
 project: vic3
 audience: agent
 source: tgr

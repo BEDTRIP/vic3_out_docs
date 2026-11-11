@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Retirement Age Policy» — TGR 1.13, `lawgroup_retirement_age`"
+description: "Группа законов «Retirement Age Policy» — TGR 1.15, `lawgroup_retirement_age`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Retirement Age Policy
 
-Группа законов · `lawgroup_retirement_age` · `common/law_groups/TGR_POLITICS_laws.txt:205`
+Группа законов · `lawgroup_retirement_age` · `common/law_groups/TGR_POLITICS_laws.txt:217`
 
 ## Поля
 

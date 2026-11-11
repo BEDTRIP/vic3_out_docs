@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Old Age Pension» — TGR 1.13, `law_minimum_pension`"
+description: "Закон «Old Age Pension» — TGR 1.15, `law_minimum_pension`"
 project: vic3
 audience: agent
 source: tgr
@@ -34,5 +34,5 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_pension.txt]
 ## Ссылаются
 
 - **Идеологии** (lawgroup_social_security: approve): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]]
-- **Идеологии** (lawgroup_social_security: disapprove): [[tgr/Идеологии/Социалисты|Социалисты]], [[tgr/Идеологии/Социальная демократия|Социальная демократия]]
-- **Идеологии** (lawgroup_social_security: neutral): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Пролетарии|Пролетарии]]
+- **Идеологии** (lawgroup_social_security: disapprove): [[tgr/Идеологии/Социалисты|Социалисты]]
+- **Идеологии** (lawgroup_social_security: neutral): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Пролетарство|Пролетарство]]

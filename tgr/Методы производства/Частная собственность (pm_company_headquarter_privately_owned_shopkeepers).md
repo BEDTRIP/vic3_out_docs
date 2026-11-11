@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_shopkeepers)» — TGR 1.13, `pm_company_headquarter_privately_owned_shopkeepers`"
+description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_shopkeepers)» — TGR 1.15, `pm_company_headquarter_privately_owned_shopkeepers`"
 project: vic3
 audience: agent
 source: tgr

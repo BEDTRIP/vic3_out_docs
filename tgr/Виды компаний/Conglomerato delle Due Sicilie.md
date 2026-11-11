@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Conglomerato delle Due Sicilie» — TGR 1.13, `company_mantero_seta_two_sicilies`"
+description: "Вид компании «Conglomerato delle Due Sicilie» — TGR 1.15, `company_mantero_seta_two_sicilies`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/company_types/TGR_TRADE_companies.txt]
 ---
 # Conglomerato delle Due Sicilie
 
-Вид компании · `company_mantero_seta_two_sicilies` · `common/company_types/TGR_TRADE_companies.txt:738`
+Вид компании · `company_mantero_seta_two_sicilies` · `common/company_types/TGR_TRADE_companies.txt:770`
 
 ## Поля
 
@@ -25,10 +25,10 @@ paths: [TheGreatRevision/common/company_types/TGR_TRADE_companies.txt]
 - **possible_prestige_goods**: `prestige_good_champagne`
 - **potential**: пусто
 - **attainable**: пусто
-- **possible**: скрипт, строки 769–780
+- **possible**: скрипт, строки 801–812
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.1` → [[tgr/Здания/Заводы синтетики|Заводы синтетики]]
-- **ai_will_do**: скрипт, строки 787–792
-- **ai_construction_targets**: скрипт, строки 794–801
-- **ai_weight**: скрипт, строки 803–805
+- **ai_will_do**: скрипт, строки 819–824
+- **ai_construction_targets**: скрипт, строки 826–833
+- **ai_weight**: скрипт, строки 835–837

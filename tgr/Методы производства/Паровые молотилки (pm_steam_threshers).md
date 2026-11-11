@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — TGR 1.13, `pm_steam_threshers`"
+description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — TGR 1.15, `pm_steam_threshers`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Методы производства/Паровые мол
 ---
 # Паровые молотилки (pm_steam_threshers)
 
-Метод производства · `pm_steam_threshers` · `common/production_methods/TGR_TRADE_automation.txt:713`
+Метод производства · `pm_steam_threshers` · `common/production_methods/TGR_TRADE_automation.txt:723`
 
 ## Отличия от ваниль
 

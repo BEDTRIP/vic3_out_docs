@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Centralization» — TGR 1.13, `lawgroup_centralization`"
+description: "Группа законов «Centralization» — TGR 1.15, `lawgroup_centralization`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Инструменты для сбора урожая (pm_tools_building_rice_farm)» — TGR 1.13, `pm_tools_building_rice_farm`"
+description: "Метод производства «Инструменты для сбора урожая (pm_tools_building_rice_farm)» — TGR 1.15, `pm_tools_building_rice_farm`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Методы производства/Инструмент�
 ---
 # Инструменты для сбора урожая (pm_tools_building_rice_farm)
 
-Метод производства · `pm_tools_building_rice_farm` · `common/production_methods/TGR_TRADE_automation.txt:788`
+Метод производства · `pm_tools_building_rice_farm` · `common/production_methods/TGR_TRADE_automation.txt:798`
 
 ## Отличия от ваниль
 

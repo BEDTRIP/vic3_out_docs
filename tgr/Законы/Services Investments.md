@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Services Investments» — TGR 1.13, `economic_incentives_services`"
+description: "Закон «Services Investments» — TGR 1.15, `economic_incentives_services`"
 project: vic3
 audience: agent
 source: tgr
@@ -33,7 +33,7 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_economic_incentives_public.txt
 
 ## Ссылаются
 
-- **Идеологии** (lawgroup_economic_incentives_public: approve): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_intelligentsia)|Government Policies (ideology_government_intelligentsia)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Либерализм (ideology_liberal_leader)|Либерализм (ideology_liberal_leader)]], [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]]
+- **Идеологии** (lawgroup_economic_incentives_public: approve): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_intelligentsia)|Government Policies (ideology_government_intelligentsia)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]]
 - **Идеологии** (lawgroup_economic_incentives_public: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]]
-- **Идеологии** (lawgroup_economic_incentives_public: neutral): [[tgr/Идеологии/Government Policies (ideology_government_armed_forces)|Government Policies (ideology_government_armed_forces)]], [[tgr/Идеологии/Джингоизм|Джингоизм]]
+- **Идеологии** (lawgroup_economic_incentives_public: neutral): [[tgr/Идеологии/Government Policies (ideology_government_armed_forces)|Government Policies (ideology_government_armed_forces)]]
 - **Идеологии** (lawgroup_economic_incentives_public: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_petty_bourgeoisie)|Government Policies (ideology_government_petty_bourgeoisie)]], [[tgr/Идеологии/Этнонационализм (ideology_ethno_nationalist_movement)|Этнонационализм (ideology_ethno_nationalist_movement)]]

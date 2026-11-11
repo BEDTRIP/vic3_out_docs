@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Legislative process» — TGR 1.13, `lawgroup_legislative_process`"
+description: "Группа законов «Legislative process» — TGR 1.15, `lawgroup_legislative_process`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Legislative process
 
-Группа законов · `lawgroup_legislative_process` · `common/law_groups/TGR_POLITICS_laws.txt:72`
+Группа законов · `lawgroup_legislative_process` · `common/law_groups/TGR_POLITICS_laws.txt:78`
 
 ## Поля
 

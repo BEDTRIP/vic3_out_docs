@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «No Retirement Age» — TGR 1.13, `law_no_retirement_age`"
+description: "Закон «No Retirement Age» — TGR 1.15, `law_no_retirement_age`"
 project: vic3
 audience: agent
 source: tgr
@@ -30,5 +30,5 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_retirement_age.txt]
 
 - **Законы** (запрещает закон): [[tgr/Законы/National Institute of Social Security|National Institute of Social Security]], [[tgr/Законы/Old Age Pension|Old Age Pension]], [[tgr/Законы/Social Security Payments|Social Security Payments]]
 - **Идеологии** (lawgroup_retirement_age: approve): [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]]
-- **Идеологии** (lawgroup_retirement_age: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]], [[tgr/Идеологии/Пролетарии|Пролетарии]], [[tgr/Идеологии/Социалисты|Социалисты]], [[tgr/Идеологии/Социальная демократия|Социальная демократия]]
+- **Идеологии** (lawgroup_retirement_age: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]], [[tgr/Идеологии/Пролетарство|Пролетарство]], [[tgr/Идеологии/Социалисты|Социалисты]]
 - **Идеологии** (lawgroup_retirement_age: neutral): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Religious Delegations» — TGR 1.13, `foreign_policy_religious_embassies`"
+description: "Закон «Religious Delegations» — TGR 1.15, `foreign_policy_religious_embassies`"
 project: vic3
 audience: agent
 source: tgr
@@ -37,5 +37,5 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 ## Ссылаются
 
 - **Идеологии** (lawgroup_foreign_policy: approve): [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]], [[tgr/Идеологии/Абсолютизм|Абсолютизм]], [[tgr/Идеологии/Луддит|Луддит]]
-- **Идеологии** (lawgroup_foreign_policy: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_intelligentsia)|Government Policies (ideology_government_intelligentsia)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Авангардизм (ideology_vanguardist)|Авангардизм (ideology_vanguardist)]]
+- **Идеологии** (lawgroup_foreign_policy: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_intelligentsia)|Government Policies (ideology_government_intelligentsia)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]]
 - **Идеологии** (lawgroup_foreign_policy: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]]

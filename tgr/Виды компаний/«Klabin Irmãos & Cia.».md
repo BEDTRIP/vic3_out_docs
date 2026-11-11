@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Klabin Irmãos & Cia.»» — TGR 1.13, `company_kablin`"
+description: "Вид компании ««Klabin Irmãos & Cia.»» — TGR 1.15, `company_kablin`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Klabin Irmãos & Cia.»]]"
 ---
 # «Klabin Irmãos & Cia.»
 
-Вид компании · `company_kablin` · `common/company_types/TGR_TRADE_companies.txt:950`
+Вид компании · `company_kablin` · `common/company_types/TGR_TRADE_companies.txt:1004`
 
 ## Отличия от ваниль
 
@@ -33,12 +33,12 @@ replaces: "[[vanilla/Виды компаний/«Klabin Irmãos & Cia.»]]"
 - **building_types**: [[vanilla/Здания/Лесозаготовки|Лесозаготовки]], [[vanilla/Здания/Кофейные плантации|Кофейные плантации]], [[vanilla/Здания/Плантации сахарного тростника|Плантации сахарного тростника]], [[vanilla/Здания/Каучуковые плантации|Каучуковые плантации]], [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **extension_building_types**: пусто
 - **possible_prestige_goods**: `prestige_good_rosewood`, `prestige_good_generic_coffee`
-- **potential**: скрипт, строки 973–975
-- **attainable**: скрипт, строки 977–983
-- **possible**: скрипт, строки 985–994
+- **potential**: скрипт, строки 1027–1029
+- **attainable**: скрипт, строки 1031–1037
+- **possible**: скрипт, строки 1039–1048
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.1` → [[tgr/Здания/Производства инструментов|Производства инструментов]]
   - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `15`
-- **ai_will_do**: скрипт, строки 1001–1006
-- **ai_construction_targets**: скрипт, строки 1008–1016
-- **ai_weight**: скрипт, строки 1018–1020
+- **ai_will_do**: скрипт, строки 1055–1060
+- **ai_construction_targets**: скрипт, строки 1062–1070
+- **ai_weight**: скрипт, строки 1072–1074

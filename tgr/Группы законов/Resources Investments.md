@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Resources Investments» — TGR 1.13, `lawgroup_economic_incentives_secondary`"
+description: "Группа законов «Resources Investments» — TGR 1.15, `lawgroup_economic_incentives_secondary`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Resources Investments
 
-Группа законов · `lawgroup_economic_incentives_secondary` · `common/law_groups/TGR_POLITICS_laws.txt:149`
+Группа законов · `lawgroup_economic_incentives_secondary` · `common/law_groups/TGR_POLITICS_laws.txt:155`
 
 ## Поля
 

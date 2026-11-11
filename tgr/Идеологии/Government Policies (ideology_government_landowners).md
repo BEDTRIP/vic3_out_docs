@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_landowners)» — TGR 1.13, `ideology_government_landowners`"
+description: "Идеология «Government Policies (ideology_government_landowners)» — TGR 1.15, `ideology_government_landowners`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
 ---
 # Government Policies (ideology_government_landowners)
 
-Идеология · `ideology_government_landowners` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:236`
+Идеология · `ideology_government_landowners` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:273`
 
 ## Поля
 

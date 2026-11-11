@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Heavy Industry Investments» — TGR 1.13, `economic_incentives_industry_heavy`"
+description: "Закон «Heavy Industry Investments» — TGR 1.15, `economic_incentives_industry_heavy`"
 project: vic3
 audience: agent
 source: tgr
@@ -36,5 +36,5 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_economic_incentives_industry.t
 
 - **Идеологии** (lawgroup_economic_incentives_tertiary: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_intelligentsia)|Government Policies (ideology_government_intelligentsia)]], [[tgr/Идеологии/Government Policies (ideology_government_petty_bourgeoisie)|Government Policies (ideology_government_petty_bourgeoisie)]], [[tgr/Идеологии/Government Policies (ideology_government_rural_folk)|Government Policies (ideology_government_rural_folk)]], [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]]
 - **Идеологии** (lawgroup_economic_incentives_tertiary: neutral): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]]
-- **Идеологии** (lawgroup_economic_incentives_tertiary: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_armed_forces)|Government Policies (ideology_government_armed_forces)]], [[tgr/Идеологии/Джингоизм|Джингоизм]], [[tgr/Идеологии/Фашизм (ideology_fascist)|Фашизм (ideology_fascist)]], [[tgr/Идеологии/Фашизм (ideology_fascist_movement)|Фашизм (ideology_fascist_movement)]]
+- **Идеологии** (lawgroup_economic_incentives_tertiary: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_armed_forces)|Government Policies (ideology_government_armed_forces)]], [[tgr/Идеологии/Фашизм (ideology_fascist_movement)|Фашизм (ideology_fascist_movement)]]
 - **Идеологии** (lawgroup_economic_incentives_tertiary: strongly_disapprove): [[tgr/Идеологии/Луддит|Луддит]]

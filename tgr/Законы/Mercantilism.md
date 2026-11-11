@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Mercantilism» — TGR 1.13, `law_ai_subventioned_trade`"
+description: "Закон «Mercantilism» — TGR 1.15, `law_ai_subventioned_trade`"
 project: vic3
 audience: agent
 source: tgr

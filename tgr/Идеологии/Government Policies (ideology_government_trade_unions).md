@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_trade_unions)» — TGR 1.13, `ideology_government_trade_unions`"
+description: "Идеология «Government Policies (ideology_government_trade_unions)» — TGR 1.15, `ideology_government_trade_unions`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
 ---
 # Government Policies (ideology_government_trade_unions)
 
-Идеология · `ideology_government_trade_unions` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:404`
+Идеология · `ideology_government_trade_unions` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:441`
 
 ## Поля
 
@@ -69,3 +69,9 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
   - [[tgr/Законы/Local Autonomies|Local Autonomies]] = `neutral`
   - [[tgr/Законы/Administrative Centralization|Administrative Centralization]] = `strongly_approve`
   - [[tgr/Законы/Economic Centralization|Economic Centralization]] = `approve`
+- **lawgroup_tgr_company_participation**:
+  - [[tgr/Законы/Private Enterprise 0%|Private Enterprise 0%]] = `disapprove`
+  - [[tgr/Законы/Low Nationalization 10%|Low Nationalization 10%]] = `neutral`
+  - [[tgr/Законы/Medium Nationalization 25%|Medium Nationalization 25%]] = `approve`
+  - [[tgr/Законы/High Nationalization 50%|High Nationalization 50%]] = `strongly_approve`
+  - [[tgr/Законы/Public Enterprise 100%|Public Enterprise 100%]] = `approve`

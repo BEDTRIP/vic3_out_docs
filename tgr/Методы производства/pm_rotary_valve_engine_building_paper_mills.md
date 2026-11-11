@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_rotary_valve_engine_building_paper_mills» — TGR 1.13, `pm_rotary_valve_engine_building_paper_mills`"
+description: "Метод производства «pm_rotary_valve_engine_building_paper_mills» — TGR 1.15, `pm_rotary_valve_engine_building_paper_mills`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/production_methods/TGR_TRADE_automation.txt]
 ---
 # pm_rotary_valve_engine_building_paper_mills
 
-Метод производства · `pm_rotary_valve_engine_building_paper_mills` · `common/production_methods/TGR_TRADE_automation.txt:397`
+Метод производства · `pm_rotary_valve_engine_building_paper_mills` · `common/production_methods/TGR_TRADE_automation.txt:401`
 
 ## Поля
 

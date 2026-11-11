@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Working Hours» — TGR 1.13, `lawgroup_working_hours`"
+description: "Группа законов «Working Hours» — TGR 1.15, `lawgroup_working_hours`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Working Hours
 
-Группа законов · `lawgroup_working_hours` · `common/law_groups/TGR_POLITICS_laws.txt:177`
+Группа законов · `lawgroup_working_hours` · `common/law_groups/TGR_POLITICS_laws.txt:189`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Земельный реформатор (ideology_land_reformer)» — TGR 1.13, `ideology_land_reformer`"
+description: "Идеология «Земельный реформатор (ideology_land_reformer)» — TGR 1.15, `ideology_land_reformer`"
 project: vic3
 audience: agent
 source: tgr

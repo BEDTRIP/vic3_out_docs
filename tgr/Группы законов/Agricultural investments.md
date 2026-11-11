@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Agricultural investments» — TGR 1.13, `lawgroup_economic_incentives_primary`"
+description: "Группа законов «Agricultural investments» — TGR 1.15, `lawgroup_economic_incentives_primary`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Agricultural investments
 
-Группа законов · `lawgroup_economic_incentives_primary` · `common/law_groups/TGR_POLITICS_laws.txt:143`
+Группа законов · `lawgroup_economic_incentives_primary` · `common/law_groups/TGR_POLITICS_laws.txt:149`
 
 ## Поля
 

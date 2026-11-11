@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — TGR 1.13, `ideology_ethno_nationalist`"
+description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — TGR 1.15, `ideology_ethno_nationalist`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_armed_forces)» — TGR 1.13, `ideology_government_armed_forces`"
+description: "Идеология «Government Policies (ideology_government_armed_forces)» — TGR 1.15, `ideology_government_armed_forces`"
 project: vic3
 audience: agent
 source: tgr
@@ -31,6 +31,11 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
   - [[tgr/Законы/Services Investments|Services Investments]] = `neutral`
   - [[tgr/Законы/Public Sector Investments|Public Sector Investments]] = `approve`
   - [[tgr/Законы/Military Sector Investments|Military Sector Investments]] = `strongly_approve`
+- **lawgroup_tgr_research_focus**:
+  - [[tgr/Законы/No Research Focus|No Research Focus]] = `neutral`
+  - [[tgr/Законы/Production Research|Production Research]] = `disapprove`
+  - [[tgr/Законы/Military Research|Military Research]] = `strongly_approve`
+  - [[tgr/Законы/Society Research|Society Research]] = `disapprove`
 - **lawgroup_foreign_policy**:
   - [[tgr/Законы/No Specific Focus|No Specific Focus]] = `neutral`
   - [[tgr/Законы/Diplomatic Embassies|Diplomatic Embassies]] = `disapprove`
@@ -43,3 +48,9 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
   - [[tgr/Законы/Local Autonomies|Local Autonomies]] = `neutral`
   - [[tgr/Законы/Administrative Centralization|Administrative Centralization]] = `approve`
   - [[tgr/Законы/Economic Centralization|Economic Centralization]] = `strongly_approve`
+- **lawgroup_tgr_company_participation**:
+  - [[tgr/Законы/Private Enterprise 0%|Private Enterprise 0%]] = `disapprove`
+  - [[tgr/Законы/Low Nationalization 10%|Low Nationalization 10%]] = `neutral`
+  - [[tgr/Законы/Medium Nationalization 25%|Medium Nationalization 25%]] = `approve`
+  - [[tgr/Законы/High Nationalization 50%|High Nationalization 50%]] = `strongly_approve`
+  - [[tgr/Законы/Public Enterprise 100%|Public Enterprise 100%]] = `approve`

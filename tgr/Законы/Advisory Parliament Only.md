@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Advisory Parliament Only» — TGR 1.13, `law_advisory_parliament_only`"
+description: "Закон «Advisory Parliament Only» — TGR 1.15, `law_advisory_parliament_only`"
 project: vic3
 audience: agent
 source: tgr
@@ -24,8 +24,8 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 - **unlocking_technologies**: пусто
 - **on_enact**: пусто
 - **modifier**:
-  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `-50`
-  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `50`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-votes-add|country_legitimacy_govt_total_votes_add]] = `-25`
+  - [[vanilla/движок/Модификаторы C#^m-country-legitimacy-govt-total-clout-add|country_legitimacy_govt_total_clout_add]] = `75`
   - [[vanilla/движок/Модификаторы C#^m-country-law-enactment-stall-mult|country_law_enactment_stall_mult]] = `-0.20`
   - [[vanilla/движок/Модификаторы P#^m-political-movement-radicalism-from-enactment-disapproval-mult|political_movement_radicalism_from_enactment_disapproval_mult]] = `0.40`
 - **ai_enact_weight_modifier**: скрипт, строки 34–41
@@ -33,6 +33,6 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_legislative process.txt]
 ## Ссылаются
 
 - **Идеологии** (lawgroup_legislative_process: disapprove): [[tgr/Идеологии/Джексонианский демократ|Джексонианский демократ]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]], [[tgr/Идеологии/Нигилизм|Нигилизм]], [[tgr/Идеологии/Республиканство|Республиканство]], [[tgr/Идеологии/Традиционализм|Традиционализм]], [[tgr/Идеологии/Умеренные взгляды|Умеренные взгляды]]
-- **Идеологии** (lawgroup_legislative_process: neutral): [[tgr/Идеологии/Либерализм (ideology_liberal_leader)|Либерализм (ideology_liberal_leader)]], [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]], [[tgr/Идеологии/Позитивист (ideology_positivist)|Позитивист (ideology_positivist)]], [[tgr/Идеологии/Позитивист (ideology_positivist_movement)|Позитивист (ideology_positivist_movement)]], [[tgr/Идеологии/Роялизм|Роялизм]], [[tgr/Идеологии/Теократия|Теократия]]
-- **Идеологии** (lawgroup_legislative_process: strongly_approve): [[tgr/Идеологии/Абсолютизм|Абсолютизм]], [[tgr/Идеологии/Авангардизм (ideology_vanguardist)|Авангардизм (ideology_vanguardist)]], [[tgr/Идеологии/Авангардизм (ideology_vanguardist_movement)|Авангардизм (ideology_vanguardist_movement)]], [[tgr/Идеологии/Авторитаризм|Авторитаризм]], [[tgr/Идеологии/Интегрализм|Интегрализм]], [[tgr/Идеологии/Фашизм (ideology_fascist)|Фашизм (ideology_fascist)]], [[tgr/Идеологии/Фашизм (ideology_fascist_movement)|Фашизм (ideology_fascist_movement)]]
-- **Идеологии** (lawgroup_legislative_process: strongly_disapprove): [[tgr/Идеологии/Анархизм|Анархизм]], [[tgr/Идеологии/Пролетарии|Пролетарии]], [[tgr/Идеологии/Радикализм (ideology_radical)|Радикализм (ideology_radical)]], [[tgr/Идеологии/Радикализм (ideology_radical_movement)|Радикализм (ideology_radical_movement)]], [[tgr/Идеологии/Реформы|Реформы]], [[tgr/Идеологии/Социалисты|Социалисты]], [[tgr/Идеологии/Социальная демократия|Социальная демократия]]
+- **Идеологии** (lawgroup_legislative_process: neutral): [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]], [[tgr/Идеологии/Позитивист (ideology_positivist_movement)|Позитивист (ideology_positivist_movement)]], [[tgr/Идеологии/Роялизм|Роялизм]], [[tgr/Идеологии/Теократия|Теократия]]
+- **Идеологии** (lawgroup_legislative_process: strongly_approve): [[tgr/Идеологии/Абсолютизм|Абсолютизм]], [[tgr/Идеологии/Интегрализм|Интегрализм]], [[tgr/Идеологии/Революционный социализм|Революционный социализм]], [[tgr/Идеологии/Фашизм (ideology_fascist_movement)|Фашизм (ideology_fascist_movement)]]
+- **Идеологии** (lawgroup_legislative_process: strongly_disapprove): [[tgr/Идеологии/Пролетарство|Пролетарство]], [[tgr/Идеологии/Радикализм (ideology_radical_movement)|Радикализм (ideology_radical_movement)]], [[tgr/Идеологии/Социалисты|Социалисты]]

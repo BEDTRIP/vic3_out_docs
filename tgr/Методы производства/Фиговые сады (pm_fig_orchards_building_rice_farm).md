@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Фиговые сады (pm_fig_orchards_building_rice_farm)» — TGR 1.13, `pm_fig_orchards_building_rice_farm`"
+description: "Метод производства «Фиговые сады (pm_fig_orchards_building_rice_farm)» — TGR 1.15, `pm_fig_orchards_building_rice_farm`"
 project: vic3
 audience: agent
 source: tgr

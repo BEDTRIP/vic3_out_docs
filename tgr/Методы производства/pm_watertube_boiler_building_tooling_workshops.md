@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_watertube_boiler_building_tooling_workshops» — TGR 1.13, `pm_watertube_boiler_building_tooling_workshops`"
+description: "Метод производства «pm_watertube_boiler_building_tooling_workshops» — TGR 1.15, `pm_watertube_boiler_building_tooling_workshops`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/production_methods/TGR_TRADE_automation.txt]
 ---
 # pm_watertube_boiler_building_tooling_workshops
 
-Метод производства · `pm_watertube_boiler_building_tooling_workshops` · `common/production_methods/TGR_TRADE_automation.txt:280`
+Метод производства · `pm_watertube_boiler_building_tooling_workshops` · `common/production_methods/TGR_TRADE_automation.txt:283`
 
 ## Поля
 

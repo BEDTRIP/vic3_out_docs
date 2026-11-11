@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Паровые молотилки (pm_steam_threshers_building_rice_farm)» — TGR 1.13, `pm_steam_threshers_building_rice_farm`"
+description: "Метод производства «Паровые молотилки (pm_steam_threshers_building_rice_farm)» — TGR 1.15, `pm_steam_threshers_building_rice_farm`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Методы производства/Паровые мол
 ---
 # Паровые молотилки (pm_steam_threshers_building_rice_farm)
 
-Метод производства · `pm_steam_threshers_building_rice_farm` · `common/production_methods/TGR_TRADE_automation.txt:803`
+Метод производства · `pm_steam_threshers_building_rice_farm` · `common/production_methods/TGR_TRADE_automation.txt:813`
 
 ## Отличия от ваниль
 

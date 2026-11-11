@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)» — TGR 1.13, `pm_refrigerated_rail_cars_building_fishing_wharf`"
+description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)» — TGR 1.15, `pm_refrigerated_rail_cars_building_fishing_wharf`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,11 +13,12 @@ replaces: "[[vanilla/Методы производства/Вагоны-рефр
 ---
 # Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)
 
-Метод производства · `pm_refrigerated_rail_cars_building_fishing_wharf` · `common/production_methods/TGR_TRADE_automation.txt:929`
+Метод производства · `pm_refrigerated_rail_cars_building_fishing_wharf` · `common/production_methods/TGR_TRADE_automation.txt:943`
 
 ## Отличия от ваниль
 
 - **building_modifiers**: изменено
+- **required_input_goods**: `electricity` → `transportation`
 
 ## Поля
 
@@ -32,4 +33,4 @@ replaces: "[[vanilla/Методы производства/Вагоны-рефр
     - [[vanilla/движок/Модификаторы G#^m-goods-input-transportation-add|goods_input_transportation_add]] = `1` → [[tgr/Товары/Перевозка|Перевозка]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-2500` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
-- **required_input_goods**: [[tgr/Товары/Электричество|Электричество]]
+- **required_input_goods**: [[tgr/Товары/Перевозка|Перевозка]]

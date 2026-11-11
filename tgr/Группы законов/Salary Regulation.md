@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Salary Regulation» — TGR 1.13, `lawgroup_salary_regulation`"
+description: "Группа законов «Salary Regulation» — TGR 1.15, `lawgroup_salary_regulation`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Salary Regulation
 
-Группа законов · `lawgroup_salary_regulation` · `common/law_groups/TGR_POLITICS_laws.txt:183`
+Группа законов · `lawgroup_salary_regulation` · `common/law_groups/TGR_POLITICS_laws.txt:195`
 
 ## Поля
 

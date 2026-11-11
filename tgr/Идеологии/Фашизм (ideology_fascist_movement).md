@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Фашизм (ideology_fascist_movement)» — TGR 1.13, `ideology_fascist_movement`"
+description: "Идеология «Фашизм (ideology_fascist_movement)» — TGR 1.15, `ideology_fascist_movement`"
 project: vic3
 audience: agent
 source: tgr

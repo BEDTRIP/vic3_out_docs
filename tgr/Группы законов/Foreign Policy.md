@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Foreign Policy» — TGR 1.13, `lawgroup_foreign_policy`"
+description: "Группа законов «Foreign Policy» — TGR 1.15, `lawgroup_foreign_policy`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Foreign Policy
 
-Группа законов · `lawgroup_foreign_policy` · `common/law_groups/TGR_POLITICS_laws.txt:82`
+Группа законов · `lawgroup_foreign_policy` · `common/law_groups/TGR_POLITICS_laws.txt:88`
 
 ## Поля
 

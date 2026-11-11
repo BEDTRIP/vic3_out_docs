@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_rural_folk)» — TGR 1.13, `ideology_government_rural_folk`"
+description: "Идеология «Government Policies (ideology_government_rural_folk)» — TGR 1.15, `ideology_government_rural_folk`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
 ---
 # Government Policies (ideology_government_rural_folk)
 
-Идеология · `ideology_government_rural_folk` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:352`
+Идеология · `ideology_government_rural_folk` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:389`
 
 ## Поля
 

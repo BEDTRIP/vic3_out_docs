@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Industrial Investments» — TGR 1.13, `lawgroup_economic_incentives_tertiary`"
+description: "Группа законов «Industrial Investments» — TGR 1.15, `lawgroup_economic_incentives_tertiary`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Industrial Investments
 
-Группа законов · `lawgroup_economic_incentives_tertiary` · `common/law_groups/TGR_POLITICS_laws.txt:155`
+Группа законов · `lawgroup_economic_incentives_tertiary` · `common/law_groups/TGR_POLITICS_laws.txt:161`
 
 ## Поля
 

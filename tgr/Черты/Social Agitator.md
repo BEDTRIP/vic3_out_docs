@@ -1,16 +1,16 @@
 ---
 type: concept
-description: "Черта персонажа «social_agitator» — TGR 1.13, `social_agitator`"
+description: "Черта персонажа «Social Agitator» — TGR 1.15, `social_agitator`"
 project: vic3
 audience: agent
 source: tgr
-aliases: ["social_agitator"]
+aliases: ["Social Agitator", "social_agitator"]
 tags: [TGR, черта]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: social_agitator
 paths: [TheGreatRevision/common/character_traits/TGR_LEADER_skill_traits.txt]
 ---
-# social_agitator
+# Social Agitator
 
 Черта персонажа · `social_agitator` · `common/character_traits/TGR_LEADER_skill_traits.txt:3`
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «8-hour Work Days» — TGR 1.13, `law_protected_leisure`"
+description: "Закон «8-hour Work Days» — TGR 1.15, `law_protected_leisure`"
 project: vic3
 audience: agent
 source: tgr
@@ -31,8 +31,8 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_working_hours.txt]
 
 ## Ссылаются
 
-- **Идеологии** (lawgroup_working_hours: approve): [[tgr/Идеологии/Пролетарии|Пролетарии]]
-- **Идеологии** (lawgroup_working_hours: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]], [[tgr/Идеологии/Реформы|Реформы]]
-- **Идеологии** (lawgroup_working_hours: neutral): [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]], [[tgr/Идеологии/Либерализм (ideology_liberal_leader)|Либерализм (ideology_liberal_leader)]], [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]]
-- **Идеологии** (lawgroup_working_hours: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Коммунизм (ideology_communist)|Коммунизм (ideology_communist)]], [[tgr/Идеологии/Коммунизм (ideology_communist_movement)|Коммунизм (ideology_communist_movement)]], [[tgr/Идеологии/Социалисты|Социалисты]], [[tgr/Идеологии/Социальная демократия|Социальная демократия]]
-- **Идеологии** (lawgroup_working_hours: strongly_disapprove): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]], [[tgr/Идеологии/Рабство (идеология)|Рабство (идеология)]], [[tgr/Идеологии/Рыночный либерализм|Рыночный либерализм]]
+- **Идеологии** (lawgroup_working_hours: approve): [[tgr/Идеологии/Пролетарство|Пролетарство]]
+- **Идеологии** (lawgroup_working_hours: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]]
+- **Идеологии** (lawgroup_working_hours: neutral): [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]], [[tgr/Идеологии/Либерализм (ideology_liberal_movement)|Либерализм (ideology_liberal_movement)]]
+- **Идеологии** (lawgroup_working_hours: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Коммунизм (ideology_communist_movement)|Коммунизм (ideology_communist_movement)]], [[tgr/Идеологии/Социалисты|Социалисты]]
+- **Идеологии** (lawgroup_working_hours: strongly_disapprove): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]], [[tgr/Идеологии/Рабство (идеология)|Рабство (идеология)]]

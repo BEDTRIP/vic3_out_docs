@@ -1,10 +1,10 @@
 ---
 type: concept
-description: "Вид компании «Mantero Seta» — TGR 1.13, `company_mantero_seta`"
+description: "Вид компании «Mantero Seta» — TGR 1.15, `company_mantero_seta`"
 project: vic3
 audience: agent
 source: tgr
-aliases: ["Mantero Seta", "Confindustria Italiana", "company_mantero_seta"]
+aliases: ["Mantero Seta", "company_mantero_seta"]
 tags: [TGR, вид-компании]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: company_mantero_seta
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Mantero Seta]]"
 ---
 # Mantero Seta
 
-Вид компании · `company_mantero_seta` · `common/company_types/TGR_TRADE_companies.txt:668`
+Вид компании · `company_mantero_seta` · `common/company_types/TGR_TRADE_companies.txt:700`
 
 ## Отличия от ваниль
 
@@ -41,10 +41,10 @@ replaces: "[[vanilla/Виды компаний/Mantero Seta]]"
 - **possible_prestige_goods**: `prestige_good_champagne`
 - **potential**: пусто
 - **attainable**: пусто
-- **possible**: скрипт, строки 699–710
+- **possible**: скрипт, строки 731–742
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-synthetics-plant-throughput-add|building_synthetics_plant_throughput_add]] = `0.1` → [[tgr/Здания/Заводы синтетики|Заводы синтетики]]
-- **ai_will_do**: скрипт, строки 717–722
-- **ai_construction_targets**: скрипт, строки 724–731
-- **ai_weight**: скрипт, строки 733–735
+- **ai_will_do**: скрипт, строки 749–754
+- **ai_construction_targets**: скрипт, строки 756–763
+- **ai_weight**: скрипт, строки 765–767

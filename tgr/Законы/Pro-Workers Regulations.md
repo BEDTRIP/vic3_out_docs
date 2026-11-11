@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Pro-Workers Regulations» — TGR 1.13, `law_salary_national_contract`"
+description: "Закон «Pro-Workers Regulations» — TGR 1.15, `law_salary_national_contract`"
 project: vic3
 audience: agent
 source: tgr
@@ -35,8 +35,8 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_salary_regulation.txt]
 
 ## Ссылаются
 
-- **Идеологии** (lawgroup_salary_regulation: approve): [[tgr/Идеологии/Пролетарии|Пролетарии]]
+- **Идеологии** (lawgroup_salary_regulation: approve): [[tgr/Идеологии/Пролетарство|Пролетарство]]
 - **Идеологии** (lawgroup_salary_regulation: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_devout)|Government Policies (ideology_government_devout)]], [[tgr/Идеологии/Government Policies (ideology_government_landowners)|Government Policies (ideology_government_landowners)]]
 - **Идеологии** (lawgroup_salary_regulation: neutral): [[tgr/Идеологии/Корпоративизм (ideology_corporatist_leader)|Корпоративизм (ideology_corporatist_leader)]], [[tgr/Идеологии/Корпоративизм (ideology_corporatist_movement)|Корпоративизм (ideology_corporatist_movement)]]
-- **Идеологии** (lawgroup_salary_regulation: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Социалисты|Социалисты]], [[tgr/Идеологии/Социальная демократия|Социальная демократия]]
+- **Идеологии** (lawgroup_salary_regulation: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]], [[tgr/Идеологии/Социалисты|Социалисты]]
 - **Идеологии** (lawgroup_salary_regulation: strongly_disapprove): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]]

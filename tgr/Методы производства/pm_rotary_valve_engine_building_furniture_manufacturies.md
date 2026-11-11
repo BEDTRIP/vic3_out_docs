@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_rotary_valve_engine_building_furniture_manufacturies» — TGR 1.13, `pm_rotary_valve_engine_building_furniture_manufacturies`"
+description: "Метод производства «pm_rotary_valve_engine_building_furniture_manufacturies» — TGR 1.15, `pm_rotary_valve_engine_building_furniture_manufacturies`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/production_methods/TGR_TRADE_automation.txt]
 ---
 # pm_rotary_valve_engine_building_furniture_manufacturies
 
-Метод производства · `pm_rotary_valve_engine_building_furniture_manufacturies` · `common/production_methods/TGR_TRADE_automation.txt:217`
+Метод производства · `pm_rotary_valve_engine_building_furniture_manufacturies` · `common/production_methods/TGR_TRADE_automation.txt:218`
 
 ## Поля
 

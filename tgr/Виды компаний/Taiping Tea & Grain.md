@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Taiping Tea & Grain» — TGR 1.13, `company_ong_lung_sheng_tea_company_heaven_kingdom`"
+description: "Вид компании «Taiping Tea & Grain» — TGR 1.15, `company_ong_lung_sheng_tea_company_heaven_kingdom`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/company_types/TGR_TRADE_companies.txt]
 ---
 # Taiping Tea & Grain
 
-Вид компании · `company_ong_lung_sheng_tea_company_heaven_kingdom` · `common/company_types/TGR_TRADE_companies.txt:1461`
+Вид компании · `company_ong_lung_sheng_tea_company_heaven_kingdom` · `common/company_types/TGR_TRADE_companies.txt:1522`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [TheGreatRevision/common/company_types/TGR_TRADE_companies.txt]
 - **building_types**: [[vanilla/Здания/Чайные плантации|Чайные плантации]], [[vanilla/Здания/Рисовые поля|Рисовые поля]], [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **extension_building_types**: пусто
 - **possible_prestige_goods**: `prestige_good_generic_grain`, `prestige_good_china_tea`
-- **potential**: скрипт, строки 1484–1487
+- **potential**: скрипт, строки 1545–1548
 - **attainable**: пусто
-- **possible**: скрипт, строки 1492–1501
+- **possible**: скрипт, строки 1553–1562
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `1`
   - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `50`
-- **ai_will_do**: скрипт, строки 1508–1510
-- **ai_construction_targets**: скрипт, строки 1512–1531
-- **ai_weight**: скрипт, строки 1533–1535
+- **ai_will_do**: скрипт, строки 1569–1571
+- **ai_construction_targets**: скрипт, строки 1573–1592
+- **ai_weight**: скрипт, строки 1594–1596

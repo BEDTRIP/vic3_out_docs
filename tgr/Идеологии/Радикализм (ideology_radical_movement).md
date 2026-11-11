@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Радикализм (ideology_radical_movement)» — TGR 1.13, `ideology_radical_movement`"
+description: "Идеология «Радикализм (ideology_radical_movement)» — TGR 1.15, `ideology_radical_movement`"
 project: vic3
 audience: agent
 source: tgr
@@ -27,7 +27,7 @@ replaces: "[[vanilla/Идеологии/Радикализм (ideology_radical_m
   - [[tgr/Законы/No Elections|No Elections]] = `disapprove`
   - [[tgr/Законы/Proportional System|Proportional System]] = `strongly_approve`
   - [[tgr/Законы/Majoritarian System|Majoritarian System]] = `neutral`
-  - [[tgr/Законы/Mixed System|Mixed System]] = `approve`
+  - [[tgr/Законы/Mixed System|Mixed System]] = `neutral`
   - [[tgr/Законы/Ranked System|Ranked System]] = `approve`
 - **lawgroup_legislative_process**:
   - [[tgr/Законы/Advisory Parliament Only|Advisory Parliament Only]] = `strongly_disapprove`

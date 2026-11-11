@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_devout)» — TGR 1.13, `ideology_government_devout`"
+description: "Идеология «Government Policies (ideology_government_devout)» — TGR 1.15, `ideology_government_devout`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
 ---
 # Government Policies (ideology_government_devout)
 
-Идеология · `ideology_government_devout` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:46`
+Идеология · `ideology_government_devout` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:61`
 
 ## Поля
 

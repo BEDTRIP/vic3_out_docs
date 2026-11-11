@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_arms_industry)» — TGR 1.13, `pm_assembly_lines_building_arms_industry`"
+description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_arms_industry)» — TGR 1.15, `pm_assembly_lines_building_arms_industry`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Методы производства/Конвейерно�
 ---
 # Конвейерное производство (pm_assembly_lines_building_arms_industry)
 
-Метод производства · `pm_assembly_lines_building_arms_industry` · `common/production_methods/TGR_TRADE_automation.txt:617`
+Метод производства · `pm_assembly_lines_building_arms_industry` · `common/production_methods/TGR_TRADE_automation.txt:625`
 
 ## Отличия от ваниль
 

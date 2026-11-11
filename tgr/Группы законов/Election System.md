@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Election System» — TGR 1.13, `lawgroup_election_system`"
+description: "Группа законов «Election System» — TGR 1.15, `lawgroup_election_system`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Election System
 
-Группа законов · `lawgroup_election_system` · `common/law_groups/TGR_POLITICS_laws.txt:77`
+Группа законов · `lawgroup_election_system` · `common/law_groups/TGR_POLITICS_laws.txt:83`
 
 ## Поля
 

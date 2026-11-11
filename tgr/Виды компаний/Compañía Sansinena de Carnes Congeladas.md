@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Compañía Sansinena de Carnes Congeladas» — TGR 1.13, `company_compania_sansinena_de_carnes_congeladas`"
+description: "Вид компании «Compañía Sansinena de Carnes Congeladas» — TGR 1.15, `company_compania_sansinena_de_carnes_congeladas`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Compañía Sansinena de Carnes Co
 ---
 # Compañía Sansinena de Carnes Congeladas
 
-Вид компании · `company_compania_sansinena_de_carnes_congeladas` · `common/company_types/TGR_TRADE_companies.txt:1245`
+Вид компании · `company_compania_sansinena_de_carnes_congeladas` · `common/company_types/TGR_TRADE_companies.txt:1306`
 
 ## Отличия от ваниль
 
@@ -33,13 +33,13 @@ replaces: "[[vanilla/Виды компаний/Compañía Sansinena de Carnes Co
 - **preferred_headquarters**: `STATE_BUENOS_AIRES`
 - **building_types**: [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]], [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **extension_building_types**: пусто
-- **potential**: скрипт, строки 1262–1264
+- **potential**: скрипт, строки 1323–1325
 - **possible_prestige_goods**: `prestige_good_river_plate_beef`
 - **attainable**: пусто
-- **possible**: скрипт, строки 1273–1282
+- **possible**: скрипт, строки 1334–1343
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы B#^m-building-port-throughput-add|building_port_throughput_add]] = `0.1` → [[vanilla/Здания/Порты|Порты]]
-- **ai_will_do**: скрипт, строки 1289–1294
-- **ai_construction_targets**: скрипт, строки 1296–1303
-- **ai_weight**: скрипт, строки 1305–1307
+- **ai_will_do**: скрипт, строки 1350–1355
+- **ai_construction_targets**: скрипт, строки 1357–1364
+- **ai_weight**: скрипт, строки 1366–1368

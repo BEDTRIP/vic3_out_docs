@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Корпоративизм (ideology_corporatist_movement)» — TGR 1.13, `ideology_corporatist_movement`"
+description: "Идеология «Корпоративизм (ideology_corporatist_movement)» — TGR 1.15, `ideology_corporatist_movement`"
 project: vic3
 audience: agent
 source: tgr

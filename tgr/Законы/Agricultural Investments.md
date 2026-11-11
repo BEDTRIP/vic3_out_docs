@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Agricultural Investments» — TGR 1.13, `economic_incentives_agricolture`"
+description: "Закон «Agricultural Investments» — TGR 1.15, `economic_incentives_agricolture`"
 project: vic3
 audience: agent
 source: tgr

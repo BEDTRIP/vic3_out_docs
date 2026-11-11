@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Либерализм (ideology_liberal_movement)» — TGR 1.13, `ideology_liberal_movement`"
+description: "Идеология «Либерализм (ideology_liberal_movement)» — TGR 1.15, `ideology_liberal_movement`"
 project: vic3
 audience: agent
 source: tgr
@@ -28,9 +28,9 @@ replaces: "[[vanilla/Идеологии/Либерализм (ideology_liberal_m
 
 - **lawgroup_election_system**:
   - [[tgr/Законы/No Elections|No Elections]] = `disapprove`
-  - [[tgr/Законы/Proportional System|Proportional System]] = `approve`
-  - [[tgr/Законы/Majoritarian System|Majoritarian System]] = `approve`
-  - [[tgr/Законы/Mixed System|Mixed System]] = `neutral`
+  - [[tgr/Законы/Proportional System|Proportional System]] = `strongly_approve`
+  - [[tgr/Законы/Majoritarian System|Majoritarian System]] = `neutral`
+  - [[tgr/Законы/Mixed System|Mixed System]] = `approve`
   - [[tgr/Законы/Ranked System|Ranked System]] = `approve`
 - **lawgroup_legislative_process**:
   - [[tgr/Законы/Advisory Parliament Only|Advisory Parliament Only]] = `neutral`

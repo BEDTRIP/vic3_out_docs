@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Invite Foreign Investors» — TGR 1.13, `foreign_policy_foreign_investments`"
+description: "Закон «Invite Foreign Investors» — TGR 1.15, `foreign_policy_foreign_investments`"
 project: vic3
 audience: agent
 source: tgr
@@ -37,5 +37,5 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_foreign_policy.txt]
 ## Ссылаются
 
 - **Идеологии** (lawgroup_foreign_policy: approve): [[tgr/Идеологии/Government Policies (ideology_government_intelligentsia)|Government Policies (ideology_government_intelligentsia)]]
-- **Идеологии** (lawgroup_foreign_policy: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_rural_folk)|Government Policies (ideology_government_rural_folk)]], [[tgr/Идеологии/Луддит|Луддит]], [[tgr/Идеологии/Протекционист|Протекционист]], [[tgr/Идеологии/Суверенизм|Суверенизм]]
-- **Идеологии** (lawgroup_foreign_policy: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]], [[tgr/Идеологии/Рыночный либерализм|Рыночный либерализм]]
+- **Идеологии** (lawgroup_foreign_policy: disapprove): [[tgr/Идеологии/Government Policies (ideology_government_rural_folk)|Government Policies (ideology_government_rural_folk)]], [[tgr/Идеологии/Луддит|Луддит]], [[tgr/Идеологии/Суверенизм|Суверенизм]]
+- **Идеологии** (lawgroup_foreign_policy: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]]

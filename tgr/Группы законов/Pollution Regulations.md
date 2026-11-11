@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Pollution Regulations» — TGR 1.13, `lawgroup_environment`"
+description: "Группа законов «Pollution Regulations» — TGR 1.15, `lawgroup_environment`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Pollution Regulations
 
-Группа законов · `lawgroup_environment` · `common/law_groups/TGR_POLITICS_laws.txt:137`
+Группа законов · `lawgroup_environment` · `common/law_groups/TGR_POLITICS_laws.txt:173`
 
 ## Поля
 

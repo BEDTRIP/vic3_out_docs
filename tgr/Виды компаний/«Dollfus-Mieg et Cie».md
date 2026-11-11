@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Dollfus-Mieg et Cie»» — TGR 1.13, `company_dmc`"
+description: "Вид компании ««Dollfus-Mieg et Cie»» — TGR 1.15, `company_dmc`"
 project: vic3
 audience: agent
 source: tgr
@@ -23,7 +23,6 @@ replaces: "[[vanilla/Виды компаний/«Dollfus-Mieg et Cie»]]"
 - **potential**: изменено
 - **possible**: изменено
 - **ai_weight**: изменено
-- **prestige_goods_trigger**: убрано
 
 ## Поля
 
@@ -42,3 +41,4 @@ replaces: "[[vanilla/Виды компаний/«Dollfus-Mieg et Cie»]]"
 - **ai_will_do**: скрипт, строки 53–58
 - **ai_construction_targets**: скрипт, строки 60–67
 - **ai_weight**: скрипт, строки 69–71
+- **prestige_goods_trigger**: скрипт, строки 73–78

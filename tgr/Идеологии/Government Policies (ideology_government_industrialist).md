@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_industrialist)» — TGR 1.13, `ideology_government_industrialist`"
+description: "Идеология «Government Policies (ideology_government_industrialist)» — TGR 1.15, `ideology_government_industrialist`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
 ---
 # Government Policies (ideology_government_industrialist)
 
-Идеология · `ideology_government_industrialist` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:111`
+Идеология · `ideology_government_industrialist` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:126`
 
 ## Поля
 
@@ -27,6 +27,11 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
   - [[tgr/Законы/Manufacturing Investments|Manufacturing Investments]] = `approve`
   - [[tgr/Законы/Light Industry Investments|Light Industry Investments]] = `approve`
   - [[tgr/Законы/Heavy Industry Investments|Heavy Industry Investments]] = `neutral`
+- **lawgroup_tgr_research_focus**:
+  - [[tgr/Законы/No Research Focus|No Research Focus]] = `neutral`
+  - [[tgr/Законы/Production Research|Production Research]] = `strongly_approve`
+  - [[tgr/Законы/Military Research|Military Research]] = `disapprove`
+  - [[tgr/Законы/Society Research|Society Research]] = `disapprove`
 - **lawgroup_foreign_policy**:
   - [[tgr/Законы/No Specific Focus|No Specific Focus]] = `neutral`
   - [[tgr/Законы/Diplomatic Embassies|Diplomatic Embassies]] = `approve`
@@ -64,3 +69,9 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
   - [[tgr/Законы/Local Autonomies|Local Autonomies]] = `neutral`
   - [[tgr/Законы/Administrative Centralization|Administrative Centralization]] = `disapprove`
   - [[tgr/Законы/Economic Centralization|Economic Centralization]] = `strongly_disapprove`
+- **lawgroup_tgr_company_participation**:
+  - [[tgr/Законы/Private Enterprise 0%|Private Enterprise 0%]] = `strongly_approve`
+  - [[tgr/Законы/Low Nationalization 10%|Low Nationalization 10%]] = `approve`
+  - [[tgr/Законы/Medium Nationalization 25%|Medium Nationalization 25%]] = `neutral`
+  - [[tgr/Законы/High Nationalization 50%|High Nationalization 50%]] = `disapprove`
+  - [[tgr/Законы/Public Enterprise 100%|Public Enterprise 100%]] = `strongly_disapprove`

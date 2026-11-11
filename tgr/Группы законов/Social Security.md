@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа законов «Social Security» — TGR 1.13, `lawgroup_social_security`"
+description: "Группа законов «Social Security» — TGR 1.15, `lawgroup_social_security`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/law_groups/TGR_POLITICS_laws.txt]
 ---
 # Social Security
 
-Группа законов · `lawgroup_social_security` · `common/law_groups/TGR_POLITICS_laws.txt:211`
+Группа законов · `lawgroup_social_security` · `common/law_groups/TGR_POLITICS_laws.txt:223`
 
 ## Поля
 

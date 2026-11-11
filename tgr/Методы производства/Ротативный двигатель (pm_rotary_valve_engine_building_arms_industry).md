@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — TGR 1.13, `pm_rotary_valve_engine_building_arms_industry`"
+description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — TGR 1.15, `pm_rotary_valve_engine_building_arms_industry`"
 project: vic3
 audience: agent
 source: tgr
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Методы производства/Ротативный 
 ---
 # Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)
 
-Метод производства · `pm_rotary_valve_engine_building_arms_industry` · `common/production_methods/TGR_TRADE_automation.txt:593`
+Метод производства · `pm_rotary_valve_engine_building_arms_industry` · `common/production_methods/TGR_TRADE_automation.txt:601`
 
 ## Отличия от ваниль
 

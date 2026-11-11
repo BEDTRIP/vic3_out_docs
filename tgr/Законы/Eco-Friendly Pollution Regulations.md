@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Eco-Friendly Pollution Regulations» — TGR 1.13, `law_eco_environment_regulations`"
+description: "Закон «Eco-Friendly Pollution Regulations» — TGR 1.15, `law_eco_environment_regulations`"
 project: vic3
 audience: agent
 source: tgr
@@ -37,4 +37,4 @@ paths: [TheGreatRevision/common/laws/TGR_POLITICS_environment_regulations.txt]
 
 - **Идеологии** (lawgroup_environment: approve): [[tgr/Идеологии/Government Policies (ideology_government_trade_unions)|Government Policies (ideology_government_trade_unions)]]
 - **Идеологии** (lawgroup_environment: strongly_approve): [[tgr/Идеологии/Government Policies (ideology_government_rural_folk)|Government Policies (ideology_government_rural_folk)]], [[tgr/Идеологии/Земельный реформатор (ideology_land_reformer)|Земельный реформатор (ideology_land_reformer)]], [[tgr/Идеологии/Земельный реформатор (ideology_land_reformer_movement)|Земельный реформатор (ideology_land_reformer_movement)]], [[tgr/Идеологии/Луддит|Луддит]]
-- **Идеологии** (lawgroup_environment: strongly_disapprove): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]], [[tgr/Идеологии/Рыночный либерализм|Рыночный либерализм]]
+- **Идеологии** (lawgroup_environment: strongly_disapprove): [[tgr/Идеологии/Government Policies (ideology_government_industrialist)|Government Policies (ideology_government_industrialist)]]

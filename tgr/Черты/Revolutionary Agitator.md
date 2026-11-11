@@ -1,16 +1,16 @@
 ---
 type: concept
-description: "Черта персонажа «revolutionary_agitator» — TGR 1.13, `revolutionary_agitator`"
+description: "Черта персонажа «Revolutionary Agitator» — TGR 1.15, `revolutionary_agitator`"
 project: vic3
 audience: agent
 source: tgr
-aliases: ["revolutionary_agitator"]
+aliases: ["Revolutionary Agitator", "revolutionary_agitator"]
 tags: [TGR, черта]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: revolutionary_agitator
 paths: [TheGreatRevision/common/character_traits/TGR_LEADER_skill_traits.txt]
 ---
-# revolutionary_agitator
+# Revolutionary Agitator
 
 Черта персонажа · `revolutionary_agitator` · `common/character_traits/TGR_LEADER_skill_traits.txt:29`
 

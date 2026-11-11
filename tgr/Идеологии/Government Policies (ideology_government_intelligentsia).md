@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Government Policies (ideology_government_intelligentsia)» — TGR 1.13, `ideology_government_intelligentsia`"
+description: "Идеология «Government Policies (ideology_government_intelligentsia)» — TGR 1.15, `ideology_government_intelligentsia`"
 project: vic3
 audience: agent
 source: tgr
@@ -12,7 +12,7 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
 ---
 # Government Policies (ideology_government_intelligentsia)
 
-Идеология · `ideology_government_intelligentsia` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:185`
+Идеология · `ideology_government_intelligentsia` · `common/ideologies/TGR_POLITICS_ig_ideologies.txt:215`
 
 ## Поля
 
@@ -27,6 +27,11 @@ paths: [TheGreatRevision/common/ideologies/TGR_POLITICS_ig_ideologies.txt]
   - [[tgr/Законы/Services Investments|Services Investments]] = `approve`
   - [[tgr/Законы/Public Sector Investments|Public Sector Investments]] = `strongly_approve`
   - [[tgr/Законы/Military Sector Investments|Military Sector Investments]] = `disapprove`
+- **lawgroup_tgr_research_focus**:
+  - [[tgr/Законы/No Research Focus|No Research Focus]] = `neutral`
+  - [[tgr/Законы/Production Research|Production Research]] = `disapprove`
+  - [[tgr/Законы/Military Research|Military Research]] = `disapprove`
+  - [[tgr/Законы/Society Research|Society Research]] = `strongly_approve`
 - **lawgroup_foreign_policy**:
   - [[tgr/Законы/Diplomatic Embassies|Diplomatic Embassies]] = `strongly_approve`
   - [[tgr/Законы/Reinforces Foreign perception|Reinforces Foreign perception]] = `neutral`

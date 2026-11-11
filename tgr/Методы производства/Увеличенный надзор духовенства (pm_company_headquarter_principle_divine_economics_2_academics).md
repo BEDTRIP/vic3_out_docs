@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_academics)» — TGR 1.13, `pm_company_headquarter_principle_divine_economics_2_academics`"
+description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_academics)» — TGR 1.15, `pm_company_headquarter_principle_divine_economics_2_academics`"
 project: vic3
 audience: agent
 source: tgr
