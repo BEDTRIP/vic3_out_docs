@@ -26,7 +26,7 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **attainable**: скрипт, строки 1812–1818
 - **possible**: скрипт, строки 1820–1828
 - **prosperity_modifier**:
-  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.05` → [[ef/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.05` → [[ef/Здания/Верфи|Верфи]]
   - `building_military_shipyard_throughput_add` = `0.05` → [[ef/Здания/Военные верфи|Военные верфи]]
   - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-landowners-approval-add|interest_group_ig_landowners_approval_add]] = `2`
   - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.10`
