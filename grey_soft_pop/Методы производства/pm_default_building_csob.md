@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_csob» — grey soft pop 1.13, `pm_default_building_csob`"
+description: "Метод производства «pm_default_building_csob» — grey soft pop 1.15, `pm_default_building_csob`"
 project: vic3
 audience: agent
 source: grey_soft_pop

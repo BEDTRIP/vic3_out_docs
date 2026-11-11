@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_church_of_saint_george» — grey soft pop 1.13, `pm_default_building_church_of_saint_george`"
+description: "Метод производства «pm_default_building_church_of_saint_george» — grey soft pop 1.15, `pm_default_building_church_of_saint_george`"
 project: vic3
 audience: agent
 source: grey_soft_pop

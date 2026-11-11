@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Тип населения «druids» — grey soft pop 1.13, `druids`"
+description: "Тип населения «druids» — grey soft pop 1.15, `druids`"
 project: vic3
 audience: agent
 source: grey_soft_pop

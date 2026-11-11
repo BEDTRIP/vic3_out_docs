@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_bank_of_korea» — grey soft pop 1.13, `pm_default_building_bank_of_korea`"
+description: "Метод производства «pm_default_building_bank_of_korea» — grey soft pop 1.15, `pm_default_building_bank_of_korea`"
 project: vic3
 audience: agent
 source: grey_soft_pop

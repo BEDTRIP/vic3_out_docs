@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_technical_university_berlin» — grey soft pop 1.13, `pm_default_building_technical_university_berlin`"
+description: "Метод производства «pm_default_building_technical_university_berlin» — grey soft pop 1.15, `pm_default_building_technical_university_berlin`"
 project: vic3
 audience: agent
 source: grey_soft_pop

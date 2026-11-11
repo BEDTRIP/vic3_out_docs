@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_banco_inversiones_panama» — grey soft pop 1.13, `pm_default_building_banco_inversiones_panama`"
+description: "Метод производства «pm_default_building_banco_inversiones_panama» — grey soft pop 1.15, `pm_default_building_banco_inversiones_panama`"
 project: vic3
 audience: agent
 source: grey_soft_pop

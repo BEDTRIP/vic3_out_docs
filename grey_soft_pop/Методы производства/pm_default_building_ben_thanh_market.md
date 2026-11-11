@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_ben_thanh_market» — grey soft pop 1.13, `pm_default_building_ben_thanh_market`"
+description: "Метод производства «pm_default_building_ben_thanh_market» — grey soft pop 1.15, `pm_default_building_ben_thanh_market`"
 project: vic3
 audience: agent
 source: grey_soft_pop

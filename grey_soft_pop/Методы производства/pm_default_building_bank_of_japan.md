@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_bank_of_japan» — grey soft pop 1.13, `pm_default_building_bank_of_japan`"
+description: "Метод производства «pm_default_building_bank_of_japan» — grey soft pop 1.15, `pm_default_building_bank_of_japan`"
 project: vic3
 audience: agent
 source: grey_soft_pop

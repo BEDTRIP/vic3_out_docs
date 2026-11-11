@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_sun_yat_sen_university» — grey soft pop 1.13, `pm_default_building_sun_yat_sen_university`"
+description: "Метод производства «pm_default_building_sun_yat_sen_university» — grey soft pop 1.15, `pm_default_building_sun_yat_sen_university`"
 project: vic3
 audience: agent
 source: grey_soft_pop
@@ -19,7 +19,7 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.2` → [[vanilla/Здания/верфи|верфи]]
+    - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.2` → [[vanilla/Здания/Верфи|Верфи]]
     - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
     - [[vanilla/движок/Модификаторы B#^m-building-university-throughput-add|building_university_throughput_add]] = `0.20` → [[vanilla/Здания/Университеты|Университеты]]
   - **unscaled**:

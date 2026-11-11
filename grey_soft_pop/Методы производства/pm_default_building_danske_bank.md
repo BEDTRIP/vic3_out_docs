@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_danske_bank» — grey soft pop 1.13, `pm_default_building_danske_bank`"
+description: "Метод производства «pm_default_building_danske_bank» — grey soft pop 1.15, `pm_default_building_danske_bank`"
 project: vic3
 audience: agent
 source: grey_soft_pop
@@ -19,7 +19,7 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/common/production_methods/yMoG_SP
 - **texture**: `gfx/interface/icons/production_method_icons/wonders.dds`
 - **state_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.2` → [[vanilla/Здания/верфи|верфи]]
+    - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.2` → [[vanilla/Здания/Верфи|Верфи]]
     - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-mult|state_tax_capacity_mult]] = `0.05`
     - [[vanilla/движок/Модификаторы S#^m-state-radicals-and-loyalists-from-sol-change-mult|state_radicals_and_loyalists_from_sol_change_mult]] = `0.05`
     - [[vanilla/движок/Модификаторы B#^m-building-nationalization-investment-return-add|building_nationalization_investment_return_add]] = `0.05`

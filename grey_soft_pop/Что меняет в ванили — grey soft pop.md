@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Что мод grey soft pop меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
+description: "Что мод grey soft pop меняет в ванили 1.15: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
 audience: agent
 source: grey_soft_pop
@@ -10,29 +10,28 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/**]
 ---
 # Что меняет в ванили — grey soft pop
 
-Снимок `grey_add_alot_of_things/_grey_soft_pop`, сравнение с ваниль 1.13. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
+Снимок `grey_add_alot_of_things/_grey_soft_pop`, сравнение с ваниль 1.15. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
 
 ## Записи common/
 
 | папка | добавляет | заменяет | дополняет | складывает | вставка в чужое | удаляет файлом | не действует |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| `acceptance_statuses` | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
+| `acceptance_statuses` | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
 | `country_ranks` | 0 | 8 | 0 | 0 | 0 | 0 | 0 |
 | `decrees` | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
 | `game_rules` | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
-| `laws` | 0 | 6 | 0 | 0 | 0 | 0 | 0 |
 | `modifier_type_definitions` | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 | `on_actions` | 16 | 0 | 0 | 14 | 0 | 0 | 0 |
 | `pop_types` | 2 | 15 | 0 | 0 | 0 | 0 | 0 |
 | `production_methods` | 119 | 3 | 0 | 0 | 0 | 0 | 0 |
-| `script_values` | 0 | 1 | 0 | 0 | 0 | 0 | 5 |
+| `script_values` | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
 | `scripted_effects` | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | `scripted_triggers` | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
 | `static_modifiers` | 27 | 3 | 0 | 0 | 0 | 0 | 0 |
 
 ### acceptance_statuses
 
-- **заменяет** (5): `cultural_erasure`, `full_acceptance`, `open_prejudice`, `second_rate_citizen`, `violent_hostility`
+- **дополняет** (5): `cultural_erasure`, `full_acceptance`, `open_prejudice`, `second_rate_citizen`, `violent_hostility`
 
 ### country_ranks
 
@@ -45,10 +44,6 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/**]
 ### game_rules
 
 - **добавляет** (1): `mog_spa_sol_modification`
-
-### laws
-
-- **заменяет** (6): [[grey_soft_pop/Законы/Культурное отчуждение|Культурное отчуждение]], [[grey_soft_pop/Законы/Этническое государство|Этническое государство]], [[grey_soft_pop/Законы/Мультикультурализм|Мультикультурализм]], [[grey_soft_pop/Законы/Национальное превосходство|Национальное превосходство]], [[grey_soft_pop/Законы/Расовая сегрегация|Расовая сегрегация]], [[grey_soft_pop/Законы/Подданство|Подданство]]
 
 ### modifier_type_definitions
 
@@ -73,7 +68,6 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/**]
 ### script_values
 
 - **заменяет** (1): `cultural_community_creation_weight`
-- **повтор без `REPLACE_OR_CREATE:` — не действует (первое определение остаётся)** (5): `acceptance_status_1`, `acceptance_status_2`, `acceptance_status_3`, `acceptance_status_4`, `acceptance_status_5`
 
 ### scripted_effects
 
@@ -162,8 +156,7 @@ paths: [grey_add_alot_of_things/_grey_soft_pop/**]
 | `NPops.POP_MERGE_MAX_WORKFORCE_MINOR_CONSOLIDATION` | `10` | `20` |
 | `NPops.POP_MERGE_MAX_WORKFORCE_MODERATE_CONSOLIDATION` | `30` | `60` |
 | `NPops.QUALIFICATIONS_NUM_MONTHS_AT_START` | `60` | `120` |
-| `NPops.RADICALS_MAX_FROM_DISCRIMINATION` | `0.5` | `0.7` |
-| `NPops.RADICALS_MAX_FROM_LOW_SOL` | `0.15` | `0.25` |
+| `NPops.RADICALS_MAX_FROM_LOW_SOL` | `0.075` | `0.25` |
 | `NPops.RADICALS_MONTHLY_FROM_LOW_SOL` | `0.003` | `0.004` |
 | `NPops.RADICALS_MONTHLY_FROM_STARVATION_BASE` | `0.002` | `0.006` |
 | `NPops.RADICALS_MONTHLY_FROM_STARVATION_MILD` | `0.008` | `0.012` |

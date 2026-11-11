@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_leaning_tower_of_pisa» — grey soft pop 1.13, `pm_default_building_leaning_tower_of_pisa`"
+description: "Метод производства «pm_default_building_leaning_tower_of_pisa» — grey soft pop 1.15, `pm_default_building_leaning_tower_of_pisa`"
 project: vic3
 audience: agent
 source: grey_soft_pop

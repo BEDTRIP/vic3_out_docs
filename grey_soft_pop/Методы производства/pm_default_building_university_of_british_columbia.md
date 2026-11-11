@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_university_of_british_columbia» — grey soft pop 1.13, `pm_default_building_university_of_british_columbia`"
+description: "Метод производства «pm_default_building_university_of_british_columbia» — grey soft pop 1.15, `pm_default_building_university_of_british_columbia`"
 project: vic3
 audience: agent
 source: grey_soft_pop

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «pm_default_building_moscow_institute_of_technology» — grey soft pop 1.13, `pm_default_building_moscow_institute_of_technology`"
+description: "Метод производства «pm_default_building_moscow_institute_of_technology» — grey soft pop 1.15, `pm_default_building_moscow_institute_of_technology`"
 project: vic3
 audience: agent
 source: grey_soft_pop
