@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Sumitomo» — VC 1.13, `company_sumitomo`"
+description: "Вид компании «Sumitomo» — VC 1.15, `company_sumitomo`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Sumitomo]]"
 ---
 # Sumitomo
 
-Вид компании · `company_sumitomo` · `common/company_types/joi_companies.txt:7598`
+Вид компании · `company_sumitomo` · `common/company_types/joi_companies.txt:7601`
 
 ## Отличия от ваниль
 
@@ -26,16 +26,16 @@ replaces: "[[vanilla/Виды компаний/Sumitomo]]"
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_KANSAI`
-- **building_types**: [[vc/Здания/Свинцовые рудники|Свинцовые рудники]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Заводы удобрений|Заводы удобрений]]
+- **building_types**: [[vanilla/Здания/Медные рудники|Медные рудники]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Заводы удобрений|Заводы удобрений]]
 - **extension_building_types**: [[vc/Здания/Угольные шахты|Угольные шахты]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Производства инструментов|Производства инструментов]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **potential**: скрипт, строки 7622–7624
-- **attainable**: скрипт, строки 7626–7634
-- **possible**: скрипт, строки 7636–7651
+- **potential**: скрипт, строки 7625–7627
+- **attainable**: скрипт, строки 7629–7637
+- **possible**: скрипт, строки 7639–7654
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.25`
   - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.1` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-steel-mult|goods_output_steel_mult]] = `0.1` → [[vanilla/Товары/Сталь|Сталь]]
-- **ai_will_do**: скрипт, строки 7659–7664
-- **ai_construction_targets**: скрипт, строки 7666–7685
-- **ai_weight**: скрипт, строки 7687–7689
+- **ai_will_do**: скрипт, строки 7662–7667
+- **ai_construction_targets**: скрипт, строки 7669–7688
+- **ai_weight**: скрипт, строки 7690–7692

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Armed Revolution» — VC 1.13, `ig_trait_worker_revolution`"
+description: "Черта группы интересов «Armed Revolution» — VC 1.15, `ig_trait_worker_revolution`"
 project: vic3
 audience: agent
 source: vc

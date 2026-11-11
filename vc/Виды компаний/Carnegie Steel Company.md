@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Carnegie Steel Company» — VC 1.13, `company_us_steel`"
+description: "Вид компании «Carnegie Steel Company» — VC 1.15, `company_us_steel`"
 project: vic3
 audience: agent
 source: vc
@@ -18,6 +18,7 @@ replaces: "[[vanilla/Виды компаний/Carnegie Steel Company]]"
 ## Отличия от ваниль
 
 - **possible_prestige_goods**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 - **ai_will_do**: изменено
 - **prestige_goods_trigger**: убрано

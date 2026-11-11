@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «special_ottoman_fatih» — VC 1.13, `special_ottoman_fatih`"
+description: "Черта персонажа «special_ottoman_fatih» — VC 1.15, `special_ottoman_fatih`"
 project: vic3
 audience: agent
 source: vc

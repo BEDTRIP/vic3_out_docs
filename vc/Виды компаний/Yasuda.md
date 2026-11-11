@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Yasuda» — VC 1.13, `company_yasuda`"
+description: "Вид компании «Yasuda» — VC 1.15, `company_yasuda`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Yasuda]]"
 ---
 # Yasuda
 
-Вид компании · `company_yasuda` · `common/company_types/joi_companies.txt:7769`
+Вид компании · `company_yasuda` · `common/company_types/joi_companies.txt:7772`
 
 ## Отличия от ваниль
 
@@ -33,13 +33,13 @@ replaces: "[[vanilla/Виды компаний/Yasuda]]"
 - **building_types**: [[vc/Здания/Серные рудники|Серные рудники]], [[vanilla/Здания/Железные дороги|Железные дороги]], [[vanilla/Здания/Порты|Порты]], [[vc/Здания/Производства инструментов|Производства инструментов]]
 - **extension_building_types**: [[vc/Здания/Угольные шахты|Угольные шахты]], [[vc/Здания/Текстильные фабрики|Текстильные фабрики]]
 - **possible_prestige_goods**: `prestige_good_generic_tools`
-- **potential**: скрипт, строки 7793–7796
-- **attainable**: скрипт, строки 7798–7806
-- **possible**: скрипт, строки 7808–7827
+- **potential**: скрипт, строки 7796–7799
+- **attainable**: скрипт, строки 7801–7809
+- **possible**: скрипт, строки 7811–7830
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.25`
   - [[vanilla/движок/Модификаторы C#^m-country-loan-interest-rate-mult|country_loan_interest_rate_mult]] = `-0.1`
   - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 7835–7840
-- **ai_construction_targets**: скрипт, строки 7842–7861
-- **ai_weight**: скрипт, строки 7863–7865
+- **ai_will_do**: скрипт, строки 7838–7843
+- **ai_construction_targets**: скрипт, строки 7845–7864
+- **ai_weight**: скрипт, строки 7866–7868

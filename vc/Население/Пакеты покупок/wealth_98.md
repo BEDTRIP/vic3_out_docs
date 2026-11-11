@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Пакет покупок «wealth_98» — VC 1.13, `wealth_98`"
+description: "Пакет покупок «wealth_98» — VC 1.15, `wealth_98`"
 project: vic3
 audience: agent
 source: vc

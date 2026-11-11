@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Evangelicalism» — VC 1.13, `ideology_evangelical_revival`"
+description: "Идеология «Evangelicalism» — VC 1.15, `ideology_evangelical_revival`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Evangelicalism
 
-Идеология · `ideology_evangelical_revival` · `common/ideologies/joi_ig_ideologies.txt:1240`
+Идеология · `ideology_evangelical_revival` · `common/ideologies/joi_ig_ideologies.txt:1244`
 
 ## Поля
 

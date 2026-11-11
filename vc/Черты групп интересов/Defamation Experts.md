@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Defamation Experts» — VC 1.13, `ig_trait_defamation_expert`"
+description: "Черта группы интересов «Defamation Experts» — VC 1.15, `ig_trait_defamation_expert`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Monastic System» — VC 1.13, `ig_trait_abbey_system`"
+description: "Черта группы интересов «Monastic System» — VC 1.15, `ig_trait_abbey_system`"
 project: vic3
 audience: agent
 source: vc

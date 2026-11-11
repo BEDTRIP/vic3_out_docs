@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Sunni Sharia» — VC 1.13, `ideology_shariah`"
+description: "Идеология «Sunni Sharia» — VC 1.15, `ideology_shariah`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Sunni Sharia
 
-Идеология · `ideology_shariah` · `common/ideologies/joi_ig_ideologies.txt:1005`
+Идеология · `ideology_shariah` · `common/ideologies/joi_ig_ideologies.txt:1009`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — VC 1.13, `company_ludwig_moser_and_sons`"
+description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — VC 1.15, `company_ludwig_moser_and_sons`"
 project: vic3
 audience: agent
 source: vc
@@ -20,6 +20,7 @@ replaces: "[[vanilla/Виды компаний/Glasfabrik Ludwig Moser & Söhne]
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **attainable**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля

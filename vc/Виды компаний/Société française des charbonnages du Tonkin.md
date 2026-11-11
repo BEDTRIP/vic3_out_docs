@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Société française des charbonnages du Tonkin» — VC 1.13, `company_societe_francaise_charbonnages_du_tonkin`"
+description: "Вид компании «Société française des charbonnages du Tonkin» — VC 1.15, `company_societe_francaise_charbonnages_du_tonkin`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Société française des charbonn
 ---
 # Société française des charbonnages du Tonkin
 
-Вид компании · `company_societe_francaise_charbonnages_du_tonkin` · `common/company_types/joi_companies.txt:7868`
+Вид компании · `company_societe_francaise_charbonnages_du_tonkin` · `common/company_types/joi_companies.txt:7871`
 
 ## Отличия от ваниль
 
@@ -36,14 +36,14 @@ replaces: "[[vanilla/Виды компаний/Société française des charbonn
 - **building_types**: [[vc/Здания/Угольные шахты|Угольные шахты]], [[vc/Здания/Лесозаготовки|Лесозаготовки]], [[vanilla/Здания/Порты|Порты]]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]], [[vanilla/Здания/Электростанции|Электростанции]]
 - **possible_prestige_goods**: `prestige_good_generic_merchant_marine`
-- **prestige_goods_trigger**: скрипт, строки 7893–7898
-- **potential**: скрипт, строки 7900–7902
-- **attainable**: скрипт, строки 7904–7912
-- **possible**: скрипт, строки 7914–7925
+- **prestige_goods_trigger**: скрипт, строки 7896–7901
+- **potential**: скрипт, строки 7903–7905
+- **attainable**: скрипт, строки 7907–7915
+- **possible**: скрипт, строки 7917–7928
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы G#^m-goods-output-coal-mult|goods_output_coal_mult]] = `0.1` → [[vanilla/Товары/Уголь|Уголь]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-hardwood-mult|goods_output_hardwood_mult]] = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
-- **ai_will_do**: скрипт, строки 7933–7938
-- **ai_construction_targets**: скрипт, строки 7940–7947
-- **ai_weight**: скрипт, строки 7949–7951
+- **ai_will_do**: скрипт, строки 7936–7941
+- **ai_construction_targets**: скрипт, строки 7943–7950
+- **ai_weight**: скрипт, строки 7952–7954

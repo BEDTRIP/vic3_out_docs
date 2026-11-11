@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Bunge y Born»» — VC 1.13, `company_bunge_born`"
+description: "Вид компании ««Bunge y Born»» — VC 1.15, `company_bunge_born`"
 project: vic3
 audience: agent
 source: vc

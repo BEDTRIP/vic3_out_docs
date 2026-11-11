@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Landed Gentry» — VC 1.13, `ig_trait_owner_of_land`"
+description: "Черта группы интересов «Landed Gentry» — VC 1.15, `ig_trait_owner_of_land`"
 project: vic3
 audience: agent
 source: vc

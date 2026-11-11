@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Arthur Guinness Son & Co.»» — VC 1.13, `company_guinness`"
+description: "Вид компании ««Arthur Guinness Son & Co.»» — VC 1.15, `company_guinness`"
 project: vic3
 audience: agent
 source: vc
@@ -21,6 +21,7 @@ replaces: "[[vanilla/Виды компаний/«Arthur Guinness Son & Co.»]]"
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **possible_prestige_goods**: изменено
+- **possible**: изменено
 - **prestige_goods_trigger**: убрано
 
 ## Поля

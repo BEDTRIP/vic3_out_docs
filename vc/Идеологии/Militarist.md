@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Militarist» — VC 1.13, `ideology_militarism`"
+description: "Идеология «Militarist» — VC 1.15, `ideology_militarism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Militarist
 
-Идеология · `ideology_militarism` · `common/ideologies/joi_ig_ideologies.txt:1712`
+Идеология · `ideology_militarism` · `common/ideologies/joi_ig_ideologies.txt:1716`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Capitalist (ideology_bourgeoisie_capitalism)» — VC 1.13, `ideology_bourgeoisie_capitalism`"
+description: "Идеология «Capitalist (ideology_bourgeoisie_capitalism)» — VC 1.15, `ideology_bourgeoisie_capitalism`"
 project: vic3
 audience: agent
 source: vc

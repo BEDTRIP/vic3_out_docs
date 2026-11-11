@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Benz & Cie» — VC 1.13, `company_benz_cie`"
+description: "Вид компании «Benz & Cie» — VC 1.15, `company_benz_cie`"
 project: vic3
 audience: agent
 source: vc

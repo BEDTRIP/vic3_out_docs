@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Forges of the Tigris» — VC 1.13, `ig_trait_forges_of_tigris`"
+description: "Черта группы интересов «Forges of the Tigris» — VC 1.15, `ig_trait_forges_of_tigris`"
 project: vic3
 audience: agent
 source: vc

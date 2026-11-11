@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Farmers' Alliance» — VC 1.13, `ig_trait_farmers_allies`"
+description: "Черта группы интересов «Farmers' Alliance» — VC 1.15, `ig_trait_farmers_allies`"
 project: vic3
 audience: agent
 source: vc

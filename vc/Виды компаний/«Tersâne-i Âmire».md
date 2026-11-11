@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Tersâne-i Âmire»» — VC 1.13, `company_imperial_arsenal`"
+description: "Вид компании ««Tersâne-i Âmire»» — VC 1.15, `company_imperial_arsenal`"
 project: vic3
 audience: agent
 source: vc
@@ -30,7 +30,7 @@ replaces: "[[vanilla/Виды компаний/«Tersâne-i Âmire»]]"
 - **category**: `bureaucrat_owned`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_EASTERN_THRACE`
-- **building_types**: [[vc/Здания/верфи|верфи]], [[vc/Здания/Заводы взрывчатки|Заводы взрывчатки]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vc/Здания/Оружейные заводы|Оружейные заводы]]
+- **building_types**: [[vc/Здания/Верфи|Верфи]], [[vc/Здания/Заводы взрывчатки|Заводы взрывчатки]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vc/Здания/Оружейные заводы|Оружейные заводы]]
 - **extension_building_types**: [[vc/Здания/Автомобильные заводы|Автомобильные заводы]], [[vc/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Железные дороги|Железные дороги]], [[vc/Здания/Заводы боеприпасов|Заводы боеприпасов]]
 - **possible_prestige_goods**: `prestige_good_abus_guns`
 - **potential**: скрипт, строки 1084–1086

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Jakub Klein a spol» — VC 1.13, `company_jakub_klein`"
+description: "Вид компании «Jakub Klein a spol» — VC 1.15, `company_jakub_klein`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Jakub Klein a spol]]"
 ---
 # Jakub Klein a spol
 
-Вид компании · `company_jakub_klein` · `common/company_types/joi_companies.txt:5877`
+Вид компании · `company_jakub_klein` · `common/company_types/joi_companies.txt:5879`
 
 ## Отличия от ваниль
 
@@ -31,11 +31,11 @@ replaces: "[[vanilla/Виды компаний/Jakub Klein a spol]]"
 - **building_types**: [[vc/Здания/Лесозаготовки|Лесозаготовки]], [[vc/Здания/Бумажные фабрики|Бумажные фабрики]]
 - **extension_building_types**: [[vc/Здания/Заводы удобрений|Заводы удобрений]]
 - **possible_prestige_goods**: `prestige_good_generic_paper`
-- **potential**: скрипт, строки 5896–5898
+- **potential**: скрипт, строки 5898–5900
 - **attainable**: пусто
-- **possible**: скрипт, строки 5903–5915
+- **possible**: скрипт, строки 5905–5917
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-paper-mill-throughput-add|building_paper_mill_throughput_add]] = `0.1` → [[vc/Здания/Бумажные фабрики|Бумажные фабрики]]
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
   - [[vanilla/движок/Модификаторы G#^m-goods-output-paper-mult|goods_output_paper_mult]] = `0.15` → [[vanilla/Товары/Бумага|Бумага]]
-- **ai_weight**: скрипт, строки 5923–5925
+- **ai_weight**: скрипт, строки 5925–5927

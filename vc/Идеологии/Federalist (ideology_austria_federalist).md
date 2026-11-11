@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Federalist (ideology_austria_federalist)» — VC 1.13, `ideology_austria_federalist`"
+description: "Идеология «Federalist (ideology_austria_federalist)» — VC 1.15, `ideology_austria_federalist`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Federalist (ideology_austria_federalist)
 
-Идеология · `ideology_austria_federalist` · `common/ideologies/joi_ig_ideologies.txt:1086`
+Идеология · `ideology_austria_federalist` · `common/ideologies/joi_ig_ideologies.txt:1090`
 
 ## Поля
 

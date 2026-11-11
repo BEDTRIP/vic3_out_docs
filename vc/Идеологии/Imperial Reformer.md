@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Imperial Reformer» — VC 1.13, `ideology_imperial_reformer_leader`"
+description: "Идеология «Imperial Reformer» — VC 1.15, `ideology_imperial_reformer_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 ---
 # Imperial Reformer
 
-Идеология · `ideology_imperial_reformer_leader` · `common/ideologies/joi_leader_ideologies.txt:737`
+Идеология · `ideology_imperial_reformer_leader` · `common/ideologies/joi_leader_ideologies.txt:738`
 
 ## Поля
 
@@ -51,12 +51,12 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
   - [[vanilla/Законы/Защита прав рабочих|Защита прав рабочих]] = `neutral`
   - [[vanilla/Законы/Регулирующие органы|Регулирующие органы]] = `approve`
   - [[vanilla/Законы/Нет прав трудящихся|Нет прав трудящихся]] = `disapprove`
-- **country_trigger**: скрипт, строки 789–796
+- **country_trigger**: скрипт, строки 790–797
 - **interest_group_leader_trigger**:
   - `ideology_utilitarian_leader_valid_trigger` = `yes`
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
     - `ideology_utilitarian_leader_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 808–832
+- **interest_group_leader_weight**: скрипт, строки 809–833
 - **non_interest_group_leader_weight**:
   - `value` = `100`

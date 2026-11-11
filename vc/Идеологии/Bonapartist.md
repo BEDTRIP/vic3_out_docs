@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Bonapartist» — VC 1.13, `ideology_bonapartiste`"
+description: "Идеология «Bonapartist» — VC 1.15, `ideology_bonapartiste`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Bonapartist
 
-Идеология · `ideology_bonapartiste` · `common/ideologies/joi_ig_ideologies.txt:1397`
+Идеология · `ideology_bonapartiste` · `common/ideologies/joi_ig_ideologies.txt:1401`
 
 ## Поля
 

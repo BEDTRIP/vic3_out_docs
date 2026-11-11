@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — VC 1.13, `company_oesterreichisch_alpine_montangesellschaft`"
+description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — VC 1.15, `company_oesterreichisch_alpine_montangesellschaft`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Oesterreichisch-Alpine Montangese
 ---
 # Oesterreichisch-Alpine Montangesellschaft
 
-Вид компании · `company_oesterreichisch_alpine_montangesellschaft` · `common/company_types/joi_companies.txt:5928`
+Вид компании · `company_oesterreichisch_alpine_montangesellschaft` · `common/company_types/joi_companies.txt:5930`
 
 ## Отличия от ваниль
 
@@ -33,11 +33,11 @@ replaces: "[[vanilla/Виды компаний/Oesterreichisch-Alpine Montangese
 - **building_types**: [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Угольные шахты|Угольные шахты]]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]], [[vc/Здания/Лесозаготовки|Лесозаготовки]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **potential**: скрипт, строки 5949–5951
-- **attainable**: скрипт, строки 5953–5961
-- **possible**: скрипт, строки 5963–5976
+- **potential**: скрипт, строки 5951–5953
+- **attainable**: скрипт, строки 5955–5963
+- **possible**: скрипт, строки 5965–5978
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-lead-mine-throughput-add|building_lead_mine_throughput_add]] = `0.1` → [[vc/Здания/Свинцовые рудники|Свинцовые рудники]]
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
   - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-mult|state_migration_pull_mult]] = `0.15`
-- **ai_weight**: скрипт, строки 5984–5986
+- **ai_weight**: скрипт, строки 5986–5988

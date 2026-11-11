@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Patriarchalist» — VC 1.13, `ideology_tory_patriarchal`"
+description: "Идеология «Patriarchalist» — VC 1.15, `ideology_tory_patriarchal`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Patriarchalist
 
-Идеология · `ideology_tory_patriarchal` · `common/ideologies/joi_ig_ideologies.txt:554`
+Идеология · `ideology_tory_patriarchal` · `common/ideologies/joi_ig_ideologies.txt:556`
 
 ## Поля
 

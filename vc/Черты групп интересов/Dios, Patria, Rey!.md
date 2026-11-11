@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Dios, Patria, Rey!» — VC 1.13, `ig_trait_dios_patria_rey`"
+description: "Черта группы интересов «Dios, Patria, Rey!» — VC 1.15, `ig_trait_dios_patria_rey`"
 project: vic3
 audience: agent
 source: vc

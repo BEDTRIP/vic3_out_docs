@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Red Shirts» — VC 1.13, `ig_trait_camicie_rosse`"
+description: "Черта группы интересов «Red Shirts» — VC 1.15, `ig_trait_camicie_rosse`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Revivalist» — VC 1.13, `ideology_revivalism`"
+description: "Идеология «Revivalist» — VC 1.15, `ideology_revivalism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Revivalist
 
-Идеология · `ideology_revivalism` · `common/ideologies/joi_ig_ideologies.txt:902`
+Идеология · `ideology_revivalism` · `common/ideologies/joi_ig_ideologies.txt:905`
 
 ## Поля
 

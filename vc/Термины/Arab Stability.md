@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода VC «Arab Stability» — подсказка-понятие Victoria 3 1.13 (`concept_unruly_arabs_timer`)"
+description: "Термин мода VC «Arab Stability» — подсказка-понятие Victoria 3 1.15 (`concept_unruly_arabs_timer`)"
 project: vic3
 audience: agent
 source: vc

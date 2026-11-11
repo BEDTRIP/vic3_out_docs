@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Government–Merchant Cooperation» — VC 1.13, `ig_trait_government_cooperation`"
+description: "Черта группы интересов «Government–Merchant Cooperation» — VC 1.15, `ig_trait_government_cooperation`"
 project: vic3
 audience: agent
 source: vc

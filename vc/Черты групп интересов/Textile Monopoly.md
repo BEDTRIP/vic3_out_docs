@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Textile Monopoly» — VC 1.13, `ig_trait_textile_monopoly`"
+description: "Черта группы интересов «Textile Monopoly» — VC 1.15, `ig_trait_textile_monopoly`"
 project: vic3
 audience: agent
 source: vc
@@ -19,6 +19,6 @@ paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 - **icon**: `gfx/interface/icons/ig_trait_icons/engines_of_progress.dds`
 - **min_approval**: `happy`
 - **modifier**:
-  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.05` → [[vc/Здания/Текстильные фабрики|Текстильные фабрики]]
+  - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.1` → [[vc/Здания/Текстильные фабрики|Текстильные фабрики]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-clothes-mult|goods_output_clothes_mult]] = `0.15` → [[vanilla/Товары/Одежда|Одежда]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-luxury-clothes-mult|goods_output_luxury_clothes_mult]] = `0.15` → [[vanilla/Товары/Роскошная одежда|Роскошная одежда]]

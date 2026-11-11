@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Provincial Armies» — VC 1.13, `ig_trait_local_richarmy`"
+description: "Черта группы интересов «Provincial Armies» — VC 1.15, `ig_trait_local_richarmy`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Hierarchist» — VC 1.13, `ideology_british_hierarchic`"
+description: "Идеология «Hierarchist» — VC 1.15, `ideology_british_hierarchic`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Hierarchist
 
-Идеология · `ideology_british_hierarchic` · `common/ideologies/joi_ig_ideologies.txt:590`
+Идеология · `ideology_british_hierarchic` · `common/ideologies/joi_ig_ideologies.txt:592`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода VC «Garrisons State» — подсказка-понятие Victoria 3 1.13 (`concept_franco_state`)"
+description: "Термин мода VC «Garrisons State» — подсказка-понятие Victoria 3 1.15 (`concept_franco_state`)"
 project: vic3
 audience: agent
 source: vc

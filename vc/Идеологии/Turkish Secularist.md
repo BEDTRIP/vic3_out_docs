@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Turkish Secularist» — VC 1.13, `ideology_kemalism_leader`"
+description: "Идеология «Turkish Secularist» — VC 1.15, `ideology_kemalism_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -71,10 +71,10 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 - **country_trigger**:
   - `has_variable` = `liberalism_of_turkey_var`
 - **interest_group_leader_trigger**:
-  - `ideology_communist_valid_trigger` = `yes`
+  - `ideology_communist_leader_valid_trigger` = `yes`
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
-    - `ideology_communist_valid_trigger` = `yes`
+    - `ideology_communist_leader_valid_trigger` = `yes`
 - **interest_group_leader_weight**: скрипт, строки 371–394
 - **non_interest_group_leader_weight**:
   - `value` = `250`

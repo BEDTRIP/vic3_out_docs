@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Law and Glory» — VC 1.13, `ig_trait_law_and_civilization`"
+description: "Черта группы интересов «Law and Glory» — VC 1.15, `ig_trait_law_and_civilization`"
 project: vic3
 audience: agent
 source: vc

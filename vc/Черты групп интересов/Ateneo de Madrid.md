@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Ateneo de Madrid» — VC 1.13, `ig_trait_ateneo_de_madrid`"
+description: "Черта группы интересов «Ateneo de Madrid» — VC 1.15, `ig_trait_ateneo_de_madrid`"
 project: vic3
 audience: agent
 source: vc

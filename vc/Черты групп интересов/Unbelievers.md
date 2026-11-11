@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Unbelievers» — VC 1.13, `ig_trait_faith_in_chains`"
+description: "Черта группы интересов «Unbelievers» — VC 1.15, `ig_trait_faith_in_chains`"
 project: vic3
 audience: agent
 source: vc

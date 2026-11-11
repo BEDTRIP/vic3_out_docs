@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Ottomanist» — VC 1.13, `ideology_ottomanism`"
+description: "Идеология «Ottomanist» — VC 1.15, `ideology_ottomanism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Ottomanist
 
-Идеология · `ideology_ottomanism` · `common/ideologies/joi_ig_ideologies.txt:1900`
+Идеология · `ideology_ottomanism` · `common/ideologies/joi_ig_ideologies.txt:1905`
 
 ## Поля
 

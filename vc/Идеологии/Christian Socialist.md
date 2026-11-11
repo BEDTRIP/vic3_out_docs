@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Christian Socialist» — VC 1.13, `ideology_catholicisme_social`"
+description: "Идеология «Christian Socialist» — VC 1.15, `ideology_catholicisme_social`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Christian Socialist
 
-Идеология · `ideology_catholicisme_social` · `common/ideologies/joi_ig_ideologies.txt:1501`
+Идеология · `ideology_catholicisme_social` · `common/ideologies/joi_ig_ideologies.txt:1505`
 
 ## Поля
 

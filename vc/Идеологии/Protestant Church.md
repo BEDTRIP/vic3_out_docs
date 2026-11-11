@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Protestant Church» — VC 1.13, `ideology_protestant_church`"
+description: "Идеология «Protestant Church» — VC 1.15, `ideology_protestant_church`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Protestant Church
 
-Идеология · `ideology_protestant_church` · `common/ideologies/joi_ig_ideologies.txt:1281`
+Идеология · `ideology_protestant_church` · `common/ideologies/joi_ig_ideologies.txt:1285`
 
 ## Поля
 

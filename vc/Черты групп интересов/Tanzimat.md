@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Tanzimat» — VC 1.13, `ig_trait_tanzimat`"
+description: "Черта группы интересов «Tanzimat» — VC 1.15, `ig_trait_tanzimat`"
 project: vic3
 audience: agent
 source: vc

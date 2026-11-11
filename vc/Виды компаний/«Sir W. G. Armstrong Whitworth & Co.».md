@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — VC 1.13, `company_armstrong_whitworth`"
+description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — VC 1.15, `company_armstrong_whitworth`"
 project: vic3
 audience: agent
 source: vc
@@ -30,7 +30,7 @@ replaces: "[[vanilla/Виды компаний/«Sir W. G. Armstrong Whitworth &
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_YORKSHIRE`, `STATE_ULSTER`, `STATE_MUNSTER`
-- **building_types**: [[vc/Здания/верфи|верфи]], [[vc/Здания/Моторные заводы|Моторные заводы]], [[vc/Здания/Заводы боеприпасов|Заводы боеприпасов]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]]
+- **building_types**: [[vc/Здания/Верфи|Верфи]], [[vc/Здания/Моторные заводы|Моторные заводы]], [[vc/Здания/Заводы боеприпасов|Заводы боеприпасов]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **extension_building_types**: [[vc/Здания/Автомобильные заводы|Автомобильные заводы]], [[vanilla/Здания/Порты|Порты]]
 - **potential**: скрипт, строки 22–24
 - **attainable**: скрипт, строки 26–32

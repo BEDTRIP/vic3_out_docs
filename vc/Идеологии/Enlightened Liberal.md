@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Enlightened Liberal» — VC 1.13, `ideology_enlightlism`"
+description: "Идеология «Enlightened Liberal» — VC 1.15, `ideology_enlightlism`"
 project: vic3
 audience: agent
 source: vc

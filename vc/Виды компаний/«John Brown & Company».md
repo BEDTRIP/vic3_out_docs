@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««John Brown & Company»» — VC 1.13, `company_john_brown`"
+description: "Вид компании ««John Brown & Company»» — VC 1.15, `company_john_brown`"
 project: vic3
 audience: agent
 source: vc
@@ -31,7 +31,7 @@ replaces: "[[vanilla/Виды компаний/«John Brown & Company»]]"
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_LOWLANDS`, `STATE_ULSTER`
-- **building_types**: [[vc/Здания/верфи|верфи]], [[vc/Здания/Железные рудники|Железные рудники]]
+- **building_types**: [[vc/Здания/Верфи|Верфи]], [[vc/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vc/Здания/Моторные заводы|Моторные заводы]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Порты|Порты]]
 - **possible_prestige_goods**: `prestige_good_clyde_built_liners`
 - **potential**: скрипт, строки 4069–4071

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Anti-Shogunate» — VC 1.13, `ideology_anti_shogunate`"
+description: "Идеология «Anti-Shogunate» — VC 1.15, `ideology_anti_shogunate`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Anti-Shogunate
 
-Идеология · `ideology_anti_shogunate` · `common/ideologies/joi_ig_ideologies.txt:1023`
+Идеология · `ideology_anti_shogunate` · `common/ideologies/joi_ig_ideologies.txt:1027`
 
 ## Поля
 

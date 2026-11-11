@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Manufacture d'armes de Saint-Étienne»» — VC 1.13, `company_saint_etienne`"
+description: "Вид компании ««Manufacture d'armes de Saint-Étienne»» — VC 1.15, `company_saint_etienne`"
 project: vic3
 audience: agent
 source: vc
@@ -20,6 +20,7 @@ replaces: "[[vanilla/Виды компаний/«Manufacture d'armes de Saint-É
 - **possible**: изменено
 - **prosperity_modifier**: изменено
 - **ai_will_do**: изменено
+- **ai_weight**: изменено
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «One-Nation Conservative» — VC 1.13, `ideology_one_nation_conservatism_leader`"
+description: "Идеология «One-Nation Conservative» — VC 1.15, `ideology_one_nation_conservatism_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 ---
 # One-Nation Conservative
 
-Идеология · `ideology_one_nation_conservatism_leader` · `common/ideologies/joi_leader_ideologies.txt:626`
+Идеология · `ideology_one_nation_conservatism_leader` · `common/ideologies/joi_leader_ideologies.txt:627`
 
 ## Поля
 
@@ -67,12 +67,12 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `approve`
   - [[vanilla/Законы/Национальное ополчение|Национальное ополчение]] = `disapprove`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
-- **country_trigger**: скрипт, строки 696–704
+- **country_trigger**: скрипт, строки 697–705
 - **interest_group_leader_trigger**:
   - `ideology_utilitarian_leader_valid_trigger` = `yes`
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
     - `ideology_utilitarian_leader_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 716–730
+- **interest_group_leader_weight**: скрипт, строки 717–731
 - **non_interest_group_leader_weight**:
   - `value` = `250`

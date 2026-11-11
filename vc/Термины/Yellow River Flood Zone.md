@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода VC «Yellow River Flood Zone» — подсказка-понятие Victoria 3 1.13 (`concept_yellow_river_flood_area`)"
+description: "Термин мода VC «Yellow River Flood Zone» — подсказка-понятие Victoria 3 1.15 (`concept_yellow_river_flood_area`)"
 project: vic3
 audience: agent
 source: vc

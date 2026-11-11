@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Maison Worth» — VC 1.13, `company_maison_worth`"
+description: "Вид компании «Maison Worth» — VC 1.15, `company_maison_worth`"
 project: vic3
 audience: agent
 source: vc
@@ -20,7 +20,9 @@ replaces: "[[vanilla/Виды компаний/Maison Worth]]"
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **attainable**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
+- **ai_weight**: изменено
 - **category**: убрано
 
 ## Поля

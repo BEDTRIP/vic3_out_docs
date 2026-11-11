@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Rationalism» — VC 1.13, `ig_trait_rationalismus`"
+description: "Черта группы интересов «Rationalism» — VC 1.15, `ig_trait_rationalismus`"
 project: vic3
 audience: agent
 source: vc

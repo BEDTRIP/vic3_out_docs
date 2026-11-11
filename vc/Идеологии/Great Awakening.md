@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Great Awakening» — VC 1.13, `ideology_protestant_awakening`"
+description: "Идеология «Great Awakening» — VC 1.15, `ideology_protestant_awakening`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Great Awakening
 
-Идеология · `ideology_protestant_awakening` · `common/ideologies/joi_ig_ideologies.txt:785`
+Идеология · `ideology_protestant_awakening` · `common/ideologies/joi_ig_ideologies.txt:787`
 
 ## Поля
 

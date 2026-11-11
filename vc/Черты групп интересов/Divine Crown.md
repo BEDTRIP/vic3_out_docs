@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Divine Crown» — VC 1.13, `ig_trait_divine_crown`"
+description: "Черта группы интересов «Divine Crown» — VC 1.15, `ig_trait_divine_crown`"
 project: vic3
 audience: agent
 source: vc

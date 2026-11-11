@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Statists» — VC 1.13, `ideology_economic_statism`"
+description: "Идеология «Statists» — VC 1.15, `ideology_economic_statism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Statists
 
-Идеология · `ideology_economic_statism` · `common/ideologies/joi_ig_ideologies.txt:2131`
+Идеология · `ideology_economic_statism` · `common/ideologies/joi_ig_ideologies.txt:2136`
 
 ## Поля
 
@@ -47,8 +47,9 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
   - [[vanilla/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]] = `approve`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `strongly_approve`
-  - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `approve`
-  - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `neutral`
+  - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
+  - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `approve`
 - **lawgroup_army_model**:
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `approve`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `strongly_approve`

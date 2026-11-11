@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Janissary Corps» — VC 1.13, `ideology_janissary`"
+description: "Идеология «Janissary Corps» — VC 1.15, `ideology_janissary`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Janissary Corps
 
-Идеология · `ideology_janissary` · `common/ideologies/joi_ig_ideologies.txt:1983`
+Идеология · `ideology_janissary` · `common/ideologies/joi_ig_ideologies.txt:1988`
 
 ## Поля
 

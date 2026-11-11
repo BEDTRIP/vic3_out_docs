@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««G. Ricordi & C.»» — VC 1.13, `company_ricordi`"
+description: "Вид компании ««G. Ricordi & C.»» — VC 1.15, `company_ricordi`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«G. Ricordi & C.»]]"
 ---
 # «G. Ricordi & C.»
 
-Вид компании · `company_ricordi` · `common/company_types/joi_companies.txt:7143`
+Вид компании · `company_ricordi` · `common/company_types/joi_companies.txt:7146`
 
 ## Отличия от ваниль
 
@@ -34,13 +34,13 @@ replaces: "[[vanilla/Виды компаний/«G. Ricordi & C.»]]"
 - **building_types**: [[vanilla/Здания/Академии искусств|Академии искусств]]
 - **extension_building_types**: [[vc/Здания/Виноградники|Виноградники]]
 - **possible_prestige_goods**: `prestige_good_ricordi_opera`
-- **potential**: скрипт, строки 7165–7171
+- **potential**: скрипт, строки 7168–7174
 - **attainable**: пусто
-- **possible**: скрипт, строки 7177–7188
+- **possible**: скрипт, строки 7180–7191
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.15`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-arts-employee-mult|building_group_bg_arts_employee_mult]] = `-0.1`
   - [[vanilla/движок/Модификаторы G#^m-goods-output-fine-art-mult|goods_output_fine_art_mult]] = `0.1` → [[vanilla/Товары/Картины|Картины]]
-- **ai_will_do**: скрипт, строки 7196–7201
-- **ai_construction_targets**: скрипт, строки 7203–7210
-- **ai_weight**: скрипт, строки 7212–7214
+- **ai_will_do**: скрипт, строки 7199–7204
+- **ai_construction_targets**: скрипт, строки 7206–7213
+- **ai_weight**: скрипт, строки 7215–7217

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «National Bonds» — VC 1.13, `ig_trait_national_ties`"
+description: "Черта группы интересов «National Bonds» — VC 1.15, `ig_trait_national_ties`"
 project: vic3
 audience: agent
 source: vc

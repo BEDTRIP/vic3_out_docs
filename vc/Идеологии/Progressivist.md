@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Progressivist» — VC 1.13, `ideology_progressivism`"
+description: "Идеология «Progressivist» — VC 1.15, `ideology_progressivism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Progressivist
 
-Идеология · `ideology_progressivism` · `common/ideologies/joi_ig_ideologies.txt:1130`
+Идеология · `ideology_progressivism` · `common/ideologies/joi_ig_ideologies.txt:1134`
 
 ## Поля
 

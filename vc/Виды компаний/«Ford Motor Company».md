@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Ford Motor Company»» — VC 1.13, `company_ford_motor`"
+description: "Вид компании ««Ford Motor Company»» — VC 1.15, `company_ford_motor`"
 project: vic3
 audience: agent
 source: vc
@@ -17,6 +17,7 @@ replaces: "[[vanilla/Виды компаний/«Ford Motor Company»]]"
 
 ## Отличия от ваниль
 
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля

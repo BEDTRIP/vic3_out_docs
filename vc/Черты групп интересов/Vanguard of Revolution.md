@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Vanguard of Revolution» — VC 1.13, `ig_trait_revolution`"
+description: "Черта группы интересов «Vanguard of Revolution» — VC 1.15, `ig_trait_revolution`"
 project: vic3
 audience: agent
 source: vc

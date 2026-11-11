@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Iron Duke» — VC 1.13, `special_iron_duke`"
+description: "Черта персонажа «Iron Duke» — VC 1.15, `special_iron_duke`"
 project: vic3
 audience: agent
 source: vc

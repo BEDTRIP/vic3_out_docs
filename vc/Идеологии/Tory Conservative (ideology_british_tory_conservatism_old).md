@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Tory Conservative (ideology_british_tory_conservatism_old)» — VC 1.13, `ideology_british_tory_conservatism_old`"
+description: "Идеология «Tory Conservative (ideology_british_tory_conservatism_old)» — VC 1.15, `ideology_british_tory_conservatism_old`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Tory Conservative (ideology_british_tory_conservatism_old)
 
-Идеология · `ideology_british_tory_conservatism_old` · `common/ideologies/joi_ig_ideologies.txt:422`
+Идеология · `ideology_british_tory_conservatism_old` · `common/ideologies/joi_ig_ideologies.txt:424`
 
 ## Поля
 

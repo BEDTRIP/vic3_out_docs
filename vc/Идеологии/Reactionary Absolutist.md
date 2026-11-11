@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Reactionary Absolutist» — VC 1.13, `ideology_reactionism_leader`"
+description: "Идеология «Reactionary Absolutist» — VC 1.15, `ideology_reactionism_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -55,8 +55,9 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
   - [[vanilla/Законы/Подданство|Подданство]] = `strongly_approve`
 - **lawgroup_bureaucracy**:
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
-  - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `strongly_approve`
-  - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `approve`
+  - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `approve`
+  - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `neutral`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `strongly_approve`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_disapprove`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `disapprove`
@@ -84,6 +85,6 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
     - `ideology_slaver_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 605–619
+- **interest_group_leader_weight**: скрипт, строки 606–620
 - **non_interest_group_leader_weight**:
   - `value` = `25`

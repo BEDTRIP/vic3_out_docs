@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Első Budapesti Gőzmalom Rt» — VC 1.13, `company_elso_budapesti_gozmalom`"
+description: "Вид компании «Első Budapesti Gőzmalom Rt» — VC 1.15, `company_elso_budapesti_gozmalom`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/Első Budapesti Gőzmalom Rt]]"
 ---
 # Első Budapesti Gőzmalom Rt
 
-Вид компании · `company_elso_budapesti_gozmalom` · `common/company_types/joi_companies.txt:8036`
+Вид компании · `company_elso_budapesti_gozmalom` · `common/company_types/joi_companies.txt:8039`
 
 ## Отличия от ваниль
 
@@ -31,13 +31,13 @@ replaces: "[[vanilla/Виды компаний/Első Budapesti Gőzmalom Rt]]"
 - **building_types**: [[vc/Здания/Пшеничные поля|Пшеничные поля]], [[vc/Здания/Пищевые производства|Пищевые производства]], [[vc/Здания/Лесозаготовки|Лесозаготовки]]
 - **extension_building_types**: [[vc/Здания/Виноградники|Виноградники]], [[vc/Здания/Плантации сахарного тростника|Плантации сахарного тростника]]
 - **possible_prestige_goods**: `prestige_good_pannonian_patent_flour`
-- **potential**: скрипт, строки 8057–8060
+- **potential**: скрипт, строки 8060–8063
 - **attainable**: пусто
-- **possible**: скрипт, строки 8066–8088
+- **possible**: скрипт, строки 8069–8091
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы G#^m-goods-output-grain-mult|goods_output_grain_mult]] = `0.15` → [[vanilla/Товары/Зерно|Зерно]]
   - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 8096–8102
-- **ai_construction_targets**: скрипт, строки 8104–8117
-- **ai_weight**: скрипт, строки 8119–8121
+- **ai_will_do**: скрипт, строки 8099–8105
+- **ai_construction_targets**: скрипт, строки 8107–8120
+- **ai_weight**: скрипт, строки 8122–8124

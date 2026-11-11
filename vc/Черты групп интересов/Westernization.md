@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Westernization» — VC 1.13, `ig_trait_rus_westernlism`"
+description: "Черта группы интересов «Westernization» — VC 1.15, `ig_trait_rus_westernlism`"
 project: vic3
 audience: agent
 source: vc

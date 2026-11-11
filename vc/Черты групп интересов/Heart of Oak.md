@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Heart of Oak» — VC 1.13, `ig_trait_heart_of_oak`"
+description: "Черта группы интересов «Heart of Oak» — VC 1.15, `ig_trait_heart_of_oak`"
 project: vic3
 audience: agent
 source: vc

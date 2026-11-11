@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Stabilimento Tecnico Triestino»» — VC 1.13, `company_stt`"
+description: "Вид компании ««Stabilimento Tecnico Triestino»» — VC 1.15, `company_stt`"
 project: vic3
 audience: agent
 source: vc
@@ -13,13 +13,14 @@ replaces: "[[vanilla/Виды компаний/«Stabilimento Tecnico Triestino�
 ---
 # «Stabilimento Tecnico Triestino»
 
-Вид компании · `company_stt` · `common/company_types/joi_companies.txt:7954`
+Вид компании · `company_stt` · `common/company_types/joi_companies.txt:7957`
 
 ## Отличия от ваниль
 
 - **building_types**: изменено
 - **possible_prestige_goods**: добавлено
 - **prestige_goods_trigger**: добавлено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля
@@ -28,17 +29,17 @@ replaces: "[[vanilla/Виды компаний/«Stabilimento Tecnico Triestino�
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_ISTRIA`
-- **building_types**: [[vc/Здания/верфи|верфи]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vanilla/Здания/Порты|Порты]]
+- **building_types**: [[vc/Здания/Верфи|Верфи]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vanilla/Здания/Порты|Порты]]
 - **extension_building_types**: [[vc/Здания/Моторные заводы|Моторные заводы]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **possible_prestige_goods**: `prestige_good_generic_merchant_marine`
-- **prestige_goods_trigger**: скрипт, строки 7977–7982
-- **potential**: скрипт, строки 7984–7986
-- **attainable**: скрипт, строки 7988–7994
-- **possible**: скрипт, строки 7996–8006
+- **prestige_goods_trigger**: скрипт, строки 7980–7985
+- **potential**: скрипт, строки 7987–7989
+- **attainable**: скрипт, строки 7991–7997
+- **possible**: скрипт, строки 7999–8009
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы S#^m-ship-crew-damage-mult|ship_crew_damage_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.1`
-- **ai_will_do**: скрипт, строки 8014–8020
-- **ai_construction_targets**: скрипт, строки 8022–8029
-- **ai_weight**: скрипт, строки 8031–8033
+- **ai_will_do**: скрипт, строки 8017–8023
+- **ai_construction_targets**: скрипт, строки 8025–8032
+- **ai_weight**: скрипт, строки 8034–8036

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Federalist (ideology_us_federalism)» — VC 1.13, `ideology_us_federalism`"
+description: "Идеология «Federalist (ideology_us_federalism)» — VC 1.15, `ideology_us_federalism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Federalist (ideology_us_federalism)
 
-Идеология · `ideology_us_federalism` · `common/ideologies/joi_ig_ideologies.txt:1533`
+Идеология · `ideology_us_federalism` · `common/ideologies/joi_ig_ideologies.txt:1537`
 
 ## Поля
 

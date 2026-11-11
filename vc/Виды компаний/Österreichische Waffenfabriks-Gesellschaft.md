@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Österreichische Waffenfabriks-Gesellschaft» — VC 1.13, `company_oevg`"
+description: "Вид компании «Österreichische Waffenfabriks-Gesellschaft» — VC 1.15, `company_oevg`"
 project: vic3
 audience: agent
 source: vc
@@ -13,13 +13,14 @@ replaces: "[[vanilla/Виды компаний/Österreichische Waffenfabriks-Ge
 ---
 # Österreichische Waffenfabriks-Gesellschaft
 
-Вид компании · `company_oevg` · `common/company_types/joi_companies.txt:8198`
+Вид компании · `company_oevg` · `common/company_types/joi_companies.txt:8201`
 
 ## Отличия от ваниль
 
 - **preferred_headquarters**: изменено
 - **building_types**: изменено
 - **potential**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 - **prestige_goods_trigger**: убрано
 
@@ -32,13 +33,13 @@ replaces: "[[vanilla/Виды компаний/Österreichische Waffenfabriks-Ge
 - **building_types**: [[vc/Здания/Оружейные заводы|Оружейные заводы]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vc/Здания/Заводы взрывчатки|Заводы взрывчатки]]
 - **extension_building_types**: [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Заводы боеприпасов|Заводы боеприпасов]], [[vc/Здания/Электрозаводы|Электрозаводы]]
 - **possible_prestige_goods**: `prestige_good_generic_small_arms`
-- **potential**: скрипт, строки 8222–8227
-- **attainable**: скрипт, строки 8229–8235
-- **possible**: скрипт, строки 8237–8247
+- **potential**: скрипт, строки 8225–8230
+- **attainable**: скрипт, строки 8232–8238
+- **possible**: скрипт, строки 8240–8250
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы G#^m-goods-output-explosives-mult|goods_output_explosives_mult]] = `0.15` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-small-arms-mult|goods_output_small_arms_mult]] = `0.1` → [[vanilla/Товары/Стрелковое оружие|Стрелковое оружие]]
   - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 8255–8261
-- **ai_construction_targets**: скрипт, строки 8263–8270
-- **ai_weight**: скрипт, строки 8272–8274
+- **ai_will_do**: скрипт, строки 8258–8264
+- **ai_construction_targets**: скрипт, строки 8266–8273
+- **ai_weight**: скрипт, строки 8275–8277

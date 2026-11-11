@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «National Conservatives» — VC 1.13, `ideology_national_conservatism`"
+description: "Идеология «National Conservatives» — VC 1.15, `ideology_national_conservatism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # National Conservatives
 
-Идеология · `ideology_national_conservatism` · `common/ideologies/joi_ig_ideologies.txt:2068`
+Идеология · `ideology_national_conservatism` · `common/ideologies/joi_ig_ideologies.txt:2073`
 
 ## Поля
 

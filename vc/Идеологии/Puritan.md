@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Puritan» — VC 1.13, `ideology_puritan`"
+description: "Идеология «Puritan» — VC 1.15, `ideology_puritan`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Puritan
 
-Идеология · `ideology_puritan` · `common/ideologies/joi_ig_ideologies.txt:755`
+Идеология · `ideology_puritan` · `common/ideologies/joi_ig_ideologies.txt:757`
 
 ## Поля
 

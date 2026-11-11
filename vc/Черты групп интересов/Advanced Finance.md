@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Advanced Finance» — VC 1.13, `ig_trait_advanced_finance`"
+description: "Черта группы интересов «Advanced Finance» — VC 1.15, `ig_trait_advanced_finance`"
 project: vic3
 audience: agent
 source: vc

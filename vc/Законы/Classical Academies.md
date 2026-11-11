@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Classical Academies» — VC 1.13, `law_classical_learning`"
+description: "Закон «Classical Academies» — VC 1.15, `law_classical_learning`"
 project: vic3
 audience: agent
 source: vc

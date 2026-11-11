@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Steaua Română»» — VC 1.13, `company_romanian_star`"
+description: "Вид компании ««Steaua Română»» — VC 1.15, `company_romanian_star`"
 project: vic3
 audience: agent
 source: vc
@@ -13,10 +13,11 @@ replaces: "[[vanilla/Виды компаний/«Steaua Română»]]"
 ---
 # «Steaua Română»
 
-Вид компании · `company_romanian_star` · `common/company_types/joi_companies.txt:5738`
+Вид компании · `company_romanian_star` · `common/company_types/joi_companies.txt:5740`
 
 ## Отличия от ваниль
 
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля
@@ -27,12 +28,12 @@ replaces: "[[vanilla/Виды компаний/«Steaua Română»]]"
 - **preferred_headquarters**: `STATE_WALLACHIA`
 - **building_types**: [[vc/Здания/Буровые вышки|Буровые вышки]]
 - **extension_building_types**: [[vanilla/Здания/Электростанции|Электростанции]]
-- **potential**: скрипт, строки 5754–5756
-- **attainable**: скрипт, строки 5758–5764
-- **possible**: скрипт, строки 5766–5776
+- **potential**: скрипт, строки 5756–5758
+- **attainable**: скрипт, строки 5760–5766
+- **possible**: скрипт, строки 5768–5778
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.2`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-employee-mult|building_group_bg_oil_extraction_employee_mult]] = `-0.1`
-- **ai_will_do**: скрипт, строки 5783–5789
-- **ai_construction_targets**: скрипт, строки 5791–5798
-- **ai_weight**: скрипт, строки 5800–5802
+- **ai_will_do**: скрипт, строки 5785–5791
+- **ai_construction_targets**: скрипт, строки 5793–5800
+- **ai_weight**: скрипт, строки 5802–5804

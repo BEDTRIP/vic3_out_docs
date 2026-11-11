@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««United Fruit Company»» — VC 1.13, `company_united_fruit`"
+description: "Вид компании ««United Fruit Company»» — VC 1.15, `company_united_fruit`"
 project: vic3
 audience: agent
 source: vc
@@ -19,6 +19,7 @@ replaces: "[[vanilla/Виды компаний/«United Fruit Company»]]"
 
 - **building_types**: изменено
 - **extension_building_types**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля

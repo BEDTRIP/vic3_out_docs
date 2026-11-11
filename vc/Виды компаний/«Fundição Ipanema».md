@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Fundição Ipanema»» — VC 1.13, `company_fundicao_ipanema`"
+description: "Вид компании ««Fundição Ipanema»» — VC 1.15, `company_fundicao_ipanema`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Fundição Ipanema»]]"
 ---
 # «Fundição Ipanema»
 
-Вид компании · `company_fundicao_ipanema` · `common/company_types/joi_companies.txt:8606`
+Вид компании · `company_fundicao_ipanema` · `common/company_types/joi_companies.txt:8609`
 
 ## Отличия от ваниль
 
@@ -33,13 +33,13 @@ replaces: "[[vanilla/Виды компаний/«Fundição Ipanema»]]"
 - **building_types**: [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Заводы боеприпасов|Заводы боеприпасов]]
 - **extension_building_types**: [[vc/Здания/Угольные шахты|Угольные шахты]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **potential**: скрипт, строки 8628–8632
-- **attainable**: скрипт, строки 8634–8640
-- **possible**: скрипт, строки 8642–8655
+- **potential**: скрипт, строки 8631–8635
+- **attainable**: скрипт, строки 8637–8643
+- **possible**: скрипт, строки 8645–8658
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.1` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
   - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-iron-mult|goods_output_iron_mult]] = `0.25` → [[vanilla/Товары/Железо|Железо]]
-- **ai_will_do**: скрипт, строки 8663–8668
-- **ai_construction_targets**: скрипт, строки 8670–8683
-- **ai_weight**: скрипт, строки 8685–8687
+- **ai_will_do**: скрипт, строки 8666–8671
+- **ai_construction_targets**: скрипт, строки 8673–8686
+- **ai_weight**: скрипт, строки 8688–8690

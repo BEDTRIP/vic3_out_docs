@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Eldest Daughter of the Church» — VC 1.13, `ig_trait_daughter_of_god`"
+description: "Черта группы интересов «Eldest Daughter of the Church» — VC 1.15, `ig_trait_daughter_of_god`"
 project: vic3
 audience: agent
 source: vc

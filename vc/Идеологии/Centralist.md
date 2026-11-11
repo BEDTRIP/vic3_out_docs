@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Centralist» — VC 1.13, `ideology_austria_centraliser`"
+description: "Идеология «Centralist» — VC 1.15, `ideology_austria_centraliser`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Centralist
 
-Идеология · `ideology_austria_centraliser` · `common/ideologies/joi_ig_ideologies.txt:1073`
+Идеология · `ideology_austria_centraliser` · `common/ideologies/joi_ig_ideologies.txt:1077`
 
 ## Поля
 

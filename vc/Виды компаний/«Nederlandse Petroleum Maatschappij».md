@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — VC 1.13, `company_nederlandse_petroleum`"
+description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — VC 1.15, `company_nederlandse_petroleum`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Nederlandse Petroleum Maatschap
 ---
 # «Nederlandse Petroleum Maatschappij»
 
-Вид компании · `company_nederlandse_petroleum` · `common/company_types/joi_companies.txt:5215`
+Вид компании · `company_nederlandse_petroleum` · `common/company_types/joi_companies.txt:5217`
 
 ## Отличия от ваниль
 
@@ -26,12 +26,12 @@ replaces: "[[vanilla/Виды компаний/«Nederlandse Petroleum Maatschap
 - **flavored_company**: `yes`
 - **building_types**: [[vc/Здания/Буровые вышки|Буровые вышки]]
 - **extension_building_types**: [[vanilla/Здания/Электростанции|Электростанции]]
-- **potential**: скрипт, строки 5229–5231
-- **possible**: скрипт, строки 5233–5243
+- **potential**: скрипт, строки 5231–5233
+- **possible**: скрипт, строки 5235–5245
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-colony-growth-creation-factor|state_colony_growth_creation_factor]] = `0.1`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-employee-mult|building_group_bg_oil_extraction_employee_mult]] = `-0.1`
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-oil-extraction-throughput-add|building_group_bg_oil_extraction_throughput_add]] = `0.2`
-- **ai_will_do**: скрипт, строки 5251–5258
-- **ai_construction_targets**: скрипт, строки 5260–5268
-- **ai_weight**: скрипт, строки 5270–5272
+- **ai_will_do**: скрипт, строки 5253–5260
+- **ai_construction_targets**: скрипт, строки 5262–5270
+- **ai_weight**: скрипт, строки 5272–5274

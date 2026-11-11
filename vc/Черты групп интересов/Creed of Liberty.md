@@ -1,16 +1,16 @@
 ---
 type: concept
-description: "Черта группы интересов «Parish Sermons» — VC 1.13, `ig_trait_parish_sermons`"
+description: "Черта группы интересов «Creed of Liberty» — VC 1.15, `ig_trait_parish_sermons`"
 project: vic3
 audience: agent
 source: vc
-aliases: ["Parish Sermons", "ig_trait_parish_sermons"]
+aliases: ["Creed of Liberty", "ig_trait_parish_sermons"]
 tags: [VC, черта-группы-интересов]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: ig_trait_parish_sermons
 paths: [VC/common/interest_group_traits/joi_group_traits.txt]
 ---
-# Parish Sermons
+# Creed of Liberty
 
 Черта группы интересов · `ig_trait_parish_sermons` · `common/interest_group_traits/joi_group_traits.txt:147`
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Fábrica de Armas de Trubia»» — VC 1.13, `company_trubia`"
+description: "Вид компании ««Fábrica de Armas de Trubia»» — VC 1.15, `company_trubia`"
 project: vic3
 audience: agent
 source: vc
@@ -13,11 +13,12 @@ replaces: "[[vanilla/Виды компаний/«Fábrica de Armas de Trubia»]]
 ---
 # «Fábrica de Armas de Trubia»
 
-Вид компании · `company_trubia` · `common/company_types/joi_companies.txt:6640`
+Вид компании · `company_trubia` · `common/company_types/joi_companies.txt:6643`
 
 ## Отличия от ваниль
 
 - **potential**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля
@@ -29,14 +30,14 @@ replaces: "[[vanilla/Виды компаний/«Fábrica de Armas de Trubia»]]
 - **building_types**: [[vc/Здания/Оружейные заводы|Оружейные заводы]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **extension_building_types**: [[vc/Здания/Заводы боеприпасов|Заводы боеприпасов]], [[vc/Здания/Заводы взрывчатки|Заводы взрывчатки]]
 - **possible_prestige_goods**: `prestige_good_generic_artillery`
-- **prestige_goods_trigger**: скрипт, строки 6662–6667
-- **potential**: скрипт, строки 6669–6672
-- **attainable**: скрипт, строки 6674–6680
-- **possible**: скрипт, строки 6682–6692
+- **prestige_goods_trigger**: скрипт, строки 6665–6670
+- **potential**: скрипт, строки 6672–6675
+- **attainable**: скрипт, строки 6677–6683
+- **possible**: скрипт, строки 6685–6695
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы U#^m-unit-offense-mult|unit_offense_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы C#^m-country-military-goods-cost-mult|country_military_goods_cost_mult]] = `-0.1`
-- **ai_will_do**: скрипт, строки 6700–6706
-- **ai_construction_targets**: скрипт, строки 6708–6715
-- **ai_weight**: скрипт, строки 6717–6719
+- **ai_will_do**: скрипт, строки 6703–6709
+- **ai_construction_targets**: скрипт, строки 6711–6718
+- **ai_weight**: скрипт, строки 6720–6722

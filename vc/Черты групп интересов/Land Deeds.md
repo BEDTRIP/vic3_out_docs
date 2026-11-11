@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Land Deeds» — VC 1.13, `ig_trait_land_deeds`"
+description: "Черта группы интересов «Land Deeds» — VC 1.15, `ig_trait_land_deeds`"
 project: vic3
 audience: agent
 source: vc

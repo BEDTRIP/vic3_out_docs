@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Klabin Irmãos & Cia.»» — VC 1.13, `company_kablin`"
+description: "Вид компании ««Klabin Irmãos & Cia.»» — VC 1.15, `company_kablin`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Klabin Irmãos & Cia.»]]"
 ---
 # «Klabin Irmãos & Cia.»
 
-Вид компании · `company_kablin` · `common/company_types/joi_companies.txt:7693`
+Вид компании · `company_kablin` · `common/company_types/joi_companies.txt:7696`
 
 ## Отличия от ваниль
 
@@ -32,13 +32,13 @@ replaces: "[[vanilla/Виды компаний/«Klabin Irmãos & Cia.»]]"
 - **building_types**: [[vc/Здания/Бумажные фабрики|Бумажные фабрики]], [[vc/Здания/Лесозаготовки|Лесозаготовки]], [[vc/Здания/Серные рудники|Серные рудники]]
 - **extension_building_types**: [[vc/Здания/Каучуковые плантации|Каучуковые плантации]]
 - **possible_prestige_goods**: `prestige_good_rosewood`
-- **potential**: скрипт, строки 7715–7717
-- **attainable**: скрипт, строки 7719–7725
-- **possible**: скрипт, строки 7727–7738
+- **potential**: скрипт, строки 7718–7720
+- **attainable**: скрипт, строки 7722–7728
+- **possible**: скрипт, строки 7730–7741
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы G#^m-goods-output-wood-mult|goods_output_wood_mult]] = `0.1` → [[vanilla/Товары/Древесина|Древесина]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-hardwood-mult|goods_output_hardwood_mult]] = `0.1` → [[vanilla/Товары/Твёрдая древесина|Твёрдая древесина]]
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-logging-employee-mult|building_group_bg_logging_employee_mult]] = `-0.25`
-- **ai_will_do**: скрипт, строки 7746–7752
-- **ai_construction_targets**: скрипт, строки 7754–7762
-- **ai_weight**: скрипт, строки 7764–7766
+- **ai_will_do**: скрипт, строки 7749–7755
+- **ai_construction_targets**: скрипт, строки 7757–7765
+- **ai_weight**: скрипт, строки 7767–7769

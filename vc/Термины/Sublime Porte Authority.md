@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода VC «Sublime Porte Authority» — подсказка-понятие Victoria 3 1.13 (`concept_sublime_porte_authority`)"
+description: "Термин мода VC «Sublime Porte Authority» — подсказка-понятие Victoria 3 1.15 (`concept_sublime_porte_authority`)"
 project: vic3
 audience: agent
 source: vc

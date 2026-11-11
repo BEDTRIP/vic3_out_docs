@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Patriot» — VC 1.13, `ideology_patriotism`"
+description: "Идеология «Patriot» — VC 1.15, `ideology_patriotism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Patriot
 
-Идеология · `ideology_patriotism` · `common/ideologies/joi_ig_ideologies.txt:1608`
+Идеология · `ideology_patriotism` · `common/ideologies/joi_ig_ideologies.txt:1612`
 
 ## Поля
 

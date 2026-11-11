@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Expansionist» — VC 1.13, `ideology_expansionism`"
+description: "Идеология «Expansionist» — VC 1.15, `ideology_expansionism`"
 project: vic3
 audience: agent
 source: vc

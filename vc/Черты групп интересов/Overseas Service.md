@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Overseas Service» — VC 1.13, `ig_trait_oversea_service`"
+description: "Черта группы интересов «Overseas Service» — VC 1.15, `ig_trait_oversea_service`"
 project: vic3
 audience: agent
 source: vc

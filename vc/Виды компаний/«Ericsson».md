@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Ericsson»» — VC 1.13, `company_ericsson`"
+description: "Вид компании ««Ericsson»» — VC 1.15, `company_ericsson`"
 project: vic3
 audience: agent
 source: vc
@@ -13,10 +13,11 @@ replaces: "[[vanilla/Виды компаний/«Ericsson»]]"
 ---
 # «Ericsson»
 
-Вид компании · `company_ericsson` · `common/company_types/joi_companies.txt:5144`
+Вид компании · `company_ericsson` · `common/company_types/joi_companies.txt:5145`
 
 ## Отличия от ваниль
 
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля
@@ -26,14 +27,14 @@ replaces: "[[vanilla/Виды компаний/«Ericsson»]]"
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_SVEALAND`
 - **building_types**: [[vc/Здания/Электрозаводы|Электрозаводы]]
-- **extension_building_types**: [[vc/Здания/Железные рудники|Железные рудники]]
+- **extension_building_types**: [[vc/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Медные рудники|Медные рудники]]
 - **possible_prestige_goods**: `prestige_good_ericsson_apparatus`
-- **potential**: скрипт, строки 5164–5166
-- **attainable**: скрипт, строки 5168–5174
-- **possible**: скрипт, строки 5176–5186
+- **potential**: скрипт, строки 5166–5168
+- **attainable**: скрипт, строки 5170–5176
+- **possible**: скрипт, строки 5178–5188
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы G#^m-goods-output-telephones-mult|goods_output_telephones_mult]] = `0.1` → [[vanilla/Товары/Телефоны|Телефоны]]
   - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
-- **ai_will_do**: скрипт, строки 5193–5199
-- **ai_construction_targets**: скрипт, строки 5201–5208
-- **ai_weight**: скрипт, строки 5210–5212
+- **ai_will_do**: скрипт, строки 5195–5201
+- **ai_construction_targets**: скрипт, строки 5203–5210
+- **ai_weight**: скрипт, строки 5212–5214

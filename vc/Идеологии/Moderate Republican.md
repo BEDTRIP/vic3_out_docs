@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Moderate Republican» — VC 1.13, `ideology_opportunistes`"
+description: "Идеология «Moderate Republican» — VC 1.15, `ideology_opportunistes`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Moderate Republican
 
-Идеология · `ideology_opportunistes` · `common/ideologies/joi_ig_ideologies.txt:1449`
+Идеология · `ideology_opportunistes` · `common/ideologies/joi_ig_ideologies.txt:1453`
 
 ## Поля
 

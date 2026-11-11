@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««FIAT»» — VC 1.13, `company_fiat`"
+description: "Вид компании ««FIAT»» — VC 1.15, `company_fiat`"
 project: vic3
 audience: agent
 source: vc

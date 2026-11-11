@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Duro y Compañía»» — VC 1.13, `company_duro_y_compania`"
+description: "Вид компании ««Duro y Compañía»» — VC 1.15, `company_duro_y_compania`"
 project: vic3
 audience: agent
 source: vc
@@ -13,10 +13,11 @@ replaces: "[[vanilla/Виды компаний/«Duro y Compañía»]]"
 ---
 # «Duro y Compañía»
 
-Вид компании · `company_duro_y_compania` · `common/company_types/joi_companies.txt:6722`
+Вид компании · `company_duro_y_compania` · `common/company_types/joi_companies.txt:6725`
 
 ## Отличия от ваниль
 
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля
@@ -28,13 +29,13 @@ replaces: "[[vanilla/Виды компаний/«Duro y Compañía»]]"
 - **building_types**: [[vc/Здания/Угольные шахты|Угольные шахты]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vc/Здания/Лесозаготовки|Лесозаготовки]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 6744–6749
-- **potential**: скрипт, строки 6751–6753
-- **attainable**: скрипт, строки 6755–6761
-- **possible**: скрипт, строки 6763–6773
+- **prestige_goods_trigger**: скрипт, строки 6747–6752
+- **potential**: скрипт, строки 6754–6756
+- **attainable**: скрипт, строки 6758–6764
+- **possible**: скрипт, строки 6766–6776
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.2` → [[vc/Здания/Оружейные заводы|Оружейные заводы]]
   - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.2` → [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
-- **ai_will_do**: скрипт, строки 6780–6786
-- **ai_construction_targets**: скрипт, строки 6788–6795
-- **ai_weight**: скрипт, строки 6797–6799
+- **ai_will_do**: скрипт, строки 6783–6789
+- **ai_construction_targets**: скрипт, строки 6791–6798
+- **ai_weight**: скрипт, строки 6800–6802

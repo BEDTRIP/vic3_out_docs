@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — VC 1.13, `company_fcm`"
+description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — VC 1.15, `company_fcm`"
 project: vic3
 audience: agent
 source: vc
@@ -21,8 +21,10 @@ replaces: "[[vanilla/Виды компаний/«Forges et Chantiers de la Médi
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **possible_prestige_goods**: добавлено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 - **ai_will_do**: изменено
+- **ai_weight**: изменено
 
 ## Поля
 
@@ -30,7 +32,7 @@ replaces: "[[vanilla/Виды компаний/«Forges et Chantiers de la Médi
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_PROVENCE`, `STATE_ALGIERS`
-- **building_types**: [[vc/Здания/верфи|верфи]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
+- **building_types**: [[vc/Здания/Верфи|Верфи]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **extension_building_types**: [[vc/Здания/Автомобильные заводы|Автомобильные заводы]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
 - **potential**: скрипт, строки 4655–4657

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Labor Value» — VC 1.13, `ig_trait_labor_value`"
+description: "Черта группы интересов «Labor Value» — VC 1.15, `ig_trait_labor_value`"
 project: vic3
 audience: agent
 source: vc

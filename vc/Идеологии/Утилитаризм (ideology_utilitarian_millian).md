@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Утилитаризм (ideology_utilitarian_millian)» — VC 1.13, `ideology_utilitarian_millian`"
+description: "Идеология «Утилитаризм (ideology_utilitarian_millian)» — VC 1.15, `ideology_utilitarian_millian`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Идеологии/Утилитаризм (ideology_utilita
 ---
 # Утилитаризм (ideology_utilitarian_millian)
 
-Идеология · `ideology_utilitarian_millian` · `common/ideologies/joi_ig_ideologies.txt:1807`
+Идеология · `ideology_utilitarian_millian` · `common/ideologies/joi_ig_ideologies.txt:1811`
 
 ## Отличия от ваниль
 

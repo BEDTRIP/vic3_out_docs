@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Tanzimat Reformer» — VC 1.13, `ideology_tanzimatism`"
+description: "Идеология «Tanzimat Reformer» — VC 1.15, `ideology_tanzimatism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Tanzimat Reformer
 
-Идеология · `ideology_tanzimatism` · `common/ideologies/joi_ig_ideologies.txt:948`
+Идеология · `ideology_tanzimatism` · `common/ideologies/joi_ig_ideologies.txt:951`
 
 ## Поля
 
@@ -51,6 +51,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `approve`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
 - **lawgroup_navy_model**:
   - [[vanilla/Законы/Торговый флот|Торговый флот]] = `strongly_disapprove`
   - [[vanilla/Законы/Молодая школа|Молодая школа]] = `neutral`

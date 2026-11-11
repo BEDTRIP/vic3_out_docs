@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Meticulous Craftsmanship» — VC 1.13, `ig_trait_rigorous_work`"
+description: "Черта группы интересов «Meticulous Craftsmanship» — VC 1.15, `ig_trait_rigorous_work`"
 project: vic3
 audience: agent
 source: vc

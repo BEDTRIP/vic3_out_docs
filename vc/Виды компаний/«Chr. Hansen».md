@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Chr. Hansen»» — VC 1.13, `company_chr_hansens`"
+description: "Вид компании ««Chr. Hansen»» — VC 1.15, `company_chr_hansens`"
 project: vic3
 audience: agent
 source: vc

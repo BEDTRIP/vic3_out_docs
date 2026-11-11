@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Made in Germany» — VC 1.13, `ig_trait_made_in_germany`"
+description: "Черта группы интересов «Made in Germany» — VC 1.15, `ig_trait_made_in_germany`"
 project: vic3
 audience: agent
 source: vc

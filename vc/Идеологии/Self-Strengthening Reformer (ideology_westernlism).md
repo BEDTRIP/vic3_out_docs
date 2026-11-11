@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Self-Strengthening Reformer (ideology_westernlism)» — VC 1.13, `ideology_westernlism`"
+description: "Идеология «Self-Strengthening Reformer (ideology_westernlism)» — VC 1.15, `ideology_westernlism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Self-Strengthening Reformer (ideology_westernlism)
 
-Идеология · `ideology_westernlism` · `common/ideologies/joi_ig_ideologies.txt:865`
+Идеология · `ideology_westernlism` · `common/ideologies/joi_ig_ideologies.txt:868`
 
 ## Поля
 

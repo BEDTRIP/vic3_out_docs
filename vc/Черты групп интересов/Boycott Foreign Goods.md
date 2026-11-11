@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Boycott Foreign Goods» — VC 1.13, `ig_trait_chinese_boycott`"
+description: "Черта группы интересов «Boycott Foreign Goods» — VC 1.15, `ig_trait_chinese_boycott`"
 project: vic3
 audience: agent
 source: vc

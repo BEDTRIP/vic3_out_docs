@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««David Sassoon & Co., Ltd»» — VC 1.13, `company_david_sassoon`"
+description: "Вид компании ««David Sassoon & Co., Ltd»» — VC 1.15, `company_david_sassoon`"
 project: vic3
 audience: agent
 source: vc
@@ -20,6 +20,7 @@ replaces: "[[vanilla/Виды компаний/«David Sassoon & Co., Ltd»]]"
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **possible_prestige_goods**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 - **prestige_goods_trigger**: убрано
 

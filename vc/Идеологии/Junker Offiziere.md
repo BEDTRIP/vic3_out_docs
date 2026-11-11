@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Junker Offiziere» — VC 1.13, `ideology_junker_militarism`"
+description: "Идеология «Junker Offiziere» — VC 1.15, `ideology_junker_militarism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Junker Offiziere
 
-Идеология · `ideology_junker_militarism` · `common/ideologies/joi_ig_ideologies.txt:670`
+Идеология · `ideology_junker_militarism` · `common/ideologies/joi_ig_ideologies.txt:672`
 
 ## Поля
 

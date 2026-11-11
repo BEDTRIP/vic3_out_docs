@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Jihad» — VC 1.13, `ig_trait_jihad`"
+description: "Черта группы интересов «Jihad» — VC 1.15, `ig_trait_jihad`"
 project: vic3
 audience: agent
 source: vc

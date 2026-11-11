@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««J. & P. Coats»» — VC 1.13, `company_j_p_coats`"
+description: "Вид компании ««J. & P. Coats»» — VC 1.15, `company_j_p_coats`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Vertically Integrated Cultivation» — VC 1.13, `united_fruit_banana`"
+description: "Метод производства «Vertically Integrated Cultivation» — VC 1.15, `united_fruit_banana`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/production_methods/joi_methods.txt]
 ---
 # Vertically Integrated Cultivation
 
-Метод производства · `united_fruit_banana` · `common/production_methods/joi_methods.txt:145`
+Метод производства · `united_fruit_banana` · `common/production_methods/joi_methods.txt:161`
 
 ## Поля
 

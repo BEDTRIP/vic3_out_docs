@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Capital Must Flow» — VC 1.13, `ig_trait_capital_must_flow`"
+description: "Черта группы интересов «Capital Must Flow» — VC 1.15, `ig_trait_capital_must_flow`"
 project: vic3
 audience: agent
 source: vc

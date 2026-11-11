@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Buke (Warrior Houses)» — VC 1.13, `ig_trait_samurai`"
+description: "Черта группы интересов «Buke (Warrior Houses)» — VC 1.15, `ig_trait_samurai`"
 project: vic3
 audience: agent
 source: vc

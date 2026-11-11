@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Roman Catholic Church» — VC 1.13, `ideology_catholic_church`"
+description: "Идеология «Roman Catholic Church» — VC 1.15, `ideology_catholic_church`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Roman Catholic Church
 
-Идеология · `ideology_catholic_church` · `common/ideologies/joi_ig_ideologies.txt:1299`
+Идеология · `ideology_catholic_church` · `common/ideologies/joi_ig_ideologies.txt:1303`
 
 ## Поля
 

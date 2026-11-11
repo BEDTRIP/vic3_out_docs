@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Endurance of Suffering» — VC 1.13, `ig_trait_endure_suffering`"
+description: "Черта группы интересов «Endurance of Suffering» — VC 1.15, `ig_trait_endure_suffering`"
 project: vic3
 audience: agent
 source: vc

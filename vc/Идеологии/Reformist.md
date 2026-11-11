@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Reformist» — VC 1.13, `ideology_innovationist`"
+description: "Идеология «Reformist» — VC 1.15, `ideology_innovationist`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Reformist
 
-Идеология · `ideology_innovationist` · `common/ideologies/joi_ig_ideologies.txt:827`
+Идеология · `ideology_innovationist` · `common/ideologies/joi_ig_ideologies.txt:829`
 
 ## Поля
 
@@ -21,6 +21,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `approve`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `neutral`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
 - **lawgroup_land_reform**:
   - [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `strongly_disapprove`
   - [[vanilla/Законы/Крепостное право|Крепостное право]] = `disapprove`

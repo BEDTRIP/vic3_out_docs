@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Imperial Preference» — VC 1.13, `law_imperial_preference`"
+description: "Закон «Imperial Preference» — VC 1.15, `law_imperial_preference`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Ilva»» — VC 1.13, `company_ilva`"
+description: "Вид компании ««Ilva»» — VC 1.15, `company_ilva`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Ilva»]]"
 ---
 # «Ilva»
 
-Вид компании · `company_ilva` · `common/company_types/joi_companies.txt:5275`
+Вид компании · `company_ilva` · `common/company_types/joi_companies.txt:5277`
 
 ## Отличия от ваниль
 
@@ -32,14 +32,14 @@ replaces: "[[vanilla/Виды компаний/«Ilva»]]"
 - **building_types**: [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Угольные шахты|Угольные шахты]]
 - **extension_building_types**: [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 5297–5302
-- **potential**: скрипт, строки 5304–5309
-- **attainable**: скрипт, строки 5311–5317
-- **possible**: скрипт, строки 5319–5329
+- **prestige_goods_trigger**: скрипт, строки 5299–5304
+- **potential**: скрипт, строки 5306–5311
+- **attainable**: скрипт, строки 5313–5319
+- **possible**: скрипт, строки 5321–5331
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
   - `state_building_construction_sector_max_level_add` = `5`
   - [[vanilla/движок/Модификаторы C#^m-country-construction-goods-cost-mult|country_construction_goods_cost_mult]] = `-0.05`
-- **ai_will_do**: скрипт, строки 5337–5342
-- **ai_construction_targets**: скрипт, строки 5344–5351
-- **ai_weight**: скрипт, строки 5353–5355
+- **ai_will_do**: скрипт, строки 5339–5344
+- **ai_construction_targets**: скрипт, строки 5346–5353
+- **ai_weight**: скрипт, строки 5355–5357

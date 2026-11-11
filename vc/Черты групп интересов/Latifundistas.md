@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Latifundistas» — VC 1.13, `ig_trait_latifundistas`"
+description: "Черта группы интересов «Latifundistas» — VC 1.15, `ig_trait_latifundistas`"
 project: vic3
 audience: agent
 source: vc

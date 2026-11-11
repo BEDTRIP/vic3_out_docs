@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Lilpop, Rau i Loewenstein»» — VC 1.13, `company_lilpop`"
+description: "Вид компании ««Lilpop, Rau i Loewenstein»» — VC 1.15, `company_lilpop`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Lilpop, Rau i Loewenstein»]]"
 ---
 # «Lilpop, Rau i Loewenstein»
 
-Вид компании · `company_lilpop` · `common/company_types/joi_companies.txt:8277`
+Вид компании · `company_lilpop` · `common/company_types/joi_companies.txt:8280`
 
 ## Отличия от ваниль
 
@@ -31,13 +31,13 @@ replaces: "[[vanilla/Виды компаний/«Lilpop, Rau i Loewenstein»]]"
 - **building_types**: [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Производства инструментов|Производства инструментов]]
 - **extension_building_types**: [[vc/Здания/Моторные заводы|Моторные заводы]]
 - **possible_prestige_goods**: `prestige_good_generic_tools`
-- **potential**: скрипт, строки 8299–8301
-- **attainable**: скрипт, строки 8303–8312
-- **possible**: скрипт, строки 8314–8327
+- **potential**: скрипт, строки 8302–8304
+- **attainable**: скрипт, строки 8306–8315
+- **possible**: скрипт, строки 8317–8330
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.1` → [[vc/Здания/Угольные шахты|Угольные шахты]]
   - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.1` → [[vc/Здания/Железные рудники|Железные рудники]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-tools-mult|goods_output_tools_mult]] = `0.05` → [[vanilla/Товары/Инструменты|Инструменты]]
-- **ai_will_do**: скрипт, строки 8335–8344
-- **ai_construction_targets**: скрипт, строки 8346–8357
-- **ai_weight**: скрипт, строки 8359–8361
+- **ai_will_do**: скрипт, строки 8338–8347
+- **ai_construction_targets**: скрипт, строки 8349–8360
+- **ai_weight**: скрипт, строки 8362–8364

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Bushidō» — VC 1.13, `ig_trait_bushido`"
+description: "Черта группы интересов «Bushidō» — VC 1.15, `ig_trait_bushido`"
 project: vic3
 audience: agent
 source: vc

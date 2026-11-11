@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««General Electric»» — VC 1.13, `company_general_electric`"
+description: "Вид компании ««General Electric»» — VC 1.15, `company_general_electric`"
 project: vic3
 audience: agent
 source: vc
@@ -26,15 +26,15 @@ replaces: "[[vanilla/Виды компаний/«General Electric»]]"
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_MASSACHUSETTS`, `STATE_NEW_YORK`
 - **building_types**: [[vc/Здания/Электрозаводы|Электрозаводы]], [[vanilla/Здания/Электростанции|Электростанции]]
-- **extension_building_types**: [[vc/Здания/Моторные заводы|Моторные заводы]]
+- **extension_building_types**: [[vc/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Медные рудники|Медные рудники]]
 - **possible_prestige_goods**: `prestige_good_radiola_radios`
-- **potential**: скрипт, строки 4988–4990
-- **attainable**: скрипт, строки 4992–5001
-- **possible**: скрипт, строки 5003–5016
+- **potential**: скрипт, строки 4989–4991
+- **attainable**: скрипт, строки 4993–5002
+- **possible**: скрипт, строки 5004–5017
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы G#^m-goods-output-electricity-mult|goods_output_electricity_mult]] = `0.15` → [[vanilla/Товары/Электричество|Электричество]]
   - [[vanilla/движок/Модификаторы B#^m-building-electrics-industry-throughput-add|building_electrics_industry_throughput_add]] = `0.1` → [[vc/Здания/Электрозаводы|Электрозаводы]]
   - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 5024–5033
-- **ai_construction_targets**: скрипт, строки 5035–5046
-- **ai_weight**: скрипт, строки 5048–5050
+- **ai_will_do**: скрипт, строки 5025–5034
+- **ai_construction_targets**: скрипт, строки 5036–5047
+- **ai_weight**: скрипт, строки 5049–5051

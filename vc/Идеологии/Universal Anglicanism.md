@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Universal Anglicanism» — VC 1.13, `ideology_ecumenical_anglicanism`"
+description: "Идеология «Universal Anglicanism» — VC 1.15, `ideology_ecumenical_anglicanism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Universal Anglicanism
 
-Идеология · `ideology_ecumenical_anglicanism` · `common/ideologies/joi_ig_ideologies.txt:1180`
+Идеология · `ideology_ecumenical_anglicanism` · `common/ideologies/joi_ig_ideologies.txt:1184`
 
 ## Поля
 

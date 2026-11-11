@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «German Nobility» — VC 1.13, `ideology_german_nobles`"
+description: "Идеология «German Nobility» — VC 1.15, `ideology_german_nobles`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # German Nobility
 
-Идеология · `ideology_german_nobles` · `common/ideologies/joi_ig_ideologies.txt:1317`
+Идеология · `ideology_german_nobles` · `common/ideologies/joi_ig_ideologies.txt:1321`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Iron Cross» — VC 1.13, `ig_trait_ironcross`"
+description: "Черта группы интересов «Iron Cross» — VC 1.15, `ig_trait_ironcross`"
 project: vic3
 audience: agent
 source: vc

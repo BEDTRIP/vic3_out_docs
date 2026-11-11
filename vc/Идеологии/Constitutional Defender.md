@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Constitutional Defender» — VC 1.13, `ideology_united_states_constitution`"
+description: "Идеология «Constitutional Defender» — VC 1.15, `ideology_united_states_constitution`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Constitutional Defender
 
-Идеология · `ideology_united_states_constitution` · `common/ideologies/joi_ig_ideologies.txt:1647`
+Идеология · `ideology_united_states_constitution` · `common/ideologies/joi_ig_ideologies.txt:1651`
 
 ## Поля
 

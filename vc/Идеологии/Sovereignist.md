@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Sovereignist» — VC 1.13, `ideology_indian_farmer_sovereignist`"
+description: "Идеология «Sovereignist» — VC 1.15, `ideology_indian_farmer_sovereignist`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Sovereignist
 
-Идеология · `ideology_indian_farmer_sovereignist` · `common/ideologies/joi_ig_ideologies.txt:1775`
+Идеология · `ideology_indian_farmer_sovereignist` · `common/ideologies/joi_ig_ideologies.txt:1779`
 
 ## Поля
 

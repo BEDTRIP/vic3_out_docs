@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Royal Decree» — VC 1.13, `ig_trait_real_decreto`"
+description: "Черта группы интересов «Royal Decree» — VC 1.15, `ig_trait_real_decreto`"
 project: vic3
 audience: agent
 source: vc

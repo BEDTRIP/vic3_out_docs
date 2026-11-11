@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Junker Offizier Korps» — VC 1.13, `ig_trait_offizierskorps`"
+description: "Черта группы интересов «Junker Offizier Korps» — VC 1.15, `ig_trait_offizierskorps`"
 project: vic3
 audience: agent
 source: vc

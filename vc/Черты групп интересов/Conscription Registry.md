@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Conscription Registry» — VC 1.13, `ig_trait_register_for_army`"
+description: "Черта группы интересов «Conscription Registry» — VC 1.15, `ig_trait_register_for_army`"
 project: vic3
 audience: agent
 source: vc

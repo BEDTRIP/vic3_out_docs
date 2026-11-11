@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «World Conqueror» — VC 1.13, `special_character_second_world_conqueror`"
+description: "Черта персонажа «World Conqueror» — VC 1.15, `special_character_second_world_conqueror`"
 project: vic3
 audience: agent
 source: vc

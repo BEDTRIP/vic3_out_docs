@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Church of England» — VC 1.13, `ideology_british_anglicanism`"
+description: "Идеология «Church of England» — VC 1.15, `ideology_british_anglicanism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Church of England
 
-Идеология · `ideology_british_anglicanism` · `common/ideologies/joi_ig_ideologies.txt:1210`
+Идеология · `ideology_british_anglicanism` · `common/ideologies/joi_ig_ideologies.txt:1214`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Chocolate-Cream Soldier» — VC 1.13, `ig_trait_chocolate_cream_soldier`"
+description: "Черта группы интересов «Chocolate-Cream Soldier» — VC 1.15, `ig_trait_chocolate_cream_soldier`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Go with the Flow» — VC 1.13, `ig_trait_following_its_natural`"
+description: "Черта группы интересов «Go with the Flow» — VC 1.15, `ig_trait_following_its_natural`"
 project: vic3
 audience: agent
 source: vc

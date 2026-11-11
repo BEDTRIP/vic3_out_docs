@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — VC 1.13, `ideology_utilitarian_leader`"
+description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — VC 1.15, `ideology_utilitarian_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -18,6 +18,7 @@ replaces: "[[vanilla/Идеологии/Утилитаризм (ideology_utilita
 ## Отличия от ваниль
 
 - **lawgroup_slavery**: изменено
+- **non_interest_group_leader_trigger**: изменено
 - **interest_group_leader_weight**: изменено
 - **non_interest_group_leader_weight**: изменено
 

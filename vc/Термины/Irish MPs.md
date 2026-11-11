@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода VC «Irish MPs» — подсказка-понятие Victoria 3 1.13 (`concept_westminster_ireland`)"
+description: "Термин мода VC «Irish MPs» — подсказка-понятие Victoria 3 1.15 (`concept_westminster_ireland`)"
 project: vic3
 audience: agent
 source: vc

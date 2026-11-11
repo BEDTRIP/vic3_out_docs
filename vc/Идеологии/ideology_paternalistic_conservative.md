@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «ideology_paternalistic_conservative» — VC 1.13, `ideology_paternalistic_conservative`"
+description: "Идеология «ideology_paternalistic_conservative» — VC 1.15, `ideology_paternalistic_conservative`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 ---
 # ideology_paternalistic_conservative
 
-Идеология · `ideology_paternalistic_conservative` · `common/ideologies/joi_leader_ideologies.txt:839`
+Идеология · `ideology_paternalistic_conservative` · `common/ideologies/joi_leader_ideologies.txt:840`
 
 ## Поля
 
@@ -82,6 +82,6 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
     - `ideology_slaver_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 933–957
+- **interest_group_leader_weight**: скрипт, строки 934–958
 - **non_interest_group_leader_weight**:
   - `value` = `100`

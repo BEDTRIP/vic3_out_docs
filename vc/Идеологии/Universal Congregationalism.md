@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Universal Congregationalism» — VC 1.13, `ideology_puritan_ecumenical`"
+description: "Идеология «Universal Congregationalism» — VC 1.15, `ideology_puritan_ecumenical`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Universal Congregationalism
 
-Идеология · `ideology_puritan_ecumenical` · `common/ideologies/joi_ig_ideologies.txt:725`
+Идеология · `ideology_puritan_ecumenical` · `common/ideologies/joi_ig_ideologies.txt:727`
 
 ## Поля
 

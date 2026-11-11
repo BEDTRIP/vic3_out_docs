@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Social Justice» — VC 1.13, `ig_trait_social_justice`"
+description: "Черта группы интересов «Social Justice» — VC 1.15, `ig_trait_social_justice`"
 project: vic3
 audience: agent
 source: vc

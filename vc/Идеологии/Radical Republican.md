@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Radical Republican» — VC 1.13, `ideology_revolutionism`"
+description: "Идеология «Radical Republican» — VC 1.15, `ideology_revolutionism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Radical Republican
 
-Идеология · `ideology_revolutionism` · `common/ideologies/joi_ig_ideologies.txt:618`
+Идеология · `ideology_revolutionism` · `common/ideologies/joi_ig_ideologies.txt:620`
 
 ## Поля
 

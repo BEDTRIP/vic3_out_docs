@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Flower of Freedom» — VC 1.13, `ig_trait_flower_of_free`"
+description: "Черта группы интересов «Flower of Freedom» — VC 1.15, `ig_trait_flower_of_free`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Masters of the Cities» — VC 1.13, `ig_trait_master_of_city`"
+description: "Черта группы интересов «Masters of the Cities» — VC 1.15, `ig_trait_master_of_city`"
 project: vic3
 audience: agent
 source: vc

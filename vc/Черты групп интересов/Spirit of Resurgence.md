@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Spirit of Resurgence» — VC 1.13, `ig_trait_risorgimento`"
+description: "Черта группы интересов «Spirit of Resurgence» — VC 1.15, `ig_trait_risorgimento`"
 project: vic3
 audience: agent
 source: vc

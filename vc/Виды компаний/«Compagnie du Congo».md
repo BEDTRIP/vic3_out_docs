@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Compagnie du Congo»» — VC 1.13, `company_ccci`"
+description: "Вид компании ««Compagnie du Congo»» — VC 1.15, `company_ccci`"
 project: vic3
 audience: agent
 source: vc
@@ -13,7 +13,7 @@ replaces: "[[vanilla/Виды компаний/«Compagnie du Congo»]]"
 ---
 # «Compagnie du Congo»
 
-Вид компании · `company_ccci` · `common/company_types/joi_companies.txt:5519`
+Вид компании · `company_ccci` · `common/company_types/joi_companies.txt:5521`
 
 ## Отличия от ваниль
 
@@ -29,12 +29,12 @@ replaces: "[[vanilla/Виды компаний/«Compagnie du Congo»]]"
 - **flavored_company**: `yes`
 - **building_types**: [[vc/Здания/Каучуковые плантации|Каучуковые плантации]], [[vc/Здания/Лесозаготовки|Лесозаготовки]], [[vc/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]], [[vc/Здания/Животноводческие фермы|Животноводческие фермы]]
-- **potential**: скрипт, строки 5538–5543
-- **possible**: скрипт, строки 5545–5564
+- **potential**: скрипт, строки 5540–5545
+- **possible**: скрипт, строки 5547–5566
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-rubber-employee-mult|building_group_bg_rubber_employee_mult]] = `-0.25`
   - [[vanilla/движок/Модификаторы G#^m-goods-output-rubber-mult|goods_output_rubber_mult]] = `0.15` → [[vanilla/Товары/Каучук|Каучук]]
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-rubber-mortality-mult|building_group_bg_rubber_mortality_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 5572–5583
-- **ai_construction_targets**: скрипт, строки 5585–5592
-- **ai_weight**: скрипт, строки 5594–5596
+- **ai_will_do**: скрипт, строки 5574–5585
+- **ai_construction_targets**: скрипт, строки 5587–5594
+- **ai_weight**: скрипт, строки 5596–5598

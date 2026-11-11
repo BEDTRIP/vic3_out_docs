@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Grande Armée» — VC 1.13, `ig_trait_grand_army`"
+description: "Черта группы интересов «Grande Armée» — VC 1.15, `ig_trait_grand_army`"
 project: vic3
 audience: agent
 source: vc

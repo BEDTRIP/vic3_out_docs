@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «National Character» — VC 1.13, `ig_trait_gods_chosen_people`"
+description: "Черта группы интересов «National Character» — VC 1.15, `ig_trait_gods_chosen_people`"
 project: vic3
 audience: agent
 source: vc

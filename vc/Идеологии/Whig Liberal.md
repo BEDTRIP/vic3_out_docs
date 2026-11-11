@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Whig Liberal» — VC 1.13, `ideology_british_whig_liberalism`"
+description: "Идеология «Whig Liberal» — VC 1.15, `ideology_british_whig_liberalism`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Whig Liberal
 
-Идеология · `ideology_british_whig_liberalism` · `common/ideologies/joi_ig_ideologies.txt:357`
+Идеология · `ideology_british_whig_liberalism` · `common/ideologies/joi_ig_ideologies.txt:358`
 
 ## Поля
 
@@ -50,6 +50,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `strongly_approve`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `approve`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Традиционализм|Традиционализм]] = `disapprove`
   - [[vanilla/Законы/Аграрность|Аграрность]] = `neutral`

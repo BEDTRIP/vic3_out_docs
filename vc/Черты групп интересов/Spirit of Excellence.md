@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Spirit of Excellence» — VC 1.13, `ig_trait_geist_der_exzellenz`"
+description: "Черта группы интересов «Spirit of Excellence» — VC 1.15, `ig_trait_geist_der_exzellenz`"
 project: vic3
 audience: agent
 source: vc

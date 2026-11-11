@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Mitsubishi»» — VC 1.13, `company_mitsubishi`"
+description: "Вид компании ««Mitsubishi»» — VC 1.15, `company_mitsubishi`"
 project: vic3
 audience: agent
 source: vc
@@ -20,6 +20,7 @@ replaces: "[[vanilla/Виды компаний/«Mitsubishi»]]"
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **potential**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 - **ai_construction_targets**: изменено
 
@@ -29,7 +30,7 @@ replaces: "[[vanilla/Виды компаний/«Mitsubishi»]]"
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_KANTO`
-- **building_types**: [[vc/Здания/верфи|верфи]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Бумажные фабрики|Бумажные фабрики]], [[vc/Здания/Моторные заводы|Моторные заводы]]
+- **building_types**: [[vc/Здания/Верфи|Верфи]], [[vc/Здания/Железные рудники|Железные рудники]], [[vc/Здания/Бумажные фабрики|Бумажные фабрики]], [[vc/Здания/Моторные заводы|Моторные заводы]]
 - **extension_building_types**: [[vc/Здания/Угольные шахты|Угольные шахты]], [[vc/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vc/Здания/Артиллерийские заводы|Артиллерийские заводы]], [[vc/Здания/Автомобильные заводы|Автомобильные заводы]], [[vc/Здания/Производства инструментов|Производства инструментов]]
 - **possible_prestige_goods**: `prestige_good_washi_paper`
 - **potential**: скрипт, строки 2646–2648

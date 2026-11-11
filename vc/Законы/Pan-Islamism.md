@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Pan-Islamism» — VC 1.13, `law_pan_islamism`"
+description: "Закон «Pan-Islamism» — VC 1.15, `law_pan_islamism`"
 project: vic3
 audience: agent
 source: vc
@@ -31,7 +31,7 @@ paths: [VC/common/laws/joi_citizenship.txt]
   - [[vanilla/движок/Модификаторы S#^m-state-migration-pull-unincorporated-mult|state_migration_pull_unincorporated_mult]] = `0.25`
   - [[vanilla/движок/Модификаторы B#^m-building-training-rate-mult|building_training_rate_mult]] = `0.33`
   - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.1`
-  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.15`
+  - [[vanilla/движок/Модификаторы S#^m-state-birth-rate-mult|state_birth_rate_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы C#^m-country-acceptance-state-religion-add|country_acceptance_state_religion_add]] = `100`
   - [[vanilla/движок/Модификаторы C#^m-country-acceptance-shared-religious-trait-add|country_acceptance_shared_religious_trait_add]] = `50`
   - [[vanilla/движок/Модификаторы C#^m-country-acceptance-shared-religious-trait-group-add|country_acceptance_shared_religious_trait_group_add]] = `0`

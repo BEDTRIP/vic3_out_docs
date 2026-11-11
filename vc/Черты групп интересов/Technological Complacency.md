@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Technological Complacency» — VC 1.13, `ig_trait_technological_laziness`"
+description: "Черта группы интересов «Technological Complacency» — VC 1.15, `ig_trait_technological_laziness`"
 project: vic3
 audience: agent
 source: vc

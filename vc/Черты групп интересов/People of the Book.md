@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «People of the Book» — VC 1.13, `ig_trait_words_remain`"
+description: "Черта группы интересов «People of the Book» — VC 1.15, `ig_trait_words_remain`"
 project: vic3
 audience: agent
 source: vc

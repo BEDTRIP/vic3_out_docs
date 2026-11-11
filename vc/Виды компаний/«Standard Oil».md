@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании ««Standard Oil»» — VC 1.13, `company_standard_oil`"
+description: "Вид компании ««Standard Oil»» — VC 1.15, `company_standard_oil`"
 project: vic3
 audience: agent
 source: vc

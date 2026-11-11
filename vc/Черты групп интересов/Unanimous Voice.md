@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Unanimous Voice» — VC 1.13, `ig_trait_unavis`"
+description: "Черта группы интересов «Unanimous Voice» — VC 1.15, `ig_trait_unavis`"
 project: vic3
 audience: agent
 source: vc

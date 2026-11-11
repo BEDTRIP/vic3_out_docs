@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Workers' Community» — VC 1.13, `ig_trait_workers_community`"
+description: "Черта группы интересов «Workers' Community» — VC 1.15, `ig_trait_workers_community`"
 project: vic3
 audience: agent
 source: vc

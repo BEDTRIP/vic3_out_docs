@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Colt's Patent Firearms Manufacturing Company» — VC 1.13, `company_colt_firearms`"
+description: "Вид компании «Colt's Patent Firearms Manufacturing Company» — VC 1.15, `company_colt_firearms`"
 project: vic3
 audience: agent
 source: vc
@@ -19,6 +19,7 @@ replaces: "[[vanilla/Виды компаний/Colt's Patent Firearms Manufactur
 
 - **building_types**: изменено
 - **extension_building_types**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля

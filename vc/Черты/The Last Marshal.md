@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «The Last Marshal» — VC 1.13, `special_character_old_marshal`"
+description: "Черта персонажа «The Last Marshal» — VC 1.15, `special_character_old_marshal`"
 project: vic3
 audience: agent
 source: vc

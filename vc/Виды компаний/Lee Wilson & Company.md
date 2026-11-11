@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Lee Wilson & Company» — VC 1.13, `company_lee_wilson`"
+description: "Вид компании «Lee Wilson & Company» — VC 1.15, `company_lee_wilson`"
 project: vic3
 audience: agent
 source: vc

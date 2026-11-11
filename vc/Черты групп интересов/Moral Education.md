@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Moral Education» — VC 1.13, `ig_trait_be_confucian_teach`"
+description: "Черта группы интересов «Moral Education» — VC 1.15, `ig_trait_be_confucian_teach`"
 project: vic3
 audience: agent
 source: vc

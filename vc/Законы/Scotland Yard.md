@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Scotland Yard» — VC 1.13, `law_scotland_yard`"
+description: "Закон «Scotland Yard» — VC 1.15, `law_scotland_yard`"
 project: vic3
 audience: agent
 source: vc

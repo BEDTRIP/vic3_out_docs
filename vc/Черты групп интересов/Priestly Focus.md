@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Priestly Focus» — VC 1.13, `ig_trait_focus_priesthood`"
+description: "Черта группы интересов «Priestly Focus» — VC 1.15, `ig_trait_focus_priesthood`"
 project: vic3
 audience: agent
 source: vc

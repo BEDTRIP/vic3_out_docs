@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Salafi» — VC 1.13, `ideology_salafi`"
+description: "Идеология «Salafi» — VC 1.15, `ideology_salafi`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 ---
 # Salafi
 
-Идеология · `ideology_salafi` · `common/ideologies/joi_ig_ideologies.txt:1920`
+Идеология · `ideology_salafi` · `common/ideologies/joi_ig_ideologies.txt:1925`
 
 ## Поля
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Shokunin Kishitsu (Artisan's Spirit)» — VC 1.13, `ig_trait_craftsmans_sprit`"
+description: "Черта группы интересов «Shokunin Kishitsu (Artisan's Spirit)» — VC 1.15, `ig_trait_craftsmans_sprit`"
 project: vic3
 audience: agent
 source: vc

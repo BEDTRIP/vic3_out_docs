@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Вид компании «Maple & Co» — VC 1.13, `company_maple_and_co`"
+description: "Вид компании «Maple & Co» — VC 1.15, `company_maple_and_co`"
 project: vic3
 audience: agent
 source: vc
@@ -21,6 +21,7 @@ replaces: "[[vanilla/Виды компаний/Maple & Co]]"
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **attainable**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 
 ## Поля

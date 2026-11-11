@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Self-Strengthening Reformer (ideology_westernlism_leader)» — VC 1.13, `ideology_westernlism_leader`"
+description: "Идеология «Self-Strengthening Reformer (ideology_westernlism_leader)» — VC 1.15, `ideology_westernlism_leader`"
 project: vic3
 audience: agent
 source: vc

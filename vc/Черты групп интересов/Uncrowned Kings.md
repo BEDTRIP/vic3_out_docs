@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта группы интересов «Uncrowned Kings» — VC 1.13, `ig_trait_journalist`"
+description: "Черта группы интересов «Uncrowned Kings» — VC 1.15, `ig_trait_journalist`"
 project: vic3
 audience: agent
 source: vc
