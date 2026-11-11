@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Nile Barrage» — Gates of Bosphorus 1.13, `pm_gbbf_nile_barrage`"
+description: "Метод производства «Nile Barrage» — Gates of Bosphorus 1.15, `pm_gbbf_nile_barrage`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

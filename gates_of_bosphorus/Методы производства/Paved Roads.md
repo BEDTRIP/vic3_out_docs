@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Paved Roads» — Gates of Bosphorus 1.13, `pm_gbbf_paved_roads`"
+description: "Метод производства «Paved Roads» — Gates of Bosphorus 1.15, `pm_gbbf_paved_roads`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

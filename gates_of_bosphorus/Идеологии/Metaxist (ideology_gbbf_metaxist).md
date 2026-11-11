@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Metaxist (ideology_gbbf_metaxist)» — Gates of Bosphorus 1.13, `ideology_gbbf_metaxist`"
+description: "Идеология «Metaxist (ideology_gbbf_metaxist)» — Gates of Bosphorus 1.15, `ideology_gbbf_metaxist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

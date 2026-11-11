@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Ottomanist (ideology_gbbf_ottomanist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_ottomanist_leader`"
+description: "Идеология «Ottomanist (ideology_gbbf_ottomanist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_ottomanist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Ottomanist (ideology_gbbf_ottomanist_leader)
 
-Идеология · `ideology_gbbf_ottomanist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:1274`
+Идеология · `ideology_gbbf_ottomanist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:1273`
 
 ## Поля
 
@@ -59,14 +59,14 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `strongly_approve`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `neutral`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
-- **country_trigger**: скрипт, строки 1327–1329
+- **country_trigger**: скрипт, строки 1326–1328
 - **interest_group_leader_trigger**:
   - **owner**:
     - `has_journal_entry` = `je_turkfm_tanzimat_main`
   - `ideology_republican_leader_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 1336–1368
+- **interest_group_leader_weight**: скрипт, строки 1335–1367
 - **non_interest_group_leader_trigger**:
   - **owner**:
     - `has_journal_entry` = `je_turkfm_tanzimat_main`
   - `ideology_republican_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_weight**: скрипт, строки 1375–1409
+- **non_interest_group_leader_weight**: скрипт, строки 1374–1408

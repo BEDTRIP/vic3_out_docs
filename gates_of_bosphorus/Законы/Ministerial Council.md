@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Ministerial Council» — Gates of Bosphorus 1.13, `law_ministerial_council`"
+description: "Закон «Ministerial Council» — Gates of Bosphorus 1.15, `law_ministerial_council`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -8,11 +8,11 @@ aliases: ["Ministerial Council", "law_ministerial_council"]
 tags: [gates_of_bosphorus, закон]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: law_ministerial_council
-paths: [for addon/gatesofbosphorus/common/laws/gbbf_governance_principles.txt]
+paths: [for addon/gatesofbosphorus/common/laws/0_gbbf_governance_principles.txt]
 ---
 # Ministerial Council
 
-Закон · `law_ministerial_council` · `common/laws/gbbf_governance_principles.txt:69`
+Закон · `law_ministerial_council` · `common/laws/0_gbbf_governance_principles.txt:69`
 
 ## Поля
 

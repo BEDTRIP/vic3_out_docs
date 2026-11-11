@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Здание «Dolmabahçe Palace» — Gates of Bosphorus 1.13, `gbbf_building_dolmabahce_palace`"
+description: "Здание «Dolmabahçe Palace» — Gates of Bosphorus 1.15, `gbbf_building_dolmabahce_palace`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

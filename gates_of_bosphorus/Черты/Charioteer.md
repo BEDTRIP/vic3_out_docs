@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Charioteer» — Gates of Bosphorus 1.13, `gbbf_trait_charioteer`"
+description: "Черта персонажа «Charioteer» — Gates of Bosphorus 1.15, `gbbf_trait_charioteer`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

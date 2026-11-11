@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Metaxist (ideology_gbbf_metaxist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_metaxist_leader`"
+description: "Идеология «Metaxist (ideology_gbbf_metaxist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_metaxist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Metaxist (ideology_gbbf_metaxist_leader)
 
-Идеология · `ideology_gbbf_metaxist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:848`
+Идеология · `ideology_gbbf_metaxist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:847`
 
 ## Поля
 
@@ -66,7 +66,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - `country_has_primary_culture` = `cu:greek`
   - `has_global_variable` = `grefm_venizelos_has_landed`
   - `has_technology_researched` = [[vanilla/Технологии/Политическая агитация|Политическая агитация]]
-- **interest_group_leader_trigger**: скрипт, строки 909–913
-- **interest_group_leader_weight**: скрипт, строки 914–1101
-- **non_interest_group_leader_trigger**: скрипт, строки 1102–1106
-- **non_interest_group_leader_weight**: скрипт, строки 1107–1271
+- **interest_group_leader_trigger**: скрипт, строки 908–912
+- **interest_group_leader_weight**: скрипт, строки 913–1100
+- **non_interest_group_leader_trigger**: скрипт, строки 1101–1105
+- **non_interest_group_leader_weight**: скрипт, строки 1106–1270

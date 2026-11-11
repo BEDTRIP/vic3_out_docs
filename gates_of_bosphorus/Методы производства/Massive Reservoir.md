@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Massive Reservoir» — Gates of Bosphorus 1.13, `pm_gbbf_massive_reservior`"
+description: "Метод производства «Massive Reservoir» — Gates of Bosphorus 1.15, `pm_gbbf_massive_reservior`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

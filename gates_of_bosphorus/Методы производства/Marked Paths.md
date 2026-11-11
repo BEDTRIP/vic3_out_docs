@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Marked Paths» — Gates of Bosphorus 1.13, `pm_gbbf_marked_paths`"
+description: "Метод производства «Marked Paths» — Gates of Bosphorus 1.15, `pm_gbbf_marked_paths`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

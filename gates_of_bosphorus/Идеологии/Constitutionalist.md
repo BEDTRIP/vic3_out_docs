@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Constitutionalist» — Gates of Bosphorus 1.13, `ideology_gbbf_constitutionalist`"
+description: "Идеология «Constitutionalist» — Gates of Bosphorus 1.15, `ideology_gbbf_constitutionalist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -50,7 +50,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Субсидирование зарплат|Субсидирование зарплат]] = `approve`
   - [[vanilla/Законы/Пенсия по старости|Пенсия по старости]] = `strongly_approve`
 - **country_trigger**: скрипт, строки 139–141
-- **interest_group_leader_trigger**: скрипт, строки 142–159
-- **interest_group_leader_weight**: скрипт, строки 160–193
+- **interest_group_leader_trigger**: скрипт, строки 142–158
+- **interest_group_leader_weight**: скрипт, строки 159–192
 - **non_interest_group_leader_weight**:
   - `value` = `0`

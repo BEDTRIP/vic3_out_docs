@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Ox Carts» — Gates of Bosphorus 1.13, `pm_gbbf_ox_carts`"
+description: "Метод производства «Ox Carts» — Gates of Bosphorus 1.15, `pm_gbbf_ox_carts`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

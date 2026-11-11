@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Junimist» — Gates of Bosphorus 1.13, `ideology_gbbf_junimist`"
+description: "Идеология «Junimist» — Gates of Bosphorus 1.15, `ideology_gbbf_junimist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Junimist
 
-Идеология · `ideology_gbbf_junimist` · `common/ideologies/gbbf_leader_ideologies.txt:548`
+Идеология · `ideology_gbbf_junimist` · `common/ideologies/gbbf_leader_ideologies.txt:547`
 
 ## Поля
 
@@ -55,7 +55,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Запрет промышленности|Запрет промышленности]] = `strongly_disapprove`
 - **country_trigger**:
   - `country_has_primary_culture` = `cu:romanian`
-- **interest_group_leader_trigger**: скрипт, строки 596–605
-- **interest_group_leader_weight**: скрипт, строки 606–623
+- **interest_group_leader_trigger**: скрипт, строки 595–604
+- **interest_group_leader_weight**: скрипт, строки 605–622
 - **non_interest_group_leader_weight**:
   - `value` = `0`

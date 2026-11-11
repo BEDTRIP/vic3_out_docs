@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Reinforced Chariots» — Gates of Bosphorus 1.13, `pm_gbbf_reinforced_chariots`"
+description: "Метод производства «Reinforced Chariots» — Gates of Bosphorus 1.15, `pm_gbbf_reinforced_chariots`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

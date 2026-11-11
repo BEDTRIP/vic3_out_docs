@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Dragoman» — Gates of Bosphorus 1.13, `gbbf_trait_dragoman`"
+description: "Черта персонажа «Dragoman» — Gates of Bosphorus 1.15, `gbbf_trait_dragoman`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

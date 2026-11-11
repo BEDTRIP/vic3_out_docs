@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Scribal Bureaucrats» — Gates of Bosphorus 1.13, `law_scribal_bureaucrats`"
+description: "Закон «Scribal Bureaucrats» — Gates of Bosphorus 1.15, `law_scribal_bureaucrats`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -8,11 +8,11 @@ aliases: ["Scribal Bureaucrats", "law_scribal_bureaucrats"]
 tags: [gates_of_bosphorus, закон]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: law_scribal_bureaucrats
-paths: [for addon/gatesofbosphorus/common/laws/gbbf_bureaucracy.txt]
+paths: [for addon/gatesofbosphorus/common/laws/0_gbbf_bureaucracy.txt]
 ---
 # Scribal Bureaucrats
 
-Закон · `law_scribal_bureaucrats` · `common/laws/gbbf_bureaucracy.txt:1`
+Закон · `law_scribal_bureaucrats` · `common/laws/0_gbbf_bureaucracy.txt:1`
 
 ## Поля
 

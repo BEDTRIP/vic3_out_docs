@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Avret Pazarları» — Gates of Bosphorus 1.13, `pmg_gbbf_avret_pazarlari`"
+description: "Группа методов производства «Avret Pazarları» — Gates of Bosphorus 1.15, `pmg_gbbf_avret_pazarlari`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Закон «Imperial Divan» — Gates of Bosphorus 1.13, `law_imperial_divan`"
+description: "Закон «Imperial Divan» — Gates of Bosphorus 1.15, `law_imperial_divan`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -8,11 +8,11 @@ aliases: ["Imperial Divan", "law_imperial_divan"]
 tags: [gates_of_bosphorus, закон]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: law_imperial_divan
-paths: [for addon/gatesofbosphorus/common/laws/gbbf_governance_principles.txt]
+paths: [for addon/gatesofbosphorus/common/laws/0_gbbf_governance_principles.txt]
 ---
 # Imperial Divan
 
-Закон · `law_imperial_divan` · `common/laws/gbbf_governance_principles.txt:1`
+Закон · `law_imperial_divan` · `common/laws/0_gbbf_governance_principles.txt:1`
 
 ## Поля
 

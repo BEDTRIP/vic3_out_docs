@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Tribal Tribute» — Gates of Bosphorus 1.13, `pmg_gbbf_sahara_tributes`"
+description: "Группа методов производства «Tribal Tribute» — Gates of Bosphorus 1.15, `pmg_gbbf_sahara_tributes`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

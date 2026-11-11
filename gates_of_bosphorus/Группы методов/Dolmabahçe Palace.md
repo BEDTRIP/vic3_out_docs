@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Dolmabahçe Palace» — Gates of Bosphorus 1.13, `pmg_gbbf_dolmabahce_palace`"
+description: "Группа методов производства «Dolmabahçe Palace» — Gates of Bosphorus 1.15, `pmg_gbbf_dolmabahce_palace`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

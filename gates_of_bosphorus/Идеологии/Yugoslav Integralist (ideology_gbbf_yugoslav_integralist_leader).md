@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_yugoslav_integralist_leader`"
+description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_yugoslav_integralist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,11 +12,11 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Yugoslav Integralist (ideology_gbbf_yugoslav_integralist_leader)
 
-Идеология · `ideology_gbbf_yugoslav_integralist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:1712`
+Идеология · `ideology_gbbf_yugoslav_integralist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:1711`
 
 ## Поля
 
-- **icon**: `gfx/interface/icons/ideology_icons/ethno_nationalist.dds`
+- **icon**: `gfx/interface/icons/ideology_icons/ideology_leader/ideology_leader_ethno_nationalist.dds`
 - **character_ideology**: `yes`
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Этническое государство|Этническое государство]] = `strongly_approve`
@@ -43,8 +43,8 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Детский труд разрешён|Детский труд разрешён]] = `disapprove`
   - [[vanilla/Законы/Ограниченный детский труд|Ограниченный детский труд]] = `neutral`
   - [[vanilla/Законы/Обязательное начальное образование|Обязательное начальное образование]] = `approve`
-- **country_trigger**: скрипт, строки 1747–1749
-- **interest_group_leader_trigger**: скрипт, строки 1750–1757
-- **non_interest_group_leader_trigger**: скрипт, строки 1758–1765
-- **interest_group_leader_weight**: скрипт, строки 1766–1861
-- **non_interest_group_leader_weight**: скрипт, строки 1862–1946
+- **country_trigger**: скрипт, строки 1746–1748
+- **interest_group_leader_trigger**: скрипт, строки 1749–1756
+- **non_interest_group_leader_trigger**: скрипт, строки 1757–1764
+- **interest_group_leader_weight**: скрипт, строки 1765–1860
+- **non_interest_group_leader_weight**: скрипт, строки 1861–1945

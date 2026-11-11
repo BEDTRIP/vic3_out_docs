@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Open Slave Markets» — Gates of Bosphorus 1.13, `pm_gbbf_open_slave_markets`"
+description: "Метод производства «Open Slave Markets» — Gates of Bosphorus 1.15, `pm_gbbf_open_slave_markets`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

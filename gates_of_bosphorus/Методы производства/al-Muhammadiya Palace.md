@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «al-Muhammadiya Palace» — Gates of Bosphorus 1.13, `pm_gbbf_mohamedia_palace`"
+description: "Метод производства «al-Muhammadiya Palace» — Gates of Bosphorus 1.15, `pm_gbbf_mohamedia_palace`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

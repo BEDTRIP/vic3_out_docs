@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Symphonist (ideology_gbbf_symphonist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_symphonist_leader`"
+description: "Идеология «Symphonist (ideology_gbbf_symphonist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_symphonist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Symphonist (ideology_gbbf_symphonist_leader)
 
-Идеология · `ideology_gbbf_symphonist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:1412`
+Идеология · `ideology_gbbf_symphonist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:1411`
 
 ## Поля
 
@@ -49,8 +49,8 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`
   - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `strongly_approve`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `neutral`
-- **country_trigger**: скрипт, строки 1454–1457
-- **interest_group_leader_trigger**: скрипт, строки 1458–1463
-- **interest_group_leader_weight**: скрипт, строки 1464–1491
-- **non_interest_group_leader_trigger**: скрипт, строки 1492–1497
-- **non_interest_group_leader_weight**: скрипт, строки 1498–1527
+- **country_trigger**: скрипт, строки 1453–1456
+- **interest_group_leader_trigger**: скрипт, строки 1457–1462
+- **interest_group_leader_weight**: скрипт, строки 1463–1490
+- **non_interest_group_leader_trigger**: скрипт, строки 1491–1496
+- **non_interest_group_leader_weight**: скрипт, строки 1497–1526

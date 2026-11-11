@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Basic Hydropower» — Gates of Bosphorus 1.13, `pm_gbbf_basic_hydropower`"
+description: "Метод производства «Basic Hydropower» — Gates of Bosphorus 1.15, `pm_gbbf_basic_hydropower`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

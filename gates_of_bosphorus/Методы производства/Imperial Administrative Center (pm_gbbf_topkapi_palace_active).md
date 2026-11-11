@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Imperial Administrative Center (pm_gbbf_topkapi_palace_active)» — Gates of Bosphorus 1.13, `pm_gbbf_topkapi_palace_active`"
+description: "Метод производства «Imperial Administrative Center (pm_gbbf_topkapi_palace_active)» — Gates of Bosphorus 1.15, `pm_gbbf_topkapi_palace_active`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Marabout» — Gates of Bosphorus 1.13, `gbbf_trait_marabout`"
+description: "Черта персонажа «Marabout» — Gates of Bosphorus 1.15, `gbbf_trait_marabout`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

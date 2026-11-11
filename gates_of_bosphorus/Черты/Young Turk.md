@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Young Turk» — Gates of Bosphorus 1.13, `gbbf_trait_young_turk`"
+description: "Черта персонажа «Young Turk» — Gates of Bosphorus 1.15, `gbbf_trait_young_turk`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

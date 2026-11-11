@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Islamist (ideology_gbbf_islamist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_islamist_leader`"
+description: "Идеология «Islamist (ideology_gbbf_islamist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_islamist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Islamist (ideology_gbbf_islamist_leader)
 
-Идеология · `ideology_gbbf_islamist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:288`
+Идеология · `ideology_gbbf_islamist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:287`
 
 ## Поля
 
@@ -33,15 +33,15 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `disapprove`
   - [[vanilla/Законы/Частные школы|Частные школы]] = `neutral`
   - [[vanilla/Законы/Нет школ|Нет школ]] = `neutral`
-- **country_trigger**: скрипт, строки 311–313
+- **country_trigger**: скрипт, строки 310–312
 - **interest_group_leader_trigger**:
   - **owner**:
     - `has_journal_entry` = `je_turkfm_tanzimat_main`
   - `ideology_traditionalist_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 320–354
+- **interest_group_leader_weight**: скрипт, строки 319–353
 - **non_interest_group_leader_trigger**:
   - **owner**:
     - `has_journal_entry` = `je_turkfm_tanzimat_main`
   - **interest_group**:
     - `ideology_traditionalist_valid_trigger` = `yes`
-- **non_interest_group_leader_weight**: скрипт, строки 363–397
+- **non_interest_group_leader_weight**: скрипт, строки 362–396

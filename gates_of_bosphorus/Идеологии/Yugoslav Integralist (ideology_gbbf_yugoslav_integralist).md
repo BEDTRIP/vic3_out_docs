@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist)» — Gates of Bosphorus 1.13, `ideology_gbbf_yugoslav_integralist`"
+description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist)» — Gates of Bosphorus 1.15, `ideology_gbbf_yugoslav_integralist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -30,8 +30,8 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_ideologies.txt]
   - [[vanilla/Законы/Полное разделение|Полное разделение]] = `disapprove`
   - [[vanilla/Законы/Государственный атеизм|Государственный атеизм]] = `strongly_disapprove`
 - **lawgroup_migration**:
-  - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `strongly_approve`
-  - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `neutral`
+  - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `approve`
+  - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `strongly_approve`
   - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `disapprove`
 - **lawgroup_education_system**:
   - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`

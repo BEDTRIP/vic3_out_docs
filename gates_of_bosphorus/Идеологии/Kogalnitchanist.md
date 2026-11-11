@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Kogalnitchanist» — Gates of Bosphorus 1.13, `ideology_gbbf_kogalnitchanism`"
+description: "Идеология «Kogalnitchanist» — Gates of Bosphorus 1.15, `ideology_gbbf_kogalnitchanism`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Kogalnitchanist
 
-Идеология · `ideology_gbbf_kogalnitchanism` · `common/ideologies/gbbf_leader_ideologies.txt:759`
+Идеология · `ideology_gbbf_kogalnitchanism` · `common/ideologies/gbbf_leader_ideologies.txt:758`
 
 ## Поля
 
@@ -51,7 +51,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Нет школ|Нет школ]] = `disapprove`
 - **country_trigger**:
   - `country_has_primary_culture` = `cu:romanian`
-- **interest_group_leader_trigger**: скрипт, строки 803–822
-- **interest_group_leader_weight**: скрипт, строки 823–842
+- **interest_group_leader_trigger**: скрипт, строки 802–821
+- **interest_group_leader_weight**: скрипт, строки 822–841
 - **non_interest_group_leader_weight**:
   - `value` = `0`

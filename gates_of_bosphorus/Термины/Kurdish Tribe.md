@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Термин мода Gates of Bosphorus «Kurdish Tribe» — подсказка-понятие Victoria 3 1.13 (`concept_kurdish_tribe`)"
+description: "Термин мода Gates of Bosphorus «Kurdish Tribe» — подсказка-понятие Victoria 3 1.15 (`concept_kurdish_tribe`)"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

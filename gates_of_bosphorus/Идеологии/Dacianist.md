@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Dacianist» — Gates of Bosphorus 1.13, `ideology_gbbf_dacianist`"
+description: "Идеология «Dacianist» — Gates of Bosphorus 1.15, `ideology_gbbf_dacianist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Dacianist
 
-Идеология · `ideology_gbbf_dacianist` · `common/ideologies/gbbf_leader_ideologies.txt:199`
+Идеология · `ideology_gbbf_dacianist` · `common/ideologies/gbbf_leader_ideologies.txt:198`
 
 ## Поля
 
@@ -59,7 +59,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Запрет промышленности|Запрет промышленности]] = `strongly_disapprove`
 - **country_trigger**:
   - `country_has_primary_culture` = `cu:romanian`
-- **interest_group_leader_trigger**: скрипт, строки 252–262
-- **interest_group_leader_weight**: скрипт, строки 263–282
+- **interest_group_leader_trigger**: скрипт, строки 251–261
+- **interest_group_leader_weight**: скрипт, строки 262–281
 - **non_interest_group_leader_weight**:
   - `value` = `0`

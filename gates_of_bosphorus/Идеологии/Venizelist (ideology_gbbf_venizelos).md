@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Venizelist (ideology_gbbf_venizelos)» — Gates of Bosphorus 1.13, `ideology_gbbf_venizelos`"
+description: "Идеология «Venizelist (ideology_gbbf_venizelos)» — Gates of Bosphorus 1.15, `ideology_gbbf_venizelos`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Venizelist (ideology_gbbf_venizelos)
 
-Идеология · `ideology_gbbf_venizelos` · `common/ideologies/gbbf_leader_ideologies.txt:1530`
+Идеология · `ideology_gbbf_venizelos` · `common/ideologies/gbbf_leader_ideologies.txt:1529`
 
 ## Поля
 
@@ -59,7 +59,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Нет социальной защиты|Нет социальной защиты]] = `strongly_disapprove`
   - [[vanilla/Законы/Субсидирование зарплат|Субсидирование зарплат]] = `approve`
   - [[vanilla/Законы/Пенсия по старости|Пенсия по старости]] = `strongly_approve`
-- **country_trigger**: скрипт, строки 1584–1586
+- **country_trigger**: скрипт, строки 1583–1585
 - **interest_group_leader_weight**:
   - `value` = `0`
 - **non_interest_group_leader_weight**:

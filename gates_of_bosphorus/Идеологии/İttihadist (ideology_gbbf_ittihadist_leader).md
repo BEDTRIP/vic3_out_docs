@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «İttihadist (ideology_gbbf_ittihadist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_ittihadist_leader`"
+description: "Идеология «İttihadist (ideology_gbbf_ittihadist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_ittihadist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # İttihadist (ideology_gbbf_ittihadist_leader)
 
-Идеология · `ideology_gbbf_ittihadist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:400`
+Идеология · `ideology_gbbf_ittihadist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:399`
 
 ## Поля
 
@@ -71,8 +71,8 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `approve`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `neutral`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `neutral`
-- **country_trigger**: скрипт, строки 467–469
-- **interest_group_leader_trigger**: скрипт, строки 470–478
-- **interest_group_leader_weight**: скрипт, строки 479–505
-- **non_interest_group_leader_trigger**: скрипт, строки 506–518
-- **non_interest_group_leader_weight**: скрипт, строки 519–545
+- **country_trigger**: скрипт, строки 466–468
+- **interest_group_leader_trigger**: скрипт, строки 469–477
+- **interest_group_leader_weight**: скрипт, строки 478–504
+- **non_interest_group_leader_trigger**: скрипт, строки 505–517
+- **non_interest_group_leader_weight**: скрипт, строки 518–544

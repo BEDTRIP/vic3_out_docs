@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Disused Administrative Center (pm_gbbf_topkapi_palace_inactive)» — Gates of Bosphorus 1.13, `pm_gbbf_topkapi_palace_inactive`"
+description: "Метод производства «Disused Administrative Center (pm_gbbf_topkapi_palace_inactive)» — Gates of Bosphorus 1.15, `pm_gbbf_topkapi_palace_inactive`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

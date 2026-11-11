@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Черта персонажа «Ethnarch» — Gates of Bosphorus 1.13, `gbbf_trait_ethnarch`"
+description: "Черта персонажа «Ethnarch» — Gates of Bosphorus 1.15, `gbbf_trait_ethnarch`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

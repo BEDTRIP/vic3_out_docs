@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Saharan Pathways» — Gates of Bosphorus 1.13, `pmg_gbbf_sahara_roads`"
+description: "Группа методов производства «Saharan Pathways» — Gates of Bosphorus 1.15, `pmg_gbbf_sahara_roads`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

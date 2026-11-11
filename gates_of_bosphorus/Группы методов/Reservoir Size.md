@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Группа методов производства «Reservoir Size» — Gates of Bosphorus 1.13, `pmg_gbbf_nile_reservior_size`"
+description: "Группа методов производства «Reservoir Size» — Gates of Bosphorus 1.15, `pmg_gbbf_nile_reservior_size`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Ottomanist (ideology_gbbf_ottomanist)» — Gates of Bosphorus 1.13, `ideology_gbbf_ottomanist`"
+description: "Идеология «Ottomanist (ideology_gbbf_ottomanist)» — Gates of Bosphorus 1.15, `ideology_gbbf_ottomanist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

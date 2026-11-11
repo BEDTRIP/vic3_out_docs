@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Bavarocrat» — Gates of Bosphorus 1.13, `ideology_gbbf_bavarocrat`"
+description: "Идеология «Bavarocrat» — Gates of Bosphorus 1.15, `ideology_gbbf_bavarocrat`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

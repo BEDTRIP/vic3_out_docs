@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Идеология «Kemalism (ideology_gbbf_kemalist_leader)» — Gates of Bosphorus 1.13, `ideology_gbbf_kemalist_leader`"
+description: "Идеология «Kemalism (ideology_gbbf_kemalist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_kemalist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
@@ -12,7 +12,7 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
 ---
 # Kemalism (ideology_gbbf_kemalist_leader)
 
-Идеология · `ideology_gbbf_kemalist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:629`
+Идеология · `ideology_gbbf_kemalist_leader` · `common/ideologies/gbbf_leader_ideologies.txt:628`
 
 ## Поля
 
@@ -56,8 +56,8 @@ paths: [for addon/gatesofbosphorus/common/ideologies/gbbf_leader_ideologies.txt]
   - [[vanilla/Законы/Детский труд разрешён|Детский труд разрешён]] = `strongly_disapprove`
   - [[vanilla/Законы/Ограниченный детский труд|Ограниченный детский труд]] = `disapprove`
   - [[vanilla/Законы/Обязательное начальное образование|Обязательное начальное образование]] = `approve`
-- **country_trigger**: скрипт, строки 678–680
-- **interest_group_leader_trigger**: скрипт, строки 681–689
-- **interest_group_leader_weight**: скрипт, строки 690–716
-- **non_interest_group_leader_trigger**: скрипт, строки 717–729
-- **non_interest_group_leader_weight**: скрипт, строки 730–756
+- **country_trigger**: скрипт, строки 677–679
+- **interest_group_leader_trigger**: скрипт, строки 680–688
+- **interest_group_leader_weight**: скрипт, строки 689–715
+- **non_interest_group_leader_trigger**: скрипт, строки 716–728
+- **non_interest_group_leader_weight**: скрипт, строки 729–755

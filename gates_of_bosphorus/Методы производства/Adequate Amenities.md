@@ -1,6 +1,6 @@
 ---
 type: concept
-description: "Метод производства «Adequate Amenities» — Gates of Bosphorus 1.13, `pm_gbbf_adequate_amenities`"
+description: "Метод производства «Adequate Amenities» — Gates of Bosphorus 1.15, `pm_gbbf_adequate_amenities`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
