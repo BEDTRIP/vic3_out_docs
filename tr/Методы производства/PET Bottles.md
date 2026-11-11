@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[tr/Технологии/Polyester Synthesis|Polyester Synthesis]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_copper_add` = `3` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `3` → [[tr/Товары/Медь|Медь]]
     - `goods_input_plastics_add` = `12` → [[tr/Товары/Пластмассы|Пластмассы]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `6` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **level_scaled**:

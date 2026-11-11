@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_SHANXI`, `STATE_JIANGXI`, `STATE_HINGGAN`
 - **building_types**: [[tr/Здания/Rare Earths Mines|Rare Earths Mines]], [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]
-- **extension_building_types**: [[tr/Здания/Bauxite Mines|Bauxite Mines]], [[tr/Здания/Copper Mines|Copper Mines]]
+- **extension_building_types**: [[tr/Здания/Bauxite Mines|Bauxite Mines]], [[tr/Здания/Медные рудники|Медные рудники]]
 - **potential**: скрипт, строки 761–764
 - **attainable**: скрипт, строки 765–776
 - **possible**: скрипт, строки 777–790

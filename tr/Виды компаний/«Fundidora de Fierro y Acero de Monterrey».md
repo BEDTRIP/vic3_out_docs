@@ -21,4 +21,4 @@ replaces: "[[vanilla/Виды компаний/«Fundidora de Fierro y Acero de 
 
 ## Поля
 
-- **extension_building_types**: [[tr/Здания/Copper Mines|Copper Mines]], [[tr/Здания/Alloys Plants|Alloys Plants]]
+- **extension_building_types**: [[tr/Здания/Медные рудники|Медные рудники]], [[tr/Здания/Alloys Plants|Alloys Plants]]

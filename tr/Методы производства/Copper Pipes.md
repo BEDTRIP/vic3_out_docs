@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[vanilla/Технологии/Водотрубный котёл|Водотрубный котёл]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_copper_add` = `9` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `9` → [[tr/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `6` → [[vanilla/Товары/Инструменты|Инструменты]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-450` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

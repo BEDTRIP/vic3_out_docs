@@ -21,4 +21,4 @@ replaces: "[[vanilla/Виды компаний/«La Rosada»]]"
 
 ## Поля
 
-- **extension_building_types**: [[tr/Здания/Copper Mines|Copper Mines]]
+- **extension_building_types**: [[tr/Здания/Медные рудники|Медные рудники]]

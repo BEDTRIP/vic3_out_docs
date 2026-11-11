@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_technologies**: [[vanilla/Технологии/Ротативный двигатель|Ротативный двигатель]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_copper_add` = `12` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `12` → [[tr/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `6` → [[vanilla/Товары/Инструменты|Инструменты]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `6` → [[vanilla/Товары/Уголь|Уголь]]
   - **level_scaled**:

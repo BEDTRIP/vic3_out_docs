@@ -19,6 +19,7 @@ replaces: "[[vanilla/Виды компаний/«Nokia»]]"
 
 - **building_types**: изменено
 - **possible_prestige_goods**: изменено
+- **possible**: изменено
 - **prosperity_modifier**: изменено
 - **extension_building_types**: убрано
 - **prestige_goods_trigger**: убрано

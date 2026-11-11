@@ -23,4 +23,4 @@ replaces: "[[vanilla/Виды компаний/«William Sandford Limited»]]"
 ## Поля
 
 - **building_types**: [[tr/Здания/Alloys Plants|Alloys Plants]], [[tr/Здания/Common Ores Mines|Common Ores Mines]]
-- **extension_building_types**: [[tr/Здания/Copper Mines|Copper Mines]], [[tr/Здания/Bauxite Mines|Bauxite Mines]], [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]
+- **extension_building_types**: [[tr/Здания/Медные рудники|Медные рудники]], [[tr/Здания/Bauxite Mines|Bauxite Mines]], [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]

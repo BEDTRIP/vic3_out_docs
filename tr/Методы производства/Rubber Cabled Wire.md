@@ -23,7 +23,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - [[vanilla/движок/Модификаторы S#^m-state-pollution-generation-add|state_pollution_generation_add]] = `5`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_copper_add` = `40` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `40` → [[tr/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `5` → [[vanilla/Товары/Инструменты|Инструменты]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-rubber-add|goods_input_rubber_add]] = `10` → [[vanilla/Товары/Каучук|Каучук]]
     - `goods_output_copperwires_add` = `75` → [[tr/Товары/Wires|Wires]]

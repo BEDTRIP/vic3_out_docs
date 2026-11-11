@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_UPPER_ANDALUSIA`, `STATE_NEW_SOUTH_WALES`, `STATE_HOME_COUNTIES`
-- **building_types**: [[tr/Здания/Rare Earths Mines|Rare Earths Mines]], [[tr/Здания/Copper Mines|Copper Mines]], [[tr/Здания/Bauxite Mines|Bauxite Mines]]
+- **building_types**: [[tr/Здания/Rare Earths Mines|Rare Earths Mines]], [[tr/Здания/Медные рудники|Медные рудники]], [[tr/Здания/Bauxite Mines|Bauxite Mines]]
 - **extension_building_types**: [[tr/Здания/Железные рудники|Железные рудники]]
 - **potential**: скрипт, строки 688–692
 - **attainable**: скрипт, строки 693–702

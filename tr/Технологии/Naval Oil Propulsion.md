@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_military.txt]
 - **texture**: `gfx/interface/icons/invention_icons/naval_oil_propulsion.dds`
 - **category**: `military`
 - **modifier**:
-  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.05` → [[tr/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.05` → [[tr/Здания/Верфи|Верфи]]
 - **unlocking_technologies**: [[vanilla/Технологии/Бетонные верфи|Бетонные верфи]], [[tr/Технологии/Echo Sounding|Echo Sounding]]
 - **ai_weight**: скрипт, строки 295–297
 

@@ -24,7 +24,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **building_modifiers**:
   - **workforce_scaled**:
     - `goods_input_commonores_add` = `35` → [[tr/Товары/Common Ores|Common Ores]]
-    - `goods_input_copper_add` = `15` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `15` → [[tr/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-iron-add|goods_input_iron_add]] = `5` → [[vanilla/Товары/Железо|Железо]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `5` → [[vanilla/Товары/Уголь|Уголь]]
     - `goods_output_alloys_add` = `60` → [[tr/Товары/Alloys|Alloys]]

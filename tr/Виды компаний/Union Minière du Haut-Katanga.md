@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_FLANDERS`
-- **building_types**: [[tr/Здания/Uranium Mines|Uranium Mines]], [[tr/Здания/Copper Mines|Copper Mines]]
+- **building_types**: [[tr/Здания/Uranium Mines|Uranium Mines]], [[tr/Здания/Медные рудники|Медные рудники]]
 - **extension_building_types**: [[tr/Здания/Rare Earths Mines|Rare Earths Mines]], [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]
 - **potential**: скрипт, строки 117–122
 - **attainable**: скрипт, строки 123–130

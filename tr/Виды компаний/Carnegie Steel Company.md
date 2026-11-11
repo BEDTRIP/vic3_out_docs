@@ -24,8 +24,8 @@ replaces: "[[vanilla/Виды компаний/Carnegie Steel Company]]"
 ## Поля
 
 - **building_types**: [[tr/Здания/Alloys Plants|Alloys Plants]]
-- **extension_building_types**: [[tr/Здания/Common Ores Mines|Common Ores Mines]], [[tr/Здания/Copper Mines|Copper Mines]]
+- **extension_building_types**: [[tr/Здания/Common Ores Mines|Common Ores Mines]], [[tr/Здания/Медные рудники|Медные рудники]]
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `-0.05` → [[tr/Здания/Железные дороги|Железные дороги]]
   - `building_aircraft_industry_throughput_add` = `0.05` → [[tr/Здания/Aerospace Industries|Aerospace Industries]]
-  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[tr/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[tr/Здания/Верфи|Верфи]]

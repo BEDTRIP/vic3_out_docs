@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_modified_mr_production_
 - **building_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `30` → [[vanilla/Товары/Древесина|Древесина]]
-    - `goods_input_copper_add` = `5` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `5` → [[tr/Товары/Медь|Медь]]
     - `goods_input_commonores_add` = `5` → [[tr/Товары/Common Ores|Common Ores]]
     - `goods_output_elgar_instruments_add` = `35` → [[tr/Товары/Instruments|Instruments]]
   - **level_scaled**:

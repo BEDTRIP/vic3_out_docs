@@ -1,18 +1,24 @@
 ---
 type: concept
-description: "Метод производства «Diesel Pump (pm_diesel_pump_building_copper_mine)» — T&R 1.13, `pm_diesel_pump_building_copper_mine`"
+description: "Метод производства «Дизельный насос (pm_diesel_pump_building_copper_mine)» — T&R 1.13, `pm_diesel_pump_building_copper_mine`"
 project: vic3
 audience: agent
 source: tr
-aliases: ["Diesel Pump (pm_diesel_pump_building_copper_mine)", "Diesel Pump", "pm_diesel_pump_building_copper_mine"]
+aliases: ["Дизельный насос (pm_diesel_pump_building_copper_mine)", "Diesel Pump", "pm_diesel_pump_building_copper_mine"]
 tags: [tr, метод-производства]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: pm_diesel_pump_building_copper_mine
 paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.txt]
+replaces: "[[vanilla/Методы производства/Дизельный насос (pm_diesel_pump_building_copper_mine)]]"
 ---
-# Diesel Pump (pm_diesel_pump_building_copper_mine)
+# Дизельный насос (pm_diesel_pump_building_copper_mine)
 
 Метод производства · `pm_diesel_pump_building_copper_mine` · `common/production_methods/ztr_new_production_methods.txt:4967`
+
+## Отличия от ваниль
+
+- **state_modifiers**: изменено
+- **building_modifiers**: изменено
 
 ## Поля
 
@@ -25,7 +31,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `20` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_input_light_fuel_add` = `3` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_output_copper_add` = `85` → [[tr/Товары/Copper|Copper]]
+    - `goods_output_copper_add` = `85` → [[tr/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
@@ -34,4 +40,4 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 
 ## Ссылаются
 
-- **Группы методов** (методы группы): [[tr/Группы методов/Mining Equipment (pmg_mining_equipment_building_copper_mine)|Mining Equipment (pmg_mining_equipment_building_copper_mine)]]
+- **Группы методов** (методы группы): [[tr/Группы методов/Горнодобывающее оборудование (pmg_mining_equipment_building_copper_mine)|Горнодобывающее оборудование (pmg_mining_equipment_building_copper_mine)]]

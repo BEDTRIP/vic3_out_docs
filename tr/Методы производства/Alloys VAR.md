@@ -28,7 +28,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - `goods_input_advancedores_add` = `15` → [[tr/Товары/Advanced Ores|Advanced Ores]]
     - `goods_input_commonores_add` = `55` → [[tr/Товары/Common Ores|Common Ores]]
     - `goods_input_gas_add` = `15` → [[tr/Товары/Natural Gas|Natural Gas]]
-    - `goods_input_copper_add` = `20` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `20` → [[tr/Товары/Медь|Медь]]
     - `goods_output_alloys_add` = `175` → [[tr/Товары/Alloys|Alloys]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

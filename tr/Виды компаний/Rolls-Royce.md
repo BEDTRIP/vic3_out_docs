@@ -25,7 +25,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_automotive_companies.txt]
 - **attainable**: скрипт, строки 1003–1009
 - **possible**: скрипт, строки 1010–1020
 - **prosperity_modifier**:
-  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[tr/Здания/верфи|верфи]]
+  - [[vanilla/движок/Модификаторы B#^m-building-shipyard-throughput-add|building_shipyard_throughput_add]] = `0.1` → [[tr/Здания/Верфи|Верфи]]
   - `building_aircraft_industry_throughput_add` = `0.1` → [[tr/Здания/Aerospace Industries|Aerospace Industries]]
 - **ai_will_do**: скрипт, строки 1025–1031
 - **ai_construction_targets**: скрипт, строки 1032–1039

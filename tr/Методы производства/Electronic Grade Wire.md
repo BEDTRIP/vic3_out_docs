@@ -24,7 +24,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **unlocking_production_methods**: [[tr/Методы производства/Assembly Lines (pm_assembly_lines_building_electronics_plant)|Assembly Lines (pm_assembly_lines_building_electronics_plant)]], [[tr/Методы производства/Surface Mount Technology|Surface Mount Technology]]
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_input_copper_add` = `40` → [[tr/Товары/Copper|Copper]]
+    - `goods_input_copper_add` = `40` → [[tr/Товары/Медь|Медь]]
     - `goods_input_advancedores_add` = `5` → [[tr/Товары/Advanced Ores|Advanced Ores]]
     - `goods_input_plastics_add` = `10` → [[tr/Товары/Пластмассы|Пластмассы]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-rubber-add|goods_input_rubber_add]] = `5` → [[vanilla/Товары/Каучук|Каучук]]

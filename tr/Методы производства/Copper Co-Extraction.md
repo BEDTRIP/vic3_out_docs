@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 - **texture**: `gfx/interface/icons/production_method_icons/copper.dds`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - `goods_output_copper_add` = `8` → [[tr/Товары/Copper|Copper]]
+    - `goods_output_copper_add` = `8` → [[tr/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-output-lead-add|goods_output_lead_add]] = `-15` → [[vanilla/Товары/Свинец|Свинец]]
 - **unlocking_technologies**: [[tr/Технологии/Geology|Geology]]
 

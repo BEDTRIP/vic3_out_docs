@@ -19,6 +19,7 @@ replaces: "[[vanilla/Виды компаний/«Sir W. G. Armstrong Whitworth &
 
 - **possible_prestige_goods**: изменено
 - **extension_building_types**: изменено
+- **possible**: изменено
 
 ## Поля
 
@@ -26,7 +27,7 @@ replaces: "[[vanilla/Виды компаний/«Sir W. G. Armstrong Whitworth &
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_YORKSHIRE`
-- **building_types**: [[tr/Здания/верфи|верфи]], [[tr/Здания/Моторные заводы|Моторные заводы]], [[tr/Здания/Заводы боеприпасов|Заводы боеприпасов]]
+- **building_types**: [[tr/Здания/Верфи|Верфи]], [[tr/Здания/Моторные заводы|Моторные заводы]], [[tr/Здания/Заводы боеприпасов|Заводы боеприпасов]]
 - **possible_prestige_goods**: `prestige_good_armstrong_ships`
 - **extension_building_types**: [[tr/Здания/Aerospace Industries|Aerospace Industries]]
 - **potential**: скрипт, строки 25–27

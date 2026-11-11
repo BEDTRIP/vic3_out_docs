@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_production.txt
 - **unlocking_technologies**: [[tr/Технологии/Advanced Electric Arc Processes|Advanced Electric Arc Processes]]
 - **modifier**:
   - [[vanilla/движок/Модификаторы G#^m-goods-input-iron-mult|goods_input_iron_mult]] = `-0.05` → [[vanilla/Товары/Железо|Железо]]
-  - `goods_input_copper_mult` = `-0.05` → [[tr/Товары/Copper|Copper]]
+  - `goods_input_copper_mult` = `-0.05` → [[tr/Товары/Медь|Медь]]
   - `goods_input_commonores_mult` = `-0.05` → [[tr/Товары/Common Ores|Common Ores]]
 - **ai_weight**: скрипт, строки 1067–1069
 

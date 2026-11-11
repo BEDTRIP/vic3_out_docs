@@ -19,6 +19,8 @@ replaces: "[[vanilla/Виды компаний/«Schneider et Cie»]]"
 
 - **building_types**: изменено
 - **extension_building_types**: изменено
+- **possible**: изменено
+- **ai_weight**: изменено
 
 ## Поля
 

@@ -20,7 +20,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_WEST_SWITZERLAND`, `STATE_EAST_SWITZERLAND`
-- **building_types**: [[tr/Здания/Rare Earths Mines|Rare Earths Mines]], [[tr/Здания/Copper Mines|Copper Mines]], [[vanilla/Здания/Золотые рудники|Золотые рудники]]
+- **building_types**: [[tr/Здания/Rare Earths Mines|Rare Earths Mines]], [[tr/Здания/Медные рудники|Медные рудники]], [[vanilla/Здания/Золотые рудники|Золотые рудники]]
 - **extension_building_types**: [[tr/Здания/Буровые вышки|Буровые вышки]], [[tr/Здания/Natural Gas Rigs|Natural Gas Rigs]]
 - **potential**: скрипт, строки 535–537
 - **attainable**: скрипт, строки 538–549

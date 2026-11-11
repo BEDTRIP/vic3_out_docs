@@ -27,7 +27,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_unique_buildings_produc
     - [[vanilla/движок/Модификаторы G#^m-goods-output-sulfur-add|goods_output_sulfur_add]] = `200` → [[vanilla/Товары/Сера|Сера]]
     - `goods_output_bauxite_add` = `200` → [[tr/Товары/Bauxite|Bauxite]]
     - [[vanilla/движок/Модификаторы G#^m-goods-output-lead-add|goods_output_lead_add]] = `200` → [[vanilla/Товары/Свинец|Свинец]]
-    - `goods_output_copper_add` = `200` → [[tr/Товары/Copper|Copper]]
+    - `goods_output_copper_add` = `200` → [[tr/Товары/Медь|Медь]]
     - `goods_output_commonores_add` = `200` → [[tr/Товары/Common Ores|Common Ores]]
     - [[vanilla/движок/Модификаторы G#^m-goods-output-oil-add|goods_output_oil_add]] = `200` → [[vanilla/Товары/ГСМ|ГСМ]]
   - **level_scaled**:

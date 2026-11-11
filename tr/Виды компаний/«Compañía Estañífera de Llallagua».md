@@ -21,4 +21,4 @@ replaces: "[[vanilla/Виды компаний/«Compañía Estañífera de Llal
 
 ## Поля
 
-- **extension_building_types**: [[tr/Здания/Copper Mines|Copper Mines]], [[tr/Здания/Common Ores Mines|Common Ores Mines]], [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]
+- **extension_building_types**: [[tr/Здания/Медные рудники|Медные рудники]], [[tr/Здания/Common Ores Mines|Common Ores Mines]], [[tr/Здания/Advanced Ores Mines|Advanced Ores Mines]]

@@ -19,7 +19,7 @@ paths: [TechRes+Kuromi/t&r/common/company_types/ztr_mining_companies.txt]
 - **icon**: `gfx/interface/icons/company_icons/historical_company_icons/peru_southern_copper_corp.dds`
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds`
 - **flavored_company**: `yes`
-- **building_types**: [[tr/Здания/Copper Mines|Copper Mines]], [[tr/Здания/Bauxite Mines|Bauxite Mines]], [[vanilla/Здания/Золотые рудники|Золотые рудники]]
+- **building_types**: [[tr/Здания/Медные рудники|Медные рудники]], [[tr/Здания/Bauxite Mines|Bauxite Mines]], [[vanilla/Здания/Золотые рудники|Золотые рудники]]
 - **extension_building_types**: [[tr/Здания/Железные рудники|Железные рудники]]
 - **potential**: скрипт, строки 614–619
 - **attainable**: скрипт, строки 620–631

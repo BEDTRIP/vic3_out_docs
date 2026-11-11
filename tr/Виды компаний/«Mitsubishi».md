@@ -20,6 +20,7 @@ replaces: "[[vanilla/Виды компаний/«Mitsubishi»]]"
 - **building_types**: изменено
 - **extension_building_types**: изменено
 - **potential**: изменено
+- **possible**: изменено
 
 ## Поля
 
@@ -27,7 +28,7 @@ replaces: "[[vanilla/Виды компаний/«Mitsubishi»]]"
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_KANTO`
-- **building_types**: [[tr/Здания/верфи|верфи]], [[tr/Здания/Бумажные фабрики|Бумажные фабрики]], [[tr/Здания/Моторные заводы|Моторные заводы]]
+- **building_types**: [[tr/Здания/Верфи|Верфи]], [[tr/Здания/Бумажные фабрики|Бумажные фабрики]], [[tr/Здания/Моторные заводы|Моторные заводы]]
 - **extension_building_types**: [[tr/Здания/Угольные шахты|Угольные шахты]], [[tr/Здания/Электростанции|Электростанции]], [[tr/Здания/Electronic Components Industries|Electronic Components Industries]], [[tr/Здания/Автомобильные заводы|Автомобильные заводы]], [[tr/Здания/Petrochemical Industries|Petrochemical Industries]]
 - **possible_prestige_goods**: `prestige_good_washi_paper`
 - **potential**: скрипт, строки 28–30

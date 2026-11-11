@@ -21,4 +21,4 @@ replaces: "[[vanilla/Виды компаний/«Compañía de Salitres y Ferroc
 
 ## Поля
 
-- **extension_building_types**: [[tr/Здания/Copper Mines|Copper Mines]]
+- **extension_building_types**: [[tr/Здания/Медные рудники|Медные рудники]]

@@ -29,7 +29,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - `goods_input_telecommunications_add` = `10` → [[tr/Товары/Telecommunications|Telecommunications]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_output_copper_add` = `165` → [[tr/Товары/Copper|Copper]]
+    - `goods_output_copper_add` = `165` → [[tr/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `750` → [[vanilla/Население/Типы/Механики|Механики]]
@@ -39,5 +39,5 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
 
 ## Ссылаются
 
-- **Группы методов** (методы группы): [[tr/Группы методов/Mining Equipment (pmg_mining_equipment_building_copper_mine)|Mining Equipment (pmg_mining_equipment_building_copper_mine)]]
+- **Группы методов** (методы группы): [[tr/Группы методов/Горнодобывающее оборудование (pmg_mining_equipment_building_copper_mine)|Горнодобывающее оборудование (pmg_mining_equipment_building_copper_mine)]]
 - **Методы производства** (unlocking_production_methods): [[tr/Методы производства/HPGR Comminution (pm_hpgr_comminution)|HPGR Comminution (pm_hpgr_comminution)]]
