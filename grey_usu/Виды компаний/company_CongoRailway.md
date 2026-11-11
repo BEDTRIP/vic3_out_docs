@@ -23,7 +23,7 @@ paths: [grey_add_alot_of_things/grey_usu/common/company_types/zMoG_USU_MUC_rail_
 - **category**: `bureaucrat_owned`
 - **possible_prestige_goods**: пусто
 - **building_types**: [[grey_usu/Здания/Железнодорожный терминал|Железнодорожный терминал]], [[grey_usu/Здания/Железная дорога|Железная дорога]], [[grey_usu/Здания/Порты|Порты]]
-- **extension_building_types**: [[vanilla/Здания/верфи|верфи]]
+- **extension_building_types**: [[vanilla/Здания/Верфи|Верфи]]
 - **potential**: скрипт, строки 720–722
 - **attainable**: скрипт, строки 724–730
 - **possible**: скрипт, строки 732–741

@@ -23,4 +23,4 @@ replaces: "[[vanilla/Виды компаний/«Tersâne-i Âmire»]]"
 ## Поля
 
 - **building_types**: [[grey_usu/Здания/Порты|Порты]]
-- **extension_building_types**: [[vanilla/Здания/верфи|верфи]], [[grey_usu/Здания/Речные доки|Речные доки]]
+- **extension_building_types**: [[vanilla/Здания/Верфи|Верфи]], [[grey_usu/Здания/Речные доки|Речные доки]]

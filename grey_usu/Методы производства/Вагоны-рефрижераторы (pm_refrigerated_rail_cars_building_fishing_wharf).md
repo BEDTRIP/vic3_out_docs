@@ -18,6 +18,7 @@ replaces: "[[vanilla/Методы производства/Вагоны-рефр
 ## Отличия от ваниль
 
 - **state_modifiers**: изменено
+- **building_modifiers**: изменено
 
 ## Поля
 

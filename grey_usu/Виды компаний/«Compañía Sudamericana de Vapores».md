@@ -17,6 +17,7 @@ replaces: "[[vanilla/Виды компаний/«Compañía Sudamericana de Vapo
 
 ## Отличия от ваниль
 
+- **building_types**: вставка в блок
 - **extension_building_types**: вставка в блок
 
 ## Поля
