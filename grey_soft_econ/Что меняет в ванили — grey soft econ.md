@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Что мод grey soft econ меняет в ванили 1.13: записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
+description: "Что мод grey soft econ меняет в ванили 1.15 (снимок мода — 1.13): записи common/ по папкам, defines, файлы поверх ваниль, события, локализация"
 project: vic3
 audience: agent
 source: grey_soft_econ
@@ -10,7 +10,7 @@ paths: [grey_add_alot_of_things/_grey_soft_econ/**]
 ---
 # Что меняет в ванили — grey soft econ
 
-Снимок `grey_add_alot_of_things/_grey_soft_econ`, сравнение с ваниль 1.13. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
+Снимок `grey_add_alot_of_things/_grey_soft_econ` (снимок мода — 1.13), сравнение с ваниль 1.15. Генерат `v3 graph mods`: руками не править. Правила слияния — навык `vic3-modding`, «load-and-override»: запись, которой нет у ваниль, мод **добавляет**; голое тело или `REPLACE:` ключа ваниль **заменяет** запись целиком; `INJECT:` **дополняет**; файл с путём файла ваниль — файл ваниль не читается, его записи, которых мод не повторил, **удалены**. Сравнение только с ваниль: запись другого мода (мод — аддон или патч) здесь — «нет у ваниль».
 
 ## Записи common/
 
@@ -67,10 +67,10 @@ paths: [grey_add_alot_of_things/_grey_soft_econ/**]
 | `NEconomy.BUILDING_MIN_EMPLOYMENT_FRACTION_TO_PAUSE_HIRES` | `0.1` | `0.2` |
 | `NEconomy.BUILDING_PAUSE_HIRES_CASH_RESERVES_THRESHOLD` | `0.75` | `0.25` |
 | `NEconomy.BUILDING_PREFER_LAYOFFS_TARGET_WEALTH_MULT` | `0.66` | `0.7` |
-| `NEconomy.BUILDING_PROFIT_TARGET_TO_HIRE_EMPLOYEES` | `0.25` | `0.2` |
-| `NEconomy.BUILDING_PROFIT_TARGET_TO_LOWER_WAGES` | `0.15` | `0.1999` |
-| `NEconomy.BUILDING_PROFIT_TARGET_TO_RAISE_WAGES` | `0.25` | `0.2111` |
-| `NEconomy.BUILDING_PROFIT_TARGET_TO_WITHDRAW_CASH` | `0.15` | `0.2` |
+| `NEconomy.BUILDING_PROFIT_TARGET_TO_HIRE_EMPLOYEES` | `0.15` | `0.2` |
+| `NEconomy.BUILDING_PROFIT_TARGET_TO_LOWER_WAGES` | `0.10` | `0.1999` |
+| `NEconomy.BUILDING_PROFIT_TARGET_TO_RAISE_WAGES` | `0.20` | `0.2111` |
+| `NEconomy.BUILDING_PROFIT_TARGET_TO_WITHDRAW_CASH` | `0.10` | `0.2` |
 | `NEconomy.BUILDING_WAGES_MIN_RELEVANT_POP_SIZE` | `50` | `25` |
 | `NEconomy.BUILDING_WEEKS_BETWEEN_PAY_CHANGES` | `0` | `6` |
 | `NEconomy.BUILDING_WEEKS_BETWEEN_PAY_CHANGES_WHEN_UNPROFITABLE` | `0` | `4` |
@@ -95,7 +95,7 @@ paths: [grey_add_alot_of_things/_grey_soft_econ/**]
 | `NEconomy.OWNERSHIP_BUILDING_PROFIT_TARGET_TO_WITHDRAW_CASH` | `0.3` | `0.2` |
 | `NEconomy.PRICE_RANGE` | `0.75` | `0.9` |
 | `NEconomy.SUBSISTENCE_BUILDING_PROFIT_TARGET_TO_WITHDRAW_CASH` | `0.5` | `0.3` |
-| `NWar.DEVASTATION_INCREASE_RATE` | `0.1` | `0.05` |
+| `NWar.DEVASTATION_INCREASE_RATE` | нет | `0.05` |
 
 ## Вне common/
 
