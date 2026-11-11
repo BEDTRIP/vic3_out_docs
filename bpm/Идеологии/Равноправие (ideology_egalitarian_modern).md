@@ -19,8 +19,8 @@ replaces: "[[vanilla/Идеологии/Равноправие (ideology_egalita
 
 - **priority**: убрано
 - **lawgroup_free_speech**: убрано
-- **lawgroup_childrens_rights**: убрано
 - **lawgroup_labor_rights**: убрано
+- **lawgroup_childrens_rights**: убрано
 - **lawgroup_rights_of_women**: убрано
 
 ## Поля

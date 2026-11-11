@@ -19,8 +19,8 @@ replaces: "[[vanilla/Идеологии/Либерализм (ideology_liberal_m
 
 - **priority**: убрано
 - **lawgroup_citizenship**: убрано
-- **lawgroup_policing**: убрано
 - **lawgroup_internal_security**: убрано
+- **lawgroup_policing**: убрано
 - **lawgroup_free_speech**: убрано
 - **lawgroup_rights_of_women**: убрано
 

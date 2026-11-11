@@ -17,10 +17,10 @@ replaces: "[[vanilla/Идеологии/Суверенизм (ideology_sovereign
 
 ## Отличия от ваниль
 
-- **lawgroup_policing**: убрано
-- **lawgroup_migration**: убрано
-- **lawgroup_free_speech**: убрано
 - **lawgroup_citizenship**: убрано
+- **lawgroup_policing**: убрано
+- **lawgroup_free_speech**: убрано
+- **lawgroup_migration**: убрано
 
 ## Поля
 

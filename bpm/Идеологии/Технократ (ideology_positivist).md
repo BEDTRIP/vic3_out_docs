@@ -22,6 +22,7 @@ replaces: "[[vanilla/Идеологии/Позитивист (ideology_positivis
 - **lawgroup_legislative_principles**: добавлено
 - **lawgroup_church_and_state**: изменено
 - **lawgroup_distribution_of_power**: изменено
+- **lawgroup_bureaucracy**: изменено
 - **lawgroup_repeatable_religion**: добавлено
 - **interest_group_leader_trigger**: изменено
 - **interest_group_leader_weight**: изменено

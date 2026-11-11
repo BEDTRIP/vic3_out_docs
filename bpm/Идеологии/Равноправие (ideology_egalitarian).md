@@ -17,10 +17,11 @@ replaces: "[[vanilla/Идеологии/Равноправие (ideology_egalita
 
 ## Отличия от ваниль
 
+- **lawgroup_caste_hegemony**: убрано
+- **lawgroup_edo_social_system**: убрано
+- **lawgroup_education_system**: убрано
 - **lawgroup_free_speech**: убрано
 - **lawgroup_childrens_rights**: убрано
-- **lawgroup_labor_rights**: убрано
-- **lawgroup_edo_social_system**: убрано
 
 ## Поля
 

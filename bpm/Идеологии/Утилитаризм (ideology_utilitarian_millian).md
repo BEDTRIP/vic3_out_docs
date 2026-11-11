@@ -17,12 +17,12 @@ replaces: "[[vanilla/Идеологии/Утилитаризм (ideology_utilita
 
 ## Отличия от ваниль
 
-- **lawgroup_childrens_rights**: убрано
+- **lawgroup_caste_hegemony**: убрано
+- **lawgroup_taxation**: убрано
 - **lawgroup_education_system**: убрано
+- **lawgroup_childrens_rights**: убрано
 - **lawgroup_rights_of_women**: убрано
 - **lawgroup_slavery**: убрано
-- **lawgroup_taxation**: убрано
-- **lawgroup_caste_hegemony**: убрано
 
 ## Поля
 
