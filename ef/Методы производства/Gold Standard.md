@@ -25,7 +25,7 @@ paths: [E&F/common/production_methods/15_ef_bank.txt]
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `1` → [[vanilla/Товары/Бумага|Бумага]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-gold-add|goods_input_gold_add]] = `1` → [[ef/Товары/Золото|Золото]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-bond-add|goods_output_bond_add]] = `10` → [[ef/Товары/Bond|Bond]]
+    - `goods_output_bond_add` = `10` → [[ef/Товары/Bond|Bond]]
 - **country_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `1000`

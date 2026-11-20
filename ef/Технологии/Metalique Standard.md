@@ -21,7 +21,7 @@ paths: [E&F/common/technology/technologies/ef_technology.txt]
 - **category**: `society`
 - **unlocking_technologies**: [[ef/Технологии/Центральный банк (технология)|Центральный банк (технология)]]
 - **modifier**:
-  - [[vanilla/движок/Модификаторы C#^m-country-institution-economic-central-bank-max-investment-add|country_institution_economic_central_bank_max_investment_add]] = `1`
+  - `country_institution_economic_central_bank_max_investment_add` = `1`
 - **on_researched**: скрипт, строки 362–382
 - **ai_weight**: скрипт, строки 384–386
 

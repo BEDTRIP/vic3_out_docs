@@ -25,7 +25,7 @@ paths: [E&F/common/production_methods/15_ef_bank.txt]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `2` → [[vanilla/Товары/Бумага|Бумага]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-bond-add|goods_output_bond_add]] = `10` → [[ef/Товары/Bond|Bond]]
+    - `goods_output_bond_add` = `10` → [[ef/Товары/Bond|Bond]]
 - **country_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `1000`

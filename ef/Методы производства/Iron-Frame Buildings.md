@@ -23,7 +23,7 @@ paths: [E&F/common/production_methods/14_ef_private_construction.txt]
     - [[vanilla/движок/Модификаторы C#^m-country-construction-add|country_construction_add]] = `5`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-manufacture-stock-add|goods_output_manufacture_stock_add]] = `100` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
+    - `goods_output_manufacture_stock_add` = `100` → [[ef/Товары/Manufacture Stock|Manufacture Stock]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-wood-add|goods_input_wood_add]] = `10` → [[vanilla/Товары/Древесина|Древесина]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-fabric-add|goods_input_fabric_add]] = `5` → [[vanilla/Товары/Ткань|Ткань]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-iron-add|goods_input_iron_add]] = `15` → [[vanilla/Товары/Железо|Железо]]

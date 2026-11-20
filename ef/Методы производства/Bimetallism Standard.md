@@ -24,9 +24,9 @@ paths: [E&F/common/production_methods/15_ef_bank.txt]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-clerks-add|building_employment_clerks_add]] = `50` → [[vanilla/Население/Типы/Служащие|Служащие]]
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-paper-add|goods_input_paper_add]] = `1` → [[vanilla/Товары/Бумага|Бумага]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-input-silver-add|goods_input_silver_add]] = `5` → [[ef/Товары/Silver|Silver]]
+    - `goods_input_silver_add` = `5` → [[ef/Товары/Silver|Silver]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-gold-add|goods_input_gold_add]] = `1` → [[ef/Товары/Золото|Золото]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-bond-add|goods_output_bond_add]] = `10` → [[ef/Товары/Bond|Bond]]
+    - `goods_output_bond_add` = `10` → [[ef/Товары/Bond|Bond]]
 - **country_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы C#^m-country-minting-add|country_minting_add]] = `1000`

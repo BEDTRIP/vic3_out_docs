@@ -25,4 +25,4 @@ paths: [E&F/common/company_types/00_ef_companies.txt]
 - **possible**: скрипт, строки 6711–6721
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-gold-mine-throughput-add|building_gold_mine_throughput_add]] = `0.25` → [[ef/Здания/Золотые рудники|Золотые рудники]]
-  - [[vanilla/движок/Модификаторы B#^m-building-silver-mine-throughput-add|building_silver_mine_throughput_add]] = `0.25` → [[ef/Здания/Silver Mine|Silver Mine]]
+  - `building_silver_mine_throughput_add` = `0.25` → [[ef/Здания/Silver Mine|Silver Mine]]

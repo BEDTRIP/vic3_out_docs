@@ -24,7 +24,7 @@ paths: [E&F/common/production_methods/03_ef_mines.txt]
 - **building_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `5` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-silver-add|goods_output_silver_add]] = `15` → [[ef/Товары/Silver|Silver]]
+    - `goods_output_silver_add` = `15` → [[ef/Товары/Silver|Silver]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[vanilla/Население/Типы/Инженеры|Инженеры]]
   - **unscaled**:

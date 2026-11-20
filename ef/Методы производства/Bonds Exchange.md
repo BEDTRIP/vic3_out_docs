@@ -27,8 +27,8 @@ paths: [E&F/common/production_methods/16_ef_financial_centre.txt]
     - [[vanilla/движок/Модификаторы B#^m-building-shopkeepers-shares-add|building_shopkeepers_shares_add]] = `5`
     - [[vanilla/движок/Модификаторы B#^m-building-clerks-shares-add|building_clerks_shares_add]] = `1`
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы G#^m-goods-output-mutual-funds-add|goods_output_mutual_funds_add]] = `1` → [[ef/Товары/Паевые инвестиционные фонды|Паевые инвестиционные фонды]]
-    - [[vanilla/движок/Модификаторы G#^m-goods-input-bond-add|goods_input_bond_add]] = `1` → [[ef/Товары/Bond|Bond]]
+    - `goods_output_mutual_funds_add` = `1` → [[ef/Товары/Паевые инвестиционные фонды|Паевые инвестиционные фонды]]
+    - `goods_input_bond_add` = `1` → [[ef/Товары/Bond|Bond]]
 
 ## Ссылаются
 
