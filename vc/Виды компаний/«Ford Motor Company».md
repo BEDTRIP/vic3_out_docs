@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Ford Motor Company»» — VC 1.15, `company_ford_motor`"
+description: "Вид компании ««Ford Motor Company»» — VC 1.15.2, `company_ford_motor`"
 project: vic3
 audience: agent
 source: vc

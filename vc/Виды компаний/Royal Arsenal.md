@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Royal Arsenal» — VC 1.15, `company_royal_arsenal`"
+description: "Вид компании «Royal Arsenal» — VC 1.15.2, `company_royal_arsenal`"
 project: vic3
 audience: agent
 source: vc

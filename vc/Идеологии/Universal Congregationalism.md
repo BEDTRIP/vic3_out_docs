@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Universal Congregationalism» — VC 1.15, `ideology_puritan_ecumenical`"
+description: "Идеология «Universal Congregationalism» — VC 1.15.2, `ideology_puritan_ecumenical`"
 project: vic3
 audience: agent
 source: vc

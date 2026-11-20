@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — VC 1.15, `company_ludwig_moser_and_sons`"
+description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — VC 1.15.2, `company_ludwig_moser_and_sons`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Holy and Beloved» — VC 1.15, `ig_trait_sancti_et_dilecti`"
+description: "Черта группы интересов «Holy and Beloved» — VC 1.15.2, `ig_trait_sancti_et_dilecti`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — VC 1.15, `company_armstrong_whitworth`"
+description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — VC 1.15.2, `company_armstrong_whitworth`"
 project: vic3
 audience: agent
 source: vc

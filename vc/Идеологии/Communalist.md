@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Communalist» — VC 1.15, `ideology_agrarian_russian`"
+description: "Идеология «Communalist» — VC 1.15.2, `ideology_agrarian_russian`"
 project: vic3
 audience: agent
 source: vc

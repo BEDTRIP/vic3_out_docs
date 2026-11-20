@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Brown & Sharpe» — VC 1.15, `company_brown_sharpe`"
+description: "Вид компании «Brown & Sharpe» — VC 1.15.2, `company_brown_sharpe`"
 project: vic3
 audience: agent
 source: vc

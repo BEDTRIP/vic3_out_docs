@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««La España Industrial»» — VC 1.15, `company_espana_industrial`"
+description: "Вид компании ««La España Industrial»» — VC 1.15.2, `company_espana_industrial`"
 project: vic3
 audience: agent
 source: vc

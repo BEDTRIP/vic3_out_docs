@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Anti-Imperialist Conscience» — VC 1.15, `ig_trait_refuse_imperialism`"
+description: "Черта группы интересов «Anti-Imperialist Conscience» — VC 1.15.2, `ig_trait_refuse_imperialism`"
 project: vic3
 audience: agent
 source: vc

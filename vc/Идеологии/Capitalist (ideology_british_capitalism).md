@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Capitalist (ideology_british_capitalism)» — VC 1.15, `ideology_british_capitalism`"
+description: "Идеология «Capitalist (ideology_british_capitalism)» — VC 1.15.2, `ideology_british_capitalism`"
 project: vic3
 audience: agent
 source: vc

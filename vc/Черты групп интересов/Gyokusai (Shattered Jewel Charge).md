@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Gyokusai (Shattered Jewel Charge)» — VC 1.15, `ig_trait_gyokusai_charge`"
+description: "Черта группы интересов «Gyokusai (Shattered Jewel Charge)» — VC 1.15.2, `ig_trait_gyokusai_charge`"
 project: vic3
 audience: agent
 source: vc

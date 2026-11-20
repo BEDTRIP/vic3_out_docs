@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Industrial Salvation» — VC 1.15, `ig_trait_national_industry`"
+description: "Черта группы интересов «Industrial Salvation» — VC 1.15.2, `ig_trait_national_industry`"
 project: vic3
 audience: agent
 source: vc

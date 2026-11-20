@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Bedel-i Askerî Tax» — VC 1.15, `law_askeri_tax`"
+description: "Закон «Bedel-i Askerî Tax» — VC 1.15.2, `law_askeri_tax`"
 project: vic3
 audience: agent
 source: vc

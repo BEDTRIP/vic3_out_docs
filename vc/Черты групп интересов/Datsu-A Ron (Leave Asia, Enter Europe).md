@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Datsu-A Ron (Leave Asia, Enter Europe)» — VC 1.15, `ig_trait_datsu_aron`"
+description: "Черта группы интересов «Datsu-A Ron (Leave Asia, Enter Europe)» — VC 1.15.2, `ig_trait_datsu_aron`"
 project: vic3
 audience: agent
 source: vc

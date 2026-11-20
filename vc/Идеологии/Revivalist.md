@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Revivalist» — VC 1.15, `ideology_revivalism`"
+description: "Идеология «Revivalist» — VC 1.15.2, `ideology_revivalism`"
 project: vic3
 audience: agent
 source: vc

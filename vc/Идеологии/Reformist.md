@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Reformist» — VC 1.15, `ideology_innovationist`"
+description: "Идеология «Reformist» — VC 1.15.2, `ideology_innovationist`"
 project: vic3
 audience: agent
 source: vc

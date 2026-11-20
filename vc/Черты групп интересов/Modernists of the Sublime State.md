@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Modernists of the Sublime State» — VC 1.15, `ig_trait_modernists_of_sublime`"
+description: "Черта группы интересов «Modernists of the Sublime State» — VC 1.15.2, `ig_trait_modernists_of_sublime`"
 project: vic3
 audience: agent
 source: vc

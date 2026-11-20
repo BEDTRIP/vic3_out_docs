@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Iron Arm of the Sultan» — VC 1.15, `ig_trait_arm_of_sultan`"
+description: "Черта группы интересов «Iron Arm of the Sultan» — VC 1.15.2, `ig_trait_arm_of_sultan`"
 project: vic3
 audience: agent
 source: vc

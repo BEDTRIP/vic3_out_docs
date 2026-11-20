@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Freedom of Speech» — VC 1.15, `ig_trait_freedom_of_speech`"
+description: "Черта группы интересов «Freedom of Speech» — VC 1.15.2, `ig_trait_freedom_of_speech`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Imperial Preference» — VC 1.15, `law_imperial_preference`"
+description: "Закон «Imperial Preference» — VC 1.15.2, `law_imperial_preference`"
 project: vic3
 audience: agent
 source: vc

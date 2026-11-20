@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Caliphal Absolutism» — VC 1.15, `law_sublime_porte_absolutism`"
+description: "Закон «Caliphal Absolutism» — VC 1.15.2, `law_sublime_porte_absolutism`"
 project: vic3
 audience: agent
 source: vc

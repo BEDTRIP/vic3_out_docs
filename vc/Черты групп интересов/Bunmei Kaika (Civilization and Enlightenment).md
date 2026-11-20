@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Bunmei Kaika (Civilization and Enlightenment)» — VC 1.15, `ig_trait_bunmei_kaika`"
+description: "Черта группы интересов «Bunmei Kaika (Civilization and Enlightenment)» — VC 1.15.2, `ig_trait_bunmei_kaika`"
 project: vic3
 audience: agent
 source: vc

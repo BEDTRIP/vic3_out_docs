@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Maison Worth» — VC 1.15, `company_maison_worth`"
+description: "Вид компании «Maison Worth» — VC 1.15.2, `company_maison_worth`"
 project: vic3
 audience: agent
 source: vc

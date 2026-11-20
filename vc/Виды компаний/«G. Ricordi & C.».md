@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««G. Ricordi & C.»» — VC 1.15, `company_ricordi`"
+description: "Вид компании ««G. Ricordi & C.»» — VC 1.15.2, `company_ricordi`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Colt's Patent Firearms Manufacturing Company» — VC 1.15, `company_colt_firearms`"
+description: "Вид компании «Colt's Patent Firearms Manufacturing Company» — VC 1.15.2, `company_colt_firearms`"
 project: vic3
 audience: agent
 source: vc

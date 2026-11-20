@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Hierarchist» — VC 1.15, `ideology_british_hierarchic`"
+description: "Идеология «Hierarchist» — VC 1.15.2, `ideology_british_hierarchic`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Patriot» — VC 1.15, `ideology_patriotism`"
+description: "Идеология «Patriot» — VC 1.15.2, `ideology_patriotism`"
 project: vic3
 audience: agent
 source: vc

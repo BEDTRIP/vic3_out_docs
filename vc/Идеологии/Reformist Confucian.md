@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Reformist Confucian» — VC 1.15, `ideology_western_confucian`"
+description: "Идеология «Reformist Confucian» — VC 1.15.2, `ideology_western_confucian`"
 project: vic3
 audience: agent
 source: vc

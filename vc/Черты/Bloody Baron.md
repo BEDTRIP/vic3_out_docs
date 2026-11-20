@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Bloody Baron» — VC 1.15, `special_bloody_baron`"
+description: "Черта персонажа «Bloody Baron» — VC 1.15.2, `special_bloody_baron`"
 project: vic3
 audience: agent
 source: vc

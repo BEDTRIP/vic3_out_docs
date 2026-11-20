@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Pan-Islamism» — VC 1.15, `law_pan_islamism`"
+description: "Закон «Pan-Islamism» — VC 1.15.2, `law_pan_islamism`"
 project: vic3
 audience: agent
 source: vc

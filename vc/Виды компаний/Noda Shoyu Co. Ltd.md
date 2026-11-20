@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Noda Shoyu Co. Ltd» — VC 1.15, `company_noda_shoyu`"
+description: "Вид компании «Noda Shoyu Co. Ltd» — VC 1.15.2, `company_noda_shoyu`"
 project: vic3
 audience: agent
 source: vc

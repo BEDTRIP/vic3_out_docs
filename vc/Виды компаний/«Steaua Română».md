@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Steaua Română»» — VC 1.15, `company_romanian_star`"
+description: "Вид компании ««Steaua Română»» — VC 1.15.2, `company_romanian_star`"
 project: vic3
 audience: agent
 source: vc

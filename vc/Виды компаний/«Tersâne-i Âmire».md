@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Tersâne-i Âmire»» — VC 1.15, `company_imperial_arsenal`"
+description: "Вид компании ««Tersâne-i Âmire»» — VC 1.15.2, `company_imperial_arsenal`"
 project: vic3
 audience: agent
 source: vc

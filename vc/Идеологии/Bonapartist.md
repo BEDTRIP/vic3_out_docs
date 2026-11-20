@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Bonapartist» — VC 1.15, `ideology_bonapartiste`"
+description: "Идеология «Bonapartist» — VC 1.15.2, `ideology_bonapartiste`"
 project: vic3
 audience: agent
 source: vc

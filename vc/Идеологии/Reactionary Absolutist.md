@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Reactionary Absolutist» — VC 1.15, `ideology_reactionism_leader`"
+description: "Идеология «Reactionary Absolutist» — VC 1.15.2, `ideology_reactionism_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -63,21 +63,6 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
   - [[vanilla/Законы/Право собрания|Право собрания]] = `disapprove`
   - [[vanilla/Законы/Цензура|Цензура]] = `approve`
   - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_approve`
-- **lawgroup_land_reform**:
-  - [[vanilla/Законы/Коллективизированное сельское хозяйство|Коллективизированное сельское хозяйство]] = `strongly_disapprove`
-  - [[vanilla/Законы/Крепостное право|Крепостное право]] = `approve`
-  - [[vanilla/Законы/Арендаторы|Арендаторы]] = `approve`
-  - [[vanilla/Законы/Крестьянское землевладение|Крестьянское землевладение]] = `disapprove`
-  - [[vanilla/Законы/Коммерческое сельское хозяйство|Коммерческое сельское хозяйство]] = `disapprove`
-- **lawgroup_economic_system**:
-  - [[vanilla/Законы/Традиционализм|Традиционализм]] = `approve`
-  - [[vanilla/Законы/Аграрность|Аграрность]] = `strongly_approve`
-  - [[vanilla/Законы/Интервенционизм|Интервенционизм]] = `neutral`
-  - [[vanilla/Законы/Запрет промышленности|Запрет промышленности]] = `neutral`
-  - [[vanilla/Законы/Свободная конкуренция|Свободная конкуренция]] = `disapprove`
-  - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
-  - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `strongly_disapprove`
-  - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
 - **country_trigger**:
   - `has_variable` = `government_leader_government_leader_nicholas_i_var`
 - **interest_group_leader_trigger**:
@@ -85,6 +70,6 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
     - `ideology_slaver_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 606–620
+- **interest_group_leader_weight**: скрипт, строки 587–601
 - **non_interest_group_leader_weight**:
   - `value` = `25`

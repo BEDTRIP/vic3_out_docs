@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Maple & Co» — VC 1.15, `company_maple_and_co`"
+description: "Вид компании «Maple & Co» — VC 1.15.2, `company_maple_and_co`"
 project: vic3
 audience: agent
 source: vc

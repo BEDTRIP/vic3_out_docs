@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Grey Cattle» — VC 1.15, `ig_trait_gray_cattle`"
+description: "Черта группы интересов «Grey Cattle» — VC 1.15.2, `ig_trait_gray_cattle`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «German Nobility» — VC 1.15, `ideology_german_nobles`"
+description: "Идеология «German Nobility» — VC 1.15.2, `ideology_german_nobles`"
 project: vic3
 audience: agent
 source: vc

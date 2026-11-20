@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Chemins de fer Orientaux»» — VC 1.15, `company_orient_express`"
+description: "Вид компании ««Chemins de fer Orientaux»» — VC 1.15.2, `company_orient_express`"
 project: vic3
 audience: agent
 source: vc

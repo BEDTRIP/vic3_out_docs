@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Ilva»» — VC 1.15, `company_ilva`"
+description: "Вид компании ««Ilva»» — VC 1.15.2, `company_ilva`"
 project: vic3
 audience: agent
 source: vc
@@ -38,7 +38,7 @@ replaces: "[[vanilla/Виды компаний/«Ilva»]]"
 - **possible**: скрипт, строки 5321–5331
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-  - `state_building_construction_sector_max_level_add` = `5`
+  - [[vanilla/движок/Модификаторы S#^m-state-building-construction-sector-max-level-add|state_building_construction_sector_max_level_add]] = `5`
   - [[vanilla/движок/Модификаторы C#^m-country-construction-goods-cost-mult|country_construction_goods_cost_mult]] = `-0.05`
 - **ai_will_do**: скрипт, строки 5339–5344
 - **ai_construction_targets**: скрипт, строки 5346–5353

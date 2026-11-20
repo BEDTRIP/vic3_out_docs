@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Ericsson»» — VC 1.15, `company_ericsson`"
+description: "Вид компании ««Ericsson»» — VC 1.15.2, `company_ericsson`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Cunning Commoners» — VC 1.15, `ig_trait_conning_commoner`"
+description: "Черта группы интересов «Cunning Commoners» — VC 1.15.2, `ig_trait_conning_commoner`"
 project: vic3
 audience: agent
 source: vc

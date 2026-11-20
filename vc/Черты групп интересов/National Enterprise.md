@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «National Enterprise» — VC 1.15, `ig_trait_national_enterprise`"
+description: "Черта группы интересов «National Enterprise» — VC 1.15.2, `ig_trait_national_enterprise`"
 project: vic3
 audience: agent
 source: vc

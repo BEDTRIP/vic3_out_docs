@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Young Officer» — VC 1.15, `special_young_officers`"
+description: "Черта персонажа «Young Officer» — VC 1.15.2, `special_young_officers`"
 project: vic3
 audience: agent
 source: vc

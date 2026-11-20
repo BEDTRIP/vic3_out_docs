@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «United East India Company» — VC 1.15, `company_dutch_east_india_company`"
+description: "Вид компании «United East India Company» — VC 1.15.2, `company_dutch_east_india_company`"
 project: vic3
 audience: agent
 source: vc

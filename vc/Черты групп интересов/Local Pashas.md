@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Local Pashas» — VC 1.15, `ig_trait_local_pashas`"
+description: "Черта группы интересов «Local Pashas» — VC 1.15.2, `ig_trait_local_pashas`"
 project: vic3
 audience: agent
 source: vc

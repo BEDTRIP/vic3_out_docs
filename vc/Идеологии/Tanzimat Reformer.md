@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Tanzimat Reformer» — VC 1.15, `ideology_tanzimatism`"
+description: "Идеология «Tanzimat Reformer» — VC 1.15.2, `ideology_tanzimatism`"
 project: vic3
 audience: agent
 source: vc

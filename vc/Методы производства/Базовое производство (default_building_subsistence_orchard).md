@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Базовое производство (default_building_subsistence_orchard)» — VC 1.15, `default_building_subsistence_orchard`"
+description: "Метод производства «Базовое производство (default_building_subsistence_orchard)» — VC 1.15.2, `default_building_subsistence_orchard`"
 project: vic3
 audience: agent
 source: vc

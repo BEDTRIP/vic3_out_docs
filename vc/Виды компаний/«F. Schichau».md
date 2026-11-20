@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««F. Schichau»» — VC 1.15, `company_schichau`"
+description: "Вид компании ««F. Schichau»» — VC 1.15.2, `company_schichau`"
 project: vic3
 audience: agent
 source: vc

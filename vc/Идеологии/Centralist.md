@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Centralist» — VC 1.15, `ideology_austria_centraliser`"
+description: "Идеология «Centralist» — VC 1.15.2, `ideology_austria_centraliser`"
 project: vic3
 audience: agent
 source: vc

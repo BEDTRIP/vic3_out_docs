@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — VC 1.15, `company_nederlandse_petroleum`"
+description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — VC 1.15.2, `company_nederlandse_petroleum`"
 project: vic3
 audience: agent
 source: vc

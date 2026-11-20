@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Puritan» — VC 1.15, `ideology_puritan`"
+description: "Идеология «Puritan» — VC 1.15.2, `ideology_puritan`"
 project: vic3
 audience: agent
 source: vc

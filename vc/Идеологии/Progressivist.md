@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Progressivist» — VC 1.15, `ideology_progressivism`"
+description: "Идеология «Progressivist» — VC 1.15.2, `ideology_progressivism`"
 project: vic3
 audience: agent
 source: vc

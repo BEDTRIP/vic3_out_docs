@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин мода VC «Crownland Autonomy» — подсказка-понятие Victoria 3 1.15 (`concept_lander_der_krone`)"
+description: "Термин мода VC «Crownland Autonomy» — подсказка-понятие Victoria 3 1.15.2 (`concept_lander_der_krone`)"
 project: vic3
 audience: agent
 source: vc

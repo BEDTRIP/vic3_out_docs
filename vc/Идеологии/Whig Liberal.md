@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Whig Liberal» — VC 1.15, `ideology_british_whig_liberalism`"
+description: "Идеология «Whig Liberal» — VC 1.15.2, `ideology_british_whig_liberalism`"
 project: vic3
 audience: agent
 source: vc

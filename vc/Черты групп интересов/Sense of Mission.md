@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Sense of Mission» — VC 1.15, `ig_trait_burden_of_mission`"
+description: "Черта группы интересов «Sense of Mission» — VC 1.15.2, `ig_trait_burden_of_mission`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Dissemination of Dissent» — VC 1.15, `ig_trait_spread_of_dissent`"
+description: "Черта группы интересов «Dissemination of Dissent» — VC 1.15.2, `ig_trait_spread_of_dissent`"
 project: vic3
 audience: agent
 source: vc

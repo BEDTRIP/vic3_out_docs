@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Enlightened Liberal» — VC 1.15, `ideology_enlightlism`"
+description: "Идеология «Enlightened Liberal» — VC 1.15.2, `ideology_enlightlism`"
 project: vic3
 audience: agent
 source: vc
@@ -28,10 +28,10 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Этническое государство|Этническое государство]] = `neutral`
   - [[vanilla/Законы/Подданство|Подданство]] = `disapprove`
-  - [[vanilla/Законы/Национальное превосходство|Национальное превосходство]] = `neutral`
-  - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `strongly_approve`
+  - [[vanilla/Законы/Национальное превосходство|Национальное превосходство]] = `approve`
+  - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `approve`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `strongly_approve`
-  - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `approve`
+  - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `neutral`
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `approve`
   - [[vanilla/Законы/Имущественный ценз|Имущественный ценз]] = `approve`

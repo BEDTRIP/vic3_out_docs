@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Amsterdam Admiralty Shipyard» — VC 1.15, `company_admiralty_rijkswerf`"
+description: "Вид компании «Amsterdam Admiralty Shipyard» — VC 1.15.2, `company_admiralty_rijkswerf`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Lawful Monopoly» — VC 1.15, `ig_trait_legal_monopoly`"
+description: "Черта группы интересов «Lawful Monopoly» — VC 1.15.2, `ig_trait_legal_monopoly`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Price Gouging» — VC 1.15, `ig_trait_against_imports`"
+description: "Черта группы интересов «Price Gouging» — VC 1.15.2, `ig_trait_against_imports`"
 project: vic3
 audience: agent
 source: vc

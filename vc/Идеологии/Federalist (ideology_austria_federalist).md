@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Federalist (ideology_austria_federalist)» — VC 1.15, `ideology_austria_federalist`"
+description: "Идеология «Federalist (ideology_austria_federalist)» — VC 1.15.2, `ideology_austria_federalist`"
 project: vic3
 audience: agent
 source: vc

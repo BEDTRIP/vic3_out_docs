@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Österreichische Waffenfabriks-Gesellschaft» — VC 1.15, `company_oevg`"
+description: "Вид компании «Österreichische Waffenfabriks-Gesellschaft» — VC 1.15.2, `company_oevg`"
 project: vic3
 audience: agent
 source: vc

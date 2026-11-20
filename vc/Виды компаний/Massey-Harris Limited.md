@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Massey-Harris Limited» — VC 1.15, `company_massey_harris`"
+description: "Вид компании «Massey-Harris Limited» — VC 1.15.2, `company_massey_harris`"
 project: vic3
 audience: agent
 source: vc

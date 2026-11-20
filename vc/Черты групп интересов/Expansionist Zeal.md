@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Expansionist Zeal» — VC 1.15, `ig_trait_war_frenzy`"
+description: "Черта группы интересов «Expansionist Zeal» — VC 1.15.2, `ig_trait_war_frenzy`"
 project: vic3
 audience: agent
 source: vc

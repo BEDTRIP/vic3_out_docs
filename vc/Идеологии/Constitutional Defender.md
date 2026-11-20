@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Constitutional Defender» — VC 1.15, `ideology_united_states_constitution`"
+description: "Идеология «Constitutional Defender» — VC 1.15.2, `ideology_united_states_constitution`"
 project: vic3
 audience: agent
 source: vc

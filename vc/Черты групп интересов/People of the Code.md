@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «People of the Code» — VC 1.15, `ig_trait_people_of_procedure`"
+description: "Черта группы интересов «People of the Code» — VC 1.15.2, `ig_trait_people_of_procedure`"
 project: vic3
 audience: agent
 source: vc

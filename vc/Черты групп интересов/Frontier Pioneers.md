@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Frontier Pioneers» — VC 1.15, `ig_trait_frontier_pioneers`"
+description: "Черта группы интересов «Frontier Pioneers» — VC 1.15.2, `ig_trait_frontier_pioneers`"
 project: vic3
 audience: agent
 source: vc

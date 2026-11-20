@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Salafi» — VC 1.15, `ideology_salafi`"
+description: "Идеология «Salafi» — VC 1.15.2, `ideology_salafi`"
 project: vic3
 audience: agent
 source: vc

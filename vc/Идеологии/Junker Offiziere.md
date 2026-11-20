@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Junker Offiziere» — VC 1.15, `ideology_junker_militarism`"
+description: "Идеология «Junker Offiziere» — VC 1.15.2, `ideology_junker_militarism`"
 project: vic3
 audience: agent
 source: vc

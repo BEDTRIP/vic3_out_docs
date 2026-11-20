@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Ottomanist» — VC 1.15, `ideology_ottomanism`"
+description: "Идеология «Ottomanist» — VC 1.15.2, `ideology_ottomanism`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««FIAT»» — VC 1.15, `company_fiat`"
+description: "Вид компании ««FIAT»» — VC 1.15.2, `company_fiat`"
 project: vic3
 audience: agent
 source: vc

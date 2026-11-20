@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Schneider et Cie»» — VC 1.15, `company_schneider_creusot`"
+description: "Вид компании ««Schneider et Cie»» — VC 1.15.2, `company_schneider_creusot`"
 project: vic3
 audience: agent
 source: vc

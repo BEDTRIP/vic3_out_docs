@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Graft and Privilege» — VC 1.15, `ig_trait_corruption_and_privilege`"
+description: "Черта группы интересов «Graft and Privilege» — VC 1.15.2, `ig_trait_corruption_and_privilege`"
 project: vic3
 audience: agent
 source: vc

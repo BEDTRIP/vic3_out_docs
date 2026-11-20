@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Little Father» — VC 1.15, `ig_trait_adm_expert`"
+description: "Черта группы интересов «Little Father» — VC 1.15.2, `ig_trait_adm_expert`"
 project: vic3
 audience: agent
 source: vc

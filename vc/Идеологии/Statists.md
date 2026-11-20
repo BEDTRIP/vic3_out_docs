@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Statists» — VC 1.15, `ideology_economic_statism`"
+description: "Идеология «Statists» — VC 1.15.2, `ideology_economic_statism`"
 project: vic3
 audience: agent
 source: vc

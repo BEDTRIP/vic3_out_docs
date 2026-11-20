@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Freedom Above All» — VC 1.15, `ig_trait_if_for_freedom`"
+description: "Черта группы интересов «Freedom Above All» — VC 1.15.2, `ig_trait_if_for_freedom`"
 project: vic3
 audience: agent
 source: vc

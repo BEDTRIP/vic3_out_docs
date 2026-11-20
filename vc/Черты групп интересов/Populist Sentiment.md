@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Populist Sentiment» — VC 1.15, `ig_trait_us_populism`"
+description: "Черта группы интересов «Populist Sentiment» — VC 1.15.2, `ig_trait_us_populism`"
 project: vic3
 audience: agent
 source: vc

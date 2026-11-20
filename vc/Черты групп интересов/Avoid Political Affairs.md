@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Avoid Political Affairs» — VC 1.15, `ig_trait_pragmatism`"
+description: "Черта группы интересов «Avoid Political Affairs» — VC 1.15.2, `ig_trait_pragmatism`"
 project: vic3
 audience: agent
 source: vc

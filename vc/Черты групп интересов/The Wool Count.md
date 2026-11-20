@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «The Wool Count» — VC 1.15, `ig_trait_conde_de_wool`"
+description: "Черта группы интересов «The Wool Count» — VC 1.15.2, `ig_trait_conde_de_wool`"
 project: vic3
 audience: agent
 source: vc

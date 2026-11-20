@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «National Conservatives» — VC 1.15, `ideology_national_conservatism`"
+description: "Идеология «National Conservatives» — VC 1.15.2, `ideology_national_conservatism`"
 project: vic3
 audience: agent
 source: vc

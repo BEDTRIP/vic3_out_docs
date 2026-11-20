@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««United Fruit Company»» — VC 1.15, `company_united_fruit`"
+description: "Вид компании ««United Fruit Company»» — VC 1.15.2, `company_united_fruit`"
 project: vic3
 audience: agent
 source: vc

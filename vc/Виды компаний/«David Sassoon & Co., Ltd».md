@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««David Sassoon & Co., Ltd»» — VC 1.15, `company_david_sassoon`"
+description: "Вид компании ««David Sassoon & Co., Ltd»» — VC 1.15.2, `company_david_sassoon`"
 project: vic3
 audience: agent
 source: vc

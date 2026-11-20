@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Imperialist» — VC 1.15, `ideology_imperialism`"
+description: "Идеология «Imperialist» — VC 1.15.2, `ideology_imperialism`"
 project: vic3
 audience: agent
 source: vc

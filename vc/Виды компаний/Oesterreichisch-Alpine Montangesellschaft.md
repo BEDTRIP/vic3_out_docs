@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — VC 1.15, `company_oesterreichisch_alpine_montangesellschaft`"
+description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — VC 1.15.2, `company_oesterreichisch_alpine_montangesellschaft`"
 project: vic3
 audience: agent
 source: vc

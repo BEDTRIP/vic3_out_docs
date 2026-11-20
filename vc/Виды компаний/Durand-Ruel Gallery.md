@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Durand-Ruel Gallery» — VC 1.15, `company_durand_ruel`"
+description: "Вид компании «Durand-Ruel Gallery» — VC 1.15.2, `company_durand_ruel`"
 project: vic3
 audience: agent
 source: vc

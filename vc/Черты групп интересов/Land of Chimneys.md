@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Land of Chimneys» — VC 1.15, `ig_trait_land_of_chimneys`"
+description: "Черта группы интересов «Land of Chimneys» — VC 1.15.2, `ig_trait_land_of_chimneys`"
 project: vic3
 audience: agent
 source: vc

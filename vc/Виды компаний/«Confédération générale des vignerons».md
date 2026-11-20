@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Confédération générale des vignerons»» — VC 1.15, `company_cgv`"
+description: "Вид компании ««Confédération générale des vignerons»» — VC 1.15.2, `company_cgv`"
 project: vic3
 audience: agent
 source: vc

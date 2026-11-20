@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Textile Monopoly» — VC 1.15, `ig_trait_textile_monopoly`"
+description: "Черта группы интересов «Textile Monopoly» — VC 1.15.2, `ig_trait_textile_monopoly`"
 project: vic3
 audience: agent
 source: vc

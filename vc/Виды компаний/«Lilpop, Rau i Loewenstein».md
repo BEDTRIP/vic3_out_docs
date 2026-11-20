@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Lilpop, Rau i Loewenstein»» — VC 1.15, `company_lilpop`"
+description: "Вид компании ««Lilpop, Rau i Loewenstein»» — VC 1.15.2, `company_lilpop`"
 project: vic3
 audience: agent
 source: vc

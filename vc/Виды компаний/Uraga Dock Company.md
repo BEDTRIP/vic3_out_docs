@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Uraga Dock Company» — VC 1.15, `company_uragadockcompany`"
+description: "Вид компании «Uraga Dock Company» — VC 1.15.2, `company_uragadockcompany`"
 project: vic3
 audience: agent
 source: vc

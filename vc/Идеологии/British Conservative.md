@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «British Conservative» — VC 1.15, `ideology_british_conservatism`"
+description: "Идеология «British Conservative» — VC 1.15.2, `ideology_british_conservatism`"
 project: vic3
 audience: agent
 source: vc

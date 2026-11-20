@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Polkist Expansionist» — VC 1.15, `ideology_polk_jingoist_leader`"
+description: "Идеология «Polkist Expansionist» — VC 1.15.2, `ideology_polk_jingoist_leader`"
 project: vic3
 audience: agent
 source: vc
@@ -12,7 +12,7 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
 ---
 # Polkist Expansionist
 
-Идеология · `ideology_polk_jingoist_leader` · `common/ideologies/joi_leader_ideologies.txt:965`
+Идеология · `ideology_polk_jingoist_leader` · `common/ideologies/joi_leader_ideologies.txt:946`
 
 ## Поля
 
@@ -57,12 +57,12 @@ paths: [VC/common/ideologies/joi_leader_ideologies.txt]
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `approve`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `approve`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `strongly_approve`
-- **country_trigger**: скрипт, строки 1021–1027
+- **country_trigger**: скрипт, строки 1002–1008
 - **interest_group_leader_trigger**:
   - `ideology_integralist_valid_trigger` = `yes`
 - **non_interest_group_leader_trigger**:
   - **interest_group**:
     - `ideology_integralist_valid_trigger` = `yes`
-- **interest_group_leader_weight**: скрипт, строки 1039–1044
+- **interest_group_leader_weight**: скрипт, строки 1020–1025
 - **non_interest_group_leader_weight**:
   - `value` = `100`

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Evangelicalism» — VC 1.15, `ideology_evangelical_revival`"
+description: "Идеология «Evangelicalism» — VC 1.15.2, `ideology_evangelical_revival`"
 project: vic3
 audience: agent
 source: vc

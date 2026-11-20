@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Chief of the General Staff» — VC 1.15, `special_chief_of_general_staff`"
+description: "Черта персонажа «Chief of the General Staff» — VC 1.15.2, `special_chief_of_general_staff`"
 project: vic3
 audience: agent
 source: vc

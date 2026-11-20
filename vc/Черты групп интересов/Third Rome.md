@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Third Rome» — VC 1.15, `ig_trait_third_and_last_rome`"
+description: "Черта группы интересов «Third Rome» — VC 1.15.2, `ig_trait_third_and_last_rome`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Civic Watchmen» — VC 1.15, `ig_trait_civic_watchmen`"
+description: "Черта группы интересов «Civic Watchmen» — VC 1.15.2, `ig_trait_civic_watchmen`"
 project: vic3
 audience: agent
 source: vc

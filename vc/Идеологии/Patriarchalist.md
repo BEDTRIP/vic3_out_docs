@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Patriarchalist» — VC 1.15, `ideology_tory_patriarchal`"
+description: "Идеология «Patriarchalist» — VC 1.15.2, `ideology_tory_patriarchal`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Stabilimento Tecnico Triestino»» — VC 1.15, `company_stt`"
+description: "Вид компании ««Stabilimento Tecnico Triestino»» — VC 1.15.2, `company_stt`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Great Awakening» — VC 1.15, `ideology_protestant_awakening`"
+description: "Идеология «Great Awakening» — VC 1.15.2, `ideology_protestant_awakening`"
 project: vic3
 audience: agent
 source: vc

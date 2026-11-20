@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Citizen Militia» — VC 1.15, `ig_trait_loyalty_to_constitution`"
+description: "Черта группы интересов «Citizen Militia» — VC 1.15.2, `ig_trait_loyalty_to_constitution`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «The Way of Benevolence» — VC 1.15, `ig_trait_benevolence_and_righteousness`"
+description: "Черта группы интересов «The Way of Benevolence» — VC 1.15.2, `ig_trait_benevolence_and_righteousness`"
 project: vic3
 audience: agent
 source: vc

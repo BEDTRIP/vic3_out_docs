@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Vertically Integrated Cultivation» — VC 1.15, `united_fruit_banana`"
+description: "Метод производства «Vertically Integrated Cultivation» — VC 1.15.2, `united_fruit_banana`"
 project: vic3
 audience: agent
 source: vc

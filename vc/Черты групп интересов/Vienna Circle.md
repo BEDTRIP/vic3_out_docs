@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Vienna Circle» — VC 1.15, `ig_trait_wiener_kreis`"
+description: "Черта группы интересов «Vienna Circle» — VC 1.15.2, `ig_trait_wiener_kreis`"
 project: vic3
 audience: agent
 source: vc

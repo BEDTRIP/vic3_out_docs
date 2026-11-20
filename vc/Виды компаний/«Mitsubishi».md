@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Mitsubishi»» — VC 1.15, `company_mitsubishi`"
+description: "Вид компании ««Mitsubishi»» — VC 1.15.2, `company_mitsubishi`"
 project: vic3
 audience: agent
 source: vc

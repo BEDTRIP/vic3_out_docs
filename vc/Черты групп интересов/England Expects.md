@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «England Expects» — VC 1.15, `ig_trait_do_his_duty`"
+description: "Черта группы интересов «England Expects» — VC 1.15.2, `ig_trait_do_his_duty`"
 project: vic3
 audience: agent
 source: vc

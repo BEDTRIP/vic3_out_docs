@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Romanticism» — VC 1.15, `ig_trait_romanticism`"
+description: "Черта группы интересов «Romanticism» — VC 1.15.2, `ig_trait_romanticism`"
 project: vic3
 audience: agent
 source: vc

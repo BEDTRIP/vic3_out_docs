@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Royal Society» — VC 1.15, `ig_trait_frs`"
+description: "Черта группы интересов «Royal Society» — VC 1.15.2, `ig_trait_frs`"
 project: vic3
 audience: agent
 source: vc

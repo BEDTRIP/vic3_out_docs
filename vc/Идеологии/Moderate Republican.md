@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Moderate Republican» — VC 1.15, `ideology_opportunistes`"
+description: "Идеология «Moderate Republican» — VC 1.15.2, `ideology_opportunistes`"
 project: vic3
 audience: agent
 source: vc

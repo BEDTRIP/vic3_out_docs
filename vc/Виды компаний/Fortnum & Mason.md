@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Fortnum & Mason» — VC 1.15, `company_Fortnum_Mason`"
+description: "Вид компании «Fortnum & Mason» — VC 1.15.2, `company_Fortnum_Mason`"
 project: vic3
 audience: agent
 source: vc

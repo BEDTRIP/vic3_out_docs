@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Village-based Autonomy» — VC 1.15, `law_gram_swaraj`"
+description: "Закон «Village-based Autonomy» — VC 1.15.2, `law_gram_swaraj`"
 project: vic3
 audience: agent
 source: vc

@@ -9,19 +9,23 @@ generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 ---
 # Термины VC
 
-Свои подсказки-понятия мода (`common/game_concepts`), 15; ссылки на термины игры — в `vanilla/Термины/`. Генерат: текст руками не править, ручной раздел — «## Рабочее».
+Свои подсказки-понятия мода (`common/game_concepts`), 19; ссылки на термины игры — в `vanilla/Термины/`. Генерат: текст руками не править, ручной раздел — «## Рабочее».
 
 - [[vc/Термины/Arab National Fervour|Arab National Fervour]]
 - [[vc/Термины/Arab Stability|Arab Stability]]
 - [[vc/Термины/Caretaker Government|Caretaker Government]]
+- [[vc/Термины/Chief Justice|Chief Justice]]
 - [[vc/Термины/Commonwealth Sovereignty|Commonwealth Sovereignty]]
 - [[vc/Термины/Court Dissatisfaction|Court Dissatisfaction]]
 - [[vc/Термины/Crownland Autonomy|Crownland Autonomy]]
 - [[vc/Термины/English MPs|English MPs]]
 - [[vc/Термины/Garrisons State|Garrisons State]]
+- [[vc/Термины/Grand Vizier|Grand Vizier]]
 - [[vc/Термины/Imperial Dominion|Imperial Dominion]]
 - [[vc/Термины/Indian Subcontinent|Indian Subcontinent]]
 - [[vc/Термины/Irish MPs|Irish MPs]]
+- [[vc/Термины/Premier|Premier]]
+- [[vc/Термины/Prime Minister|Prime Minister]]
 - [[vc/Термины/Scottish MPs|Scottish MPs]]
 - [[vc/Термины/Sublime Porte Authority|Sublime Porte Authority]]
 - [[vc/Термины/Welsh MPs|Welsh MPs]]

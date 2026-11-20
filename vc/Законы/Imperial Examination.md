@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Imperial Examination» — VC 1.15, `law_imperial_examination`"
+description: "Закон «Imperial Examination» — VC 1.15.2, `law_imperial_examination`"
 project: vic3
 audience: agent
 source: vc

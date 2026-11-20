@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Protestant Church» — VC 1.15, `ideology_protestant_church`"
+description: "Идеология «Protestant Church» — VC 1.15.2, `ideology_protestant_church`"
 project: vic3
 audience: agent
 source: vc

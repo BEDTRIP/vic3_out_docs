@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Mining Titans» — VC 1.15, `ig_trait_gigantes_mineros`"
+description: "Черта группы интересов «Mining Titans» — VC 1.15.2, `ig_trait_gigantes_mineros`"
 project: vic3
 audience: agent
 source: vc

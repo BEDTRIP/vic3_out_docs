@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Church of England» — VC 1.15, `ideology_british_anglicanism`"
+description: "Идеология «Church of England» — VC 1.15.2, `ideology_british_anglicanism`"
 project: vic3
 audience: agent
 source: vc

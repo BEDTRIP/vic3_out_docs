@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Carnegie Steel Company» — VC 1.15, `company_us_steel`"
+description: "Вид компании «Carnegie Steel Company» — VC 1.15.2, `company_us_steel`"
 project: vic3
 audience: agent
 source: vc
@@ -36,7 +36,7 @@ replaces: "[[vanilla/Виды компаний/Carnegie Steel Company]]"
 - **attainable**: скрипт, строки 1919–1925
 - **possible**: скрипт, строки 1927–1937
 - **prosperity_modifier**:
-  - `state_building_construction_sector_max_level_add` = `5`
+  - [[vanilla/движок/Модификаторы S#^m-state-building-construction-sector-max-level-add|state_building_construction_sector_max_level_add]] = `5`
   - [[vanilla/движок/Модификаторы G#^m-goods-output-steel-mult|goods_output_steel_mult]] = `0.1` → [[vanilla/Товары/Сталь|Сталь]]
   - [[vanilla/движок/Модификаторы G#^m-goods-output-steamers-mult|goods_output_steamers_mult]] = `0.1` → [[vanilla/Товары/Пароходы|Пароходы]]
 - **ai_will_do**: скрипт, строки 1945–1951

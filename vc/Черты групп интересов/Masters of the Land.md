@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Masters of the Land» — VC 1.15, `ig_trait_master_of_farm`"
+description: "Черта группы интересов «Masters of the Land» — VC 1.15.2, `ig_trait_master_of_farm`"
 project: vic3
 audience: agent
 source: vc

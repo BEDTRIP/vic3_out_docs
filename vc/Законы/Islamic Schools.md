@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Islamic Schools» — VC 1.15, `law_madrasa`"
+description: "Закон «Islamic Schools» — VC 1.15.2, `law_madrasa`"
 project: vic3
 audience: agent
 source: vc

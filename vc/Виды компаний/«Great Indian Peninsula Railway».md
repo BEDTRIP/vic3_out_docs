@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Great Indian Peninsula Railway»» — VC 1.15, `company_great_indian_railway`"
+description: "Вид компании ««Great Indian Peninsula Railway»» — VC 1.15.2, `company_great_indian_railway`"
 project: vic3
 audience: agent
 source: vc

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Tyranny of the Majority» — VC 1.15, `ig_trait_tyranny_of_majority`"
+description: "Черта группы интересов «Tyranny of the Majority» — VC 1.15.2, `ig_trait_tyranny_of_majority`"
 project: vic3
 audience: agent
 source: vc

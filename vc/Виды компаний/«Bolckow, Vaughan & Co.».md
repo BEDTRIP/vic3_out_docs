@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Bolckow, Vaughan & Co.»» — VC 1.15, `company_bolckow_vaughan`"
+description: "Вид компании ««Bolckow, Vaughan & Co.»» — VC 1.15.2, `company_bolckow_vaughan`"
 project: vic3
 audience: agent
 source: vc

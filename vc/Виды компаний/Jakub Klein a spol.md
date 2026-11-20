@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Jakub Klein a spol» — VC 1.15, `company_jakub_klein`"
+description: "Вид компании «Jakub Klein a spol» — VC 1.15.2, `company_jakub_klein`"
 project: vic3
 audience: agent
 source: vc

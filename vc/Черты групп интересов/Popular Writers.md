@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Popular Writers» — VC 1.15, `ig_trait_popular_writers`"
+description: "Черта группы интересов «Popular Writers» — VC 1.15.2, `ig_trait_popular_writers`"
 project: vic3
 audience: agent
 source: vc

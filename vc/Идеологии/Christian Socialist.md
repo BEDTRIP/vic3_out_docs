@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Christian Socialist» — VC 1.15, `ideology_catholicisme_social`"
+description: "Идеология «Christian Socialist» — VC 1.15.2, `ideology_catholicisme_social`"
 project: vic3
 audience: agent
 source: vc

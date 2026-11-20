@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — VC 1.15, `company_fcm`"
+description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — VC 1.15.2, `company_fcm`"
 project: vic3
 audience: agent
 source: vc

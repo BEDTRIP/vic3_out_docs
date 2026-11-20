@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Sunni Sharia» — VC 1.15, `ideology_shariah`"
+description: "Идеология «Sunni Sharia» — VC 1.15.2, `ideology_shariah`"
 project: vic3
 audience: agent
 source: vc

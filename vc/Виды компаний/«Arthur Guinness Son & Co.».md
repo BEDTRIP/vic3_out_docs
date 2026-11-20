@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Arthur Guinness Son & Co.»» — VC 1.15, `company_guinness`"
+description: "Вид компании ««Arthur Guinness Son & Co.»» — VC 1.15.2, `company_guinness`"
 project: vic3
 audience: agent
 source: vc

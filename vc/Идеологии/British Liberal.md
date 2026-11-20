@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «British Liberal» — VC 1.15, `ideology_english_enlightlism`"
+description: "Идеология «British Liberal» — VC 1.15.2, `ideology_english_enlightlism`"
 project: vic3
 audience: agent
 source: vc
@@ -20,28 +20,28 @@ paths: [VC/common/ideologies/joi_ig_ideologies.txt]
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Этническое государство|Этническое государство]] = `neutral`
   - [[vanilla/Законы/Подданство|Подданство]] = `disapprove`
-  - [[vanilla/Законы/Национальное превосходство|Национальное превосходство]] = `neutral`
-  - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `strongly_approve`
+  - [[vanilla/Законы/Национальное превосходство|Национальное превосходство]] = `approve`
+  - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `approve`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `strongly_approve`
-  - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `approve`
+  - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `neutral`
 - **lawgroup_distribution_of_power**:
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `approve`
   - [[vanilla/Законы/Имущественный ценз|Имущественный ценз]] = `approve`
   - [[vanilla/Законы/Голосуют богатые|Голосуют богатые]] = `neutral`
-  - [[vanilla/Законы/Голосуют землевладельцы|Голосуют землевладельцы]] = `neutral`
+  - [[vanilla/Законы/Голосуют землевладельцы|Голосуют землевладельцы]] = `disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `disapprove`
-  - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
-  - [[vanilla/Законы/Олигархия|Олигархия]] = `disapprove`
-  - [[vanilla/Законы/Автократия|Автократия]] = `disapprove`
+  - [[vanilla/Законы/Технократия|Технократия]] = `disapprove`
+  - [[vanilla/Законы/Олигархия|Олигархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
 - **lawgroup_migration**:
   - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `neutral`
   - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `approve`
   - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `disapprove`
 - **lawgroup_labour_associations**:
-  - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `neutral`
+  - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `disapprove`
   - [[vanilla/Законы/Система гильдий|Система гильдий]] = `disapprove`
-  - [[vanilla/Законы/Запрет забастовок|Запрет забастовок]] = `disapprove`
+  - [[vanilla/Законы/Запрет забастовок|Запрет забастовок]] = `neutral`
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `neutral`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `approve`
 - **lawgroup_slavery**:

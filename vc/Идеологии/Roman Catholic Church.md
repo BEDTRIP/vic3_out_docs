@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Roman Catholic Church» — VC 1.15, `ideology_catholic_church`"
+description: "Идеология «Roman Catholic Church» — VC 1.15.2, `ideology_catholic_church`"
 project: vic3
 audience: agent
 source: vc

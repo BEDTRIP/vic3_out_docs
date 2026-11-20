@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Vanguards of Civilization» — VC 1.15, `ig_trait_kazoku_system`"
+description: "Черта группы интересов «Vanguards of Civilization» — VC 1.15.2, `ig_trait_kazoku_system`"
 project: vic3
 audience: agent
 source: vc

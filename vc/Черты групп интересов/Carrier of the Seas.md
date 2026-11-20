@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Carrier of the Seas» — VC 1.15, `ig_trait_carrier_of_the_seas`"
+description: "Черта группы интересов «Carrier of the Seas» — VC 1.15.2, `ig_trait_carrier_of_the_seas`"
 project: vic3
 audience: agent
 source: vc

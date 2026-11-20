@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Railway Bonds» — VC 1.15, `ig_trait_railway_bonds`"
+description: "Черта группы интересов «Railway Bonds» — VC 1.15.2, `ig_trait_railway_bonds`"
 project: vic3
 audience: agent
 source: vc

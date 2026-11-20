@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Citizen Salon» — VC 1.15, `ig_trait_citizen_salon`"
+description: "Черта группы интересов «Citizen Salon» — VC 1.15.2, `ig_trait_citizen_salon`"
 project: vic3
 audience: agent
 source: vc

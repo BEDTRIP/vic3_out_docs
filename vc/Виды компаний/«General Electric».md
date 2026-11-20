@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««General Electric»» — VC 1.15, `company_general_electric`"
+description: "Вид компании ««General Electric»» — VC 1.15.2, `company_general_electric`"
 project: vic3
 audience: agent
 source: vc

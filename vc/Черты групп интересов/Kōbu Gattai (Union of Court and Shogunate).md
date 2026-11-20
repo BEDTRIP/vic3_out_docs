@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Kōbu Gattai (Union of Court and Shogunate)» — VC 1.15, `ig_trait_kobugattai`"
+description: "Черта группы интересов «Kōbu Gattai (Union of Court and Shogunate)» — VC 1.15.2, `ig_trait_kobugattai`"
 project: vic3
 audience: agent
 source: vc

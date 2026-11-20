@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «American Dream» — VC 1.15, `ig_trait_american_dream`"
+description: "Черта группы интересов «American Dream» — VC 1.15.2, `ig_trait_american_dream`"
 project: vic3
 audience: agent
 source: vc

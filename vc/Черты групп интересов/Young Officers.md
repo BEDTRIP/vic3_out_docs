@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Young Officers» — VC 1.15, `ig_trait_genc_subaylar`"
+description: "Черта группы интересов «Young Officers» — VC 1.15.2, `ig_trait_genc_subaylar`"
 project: vic3
 audience: agent
 source: vc

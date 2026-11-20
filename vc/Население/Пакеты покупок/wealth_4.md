@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Пакет покупок «wealth_4» — VC 1.15, `wealth_4`"
+description: "Пакет покупок «wealth_4» — VC 1.15.2, `wealth_4`"
 project: vic3
 audience: agent
 source: vc

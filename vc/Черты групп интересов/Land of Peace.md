@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Land of Peace» — VC 1.15, `ig_trait_land_of_peace`"
+description: "Черта группы интересов «Land of Peace» — VC 1.15.2, `ig_trait_land_of_peace`"
 project: vic3
 audience: agent
 source: vc

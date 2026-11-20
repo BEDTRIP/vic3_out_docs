@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Standard Oil»» — VC 1.15, `company_standard_oil`"
+description: "Вид компании ««Standard Oil»» — VC 1.15.2, `company_standard_oil`"
 project: vic3
 audience: agent
 source: vc
