@@ -31,7 +31,7 @@ replaces: "[[vanilla/Методы производства/Дизельный н
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `20` → [[vanilla/Товары/Инструменты|Инструменты]]
     - `goods_input_light_fuel_add` = `3` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_output_copper_add` = `85` → [[tr/Товары/Медь|Медь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-copper-add|goods_output_copper_add]] = `85` → [[tr/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

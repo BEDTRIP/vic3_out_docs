@@ -22,7 +22,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **unlocking_technologies**: [[tr/Технологии/Highway Systems|Highway Systems]]
 - **modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-max-weekly-construction-progress-add|country_max_weekly_construction_progress_add]] = `70`
-  - `state_building_construction_sector_max_level_add` = `15`
+  - [[vanilla/движок/Модификаторы S#^m-state-building-construction-sector-max-level-add|state_building_construction_sector_max_level_add]] = `15`
   - `state_building_hydroelectric_power_plant_max_level_add` = `2`
 - **ai_weight**: скрипт, строки 424–430
 

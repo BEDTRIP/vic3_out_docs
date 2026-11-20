@@ -26,7 +26,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - [[vanilla/движок/Модификаторы G#^m-goods-input-explosives-add|goods_input_explosives_add]] = `15` → [[vanilla/Товары/Взрывчатка|Взрывчатка]]
     - `goods_input_copperwires_add` = `2` → [[tr/Товары/Wires|Wires]]
     - `goods_input_telecommunications_add` = `5` → [[tr/Товары/Telecommunications|Telecommunications]]
-    - `goods_output_copper_add` = `40` → [[tr/Товары/Медь|Медь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-copper-add|goods_output_copper_add]] = `40` → [[tr/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-engineers-add|building_employment_engineers_add]] = `250` → [[tr/Население/Типы/Инженеры|Инженеры]]
 

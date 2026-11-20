@@ -21,7 +21,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_mr_military.txt]
 - **category**: `military`
 - **modifier**:
   - [[vanilla/движок/Модификаторы U#^m-unit-morale-loss-mult|unit_morale_loss_mult]] = `-0.05`
-  - [[vanilla/движок/Модификаторы C#^m-country-war-exhaustion-casualties-mult|country_war_exhaustion_casualties_mult]] = `-0.05`
+  - `country_war_exhaustion_casualties_mult` = `-0.05`
 - **unlocking_technologies**: [[tr/Технологии/Montgolfier Balloons|Montgolfier Balloons]]
 - **ai_weight**: скрипт, строки 34–36
 

@@ -23,7 +23,7 @@ paths: [TechRes+Kuromi/t&r/common/technology/technologies/ztr_new_society.txt]
 - **modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-port-throughput-add|building_port_throughput_add]] = `0.05` → [[tr/Здания/Порты|Порты]]
   - [[vanilla/движок/Модификаторы S#^m-state-market-access-price-impact|state_market_access_price_impact]] = `0.05`
-  - `state_building_construction_sector_max_level_add` = `15`
+  - [[vanilla/движок/Модификаторы S#^m-state-building-construction-sector-max-level-add|state_building_construction_sector_max_level_add]] = `15`
   - [[vanilla/движок/Модификаторы M#^m-military-formation-mobilization-speed-mult|military_formation_mobilization_speed_mult]] = `0.1`
 - **ai_weight**: скрипт, строки 1053–1055
 

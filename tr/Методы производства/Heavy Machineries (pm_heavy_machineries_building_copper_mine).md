@@ -28,7 +28,7 @@ paths: [TechRes+Kuromi/t&r/common/production_methods/ztr_new_production_methods.
     - `goods_input_robotics_add` = `7` → [[tr/Товары/Robotics|Robotics]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-engines-add|goods_input_engines_add]] = `5` → [[vanilla/Товары/Двигатели|Двигатели]]
     - `goods_input_light_fuel_add` = `5` → [[tr/Товары/Light Fuel|Light Fuel]]
-    - `goods_output_copper_add` = `130` → [[tr/Товары/Медь|Медь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-copper-add|goods_output_copper_add]] = `130` → [[tr/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `2250` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-machinists-add|building_employment_machinists_add]] = `1000` → [[vanilla/Население/Типы/Механики|Механики]]
