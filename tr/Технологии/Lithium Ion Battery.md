@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Lithium Ion Battery» — T&R 1.13, `lithium_battery`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Expansionist Zeal» — VC 1.15, `ig_trait_war_frenzy`"
 project: vic3
 audience: agent

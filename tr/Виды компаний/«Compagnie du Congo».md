@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Compagnie du Congo»» — T&R 1.13, `company_ccci`"
 project: vic3
 audience: agent

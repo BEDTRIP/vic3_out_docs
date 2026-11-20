@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода grey diplo «Military Relevance» — подсказка-понятие Victoria 3 1.13 (`concept_military_relevance`)"
 project: vic3
 audience: agent

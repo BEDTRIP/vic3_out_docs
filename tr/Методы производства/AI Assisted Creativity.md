@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «AI Assisted Creativity» — T&R 1.13, `pm_ai_assisted_art`"
 project: vic3
 audience: agent

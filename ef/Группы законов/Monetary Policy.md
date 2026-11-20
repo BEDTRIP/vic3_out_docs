@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Monetary Policy» — E&F 1.13, `lawgroup_monetary_policy`"
 project: vic3
 audience: agent

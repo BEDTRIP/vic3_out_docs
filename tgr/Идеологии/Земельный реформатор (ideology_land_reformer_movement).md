@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Земельный реформатор (ideology_land_reformer_movement)» — TGR 1.15, `ideology_land_reformer_movement`"
 project: vic3
 audience: agent

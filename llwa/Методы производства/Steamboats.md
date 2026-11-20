@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Steamboats» — LLWA 1.13, `LLWA_pm_steam_ferries`"
 project: vic3
 audience: agent

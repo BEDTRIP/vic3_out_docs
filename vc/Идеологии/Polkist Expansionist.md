@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Polkist Expansionist» — VC 1.15, `ideology_polk_jingoist_leader`"
 project: vic3
 audience: agent

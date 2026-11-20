@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Accommodationist» — Hail Columbia 1.13, `ideology_usfp_accomodationist`"
 project: vic3
 audience: agent

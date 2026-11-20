@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_motor_industry)» — ваниль 1.15, `pmg_base_building_motor_industry`"
 project: vic3
 audience: agent

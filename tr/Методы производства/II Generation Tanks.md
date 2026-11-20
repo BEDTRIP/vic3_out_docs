@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «II Generation Tanks» — T&R 1.13, `pm_second_gen_tank_production`"
 project: vic3
 audience: agent

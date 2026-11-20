@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Imperial Examination System» — Mandate of Heaven 1.15, `law_imperial_examinations`"
 project: vic3
 audience: agent

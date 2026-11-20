@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Процесс сбора урожая (pmg_harvesting_process_building_millet_farm)» — T&R 1.13, `pmg_harvesting_process_building_millet_farm`"
 project: vic3
 audience: agent

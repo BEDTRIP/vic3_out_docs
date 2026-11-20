@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Batteries» — T&R 1.13, `batteries`"
 project: vic3
 audience: agent

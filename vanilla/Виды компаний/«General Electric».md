@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««General Electric»» — ваниль 1.15, `company_general_electric`"
 project: vic3
 audience: agent

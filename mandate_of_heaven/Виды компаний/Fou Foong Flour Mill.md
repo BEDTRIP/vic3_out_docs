@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Fou Foong Flour Mill» — Mandate of Heaven 1.15, `company_fou_foong_flour_mill`"
 project: vic3
 audience: agent

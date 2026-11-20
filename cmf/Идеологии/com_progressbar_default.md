@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «com_progressbar_default» — CMF 1.15, `com_progressbar_default`"
 project: vic3
 audience: agent

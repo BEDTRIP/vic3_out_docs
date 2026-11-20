@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Czech Koruna» — E&F 1.13, `law_krone_czech_koruna_currency`"
 project: vic3
 audience: agent

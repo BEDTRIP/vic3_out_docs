@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Medical Imaging» — T&R 1.13, `advanced_medical_imaging`"
 project: vic3
 audience: agent

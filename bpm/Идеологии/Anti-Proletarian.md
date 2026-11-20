@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Anti-Proletarian» — BPM 1.13, `ideology_gov_anti_proletarian`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banque de France» — E&F 1.13, `company_BanqueDeFrance`"
 project: vic3
 audience: agent

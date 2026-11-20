@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Elections» — TGR 1.15, `law_no_election`"
 project: vic3
 audience: agent

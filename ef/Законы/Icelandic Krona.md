@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Icelandic Krona» — E&F 1.13, `law_krone_icelandic_krona_currency`"
 project: vic3
 audience: agent

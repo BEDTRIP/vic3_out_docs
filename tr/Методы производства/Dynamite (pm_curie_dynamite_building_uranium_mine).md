@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Dynamite (pm_curie_dynamite_building_uranium_mine)» — T&R 1.13, `pm_curie_dynamite_building_uranium_mine`"
 project: vic3
 audience: agent

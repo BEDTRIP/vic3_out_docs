@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««C.A. La Electricidad de Caracas»» — grey USU 1.13, `company_electricidad_de_caracas`"
 project: vic3
 audience: agent

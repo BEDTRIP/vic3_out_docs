@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Interactive Media» — T&R 1.13, `interactive_media`"
 project: vic3
 audience: agent

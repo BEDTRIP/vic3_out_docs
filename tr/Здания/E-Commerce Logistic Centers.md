@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «E-Commerce Logistic Centers» — T&R 1.13, `building_ecommerce_logistics`"
 project: vic3
 audience: agent

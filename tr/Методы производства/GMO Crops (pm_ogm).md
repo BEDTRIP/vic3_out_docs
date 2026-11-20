@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «GMO Crops (pm_ogm)» — T&R 1.13, `pm_ogm`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Da_Qing_Bank» — grey USU 1.13, `company_Da_Qing_Bank`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Позитивист (ideology_positivist_movement)» — TGR 1.15, `ideology_positivist_movement`"
 project: vic3
 audience: agent

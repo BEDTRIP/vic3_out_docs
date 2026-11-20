@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««De Telegraaf»» — Morgenröte 1.15, `pbi_company_de_telegraaf`"
 project: vic3
 audience: agent

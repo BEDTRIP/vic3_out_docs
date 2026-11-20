@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Fuel Cell» — T&R 1.13, `pmg_base_building_fuel_cell`"
 project: vic3
 audience: agent

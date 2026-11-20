@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «International Travel» — T&R 1.13, `international_travel`"
 project: vic3
 audience: agent

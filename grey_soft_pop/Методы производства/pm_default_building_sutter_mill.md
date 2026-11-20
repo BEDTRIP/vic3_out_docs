@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_sutter_mill» — grey soft pop 1.15, `pm_default_building_sutter_mill`"
 project: vic3
 audience: agent

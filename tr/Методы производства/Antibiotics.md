@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Antibiotics» — T&R 1.13, `pm_antibiotics_pharmaceuticals`"
 project: vic3
 audience: agent

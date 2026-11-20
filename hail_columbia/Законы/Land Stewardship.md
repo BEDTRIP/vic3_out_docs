@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Land Stewardship» — Hail Columbia 1.13, `law_usfp_tribal_land_ownership`"
 project: vic3
 audience: agent

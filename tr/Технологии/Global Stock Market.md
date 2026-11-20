@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Global Stock Market» — T&R 1.13, `global_stock_market`"
 project: vic3
 audience: agent

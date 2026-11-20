@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Out of Practice» — VC 1.15, `ig_trait_fighting_elsewhere`"
 project: vic3
 audience: agent

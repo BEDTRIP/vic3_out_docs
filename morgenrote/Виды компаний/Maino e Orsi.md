@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Maino e Orsi» — Morgenröte 1.15, `elgar_company_maino_e_orsi`"
 project: vic3
 audience: agent

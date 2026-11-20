@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «ASAT Weapons» — T&R 1.13, `anti_satellite_weapons`"
 project: vic3
 audience: agent

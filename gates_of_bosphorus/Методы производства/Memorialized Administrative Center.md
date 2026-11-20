@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Memorialized Administrative Center» — Gates of Bosphorus 1.15, `pm_gbbf_topkapi_palace_museum`"
 project: vic3
 audience: agent

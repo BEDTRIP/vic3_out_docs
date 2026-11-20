@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Construction Regulator» — PSC 1.13, `building_construction_regulator`"
 project: vic3
 audience: agent

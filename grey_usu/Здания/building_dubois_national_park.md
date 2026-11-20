@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «building_dubois_national_park» — grey USU 1.13, `building_dubois_national_park`"
 project: vic3
 audience: agent

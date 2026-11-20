@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Constitutionalist» — Hail Columbia 1.13, `ideology_usfp_american_constitution_movement`"
 project: vic3
 audience: agent

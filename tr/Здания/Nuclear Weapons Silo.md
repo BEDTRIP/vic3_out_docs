@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Nuclear Weapons Silo» — T&R 1.13, `building_nuclear_weapons_silo`"
 project: vic3
 audience: agent

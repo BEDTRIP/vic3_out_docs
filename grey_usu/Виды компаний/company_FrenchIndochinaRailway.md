@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_FrenchIndochinaRailway» — grey USU 1.13, `company_FrenchIndochinaRailway`"
 project: vic3
 audience: agent

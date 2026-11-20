@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de México» — E&F 1.13, `company_BancoDeMexico`"
 project: vic3
 audience: agent

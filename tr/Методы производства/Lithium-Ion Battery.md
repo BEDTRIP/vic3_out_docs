@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Lithium-Ion Battery» — T&R 1.13, `pm_lithium_battery`"
 project: vic3
 audience: agent

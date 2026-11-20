@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Lee Wilson & Company» — ваниль 1.15, `company_lee_wilson`"
 project: vic3
 audience: agent

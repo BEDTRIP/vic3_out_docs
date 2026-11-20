@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «ASML» — T&R 1.13, `company_asml`"
 project: vic3
 audience: agent

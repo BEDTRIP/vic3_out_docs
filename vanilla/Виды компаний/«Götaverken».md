@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Götaverken»» — ваниль 1.15, `company_gotaverken`"
 project: vic3
 audience: agent

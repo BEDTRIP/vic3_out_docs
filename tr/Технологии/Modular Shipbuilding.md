@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modular Shipbuilding» — T&R 1.13, `modular_shipbuilding`"
 project: vic3
 audience: agent

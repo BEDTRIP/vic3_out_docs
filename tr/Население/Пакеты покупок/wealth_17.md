@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Пакет покупок «wealth_17» — T&R 1.13, `wealth_17`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Military Equipment Supply Treaty» — подсказка-понятие Victoria 3 1.13 (`concept_m_e_s_a`)"
 project: vic3
 audience: agent

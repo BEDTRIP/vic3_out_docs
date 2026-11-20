@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Потребность населения «Loans» — E&F 1.13, `popneed_currency`"
 project: vic3
 audience: agent

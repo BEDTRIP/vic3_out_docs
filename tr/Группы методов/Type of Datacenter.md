@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Type of Datacenter» — T&R 1.13, `pmg_base_building_datacenter`"
 project: vic3
 audience: agent

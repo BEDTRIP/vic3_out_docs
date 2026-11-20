@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Ferrari» — T&R 1.13, `company_ferrari`"
 project: vic3
 audience: agent

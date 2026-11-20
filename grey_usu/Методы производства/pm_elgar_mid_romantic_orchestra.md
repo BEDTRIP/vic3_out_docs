@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_elgar_mid_romantic_orchestra» — grey USU 1.13, `pm_elgar_mid_romantic_orchestra`"
 project: vic3
 audience: agent

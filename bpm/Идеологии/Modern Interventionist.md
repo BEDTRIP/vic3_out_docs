@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Modern Interventionist» — BPM 1.13, `ideology_eco_modern_interventionist`"
 project: vic3
 audience: agent

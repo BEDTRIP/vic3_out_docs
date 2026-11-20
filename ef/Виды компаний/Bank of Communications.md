@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bank of Communications» — E&F 1.13, `company_BankBOCOM`"
 project: vic3
 audience: agent

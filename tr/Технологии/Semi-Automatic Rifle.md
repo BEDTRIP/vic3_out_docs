@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Semi-Automatic Rifle» — T&R 1.13, `semi_automatic_rifle`"
 project: vic3
 audience: agent

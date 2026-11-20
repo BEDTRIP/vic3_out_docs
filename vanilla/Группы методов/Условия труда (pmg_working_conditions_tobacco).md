@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Условия труда (pmg_working_conditions_tobacco)» — ваниль 1.15, `pmg_working_conditions_tobacco`"
 project: vic3
 audience: agent

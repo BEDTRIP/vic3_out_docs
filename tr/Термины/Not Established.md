@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Not Established» — подсказка-понятие Victoria 3 1.13 (`concept_un_institution_imf_not_established`)"
 project: vic3
 audience: agent

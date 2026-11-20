@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Regulated Adoption» — T&R 1.13, `law_regulated_adoption`"
 project: vic3
 audience: agent

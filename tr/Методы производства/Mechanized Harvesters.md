@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Mechanized Harvesters» — T&R 1.13, `pm_mechanized_harvesters`"
 project: vic3
 audience: agent

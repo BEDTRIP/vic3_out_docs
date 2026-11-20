@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Van Transportation» — T&R 1.13, `pm_truck_van_transportation`"
 project: vic3
 audience: agent

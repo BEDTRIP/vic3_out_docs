@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «External Exchange Standard» — E&F 1.13, `law_external_exchange_standard`"
 project: vic3
 audience: agent

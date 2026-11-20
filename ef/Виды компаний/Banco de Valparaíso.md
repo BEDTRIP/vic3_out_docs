@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de Valparaíso» — E&F 1.13, `company_BancoDeValparaiso`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «bg_ef_private_construction» — E&F 1.13, `bg_ef_private_construction`"
 project: vic3
 audience: agent

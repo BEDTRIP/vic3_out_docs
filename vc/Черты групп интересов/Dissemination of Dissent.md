@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Dissemination of Dissent» — VC 1.15, `ig_trait_spread_of_dissent`"
 project: vic3
 audience: agent

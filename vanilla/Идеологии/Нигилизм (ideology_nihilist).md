@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Нигилизм (ideology_nihilist)» — ваниль 1.15, `ideology_nihilist`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Samsung» — T&R 1.13, `company_samsung`"
 project: vic3
 audience: agent

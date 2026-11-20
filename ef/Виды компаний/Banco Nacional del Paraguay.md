@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Nacional del Paraguay» — E&F 1.13, `company_BancoNacionalDelParaguay`"
 project: vic3
 audience: agent

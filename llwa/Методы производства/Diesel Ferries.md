@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Diesel Ferries» — LLWA 1.13, `LLWA_pm_motor_ferries`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Uranium Mines» — T&R 1.13, `bg_uranium_mining`"
 project: vic3
 audience: agent

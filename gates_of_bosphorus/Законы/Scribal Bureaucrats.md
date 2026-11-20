@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Scribal Bureaucrats» — Gates of Bosphorus 1.15, `law_scribal_bureaucrats`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Free Trade» — VC 1.15, `ig_trait_free_trade_policy`"
 project: vic3
 audience: agent

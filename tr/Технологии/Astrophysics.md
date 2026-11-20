@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Astrophysics» — T&R 1.13, `verrier_astro_physics_tech`"
 project: vic3
 audience: agent

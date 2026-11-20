@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Machine Weaving Bureau» — Mandate of Heaven 1.15, `company_machine_weaving_bureau`"
 project: vic3
 audience: agent

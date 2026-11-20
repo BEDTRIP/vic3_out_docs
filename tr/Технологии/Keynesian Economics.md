@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Keynesian Economics» — T&R 1.13, `keynesian_economics`"
 project: vic3
 audience: agent

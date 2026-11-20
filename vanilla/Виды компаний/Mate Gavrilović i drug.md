@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Mate Gavrilović i drug» — ваниль 1.15, `company_mate_gavrilovic`"
 project: vic3
 audience: agent

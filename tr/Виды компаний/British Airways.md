@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «British Airways» — T&R 1.13, `curtiss_company_imperial_airways`"
 project: vic3
 audience: agent

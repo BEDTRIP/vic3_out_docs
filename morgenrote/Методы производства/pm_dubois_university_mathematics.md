@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_dubois_university_mathematics» — Morgenröte 1.15, `pm_dubois_university_mathematics`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Radar Fortification» — T&R 1.13, `pm_naval_fortification_radar_batteries`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «E-Government» — T&R 1.13, `e_government`"
 project: vic3
 audience: agent

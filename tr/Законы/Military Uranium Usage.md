@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Military Uranium Usage» — T&R 1.13, `law_uranium_full_usage`"
 project: vic3
 audience: agent

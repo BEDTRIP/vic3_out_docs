@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Great Awakening» — VC 1.15, `ideology_protestant_awakening`"
 project: vic3
 audience: agent

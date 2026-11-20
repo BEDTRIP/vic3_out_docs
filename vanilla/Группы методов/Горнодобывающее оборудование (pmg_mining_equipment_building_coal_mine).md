@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Горнодобывающее оборудование (pmg_mining_equipment_building_coal_mine)» — ваниль 1.15, `pmg_mining_equipment_building_coal_mine`"
 project: vic3
 audience: agent

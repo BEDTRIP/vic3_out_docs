@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mobile Devices» — T&R 1.13, `mobile_devices`"
 project: vic3
 audience: agent

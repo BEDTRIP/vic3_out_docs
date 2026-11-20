@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «National Radio Network» — T&R 1.13, `pm_national_radio_network_building_telecommunications`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Constitutionalist» — Gates of Bosphorus 1.15, `ideology_gbbf_constitutionalist`"
 project: vic3
 audience: agent

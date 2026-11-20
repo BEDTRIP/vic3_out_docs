@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Kraft Recovery Process» — T&R 1.13, `kraft_recovery_process`"
 project: vic3
 audience: agent

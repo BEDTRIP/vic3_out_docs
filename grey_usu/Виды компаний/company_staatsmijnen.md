@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_staatsmijnen» — grey USU 1.13, `company_staatsmijnen`"
 project: vic3
 audience: agent

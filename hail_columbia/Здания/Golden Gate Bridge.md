@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Golden Gate Bridge» — Hail Columbia 1.13, `building_usfp_golden_gate_bridge`"
 project: vic3
 audience: agent

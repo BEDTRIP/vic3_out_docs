@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Bongah-e Enhesar-e Saderat-e Taryak»» — ваниль 1.15, `company_opium_export_monopoly`"
 project: vic3
 audience: agent

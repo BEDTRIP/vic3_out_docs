@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Market Liquidity» — E&F 1.13, `pmg_market_liquidity`"
 project: vic3
 audience: agent

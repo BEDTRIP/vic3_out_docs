@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_government_aid_building_arms_industry_0» — E&F 1.13, `pm_government_aid_building_arms_industry_0`"
 project: vic3
 audience: agent

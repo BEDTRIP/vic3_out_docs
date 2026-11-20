@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Fiat Standard» — E&F 1.13, `law_fiat_standard`"
 project: vic3
 audience: agent

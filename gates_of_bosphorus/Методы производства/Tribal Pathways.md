@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Tribal Pathways» — Gates of Bosphorus 1.15, `pm_gbbf_tribal_paths`"
 project: vic3
 audience: agent

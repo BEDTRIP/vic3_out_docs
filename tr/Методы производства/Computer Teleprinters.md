@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Computer Teleprinters» — T&R 1.13, `pm_computer_teleprinters`"
 project: vic3
 audience: agent

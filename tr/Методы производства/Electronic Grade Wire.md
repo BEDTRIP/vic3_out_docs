@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Electronic Grade Wire» — T&R 1.13, `pm_electronic_grade_wires`"
 project: vic3
 audience: agent

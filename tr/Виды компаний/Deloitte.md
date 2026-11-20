@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Deloitte» — T&R 1.13, `company_deloitte`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Klabin Irmãos & Cia.»» — ваниль 1.15, `company_kablin`"
 project: vic3
 audience: agent

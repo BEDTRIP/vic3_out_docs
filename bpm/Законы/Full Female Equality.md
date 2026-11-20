@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Full Female Equality» — BPM 1.13, `law_womens_suffrage_upgraded`"
 project: vic3
 audience: agent

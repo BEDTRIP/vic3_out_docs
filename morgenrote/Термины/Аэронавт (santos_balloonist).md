@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Morgenröte «Аэронавт (santos_balloonist)» — подсказка-понятие Victoria 3 1.15 (`concept_santos_balloonist`)"
 project: vic3
 audience: agent

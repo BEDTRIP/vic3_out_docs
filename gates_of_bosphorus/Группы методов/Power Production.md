@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Power Production» — Gates of Bosphorus 1.15, `pmg_gbbf_nile_hydroelectricity`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Prefabricated Concrete Buildings» — T&R 1.13, `prefabricated_concrete_buildings`"
 project: vic3
 audience: agent

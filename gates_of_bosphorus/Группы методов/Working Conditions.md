@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Working Conditions» — Gates of Bosphorus 1.15, `pmg_esparto_exploitation`"
 project: vic3
 audience: agent

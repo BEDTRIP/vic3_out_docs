@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «AGI» — T&R 1.13, `artificial_general_intelligence`"
 project: vic3
 audience: agent

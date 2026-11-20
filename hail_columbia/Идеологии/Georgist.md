@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Georgist» — Hail Columbia 1.13, `ideology_usfp_georgist_leader`"
 project: vic3
 audience: agent

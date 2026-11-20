@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Вторичный (pmg_secondary_building_millet_farm)» — ваниль 1.15, `pmg_secondary_building_millet_farm`"
 project: vic3
 audience: agent

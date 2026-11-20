@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««General Electric»» — grey USU 1.13, `company_general_electric`"
 project: vic3
 audience: agent

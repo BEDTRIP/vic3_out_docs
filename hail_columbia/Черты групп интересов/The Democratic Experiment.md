@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «The Democratic Experiment» — Hail Columbia 1.13, `usfp_ig_trait_democratic_experiment`"
 project: vic3
 audience: agent

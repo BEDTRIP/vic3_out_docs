@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mecha Engineering» — T&R 1.13, `mecha_engineering`"
 project: vic3
 audience: agent

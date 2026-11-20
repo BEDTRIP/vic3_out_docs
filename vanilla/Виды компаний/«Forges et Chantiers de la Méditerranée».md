@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — ваниль 1.15, `company_fcm`"
 project: vic3
 audience: agent

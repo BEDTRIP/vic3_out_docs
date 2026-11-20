@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Alphabet (Google)» — T&R 1.13, `company_alphabet`"
 project: vic3
 audience: agent

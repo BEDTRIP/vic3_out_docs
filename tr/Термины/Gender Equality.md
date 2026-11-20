@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Gender Equality» — подсказка-понятие Victoria 3 1.13 (`concept_un_women_rights_gender_equality`)"
 project: vic3
 audience: agent

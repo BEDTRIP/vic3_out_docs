@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Autonomous & Remote Ops Mining» — T&R 1.13, `autonomous_and_remote_ops_mining`"
 project: vic3
 audience: agent

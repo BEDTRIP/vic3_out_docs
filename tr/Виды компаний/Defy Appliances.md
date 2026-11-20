@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Defy Appliances» — T&R 1.13, `company_defy`"
 project: vic3
 audience: agent

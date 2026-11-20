@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Colonial Bank of Australia» — E&F 1.13, `company_ColonialBankOfAustralia`"
 project: vic3
 audience: agent

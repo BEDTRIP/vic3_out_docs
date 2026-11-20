@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Circular Economy» — T&R 1.13, `circular_economy`"
 project: vic3
 audience: agent

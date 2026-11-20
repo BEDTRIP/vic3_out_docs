@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Morgenröte «Памятники в Morgenröte» — подсказка-понятие Victoria 3 1.15 (`concept_gaudi_monuments`)"
 project: vic3
 audience: agent

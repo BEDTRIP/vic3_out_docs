@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «E-Commerce» — T&R 1.13, `e_commerce`"
 project: vic3
 audience: agent

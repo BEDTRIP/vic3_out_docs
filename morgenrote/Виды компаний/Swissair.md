@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Swissair» — Morgenröte 1.15, `curtiss_company_swissair`"
 project: vic3
 audience: agent

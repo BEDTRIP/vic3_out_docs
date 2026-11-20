@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «LKAB» — T&R 1.13, `company_lkab`"
 project: vic3
 audience: agent

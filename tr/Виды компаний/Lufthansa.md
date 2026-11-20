@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Lufthansa» — T&R 1.13, `curtiss_company_DLR`"
 project: vic3
 audience: agent

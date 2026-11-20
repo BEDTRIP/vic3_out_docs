@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «On-Demand Delivery» — T&R 1.13, `on_demand_delivery`"
 project: vic3
 audience: agent

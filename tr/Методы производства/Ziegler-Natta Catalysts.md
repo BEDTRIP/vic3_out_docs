@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Ziegler-Natta Catalysts» — T&R 1.13, `pm_ziegler-natta_catalysts`"
 project: vic3
 audience: agent

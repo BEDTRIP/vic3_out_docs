@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «İstanbul Menkul Kıymetler Borsası» — E&F 1.13, `building_financial_centre_tur`"
 project: vic3
 audience: agent

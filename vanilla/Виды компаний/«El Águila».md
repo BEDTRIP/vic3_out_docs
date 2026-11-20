@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««El Águila»» — ваниль 1.15, `company_el_aguila`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Late Publishing Communication» — T&R 1.13, `manzoni_pm_telephone`"
 project: vic3
 audience: agent

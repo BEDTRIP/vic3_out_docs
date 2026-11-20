@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Engines of the Risorgimento» — VC 1.15, `ig_trait_engines_of_risorgimento`"
 project: vic3
 audience: agent

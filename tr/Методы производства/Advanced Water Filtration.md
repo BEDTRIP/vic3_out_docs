@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Advanced Water Filtration» — T&R 1.13, `pm_advanced_water_filtration`"
 project: vic3
 audience: agent

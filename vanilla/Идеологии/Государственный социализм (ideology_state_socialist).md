@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Государственный социализм (ideology_state_socialist)» — ваниль 1.15, `ideology_state_socialist`"
 project: vic3
 audience: agent

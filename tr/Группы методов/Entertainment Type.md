@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Entertainment Type» — T&R 1.13, `pmg_entertainment_type`"
 project: vic3
 audience: agent

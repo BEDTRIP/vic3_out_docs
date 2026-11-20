@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Icon in the Snow» — VC 1.15, `ig_trait_icon_in_the_snow`"
 project: vic3
 audience: agent

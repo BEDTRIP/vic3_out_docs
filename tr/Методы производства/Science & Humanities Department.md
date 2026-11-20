@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Science & Humanities Department» — T&R 1.13, `pm_big_science_and_humanities_department`"
 project: vic3
 audience: agent

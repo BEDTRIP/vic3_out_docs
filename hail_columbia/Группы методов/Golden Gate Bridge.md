@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Golden Gate Bridge» — Hail Columbia 1.13, `usfp_pmg_base_golden_gate_bridge`"
 project: vic3
 audience: agent

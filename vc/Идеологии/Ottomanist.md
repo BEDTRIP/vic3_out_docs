@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Ottomanist» — VC 1.15, `ideology_ottomanism`"
 project: vic3
 audience: agent

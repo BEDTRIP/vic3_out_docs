@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Advanced Plantation Harvesting (advanced_plantation_methods_building_dye_plantation)» — T&R 1.13, `advanced_plantation_methods_building_dye_plantation`"
 project: vic3
 audience: agent

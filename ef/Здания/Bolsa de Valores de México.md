@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bolsa de Valores de México» — E&F 1.13, `building_financial_centre_mex`"
 project: vic3
 audience: agent

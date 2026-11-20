@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Fagor» — T&R 1.13, `company_fagor`"
 project: vic3
 audience: agent

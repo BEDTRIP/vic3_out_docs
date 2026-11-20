@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Electrolux» — T&R 1.13, `company_electrolux`"
 project: vic3
 audience: agent

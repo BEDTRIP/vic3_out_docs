@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Sulfur Extraction Process» — T&R 1.13, `selective_mineral_extraction_coal_mine`"
 project: vic3
 audience: agent

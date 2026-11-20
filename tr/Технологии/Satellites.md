@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Satellites» — T&R 1.13, `satellites`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Computability Theory» — T&R 1.13, `computability_theory`"
 project: vic3
 audience: agent

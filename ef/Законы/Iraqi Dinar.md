@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Iraqi Dinar» — E&F 1.13, `law_dinar_iraqi_dinar_currency`"
 project: vic3
 audience: agent

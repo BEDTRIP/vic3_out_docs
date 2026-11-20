@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Petrof» — Morgenröte 1.15, `elgar_company_petrof`"
 project: vic3
 audience: agent

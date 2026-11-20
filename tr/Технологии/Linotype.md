@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Linotype» — T&R 1.13, `manzoni_linotype_tech`"
 project: vic3
 audience: agent

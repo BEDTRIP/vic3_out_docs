@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Electric Arc Processes» — T&R 1.13, `advanced_electric_arc_processes`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Logistics Hubs» — T&R 1.13, `pm_logistics_hubs_building_railway`"
 project: vic3
 audience: agent

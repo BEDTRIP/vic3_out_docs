@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Yamaha» — T&R 1.13, `company_yamaha`"
 project: vic3
 audience: agent

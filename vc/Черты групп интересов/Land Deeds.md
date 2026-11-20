@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Land Deeds» — VC 1.15, `ig_trait_land_deeds`"
 project: vic3
 audience: agent

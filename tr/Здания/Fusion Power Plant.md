@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Fusion Power Plant» — T&R 1.13, `building_fusion_power_plant`"
 project: vic3
 audience: agent

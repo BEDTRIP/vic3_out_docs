@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «South African Rand» — E&F 1.13, `law_eco_south_african_rand_currency`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Synthetic Furniture Molding» — T&R 1.13, `pm_synthetic_furniture_molding`"
 project: vic3
 audience: agent

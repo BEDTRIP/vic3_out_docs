@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Workers' Militias» — VC 1.15, `ig_trait_worker_forces`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Changyu» — Mandate of Heaven 1.15, `company_changyu`"
 project: vic3
 audience: agent

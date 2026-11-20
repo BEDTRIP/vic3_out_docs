@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««F. Schichau»» — VC 1.15, `company_schichau`"
 project: vic3
 audience: agent

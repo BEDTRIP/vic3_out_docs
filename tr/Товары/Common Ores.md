@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Common Ores» — T&R 1.13, `commonores`"
 project: vic3
 audience: agent

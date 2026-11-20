@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Reformer» — Mandate of Heaven 1.15, `ideology_moh_reformer`"
 project: vic3
 audience: agent

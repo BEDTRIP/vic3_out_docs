@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Intel» — T&R 1.13, `company_intel`"
 project: vic3
 audience: agent

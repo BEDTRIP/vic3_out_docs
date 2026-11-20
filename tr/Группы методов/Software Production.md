@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Software Production» — T&R 1.13, `pmg_software_building_software_industry`"
 project: vic3
 audience: agent

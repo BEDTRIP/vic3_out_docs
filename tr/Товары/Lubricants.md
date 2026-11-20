@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Lubricants» — T&R 1.13, `lubricant`"
 project: vic3
 audience: agent

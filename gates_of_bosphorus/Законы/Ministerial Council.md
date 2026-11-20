@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Ministerial Council» — Gates of Bosphorus 1.15, `law_ministerial_council`"
 project: vic3
 audience: agent

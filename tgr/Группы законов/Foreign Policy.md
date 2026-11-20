@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Foreign Policy» — TGR 1.15, `lawgroup_foreign_policy`"
 project: vic3
 audience: agent

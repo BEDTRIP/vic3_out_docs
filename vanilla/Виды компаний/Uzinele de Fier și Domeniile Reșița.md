@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Uzinele de Fier și Domeniile Reșița» — ваниль 1.15, `company_resita_works`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Bank_of_Montreal» — grey USU 1.13, `company_Bank_of_Montreal`"
 project: vic3
 audience: agent

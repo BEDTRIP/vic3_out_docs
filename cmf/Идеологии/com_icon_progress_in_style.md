@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «com_icon_progress_in_style» — CMF 1.15, `com_icon_progress_in_style`"
 project: vic3
 audience: agent

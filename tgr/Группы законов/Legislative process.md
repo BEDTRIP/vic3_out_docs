@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Legislative process» — TGR 1.15, `lawgroup_legislative_process`"
 project: vic3
 audience: agent

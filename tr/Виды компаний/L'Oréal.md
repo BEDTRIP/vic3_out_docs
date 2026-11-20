@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «L'Oréal» — T&R 1.13, `company_oreal`"
 project: vic3
 audience: agent

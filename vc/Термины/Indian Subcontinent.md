@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода VC «Indian Subcontinent» — подсказка-понятие Victoria 3 1.15 (`concept_indian_subcontinent`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Rudimental Appliances» — T&R 1.13, `rudimental_home_appliances`"
 project: vic3
 audience: agent

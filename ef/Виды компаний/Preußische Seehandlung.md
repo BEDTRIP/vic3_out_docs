@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Preußische Seehandlung» — E&F 1.13, `company_PreussischeSeehandlung`"
 project: vic3
 audience: agent

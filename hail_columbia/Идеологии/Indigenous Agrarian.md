@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Indigenous Agrarian» — Hail Columbia 1.13, `ideology_usfp_native_american_agrarian`"
 project: vic3
 audience: agent

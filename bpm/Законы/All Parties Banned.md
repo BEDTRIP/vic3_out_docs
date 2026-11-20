@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «All Parties Banned» — BPM 1.13, `law_no_parties_allowed`"
 project: vic3
 audience: agent

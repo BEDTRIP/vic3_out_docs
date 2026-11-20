@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «John Paradox & Company» — ваниль 1.15, `company_paradox`"
 project: vic3
 audience: agent

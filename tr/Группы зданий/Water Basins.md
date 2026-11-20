@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Water Basins» — T&R 1.13, `bg_water_farms`"
 project: vic3
 audience: agent

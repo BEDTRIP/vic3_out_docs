@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Calcutta Electric Supply Corporation Limited»» — ваниль 1.15, `company_calcutta_electric`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Organized Data» — T&R 1.13, `organized_data`"
 project: vic3
 audience: agent

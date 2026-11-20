@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «bg_nuclear_weapons» — T&R 1.13, `bg_nuclear_weapons`"
 project: vic3
 audience: agent

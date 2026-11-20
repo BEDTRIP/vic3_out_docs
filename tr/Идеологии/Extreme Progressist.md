@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Extreme Progressist» — T&R 1.13, `ideology_extreme_progressist`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Higher Moral Law» — VC 1.15, `ig_trait_higher_law`"
 project: vic3
 audience: agent

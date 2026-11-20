@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de Londres, México y Sudamérica» — E&F 1.13, `company_bancodelondresmexico`"
 project: vic3
 audience: agent

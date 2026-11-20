@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Foxconn» — T&R 1.13, `company_foxconn`"
 project: vic3
 audience: agent

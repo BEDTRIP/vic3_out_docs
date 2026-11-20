@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bauxite Mines» — T&R 1.13, `building_bauxite_mine`"
 project: vic3
 audience: agent

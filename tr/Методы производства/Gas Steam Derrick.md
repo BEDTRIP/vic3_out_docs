@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Gas Steam Derrick» — T&R 1.13, `pm_gas_steam_derricks`"
 project: vic3
 audience: agent

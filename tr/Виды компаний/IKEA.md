@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «IKEA» — T&R 1.13, `company_ikea`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Amsterdam Admiralty Shipyard» — VC 1.15, `company_admiralty_rijkswerf`"
 project: vic3
 audience: agent

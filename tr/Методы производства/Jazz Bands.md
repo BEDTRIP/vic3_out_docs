@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Jazz Bands» — T&R 1.13, `pm_elgar_jazz_band`"
 project: vic3
 audience: agent

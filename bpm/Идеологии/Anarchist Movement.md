@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Anarchist Movement» — BPM 1.13, `ideology_gov_anarchist`"
 project: vic3
 audience: agent

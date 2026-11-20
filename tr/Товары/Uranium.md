@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Uranium» — T&R 1.13, `good_uranium`"
 project: vic3
 audience: agent

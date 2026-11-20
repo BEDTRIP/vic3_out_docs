@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «International Organizations» — T&R 1.13, `international_organizations`"
 project: vic3
 audience: agent

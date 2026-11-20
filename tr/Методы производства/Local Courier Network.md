@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Local Courier Network» — T&R 1.13, `pm_local_courier_network`"
 project: vic3
 audience: agent

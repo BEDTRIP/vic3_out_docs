@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Paper Production» — Gates of Bosphorus 1.15, `gbbf_esparto_papermill`"
 project: vic3
 audience: agent

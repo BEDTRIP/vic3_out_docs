@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «AWACS» — T&R 1.13, `awacs`"
 project: vic3
 audience: agent

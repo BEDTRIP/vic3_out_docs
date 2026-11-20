@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Central Bank Metal Reserve Ratio» — подсказка-понятие Victoria 3 1.13 (`concept_central_bank_gold_reserve_ratio`)"
 project: vic3
 audience: agent

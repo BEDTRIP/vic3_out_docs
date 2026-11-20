@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «National Bonds» — VC 1.15, `ig_trait_national_ties`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Porphyrogenitus» — Gates of Bosphorus 1.15, `gbbf_trait_porphyrogenitus`"
 project: vic3
 audience: agent

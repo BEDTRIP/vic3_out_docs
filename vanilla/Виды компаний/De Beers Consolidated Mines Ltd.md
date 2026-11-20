@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «De Beers Consolidated Mines Ltd» — ваниль 1.15, `company_de_beers`"
 project: vic3
 audience: agent

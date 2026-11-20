@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Vacuum Tube» — T&R 1.13, `pm_vacuum_tube`"
 project: vic3
 audience: agent

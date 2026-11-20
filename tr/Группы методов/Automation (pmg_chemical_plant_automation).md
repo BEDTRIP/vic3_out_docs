@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Automation (pmg_chemical_plant_automation)» — T&R 1.13, `pmg_chemical_plant_automation`"
 project: vic3
 audience: agent

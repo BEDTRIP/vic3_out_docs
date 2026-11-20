@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Silver Standard» — E&F 1.13, `law_silver_standard`"
 project: vic3
 audience: agent

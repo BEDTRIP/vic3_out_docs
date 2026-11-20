@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Statistics» — T&R 1.13, `modern_statistics`"
 project: vic3
 audience: agent

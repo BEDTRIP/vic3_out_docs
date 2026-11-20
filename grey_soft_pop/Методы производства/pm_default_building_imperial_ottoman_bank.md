@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_imperial_ottoman_bank» — grey soft pop 1.15, `pm_default_building_imperial_ottoman_bank`"
 project: vic3
 audience: agent

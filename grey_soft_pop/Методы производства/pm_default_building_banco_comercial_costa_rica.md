@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_banco_comercial_costa_rica» — grey soft pop 1.15, `pm_default_building_banco_comercial_costa_rica`"
 project: vic3
 audience: agent

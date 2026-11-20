@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Harbor Facilities» — T&R 1.13, `advanced_harbor_facilities`"
 project: vic3
 audience: agent

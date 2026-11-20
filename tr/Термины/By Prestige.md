@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «By Prestige» — подсказка-понятие Victoria 3 1.13 (`concept_un_member_selection_by_prestige`)"
 project: vic3
 audience: agent

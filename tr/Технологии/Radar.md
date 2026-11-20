@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Radar» — T&R 1.13, `radar`"
 project: vic3
 audience: agent

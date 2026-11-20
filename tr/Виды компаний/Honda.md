@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Honda» — T&R 1.13, `company_honda`"
 project: vic3
 audience: agent

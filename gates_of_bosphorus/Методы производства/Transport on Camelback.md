@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Transport on Camelback» — Gates of Bosphorus 1.15, `pm_gbbf_camelback`"
 project: vic3
 audience: agent

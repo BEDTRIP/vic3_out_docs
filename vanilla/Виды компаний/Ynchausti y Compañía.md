@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Ynchausti y Compañía» — ваниль 1.15, `company_ynchausti_y_compania`"
 project: vic3
 audience: agent

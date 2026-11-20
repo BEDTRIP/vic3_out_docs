@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bolsa de Valores de Lisboa» — E&F 1.13, `building_financial_centre_por`"
 project: vic3
 audience: agent

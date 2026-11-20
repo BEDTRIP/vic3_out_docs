@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «KLM» — Morgenröte 1.15, `curtiss_company_KLM`"
 project: vic3
 audience: agent

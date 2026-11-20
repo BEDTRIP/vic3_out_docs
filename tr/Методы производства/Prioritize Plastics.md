@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Prioritize Plastics» — T&R 1.13, `pm_no_synthetic_rubber`"
 project: vic3
 audience: agent

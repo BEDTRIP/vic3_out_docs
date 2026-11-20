@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Swing Dance» — T&R 1.13, `pm_elgar_swing_ballet`"
 project: vic3
 audience: agent

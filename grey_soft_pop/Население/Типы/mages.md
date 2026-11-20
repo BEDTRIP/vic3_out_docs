@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Тип населения «mages» — grey soft pop 1.15, `mages`"
 project: vic3
 audience: agent

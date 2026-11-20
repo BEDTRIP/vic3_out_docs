@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Insulated Packaging» — T&R 1.13, `pm_insulated_packaging`"
 project: vic3
 audience: agent

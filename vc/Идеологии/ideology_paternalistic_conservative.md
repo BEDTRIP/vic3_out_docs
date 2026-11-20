@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_paternalistic_conservative» — VC 1.15, `ideology_paternalistic_conservative`"
 project: vic3
 audience: agent

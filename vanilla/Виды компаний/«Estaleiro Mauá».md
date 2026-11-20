@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Estaleiro Mauá»» — ваниль 1.15, `company_estaleiro_maua`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Gen II Nuclear Reactor» — T&R 1.13, `second_nuclear_reactor`"
 project: vic3
 audience: agent

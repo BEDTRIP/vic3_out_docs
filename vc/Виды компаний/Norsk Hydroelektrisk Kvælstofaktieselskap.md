@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Norsk Hydroelektrisk Kvælstofaktieselskap» — VC 1.15, `company_norsk_hydro`"
 project: vic3
 audience: agent

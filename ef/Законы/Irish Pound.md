@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Irish Pound» — E&F 1.13, `law_pound_irish_pound_currency`"
 project: vic3
 audience: agent

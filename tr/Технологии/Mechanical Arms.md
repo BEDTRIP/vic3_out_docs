@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mechanical Arms» — T&R 1.13, `mechanical_arms`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Internet (pm_internet_building_office)» — T&R 1.13, `pm_internet_building_office`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Logistics Hub» — LLWA 1.13, `LLWA_building_logistics_hub`"
 project: vic3
 audience: agent

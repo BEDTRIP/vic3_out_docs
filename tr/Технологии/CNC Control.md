@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «CNC Control» — T&R 1.13, `cnc_control`"
 project: vic3
 audience: agent

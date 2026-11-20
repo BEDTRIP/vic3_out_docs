@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Gates of Bosphorus «Eyalet» — подсказка-понятие Victoria 3 1.15 (`concept_eyalet`)"
 project: vic3
 audience: agent

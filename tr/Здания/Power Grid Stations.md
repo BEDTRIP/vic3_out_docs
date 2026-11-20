@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Power Grid Stations» — T&R 1.13, `building_power_grid_station`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Kemalism (ideology_gbbf_kemalist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_kemalist_leader`"
 project: vic3
 audience: agent

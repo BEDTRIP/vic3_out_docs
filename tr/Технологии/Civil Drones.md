@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Civil Drones» — T&R 1.13, `civil_drones`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Clandestine Slave Markets» — Gates of Bosphorus 1.15, `pm_gbbf_hidden_slave_markets`"
 project: vic3
 audience: agent

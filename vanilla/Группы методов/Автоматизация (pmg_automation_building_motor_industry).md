@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Автоматизация (pmg_automation_building_motor_industry)» — ваниль 1.15, `pmg_automation_building_motor_industry`"
 project: vic3
 audience: agent

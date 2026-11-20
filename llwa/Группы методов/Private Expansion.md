@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Private Expansion» — LLWA 1.13, `LLWA_pmg_private_expansion`"
 project: vic3
 audience: agent

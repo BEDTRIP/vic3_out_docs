@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Telecommunications Plants» — T&R 1.13, `building_telecommunications_industry`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Plastics & Rubber production» — T&R 1.13, `pmg_plastics_production`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «National Electricity» — T&R 1.13, `global_electricity`"
 project: vic3
 audience: agent

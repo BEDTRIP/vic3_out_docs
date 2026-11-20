@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Heavy Centralized Fulfilment» — T&R 1.13, `pm_heavy_centralized_fulfilment`"
 project: vic3
 audience: agent

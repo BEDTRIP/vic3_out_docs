@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Bullet Train» — T&R 1.13, `bullet_train_tech`"
 project: vic3
 audience: agent

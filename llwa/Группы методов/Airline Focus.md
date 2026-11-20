@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Airline Focus» — LLWA 1.13, `LLWA_pmg_air_traffic`"
 project: vic3
 audience: agent

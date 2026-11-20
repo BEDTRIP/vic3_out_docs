@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Integrated Retail E-Commerce» — T&R 1.13, `pm_integrated_retail_ecommerce`"
 project: vic3
 audience: agent

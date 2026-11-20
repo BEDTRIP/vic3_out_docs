@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Central de Honduras» — E&F 1.13, `company_BancoCentralDeHonduras`"
 project: vic3
 audience: agent

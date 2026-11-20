@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Carnegie Steel Company» — T&R 1.13, `company_us_steel`"
 project: vic3
 audience: agent

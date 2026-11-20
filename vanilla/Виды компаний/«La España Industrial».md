@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««La España Industrial»» — ваниль 1.15, `company_espana_industrial`"
 project: vic3
 audience: agent

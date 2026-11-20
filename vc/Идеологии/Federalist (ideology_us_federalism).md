@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Federalist (ideology_us_federalism)» — VC 1.15, `ideology_us_federalism`"
 project: vic3
 audience: agent

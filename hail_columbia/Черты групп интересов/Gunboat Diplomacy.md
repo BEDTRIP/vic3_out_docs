@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Gunboat Diplomacy» — Hail Columbia 1.13, `usfp_ig_trait_gunboat_diplomacy`"
 project: vic3
 audience: agent

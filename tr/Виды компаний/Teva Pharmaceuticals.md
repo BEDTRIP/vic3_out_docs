@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Teva Pharmaceuticals» — T&R 1.13, `company_teva_pharmaceutical`"
 project: vic3
 audience: agent

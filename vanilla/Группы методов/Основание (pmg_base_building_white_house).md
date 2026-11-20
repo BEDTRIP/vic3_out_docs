@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основание (pmg_base_building_white_house)» — ваниль 1.15, `pmg_base_building_white_house`"
 project: vic3
 audience: agent

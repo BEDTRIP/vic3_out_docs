@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Thermal Cracking» — T&R 1.13, `thermal_cracking`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Junker Offiziere» — VC 1.15, `ideology_junker_militarism`"
 project: vic3
 audience: agent

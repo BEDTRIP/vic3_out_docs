@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Börse Hannover» — E&F 1.13, `building_financial_centre_han`"
 project: vic3
 audience: agent

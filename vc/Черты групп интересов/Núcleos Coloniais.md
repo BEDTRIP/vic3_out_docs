@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Núcleos Coloniais» — VC 1.15, `ig_trait_nucleos_coloniais`"
 project: vic3
 audience: agent

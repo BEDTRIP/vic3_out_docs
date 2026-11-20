@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Social Democracy» — T&R 1.13, `socialdemocracy`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Smart Vehicles» — T&R 1.13, `pm_smart_vehicles_production`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Saharan Trade Networks» — Gates of Bosphorus 1.15, `gbbf_building_saharan_networks`"
 project: vic3
 audience: agent

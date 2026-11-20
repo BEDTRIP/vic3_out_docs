@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Аграрный социалист (ideology_agrarian_socialist_leader)» — BPM 1.13, `ideology_agrarian_socialist_leader`"
 project: vic3
 audience: agent

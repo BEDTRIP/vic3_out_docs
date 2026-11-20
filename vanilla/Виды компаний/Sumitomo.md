@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Sumitomo» — ваниль 1.15, `company_sumitomo`"
 project: vic3
 audience: agent

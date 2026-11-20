@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Co-bots» — T&R 1.13, `pm_cobots`"
 project: vic3
 audience: agent

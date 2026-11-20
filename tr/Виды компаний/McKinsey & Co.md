@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «McKinsey & Co» — T&R 1.13, `company_mckinsey`"
 project: vic3
 audience: agent

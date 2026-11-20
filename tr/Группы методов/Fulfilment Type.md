@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Fulfilment Type» — T&R 1.13, `pmg_fulfilment_model_building_ecommerce_logistics`"
 project: vic3
 audience: agent

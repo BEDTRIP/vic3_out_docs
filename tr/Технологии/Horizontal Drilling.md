@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Horizontal Drilling» — T&R 1.13, `horizontal_drilling`"
 project: vic3
 audience: agent

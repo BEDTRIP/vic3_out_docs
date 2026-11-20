@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Castelul Peleș» — Gates of Bosphorus 1.15, `pm_gbbf_castelul_peles`"
 project: vic3
 audience: agent

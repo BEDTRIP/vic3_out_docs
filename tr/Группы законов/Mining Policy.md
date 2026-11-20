@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Mining Policy» — T&R 1.13, `lawgroup_mining_policy`"
 project: vic3
 audience: agent

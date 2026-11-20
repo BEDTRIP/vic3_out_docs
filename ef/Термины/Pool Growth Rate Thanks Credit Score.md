@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Pool Growth Rate Thanks Credit Score» — подсказка-понятие Victoria 3 1.13 (`concept_pool_growth_rate_thanks_credit_score`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Personal Computer» — T&R 1.13, `personal_computer`"
 project: vic3
 audience: agent

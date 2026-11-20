@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Österreichische Creditanstalt» — E&F 1.13, `company_OesterreichischeCreditAnstalt`"
 project: vic3
 audience: agent

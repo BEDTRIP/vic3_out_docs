@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — BPM 1.13, `ideology_utilitarian_leader`"
 project: vic3
 audience: agent

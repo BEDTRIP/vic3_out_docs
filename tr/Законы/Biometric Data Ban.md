@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Biometric Data Ban» — T&R 1.13, `law_data_biometric_ban`"
 project: vic3
 audience: agent

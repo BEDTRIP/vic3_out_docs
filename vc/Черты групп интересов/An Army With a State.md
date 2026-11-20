@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «An Army With a State» — VC 1.15, `ig_trait_army_hasastate`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Gen III Nuclear Reactor» — T&R 1.13, `third_nuclear_reactor`"
 project: vic3
 audience: agent

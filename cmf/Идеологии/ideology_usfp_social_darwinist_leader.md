@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_usfp_social_darwinist_leader» — CMF 1.15, `ideology_usfp_social_darwinist_leader`"
 project: vic3
 audience: agent

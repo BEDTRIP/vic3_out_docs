@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Fishing Investments» — TGR 1.15, `economic_incentives_fishing`"
 project: vic3
 audience: agent

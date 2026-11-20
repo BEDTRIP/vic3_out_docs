@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин игры «Коронная земля (crown_land)» — подсказка-понятие Victoria 3 1.15 (`concept_crown_land`)"
 project: vic3
 audience: agent

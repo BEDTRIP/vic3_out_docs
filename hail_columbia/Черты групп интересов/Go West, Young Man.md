@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Go West, Young Man» — Hail Columbia 1.13, `usfp_ig_trait_go_west`"
 project: vic3
 audience: agent

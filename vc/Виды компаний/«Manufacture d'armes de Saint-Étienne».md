@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Manufacture d'armes de Saint-Étienne»» — VC 1.15, `company_saint_etienne`"
 project: vic3
 audience: agent

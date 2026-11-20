@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««G. Ricordi & C.»» — VC 1.15, `company_ricordi`"
 project: vic3
 audience: agent

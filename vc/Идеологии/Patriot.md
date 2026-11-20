@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Patriot» — VC 1.15, `ideology_patriotism`"
 project: vic3
 audience: agent

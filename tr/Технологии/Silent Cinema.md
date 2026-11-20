@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Silent Cinema» — T&R 1.13, `silent_cinema`"
 project: vic3
 audience: agent

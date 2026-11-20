@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Laser» — T&R 1.13, `laser`"
 project: vic3
 audience: agent

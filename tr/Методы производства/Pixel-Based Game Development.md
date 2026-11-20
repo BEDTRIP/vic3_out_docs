@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Pixel-Based Game Development» — T&R 1.13, `pm_pixel_based_building_interactive_media_industry`"
 project: vic3
 audience: agent

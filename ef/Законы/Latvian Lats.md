@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Latvian Lats» — E&F 1.13, `law_spe_latvian_lats_currency`"
 project: vic3
 audience: agent

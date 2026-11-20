@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Exclusionary» — Hail Columbia 1.13, `ideology_reactionary_exclusionist`"
 project: vic3
 audience: agent

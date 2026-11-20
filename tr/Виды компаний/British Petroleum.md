@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «British Petroleum» — T&R 1.13, `company_bg`"
 project: vic3
 audience: agent

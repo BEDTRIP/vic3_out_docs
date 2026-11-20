@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Information Distribution» — LLWA 1.13, `LLWA_pmg_mapi_comms`"
 project: vic3
 audience: agent

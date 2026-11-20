@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Goldman Sachs» — E&F 1.13, `company_BankGoldmanSachs`"
 project: vic3
 audience: agent

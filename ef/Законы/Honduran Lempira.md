@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Honduran Lempira» — E&F 1.13, `law_peso_honduran_lempira_currency`"
 project: vic3
 audience: agent

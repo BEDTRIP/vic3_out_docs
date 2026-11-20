@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Synthetic Rubber» — T&R 1.13, `mendelejew_synthetic_rubber_tech`"
 project: vic3
 audience: agent

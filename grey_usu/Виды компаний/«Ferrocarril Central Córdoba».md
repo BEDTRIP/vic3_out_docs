@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ferrocarril Central Córdoba»» — grey USU 1.13, `company_cordoba_railway`"
 project: vic3
 audience: agent

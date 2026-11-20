@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Transport (pmg_train_automation_building_hydroponic)» — T&R 1.13, `pmg_train_automation_building_hydroponic`"
 project: vic3
 audience: agent

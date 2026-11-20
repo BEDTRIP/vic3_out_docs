@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Central de Venezuela» — E&F 1.13, `company_BancoCentralDeVenezuela`"
 project: vic3
 audience: agent

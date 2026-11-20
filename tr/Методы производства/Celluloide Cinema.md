@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Celluloide Cinema» — T&R 1.13, `celluloide_films`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Data Optimization (pmg_data_optimization_primary_sector_no_shopkeepers)» — T&R 1.13, `pmg_data_optimization_primary_sector_no_shopkeepers`"
 project: vic3
 audience: agent

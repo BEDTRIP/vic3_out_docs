@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Danish Krone» — E&F 1.13, `law_krone_danish_krone_currency`"
 project: vic3
 audience: agent

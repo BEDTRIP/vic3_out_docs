@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Social Security Payments» — TGR 1.15, `law_medium_pension`"
 project: vic3
 audience: agent

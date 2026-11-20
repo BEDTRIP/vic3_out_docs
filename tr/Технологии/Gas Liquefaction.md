@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Gas Liquefaction» — T&R 1.13, `gas_liquefaction`"
 project: vic3
 audience: agent

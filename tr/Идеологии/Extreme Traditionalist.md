@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Extreme Traditionalist» — T&R 1.13, `ideology_extreme_traditionalist`"
 project: vic3
 audience: agent

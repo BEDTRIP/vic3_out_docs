@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Gericke Systems» — T&R 1.13, `pm_hydroponic_gericke_system`"
 project: vic3
 audience: agent

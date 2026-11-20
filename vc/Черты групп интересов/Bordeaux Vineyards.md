@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Bordeaux Vineyards» — VC 1.15, `ig_trait_bordeaux_wine`"
 project: vic3
 audience: agent

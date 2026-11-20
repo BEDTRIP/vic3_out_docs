@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Urban Planning» — T&R 1.13, `modern_urban_planning`"
 project: vic3
 audience: agent

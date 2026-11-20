@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Sinopec» — T&R 1.13, `company_sinopec`"
 project: vic3
 audience: agent

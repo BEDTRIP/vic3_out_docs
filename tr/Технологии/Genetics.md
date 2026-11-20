@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Genetics» — T&R 1.13, `dubois_genetics_tech`"
 project: vic3
 audience: agent

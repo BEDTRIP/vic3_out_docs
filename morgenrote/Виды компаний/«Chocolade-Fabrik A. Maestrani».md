@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Chocolade-Fabrik A. Maestrani»» — Morgenröte 1.15, `company_maestrani`"
 project: vic3
 audience: agent

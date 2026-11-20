@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Rare Earths Purification» — T&R 1.13, `rare_earths_advanced_purification`"
 project: vic3
 audience: agent

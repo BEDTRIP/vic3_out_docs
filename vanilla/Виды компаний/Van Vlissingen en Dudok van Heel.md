@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Van Vlissingen en Dudok van Heel» — ваниль 1.15, `company_van_vlissingen_en_dudok_van_heel`"
 project: vic3
 audience: agent

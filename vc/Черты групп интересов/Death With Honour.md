@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Death With Honour» — VC 1.15, `ig_trait_soldier_king`"
 project: vic3
 audience: agent

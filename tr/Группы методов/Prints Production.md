@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Prints Production» — T&R 1.13, `manzoni_pmg_building_publishing_industry_automation`"
 project: vic3
 audience: agent

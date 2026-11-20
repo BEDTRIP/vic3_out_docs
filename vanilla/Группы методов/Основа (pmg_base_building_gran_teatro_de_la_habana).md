@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_gran_teatro_de_la_habana)» — ваниль 1.15, `pmg_base_building_gran_teatro_de_la_habana`"
 project: vic3
 audience: agent

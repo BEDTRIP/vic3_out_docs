@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Hail Columbia «Thirteen Colonies» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_thirteen_colonies`)"
 project: vic3
 audience: agent

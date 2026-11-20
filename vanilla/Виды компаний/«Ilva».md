@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ilva»» — ваниль 1.15, `company_ilva`"
 project: vic3
 audience: agent

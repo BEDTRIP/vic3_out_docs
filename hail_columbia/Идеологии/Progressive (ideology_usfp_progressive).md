@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Progressive (ideology_usfp_progressive)» — Hail Columbia 1.13, `ideology_usfp_progressive`"
 project: vic3
 audience: agent

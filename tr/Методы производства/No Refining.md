@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Refining» — T&R 1.13, `no_refining_power_plant`"
 project: vic3
 audience: agent

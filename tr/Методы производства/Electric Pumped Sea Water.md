@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Electric Pumped Sea Water» — T&R 1.13, `pm_electric_pumped_desalinated_water`"
 project: vic3
 audience: agent

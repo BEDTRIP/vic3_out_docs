@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Fusion Reactor» — T&R 1.13, `pmg_fusion_reactor`"
 project: vic3
 audience: agent

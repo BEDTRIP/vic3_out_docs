@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Centro Vitivinícola Nacional»» — ваниль 1.15, `company_argentinian_wine`"
 project: vic3
 audience: agent

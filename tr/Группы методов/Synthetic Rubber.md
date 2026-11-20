@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Synthetic Rubber» — T&R 1.13, `pmg_mendelejew_isoprene`"
 project: vic3
 audience: agent

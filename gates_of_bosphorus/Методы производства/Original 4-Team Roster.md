@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Original 4-Team Roster» — Gates of Bosphorus 1.15, `pm_gbbf_original_roster`"
 project: vic3
 audience: agent

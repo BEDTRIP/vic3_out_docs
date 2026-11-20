@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Penguin Group» — T&R 1.13, `company_penguin_group`"
 project: vic3
 audience: agent

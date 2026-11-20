@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Internet Data Reporting (pm_internet_data_reporting_primary_sector)» — T&R 1.13, `pm_internet_data_reporting_primary_sector`"
 project: vic3
 audience: agent

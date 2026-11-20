@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Light Industry Buildings» — TGR 1.15, `bg_industry_light`"
 project: vic3
 audience: agent

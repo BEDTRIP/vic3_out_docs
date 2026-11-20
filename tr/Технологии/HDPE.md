@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «HDPE» — T&R 1.13, `hdpe`"
 project: vic3
 audience: agent

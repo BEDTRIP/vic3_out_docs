@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Copper Pipes» — T&R 1.13, `pm_copper_pipes`"
 project: vic3
 audience: agent

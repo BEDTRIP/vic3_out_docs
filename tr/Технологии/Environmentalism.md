@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Environmentalism» — T&R 1.13, `ambientalism`"
 project: vic3
 audience: agent

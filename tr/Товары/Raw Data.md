@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Raw Data» — T&R 1.13, `raw_data`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Паровик (pm_steam_donkey_building_logging_camp)» — ваниль 1.15, `pm_steam_donkey_building_logging_camp`"
 project: vic3
 audience: agent

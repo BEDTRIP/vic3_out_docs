@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Type of Communication» — T&R 1.13, `manzoni_pmg_communication`"
 project: vic3
 audience: agent

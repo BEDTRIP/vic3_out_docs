@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Spot Shipping» — LLWA 1.13, `LLWA_pm_spot_shipping`"
 project: vic3
 audience: agent

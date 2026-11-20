@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Shanghai Sharebrokers' Association» — E&F 1.13, `building_financial_centre_chi`"
 project: vic3
 audience: agent

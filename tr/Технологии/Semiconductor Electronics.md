@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Semiconductor Electronics» — T&R 1.13, `semiconductor`"
 project: vic3
 audience: agent

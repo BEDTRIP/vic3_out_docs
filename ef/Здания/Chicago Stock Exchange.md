@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Chicago Stock Exchange» — E&F 1.13, `building_financial_centre_usa_2`"
 project: vic3
 audience: agent

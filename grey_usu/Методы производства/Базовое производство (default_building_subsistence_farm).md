@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Базовое производство (default_building_subsistence_farm)» — grey USU 1.13, `default_building_subsistence_farm`"
 project: vic3
 audience: agent

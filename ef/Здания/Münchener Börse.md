@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Münchener Börse» — E&F 1.13, `building_financial_centre_bav`"
 project: vic3
 audience: agent

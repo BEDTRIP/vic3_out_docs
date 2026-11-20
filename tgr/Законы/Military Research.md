@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Military Research» — TGR 1.15, `law_tgr_research_military`"
 project: vic3
 audience: agent

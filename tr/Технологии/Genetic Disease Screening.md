@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Genetic Disease Screening» — T&R 1.13, `genetic_disease_screening`"
 project: vic3
 audience: agent

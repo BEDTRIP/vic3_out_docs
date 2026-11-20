@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Petrochemical Industries» — T&R 1.13, `building_mendelejew_synthetic_rubber_factory`"
 project: vic3
 audience: agent

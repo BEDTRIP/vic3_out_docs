@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Municipal Autonomy» — VC 1.15, `ig_trait_municipality`"
 project: vic3
 audience: agent

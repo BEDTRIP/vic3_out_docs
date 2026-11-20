@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_erasmus_rotterdam_university» — grey soft pop 1.15, `pm_default_building_erasmus_rotterdam_university`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «On-Demand Goods» — T&R 1.13, `on_demand_goods`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Private Expansion Allowed» — LLWA 1.13, `LLWA_pm_yes_private_expansion`"
 project: vic3
 audience: agent

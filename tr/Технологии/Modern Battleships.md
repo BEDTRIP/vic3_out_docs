@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Battleships» — T&R 1.13, `modern_battleships`"
 project: vic3
 audience: agent

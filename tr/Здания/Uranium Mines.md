@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Uranium Mines» — T&R 1.13, `building_uranium_mine`"
 project: vic3
 audience: agent

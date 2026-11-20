@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Heavy Machinery» — T&R 1.13, `heavy_machinery`"
 project: vic3
 audience: agent

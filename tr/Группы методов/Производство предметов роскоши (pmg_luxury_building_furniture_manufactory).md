@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Производство предметов роскоши (pmg_luxury_building_furniture_manufactory)» — T&R 1.13, `pmg_luxury_building_furniture_manufactory`"
 project: vic3
 audience: agent

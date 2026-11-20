@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Erie Canal» — Hail Columbia 1.13, `pmg_usfp_erie_canal`"
 project: vic3
 audience: agent

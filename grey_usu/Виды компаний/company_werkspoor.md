@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_werkspoor» — grey USU 1.13, `company_werkspoor`"
 project: vic3
 audience: agent

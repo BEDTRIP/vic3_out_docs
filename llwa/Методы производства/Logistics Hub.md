@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Logistics Hub» — LLWA 1.13, `LLWA_pm_logihub_base`"
 project: vic3
 audience: agent

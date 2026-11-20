@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Satellite Communications Network» — T&R 1.13, `pm_satellite_communications_network_building_telecommunications`"
 project: vic3
 audience: agent

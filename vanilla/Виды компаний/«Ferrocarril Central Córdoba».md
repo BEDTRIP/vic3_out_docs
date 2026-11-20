@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ferrocarril Central Córdoba»» — ваниль 1.15, `company_cordoba_railway`"
 project: vic3
 audience: agent

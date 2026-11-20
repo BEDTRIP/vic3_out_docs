@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Утилитаризм (ideology_utilitarian_millian)» — VC 1.15, `ideology_utilitarian_millian`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Aluminium» — T&R 1.13, `aluminium`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Continuous Casting» — T&R 1.13, `continuous_casting`"
 project: vic3
 audience: agent

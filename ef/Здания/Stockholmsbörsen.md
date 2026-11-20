@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Stockholmsbörsen» — E&F 1.13, `building_financial_centre_swe`"
 project: vic3
 audience: agent

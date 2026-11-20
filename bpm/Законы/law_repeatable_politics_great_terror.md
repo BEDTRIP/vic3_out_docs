@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «law_repeatable_politics_great_terror» — BPM 1.13, `law_repeatable_politics_great_terror`"
 project: vic3
 audience: agent

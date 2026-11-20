@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Royal Decree» — VC 1.15, `ig_trait_real_decreto`"
 project: vic3
 audience: agent

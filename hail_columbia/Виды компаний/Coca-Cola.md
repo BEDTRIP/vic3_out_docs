@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Coca-Cola» — Hail Columbia 1.13, `company_usfp_coca_cola`"
 project: vic3
 audience: agent

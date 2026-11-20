@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Lawmen» — Hail Columbia 1.13, `usfp_ig_trait_lawmen`"
 project: vic3
 audience: agent

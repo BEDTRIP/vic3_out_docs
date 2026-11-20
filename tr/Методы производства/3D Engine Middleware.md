@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «3D Engine Middleware» — T&R 1.13, `pm_3d_engine_building_interactive_media_industry`"
 project: vic3
 audience: agent

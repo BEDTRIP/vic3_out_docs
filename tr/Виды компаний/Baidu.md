@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Baidu» — T&R 1.13, `company_baidu`"
 project: vic3
 audience: agent

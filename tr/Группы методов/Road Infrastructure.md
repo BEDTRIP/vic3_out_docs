@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Road Infrastructure» — T&R 1.13, `pmg_transport_infrastructure_building_railway`"
 project: vic3
 audience: agent

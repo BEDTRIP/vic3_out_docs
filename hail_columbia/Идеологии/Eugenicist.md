@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Eugenicist» — Hail Columbia 1.13, `ideology_usfp_eugenicist`"
 project: vic3
 audience: agent

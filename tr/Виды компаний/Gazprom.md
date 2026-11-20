@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Gazprom» — T&R 1.13, `company_gazprom`"
 project: vic3
 audience: agent

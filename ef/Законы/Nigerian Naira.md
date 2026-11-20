@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Nigerian Naira» — E&F 1.13, `law_eco_nigerian_naira_currency`"
 project: vic3
 audience: agent

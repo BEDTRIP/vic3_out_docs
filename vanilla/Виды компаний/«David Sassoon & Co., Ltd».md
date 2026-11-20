@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««David Sassoon & Co., Ltd»» — ваниль 1.15, `company_david_sassoon`"
 project: vic3
 audience: agent

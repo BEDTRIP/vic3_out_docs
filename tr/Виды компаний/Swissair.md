@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Swissair» — T&R 1.13, `curtiss_company_swissair`"
 project: vic3
 audience: agent

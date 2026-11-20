@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Планирование квот (usu_pm_port_c_logistics_1)» — grey USU 1.13, `usu_pm_port_c_logistics_1`"
 project: vic3
 audience: agent

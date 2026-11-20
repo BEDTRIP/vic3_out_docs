@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Cohere» — T&R 1.13, `company_cohere`"
 project: vic3
 audience: agent

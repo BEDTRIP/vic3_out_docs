@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «High Speed Trains (pm_high_speed_trains)» — T&R 1.13, `pm_high_speed_trains`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Siemens & Halske»» — ваниль 1.15, `company_siemens_and_halske`"
 project: vic3
 audience: agent

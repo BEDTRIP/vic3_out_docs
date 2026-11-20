@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Democracy» — подсказка-понятие Victoria 3 1.13 (`concept_democracy`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Оскар II» — Morgenröte 1.15, `mr_ruler_trait_oscar_ii`"
 project: vic3
 audience: agent

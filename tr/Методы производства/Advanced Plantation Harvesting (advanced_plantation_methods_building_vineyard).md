@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Advanced Plantation Harvesting (advanced_plantation_methods_building_vineyard)» — T&R 1.13, `advanced_plantation_methods_building_vineyard`"
 project: vic3
 audience: agent

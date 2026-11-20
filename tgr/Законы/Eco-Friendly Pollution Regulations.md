@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Eco-Friendly Pollution Regulations» — TGR 1.15, `law_eco_environment_regulations`"
 project: vic3
 audience: agent

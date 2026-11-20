@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Monetary Interventionism» — E&F 1.13, `ideology_monetary_policy`"
 project: vic3
 audience: agent

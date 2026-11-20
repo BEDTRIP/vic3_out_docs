@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Explosives (pmg_explosives_building_commonores_mine)» — T&R 1.13, `pmg_explosives_building_commonores_mine`"
 project: vic3
 audience: agent

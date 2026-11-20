@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Beiersdorf» — T&R 1.13, `company_beiersdorf`"
 project: vic3
 audience: agent

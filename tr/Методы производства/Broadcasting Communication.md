@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Broadcasting Communication» — T&R 1.13, `manzoni_pm_radio`"
 project: vic3
 audience: agent

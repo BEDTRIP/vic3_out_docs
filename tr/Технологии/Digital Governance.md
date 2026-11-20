@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Digital Governance» — T&R 1.13, `digital_governance`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Plank Roads» — Gates of Bosphorus 1.15, `pm_gbbf_plank_roads`"
 project: vic3
 audience: agent

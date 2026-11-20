@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Data Free Harvest» — T&R 1.13, `law_data_free_harvest`"
 project: vic3
 audience: agent

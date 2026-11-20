@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Organic Democracy» — BPM 1.13, `law_organic_democracy`"
 project: vic3
 audience: agent

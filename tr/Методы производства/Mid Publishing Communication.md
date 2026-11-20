@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Mid Publishing Communication» — T&R 1.13, `manzoni_pm_electric_telegraph`"
 project: vic3
 audience: agent

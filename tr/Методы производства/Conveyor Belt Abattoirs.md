@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Conveyor Belt Abattoirs» — T&R 1.13, `pm_conveyor_belt_abattoirs`"
 project: vic3
 audience: agent

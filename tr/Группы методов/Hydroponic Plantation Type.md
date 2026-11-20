@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Hydroponic Plantation Type» — T&R 1.13, `pmg_hydroponic_plantation_type`"
 project: vic3
 audience: agent

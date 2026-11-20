@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Unilever» — T&R 1.13, `company_unilever`"
 project: vic3
 audience: agent

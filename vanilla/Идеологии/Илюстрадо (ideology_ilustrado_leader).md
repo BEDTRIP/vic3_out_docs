@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Илюстрадо (ideology_ilustrado_leader)» — ваниль 1.15, `ideology_ilustrado_leader`"
 project: vic3
 audience: agent

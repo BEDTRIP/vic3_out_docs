@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Getzner, Mutter & Cie» — grey USU 1.13, `company_getzner_mutter`"
 project: vic3
 audience: agent

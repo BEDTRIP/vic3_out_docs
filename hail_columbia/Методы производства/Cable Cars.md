@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Cable Cars» — Hail Columbia 1.13, `pm_usfp_brookyln_bridge_cable_cars`"
 project: vic3
 audience: agent

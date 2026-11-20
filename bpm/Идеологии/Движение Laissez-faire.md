@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Движение Laissez-faire» — BPM 1.13, `ideology_eco_market_liberal_mov`"
 project: vic3
 audience: agent

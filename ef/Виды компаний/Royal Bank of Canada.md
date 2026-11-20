@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Royal Bank of Canada» — E&F 1.13, `company_RoyalBankofCanada`"
 project: vic3
 audience: agent

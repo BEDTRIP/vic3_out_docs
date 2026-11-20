@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Railway Bonds» — VC 1.15, `ig_trait_railway_bonds`"
 project: vic3
 audience: agent

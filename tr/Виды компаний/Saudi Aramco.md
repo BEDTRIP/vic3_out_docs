@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Saudi Aramco» — T&R 1.13, `company_saudi_aramco`"
 project: vic3
 audience: agent

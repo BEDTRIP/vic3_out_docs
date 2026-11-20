@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Motorized Chariots» — Gates of Bosphorus 1.15, `pm_gbbf_motorized_chariots`"
 project: vic3
 audience: agent

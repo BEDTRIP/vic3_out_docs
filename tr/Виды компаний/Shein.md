@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Shein» — T&R 1.13, `company_shein`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Da-Qing Bank» — E&F 1.13, `company_DaQingBank`"
 project: vic3
 audience: agent

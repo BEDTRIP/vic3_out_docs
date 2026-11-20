@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Hong Kong Bank» — E&F 1.13, `company_BankHSBC`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «IoT-Driven Manufacturing» — T&R 1.13, `iot_driven_manufacturing`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Economic Journals» — LLWA 1.13, `LLWA_pm_econ_journals`"
 project: vic3
 audience: agent

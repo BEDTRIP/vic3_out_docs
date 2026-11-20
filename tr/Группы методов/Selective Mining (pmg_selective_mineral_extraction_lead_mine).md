@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Selective Mining (pmg_selective_mineral_extraction_lead_mine)» — T&R 1.13, `pmg_selective_mineral_extraction_lead_mine`"
 project: vic3
 audience: agent

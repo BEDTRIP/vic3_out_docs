@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Crisis of Language» — VC 1.15, `ig_trait_crisis_of_language`"
 project: vic3
 audience: agent

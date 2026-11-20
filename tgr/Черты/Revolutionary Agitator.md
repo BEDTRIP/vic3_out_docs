@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Revolutionary Agitator» — TGR 1.15, `revolutionary_agitator`"
 project: vic3
 audience: agent

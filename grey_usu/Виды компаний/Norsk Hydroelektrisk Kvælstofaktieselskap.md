@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Norsk Hydroelektrisk Kvælstofaktieselskap» — grey USU 1.13, `company_norsk_hydro`"
 project: vic3
 audience: agent

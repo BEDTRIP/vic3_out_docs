@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««El Águila»» — T&R 1.13, `company_el_aguila`"
 project: vic3
 audience: agent

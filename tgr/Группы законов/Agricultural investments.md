@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Agricultural investments» — TGR 1.15, `lawgroup_economic_incentives_primary`"
 project: vic3
 audience: agent

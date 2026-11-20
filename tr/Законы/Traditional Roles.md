@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Traditional Roles» — T&R 1.13, `lgbtq_traditional_couples`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Neo-Confederate» — Hail Columbia 1.13, `ideology_usfp_neoconfederate_movement`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Luxembourgish Franc» — E&F 1.13, `law_franc_luxembourgish_franc_currency`"
 project: vic3
 audience: agent

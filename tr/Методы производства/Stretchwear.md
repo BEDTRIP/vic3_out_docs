@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Stretchwear» — T&R 1.13, `pm_stretchwear`"
 project: vic3
 audience: agent

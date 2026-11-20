@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Nuclear Submarine» — T&R 1.13, `nuclear_submarine`"
 project: vic3
 audience: agent

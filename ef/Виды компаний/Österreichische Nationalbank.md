@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Österreichische Nationalbank» — E&F 1.13, `company_OesterreichischeNationalbank`"
 project: vic3
 audience: agent

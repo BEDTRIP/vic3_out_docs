@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Platform Gig Delivery» — T&R 1.13, `pm_platform_gig_delivery`"
 project: vic3
 audience: agent

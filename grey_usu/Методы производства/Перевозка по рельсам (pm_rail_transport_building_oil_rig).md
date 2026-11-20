@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Перевозка по рельсам (pm_rail_transport_building_oil_rig)» — grey USU 1.13, `pm_rail_transport_building_oil_rig`"
 project: vic3
 audience: agent

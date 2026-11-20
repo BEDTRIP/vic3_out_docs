@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Mahindra & Mahindra» — T&R 1.13, `company_mahindra`"
 project: vic3
 audience: agent

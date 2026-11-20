@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Sanxin» — Mandate of Heaven 1.15, `company_sanxin`"
 project: vic3
 audience: agent

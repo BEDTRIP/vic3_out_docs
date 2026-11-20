@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Motor Vessels» — LLWA 1.13, `LLWA_pm_motor_vessels`"
 project: vic3
 audience: agent

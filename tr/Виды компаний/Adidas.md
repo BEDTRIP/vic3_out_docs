@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Adidas» — T&R 1.13, `company_adidas`"
 project: vic3
 audience: agent

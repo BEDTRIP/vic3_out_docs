@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Wires» — T&R 1.13, `copperwires`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Uruguayan Peso» — E&F 1.13, `law_peso_uruguayan_peso_currency`"
 project: vic3
 audience: agent

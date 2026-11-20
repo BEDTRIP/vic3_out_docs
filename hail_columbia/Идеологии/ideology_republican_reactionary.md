@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_republican_reactionary» — Hail Columbia 1.13, `ideology_republican_reactionary`"
 project: vic3
 audience: agent

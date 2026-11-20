@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Включение сержантского состава (pm_nco_incorporation_conscription)» — ваниль 1.15, `pm_nco_incorporation_conscription`"
 project: vic3
 audience: agent

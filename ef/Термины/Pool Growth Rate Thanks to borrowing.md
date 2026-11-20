@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Pool Growth Rate Thanks to borrowing» — подсказка-понятие Victoria 3 1.13 (`concept_pool_growth_rate_thanks_to_borrowing`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Подготовка (pmg_training_conscription)» — T&R 1.13, `pmg_training_conscription`"
 project: vic3
 audience: agent

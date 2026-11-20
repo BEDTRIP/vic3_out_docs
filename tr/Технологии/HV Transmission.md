@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «HV Transmission» — T&R 1.13, `high_voltage_transmission`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — TGR 1.15, `pm_steam_threshers`"
 project: vic3
 audience: agent

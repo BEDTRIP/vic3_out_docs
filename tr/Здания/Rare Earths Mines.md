@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Rare Earths Mines» — T&R 1.13, `building_rare_earths_mine`"
 project: vic3
 audience: agent

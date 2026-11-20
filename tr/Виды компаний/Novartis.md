@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Novartis» — T&R 1.13, `company_novartis`"
 project: vic3
 audience: agent

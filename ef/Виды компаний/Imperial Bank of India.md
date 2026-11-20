@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Imperial Bank of India» — E&F 1.13, `company_ImperialBankofIndia`"
 project: vic3
 audience: agent

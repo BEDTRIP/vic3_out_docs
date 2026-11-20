@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Social Media» — T&R 1.13, `social_media`"
 project: vic3
 audience: agent

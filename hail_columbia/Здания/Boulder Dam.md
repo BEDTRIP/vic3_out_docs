@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Boulder Dam» — Hail Columbia 1.13, `building_usfp_hoover_dam`"
 project: vic3
 audience: agent

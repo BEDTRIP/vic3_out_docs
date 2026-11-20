@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Xiaomi» — T&R 1.13, `company_xiaomi`"
 project: vic3
 audience: agent

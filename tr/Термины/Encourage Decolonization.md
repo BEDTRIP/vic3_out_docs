@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Encourage Decolonization» — подсказка-понятие Victoria 3 1.13 (`concept_un_decolonization_encouraged`)"
 project: vic3
 audience: agent

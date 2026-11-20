@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Guitarras Ramírez» — Morgenröte 1.15, `elgar_company_guitarras_ramirez`"
 project: vic3
 audience: agent

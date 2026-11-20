@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Christian Democrat» — BPM 1.13, `ideology_dop_christian_democrat`"
 project: vic3
 audience: agent

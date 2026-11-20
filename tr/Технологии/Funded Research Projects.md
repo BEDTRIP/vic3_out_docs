@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Funded Research Projects» — T&R 1.13, `funded_research_projects`"
 project: vic3
 audience: agent

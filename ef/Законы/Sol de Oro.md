@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Sol de Oro» — E&F 1.13, `law_peso_sol_de_oro_currency`"
 project: vic3
 audience: agent

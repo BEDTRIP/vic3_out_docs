@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Integrated Circuits» — T&R 1.13, `integrated_circuits`"
 project: vic3
 audience: agent

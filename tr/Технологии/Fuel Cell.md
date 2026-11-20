@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Fuel Cell» — T&R 1.13, `fuel_cell_tech`"
 project: vic3
 audience: agent

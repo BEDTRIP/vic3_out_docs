@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Information Distribution» — LLWA 1.13, `LLWA_pm_no_comms`"
 project: vic3
 audience: agent

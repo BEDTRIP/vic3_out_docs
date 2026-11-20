@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Leu» — E&F 1.13, `law_leon_leu_currency`"
 project: vic3
 audience: agent

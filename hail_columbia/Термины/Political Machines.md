@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Hail Columbia «Political Machines» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_political_machines`)"
 project: vic3
 audience: agent

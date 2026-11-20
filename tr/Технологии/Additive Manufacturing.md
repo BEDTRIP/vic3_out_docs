@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Additive Manufacturing» — T&R 1.13, `additive_manufacturing`"
 project: vic3
 audience: agent

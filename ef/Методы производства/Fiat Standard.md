@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Fiat Standard» — E&F 1.13, `pm_fiat_standard_bank_money_currency`"
 project: vic3
 audience: agent

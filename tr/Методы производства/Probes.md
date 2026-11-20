@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Probes» — T&R 1.13, `pm_rocket_probes`"
 project: vic3
 audience: agent

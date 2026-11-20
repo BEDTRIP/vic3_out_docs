@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Olivetti» — T&R 1.13, `company_olivetti`"
 project: vic3
 audience: agent

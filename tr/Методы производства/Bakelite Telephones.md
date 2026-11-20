@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Bakelite Telephones» — T&R 1.13, `pm_bakelite_telephones`"
 project: vic3
 audience: agent

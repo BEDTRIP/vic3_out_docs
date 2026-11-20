@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «NVIDIA» — T&R 1.13, `company_nvidia`"
 project: vic3
 audience: agent

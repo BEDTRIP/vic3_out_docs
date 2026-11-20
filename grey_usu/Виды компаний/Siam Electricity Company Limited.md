@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Siam Electricity Company Limited» — grey USU 1.13, `company_siam_electrical_company_limited`"
 project: vic3
 audience: agent

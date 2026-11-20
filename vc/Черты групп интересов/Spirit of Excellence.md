@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Spirit of Excellence» — VC 1.15, `ig_trait_geist_der_exzellenz`"
 project: vic3
 audience: agent

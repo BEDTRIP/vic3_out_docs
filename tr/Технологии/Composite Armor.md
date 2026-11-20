@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Composite Armor» — T&R 1.13, `composite_armor`"
 project: vic3
 audience: agent

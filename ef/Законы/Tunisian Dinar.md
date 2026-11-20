@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Tunisian Dinar» — E&F 1.13, `law_dinar_tunisian_dinar_currency`"
 project: vic3
 audience: agent

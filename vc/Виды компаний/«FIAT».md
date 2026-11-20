@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««FIAT»» — VC 1.15, `company_fiat`"
 project: vic3
 audience: agent

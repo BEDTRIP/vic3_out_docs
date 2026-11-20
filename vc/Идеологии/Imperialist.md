@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Imperialist» — VC 1.15, `ideology_imperialism`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Smart Grid Energy Management (pm_smart_grid_hydro)» — T&R 1.13, `pm_smart_grid_hydro`"
 project: vic3
 audience: agent

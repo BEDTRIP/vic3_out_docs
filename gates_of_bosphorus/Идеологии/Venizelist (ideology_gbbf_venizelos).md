@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Venizelist (ideology_gbbf_venizelos)» — Gates of Bosphorus 1.15, `ideology_gbbf_venizelos`"
 project: vic3
 audience: agent

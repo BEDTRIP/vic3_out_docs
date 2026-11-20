@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Gender Complementarian» — Hail Columbia 1.13, `ideology_usfp_gender_complementarian`"
 project: vic3
 audience: agent

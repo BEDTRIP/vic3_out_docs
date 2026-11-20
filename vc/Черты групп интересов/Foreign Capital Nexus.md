@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Foreign Capital Nexus» — VC 1.15, `ig_trait_foreign_capital_nexus`"
 project: vic3
 audience: agent

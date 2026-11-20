@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Bunge y Born»» — VC 1.15, `company_bunge_born`"
 project: vic3
 audience: agent

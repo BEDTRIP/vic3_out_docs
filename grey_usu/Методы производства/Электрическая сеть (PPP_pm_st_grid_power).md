@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Электрическая сеть (PPP_pm_st_grid_power)» — grey USU 1.13, `PPP_pm_st_grid_power`"
 project: vic3
 audience: agent

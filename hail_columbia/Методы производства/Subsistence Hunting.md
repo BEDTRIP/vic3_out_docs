@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Subsistence Hunting» — Hail Columbia 1.13, `usfp_pm_subsistence_hunting`"
 project: vic3
 audience: agent

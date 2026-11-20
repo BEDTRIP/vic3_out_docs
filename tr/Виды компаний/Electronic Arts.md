@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Electronic Arts» — T&R 1.13, `company_electronic_arts`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Jakub Klein a spol» — VC 1.15, `company_jakub_klein`"
 project: vic3
 audience: agent

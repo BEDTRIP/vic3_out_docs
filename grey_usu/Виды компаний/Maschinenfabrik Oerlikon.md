@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Maschinenfabrik Oerlikon» — grey USU 1.13, `company_maschinenfabrik_oerlikon`"
 project: vic3
 audience: agent

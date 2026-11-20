@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_usfp_progressive» — CMF 1.15, `ideology_usfp_progressive`"
 project: vic3
 audience: agent

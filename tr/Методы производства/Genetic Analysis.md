@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Genetic Analysis» — T&R 1.13, `pm_genetic_analysis_breeding`"
 project: vic3
 audience: agent

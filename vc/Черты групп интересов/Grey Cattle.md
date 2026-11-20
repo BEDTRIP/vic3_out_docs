@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Grey Cattle» — VC 1.15, `ig_trait_gray_cattle`"
 project: vic3
 audience: agent

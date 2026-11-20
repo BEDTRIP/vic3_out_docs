@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Local Autonomies» — TGR 1.15, `law_local_autonomies`"
 project: vic3
 audience: agent

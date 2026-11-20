@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Social Darwinist» — Hail Columbia 1.13, `ideology_usfp_social_darwinist_leader`"
 project: vic3
 audience: agent

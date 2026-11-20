@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Companhia União Fabril» — grey USU 1.13, `company_uniao_fabril`"
 project: vic3
 audience: agent

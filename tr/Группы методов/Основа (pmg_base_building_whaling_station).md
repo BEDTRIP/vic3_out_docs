@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_whaling_station)» — T&R 1.13, `pmg_base_building_whaling_station`"
 project: vic3
 audience: agent

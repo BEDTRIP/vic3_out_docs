@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Neo-Imperialism» — T&R 1.13, `neoimperialism`"
 project: vic3
 audience: agent

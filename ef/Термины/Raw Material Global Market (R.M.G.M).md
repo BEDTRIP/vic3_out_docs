@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Raw Material Global Market (R.M.G.M)» — подсказка-понятие Victoria 3 1.13 (`concept_r_m_g_m`)"
 project: vic3
 audience: agent

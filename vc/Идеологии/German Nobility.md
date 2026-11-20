@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «German Nobility» — VC 1.15, `ideology_german_nobles`"
 project: vic3
 audience: agent

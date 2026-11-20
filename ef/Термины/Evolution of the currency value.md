@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Evolution of the currency value» — подсказка-понятие Victoria 3 1.13 (`concept_evolution_of_the_currency_value`)"
 project: vic3
 audience: agent

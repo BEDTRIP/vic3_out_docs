@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Quartz Glass» — T&R 1.13, `quartz_glass`"
 project: vic3
 audience: agent

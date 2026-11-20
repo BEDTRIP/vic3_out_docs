@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Automation» — Gates of Bosphorus 1.15, `pmg_esparto_automation`"
 project: vic3
 audience: agent

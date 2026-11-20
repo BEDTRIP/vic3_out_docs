@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «General Motors» — T&R 1.13, `company_general_motors`"
 project: vic3
 audience: agent

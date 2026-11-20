@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Polluting Mining Banned» — T&R 1.13, `law_polluting_mining_banned`"
 project: vic3
 audience: agent

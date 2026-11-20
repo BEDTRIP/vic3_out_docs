@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Market Studies» — T&R 1.13, `market_studies`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Neoclassical Plays» — T&R 1.13, `classic_plays_pm`"
 project: vic3
 audience: agent

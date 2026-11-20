@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Ethylene» — T&R 1.13, `polyethylene`"
 project: vic3
 audience: agent

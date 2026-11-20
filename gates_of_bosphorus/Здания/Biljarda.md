@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Biljarda» — Gates of Bosphorus 1.15, `gbbf_building_biljarda`"
 project: vic3
 audience: agent

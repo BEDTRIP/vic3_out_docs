@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Racial Prejudice» — VC 1.15, `ig_trait_racism`"
 project: vic3
 audience: agent

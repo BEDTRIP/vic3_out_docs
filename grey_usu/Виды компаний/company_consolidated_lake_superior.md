@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_consolidated_lake_superior» — grey USU 1.13, `company_consolidated_lake_superior`"
 project: vic3
 audience: agent

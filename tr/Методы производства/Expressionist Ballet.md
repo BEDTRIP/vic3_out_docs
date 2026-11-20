@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Expressionist Ballet» — T&R 1.13, `pm_elgar_expressionistic_ballet`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Hippodrome» — Gates of Bosphorus 1.15, `pmg_gbbf_hippodrome`"
 project: vic3
 audience: agent

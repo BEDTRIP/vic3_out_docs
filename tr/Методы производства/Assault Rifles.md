@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Assault Rifles» — T&R 1.13, `pm_assault_rifles`"
 project: vic3
 audience: agent

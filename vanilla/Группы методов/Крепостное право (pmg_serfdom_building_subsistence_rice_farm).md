@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Крепостное право (pmg_serfdom_building_subsistence_rice_farm)» — ваниль 1.15, `pmg_serfdom_building_subsistence_rice_farm`"
 project: vic3
 audience: agent

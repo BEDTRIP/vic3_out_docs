@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Kazatomprom» — T&R 1.13, `company_kazatomprom`"
 project: vic3
 audience: agent

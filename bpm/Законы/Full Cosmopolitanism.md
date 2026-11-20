@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Full Cosmopolitanism» — BPM 1.13, `law_multicultural_upgraded`"
 project: vic3
 audience: agent

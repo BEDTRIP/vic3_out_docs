@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Counterculture» — T&R 1.13, `counterculture`"
 project: vic3
 audience: agent

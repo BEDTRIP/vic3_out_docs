@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Natural Waterway» — LLWA 1.13, `LLWA_building_riverway`"
 project: vic3
 audience: agent

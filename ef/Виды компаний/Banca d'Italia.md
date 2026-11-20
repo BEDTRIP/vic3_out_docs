@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banca d'Italia» — E&F 1.13, `company_BancaDItalia`"
 project: vic3
 audience: agent

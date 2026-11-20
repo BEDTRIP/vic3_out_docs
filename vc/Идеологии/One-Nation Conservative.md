@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «One-Nation Conservative» — VC 1.15, `ideology_one_nation_conservatism_leader`"
 project: vic3
 audience: agent

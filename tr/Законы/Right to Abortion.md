@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Right to Abortion» — T&R 1.13, `law_abortion`"
 project: vic3
 audience: agent

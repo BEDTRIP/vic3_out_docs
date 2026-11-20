@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Autocracy» — подсказка-понятие Victoria 3 1.13 (`concept_autocracy`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «No UN Statement» — подсказка-понятие Victoria 3 1.13 (`concept_un_decolonization_neutral`)"
 project: vic3
 audience: agent

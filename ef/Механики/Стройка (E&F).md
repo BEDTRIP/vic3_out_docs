@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Как E&F (снимок 1.13) трогает стройку ваниль: своё частное здание стройки building_ef_private_construction с дешёвыми материалами и выпуском «акций», ликвидность в инфраструктуре, стартовые сектора; ванильный сектор не заменён"
 project: vic3
 source: ef

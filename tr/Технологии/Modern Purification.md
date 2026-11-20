@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Purification» — T&R 1.13, `selective_mineral_extraction`"
 project: vic3
 audience: agent

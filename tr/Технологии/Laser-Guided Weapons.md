@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Laser-Guided Weapons» — T&R 1.13, `laser_guided_weapons`"
 project: vic3
 audience: agent

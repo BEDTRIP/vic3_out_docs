@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Le Soir»» — Morgenröte 1.15, `pbi_company_le_soir`"
 project: vic3
 audience: agent

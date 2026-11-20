@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Nile Barrage» — Gates of Bosphorus 1.15, `pmg_gbbf_nile_barrage`"
 project: vic3
 audience: agent

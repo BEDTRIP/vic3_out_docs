@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Société Franco-Belge»» — grey USU 1.13, `company_franco_belge`"
 project: vic3
 audience: agent

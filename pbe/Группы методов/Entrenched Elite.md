@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Entrenched Elite» — PBE 1.15, `pmg_entrenched_building_manor_house`"
 project: vic3
 audience: agent

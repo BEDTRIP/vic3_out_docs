@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Kajima» — grey USU 1.13, `company_Kajima`"
 project: vic3
 audience: agent

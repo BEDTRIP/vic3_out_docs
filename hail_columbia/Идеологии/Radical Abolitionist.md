@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Radical Abolitionist» — Hail Columbia 1.13, `ideology_usfp_abolitionist_radical`"
 project: vic3
 audience: agent

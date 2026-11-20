@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Musical Instruments» — T&R 1.13, `pmg_elgar_instruments`"
 project: vic3
 audience: agent

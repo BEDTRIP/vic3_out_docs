@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ericsson»» — T&R 1.13, `company_ericsson`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Money Supply» — подсказка-понятие Victoria 3 1.13 (`concept_money_supply`)"
 project: vic3
 audience: agent

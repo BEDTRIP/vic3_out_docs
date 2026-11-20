@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Nacional de San Carlos» — E&F 1.13, `company_BankofSpain`"
 project: vic3
 audience: agent

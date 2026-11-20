@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Fraternal Societies» — Hail Columbia 1.13, `law_usfp_fraternities`"
 project: vic3
 audience: agent

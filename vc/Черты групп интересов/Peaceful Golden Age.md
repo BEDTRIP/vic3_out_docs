@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Peaceful Golden Age» — VC 1.15, `ig_trait_peaceful_times`"
 project: vic3
 audience: agent

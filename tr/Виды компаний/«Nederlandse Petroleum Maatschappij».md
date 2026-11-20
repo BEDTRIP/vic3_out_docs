@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Nederlandse Petroleum Maatschappij»» — T&R 1.13, `company_nederlandse_petroleum`"
 project: vic3
 audience: agent

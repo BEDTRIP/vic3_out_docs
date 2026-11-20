@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Popular Writers» — VC 1.15, `ig_trait_popular_writers`"
 project: vic3
 audience: agent

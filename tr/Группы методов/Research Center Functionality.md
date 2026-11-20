@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Research Center Functionality» — T&R 1.13, `pmg_base_building_research_center`"
 project: vic3
 audience: agent

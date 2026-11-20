@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_lanfang_kongsi» — grey USU 1.13, `:company_lanfang_kongsi`"
 project: vic3
 audience: agent

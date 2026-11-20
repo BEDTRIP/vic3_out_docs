@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Military Sector Investments» — TGR 1.15, `economic_incentives_military`"
 project: vic3
 audience: agent

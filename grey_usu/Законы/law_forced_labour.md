@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «law_forced_labour» — grey USU 1.13, `law_forced_labour`"
 project: vic3
 audience: agent

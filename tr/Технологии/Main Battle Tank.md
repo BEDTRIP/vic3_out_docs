@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Main Battle Tank» — T&R 1.13, `main_battle_tank`"
 project: vic3
 audience: agent

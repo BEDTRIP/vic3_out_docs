@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «National Park» — Hail Columbia 1.13, `building_usfp_national_park`"
 project: vic3
 audience: agent

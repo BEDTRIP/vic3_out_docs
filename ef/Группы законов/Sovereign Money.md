@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Sovereign Money» — E&F 1.13, `lawgroup_currency_type`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_motor_industry)» — ваниль 1.15, `pm_assembly_lines_building_motor_industry`"
 project: vic3
 audience: agent

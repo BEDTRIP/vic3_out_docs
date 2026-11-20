@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_private_charters» — grey USU 1.13, `pm_private_charters`"
 project: vic3
 audience: agent

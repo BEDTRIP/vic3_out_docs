@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «gbbf_situation_background_desert» — Gates of Bosphorus 1.15, `gbbf_situation_background_desert`"
 project: vic3
 audience: agent

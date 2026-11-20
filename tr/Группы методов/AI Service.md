@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «AI Service» — T&R 1.13, `pmg_ai_systems_building_datacenter`"
 project: vic3
 audience: agent

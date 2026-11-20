@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Debt Currency Exchange Regime» — E&F 1.13, `debt_currency_exchange_regime`"
 project: vic3
 audience: agent

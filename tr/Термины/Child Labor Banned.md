@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Child Labor Banned» — подсказка-понятие Victoria 3 1.13 (`concept_un_children_rights_compulsory_study`)"
 project: vic3
 audience: agent

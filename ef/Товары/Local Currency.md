@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Local Currency» — E&F 1.13, `local_currency`"
 project: vic3
 audience: agent

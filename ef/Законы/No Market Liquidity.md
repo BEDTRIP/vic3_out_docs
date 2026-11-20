@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Market Liquidity» — E&F 1.13, `law_no_market_liquidity`"
 project: vic3
 audience: agent

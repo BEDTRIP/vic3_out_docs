@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_art_academy)» — T&R 1.13, `pmg_base_building_art_academy`"
 project: vic3
 audience: agent

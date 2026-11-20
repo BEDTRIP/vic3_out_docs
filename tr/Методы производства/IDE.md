@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «IDE» — T&R 1.13, `pm_integrated_development_environment_building_software_industry`"
 project: vic3
 audience: agent

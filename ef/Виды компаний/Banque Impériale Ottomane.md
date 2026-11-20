@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banque Impériale Ottomane» — E&F 1.13, `company_BanqueImperialeOttomane`"
 project: vic3
 audience: agent

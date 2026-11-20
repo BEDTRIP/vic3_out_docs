@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Coal Gasification» — T&R 1.13, `coal_gasification`"
 project: vic3
 audience: agent

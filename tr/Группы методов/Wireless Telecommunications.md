@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Wireless Telecommunications» — T&R 1.13, `pmg_mobile_network_building_telecommunications`"
 project: vic3
 audience: agent

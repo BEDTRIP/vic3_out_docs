@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Modern State Building Baseline» — T&R 1.13, `building_modern_state_baseline`"
 project: vic3
 audience: agent

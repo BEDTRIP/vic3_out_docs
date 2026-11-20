@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Revivalist» — VC 1.15, `ideology_revivalism`"
 project: vic3
 audience: agent

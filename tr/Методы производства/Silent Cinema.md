@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Silent Cinema» — T&R 1.13, `silent_films`"
 project: vic3
 audience: agent

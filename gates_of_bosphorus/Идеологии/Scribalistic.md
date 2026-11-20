@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Scribalistic» — Gates of Bosphorus 1.15, `ideology_gbbf_scribalist`"
 project: vic3
 audience: agent

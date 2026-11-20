@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Retirement Age» — TGR 1.15, `law_no_retirement_age`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «LG» — T&R 1.13, `company_lg`"
 project: vic3
 audience: agent

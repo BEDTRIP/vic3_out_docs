@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин игры «Нет (alert_settings_none)» — подсказка-понятие Victoria 3 1.15 (`concept_alert_settings_none`)"
 project: vic3
 audience: agent

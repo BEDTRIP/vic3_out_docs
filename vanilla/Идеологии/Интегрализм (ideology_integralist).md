@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Интегрализм (ideology_integralist)» — ваниль 1.15, `ideology_integralist`"
 project: vic3
 audience: agent

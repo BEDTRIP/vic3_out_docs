@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Bioethics» — T&R 1.13, `lawgroup_bioethics`"
 project: vic3
 audience: agent

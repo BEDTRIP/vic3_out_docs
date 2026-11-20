@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «App Economy» — T&R 1.13, `app_economy`"
 project: vic3
 audience: agent

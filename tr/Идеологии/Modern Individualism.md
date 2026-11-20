@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Modern Individualism» — T&R 1.13, `ideology_modern_individualism`"
 project: vic3
 audience: agent

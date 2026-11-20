@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Capgemini» — T&R 1.13, `company_capgemini`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Кирки и лопаты (pm_picks_and_shovels_building_copper_mine)» — ваниль 1.15, `pm_picks_and_shovels_building_copper_mine`"
 project: vic3
 audience: agent

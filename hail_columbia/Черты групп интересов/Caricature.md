@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Caricature» — Hail Columbia 1.13, `usfp_ig_trait_caricature`"
 project: vic3
 audience: agent

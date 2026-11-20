@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Частная собственность (pm_manor_house_privately_owned)» — TGR 1.15, `pm_manor_house_privately_owned`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: map
+type: moc
 description: "Карта терминов мода Mandate of Heaven — его подсказки-понятия по алфавиту"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Irrationalism» — T&R 1.13, `elgar_irrationalism_tech`"
 project: vic3
 audience: agent

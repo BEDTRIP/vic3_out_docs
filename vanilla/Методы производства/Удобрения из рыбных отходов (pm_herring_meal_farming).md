@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Удобрения из рыбных отходов (pm_herring_meal_farming)» — ваниль 1.15, `pm_herring_meal_farming`"
 project: vic3
 audience: agent

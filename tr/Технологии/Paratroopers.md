@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Paratroopers» — T&R 1.13, `paratroopers`"
 project: vic3
 audience: agent

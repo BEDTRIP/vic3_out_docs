@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Statists» — VC 1.15, `ideology_economic_statism`"
 project: vic3
 audience: agent

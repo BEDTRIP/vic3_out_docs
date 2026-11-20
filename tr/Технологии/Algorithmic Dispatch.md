@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Algorithmic Dispatch» — T&R 1.13, `algorithmic_dispatch`"
 project: vic3
 audience: agent

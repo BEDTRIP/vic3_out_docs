@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Invite Foreign Investors» — TGR 1.15, `foreign_policy_foreign_investments`"
 project: vic3
 audience: agent

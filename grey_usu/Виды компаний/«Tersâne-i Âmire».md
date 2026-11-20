@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Tersâne-i Âmire»» — grey USU 1.13, `company_imperial_arsenal`"
 project: vic3
 audience: agent

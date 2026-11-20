@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Flight Type» — T&R 1.13, `pmg_base_building_airport`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Targeted Immunotherapy» — T&R 1.13, `targeted_immunotherapy`"
 project: vic3
 audience: agent

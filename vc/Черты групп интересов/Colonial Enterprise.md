@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Colonial Enterprise» — VC 1.15, `ig_trait_colonial_commerce`"
 project: vic3
 audience: agent

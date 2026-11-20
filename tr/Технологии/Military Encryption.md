@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Military Encryption» — T&R 1.13, `military_encryption`"
 project: vic3
 audience: agent

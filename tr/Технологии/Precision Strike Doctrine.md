@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Precision Strike Doctrine» — T&R 1.13, `precision_strike_doctrine`"
 project: vic3
 audience: agent

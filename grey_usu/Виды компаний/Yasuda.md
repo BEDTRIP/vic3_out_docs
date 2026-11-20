@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Yasuda» — grey USU 1.13, `company_yasuda`"
 project: vic3
 audience: agent

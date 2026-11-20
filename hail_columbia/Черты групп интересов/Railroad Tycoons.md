@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Railroad Tycoons» — Hail Columbia 1.13, `usfp_ig_trait_rail_tycoons`"
 project: vic3
 audience: agent

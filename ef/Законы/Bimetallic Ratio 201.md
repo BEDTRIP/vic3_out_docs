@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Bimetallic Ratio 201» — E&F 1.13, `law_bimetallic_ratio_20`"
 project: vic3
 audience: agent

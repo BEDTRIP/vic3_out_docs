@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Reactionary Paternalistic» — BPM 1.13, `ideology_wel_reactionary_paternalistic`"
 project: vic3
 audience: agent

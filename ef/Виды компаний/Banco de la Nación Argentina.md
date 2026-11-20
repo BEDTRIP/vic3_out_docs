@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de la Nación Argentina» — E&F 1.13, `company_BancoNacionArgentina`"
 project: vic3
 audience: agent

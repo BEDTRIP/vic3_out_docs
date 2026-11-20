@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Pelt Hunting» — Hail Columbia 1.13, `usfp_pmg_base_building_fur_trapper`"
 project: vic3
 audience: agent

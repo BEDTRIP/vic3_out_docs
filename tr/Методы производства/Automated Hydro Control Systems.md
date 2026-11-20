@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Automated Hydro Control Systems» — T&R 1.13, `pm_automated_hydro_control_systems`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_trade_center)» — grey USU 1.13, `pmg_base_building_trade_center`"
 project: vic3
 audience: agent

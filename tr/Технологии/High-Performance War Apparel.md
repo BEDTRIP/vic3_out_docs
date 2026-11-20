@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «High-Performance War Apparel» — T&R 1.13, `high_performance_apparel`"
 project: vic3
 audience: agent

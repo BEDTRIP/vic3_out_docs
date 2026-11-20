@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Lilpop, Rau i Loewenstein»» — T&R 1.13, `company_lilpop`"
 project: vic3
 audience: agent

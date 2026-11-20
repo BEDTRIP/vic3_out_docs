@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Indies Guilder» — E&F 1.13, `law_gulden_indies_guilder_currency`"
 project: vic3
 audience: agent

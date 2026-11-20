@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Imperial Airways» — Morgenröte 1.15, `curtiss_company_imperial_airways`"
 project: vic3
 audience: agent

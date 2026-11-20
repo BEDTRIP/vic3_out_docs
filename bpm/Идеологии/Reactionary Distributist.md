@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Reactionary Distributist» — BPM 1.13, `ideology_reactionary_anti_capitalist`"
 project: vic3
 audience: agent

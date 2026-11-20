@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «La Gran Azucarera» — ваниль 1.15, `company_gran_azucarera`"
 project: vic3
 audience: agent

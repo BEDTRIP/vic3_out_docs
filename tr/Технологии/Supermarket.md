@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Supermarket» — T&R 1.13, `supermarket`"
 project: vic3
 audience: agent

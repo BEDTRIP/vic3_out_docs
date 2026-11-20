@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Бакуфу (ideology_bakufu)» — ваниль 1.15, `ideology_bakufu`"
 project: vic3
 audience: agent

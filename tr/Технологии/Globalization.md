@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Globalization» — T&R 1.13, `globalization`"
 project: vic3
 audience: agent

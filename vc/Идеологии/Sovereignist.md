@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Sovereignist» — VC 1.15, `ideology_indian_farmer_sovereignist`"
 project: vic3
 audience: agent

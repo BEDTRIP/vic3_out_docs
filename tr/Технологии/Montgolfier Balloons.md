@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Montgolfier Balloons» — T&R 1.13, `curtiss_montgolfier_balloon_tech`"
 project: vic3
 audience: agent

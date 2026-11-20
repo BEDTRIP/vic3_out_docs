@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_usfp_abolitionist_radical» — CMF 1.15, `ideology_usfp_abolitionist_radical`"
 project: vic3
 audience: agent

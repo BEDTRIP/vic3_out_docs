@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Catalytic Cracking» — T&R 1.13, `pm_catalytic_cracking`"
 project: vic3
 audience: agent

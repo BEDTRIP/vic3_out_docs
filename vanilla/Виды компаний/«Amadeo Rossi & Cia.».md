@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Amadeo Rossi & Cia.»» — ваниль 1.15, `company_rossi`"
 project: vic3
 audience: agent

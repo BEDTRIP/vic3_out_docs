@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ilva»» — T&R 1.13, `company_ilva`"
 project: vic3
 audience: agent

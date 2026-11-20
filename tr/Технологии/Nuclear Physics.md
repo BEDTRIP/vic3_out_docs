@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Nuclear Physics» — T&R 1.13, `verrier_nuclear_physics_tech`"
 project: vic3
 audience: agent

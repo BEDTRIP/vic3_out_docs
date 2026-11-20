@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Plastic Recovery» — T&R 1.13, `plastic_recovery`"
 project: vic3
 audience: agent

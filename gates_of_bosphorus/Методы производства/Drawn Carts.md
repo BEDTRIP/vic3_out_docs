@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Drawn Carts» — Gates of Bosphorus 1.15, `pm_gbbf_drawn_carts`"
 project: vic3
 audience: agent

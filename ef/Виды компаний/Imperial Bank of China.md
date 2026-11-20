@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Imperial Bank of China» — E&F 1.13, `company_BankIBC`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««John Brown & Company»» — VC 1.15, `company_john_brown`"
 project: vic3
 audience: agent

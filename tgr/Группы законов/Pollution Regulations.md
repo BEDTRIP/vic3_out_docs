@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Pollution Regulations» — TGR 1.15, `lawgroup_environment`"
 project: vic3
 audience: agent

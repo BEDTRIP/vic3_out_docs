@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Hippopotamus Hunting» — Hail Columbia 1.13, `usfp_pm_hippo_hunting`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Philippine Peso» — E&F 1.13, `law_peso_philippine_peso_currency`"
 project: vic3
 audience: agent

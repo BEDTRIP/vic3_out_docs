@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «A. Markwald & Company, Ltd» — ваниль 1.15, `company_a_markwald_and_company`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Против рабства (ideology_anti_slavery)» — ваниль 1.15, `ideology_anti_slavery`"
 project: vic3
 audience: agent

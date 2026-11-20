@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Сверхбыстрое замораживание (pm_flash_freezing_building_fishing_wharf)» — ваниль 1.15, `pm_flash_freezing_building_fishing_wharf`"
 project: vic3
 audience: agent

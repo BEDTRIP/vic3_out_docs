@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Johannesburg Stock Exchange» — E&F 1.13, `building_financial_centre_saf`"
 project: vic3
 audience: agent

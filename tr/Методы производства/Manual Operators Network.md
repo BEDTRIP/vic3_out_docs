@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Manual Operators Network» — T&R 1.13, `pm_manual_operators_network_building_telecommunications`"
 project: vic3
 audience: agent

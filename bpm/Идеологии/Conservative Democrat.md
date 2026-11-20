@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Conservative Democrat» — BPM 1.13, `ideology_dop_conservative_democrat`"
 project: vic3
 audience: agent

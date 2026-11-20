@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_homemade_tools» — grey food 2 ranch 1.13, `pm_homemade_tools`"
 project: vic3
 audience: agent

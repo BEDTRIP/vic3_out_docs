@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Compañía Sudamericana de Vapores»» — ваниль 1.15, `company_sudamericana_de_vapores`"
 project: vic3
 audience: agent

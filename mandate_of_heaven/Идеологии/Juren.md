@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Juren» — Mandate of Heaven 1.15, `ideology_eight_legged`"
 project: vic3
 audience: agent

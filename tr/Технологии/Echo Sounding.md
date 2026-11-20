@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Echo Sounding» — T&R 1.13, `agassiz_sounding_tech`"
 project: vic3
 audience: agent

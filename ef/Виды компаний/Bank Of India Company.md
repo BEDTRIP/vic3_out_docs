@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bank Of India Company» — E&F 1.13, `company_BankOfIndiaCompany`"
 project: vic3
 audience: agent

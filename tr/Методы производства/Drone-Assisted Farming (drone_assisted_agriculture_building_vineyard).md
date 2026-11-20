@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Drone-Assisted Farming (drone_assisted_agriculture_building_vineyard)» — T&R 1.13, `drone_assisted_agriculture_building_vineyard`"
 project: vic3
 audience: agent

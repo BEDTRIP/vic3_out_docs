@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Conglomerato delle Due Sicilie» — TGR 1.15, `company_mantero_seta_two_sicilies`"
 project: vic3
 audience: agent

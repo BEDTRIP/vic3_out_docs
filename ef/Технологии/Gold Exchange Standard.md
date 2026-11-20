@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Gold Exchange Standard» — E&F 1.13, `gold_exchange_standard`"
 project: vic3
 audience: agent

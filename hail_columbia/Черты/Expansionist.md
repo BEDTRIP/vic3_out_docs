@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Expansionist» — Hail Columbia 1.13, `usfp_trait_expansionist`"
 project: vic3
 audience: agent

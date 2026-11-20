@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Престиж (pm_monument_prestige_only)» — ваниль 1.15, `pm_monument_prestige_only`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Стандартное производство (pm_default_building_sagrada_familia_cathedral_1)» — ваниль 1.15, `pm_default_building_sagrada_familia_cathedral_1`"
 project: vic3
 audience: agent

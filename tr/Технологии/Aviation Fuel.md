@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Aviation Fuel» — T&R 1.13, `curtiss_modern_aviation_tech`"
 project: vic3
 audience: agent

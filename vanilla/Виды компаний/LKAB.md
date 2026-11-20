@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «LKAB» — ваниль 1.15, `company_lkab`"
 project: vic3
 audience: agent

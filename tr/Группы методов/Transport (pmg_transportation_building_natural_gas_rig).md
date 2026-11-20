@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Transport (pmg_transportation_building_natural_gas_rig)» — T&R 1.13, `pmg_transportation_building_natural_gas_rig`"
 project: vic3
 audience: agent

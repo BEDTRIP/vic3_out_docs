@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Witkowitzer Bergbau- und Hüttengewerkschaft» — ваниль 1.15, `company_witkowitzer_bergbau_und_huttengewerkschaft`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Tribal Tributes» — Gates of Bosphorus 1.15, `pm_gbbf_sahara_tributes`"
 project: vic3
 audience: agent

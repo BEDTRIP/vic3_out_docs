@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Passenger Vessels» — LLWA 1.13, `LLWA_pmg_water_traffic`"
 project: vic3
 audience: agent

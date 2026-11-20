@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bourse de Paris» — E&F 1.13, `building_financial_centre_fra`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «National Sovranism» — TGR 1.15, `foreign_policy_sovranist_policy`"
 project: vic3
 audience: agent

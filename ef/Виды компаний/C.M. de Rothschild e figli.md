@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «C.M. de Rothschild e figli» — E&F 1.13, `company_Rothschild_Bank_ita`"
 project: vic3
 audience: agent

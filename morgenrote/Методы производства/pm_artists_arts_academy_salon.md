@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_artists_arts_academy_salon» — Morgenröte 1.15, `pm_artists_arts_academy_salon`"
 project: vic3
 audience: agent

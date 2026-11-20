@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Turkophagos» — Gates of Bosphorus 1.15, `gbbf_trait_turkophagos`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Крепостное право (pm_serfdom)» — ваниль 1.15, `pm_serfdom`"
 project: vic3
 audience: agent

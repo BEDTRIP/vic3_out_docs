@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Palace Service» — Gates of Bosphorus 1.15, `law_gbbf_palace_service`"
 project: vic3
 audience: agent

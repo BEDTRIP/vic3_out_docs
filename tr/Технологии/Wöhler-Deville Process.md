@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Wöhler-Deville Process» — T&R 1.13, `bauxite_processing`"
 project: vic3
 audience: agent

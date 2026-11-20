@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Паровик (pm_steam_donkey_mine)» — ваниль 1.15, `pm_steam_donkey_mine`"
 project: vic3
 audience: agent

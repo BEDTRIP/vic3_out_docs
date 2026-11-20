@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Alloys VAR» — T&R 1.13, `pm_vacuum_arc_remelting`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «special_prince_governor» — VC 1.15, `special_prince_governor`"
 project: vic3
 audience: agent

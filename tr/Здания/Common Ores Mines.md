@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Common Ores Mines» — T&R 1.13, `building_commonores_mine`"
 project: vic3
 audience: agent

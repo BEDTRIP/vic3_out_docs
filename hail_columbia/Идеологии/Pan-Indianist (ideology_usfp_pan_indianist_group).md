@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Pan-Indianist (ideology_usfp_pan_indianist_group)» — Hail Columbia 1.13, `ideology_usfp_pan_indianist_group`"
 project: vic3
 audience: agent

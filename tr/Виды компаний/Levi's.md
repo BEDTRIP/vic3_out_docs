@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Levi's» — T&R 1.13, `company_levi_strauss`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «3D Printed Tools» — T&R 1.13, `pm_3d_printed_tools`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Statutory Privileges» — VC 1.15, `ig_trait_statutory_privilege`"
 project: vic3
 audience: agent

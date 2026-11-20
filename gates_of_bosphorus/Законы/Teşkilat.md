@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Teşkilat» — Gates of Bosphorus 1.15, `law_gbbf_teshkilat`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Fuel» — T&R 1.13, `pmg_fuel_airport`"
 project: vic3
 audience: agent

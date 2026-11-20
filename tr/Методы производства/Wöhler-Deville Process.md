@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Wöhler-Deville Process» — T&R 1.13, `pm_wohler_deville_process`"
 project: vic3
 audience: agent

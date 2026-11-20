@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Удобрения (pm_fertilization)» — ваниль 1.15, `pm_fertilization`"
 project: vic3
 audience: agent

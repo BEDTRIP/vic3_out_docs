@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Stabbed in the Back» — VC 1.15, `ig_trait_stabbed_in_the_back`"
 project: vic3
 audience: agent

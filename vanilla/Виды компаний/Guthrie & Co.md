@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Guthrie & Co» — ваниль 1.15, `company_guthrie`"
 project: vic3
 audience: agent

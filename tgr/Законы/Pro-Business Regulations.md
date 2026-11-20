@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Pro-Business Regulations» — TGR 1.15, `law_salary_competitive_economy`"
 project: vic3
 audience: agent

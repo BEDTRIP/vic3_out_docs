@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Automated Rolling Makers» — T&R 1.13, `pm_automated_cigarette_makers`"
 project: vic3
 audience: agent

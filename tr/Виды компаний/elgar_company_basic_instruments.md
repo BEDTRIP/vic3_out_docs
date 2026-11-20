@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «elgar_company_basic_instruments» — T&R 1.13, `elgar_company_basic_instruments`"
 project: vic3
 audience: agent

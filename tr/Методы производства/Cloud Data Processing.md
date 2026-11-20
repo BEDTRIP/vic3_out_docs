@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Cloud Data Processing» — T&R 1.13, `pm_cloud_databased_data_analysis`"
 project: vic3
 audience: agent

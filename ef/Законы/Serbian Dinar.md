@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Serbian Dinar» — E&F 1.13, `law_dinar_serbian_dinar_currency`"
 project: vic3
 audience: agent

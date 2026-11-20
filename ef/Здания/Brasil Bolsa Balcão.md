@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Brasil Bolsa Balcão» — E&F 1.13, `building_financial_centre_brz`"
 project: vic3
 audience: agent

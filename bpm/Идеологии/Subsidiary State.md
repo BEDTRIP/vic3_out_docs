@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Subsidiary State» — BPM 1.13, `ideology_sta_regionalized_state`"
 project: vic3
 audience: agent

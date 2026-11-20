@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Beylerbeylik Policing» — Gates of Bosphorus 1.15, `law_gbbf_beylerbeylik_policing`"
 project: vic3
 audience: agent

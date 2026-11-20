@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Hall-Héroult Process» — T&R 1.13, `pm_hall_heroult_process`"
 project: vic3
 audience: agent

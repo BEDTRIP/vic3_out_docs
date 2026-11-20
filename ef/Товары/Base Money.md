@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Base Money» — E&F 1.13, `liquidity_currency`"
 project: vic3
 audience: agent

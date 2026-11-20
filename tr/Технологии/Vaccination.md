@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Vaccination» — T&R 1.13, `panum_vaccination_tech`"
 project: vic3
 audience: agent

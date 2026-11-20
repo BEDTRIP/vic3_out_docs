@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Basic Appliances» — T&R 1.13, `basic_home_appliances`"
 project: vic3
 audience: agent

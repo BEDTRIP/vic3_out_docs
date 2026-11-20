@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Erie Canal» — Hail Columbia 1.13, `building_usfp_erie_canal`"
 project: vic3
 audience: agent

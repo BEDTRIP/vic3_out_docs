@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Anglo Persian Bank» — E&F 1.13, `company_BankAngloPersian`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Sherkat-e Eslamiya»» — TGR 1.15, `company_sherkate_eslamiya`"
 project: vic3
 audience: agent

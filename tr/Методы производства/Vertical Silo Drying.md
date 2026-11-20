@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Vertical Silo Drying» — T&R 1.13, `pm_vertical_silo_drying`"
 project: vic3
 audience: agent

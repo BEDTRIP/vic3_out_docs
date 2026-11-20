@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Rocketry» — T&R 1.13, `rocketery`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Uranium Ban» — T&R 1.13, `law_uranium_ban`"
 project: vic3
 audience: agent

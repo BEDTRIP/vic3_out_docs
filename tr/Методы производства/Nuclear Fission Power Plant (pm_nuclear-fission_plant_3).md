@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Nuclear Fission Power Plant (pm_nuclear-fission_plant_3)» — T&R 1.13, `pm_nuclear-fission_plant_3`"
 project: vic3
 audience: agent

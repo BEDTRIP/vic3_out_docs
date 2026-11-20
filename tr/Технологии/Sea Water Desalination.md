@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Sea Water Desalination» — T&R 1.13, `sea_water_desalination`"
 project: vic3
 audience: agent

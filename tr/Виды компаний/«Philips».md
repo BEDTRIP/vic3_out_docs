@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Philips»» — T&R 1.13, `company_philips`"
 project: vic3
 audience: agent

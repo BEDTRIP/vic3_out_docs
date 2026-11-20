@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «CAMECO» — T&R 1.13, `company_cameco`"
 project: vic3
 audience: agent

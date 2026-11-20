@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Large Scale Transmission» — T&R 1.13, `pmg_power_transmission_large`"
 project: vic3
 audience: agent

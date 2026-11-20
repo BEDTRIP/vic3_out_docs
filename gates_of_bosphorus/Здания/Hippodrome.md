@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Hippodrome» — Gates of Bosphorus 1.15, `gbbf_building_hippodrome`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Schneider et Cie»» — T&R 1.13, `company_schneider_creusot`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_intensive_diet_control» — grey food 2 ranch 1.13, `pm_intensive_diet_control`"
 project: vic3
 audience: agent

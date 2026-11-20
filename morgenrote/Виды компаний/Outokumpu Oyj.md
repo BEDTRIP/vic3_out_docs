@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Outokumpu Oyj» — Morgenröte 1.15, `mr_company_outokumpu`"
 project: vic3
 audience: agent

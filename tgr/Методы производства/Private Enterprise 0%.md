@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Private Enterprise 0%» — TGR 1.15, `pm_tgr_company_participation_0`"
 project: vic3
 audience: agent

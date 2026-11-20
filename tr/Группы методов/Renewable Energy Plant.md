@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Renewable Energy Plant» — T&R 1.13, `pmg_base_building_renewable_energy_power_plant`"
 project: vic3
 audience: agent

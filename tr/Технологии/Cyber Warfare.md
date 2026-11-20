@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Cyber Warfare» — T&R 1.13, `cyber_warfare`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Caisses Desjardins» — E&F 1.13, `company_BankDesjardins`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «By Divine Right» — VC 1.15, `ig_trait_godrights`"
 project: vic3
 audience: agent

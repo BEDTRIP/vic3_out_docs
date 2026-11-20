@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Zeppelin» — T&R 1.13, `pm_zeppelins_production`"
 project: vic3
 audience: agent

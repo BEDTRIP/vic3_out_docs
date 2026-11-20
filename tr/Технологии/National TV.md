@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «National TV» — T&R 1.13, `government_broadcasting`"
 project: vic3
 audience: agent

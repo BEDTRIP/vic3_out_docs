@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Mercantil Mexicano» — E&F 1.13, `company_BancoMercantilMexicano`"
 project: vic3
 audience: agent

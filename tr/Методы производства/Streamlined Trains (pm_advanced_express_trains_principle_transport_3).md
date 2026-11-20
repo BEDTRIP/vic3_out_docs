@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Streamlined Trains (pm_advanced_express_trains_principle_transport_3)» — T&R 1.13, `pm_advanced_express_trains_principle_transport_3`"
 project: vic3
 audience: agent

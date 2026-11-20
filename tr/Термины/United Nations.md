@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «United Nations» — подсказка-понятие Victoria 3 1.13 (`concept_united_nations`)"
 project: vic3
 audience: agent

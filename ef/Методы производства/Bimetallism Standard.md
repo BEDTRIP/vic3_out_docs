@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Bimetallism Standard» — E&F 1.13, `pm_bimetallism_standard_bank_money_currency`"
 project: vic3
 audience: agent

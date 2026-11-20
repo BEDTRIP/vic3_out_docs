@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Electric Buses» — LLWA 1.13, `LLWA_pm_electric_buses`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Aquafarm Systems» — T&R 1.13, `acquafarm_systems`"
 project: vic3
 audience: agent

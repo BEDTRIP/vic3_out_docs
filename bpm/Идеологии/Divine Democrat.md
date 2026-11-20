@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Divine Democrat» — BPM 1.13, `ideology_dop_divine_democrat`"
 project: vic3
 audience: agent

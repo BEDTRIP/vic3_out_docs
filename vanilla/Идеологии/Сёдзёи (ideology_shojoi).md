@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Сёдзёи (ideology_shojoi)» — ваниль 1.15, `ideology_shojoi`"
 project: vic3
 audience: agent

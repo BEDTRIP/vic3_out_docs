@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Duro y Compañía»» — T&R 1.13, `company_duro_y_compania`"
 project: vic3
 audience: agent

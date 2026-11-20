@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Stock Market Capitalization» — подсказка-понятие Victoria 3 1.13 (`concept_stock_market_index`)"
 project: vic3
 audience: agent

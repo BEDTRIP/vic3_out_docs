@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Solar Panels» — T&R 1.13, `pm_solar_panels`"
 project: vic3
 audience: agent

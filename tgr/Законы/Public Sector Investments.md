@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Public Sector Investments» — TGR 1.15, `economic_incentives_university`"
 project: vic3
 audience: agent

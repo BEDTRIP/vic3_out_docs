@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Nippon Gakki Co., Ltd» — Morgenröte 1.15, `elgar_company_nippon_gakki`"
 project: vic3
 audience: agent

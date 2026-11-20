@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «PET Bottles» — T&R 1.13, `pm_plastics_pipes_and_pet`"
 project: vic3
 audience: agent

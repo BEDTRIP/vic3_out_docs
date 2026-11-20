@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Global Production Chains Trading» — T&R 1.13, `pm_trade_center_trade_quantity_ultra`"
 project: vic3
 audience: agent

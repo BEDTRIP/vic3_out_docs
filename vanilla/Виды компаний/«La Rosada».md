@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««La Rosada»» — ваниль 1.15, `company_la_rosada`"
 project: vic3
 audience: agent

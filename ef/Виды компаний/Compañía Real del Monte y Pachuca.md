@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Compañía Real del Monte y Pachuca» — E&F 1.13, `company_basic_silver_mining_mex`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Nacional Ultramarino» — E&F 1.13, `company_Bank_Ultramarino`"
 project: vic3
 audience: agent

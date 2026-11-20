@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Instrument Workshops» — T&R 1.13, `building_instrument_workshops`"
 project: vic3
 audience: agent

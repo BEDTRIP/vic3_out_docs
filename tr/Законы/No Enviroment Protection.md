@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Enviroment Protection» — T&R 1.13, `law_no_protection`"
 project: vic3
 audience: agent

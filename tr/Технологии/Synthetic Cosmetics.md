@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Synthetic Cosmetics» — T&R 1.13, `synthetic_cosmetics`"
 project: vic3
 audience: agent

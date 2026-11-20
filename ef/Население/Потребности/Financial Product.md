@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Потребность населения «Financial Product» — E&F 1.13, `popneed_financial_products`"
 project: vic3
 audience: agent

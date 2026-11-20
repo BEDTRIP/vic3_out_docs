@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «God Save the Queen» — VC 1.15, `special_character_god_save_the_queen`"
 project: vic3
 audience: agent

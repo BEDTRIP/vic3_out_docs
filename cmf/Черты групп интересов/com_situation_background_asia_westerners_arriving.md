@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «com_situation_background_asia_westerners_arriving» — CMF 1.15, `com_situation_background_asia_westerners_arriving`"
 project: vic3
 audience: agent

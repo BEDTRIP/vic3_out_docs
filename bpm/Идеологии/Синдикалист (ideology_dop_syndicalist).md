@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Синдикалист (ideology_dop_syndicalist)» — BPM 1.13, `ideology_dop_syndicalist`"
 project: vic3
 audience: agent

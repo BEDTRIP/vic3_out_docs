@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_livestock_ranch)» — TGR 1.15, `pm_refrigerated_rail_cars_building_livestock_ranch`"
 project: vic3
 audience: agent

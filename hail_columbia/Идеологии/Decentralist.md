@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Decentralist» — Hail Columbia 1.13, `ideology_usfp_tribal_government`"
 project: vic3
 audience: agent

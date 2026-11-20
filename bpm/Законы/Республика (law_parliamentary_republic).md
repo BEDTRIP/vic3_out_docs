@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Республика (law_parliamentary_republic)» — BPM 1.13, `law_parliamentary_republic`"
 project: vic3
 audience: agent

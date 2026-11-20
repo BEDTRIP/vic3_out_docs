@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Корпоративизм (ideology_corporatist_movement)» — ваниль 1.15, `ideology_corporatist_movement`"
 project: vic3
 audience: agent

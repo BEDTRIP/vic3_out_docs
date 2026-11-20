@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Aeronautics & Astronautics Production» — T&R 1.13, `pmg_civil_space_aircraft`"
 project: vic3
 audience: agent

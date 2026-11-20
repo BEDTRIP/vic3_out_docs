@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Hoffmann-La Roche» — T&R 1.13, `company_hoffmann_la_roche`"
 project: vic3
 audience: agent

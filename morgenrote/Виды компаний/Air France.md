@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Air France» — Morgenröte 1.15, `curtiss_company_air_france`"
 project: vic3
 audience: agent

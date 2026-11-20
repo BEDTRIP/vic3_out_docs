@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Strongman Populist» — Hail Columbia 1.13, `ideology_usfp_strongman_populist`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Estado» — E&F 1.13, `company_BancoEstado`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Stagecoaches» — LLWA 1.13, `LLWA_pm_stagecoaches`"
 project: vic3
 audience: agent

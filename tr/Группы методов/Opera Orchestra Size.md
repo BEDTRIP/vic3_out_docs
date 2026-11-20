@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Opera Orchestra Size» — T&R 1.13, `pmg_elgar_orchestra`"
 project: vic3
 audience: agent

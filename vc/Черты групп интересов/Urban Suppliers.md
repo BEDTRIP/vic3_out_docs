@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Urban Suppliers» — VC 1.15, `ig_trait_urban_suppliers`"
 project: vic3
 audience: agent

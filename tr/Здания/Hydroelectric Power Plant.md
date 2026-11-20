@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Hydroelectric Power Plant» — T&R 1.13, `building_hydroelectric_power_plant`"
 project: vic3
 audience: agent

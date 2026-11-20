@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Compañía Sansinena de Carnes Congeladas» — VC 1.15, `company_compania_sansinena_de_carnes_congeladas`"
 project: vic3
 audience: agent

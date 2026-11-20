@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Same Sex Unions» — T&R 1.13, `lgbtq_civil_unions`"
 project: vic3
 audience: agent

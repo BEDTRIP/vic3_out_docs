@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Telecommunications» — T&R 1.13, `telecommunications`"
 project: vic3
 audience: agent

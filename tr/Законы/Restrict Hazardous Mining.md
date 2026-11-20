@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Restrict Hazardous Mining» — T&R 1.13, `law_mining_restrict_hazardous`"
 project: vic3
 audience: agent

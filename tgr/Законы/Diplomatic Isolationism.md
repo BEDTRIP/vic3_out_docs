@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Diplomatic Isolationism» — TGR 1.15, `foreign_policy_diplomatic_isolationism`"
 project: vic3
 audience: agent

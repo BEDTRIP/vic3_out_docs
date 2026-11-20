@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Смешанная сетевая поставка (PPP_pm_se_hybrid_power)» — grey USU 1.13, `PPP_pm_se_hybrid_power`"
 project: vic3
 audience: agent

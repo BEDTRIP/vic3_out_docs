@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «J.P. Morgan» — E&F 1.13, `company_BankJPMorgan`"
 project: vic3
 audience: agent

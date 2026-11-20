@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Alloys Plants» — T&R 1.13, `building_alloys_plant`"
 project: vic3
 audience: agent

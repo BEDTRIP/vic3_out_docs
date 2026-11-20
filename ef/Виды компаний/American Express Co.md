@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «American Express Co» — E&F 1.13, `company_BankAmericanExpress`"
 project: vic3
 audience: agent

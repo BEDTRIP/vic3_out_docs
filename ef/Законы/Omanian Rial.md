@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Omanian Rial» — E&F 1.13, `law_dinar_omanian_rial_currency`"
 project: vic3
 audience: agent

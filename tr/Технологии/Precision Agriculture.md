@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Precision Agriculture» — T&R 1.13, `precision_agriculture`"
 project: vic3
 audience: agent

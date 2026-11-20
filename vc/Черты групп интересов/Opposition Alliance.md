@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Opposition Alliance» — VC 1.15, `ig_trait_alianza_de_oposicion`"
 project: vic3
 audience: agent

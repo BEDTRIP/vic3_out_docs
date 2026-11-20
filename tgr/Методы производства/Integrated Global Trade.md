@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Integrated Global Trade» — TGR 1.15, `pm_tgr_trade_center_trade_quantity_x5`"
 project: vic3
 audience: agent

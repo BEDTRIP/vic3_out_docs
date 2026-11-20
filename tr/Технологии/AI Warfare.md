@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «AI Warfare» — T&R 1.13, `ai_warfare`"
 project: vic3
 audience: agent

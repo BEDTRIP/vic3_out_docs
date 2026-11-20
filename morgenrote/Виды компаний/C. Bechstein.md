@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «C. Bechstein» — Morgenröte 1.15, `elgar_company_c_bechstein`"
 project: vic3
 audience: agent

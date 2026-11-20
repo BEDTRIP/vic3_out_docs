@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Анархизм (ideology_anarchist)» — ваниль 1.15, `ideology_anarchist`"
 project: vic3
 audience: agent

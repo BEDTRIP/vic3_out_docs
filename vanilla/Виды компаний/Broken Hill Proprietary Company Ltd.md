@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Broken Hill Proprietary Company Ltd» — ваниль 1.15, `company_broken_hill_proprietary_company`"
 project: vic3
 audience: agent

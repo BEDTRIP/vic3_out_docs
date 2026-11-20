@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Schneider et Cie»» — VC 1.15, `company_schneider_creusot`"
 project: vic3
 audience: agent

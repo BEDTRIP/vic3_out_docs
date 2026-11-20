@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «United East India Company» — VC 1.15, `company_dutch_east_india_company`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Microsoft» — T&R 1.13, `company_microsoft`"
 project: vic3
 audience: agent

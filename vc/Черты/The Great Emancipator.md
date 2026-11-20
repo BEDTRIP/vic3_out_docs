@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «The Great Emancipator» — VC 1.15, `special_character_abraham_lincoln_popularity`"
 project: vic3
 audience: agent

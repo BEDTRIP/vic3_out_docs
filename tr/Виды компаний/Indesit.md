@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Indesit» — T&R 1.13, `company_indesit`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Подготовка (pmg_training_conscription)» — ваниль 1.15, `pmg_training_conscription`"
 project: vic3
 audience: agent

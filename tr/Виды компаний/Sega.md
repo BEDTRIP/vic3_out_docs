@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Sega» — T&R 1.13, `company_sega`"
 project: vic3
 audience: agent

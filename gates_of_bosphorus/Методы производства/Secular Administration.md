@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Secular Administration» — Gates of Bosphorus 1.15, `pm_gbbf_secular_administration`"
 project: vic3
 audience: agent

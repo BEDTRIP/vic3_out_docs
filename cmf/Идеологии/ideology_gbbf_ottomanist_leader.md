@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_gbbf_ottomanist_leader» — CMF 1.15, `ideology_gbbf_ottomanist_leader`"
 project: vic3
 audience: agent

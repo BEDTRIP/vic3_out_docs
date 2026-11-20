@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Местное электричество (PPP_pm_gt_local_power)» — grey USU 1.13, `PPP_pm_gt_local_power`"
 project: vic3
 audience: agent

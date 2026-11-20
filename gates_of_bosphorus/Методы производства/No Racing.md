@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Racing» — Gates of Bosphorus 1.15, `pm_gbbf_no_races`"
 project: vic3
 audience: agent

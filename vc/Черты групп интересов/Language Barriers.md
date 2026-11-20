@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Language Barriers» — VC 1.15, `ig_trait_language_barrier`"
 project: vic3
 audience: agent

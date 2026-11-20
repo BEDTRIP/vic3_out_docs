@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Nike» — T&R 1.13, `company_nike`"
 project: vic3
 audience: agent

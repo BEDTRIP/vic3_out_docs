@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Balance of Powers» — TGR 1.15, `law_chamber_of_deputies`"
 project: vic3
 audience: agent

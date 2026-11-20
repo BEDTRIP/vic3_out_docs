@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Pension Payments» — TGR 1.15, `law_no_pension`"
 project: vic3
 audience: agent

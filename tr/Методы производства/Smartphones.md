@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Smartphones» — T&R 1.13, `pm_smartphones`"
 project: vic3
 audience: agent

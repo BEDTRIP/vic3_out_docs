@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «ECM» — T&R 1.13, `electronic_countermeasures`"
 project: vic3
 audience: agent

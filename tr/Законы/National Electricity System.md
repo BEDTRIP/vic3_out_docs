@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «National Electricity System» — T&R 1.13, `law_national_electric_system`"
 project: vic3
 audience: agent

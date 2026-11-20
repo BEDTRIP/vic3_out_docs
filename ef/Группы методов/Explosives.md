@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Explosives» — E&F 1.13, `pmg_explosives_building_silver_mine`"
 project: vic3
 audience: agent

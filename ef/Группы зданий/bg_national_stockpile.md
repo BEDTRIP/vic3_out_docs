@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «bg_national_stockpile» — E&F 1.13, `bg_national_stockpile`"
 project: vic3
 audience: agent

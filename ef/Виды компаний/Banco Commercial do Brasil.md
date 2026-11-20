@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Commercial do Brasil» — E&F 1.13, `company_BancoCommercialDoBrasil`"
 project: vic3
 audience: agent

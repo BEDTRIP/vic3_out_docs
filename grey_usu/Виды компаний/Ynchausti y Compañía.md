@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Ynchausti y Compañía» — grey USU 1.13, `company_ynchausti_y_compania`"
 project: vic3
 audience: agent

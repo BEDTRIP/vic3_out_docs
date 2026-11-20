@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «National Academy of Sciences» — VC 1.15, `ig_trait_leopoldina`"
 project: vic3
 audience: agent

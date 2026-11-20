@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Wood Construction» — PSC 1.13, `wood_construction`"
 project: vic3
 audience: agent

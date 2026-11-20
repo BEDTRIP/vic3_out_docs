@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Compañía Estañífera de Llallagua»» — T&R 1.13, `company_estanifera_llallagua`"
 project: vic3
 audience: agent

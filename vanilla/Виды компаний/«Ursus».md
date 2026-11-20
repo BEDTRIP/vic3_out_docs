@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ursus»» — ваниль 1.15, `company_ursus`"
 project: vic3
 audience: agent

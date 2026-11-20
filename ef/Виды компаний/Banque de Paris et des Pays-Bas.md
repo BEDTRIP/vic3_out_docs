@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banque de Paris et des Pays-Bas» — E&F 1.13, `company_BanqueDeParisEtDesPaysBas`"
 project: vic3
 audience: agent

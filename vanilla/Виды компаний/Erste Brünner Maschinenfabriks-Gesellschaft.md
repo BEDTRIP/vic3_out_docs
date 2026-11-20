@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Erste Brünner Maschinenfabriks-Gesellschaft» — ваниль 1.15, `company_erste_brunner`"
 project: vic3
 audience: agent

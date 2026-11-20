@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Australian Securities Exchange» — E&F 1.13, `building_financial_centre_nsw`"
 project: vic3
 audience: agent

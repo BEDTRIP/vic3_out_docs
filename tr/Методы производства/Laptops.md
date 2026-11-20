@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Laptops» — T&R 1.13, `pm_laptops`"
 project: vic3
 audience: agent

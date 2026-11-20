@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Raising the Standard» — VC 1.15, `ig_trait_catch_a_fire`"
 project: vic3
 audience: agent

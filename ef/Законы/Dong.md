@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Dong» — E&F 1.13, `law_spe_dong_currency`"
 project: vic3
 audience: agent

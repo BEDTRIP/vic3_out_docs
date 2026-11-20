@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Anaconda Mining Company» — Hail Columbia 1.13, `company_usfp_anaconda`"
 project: vic3
 audience: agent

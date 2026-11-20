@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Rothschild_Bank_Europe» — grey USU 1.13, `company_Rothschild_Bank_Europe`"
 project: vic3
 audience: agent

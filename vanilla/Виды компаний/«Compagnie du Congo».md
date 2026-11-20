@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Compagnie du Congo»» — ваниль 1.15, `company_ccci`"
 project: vic3
 audience: agent

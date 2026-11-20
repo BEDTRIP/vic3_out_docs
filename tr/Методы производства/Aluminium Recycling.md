@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Aluminium Recycling» — T&R 1.13, `pm_aluminium_recycling`"
 project: vic3
 audience: agent

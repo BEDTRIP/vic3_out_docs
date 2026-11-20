@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «El Buen Jefe» — ваниль 1.15, `ig_trait_el_buen_jefe`"
 project: vic3
 audience: agent

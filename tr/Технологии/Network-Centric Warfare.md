@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Network-Centric Warfare» — T&R 1.13, `network_centric_warfare`"
 project: vic3
 audience: agent

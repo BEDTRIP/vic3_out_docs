@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_slavery_building_subsistence_orchard» — grey USU 1.13, `pm_slavery_building_subsistence_orchard`"
 project: vic3
 audience: agent

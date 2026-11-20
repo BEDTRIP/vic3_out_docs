@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (PPP_pmg_power_grid)» — grey USU 1.13, `PPP_pmg_power_grid`"
 project: vic3
 audience: agent

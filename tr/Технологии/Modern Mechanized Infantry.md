@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Mechanized Infantry» — T&R 1.13, `mechanized_infantry`"
 project: vic3
 audience: agent

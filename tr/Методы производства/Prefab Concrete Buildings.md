@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Prefab Concrete Buildings» — T&R 1.13, `pm_prefabricated_concrete_buildings`"
 project: vic3
 audience: agent

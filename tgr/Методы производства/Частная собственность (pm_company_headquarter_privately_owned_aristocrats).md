@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned_aristocrats)» — TGR 1.15, `pm_company_headquarter_privately_owned_aristocrats`"
 project: vic3
 audience: agent

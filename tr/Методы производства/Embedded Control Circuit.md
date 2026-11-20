@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Embedded Control Circuit» — T&R 1.13, `pm_embedded_control_circuit`"
 project: vic3
 audience: agent

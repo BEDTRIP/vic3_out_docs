@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Messenger Pigeons» — T&R 1.13, `curtiss_messenger_pidgeons_tech`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Road Surfacing» — Gates of Bosphorus 1.15, `pmg_gbbf_karadag_roads`"
 project: vic3
 audience: agent

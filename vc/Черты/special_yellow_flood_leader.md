@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «special_yellow_flood_leader» — VC 1.15, `special_yellow_flood_leader`"
 project: vic3
 audience: agent

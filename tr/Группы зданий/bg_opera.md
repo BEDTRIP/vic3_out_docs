@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «bg_opera» — T&R 1.13, `bg_opera`"
 project: vic3
 audience: agent

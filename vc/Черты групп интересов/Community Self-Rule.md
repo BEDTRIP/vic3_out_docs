@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Community Self-Rule» — VC 1.15, `ig_trait_community_self_governance`"
 project: vic3
 audience: agent

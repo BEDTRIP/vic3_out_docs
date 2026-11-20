@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Nacional de Panamá» — E&F 1.13, `company_BancoNacionalDePanama`"
 project: vic3
 audience: agent

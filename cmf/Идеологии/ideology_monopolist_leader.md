@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_monopolist_leader» — CMF 1.15, `ideology_monopolist_leader`"
 project: vic3
 audience: agent

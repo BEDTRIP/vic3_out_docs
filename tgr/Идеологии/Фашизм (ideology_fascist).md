@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Фашизм (ideology_fascist)» — TGR 1.15, `ideology_fascist`"
 project: vic3
 audience: agent

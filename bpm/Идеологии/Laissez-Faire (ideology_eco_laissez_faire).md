@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Laissez-Faire (ideology_eco_laissez_faire)» — BPM 1.13, `ideology_eco_laissez_faire`"
 project: vic3
 audience: agent

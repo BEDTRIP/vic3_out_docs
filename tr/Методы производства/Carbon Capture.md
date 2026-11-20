@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Carbon Capture» — T&R 1.13, `pm_urban_carbon_capture`"
 project: vic3
 audience: agent

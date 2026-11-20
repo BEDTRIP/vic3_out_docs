@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Iron Construction» — PSC 1.13, `iron_construction`"
 project: vic3
 audience: agent

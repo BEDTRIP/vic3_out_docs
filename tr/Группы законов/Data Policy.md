@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Data Policy» — T&R 1.13, `lawgroup_data_policy`"
 project: vic3
 audience: agent

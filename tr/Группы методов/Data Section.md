@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Data Section» — T&R 1.13, `pmg_data_section_building_office`"
 project: vic3
 audience: agent

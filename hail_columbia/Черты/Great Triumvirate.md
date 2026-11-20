@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Great Triumvirate» — Hail Columbia 1.13, `usfp_special_character_great_triumvirate`"
 project: vic3
 audience: agent

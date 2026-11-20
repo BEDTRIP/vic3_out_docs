@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Corsair» — Gates of Bosphorus 1.15, `gbbf_trait_corsair`"
 project: vic3
 audience: agent

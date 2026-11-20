@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Raw Data Processing» — T&R 1.13, `data_processing`"
 project: vic3
 audience: agent

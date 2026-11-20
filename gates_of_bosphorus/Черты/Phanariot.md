@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Phanariot» — Gates of Bosphorus 1.15, `gbbf_trait_phanariot`"
 project: vic3
 audience: agent

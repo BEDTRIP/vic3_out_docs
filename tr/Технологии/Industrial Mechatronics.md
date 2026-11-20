@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Industrial Mechatronics» — T&R 1.13, `mechatronics`"
 project: vic3
 audience: agent

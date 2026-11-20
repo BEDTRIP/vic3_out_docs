@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Televisions» — T&R 1.13, `pm_no_televisions`"
 project: vic3
 audience: agent

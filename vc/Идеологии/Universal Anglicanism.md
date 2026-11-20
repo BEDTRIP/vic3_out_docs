@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Universal Anglicanism» — VC 1.15, `ideology_ecumenical_anglicanism`"
 project: vic3
 audience: agent

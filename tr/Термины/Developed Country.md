@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Developed Country» — подсказка-понятие Victoria 3 1.13 (`concept_developed_country`)"
 project: vic3
 audience: agent

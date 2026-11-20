@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Abolished» — подсказка-понятие Victoria 3 1.13 (`concept_un_veto_right_disabled`)"
 project: vic3
 audience: agent

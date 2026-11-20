@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Transmission Type» — T&R 1.13, `pmg_power_transmission`"
 project: vic3
 audience: agent

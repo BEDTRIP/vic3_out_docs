@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Roadway» — LLWA 1.13, `LLWA_building_roadway`"
 project: vic3
 audience: agent

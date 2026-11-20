@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Обычный труд (default_labour)» — ваниль 1.15, `default_labour`"
 project: vic3
 audience: agent

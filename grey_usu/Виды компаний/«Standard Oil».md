@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Standard Oil»» — grey USU 1.13, `company_standard_oil`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Entertainment Areas» — T&R 1.13, `building_elgar_opera`"
 project: vic3
 audience: agent

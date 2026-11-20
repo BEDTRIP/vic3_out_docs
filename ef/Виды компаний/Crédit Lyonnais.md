@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Crédit Lyonnais» — E&F 1.13, `company_BankCreditLyonnais`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Oriental Development Company»» — ваниль 1.15, `company_oriental_development_company`"
 project: vic3
 audience: agent

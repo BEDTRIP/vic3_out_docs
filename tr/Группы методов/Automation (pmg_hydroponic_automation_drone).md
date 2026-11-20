@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Automation (pmg_hydroponic_automation_drone)» — T&R 1.13, `pmg_hydroponic_automation_drone`"
 project: vic3
 audience: agent

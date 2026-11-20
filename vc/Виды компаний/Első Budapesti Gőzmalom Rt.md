@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Első Budapesti Gőzmalom Rt» — VC 1.15, `company_elso_budapesti_gozmalom`"
 project: vic3
 audience: agent

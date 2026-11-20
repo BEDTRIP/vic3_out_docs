@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Revlon» — T&R 1.13, `company_revlon`"
 project: vic3
 audience: agent

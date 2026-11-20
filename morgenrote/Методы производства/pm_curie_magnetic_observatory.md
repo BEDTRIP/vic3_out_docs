@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_curie_magnetic_observatory» — Morgenröte 1.15, `pm_curie_magnetic_observatory`"
 project: vic3
 audience: agent

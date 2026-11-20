@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Post- och Inrikes Tidningar»» — Morgenröte 1.15, `pbi_company_post_och_inrikes_tidningar`"
 project: vic3
 audience: agent

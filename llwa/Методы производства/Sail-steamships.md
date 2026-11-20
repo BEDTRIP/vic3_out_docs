@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Sail-steamships» — LLWA 1.13, `LLWA_pm_sail_steamboats`"
 project: vic3
 audience: agent

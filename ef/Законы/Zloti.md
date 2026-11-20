@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Zloti» — E&F 1.13, `law_spe_zloti_currency`"
 project: vic3
 audience: agent

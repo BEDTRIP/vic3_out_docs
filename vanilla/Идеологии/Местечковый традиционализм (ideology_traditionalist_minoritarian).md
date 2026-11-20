@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Местечковый традиционализм (ideology_traditionalist_minoritarian)» — ваниль 1.15, `ideology_traditionalist_minoritarian`"
 project: vic3
 audience: agent

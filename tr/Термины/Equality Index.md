@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Equality Index» — подсказка-понятие Victoria 3 1.13 (`concept_equality_index`)"
 project: vic3
 audience: agent

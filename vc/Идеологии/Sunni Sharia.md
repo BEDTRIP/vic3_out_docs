@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Sunni Sharia» — VC 1.15, `ideology_shariah`"
 project: vic3
 audience: agent

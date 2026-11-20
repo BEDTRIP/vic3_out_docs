@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин игры «Пошлины (tolls)» — подсказка-понятие Victoria 3 1.15 (`concept_tolls`)"
 project: vic3
 audience: agent

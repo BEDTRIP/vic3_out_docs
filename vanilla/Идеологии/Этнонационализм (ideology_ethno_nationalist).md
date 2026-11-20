@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — ваниль 1.15, `ideology_ethno_nationalist`"
 project: vic3
 audience: agent

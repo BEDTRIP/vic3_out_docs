@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Pound Sterling» — E&F 1.13, `law_pound_sterling_currency`"
 project: vic3
 audience: agent

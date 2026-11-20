@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «John Holt and Company» — ваниль 1.15, `company_john_holt`"
 project: vic3
 audience: agent

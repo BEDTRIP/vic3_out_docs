@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Mantero Seta» — ваниль 1.15, `company_mantero_seta`"
 project: vic3
 audience: agent

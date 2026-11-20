@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Emirates Airlines» — T&R 1.13, `company_emirates_airline`"
 project: vic3
 audience: agent

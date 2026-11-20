@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Производство предметов роскоши (pmg_luxury_building_textile_mill)» — ваниль 1.15, `pmg_luxury_building_textile_mill`"
 project: vic3
 audience: agent

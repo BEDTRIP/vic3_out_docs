@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««B. Grimm»» — ваниль 1.15, `company_b_grimm`"
 project: vic3
 audience: agent

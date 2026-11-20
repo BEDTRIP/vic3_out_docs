@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Local Network (pm_local_network_building_office)» — T&R 1.13, `pm_local_network_building_office`"
 project: vic3
 audience: agent

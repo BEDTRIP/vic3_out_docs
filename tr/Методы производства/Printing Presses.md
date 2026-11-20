@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Printing Presses» — T&R 1.13, `manzoni_pm_printing_presses`"
 project: vic3
 audience: agent

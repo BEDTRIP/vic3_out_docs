@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Offset Printing» — T&R 1.13, `pm_offset_printing`"
 project: vic3
 audience: agent

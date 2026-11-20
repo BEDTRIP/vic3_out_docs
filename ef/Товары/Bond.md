@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Bond» — E&F 1.13, `bond`"
 project: vic3
 audience: agent

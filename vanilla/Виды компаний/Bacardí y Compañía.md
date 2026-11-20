@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bacardí y Compañía» — ваниль 1.15, `company_bacardi`"
 project: vic3
 audience: agent

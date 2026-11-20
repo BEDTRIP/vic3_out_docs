@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Феминизм (ideology_feminist)» — ваниль 1.15, `ideology_feminist`"
 project: vic3
 audience: agent

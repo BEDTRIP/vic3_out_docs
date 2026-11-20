@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Повторяемый закон не выбран (law_repeatable_economy_none)» — BPM 1.13, `law_repeatable_economy_none`"
 project: vic3
 audience: agent

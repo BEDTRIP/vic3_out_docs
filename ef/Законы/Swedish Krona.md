@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Swedish Krona» — E&F 1.13, `law_krone_swedish_krona_currency`"
 project: vic3
 audience: agent

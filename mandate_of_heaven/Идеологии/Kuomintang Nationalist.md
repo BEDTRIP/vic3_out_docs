@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Kuomintang Nationalist» — Mandate of Heaven 1.15, `ideology_moh_kmt`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Huawei» — T&R 1.13, `company_huawei`"
 project: vic3
 audience: agent

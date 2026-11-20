@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Canal Waterway» — LLWA 1.13, `LLWA_building_waterway`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Elected Ruler» — Gates of Bosphorus 1.15, `gbbf_trait_elected_ruler`"
 project: vic3
 audience: agent

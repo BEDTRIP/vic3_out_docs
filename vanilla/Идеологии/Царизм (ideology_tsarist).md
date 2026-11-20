@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Царизм (ideology_tsarist)» — ваниль 1.15, `ideology_tsarist`"
 project: vic3
 audience: agent

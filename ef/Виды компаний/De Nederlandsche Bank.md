@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «De Nederlandsche Bank» — E&F 1.13, `company_DeNederlandscheBank`"
 project: vic3
 audience: agent

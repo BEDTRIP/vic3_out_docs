@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Перевозка (pmg_transportation_building_oil_rig)» — ваниль 1.15, `pmg_transportation_building_oil_rig`"
 project: vic3
 audience: agent

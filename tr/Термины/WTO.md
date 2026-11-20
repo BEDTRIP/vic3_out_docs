@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «WTO» — подсказка-понятие Victoria 3 1.13 (`concept_un_subject_wto`)"
 project: vic3
 audience: agent

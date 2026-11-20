@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Operating Systems» — T&R 1.13, `operating_systems`"
 project: vic3
 audience: agent

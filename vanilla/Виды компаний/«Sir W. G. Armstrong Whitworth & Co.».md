@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — ваниль 1.15, `company_armstrong_whitworth`"
 project: vic3
 audience: agent

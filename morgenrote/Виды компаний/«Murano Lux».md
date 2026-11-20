@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Murano Lux»» — Morgenröte 1.15, `company_compagnia_di_venezia_e_murano`"
 project: vic3
 audience: agent

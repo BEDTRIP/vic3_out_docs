@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Da Afghan Nassaji Sherkat»» — ваниль 1.15, `company_da_afghan_nassaji_sherkat`"
 project: vic3
 audience: agent

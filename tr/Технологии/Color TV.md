@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Color TV» — T&R 1.13, `tv_color`"
 project: vic3
 audience: agent

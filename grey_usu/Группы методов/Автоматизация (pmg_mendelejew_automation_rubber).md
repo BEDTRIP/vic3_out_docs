@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Автоматизация (pmg_mendelejew_automation_rubber)» — grey USU 1.13, `pmg_mendelejew_automation_rubber`"
 project: vic3
 audience: agent

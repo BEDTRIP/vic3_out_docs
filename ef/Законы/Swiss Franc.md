@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Swiss Franc» — E&F 1.13, `law_franc_swiss_franc_currency`"
 project: vic3
 audience: agent

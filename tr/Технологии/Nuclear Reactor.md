@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Nuclear Reactor» — T&R 1.13, `nuclear_reactor`"
 project: vic3
 audience: agent

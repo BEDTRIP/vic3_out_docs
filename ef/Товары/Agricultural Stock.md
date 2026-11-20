@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Agricultural Stock» — E&F 1.13, `agricultural_stock`"
 project: vic3
 audience: agent

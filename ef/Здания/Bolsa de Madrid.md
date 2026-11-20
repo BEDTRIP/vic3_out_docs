@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bolsa de Madrid» — E&F 1.13, `building_financial_centre_spa`"
 project: vic3
 audience: agent

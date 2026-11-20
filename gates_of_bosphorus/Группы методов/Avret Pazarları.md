@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Avret Pazarları» — Gates of Bosphorus 1.15, `pmg_gbbf_avret_pazarlari`"
 project: vic3
 audience: agent

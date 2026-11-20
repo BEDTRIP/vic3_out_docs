@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Broadcast Media Production» — T&R 1.13, `pmg_broadcast_media_industry`"
 project: vic3
 audience: agent

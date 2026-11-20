@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Motorized Transport» — Gates of Bosphorus 1.15, `pm_gbbf_motor_carts`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Automation» — T&R 1.13, `pm_automation_disabled_power_plant`"
 project: vic3
 audience: agent

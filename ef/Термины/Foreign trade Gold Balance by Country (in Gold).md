@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Foreign trade Gold Balance by Country (in Gold)» — подсказка-понятие Victoria 3 1.13 (`concept_gold_balance_by_country`)"
 project: vic3
 audience: agent

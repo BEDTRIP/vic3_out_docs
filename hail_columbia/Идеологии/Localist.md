@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Localist» — Hail Columbia 1.13, `ideology_usfp_localist`"
 project: vic3
 audience: agent

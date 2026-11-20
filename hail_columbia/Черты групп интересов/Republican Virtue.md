@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Republican Virtue» — Hail Columbia 1.13, `usfp_ig_trait_republican_virtue`"
 project: vic3
 audience: agent

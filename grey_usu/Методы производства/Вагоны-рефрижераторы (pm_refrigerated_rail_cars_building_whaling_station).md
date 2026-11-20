@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_whaling_station)» — grey USU 1.13, `pm_refrigerated_rail_cars_building_whaling_station`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mobile Phone» — T&R 1.13, `mobile_phone`"
 project: vic3
 audience: agent

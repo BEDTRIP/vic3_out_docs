@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Модернизатор (ideology_modernizer)» — ваниль 1.15, `ideology_modernizer`"
 project: vic3
 audience: agent

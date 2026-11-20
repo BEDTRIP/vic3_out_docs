@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Robotic Assembly Lines (pm_robotic_building_consumer_electronics_industry)» — T&R 1.13, `pm_robotic_building_consumer_electronics_industry`"
 project: vic3
 audience: agent

@@ -1,4 +1,4 @@
-# Документы внешних источников (vic3_out_docs): v3 docs check; раскладка — Д.ДОК.12, Д.ДОК.16, Д.ДОК.22.
+# Документы внешних источников (vic3_out_docs): v3 docs check; раскладка — ADR-0308, ADR-0312, ADR-0314.
 name = "vic3_out_docs"
 project = "vic3"
 node = "vic3"

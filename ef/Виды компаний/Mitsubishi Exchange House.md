@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Mitsubishi Exchange House» — E&F 1.13, `company_Mitsubishiexchangehousebank`"
 project: vic3
 audience: agent

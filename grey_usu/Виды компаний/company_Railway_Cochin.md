@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Railway_Cochin» — grey USU 1.13, `company_Railway_Cochin`"
 project: vic3
 audience: agent

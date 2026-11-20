@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Data Transportation (pmg_data_transportation_building_office)» — T&R 1.13, `pmg_data_transportation_building_office`"
 project: vic3
 audience: agent

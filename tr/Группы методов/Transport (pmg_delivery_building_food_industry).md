@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Transport (pmg_delivery_building_food_industry)» — T&R 1.13, `pmg_delivery_building_food_industry`"
 project: vic3
 audience: agent

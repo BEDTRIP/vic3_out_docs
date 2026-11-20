@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Polyester Synthesis» — T&R 1.13, `polyester_synthesis`"
 project: vic3
 audience: agent

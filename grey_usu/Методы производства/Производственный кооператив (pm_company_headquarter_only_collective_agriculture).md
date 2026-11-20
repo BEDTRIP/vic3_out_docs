@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Производственный кооператив (pm_company_headquarter_only_collective_agriculture)» — grey USU 1.13, `pm_company_headquarter_only_collective_agriculture`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Old Summer Palace» — Mandate of Heaven 1.15, `pmg_base_building_old_summer_palace`"
 project: vic3
 audience: agent

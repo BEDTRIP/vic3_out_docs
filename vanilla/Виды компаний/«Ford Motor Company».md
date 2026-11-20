@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ford Motor Company»» — ваниль 1.15, `company_ford_motor`"
 project: vic3
 audience: agent

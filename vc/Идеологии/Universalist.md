@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Universalist» — VC 1.15, `ideology_inclusiveness`"
 project: vic3
 audience: agent

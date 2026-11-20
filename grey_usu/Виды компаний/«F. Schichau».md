@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««F. Schichau»» — grey USU 1.13, `company_schichau`"
 project: vic3
 audience: agent

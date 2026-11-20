@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Fuel Cell» — T&R 1.13, `pm_no_fuel_cell`"
 project: vic3
 audience: agent

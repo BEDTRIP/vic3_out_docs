@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Жестокость (cruel)» — ваниль 1.15, `cruel`"
 project: vic3
 audience: agent

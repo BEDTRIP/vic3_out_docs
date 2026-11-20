@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Basic Data Privacy» — T&R 1.13, `law_data_privacy_basic`"
 project: vic3
 audience: agent

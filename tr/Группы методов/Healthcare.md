@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Healthcare» — T&R 1.13, `pmg_urban_center_healtcare`"
 project: vic3
 audience: agent

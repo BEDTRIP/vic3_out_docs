@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Oil Refineries» — T&R 1.13, `building_mendelejew_hydrogenation_plants`"
 project: vic3
 audience: agent

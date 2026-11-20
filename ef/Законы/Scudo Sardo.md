@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Scudo Sardo» — E&F 1.13, `law_lira_scudo_sardo_currency`"
 project: vic3
 audience: agent

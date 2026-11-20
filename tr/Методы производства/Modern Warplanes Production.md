@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Modern Warplanes Production» — T&R 1.13, `pm_modern_warplanes_production`"
 project: vic3
 audience: agent

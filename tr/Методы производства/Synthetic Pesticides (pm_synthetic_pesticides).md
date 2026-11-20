@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Synthetic Pesticides (pm_synthetic_pesticides)» — T&R 1.13, `pm_synthetic_pesticides`"
 project: vic3
 audience: agent

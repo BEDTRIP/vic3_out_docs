@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Madura Mills Co. Ltd»» — ваниль 1.15, `company_madura_mills`"
 project: vic3
 audience: agent

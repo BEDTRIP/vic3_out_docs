@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_watertube_boiler_building_furniture_manufacturies» — TGR 1.15, `pm_watertube_boiler_building_furniture_manufacturies`"
 project: vic3
 audience: agent

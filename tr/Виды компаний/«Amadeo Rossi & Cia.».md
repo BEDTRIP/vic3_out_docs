@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Amadeo Rossi & Cia.»» — T&R 1.13, `company_rossi`"
 project: vic3
 audience: agent

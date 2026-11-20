@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Parallel Computing Architectures» — T&R 1.13, `parallel_computing_architecture`"
 project: vic3
 audience: agent

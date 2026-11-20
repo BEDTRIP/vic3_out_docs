@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Nicaraguan Cordoba» — E&F 1.13, `law_peso_nicaraguan_cordoba_currency`"
 project: vic3
 audience: agent

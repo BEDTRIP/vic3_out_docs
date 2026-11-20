@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Meticulous Craftsmanship» — VC 1.15, `ig_trait_rigorous_work`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Early Power Plant (pm_early_power_plant_2)» — T&R 1.13, `pm_early_power_plant_2`"
 project: vic3
 audience: agent

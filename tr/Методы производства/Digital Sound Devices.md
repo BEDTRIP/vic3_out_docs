@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Digital Sound Devices» — T&R 1.13, `pm_digital_sound_devices`"
 project: vic3
 audience: agent

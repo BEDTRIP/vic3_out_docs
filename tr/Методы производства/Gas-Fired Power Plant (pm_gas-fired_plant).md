@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Gas-Fired Power Plant (pm_gas-fired_plant)» — T&R 1.13, `pm_gas-fired_plant`"
 project: vic3
 audience: agent

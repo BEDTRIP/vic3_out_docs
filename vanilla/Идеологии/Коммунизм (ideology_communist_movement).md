@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Коммунизм (ideology_communist_movement)» — ваниль 1.15, `ideology_communist_movement`"
 project: vic3
 audience: agent

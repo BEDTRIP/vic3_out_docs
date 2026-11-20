@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Neoliberism» — T&R 1.13, `ideology_neoliberism`"
 project: vic3
 audience: agent

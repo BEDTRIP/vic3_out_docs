@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Процесс сбора урожая (pmg_harvesting_process_building_maize_farm)» — T&R 1.13, `pmg_harvesting_process_building_maize_farm`"
 project: vic3
 audience: agent

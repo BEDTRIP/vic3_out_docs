@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Reactionary Zeal» — VC 1.15, `ig_trait_reactionary_enthusiasm`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««La Rosada»» — T&R 1.13, `company_la_rosada`"
 project: vic3
 audience: agent

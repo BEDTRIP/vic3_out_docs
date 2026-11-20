@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Cargo Type» — T&R 1.13, `pmg_cargo_airport`"
 project: vic3
 audience: agent

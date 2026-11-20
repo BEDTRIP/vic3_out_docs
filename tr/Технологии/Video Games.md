@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Video Games» — T&R 1.13, `videogames`"
 project: vic3
 audience: agent

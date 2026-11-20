@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «(International) Short-term bond rate» — подсказка-понятие Victoria 3 1.13 (`concept_base_interest_value_5Y`)"
 project: vic3
 audience: agent

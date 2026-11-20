@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Minting Type» — E&F 1.13, `pmg_minting_type`"
 project: vic3
 audience: agent

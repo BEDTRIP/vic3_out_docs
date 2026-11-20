@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««San Miguel»» — ваниль 1.15, `company_san_miguel`"
 project: vic3
 audience: agent

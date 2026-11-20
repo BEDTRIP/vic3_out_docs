@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Research Center» — T&R 1.13, `building_research_center`"
 project: vic3
 audience: agent

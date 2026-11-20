@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Philips»» — VC 1.15, `company_philips`"
 project: vic3
 audience: agent

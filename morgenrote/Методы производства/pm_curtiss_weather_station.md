@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_curtiss_weather_station» — Morgenröte 1.15, `pm_curtiss_weather_station`"
 project: vic3
 audience: agent

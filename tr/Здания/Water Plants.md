@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Water Plants» — T&R 1.13, `building_water_plant`"
 project: vic3
 audience: agent

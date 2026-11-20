@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «State Bank of the Russian Empire» — E&F 1.13, `company_StateBankRussianEmpire`"
 project: vic3
 audience: agent

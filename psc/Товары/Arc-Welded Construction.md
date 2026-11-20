@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Arc-Welded Construction» — PSC 1.13, `arc_welded_construction`"
 project: vic3
 audience: agent

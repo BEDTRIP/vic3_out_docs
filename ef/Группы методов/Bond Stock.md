@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Bond Stock» — E&F 1.13, `pmg_bond_exchange`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Advanced Research Projects Directorate» — T&R 1.13, `pm_research_center_future_studies`"
 project: vic3
 audience: agent

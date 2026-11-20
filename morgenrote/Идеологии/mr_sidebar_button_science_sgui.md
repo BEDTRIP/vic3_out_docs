@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «mr_sidebar_button_science_sgui» — Morgenröte 1.15, `mr_sidebar_button_science_sgui`"
 project: vic3
 audience: agent

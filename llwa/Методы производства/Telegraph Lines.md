@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Telegraph Lines» — LLWA 1.13, `LLWA_pm_telegraphs`"
 project: vic3
 audience: agent

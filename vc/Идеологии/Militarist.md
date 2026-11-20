@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Militarist» — VC 1.15, `ideology_militarism`"
 project: vic3
 audience: agent

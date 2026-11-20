@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Peseta» — E&F 1.13, `law_spe_peseta_currency`"
 project: vic3
 audience: agent

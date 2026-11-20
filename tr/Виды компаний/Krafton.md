@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Krafton» — T&R 1.13, `company_krafton`"
 project: vic3
 audience: agent

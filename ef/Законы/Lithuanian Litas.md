@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Lithuanian Litas» — E&F 1.13, `law_spe_lithuanian_litas_currency`"
 project: vic3
 audience: agent

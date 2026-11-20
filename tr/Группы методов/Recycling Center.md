@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Recycling Center» — T&R 1.13, `pmg_recycling_center`"
 project: vic3
 audience: agent

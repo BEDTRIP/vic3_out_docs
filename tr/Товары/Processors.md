@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Processors» — T&R 1.13, `processors`"
 project: vic3
 audience: agent

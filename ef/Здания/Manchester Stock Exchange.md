@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Manchester Stock Exchange» — E&F 1.13, `building_financial_centre_gbr_2`"
 project: vic3
 audience: agent

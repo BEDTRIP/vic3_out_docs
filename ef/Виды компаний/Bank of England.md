@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bank of England» — E&F 1.13, `company_BankofEngland`"
 project: vic3
 audience: agent

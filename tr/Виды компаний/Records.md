@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Records» — T&R 1.13, `company_basic_records_and_films`"
 project: vic3
 audience: agent

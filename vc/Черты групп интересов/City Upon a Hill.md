@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «City Upon a Hill» — VC 1.15, `ig_trait_city_upon_hill`"
 project: vic3
 audience: agent

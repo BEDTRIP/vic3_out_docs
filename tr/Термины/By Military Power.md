@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «By Military Power» — подсказка-понятие Victoria 3 1.13 (`concept_un_member_selection_by_military_power`)"
 project: vic3
 audience: agent

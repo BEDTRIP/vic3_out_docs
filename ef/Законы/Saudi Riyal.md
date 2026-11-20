@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Saudi Riyal» — E&F 1.13, `law_dinar_saudi_riyal_currency`"
 project: vic3
 audience: agent

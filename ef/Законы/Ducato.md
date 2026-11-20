@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Ducato» — E&F 1.13, `law_lira_ducato_currency`"
 project: vic3
 audience: agent

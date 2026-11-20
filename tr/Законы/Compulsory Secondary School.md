@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Compulsory Secondary School» — T&R 1.13, `law_compulsory_secondary_school`"
 project: vic3
 audience: agent

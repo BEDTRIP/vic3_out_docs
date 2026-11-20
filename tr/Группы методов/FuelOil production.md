@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «FuelOil production» — T&R 1.13, `pmg_fuel_production`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Smart Energy Grid» — T&R 1.13, `smart_energy_grid`"
 project: vic3
 audience: agent

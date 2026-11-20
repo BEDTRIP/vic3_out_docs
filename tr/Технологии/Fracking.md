@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Fracking» — T&R 1.13, `hydraulic_fracturing`"
 project: vic3
 audience: agent

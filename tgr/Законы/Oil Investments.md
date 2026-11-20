@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Oil Investments» — TGR 1.15, `economic_incentives_extracting_oil`"
 project: vic3
 audience: agent

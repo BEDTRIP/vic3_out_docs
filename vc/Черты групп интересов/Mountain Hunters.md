@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Mountain Hunters» — VC 1.15, `ig_trait_mountain_hunter`"
 project: vic3
 audience: agent

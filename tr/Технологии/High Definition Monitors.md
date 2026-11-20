@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «High Definition Monitors» — T&R 1.13, `high_definition_television`"
 project: vic3
 audience: agent

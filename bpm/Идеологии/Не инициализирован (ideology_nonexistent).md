@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Не инициализирован (ideology_nonexistent)» — BPM 1.13, `ideology_nonexistent`"
 project: vic3
 audience: agent

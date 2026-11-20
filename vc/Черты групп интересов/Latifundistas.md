@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Latifundistas» — VC 1.15, `ig_trait_latifundistas`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Традиционализм (ideology_traditionalist)» — ваниль 1.15, `ideology_traditionalist`"
 project: vic3
 audience: agent

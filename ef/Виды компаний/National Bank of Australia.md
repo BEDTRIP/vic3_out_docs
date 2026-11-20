@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «National Bank of Australia» — E&F 1.13, `company_NationalBankOfAustralia`"
 project: vic3
 audience: agent

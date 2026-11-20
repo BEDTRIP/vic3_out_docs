@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Esparto Plantation» — Gates of Bosphorus 1.15, `gbbf_building_esparto_plantation`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «10-hour Work Days» — TGR 1.15, `law_limited_work_hours`"
 project: vic3
 audience: agent

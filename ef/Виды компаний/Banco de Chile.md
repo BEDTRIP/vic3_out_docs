@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de Chile» — E&F 1.13, `company_BancoDeChile`"
 project: vic3
 audience: agent

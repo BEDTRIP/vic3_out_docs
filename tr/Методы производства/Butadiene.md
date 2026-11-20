@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Butadiene» — T&R 1.13, `pm_mendelejev_butadiene`"
 project: vic3
 audience: agent

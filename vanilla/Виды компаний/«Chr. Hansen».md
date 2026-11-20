@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Chr. Hansen»» — ваниль 1.15, `company_chr_hansens`"
 project: vic3
 audience: agent

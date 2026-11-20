@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Corinth Canal» — Gates of Bosphorus 1.15, `pm_gbbf_corinth_canal`"
 project: vic3
 audience: agent

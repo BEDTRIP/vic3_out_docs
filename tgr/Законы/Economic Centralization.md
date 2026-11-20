@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Economic Centralization» — TGR 1.15, `law_economic_centralism`"
 project: vic3
 audience: agent

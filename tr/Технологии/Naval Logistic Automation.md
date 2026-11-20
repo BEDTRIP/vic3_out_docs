@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Naval Logistic Automation» — T&R 1.13, `naval_logistic_automation`"
 project: vic3
 audience: agent

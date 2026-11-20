@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Don Quixote» — VC 1.15, `ig_trait_don_quijote`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Hand Pumped Water» — T&R 1.13, `pm_hand_pumped_water`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Мигелизм (ideology_miguelist_movement)» — ваниль 1.15, `ideology_miguelist_movement`"
 project: vic3
 audience: agent

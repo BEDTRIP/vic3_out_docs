@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «AstraZeneca» — T&R 1.13, `company_astrazeneca`"
 project: vic3
 audience: agent

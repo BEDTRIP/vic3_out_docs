@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Пассажи (usu_pm_hv_arcades)» — grey USU 1.13, `usu_pm_hv_arcades`"
 project: vic3
 audience: agent

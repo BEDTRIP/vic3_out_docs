@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Brown & Sharpe» — VC 1.15, `company_brown_sharpe`"
 project: vic3
 audience: agent

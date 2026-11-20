@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ford Motor Company»» — T&R 1.13, `company_ford_motor`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Fast Modular Furniture» — T&R 1.13, `fast_modular_furniture`"
 project: vic3
 audience: agent

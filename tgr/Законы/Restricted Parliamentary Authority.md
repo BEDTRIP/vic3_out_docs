@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Restricted Parliamentary Authority» — TGR 1.15, `law_restricted_parliamentary_authority`"
 project: vic3
 audience: agent

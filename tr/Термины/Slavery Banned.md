@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Slavery Banned» — подсказка-понятие Victoria 3 1.13 (`concept_un_slavery_illegal`)"
 project: vic3
 audience: agent

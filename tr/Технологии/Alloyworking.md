@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Alloyworking» — T&R 1.13, `alloysworking`"
 project: vic3
 audience: agent

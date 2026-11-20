@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Anti-Shogunate» — VC 1.15, `ideology_anti_shogunate`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Provincial Armies» — VC 1.15, `ig_trait_local_richarmy`"
 project: vic3
 audience: agent

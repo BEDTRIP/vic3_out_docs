@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««A.P. Møller»» — ваниль 1.15, `company_ap_moller`"
 project: vic3
 audience: agent

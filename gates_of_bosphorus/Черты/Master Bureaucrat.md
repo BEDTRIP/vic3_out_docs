@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Master Bureaucrat» — Gates of Bosphorus 1.15, `gbbf_trait_master_bureaucrat`"
 project: vic3
 audience: agent

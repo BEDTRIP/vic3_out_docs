@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Financial Centre» — подсказка-понятие Victoria 3 1.13 (`concept_financial_centre`)"
 project: vic3
 audience: agent

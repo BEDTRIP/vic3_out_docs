@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Кайзерфорум (building_kaiserforum_1)» — ваниль 1.15, `building_kaiserforum_1`"
 project: vic3
 audience: agent

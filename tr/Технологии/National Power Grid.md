@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «National Power Grid» — T&R 1.13, `national_power_grid`"
 project: vic3
 audience: agent

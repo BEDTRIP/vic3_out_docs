@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Cuban Peso» — E&F 1.13, `law_peso_cuban_peso_currency`"
 project: vic3
 audience: agent

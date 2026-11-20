@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Rocket Artillery» — T&R 1.13, `rocket_artillery`"
 project: vic3
 audience: agent

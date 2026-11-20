@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Alkaline Fuel Cell» — T&R 1.13, `pm_alkaline_fuel_cell`"
 project: vic3
 audience: agent

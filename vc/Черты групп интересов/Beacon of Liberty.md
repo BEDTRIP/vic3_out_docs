@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Beacon of Liberty» — VC 1.15, `ig_trait_humanity_beacon`"
 project: vic3
 audience: agent

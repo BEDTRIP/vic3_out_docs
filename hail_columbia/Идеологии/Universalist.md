@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Universalist» — Hail Columbia 1.13, `ideology_usfp_universalist`"
 project: vic3
 audience: agent

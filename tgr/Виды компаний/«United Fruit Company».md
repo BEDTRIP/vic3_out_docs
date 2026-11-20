@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««United Fruit Company»» — TGR 1.15, `company_united_fruit`"
 project: vic3
 audience: agent

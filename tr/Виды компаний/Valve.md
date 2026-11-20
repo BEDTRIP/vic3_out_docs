@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Valve» — T&R 1.13, `company_valve`"
 project: vic3
 audience: agent

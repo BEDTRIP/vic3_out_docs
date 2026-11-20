@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Автоматизация (pmg_automation_building_arms_industry)» — T&R 1.13, `pmg_automation_building_arms_industry`"
 project: vic3
 audience: agent

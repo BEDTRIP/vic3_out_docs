@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Arthur Guinness Son & Co.»» — VC 1.15, `company_guinness`"
 project: vic3
 audience: agent

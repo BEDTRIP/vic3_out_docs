@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Нитроглицерин (pm_nitroglycerin_building_copper_mine)» — ваниль 1.15, `pm_nitroglycerin_building_copper_mine`"
 project: vic3
 audience: agent

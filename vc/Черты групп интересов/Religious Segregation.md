@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Religious Segregation» — VC 1.15, `ig_trait_dini_ayrimcilik`"
 project: vic3
 audience: agent

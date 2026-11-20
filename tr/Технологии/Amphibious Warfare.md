@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Amphibious Warfare» — T&R 1.13, `amphibious_warfare`"
 project: vic3
 audience: agent

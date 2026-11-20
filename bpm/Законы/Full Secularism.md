@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Full Secularism» — BPM 1.13, `law_total_separation_upgraded`"
 project: vic3
 audience: agent

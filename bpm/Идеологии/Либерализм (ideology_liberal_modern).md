@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Либерализм (ideology_liberal_modern)» — BPM 1.13, `ideology_liberal_modern`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Photoelectric Effect» — T&R 1.13, `photovoltaic_effect`"
 project: vic3
 audience: agent

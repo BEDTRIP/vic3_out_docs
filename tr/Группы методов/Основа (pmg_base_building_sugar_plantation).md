@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_sugar_plantation)» — T&R 1.13, `pmg_base_building_sugar_plantation`"
 project: vic3
 audience: agent

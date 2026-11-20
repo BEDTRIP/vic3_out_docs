@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_bureaucrats)» — TGR 1.15, `pm_company_headquarter_principle_divine_economics_2_bureaucrats`"
 project: vic3
 audience: agent

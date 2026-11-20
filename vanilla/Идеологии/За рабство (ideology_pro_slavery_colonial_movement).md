@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «За рабство (ideology_pro_slavery_colonial_movement)» — ваниль 1.15, `ideology_pro_slavery_colonial_movement`"
 project: vic3
 audience: agent

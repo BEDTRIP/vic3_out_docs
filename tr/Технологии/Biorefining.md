@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Biorefining» — T&R 1.13, `biorefining`"
 project: vic3
 audience: agent

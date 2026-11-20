@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Networking Protocols» — T&R 1.13, `networking_protocols`"
 project: vic3
 audience: agent

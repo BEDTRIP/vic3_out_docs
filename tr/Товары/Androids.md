@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Androids» — T&R 1.13, `androids`"
 project: vic3
 audience: agent

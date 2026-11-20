@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Duro y Compañía»» — ваниль 1.15, `company_duro_y_compania`"
 project: vic3
 audience: agent

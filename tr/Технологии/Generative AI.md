@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Generative AI» — T&R 1.13, `artificial_intelligence`"
 project: vic3
 audience: agent

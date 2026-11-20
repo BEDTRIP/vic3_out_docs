@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Exchange Studies» — Hail Columbia 1.13, `usfp_ig_trait_european_science`"
 project: vic3
 audience: agent

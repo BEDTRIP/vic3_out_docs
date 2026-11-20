@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Patriot» — VC 1.15, `ig_trait_patriot`"
 project: vic3
 audience: agent

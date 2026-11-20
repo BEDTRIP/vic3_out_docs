@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bourses de Genève» — E&F 1.13, `building_financial_centre_swi`"
 project: vic3
 audience: agent

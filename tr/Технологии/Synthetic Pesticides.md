@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Synthetic Pesticides» — T&R 1.13, `synthetic_pesticides`"
 project: vic3
 audience: agent

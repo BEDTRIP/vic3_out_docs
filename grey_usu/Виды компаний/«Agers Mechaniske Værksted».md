@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Agers Mechaniske Værksted»» — grey USU 1.13, `company_aker_mek`"
 project: vic3
 audience: agent

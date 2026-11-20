@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Empty Rhetoric» — VC 1.15, `ig_trait_useless_speech`"
 project: vic3
 audience: agent

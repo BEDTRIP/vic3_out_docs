@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Fuel-Powered Whalers» — T&R 1.13, `pm_fuel_whaling_ships`"
 project: vic3
 audience: agent

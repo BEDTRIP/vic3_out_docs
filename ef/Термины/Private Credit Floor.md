@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Private Credit Floor» — подсказка-понятие Victoria 3 1.13 (`concept_private_credit_floor`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_ranch_milk_production» — grey food 2 ranch 1.13, `pm_ranch_milk_production`"
 project: vic3
 audience: agent

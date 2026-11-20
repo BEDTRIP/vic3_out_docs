@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Software Dev Paradigms» — T&R 1.13, `software_development_paradigms`"
 project: vic3
 audience: agent

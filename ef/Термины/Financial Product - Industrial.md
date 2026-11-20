@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Financial Product - Industrial» — подсказка-понятие Victoria 3 1.13 (`concept_financial_product_industrial`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Software Industry» — T&R 1.13, `building_software_industry`"
 project: vic3
 audience: agent

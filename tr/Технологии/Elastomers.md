@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Elastomers» — T&R 1.13, `elastomers`"
 project: vic3
 audience: agent

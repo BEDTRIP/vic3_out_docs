@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Приоритет на грузы (LLWA_pm_no_air_travel)» — LLWA 1.13, `LLWA_pm_no_air_travel`"
 project: vic3
 audience: agent

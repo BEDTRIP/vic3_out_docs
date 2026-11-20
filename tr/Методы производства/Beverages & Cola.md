@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Beverages & Cola» — T&R 1.13, `pm_beverages_cola`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Opioids» — T&R 1.13, `pmg_opioid_refinement`"
 project: vic3
 audience: agent

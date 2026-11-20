@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Реакционеры (ideology_reactionary)» — ваниль 1.15, `ideology_reactionary`"
 project: vic3
 audience: agent

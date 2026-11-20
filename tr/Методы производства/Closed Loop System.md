@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Closed Loop System» — T&R 1.13, `pm_automation_closed_loop_system`"
 project: vic3
 audience: agent

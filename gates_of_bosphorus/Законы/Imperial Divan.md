@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Imperial Divan» — Gates of Bosphorus 1.15, `law_imperial_divan`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Паровой кран с изогнутой стрелой (pm_steam_crane_building_port)» — grey USU 1.13, `pm_steam_crane_building_port`"
 project: vic3
 audience: agent

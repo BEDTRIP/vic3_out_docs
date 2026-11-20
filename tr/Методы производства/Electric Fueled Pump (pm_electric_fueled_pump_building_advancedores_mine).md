@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Electric Fueled Pump (pm_electric_fueled_pump_building_advancedores_mine)» — T&R 1.13, `pm_electric_fueled_pump_building_advancedores_mine`"
 project: vic3
 audience: agent

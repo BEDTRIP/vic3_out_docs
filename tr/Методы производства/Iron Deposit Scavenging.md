@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Iron Deposit Scavenging» — T&R 1.13, `selective_mineral_extraction_commonores_mine`"
 project: vic3
 audience: agent

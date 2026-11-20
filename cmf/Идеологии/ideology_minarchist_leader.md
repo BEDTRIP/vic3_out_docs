@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_minarchist_leader» — CMF 1.15, `ideology_minarchist_leader`"
 project: vic3
 audience: agent

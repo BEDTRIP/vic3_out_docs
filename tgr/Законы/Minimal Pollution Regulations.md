@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Minimal Pollution Regulations» — TGR 1.15, `law_minimum_environment_regulations`"
 project: vic3
 audience: agent

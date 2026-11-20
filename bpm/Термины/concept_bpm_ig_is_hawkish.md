@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода BPM «concept_bpm_ig_is_hawkish» — подсказка-понятие Victoria 3 1.13 (`concept_bpm_ig_is_hawkish`)"
 project: vic3
 audience: agent

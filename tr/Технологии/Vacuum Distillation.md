@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Vacuum Distillation» — T&R 1.13, `vacuum_distillation`"
 project: vic3
 audience: agent

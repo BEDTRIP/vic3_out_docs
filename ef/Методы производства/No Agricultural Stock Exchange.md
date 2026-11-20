@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Agricultural Stock Exchange» — E&F 1.13, `pm_no_agricultural_stock_exchange`"
 project: vic3
 audience: agent

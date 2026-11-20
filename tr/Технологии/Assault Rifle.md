@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Assault Rifle» — T&R 1.13, `assault_rifles`"
 project: vic3
 audience: agent

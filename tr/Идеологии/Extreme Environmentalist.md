@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Extreme Environmentalist» — T&R 1.13, `ideology_extreme_ambientalist`"
 project: vic3
 audience: agent

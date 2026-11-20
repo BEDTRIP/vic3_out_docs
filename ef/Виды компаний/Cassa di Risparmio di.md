@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Cassa di Risparmio di» — E&F 1.13, `company_CassaDiRisparmioDiTorino`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «TotalEnergies» — T&R 1.13, `company_total`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_rotary_valve_engine_building_steel_mills» — TGR 1.15, `pm_rotary_valve_engine_building_steel_mills`"
 project: vic3
 audience: agent

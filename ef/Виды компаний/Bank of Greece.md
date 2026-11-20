@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bank of Greece» — E&F 1.13, `company_bankofgreec`"
 project: vic3
 audience: agent

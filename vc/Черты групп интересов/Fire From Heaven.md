@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Fire From Heaven» — VC 1.15, `ig_trait_fire_upon`"
 project: vic3
 audience: agent

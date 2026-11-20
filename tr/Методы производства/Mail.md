@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Mail» — T&R 1.13, `pm_air_mail`"
 project: vic3
 audience: agent

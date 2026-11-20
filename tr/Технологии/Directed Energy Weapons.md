@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Directed Energy Weapons» — T&R 1.13, `directed_energy_weapons`"
 project: vic3
 audience: agent

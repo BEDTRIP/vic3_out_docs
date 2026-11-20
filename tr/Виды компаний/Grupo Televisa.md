@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Grupo Televisa» — T&R 1.13, `company_televisa`"
 project: vic3
 audience: agent

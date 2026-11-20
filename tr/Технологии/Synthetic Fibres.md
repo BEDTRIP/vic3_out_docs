@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Synthetic Fibres» — T&R 1.13, `synthetic_fibres`"
 project: vic3
 audience: agent

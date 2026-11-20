@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Monetary Policy» — E&F 1.13, `law_no_monetary_policy`"
 project: vic3
 audience: agent

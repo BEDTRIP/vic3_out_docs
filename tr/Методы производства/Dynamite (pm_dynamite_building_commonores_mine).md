@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Dynamite (pm_dynamite_building_commonores_mine)» — T&R 1.13, `pm_dynamite_building_commonores_mine`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Investigation of Things» — VC 1.15, `ig_trait_social_research`"
 project: vic3
 audience: agent

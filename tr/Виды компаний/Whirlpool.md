@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Whirlpool» — T&R 1.13, `company_whirlpool`"
 project: vic3
 audience: agent

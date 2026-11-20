@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Corinth Canal» — Gates of Bosphorus 1.15, `gbbf_building_corinth_canal`"
 project: vic3
 audience: agent

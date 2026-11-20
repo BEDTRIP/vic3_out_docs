@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_basic_pharmaceuticals» — T&R 1.13, `company_basic_pharmaceuticals`"
 project: vic3
 audience: agent

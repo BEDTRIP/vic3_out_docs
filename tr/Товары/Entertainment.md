@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Entertainment» — T&R 1.13, `elgar_music`"
 project: vic3
 audience: agent

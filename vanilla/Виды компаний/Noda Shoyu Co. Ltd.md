@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Noda Shoyu Co. Ltd» — ваниль 1.15, `company_noda_shoyu`"
 project: vic3
 audience: agent

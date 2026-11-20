@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Tuareg Ouguiya» — E&F 1.13, `law_eco_tuareg_ouguiya_currency`"
 project: vic3
 audience: agent

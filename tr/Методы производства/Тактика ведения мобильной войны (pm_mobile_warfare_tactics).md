@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Тактика ведения мобильной войны (pm_mobile_warfare_tactics)» — T&R 1.13, `pm_mobile_warfare_tactics`"
 project: vic3
 audience: agent

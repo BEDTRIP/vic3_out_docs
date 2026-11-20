@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Military Expansionism» — TGR 1.15, `foreign_policy_military_expansionism`"
 project: vic3
 audience: agent

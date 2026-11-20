@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Джингоизм (ideology_jingoist)» — ваниль 1.15, `ideology_jingoist`"
 project: vic3
 audience: agent

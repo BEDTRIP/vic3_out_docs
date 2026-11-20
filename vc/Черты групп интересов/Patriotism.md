@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Patriotism» — VC 1.15, `ig_trait_light_not_reach`"
 project: vic3
 audience: agent

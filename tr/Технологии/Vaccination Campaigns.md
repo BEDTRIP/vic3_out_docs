@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Vaccination Campaigns» — T&R 1.13, `vaccination_campaigns`"
 project: vic3
 audience: agent

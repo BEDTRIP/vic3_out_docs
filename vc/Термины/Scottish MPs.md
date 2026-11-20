@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода VC «Scottish MPs» — подсказка-понятие Victoria 3 1.15 (`concept_westminster_scotland`)"
 project: vic3
 audience: agent

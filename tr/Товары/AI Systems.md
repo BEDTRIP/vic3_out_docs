@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «AI Systems» — T&R 1.13, `ai_systems`"
 project: vic3
 audience: agent

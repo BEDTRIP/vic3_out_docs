@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Bloody Baron» — VC 1.15, `special_bloody_baron`"
 project: vic3
 audience: agent

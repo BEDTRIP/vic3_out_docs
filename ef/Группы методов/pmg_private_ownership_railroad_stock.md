@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «pmg_private_ownership_railroad_stock» — E&F 1.13, `pmg_private_ownership_railroad_stock`"
 project: vic3
 audience: agent

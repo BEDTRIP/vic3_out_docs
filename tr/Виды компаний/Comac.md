@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Comac» — T&R 1.13, `company_comac`"
 project: vic3
 audience: agent

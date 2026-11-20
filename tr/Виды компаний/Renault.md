@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Renault» — T&R 1.13, `company_renault`"
 project: vic3
 audience: agent

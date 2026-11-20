@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Getzner, Mutter & Cie» — ваниль 1.15, `company_getzner_mutter`"
 project: vic3
 audience: agent

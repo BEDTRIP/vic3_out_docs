@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Local Tyrants» — VC 1.15, `ig_trait_local_emperor`"
 project: vic3
 audience: agent

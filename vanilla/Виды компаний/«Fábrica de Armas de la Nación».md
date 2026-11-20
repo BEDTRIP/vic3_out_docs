@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Fábrica de Armas de la Nación»» — ваниль 1.15, `company_famae`"
 project: vic3
 audience: agent

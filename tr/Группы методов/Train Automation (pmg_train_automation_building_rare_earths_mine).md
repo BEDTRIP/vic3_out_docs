@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Train Automation (pmg_train_automation_building_rare_earths_mine)» — T&R 1.13, `pmg_train_automation_building_rare_earths_mine`"
 project: vic3
 audience: agent

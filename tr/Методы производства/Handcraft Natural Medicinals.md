@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Handcraft Natural Medicinals» — T&R 1.13, `pm_handcraft_natural_medicinals`"
 project: vic3
 audience: agent

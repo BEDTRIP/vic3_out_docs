@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Ruble» — E&F 1.13, `law_spe_ruble_currency`"
 project: vic3
 audience: agent

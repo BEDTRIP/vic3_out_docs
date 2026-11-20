@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Удаленный доступ к торгам (usu_pm_rail_logistics_2)» — grey USU 1.13, `usu_pm_rail_logistics_2`"
 project: vic3
 audience: agent

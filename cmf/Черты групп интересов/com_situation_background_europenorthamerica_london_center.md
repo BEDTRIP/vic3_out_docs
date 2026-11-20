@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «com_situation_background_europenorthamerica_london_center» — CMF 1.15, `com_situation_background_europenorthamerica_london_center`"
 project: vic3
 audience: agent

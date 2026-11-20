@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Seaplanes» — T&R 1.13, `curtiss_seaplanes_tech`"
 project: vic3
 audience: agent

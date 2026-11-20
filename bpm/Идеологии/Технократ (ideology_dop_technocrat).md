@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Технократ (ideology_dop_technocrat)» — BPM 1.13, `ideology_dop_technocrat`"
 project: vic3
 audience: agent

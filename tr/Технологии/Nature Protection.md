@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Nature Protection» — T&R 1.13, `dubois_nature_protection_tech`"
 project: vic3
 audience: agent

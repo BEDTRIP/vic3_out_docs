@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Пакет покупок «wealth_78» — E&F 1.13, `wealth_78`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Reactionary Absolutist» — VC 1.15, `ideology_reactionism_leader`"
 project: vic3
 audience: agent

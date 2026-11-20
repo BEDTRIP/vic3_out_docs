@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_DaimlerMG» — grey USU 1.13, `company_DaimlerMG`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Crypto-Communication» — T&R 1.13, `cryptographic_communication`"
 project: vic3
 audience: agent

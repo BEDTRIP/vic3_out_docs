@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bösendorfer» — Morgenröte 1.15, `elgar_company_boesendorfer`"
 project: vic3
 audience: agent

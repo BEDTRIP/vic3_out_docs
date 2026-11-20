@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Massive Reservoir» — Gates of Bosphorus 1.15, `pm_gbbf_massive_reservior`"
 project: vic3
 audience: agent

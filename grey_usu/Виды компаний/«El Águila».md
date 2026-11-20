@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««El Águila»» — grey USU 1.13, `company_el_aguila`"
 project: vic3
 audience: agent

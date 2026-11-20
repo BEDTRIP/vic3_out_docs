@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Empresas Eléctricas Asociadas»» — grey USU 1.13, `company_eea`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Maple & Co» — ваниль 1.15, `company_maple_and_co`"
 project: vic3
 audience: agent

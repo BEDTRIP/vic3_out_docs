@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Evangelical Moralist» — Hail Columbia 1.13, `ideology_usfp_evangelical_moralist`"
 project: vic3
 audience: agent

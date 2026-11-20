@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Mode of Transportation» — Gates of Bosphorus 1.15, `pmg_gbbf_sahara_transportation`"
 project: vic3
 audience: agent

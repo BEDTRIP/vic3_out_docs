@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Production Research» — TGR 1.15, `law_tgr_research_production`"
 project: vic3
 audience: agent

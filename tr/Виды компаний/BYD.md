@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «BYD» — T&R 1.13, `company_byd`"
 project: vic3
 audience: agent

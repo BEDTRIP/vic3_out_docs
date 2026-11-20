@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Advanced Ores» — T&R 1.13, `advancedores`"
 project: vic3
 audience: agent

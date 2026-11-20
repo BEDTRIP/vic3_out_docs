@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Air Mail» — LLWA 1.13, `LLWA_pm_air_mail`"
 project: vic3
 audience: agent

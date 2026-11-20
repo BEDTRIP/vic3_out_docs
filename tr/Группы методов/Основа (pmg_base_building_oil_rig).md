@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_oil_rig)» — T&R 1.13, `pmg_base_building_oil_rig`"
 project: vic3
 audience: agent

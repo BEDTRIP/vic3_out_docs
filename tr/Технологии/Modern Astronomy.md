@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Astronomy» — T&R 1.13, `verrier_astronomy_tech`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Classicism» — T&R 1.13, `elgar_classicism_tech`"
 project: vic3
 audience: agent

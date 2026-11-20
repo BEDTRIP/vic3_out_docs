@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Fortnum & Mason» — VC 1.15, `company_Fortnum_Mason`"
 project: vic3
 audience: agent

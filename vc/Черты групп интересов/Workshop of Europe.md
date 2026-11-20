@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Workshop of Europe» — VC 1.15, `ig_trait_europe_workshop`"
 project: vic3
 audience: agent

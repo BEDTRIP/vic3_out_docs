@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «El Salvador Colon» — E&F 1.13, `law_peso_el_salvador_colon_currency`"
 project: vic3
 audience: agent

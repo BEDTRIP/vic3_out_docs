@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Digital Data Optimization (pm_digital_data_optimization_heavy_industry)» — T&R 1.13, `pm_digital_data_optimization_heavy_industry`"
 project: vic3
 audience: agent

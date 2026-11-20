@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Анархо-синдикалист (ideology_anarchist_syndicalist)» — BPM 1.13, `ideology_anarchist_syndicalist`"
 project: vic3
 audience: agent

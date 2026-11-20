@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Stockpile Size» — T&R 1.13, `pmg_nuclear_stockpile_military`"
 project: vic3
 audience: agent

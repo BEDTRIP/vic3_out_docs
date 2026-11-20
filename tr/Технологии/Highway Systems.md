@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Highway Systems» — T&R 1.13, `highway_systems`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Neoliberalism» — T&R 1.13, `neoliberism`"
 project: vic3
 audience: agent

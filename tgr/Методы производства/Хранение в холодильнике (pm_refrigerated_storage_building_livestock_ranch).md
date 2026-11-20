@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_livestock_ranch)» — TGR 1.15, `pm_refrigerated_storage_building_livestock_ranch`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Société Pathé Frères» — T&R 1.13, `company_societe_pathe_freres`"
 project: vic3
 audience: agent

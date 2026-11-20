@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «La Hispano-Suiza» — T&R 1.13, `company_hispano_suiza`"
 project: vic3
 audience: agent

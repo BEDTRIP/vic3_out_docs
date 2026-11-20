@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «National Institute of Social Security» — TGR 1.15, `law_modern_pension`"
 project: vic3
 audience: agent

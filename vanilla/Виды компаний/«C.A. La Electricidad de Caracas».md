@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««C.A. La Electricidad de Caracas»» — ваниль 1.15, `company_electricidad_de_caracas`"
 project: vic3
 audience: agent

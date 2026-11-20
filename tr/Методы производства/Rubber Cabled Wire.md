@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Rubber Cabled Wire» — T&R 1.13, `pm_cabled_copperwires`"
 project: vic3
 audience: agent

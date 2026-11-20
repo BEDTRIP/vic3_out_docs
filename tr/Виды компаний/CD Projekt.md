@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «CD Projekt» — T&R 1.13, `company_cd_projekt`"
 project: vic3
 audience: agent

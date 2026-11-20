@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Developed Healthcare» — T&R 1.13, `pm_developed_healtcare`"
 project: vic3
 audience: agent

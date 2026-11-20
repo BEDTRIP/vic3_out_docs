@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Breeding» — T&R 1.13, `pmg_breeding_livestock_ranch`"
 project: vic3
 audience: agent

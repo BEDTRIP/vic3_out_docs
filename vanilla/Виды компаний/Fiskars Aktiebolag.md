@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Fiskars Aktiebolag» — ваниль 1.15, `company_fiskars`"
 project: vic3
 audience: agent

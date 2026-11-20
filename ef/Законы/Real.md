@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Real» — E&F 1.13, `law_real_currency`"
 project: vic3
 audience: agent

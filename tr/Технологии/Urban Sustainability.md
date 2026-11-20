@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Urban Sustainability» — T&R 1.13, `urban_sustainability`"
 project: vic3
 audience: agent

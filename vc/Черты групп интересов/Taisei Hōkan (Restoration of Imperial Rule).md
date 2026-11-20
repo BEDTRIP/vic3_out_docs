@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Taisei Hōkan (Restoration of Imperial Rule)» — VC 1.15, `ig_trait_taisei_hokan`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Global Music» — T&R 1.13, `global_music`"
 project: vic3
 audience: agent

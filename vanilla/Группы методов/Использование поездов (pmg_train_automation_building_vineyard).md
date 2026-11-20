@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Использование поездов (pmg_train_automation_building_vineyard)» — ваниль 1.15, `pmg_train_automation_building_vineyard`"
 project: vic3
 audience: agent

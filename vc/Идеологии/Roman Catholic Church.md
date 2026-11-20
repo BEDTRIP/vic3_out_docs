@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Roman Catholic Church» — VC 1.15, `ideology_catholic_church`"
 project: vic3
 audience: agent

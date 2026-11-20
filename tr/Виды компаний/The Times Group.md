@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «The Times Group» — T&R 1.13, `company_bccl`"
 project: vic3
 audience: agent

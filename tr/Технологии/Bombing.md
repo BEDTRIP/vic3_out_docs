@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Bombing» — T&R 1.13, `bombing`"
 project: vic3
 audience: agent

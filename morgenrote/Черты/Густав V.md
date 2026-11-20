@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Густав V» — Morgenröte 1.15, `mr_ruler_trait_gustaf_v`"
 project: vic3
 audience: agent

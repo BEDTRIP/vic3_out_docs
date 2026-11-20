@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Paper Recycling» — T&R 1.13, `paper_recycling`"
 project: vic3
 audience: agent

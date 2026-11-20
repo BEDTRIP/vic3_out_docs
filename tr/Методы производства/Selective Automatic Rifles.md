@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Selective Automatic Rifles» — T&R 1.13, `pm_selective_automatic_rifles`"
 project: vic3
 audience: agent

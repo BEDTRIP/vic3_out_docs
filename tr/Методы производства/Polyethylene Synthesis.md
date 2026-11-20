@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Polyethylene Synthesis» — T&R 1.13, `pm_polyethylene_synthesis`"
 project: vic3
 audience: agent

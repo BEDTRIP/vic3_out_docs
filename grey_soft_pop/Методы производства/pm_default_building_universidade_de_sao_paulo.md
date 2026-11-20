@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_universidade_de_sao_paulo» — grey soft pop 1.15, `pm_default_building_universidade_de_sao_paulo`"
 project: vic3
 audience: agent

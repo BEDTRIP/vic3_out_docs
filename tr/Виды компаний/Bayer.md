@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bayer» — T&R 1.13, `company_bayer`"
 project: vic3
 audience: agent

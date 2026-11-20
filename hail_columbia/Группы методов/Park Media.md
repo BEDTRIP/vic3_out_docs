@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Park Media» — Hail Columbia 1.13, `usfp_pmg_national_parks_media`"
 project: vic3
 audience: agent

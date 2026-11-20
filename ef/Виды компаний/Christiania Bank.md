@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Christiania Bank» — E&F 1.13, `company_ChristianiaBank`"
 project: vic3
 audience: agent

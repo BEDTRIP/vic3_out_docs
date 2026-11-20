@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Devaluation» — E&F 1.13, `law_devaluation`"
 project: vic3
 audience: agent

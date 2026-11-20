@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Military Research Advocate» — TGR 1.15, `ideology_tgr_research_military`"
 project: vic3
 audience: agent

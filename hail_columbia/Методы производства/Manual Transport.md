@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Manual Transport» — Hail Columbia 1.13, `usfp_pm_fur_manual_transport`"
 project: vic3
 audience: agent

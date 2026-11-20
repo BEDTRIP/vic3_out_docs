@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Aluminium Process» — T&R 1.13, `pmg_aluminiummaking_process`"
 project: vic3
 audience: agent

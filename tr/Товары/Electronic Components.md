@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Electronic Components» — T&R 1.13, `electroniccomponents`"
 project: vic3
 audience: agent

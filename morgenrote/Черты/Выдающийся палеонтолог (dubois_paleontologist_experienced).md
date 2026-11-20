@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Выдающийся палеонтолог (dubois_paleontologist_experienced)» — Morgenröte 1.15, `dubois_paleontologist_experienced`"
 project: vic3
 audience: agent

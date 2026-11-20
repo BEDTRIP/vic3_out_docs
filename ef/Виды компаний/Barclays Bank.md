@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Barclays Bank» — E&F 1.13, `company_barclaysBank`"
 project: vic3
 audience: agent

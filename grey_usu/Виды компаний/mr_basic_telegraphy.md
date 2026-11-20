@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «mr_basic_telegraphy» — grey USU 1.13, `mr_basic_telegraphy`"
 project: vic3
 audience: agent

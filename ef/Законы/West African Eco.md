@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «West African Eco» — E&F 1.13, `law_eco_west_african_eco_currency`"
 project: vic3
 audience: agent

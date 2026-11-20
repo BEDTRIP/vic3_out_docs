@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Parity with the Reference Currency» — подсказка-понятие Victoria 3 1.13 (`concept_money_value_target_with_reference_currency_selection`)"
 project: vic3
 audience: agent

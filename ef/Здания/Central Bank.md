@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Central Bank» — E&F 1.13, `building_bank`"
 project: vic3
 audience: agent

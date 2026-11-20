@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Gates of Bosphorus «Beylik» — подсказка-понятие Victoria 3 1.15 (`concept_beylik`)"
 project: vic3
 audience: agent

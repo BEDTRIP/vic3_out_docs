@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Revaluation» — E&F 1.13, `law_revaluation`"
 project: vic3
 audience: agent

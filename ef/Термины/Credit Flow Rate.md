@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Credit Flow Rate» — подсказка-понятие Victoria 3 1.13 (`concept_credit_flow_rate`)"
 project: vic3
 audience: agent

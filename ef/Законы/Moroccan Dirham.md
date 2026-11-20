@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Moroccan Dirham» — E&F 1.13, `law_dinar_moroccan_dirham_currency`"
 project: vic3
 audience: agent

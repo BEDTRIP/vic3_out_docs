@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Deutsche Luftreederei» — Morgenröte 1.15, `curtiss_company_DLR`"
 project: vic3
 audience: agent

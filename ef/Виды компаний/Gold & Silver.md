@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Gold & Silver» — E&F 1.13, `company_basic_gold_and_silver_mining_2`"
 project: vic3
 audience: agent

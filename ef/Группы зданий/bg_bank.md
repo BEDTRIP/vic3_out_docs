@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «bg_bank» — E&F 1.13, `bg_bank`"
 project: vic3
 audience: agent

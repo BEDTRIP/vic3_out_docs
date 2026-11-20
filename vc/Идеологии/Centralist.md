@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Centralist» — VC 1.15, `ideology_austria_centraliser`"
 project: vic3
 audience: agent

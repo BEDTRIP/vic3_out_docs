@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Rickshaws» — LLWA 1.13, `LLWA_pm_rickshaws`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Timber Tracks» — Gates of Bosphorus 1.15, `pm_gbbf_timber_tracks`"
 project: vic3
 audience: agent

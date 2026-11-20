@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода PSC «Construction Spending Level» — подсказка-понятие Victoria 3 1.13 (`concept_construction_spending`)"
 project: vic3
 audience: agent

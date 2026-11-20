@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Version Control» — T&R 1.13, `pm_version_control_collaboration_building_software_industry`"
 project: vic3
 audience: agent

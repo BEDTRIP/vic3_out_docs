@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Lira» — E&F 1.13, `law_lira_currency`"
 project: vic3
 audience: agent

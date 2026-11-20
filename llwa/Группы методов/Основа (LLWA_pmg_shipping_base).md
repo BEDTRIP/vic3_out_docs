@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (LLWA_pmg_shipping_base)» — LLWA 1.13, `LLWA_pmg_shipping_base`"
 project: vic3
 audience: agent

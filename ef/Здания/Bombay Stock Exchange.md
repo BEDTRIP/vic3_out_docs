@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Bombay Stock Exchange» — E&F 1.13, `building_financial_centre_bic`"
 project: vic3
 audience: agent

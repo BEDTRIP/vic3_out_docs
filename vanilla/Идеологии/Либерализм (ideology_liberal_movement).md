@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Либерализм (ideology_liberal_movement)» — ваниль 1.15, `ideology_liberal_movement`"
 project: vic3
 audience: agent

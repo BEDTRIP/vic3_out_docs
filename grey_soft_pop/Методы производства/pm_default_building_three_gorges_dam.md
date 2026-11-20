@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_three_gorges_dam» — grey soft pop 1.15, `pm_default_building_three_gorges_dam`"
 project: vic3
 audience: agent

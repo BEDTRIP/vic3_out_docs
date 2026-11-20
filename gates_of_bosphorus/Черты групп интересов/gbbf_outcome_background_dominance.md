@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «gbbf_outcome_background_dominance» — Gates of Bosphorus 1.15, `gbbf_outcome_background_dominance`"
 project: vic3
 audience: agent

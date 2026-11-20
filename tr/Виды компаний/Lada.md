@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Lada» — T&R 1.13, `company_lada`"
 project: vic3
 audience: agent

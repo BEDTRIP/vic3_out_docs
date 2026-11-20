@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Transistor Radios» — T&R 1.13, `pm_transistor_radios`"
 project: vic3
 audience: agent

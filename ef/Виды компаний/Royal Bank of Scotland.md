@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Royal Bank of Scotland» — E&F 1.13, `company_RoyalBankOfScotland`"
 project: vic3
 audience: agent

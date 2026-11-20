@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Puritan» — VC 1.15, `ideology_puritan`"
 project: vic3
 audience: agent

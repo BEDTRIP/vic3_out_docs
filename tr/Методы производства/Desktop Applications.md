@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Desktop Applications» — T&R 1.13, `pm_traditional_software_building_software_industry`"
 project: vic3
 audience: agent

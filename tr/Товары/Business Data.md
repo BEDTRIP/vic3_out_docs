@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Business Data» — T&R 1.13, `business_data`"
 project: vic3
 audience: agent

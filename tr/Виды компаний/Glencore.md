@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Glencore» — T&R 1.13, `company_Glencore`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Gates of Bosphorus «Albanian Piracy» — подсказка-понятие Victoria 3 1.15 (`concept_albanian_piracy`)"
 project: vic3
 audience: agent

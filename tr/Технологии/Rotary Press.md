@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Rotary Press» — T&R 1.13, `manzoni_rotary_press_tech`"
 project: vic3
 audience: agent

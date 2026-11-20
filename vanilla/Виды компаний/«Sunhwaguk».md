@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Sunhwaguk»» — ваниль 1.15, `company_sunhwaguk`"
 project: vic3
 audience: agent

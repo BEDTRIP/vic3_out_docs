@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Пакет покупок «wealth_65» — Morgenröte 1.15, `wealth_65`"
 project: vic3
 audience: agent

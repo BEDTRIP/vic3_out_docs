@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Перевозка по рельсам (pm_rail_transport_mine)» — TGR 1.15, `pm_rail_transport_mine`"
 project: vic3
 audience: agent

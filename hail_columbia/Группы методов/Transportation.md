@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Transportation» — Hail Columbia 1.13, `usfp_pmg_fur_trapper_transport`"
 project: vic3
 audience: agent

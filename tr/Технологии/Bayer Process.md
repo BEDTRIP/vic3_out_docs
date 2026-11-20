@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Bayer Process» — T&R 1.13, `bayer_process`"
 project: vic3
 audience: agent

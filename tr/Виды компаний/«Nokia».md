@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Nokia»» — T&R 1.13, `company_nokia`"
 project: vic3
 audience: agent

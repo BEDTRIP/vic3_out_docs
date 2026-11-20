@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Art» — T&R 1.13, `elgar_modern_art_tech`"
 project: vic3
 audience: agent

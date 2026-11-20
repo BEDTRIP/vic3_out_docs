@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Ramirez & Cia. (Filhos) Lda» — ваниль 1.15, `company_ramirez`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Nacional de Bolivia» — E&F 1.13, `company_BancoNacionalDeBolivia`"
 project: vic3
 audience: agent

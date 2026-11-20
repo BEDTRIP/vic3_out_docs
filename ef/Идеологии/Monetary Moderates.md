@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Monetary Moderates» — E&F 1.13, `ideology_monetary_moderate`"
 project: vic3
 audience: agent

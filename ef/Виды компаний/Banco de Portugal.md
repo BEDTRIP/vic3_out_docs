@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de Portugal» — E&F 1.13, `company_BancoDePortugal`"
 project: vic3
 audience: agent

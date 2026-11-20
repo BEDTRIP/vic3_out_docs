@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Laissez-faire (ideology_bpm_movement_laissez_faire)» — BPM 1.13, `ideology_bpm_movement_laissez_faire`"
 project: vic3
 audience: agent

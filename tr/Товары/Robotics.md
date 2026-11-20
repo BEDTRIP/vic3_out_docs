@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Robotics» — T&R 1.13, `robotics`"
 project: vic3
 audience: agent

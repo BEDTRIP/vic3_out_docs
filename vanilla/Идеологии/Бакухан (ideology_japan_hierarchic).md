@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Бакухан (ideology_japan_hierarchic)» — ваниль 1.15, `ideology_japan_hierarchic`"
 project: vic3
 audience: agent

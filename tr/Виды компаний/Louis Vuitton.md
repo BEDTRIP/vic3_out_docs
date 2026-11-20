@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Louis Vuitton» — T&R 1.13, `company_louis_vuitton`"
 project: vic3
 audience: agent

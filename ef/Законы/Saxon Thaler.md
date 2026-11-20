@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Saxon Thaler» — E&F 1.13, `law_thaler_saxon_thaler_currency`"
 project: vic3
 audience: agent

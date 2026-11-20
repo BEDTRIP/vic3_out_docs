@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Autonomous Road Vehicles» — T&R 1.13, `autonomous_road_vehicles`"
 project: vic3
 audience: agent

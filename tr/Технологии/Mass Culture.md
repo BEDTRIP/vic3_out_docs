@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mass Culture» — T&R 1.13, `elgar_mass_culture_tech`"
 project: vic3
 audience: agent

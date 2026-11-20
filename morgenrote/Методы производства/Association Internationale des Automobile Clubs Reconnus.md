@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Association Internationale des Automobile Clubs Reconnus» — Morgenröte 1.15, `pm_vikelas_aiacr`"
 project: vic3
 audience: agent

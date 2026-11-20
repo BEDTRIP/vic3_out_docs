@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Stealth Technology» — T&R 1.13, `stealth_technology`"
 project: vic3
 audience: agent

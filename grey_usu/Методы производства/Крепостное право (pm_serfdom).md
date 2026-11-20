@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Крепостное право (pm_serfdom)» — grey USU 1.13, `pm_serfdom`"
 project: vic3
 audience: agent

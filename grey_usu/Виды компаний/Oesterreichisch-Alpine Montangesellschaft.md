@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — grey USU 1.13, `company_oesterreichisch_alpine_montangesellschaft`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Symphonist (ideology_gbbf_symphonist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_symphonist_leader`"
 project: vic3
 audience: agent

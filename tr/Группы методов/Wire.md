@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Wire» — T&R 1.13, `pmg_base_building_copperwires`"
 project: vic3
 audience: agent

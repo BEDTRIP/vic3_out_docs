@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Columbia Records» — T&R 1.13, `company_columbia_records`"
 project: vic3
 audience: agent

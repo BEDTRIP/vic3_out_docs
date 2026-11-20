@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Incentive Focus (economic_incentives_no_focus_secondary)» — TGR 1.15, `economic_incentives_no_focus_secondary`"
 project: vic3
 audience: agent

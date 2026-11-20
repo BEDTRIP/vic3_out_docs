@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Air Support» — T&R 1.13, `air_support`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «De Rothschild Frères» — E&F 1.13, `company_Rothschild_Bank_fra`"
 project: vic3
 audience: agent

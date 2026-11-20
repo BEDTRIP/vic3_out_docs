@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Hydroponic Farms» — T&R 1.13, `building_hydroponic`"
 project: vic3
 audience: agent

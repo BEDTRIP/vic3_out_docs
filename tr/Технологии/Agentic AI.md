@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Agentic AI» — T&R 1.13, `agentic_ai`"
 project: vic3
 audience: agent

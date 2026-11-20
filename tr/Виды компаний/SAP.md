@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «SAP» — T&R 1.13, `company_sap`"
 project: vic3
 audience: agent

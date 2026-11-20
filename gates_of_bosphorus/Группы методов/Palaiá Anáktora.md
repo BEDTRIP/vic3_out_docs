@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Palaiá Anáktora» — Gates of Bosphorus 1.15, `pmg_gbbf_palaia_anaktora`"
 project: vic3
 audience: agent

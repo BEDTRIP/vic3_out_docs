@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «generic_company_basic_tech» — T&R 1.13, `generic_company_basic_tech`"
 project: vic3
 audience: agent

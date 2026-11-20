@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Natural Gas Rigs» — T&R 1.13, `building_natural_gas_rig`"
 project: vic3
 audience: agent

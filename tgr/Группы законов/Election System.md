@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Election System» — TGR 1.15, `lawgroup_election_system`"
 project: vic3
 audience: agent

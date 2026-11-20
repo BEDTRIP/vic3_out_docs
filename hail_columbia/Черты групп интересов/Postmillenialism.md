@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Postmillenialism» — Hail Columbia 1.13, `usfp_ig_trait_postmillennialism`"
 project: vic3
 audience: agent

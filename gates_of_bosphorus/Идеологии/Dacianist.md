@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Dacianist» — Gates of Bosphorus 1.15, `ideology_gbbf_dacianist`"
 project: vic3
 audience: agent

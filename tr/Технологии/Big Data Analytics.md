@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Big Data Analytics» — T&R 1.13, `big_data_analytics`"
 project: vic3
 audience: agent

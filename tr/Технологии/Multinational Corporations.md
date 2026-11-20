@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Multinational Corporations» — T&R 1.13, `multinational_corporations`"
 project: vic3
 audience: agent

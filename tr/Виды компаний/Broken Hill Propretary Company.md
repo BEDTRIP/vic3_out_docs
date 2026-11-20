@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Broken Hill Propretary Company» — T&R 1.13, `company_bhp`"
 project: vic3
 audience: agent

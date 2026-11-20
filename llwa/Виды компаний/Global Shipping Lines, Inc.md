@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Global Shipping Lines, Inc» — LLWA 1.13, `LLWA_company_ship_line`"
 project: vic3
 audience: agent

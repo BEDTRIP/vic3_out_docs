@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Rare Earths» — T&R 1.13, `rare_earths`"
 project: vic3
 audience: agent

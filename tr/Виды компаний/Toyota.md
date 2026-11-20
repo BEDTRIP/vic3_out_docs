@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Toyota» — T&R 1.13, `company_toyota`"
 project: vic3
 audience: agent

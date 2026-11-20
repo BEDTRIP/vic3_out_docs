@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Обучение современной тактике (pm_advanced_tactics_training_conscription)» — ваниль 1.15, `pm_advanced_tactics_training_conscription`"
 project: vic3
 audience: agent

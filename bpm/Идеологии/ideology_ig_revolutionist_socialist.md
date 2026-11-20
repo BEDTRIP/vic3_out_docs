@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_ig_revolutionist_socialist» — BPM 1.13, `ideology_ig_revolutionist_socialist`"
 project: vic3
 audience: agent

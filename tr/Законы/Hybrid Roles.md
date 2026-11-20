@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Hybrid Roles» — T&R 1.13, `lgbtq_sex_equality`"
 project: vic3
 audience: agent

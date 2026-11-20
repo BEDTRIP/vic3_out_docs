@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Progressivist» — VC 1.15, `ideology_progressivism`"
 project: vic3
 audience: agent

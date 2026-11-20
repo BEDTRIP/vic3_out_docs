@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bosch» — T&R 1.13, `company_bosch`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Transnational Activism» — T&R 1.13, `transnational_activism`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «International Sports» — T&R 1.13, `vikelas_international_sports_tech`"
 project: vic3
 audience: agent

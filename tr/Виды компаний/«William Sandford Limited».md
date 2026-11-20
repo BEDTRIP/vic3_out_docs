@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««William Sandford Limited»» — T&R 1.13, `company_william_sandford`"
 project: vic3
 audience: agent

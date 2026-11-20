@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Cabled Wire» — T&R 1.13, `cabled_wire`"
 project: vic3
 audience: agent

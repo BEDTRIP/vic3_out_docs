@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Tetsudo_sho» — grey USU 1.13, `company_Tetsudo_sho`"
 project: vic3
 audience: agent

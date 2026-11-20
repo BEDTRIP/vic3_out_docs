@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_air_passenger_only» — grey USU 1.13, `pm_air_passenger_only`"
 project: vic3
 audience: agent

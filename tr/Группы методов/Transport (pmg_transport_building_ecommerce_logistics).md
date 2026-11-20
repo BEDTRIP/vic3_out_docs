@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Transport (pmg_transport_building_ecommerce_logistics)» — T&R 1.13, `pmg_transport_building_ecommerce_logistics`"
 project: vic3
 audience: agent

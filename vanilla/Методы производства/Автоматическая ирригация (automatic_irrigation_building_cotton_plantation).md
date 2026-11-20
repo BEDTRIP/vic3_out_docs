@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_cotton_plantation)» — ваниль 1.15, `automatic_irrigation_building_cotton_plantation`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Self-Strengthening Reformer (ideology_westernlism)» — VC 1.15, `ideology_westernlism`"
 project: vic3
 audience: agent

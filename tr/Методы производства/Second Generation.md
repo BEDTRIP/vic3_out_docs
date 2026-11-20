@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Second Generation» — T&R 1.13, `pm_nuclear_second_generation`"
 project: vic3
 audience: agent

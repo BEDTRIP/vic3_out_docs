@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Svenska Handelsbanken AB» — E&F 1.13, `company_HandelsBanken`"
 project: vic3
 audience: agent

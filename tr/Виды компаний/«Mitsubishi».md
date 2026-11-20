@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Mitsubishi»» — T&R 1.13, `company_mitsubishi`"
 project: vic3
 audience: agent

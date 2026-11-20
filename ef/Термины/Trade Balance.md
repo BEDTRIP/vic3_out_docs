@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Trade Balance» — подсказка-понятие Victoria 3 1.13 (`concept_gold_balance`)"
 project: vic3
 audience: agent

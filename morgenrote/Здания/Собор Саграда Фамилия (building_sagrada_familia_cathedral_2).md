@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_2)» — Morgenröte 1.15, `building_sagrada_familia_cathedral_2`"
 project: vic3
 audience: agent

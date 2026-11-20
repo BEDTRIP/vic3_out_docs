@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Водотрубный котёл (pm_watertube_boiler_building_tooling_workshop)» — ваниль 1.15, `pm_watertube_boiler_building_tooling_workshop`"
 project: vic3
 audience: agent

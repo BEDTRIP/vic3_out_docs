@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «White Star Line» — ваниль 1.15, `company_white_star_line`"
 project: vic3
 audience: agent

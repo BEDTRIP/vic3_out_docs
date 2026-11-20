@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Klaničko Društvo» — ваниль 1.15, `company_klanicko_drustvo`"
 project: vic3
 audience: agent

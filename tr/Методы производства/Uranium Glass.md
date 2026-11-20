@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Uranium Glass» — T&R 1.13, `pm_curie_uranium_glass`"
 project: vic3
 audience: agent

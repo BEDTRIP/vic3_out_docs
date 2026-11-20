@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Brooklyn Bridge» — Hail Columbia 1.13, `building_usfp_brooklyn_bridge`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Robotics Industries» — T&R 1.13, `building_robotics_industry`"
 project: vic3
 audience: agent

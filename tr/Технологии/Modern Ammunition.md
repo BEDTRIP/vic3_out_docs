@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Ammunition» — T&R 1.13, `precision_ammunition`"
 project: vic3
 audience: agent

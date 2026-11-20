@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Continuous Beet Diffusion» — T&R 1.13, `pm_continuous_diffusion_sugar_beet_refining`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Robotics» — T&R 1.13, `pmg_base_building_robotics`"
 project: vic3
 audience: agent

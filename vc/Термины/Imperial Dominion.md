@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода VC «Imperial Dominion» — подсказка-понятие Victoria 3 1.15 (`concept_british_dominion`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Islamist (ideology_gbbf_islamist)» — Gates of Bosphorus 1.15, `ideology_gbbf_islamist`"
 project: vic3
 audience: agent

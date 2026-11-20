@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Nile Barrage» — Gates of Bosphorus 1.15, `gbbf_building_nile_barrage`"
 project: vic3
 audience: agent

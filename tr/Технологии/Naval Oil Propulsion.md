@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Naval Oil Propulsion» — T&R 1.13, `naval_oil_propulsion`"
 project: vic3
 audience: agent

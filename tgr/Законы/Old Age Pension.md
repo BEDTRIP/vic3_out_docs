@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Old Age Pension» — TGR 1.15, `law_minimum_pension`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Cosmetics» — T&R 1.13, `cosmetics`"
 project: vic3
 audience: agent

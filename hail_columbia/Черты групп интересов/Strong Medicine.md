@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Strong Medicine» — Hail Columbia 1.13, `usfp_ig_trait_strong_medicine`"
 project: vic3
 audience: agent

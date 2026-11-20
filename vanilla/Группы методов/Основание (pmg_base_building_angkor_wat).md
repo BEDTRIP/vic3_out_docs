@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основание (pmg_base_building_angkor_wat)» — ваниль 1.15, `pmg_base_building_angkor_wat`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Fininvest» — T&R 1.13, `company_fininvest`"
 project: vic3
 audience: agent

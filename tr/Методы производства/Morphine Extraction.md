@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Morphine Extraction» — T&R 1.13, `pm_morphine_extraction`"
 project: vic3
 audience: agent

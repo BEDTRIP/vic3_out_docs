@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «pmg_dairy_products» — grey food 2 ranch 1.13, `pmg_dairy_products`"
 project: vic3
 audience: agent

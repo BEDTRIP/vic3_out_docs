@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Plasma Control Systems» — T&R 1.13, `pm_fusion_plasma_control`"
 project: vic3
 audience: agent

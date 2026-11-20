@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Public Investments» — TGR 1.15, `lawgroup_economic_incentives_public`"
 project: vic3
 audience: agent

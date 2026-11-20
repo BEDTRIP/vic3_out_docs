@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Shiseido» — T&R 1.13, `company_shiseido`"
 project: vic3
 audience: agent

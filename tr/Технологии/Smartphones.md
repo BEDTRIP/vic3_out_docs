@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Smartphones» — T&R 1.13, `smartphones`"
 project: vic3
 audience: agent

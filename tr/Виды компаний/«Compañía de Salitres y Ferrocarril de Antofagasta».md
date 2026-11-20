@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Compañía de Salitres y Ferrocarril de Antofagasta»» — T&R 1.13, `company_csfa`"
 project: vic3
 audience: agent

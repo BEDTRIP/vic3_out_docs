@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Air France» — T&R 1.13, `curtiss_company_air_france`"
 project: vic3
 audience: agent

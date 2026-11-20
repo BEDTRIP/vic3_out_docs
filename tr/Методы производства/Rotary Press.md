@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Rotary Press» — T&R 1.13, `manzoni_pm_rotary_presses`"
 project: vic3
 audience: agent

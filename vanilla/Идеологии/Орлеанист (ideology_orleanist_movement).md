@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Орлеанист (ideology_orleanist_movement)» — ваниль 1.15, `ideology_orleanist_movement`"
 project: vic3
 audience: agent

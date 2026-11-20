@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Media Content» — T&R 1.13, `manzoni_prints`"
 project: vic3
 audience: agent

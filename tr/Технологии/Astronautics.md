@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Astronautics» — T&R 1.13, `astronautics`"
 project: vic3
 audience: agent

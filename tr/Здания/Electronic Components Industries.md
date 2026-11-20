@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Electronic Components Industries» — T&R 1.13, `building_electronics_industry`"
 project: vic3
 audience: agent

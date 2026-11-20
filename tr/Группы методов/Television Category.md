@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Television Category» — T&R 1.13, `pmg_television_category`"
 project: vic3
 audience: agent

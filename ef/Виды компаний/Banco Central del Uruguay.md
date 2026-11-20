@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Central del Uruguay» — E&F 1.13, `company_BancoCentralDelUruguay`"
 project: vic3
 audience: agent

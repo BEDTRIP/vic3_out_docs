@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Automation (pmg_explosives_factory_automation)» — T&R 1.13, `pmg_explosives_factory_automation`"
 project: vic3
 audience: agent

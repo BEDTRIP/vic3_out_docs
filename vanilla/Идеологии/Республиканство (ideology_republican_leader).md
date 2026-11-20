@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Республиканство (ideology_republican_leader)» — ваниль 1.15, `ideology_republican_leader`"
 project: vic3
 audience: agent

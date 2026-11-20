@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Renewable Energy Power Plants» — T&R 1.13, `building_renewable_energy_power_plant`"
 project: vic3
 audience: agent

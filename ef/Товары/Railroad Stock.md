@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Railroad Stock» — E&F 1.13, `railroad_stock`"
 project: vic3
 audience: agent

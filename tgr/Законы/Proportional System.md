@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Proportional System» — TGR 1.15, `law_proportional_system`"
 project: vic3
 audience: agent

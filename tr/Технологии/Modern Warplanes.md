@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Warplanes» — T&R 1.13, `modern_warplanes`"
 project: vic3
 audience: agent

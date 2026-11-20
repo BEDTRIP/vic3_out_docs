@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Cannon-Launched Guided Projectiles» — T&R 1.13, `cannon_launched_guided_projectiles`"
 project: vic3
 audience: agent

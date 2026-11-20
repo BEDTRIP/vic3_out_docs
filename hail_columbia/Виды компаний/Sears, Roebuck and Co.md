@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Sears, Roebuck and Co» — Hail Columbia 1.13, `company_usfp_sears`"
 project: vic3
 audience: agent

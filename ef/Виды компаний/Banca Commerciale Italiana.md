@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banca Commerciale Italiana» — E&F 1.13, `company_BancaCommercialeItaliana`"
 project: vic3
 audience: agent

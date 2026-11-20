@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Aerospace Industries» — T&R 1.13, `building_aircraft_industry`"
 project: vic3
 audience: agent

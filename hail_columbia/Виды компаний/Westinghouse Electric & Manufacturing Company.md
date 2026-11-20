@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Westinghouse Electric & Manufacturing Company» — Hail Columbia 1.13, `company_usfp_westinghouse`"
 project: vic3
 audience: agent

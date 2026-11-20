@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Легитимист (ideology_legitimist)» — ваниль 1.15, `ideology_legitimist`"
 project: vic3
 audience: agent

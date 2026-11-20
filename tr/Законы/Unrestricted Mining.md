@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Unrestricted Mining» — T&R 1.13, `law_mining_unrestricted`"
 project: vic3
 audience: agent

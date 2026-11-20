@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Social Gospelist» — Hail Columbia 1.13, `ideology_usfp_social_gospel_leader`"
 project: vic3
 audience: agent

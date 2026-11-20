@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Mining equipment (pmg_curie_mining_equipment_building_uranium_mine)» — T&R 1.13, `pmg_curie_mining_equipment_building_uranium_mine`"
 project: vic3
 audience: agent

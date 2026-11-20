@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Tanzimat Reformer» — VC 1.15, `ideology_tanzimatism`"
 project: vic3
 audience: agent

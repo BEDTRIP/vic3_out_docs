@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Enhanced Cracking Distillation» — T&R 1.13, `enhanced_cracking_distillation`"
 project: vic3
 audience: agent

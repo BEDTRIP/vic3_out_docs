@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Sovereign Wealth Fund» — PBE 1.15, `pmg_sovereign_wealth_fund_company_headquarter`"
 project: vic3
 audience: agent

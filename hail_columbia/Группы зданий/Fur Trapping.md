@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Fur Trapping» — Hail Columbia 1.13, `bg_usfp_fur_trapping`"
 project: vic3
 audience: agent

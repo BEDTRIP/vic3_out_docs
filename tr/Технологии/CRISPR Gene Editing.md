@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «CRISPR Gene Editing» — T&R 1.13, `crispr_gene_editing`"
 project: vic3
 audience: agent

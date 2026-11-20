@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern City Transport» — T&R 1.13, `modern_city_transport`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «GlaxoSmithKline» — T&R 1.13, `company_glaxosmithkline`"
 project: vic3
 audience: agent

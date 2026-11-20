@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода CMF «Situation Faction» — подсказка-понятие Victoria 3 1.15 (`concept_com_situation_faction`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Consumer's Buildings» — TGR 1.15, `bg_consumer_goods`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Militarism» — VC 1.15, `ig_trait_japan_militarism`"
 project: vic3
 audience: agent

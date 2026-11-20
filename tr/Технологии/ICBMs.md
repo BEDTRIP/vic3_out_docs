@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «ICBMs» — T&R 1.13, `icbms`"
 project: vic3
 audience: agent

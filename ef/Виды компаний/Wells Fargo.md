@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Wells Fargo» — E&F 1.13, `company_BankWellsFargo`"
 project: vic3
 audience: agent

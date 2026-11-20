@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de Bilbao» — E&F 1.13, `company_BancoDeBilbao`"
 project: vic3
 audience: agent

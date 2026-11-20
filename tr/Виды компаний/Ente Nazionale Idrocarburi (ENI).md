@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Ente Nazionale Idrocarburi (ENI)» — T&R 1.13, `company_eni`"
 project: vic3
 audience: agent

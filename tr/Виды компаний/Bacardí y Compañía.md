@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bacardí y Compañía» — T&R 1.13, `company_bacardi`"
 project: vic3
 audience: agent

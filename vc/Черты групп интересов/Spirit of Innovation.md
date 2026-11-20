@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Spirit of Innovation» — VC 1.15, `ig_trait_innovative_spirit`"
 project: vic3
 audience: agent

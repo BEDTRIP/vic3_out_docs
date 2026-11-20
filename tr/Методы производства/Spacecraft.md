@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Spacecraft» — T&R 1.13, `pm_rocket_spacecraft`"
 project: vic3
 audience: agent

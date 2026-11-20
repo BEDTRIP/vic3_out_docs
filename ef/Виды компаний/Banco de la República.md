@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco de la República» — E&F 1.13, `company_BancoRepublicaColombia`"
 project: vic3
 audience: agent

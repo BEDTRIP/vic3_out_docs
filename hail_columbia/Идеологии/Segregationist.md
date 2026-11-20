@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Segregationist» — Hail Columbia 1.13, `ideology_reactionary_segregationist`"
 project: vic3
 audience: agent

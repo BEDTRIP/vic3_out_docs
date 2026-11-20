@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Quality Grains Inc» — ваниль 1.15, `company_basic_agriculture_1`"
 project: vic3
 audience: agent

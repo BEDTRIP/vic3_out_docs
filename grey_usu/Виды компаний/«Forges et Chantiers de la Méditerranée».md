@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Forges et Chantiers de la Méditerranée»» — grey USU 1.13, `company_fcm`"
 project: vic3
 audience: agent

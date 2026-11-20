@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Thermal Cracking» — T&R 1.13, `pm_thermal_cracking`"
 project: vic3
 audience: agent

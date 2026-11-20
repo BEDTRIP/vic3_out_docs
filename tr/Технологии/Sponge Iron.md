@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Sponge Iron» — T&R 1.13, `direct_reduced_iron`"
 project: vic3
 audience: agent

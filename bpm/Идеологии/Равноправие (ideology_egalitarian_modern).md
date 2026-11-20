@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Равноправие (ideology_egalitarian_modern)» — BPM 1.13, `ideology_egalitarian_modern`"
 project: vic3
 audience: agent

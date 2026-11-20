@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Decca Records (Universal)» — T&R 1.13, `company_universal_records`"
 project: vic3
 audience: agent

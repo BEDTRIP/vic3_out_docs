@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Afro-American Liberation» — Hail Columbia 1.13, `ideology_usfp_afro_american_movement`"
 project: vic3
 audience: agent

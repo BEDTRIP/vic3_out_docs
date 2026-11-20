@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Moral Blasphemy» — VC 1.15, `ig_trait_moral_blasphemy`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «com_progressbar_gold» — CMF 1.15, `com_progressbar_gold`"
 project: vic3
 audience: agent

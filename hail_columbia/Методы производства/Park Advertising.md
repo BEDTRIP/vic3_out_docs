@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Park Advertising» — Hail Columbia 1.13, `usfp_pm_national_park_photos`"
 project: vic3
 audience: agent

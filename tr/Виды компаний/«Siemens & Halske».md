@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Siemens & Halske»» — T&R 1.13, `company_siemens_and_halske`"
 project: vic3
 audience: agent

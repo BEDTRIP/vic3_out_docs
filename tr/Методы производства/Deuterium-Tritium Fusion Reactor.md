@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Deuterium-Tritium Fusion Reactor» — T&R 1.13, `pm_fusion_reactor`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Sailing Barges» — LLWA 1.13, `LLWA_pm_sailing_barges`"
 project: vic3
 audience: agent

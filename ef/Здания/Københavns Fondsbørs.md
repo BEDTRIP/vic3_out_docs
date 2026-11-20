@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Københavns Fondsbørs» — E&F 1.13, `building_financial_centre_den`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Moderate Republican» — VC 1.15, `ideology_opportunistes`"
 project: vic3
 audience: agent

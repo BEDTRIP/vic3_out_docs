@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Stabilimento Tecnico Triestino»» — grey USU 1.13, `company_stt`"
 project: vic3
 audience: agent

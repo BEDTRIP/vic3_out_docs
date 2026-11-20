@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «TSMC» — T&R 1.13, `company_tsmc`"
 project: vic3
 audience: agent

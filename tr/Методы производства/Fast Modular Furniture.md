@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Fast Modular Furniture» — T&R 1.13, `pm_fast_modular_furniture_systems`"
 project: vic3
 audience: agent

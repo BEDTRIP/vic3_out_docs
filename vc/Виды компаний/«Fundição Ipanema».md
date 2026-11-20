@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Fundição Ipanema»» — VC 1.15, `company_fundicao_ipanema`"
 project: vic3
 audience: agent

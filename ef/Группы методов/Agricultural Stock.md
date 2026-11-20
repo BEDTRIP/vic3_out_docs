@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Agricultural Stock» — E&F 1.13, `pmg_agricultural_stock_exchange`"
 project: vic3
 audience: agent

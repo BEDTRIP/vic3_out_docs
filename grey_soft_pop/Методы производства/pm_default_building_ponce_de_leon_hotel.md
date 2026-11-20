@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_ponce_de_leon_hotel» — grey soft pop 1.15, `pm_default_building_ponce_de_leon_hotel`"
 project: vic3
 audience: agent

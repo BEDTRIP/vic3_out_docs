@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Duriyabun» — Morgenröte 1.15, `elgar_company_duriyabun`"
 project: vic3
 audience: agent

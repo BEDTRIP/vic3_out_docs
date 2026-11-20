@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Tesla» — T&R 1.13, `company_tesla`"
 project: vic3
 audience: agent

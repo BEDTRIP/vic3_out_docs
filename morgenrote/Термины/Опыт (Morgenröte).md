@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Morgenröte «Опыт (Morgenröte)» — подсказка-понятие Victoria 3 1.15 (`concept_academics_experience`)"
 project: vic3
 audience: agent

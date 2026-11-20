@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Bimetallic Ratio» — E&F 1.13, `lawgroup_bimetalism_ratio`"
 project: vic3
 audience: agent

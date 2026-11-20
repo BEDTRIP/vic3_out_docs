@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mathematical Finance» — T&R 1.13, `math_finance`"
 project: vic3
 audience: agent

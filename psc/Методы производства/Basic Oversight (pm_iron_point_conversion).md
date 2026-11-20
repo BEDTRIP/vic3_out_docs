@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Basic Oversight (pm_iron_point_conversion)» — PSC 1.13, `pm_iron_point_conversion`"
 project: vic3
 audience: agent

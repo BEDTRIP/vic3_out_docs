@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Scientific Management» — Hail Columbia 1.13, `usfp_ig_trait_scientific_management`"
 project: vic3
 audience: agent

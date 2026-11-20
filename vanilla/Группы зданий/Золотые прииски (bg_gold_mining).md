@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Золотые прииски (bg_gold_mining)» — ваниль 1.15, `bg_gold_mining`"
 project: vic3
 audience: agent

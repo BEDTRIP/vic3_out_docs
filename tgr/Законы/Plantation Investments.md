@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Plantation Investments» — TGR 1.15, `economic_incentives_plantation`"
 project: vic3
 audience: agent

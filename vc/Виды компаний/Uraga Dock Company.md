@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Uraga Dock Company» — VC 1.15, `company_uragadockcompany`"
 project: vic3
 audience: agent

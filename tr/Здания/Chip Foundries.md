@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Chip Foundries» — T&R 1.13, `building_processors_foundry`"
 project: vic3
 audience: agent

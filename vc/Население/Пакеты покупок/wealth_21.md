@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Пакет покупок «wealth_21» — VC 1.15, `wealth_21`"
 project: vic3
 audience: agent

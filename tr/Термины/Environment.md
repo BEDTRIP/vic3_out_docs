@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «Environment» — подсказка-понятие Victoria 3 1.13 (`concept_environment`)"
 project: vic3
 audience: agent

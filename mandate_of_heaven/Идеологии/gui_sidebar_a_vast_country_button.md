@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «gui_sidebar_a_vast_country_button» — Mandate of Heaven 1.15, `gui_sidebar_a_vast_country_button`"
 project: vic3
 audience: agent

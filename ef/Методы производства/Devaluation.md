@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Devaluation» — E&F 1.13, `pm_devaluation`"
 project: vic3
 audience: agent

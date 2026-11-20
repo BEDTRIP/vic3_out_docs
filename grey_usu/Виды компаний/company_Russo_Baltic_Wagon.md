@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Russo_Baltic_Wagon» — grey USU 1.13, `company_Russo_Baltic_Wagon`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Steam Trucks» — LLWA 1.13, `LLWA_pm_steam_trucks`"
 project: vic3
 audience: agent

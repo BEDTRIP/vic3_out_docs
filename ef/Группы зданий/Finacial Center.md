@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Finacial Center» — E&F 1.13, `bg_financial_centre`"
 project: vic3
 audience: agent

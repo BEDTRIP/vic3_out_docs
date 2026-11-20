@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Life Rights» — T&R 1.13, `law_life_rights`"
 project: vic3
 audience: agent

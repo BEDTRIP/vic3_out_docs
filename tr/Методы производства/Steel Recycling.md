@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Steel Recycling» — T&R 1.13, `pm_steel_recycling`"
 project: vic3
 audience: agent

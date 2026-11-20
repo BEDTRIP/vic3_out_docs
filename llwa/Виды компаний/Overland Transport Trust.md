@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Overland Transport Trust» — LLWA 1.13, `LLWA_company_turnpike`"
 project: vic3
 audience: agent

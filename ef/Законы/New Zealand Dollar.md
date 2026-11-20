@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «New Zealand Dollar» — E&F 1.13, `law_dollar_new_zealand_dollar_currency`"
 project: vic3
 audience: agent

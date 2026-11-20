@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Social Security» — TGR 1.15, `lawgroup_social_security`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «National Westminster Bank» — E&F 1.13, `company_NationalWestminsterBank`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Sierra Leonean Dollar» — E&F 1.13, `law_dollar_sierra_leonean_dollar_currency`"
 project: vic3
 audience: agent

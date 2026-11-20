@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Financial Center» — E&F 1.13, `financial_center`"
 project: vic3
 audience: agent

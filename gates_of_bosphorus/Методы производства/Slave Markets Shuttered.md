@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Slave Markets Shuttered» — Gates of Bosphorus 1.15, `pm_gbbf_slave_market_shuttered`"
 project: vic3
 audience: agent

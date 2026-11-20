@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Reinforces Foreign perception» — TGR 1.15, `foreign_policy_authoritarian_representation`"
 project: vic3
 audience: agent

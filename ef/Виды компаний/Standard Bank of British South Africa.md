@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Standard Bank of British South Africa» — E&F 1.13, `company_BankSBoBSA`"
 project: vic3
 audience: agent

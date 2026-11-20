@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Codemasters» — T&R 1.13, `company_codemasters`"
 project: vic3
 audience: agent

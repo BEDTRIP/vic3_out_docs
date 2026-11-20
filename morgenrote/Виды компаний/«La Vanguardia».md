@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««La Vanguardia»» — Morgenröte 1.15, `pbi_company_la_vanguardia`"
 project: vic3
 audience: agent

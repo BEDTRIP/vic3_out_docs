@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Ariary» — E&F 1.13, `law_eco_ariary_currency`"
 project: vic3
 audience: agent

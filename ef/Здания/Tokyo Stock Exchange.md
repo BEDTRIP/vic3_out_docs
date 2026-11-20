@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Tokyo Stock Exchange» — E&F 1.13, `building_financial_centre_jap`"
 project: vic3
 audience: agent

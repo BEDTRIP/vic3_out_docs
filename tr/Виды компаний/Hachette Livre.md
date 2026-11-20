@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Hachette Livre» — T&R 1.13, `company_hachette_livre`"
 project: vic3
 audience: agent

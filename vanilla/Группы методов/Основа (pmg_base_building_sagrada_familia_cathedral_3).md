@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_sagrada_familia_cathedral_3)» — ваниль 1.15, `pmg_base_building_sagrada_familia_cathedral_3`"
 project: vic3
 audience: agent

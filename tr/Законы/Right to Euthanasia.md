@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Right to Euthanasia» — T&R 1.13, `law_euthanasia`"
 project: vic3
 audience: agent

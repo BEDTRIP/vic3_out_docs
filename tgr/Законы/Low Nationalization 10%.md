@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Low Nationalization 10%» — TGR 1.15, `law_tgr_public_dividend`"
 project: vic3
 audience: agent

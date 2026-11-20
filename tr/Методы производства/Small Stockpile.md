@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Small Stockpile» — T&R 1.13, `pm_nuclear_stockpile_1`"
 project: vic3
 audience: agent

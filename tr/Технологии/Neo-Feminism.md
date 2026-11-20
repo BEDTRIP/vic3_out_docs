@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Neo-Feminism» — T&R 1.13, `neo_feminism`"
 project: vic3
 audience: agent

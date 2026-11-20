@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Philanthropy» — VC 1.15, `ig_trait_philanthropy`"
 project: vic3
 audience: agent

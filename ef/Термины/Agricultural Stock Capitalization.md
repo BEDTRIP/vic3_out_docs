@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Agricultural Stock Capitalization» — подсказка-понятие Victoria 3 1.13 (`concept_agricultural_stock_index`)"
 project: vic3
 audience: agent

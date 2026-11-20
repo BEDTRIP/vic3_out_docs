@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Stabilimento Tecnico di Fiume» — ваниль 1.15, `company_stabilimento_tecnico_di_fiume`"
 project: vic3
 audience: agent

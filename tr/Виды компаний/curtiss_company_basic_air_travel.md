@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «curtiss_company_basic_air_travel» — T&R 1.13, `curtiss_company_basic_air_travel`"
 project: vic3
 audience: agent

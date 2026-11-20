@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Бакуфу (ideology_tokugawa_loyalist_movement_2)» — ваниль 1.15, `ideology_tokugawa_loyalist_movement_2`"
 project: vic3
 audience: agent

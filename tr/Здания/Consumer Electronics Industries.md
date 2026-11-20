@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Consumer Electronics Industries» — T&R 1.13, `building_consumer_electronics_industry`"
 project: vic3
 audience: agent

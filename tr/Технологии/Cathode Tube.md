@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Cathode Tube» — T&R 1.13, `cathode_tube`"
 project: vic3
 audience: agent

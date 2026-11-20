@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Software» — T&R 1.13, `softwares`"
 project: vic3
 audience: agent

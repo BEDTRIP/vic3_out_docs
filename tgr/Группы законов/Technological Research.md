@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Technological Research» — TGR 1.15, `lawgroup_tgr_research_focus`"
 project: vic3
 audience: agent

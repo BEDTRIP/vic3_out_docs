@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Advanced Education Policy» — T&R 1.13, `lawgroup_advanced_education`"
 project: vic3
 audience: agent

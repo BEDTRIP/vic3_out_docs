@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Railroad Stock» — E&F 1.13, `pmg_railroad_stock_exchange`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Versatile Transportation (pm_multiway_transport_plantation_rubber)» — T&R 1.13, `pm_multiway_transport_plantation_rubber`"
 project: vic3
 audience: agent

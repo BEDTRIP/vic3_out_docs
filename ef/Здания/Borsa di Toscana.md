@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Borsa di Toscana» — E&F 1.13, `building_financial_centre_tus`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Altos Hornos de Vizcaya»» — TGR 1.15, `company_altos_hornos_de_vizcaya`"
 project: vic3
 audience: agent

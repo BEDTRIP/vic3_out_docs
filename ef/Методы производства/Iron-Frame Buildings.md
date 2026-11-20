@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Iron-Frame Buildings» — E&F 1.13, `pm_iron_frame_buildings_private`"
 project: vic3
 audience: agent

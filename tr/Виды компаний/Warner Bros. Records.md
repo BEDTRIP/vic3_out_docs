@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Warner Bros. Records» — T&R 1.13, `company_warner_bros_records`"
 project: vic3
 audience: agent

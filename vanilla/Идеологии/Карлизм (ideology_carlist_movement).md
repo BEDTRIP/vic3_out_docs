@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Карлизм (ideology_carlist_movement)» — ваниль 1.15, `ideology_carlist_movement`"
 project: vic3
 audience: agent

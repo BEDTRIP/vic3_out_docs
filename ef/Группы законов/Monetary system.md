@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Monetary system» — E&F 1.13, `lawgroup_monetary_system`"
 project: vic3
 audience: agent

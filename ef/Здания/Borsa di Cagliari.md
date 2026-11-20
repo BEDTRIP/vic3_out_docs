@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Borsa di Cagliari» — E&F 1.13, `building_financial_centre_sar`"
 project: vic3
 audience: agent

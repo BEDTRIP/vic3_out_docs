@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Companhia Fiação e Tecidos de Pernambuco»» — ваниль 1.15, `company_pernambuco_textiles`"
 project: vic3
 audience: agent

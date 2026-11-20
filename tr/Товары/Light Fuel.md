@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Light Fuel» — T&R 1.13, `light_fuel`"
 project: vic3
 audience: agent

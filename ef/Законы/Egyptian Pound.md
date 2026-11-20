@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Egyptian Pound» — E&F 1.13, `law_pound_egyptian_pound_currency`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Drone Last Mile Delivery» — T&R 1.13, `pm_drone_last_mile`"
 project: vic3
 audience: agent

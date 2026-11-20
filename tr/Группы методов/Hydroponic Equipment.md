@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Hydroponic Equipment» — T&R 1.13, `pmg_base_building_hydroponic_type`"
 project: vic3
 audience: agent

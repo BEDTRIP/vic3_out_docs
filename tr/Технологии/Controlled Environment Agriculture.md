@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Controlled Environment Agriculture» — T&R 1.13, `controlled_environment_agriculture`"
 project: vic3
 audience: agent

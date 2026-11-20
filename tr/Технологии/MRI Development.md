@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «MRI Development» — T&R 1.13, `mri_development`"
 project: vic3
 audience: agent

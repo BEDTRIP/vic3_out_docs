@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Frankfurter Wertpapierbörse» — E&F 1.13, `building_financial_centre_frm`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Heavy Fuel» — T&R 1.13, `heavy_fuel`"
 project: vic3
 audience: agent

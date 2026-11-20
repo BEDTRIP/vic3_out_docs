@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Monetary Conservatives» — E&F 1.13, `ideology_monetary_conservative`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Micro-Processor» — T&R 1.13, `micro_processors`"
 project: vic3
 audience: agent

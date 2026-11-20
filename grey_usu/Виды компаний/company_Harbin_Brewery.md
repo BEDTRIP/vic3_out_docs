@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Harbin_Brewery» — grey USU 1.13, `company_Harbin_Brewery`"
 project: vic3
 audience: agent

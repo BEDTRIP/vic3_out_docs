@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Stabilimento Tecnico Triestino»» — ваниль 1.15, `company_stt`"
 project: vic3
 audience: agent

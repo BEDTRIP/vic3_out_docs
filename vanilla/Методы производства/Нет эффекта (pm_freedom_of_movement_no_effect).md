@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Нет эффекта (pm_freedom_of_movement_no_effect)» — ваниль 1.15, `pm_freedom_of_movement_no_effect`"
 project: vic3
 audience: agent

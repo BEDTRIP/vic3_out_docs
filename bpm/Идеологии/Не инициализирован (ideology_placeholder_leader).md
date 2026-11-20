@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Не инициализирован (ideology_placeholder_leader)» — BPM 1.13, `ideology_placeholder_leader`"
 project: vic3
 audience: agent

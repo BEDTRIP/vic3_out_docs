@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Grand East Plantations Ltd» — ваниль 1.15, `company_basic_colonial_plantations_1`"
 project: vic3
 audience: agent

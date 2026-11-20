@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Gender Equality» — T&R 1.13, `lgbtq_full_gender_equality`"
 project: vic3
 audience: agent

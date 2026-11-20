@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Electric Vehicles» — T&R 1.13, `electric_vehicles`"
 project: vic3
 audience: agent

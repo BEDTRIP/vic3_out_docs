@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_oil_la_brea» — grey USU 1.13, `company_oil_la_brea`"
 project: vic3
 audience: agent

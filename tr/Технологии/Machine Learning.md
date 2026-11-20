@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Machine Learning» — T&R 1.13, `machine_learning`"
 project: vic3
 audience: agent

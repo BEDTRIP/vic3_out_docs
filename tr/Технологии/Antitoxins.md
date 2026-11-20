@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Antitoxins» — T&R 1.13, `panum_antitoxins_tech`"
 project: vic3
 audience: agent

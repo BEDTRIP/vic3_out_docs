@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Простое земледелие (pm_simple_farming_building_rice_farm)» — ваниль 1.15, `pm_simple_farming_building_rice_farm`"
 project: vic3
 audience: agent

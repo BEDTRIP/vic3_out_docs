@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Interbank Refinancing» — E&F 1.13, `advanced_interbank_refinancing`"
 project: vic3
 audience: agent

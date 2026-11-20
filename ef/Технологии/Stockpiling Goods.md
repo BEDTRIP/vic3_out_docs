@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Stockpiling Goods» — E&F 1.13, `stockpiling_goods`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Beurs van Batavia» — E&F 1.13, `building_financial_centre_dei`"
 project: vic3
 audience: agent

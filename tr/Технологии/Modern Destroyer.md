@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Destroyer» — T&R 1.13, `modern_naval_doctrine`"
 project: vic3
 audience: agent

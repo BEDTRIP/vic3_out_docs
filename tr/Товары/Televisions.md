@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Televisions» — T&R 1.13, `televisions`"
 project: vic3
 audience: agent

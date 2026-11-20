@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Constitutional Defender» — VC 1.15, `ideology_united_states_constitution`"
 project: vic3
 audience: agent

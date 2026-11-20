@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Silver Mine» — E&F 1.13, `building_silver_mine`"
 project: vic3
 audience: agent

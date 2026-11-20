@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Carbon Capture (pmg_carbon_capture_building_urban_center)» — T&R 1.13, `pmg_carbon_capture_building_urban_center`"
 project: vic3
 audience: agent

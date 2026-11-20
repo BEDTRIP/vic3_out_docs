@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Beurs van Amsterdam» — E&F 1.13, `building_financial_centre_net`"
 project: vic3
 audience: agent

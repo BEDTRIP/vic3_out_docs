@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Microbiology» — T&R 1.13, `theiler_microbiology_tech`"
 project: vic3
 audience: agent

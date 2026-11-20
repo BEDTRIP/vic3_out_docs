@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Yasuda» — VC 1.15, `company_yasuda`"
 project: vic3
 audience: agent

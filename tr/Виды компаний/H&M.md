@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «H&M» — T&R 1.13, `company_hm`"
 project: vic3
 audience: agent

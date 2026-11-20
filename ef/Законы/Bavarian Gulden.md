@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Bavarian Gulden» — E&F 1.13, `law_gulden_bavarian_gulden_currency`"
 project: vic3
 audience: agent

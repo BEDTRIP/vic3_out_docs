@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_ha_long_bay» — grey soft pop 1.15, `pm_default_building_ha_long_bay`"
 project: vic3
 audience: agent

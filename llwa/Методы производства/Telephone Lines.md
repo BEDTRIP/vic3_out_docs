@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Telephone Lines» — LLWA 1.13, `LLWA_pm_telephones`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Synthetic Fuel» — T&R 1.13, `mendelejew_synthetic_fuel_tech`"
 project: vic3
 audience: agent

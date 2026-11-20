@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Home Delivery Networks» — T&R 1.13, `home_delivery_networks`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «A&R Operations (pm_autonomous_and_remote_ops_building_sulfur_mine)» — T&R 1.13, `pm_autonomous_and_remote_ops_building_sulfur_mine`"
 project: vic3
 audience: agent

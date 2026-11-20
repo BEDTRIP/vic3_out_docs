@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Bauxite» — T&R 1.13, `bauxite`"
 project: vic3
 audience: agent

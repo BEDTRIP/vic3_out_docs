@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Water» — T&R 1.13, `water`"
 project: vic3
 audience: agent

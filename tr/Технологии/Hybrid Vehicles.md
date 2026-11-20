@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Hybrid Vehicles» — T&R 1.13, `hybrid_vehicles`"
 project: vic3
 audience: agent

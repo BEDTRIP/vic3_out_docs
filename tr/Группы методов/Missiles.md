@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Missiles» — T&R 1.13, `pmg_missiles_building_munition_plant`"
 project: vic3
 audience: agent

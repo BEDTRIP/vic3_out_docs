@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Trans Oceanic Air Lines» — LLWA 1.13, `LLWA_company_airline`"
 project: vic3
 audience: agent

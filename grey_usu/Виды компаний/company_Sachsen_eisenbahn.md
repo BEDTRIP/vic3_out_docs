@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Sachsen_eisenbahn» — grey USU 1.13, `company_Sachsen_eisenbahn`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «law_repeatable_culture_affirmative_action» — BPM 1.13, `law_repeatable_culture_affirmative_action`"
 project: vic3
 audience: agent

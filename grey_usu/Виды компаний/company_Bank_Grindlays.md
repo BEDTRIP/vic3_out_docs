@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Bank_Grindlays» — grey USU 1.13, `company_Bank_Grindlays`"
 project: vic3
 audience: agent

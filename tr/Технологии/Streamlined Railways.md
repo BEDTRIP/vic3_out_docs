@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Streamlined Railways» — T&R 1.13, `vikelas_streamliners_tech`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Jusighoesa joheung-eunhaeng» — E&F 1.13, `company_ChohungBank`"
 project: vic3
 audience: agent

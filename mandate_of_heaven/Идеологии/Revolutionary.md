@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Revolutionary» — Mandate of Heaven 1.15, `ideology_moh_revolutionary`"
 project: vic3
 audience: agent

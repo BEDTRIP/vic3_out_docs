@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Transport Lines» — LLWA 1.13, `LLWA_pm_transport_lines`"
 project: vic3
 audience: agent

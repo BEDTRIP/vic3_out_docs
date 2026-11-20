@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Central Railway Corporation» — LLWA 1.13, `LLWA_company_railroad`"
 project: vic3
 audience: agent

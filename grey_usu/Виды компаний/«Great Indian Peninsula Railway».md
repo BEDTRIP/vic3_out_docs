@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Great Indian Peninsula Railway»» — grey USU 1.13, `company_great_indian_railway`"
 project: vic3
 audience: agent

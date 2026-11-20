@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Picks and Shovels» — E&F 1.13, `pm_picks_and_shovels_building_silver_mine`"
 project: vic3
 audience: agent

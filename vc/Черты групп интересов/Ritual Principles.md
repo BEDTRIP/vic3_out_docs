@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Ritual Principles» — VC 1.15, `ig_trait_rule_of_etiquette`"
 project: vic3
 audience: agent

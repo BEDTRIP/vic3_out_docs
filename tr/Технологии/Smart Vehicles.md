@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Smart Vehicles» — T&R 1.13, `smart_vehicles`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «American Woolen Company» — Hail Columbia 1.13, `company_usfp_american_woolen`"
 project: vic3
 audience: agent

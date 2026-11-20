@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_uranium_advancedores_mining» — T&R 1.13, `company_uranium_advancedores_mining`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «UGVs» — T&R 1.13, `military_ugv`"
 project: vic3
 audience: agent

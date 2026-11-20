@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Telecommunications» — T&R 1.13, `pmg_base_building_telecommunications`"
 project: vic3
 audience: agent

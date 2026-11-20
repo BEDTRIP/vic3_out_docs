@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода T&R «IMF» — подсказка-понятие Victoria 3 1.13 (`concept_un_subject_imf`)"
 project: vic3
 audience: agent

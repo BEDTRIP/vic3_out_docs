@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Imperial Bank of Persia» — E&F 1.13, `company_ImperialBankofPersia`"
 project: vic3
 audience: agent

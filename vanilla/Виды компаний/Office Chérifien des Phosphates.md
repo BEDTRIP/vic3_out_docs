@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Office Chérifien des Phosphates» — ваниль 1.15, `company_office_cherifien_des_phosphates`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banque Nationale de Belgique» — E&F 1.13, `company_BanqueNationaleDeBelgique`"
 project: vic3
 audience: agent

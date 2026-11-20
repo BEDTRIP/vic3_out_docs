@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Private Construction» — E&F 1.13, `company_private_construction`"
 project: vic3
 audience: agent

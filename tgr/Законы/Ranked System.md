@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Ranked System» — TGR 1.15, `law_ranked_system`"
 project: vic3
 audience: agent

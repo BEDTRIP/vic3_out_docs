@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Light Store Pickup» — T&R 1.13, `pm_light_store_pickup`"
 project: vic3
 audience: agent

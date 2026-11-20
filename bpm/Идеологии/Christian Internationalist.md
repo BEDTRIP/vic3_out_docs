@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Christian Internationalist» — BPM 1.13, `ideology_cit_christian_internationalist`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Company Nationalization» — TGR 1.15, `pmg_tgr_company_participation`"
 project: vic3
 audience: agent

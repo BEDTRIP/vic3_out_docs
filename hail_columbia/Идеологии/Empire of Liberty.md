@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Empire of Liberty» — Hail Columbia 1.13, `ideology_empire_of_liberty`"
 project: vic3
 audience: agent

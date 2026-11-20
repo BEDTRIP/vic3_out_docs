@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «com_progressbar_glow_line_white» — CMF 1.15, `com_progressbar_glow_line_white`"
 project: vic3
 audience: agent

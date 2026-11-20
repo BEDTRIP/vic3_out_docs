@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «British Liberal» — VC 1.15, `ideology_english_enlightlism`"
 project: vic3
 audience: agent

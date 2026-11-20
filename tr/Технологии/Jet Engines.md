@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Jet Engines» — T&R 1.13, `jet_aviation`"
 project: vic3
 audience: agent

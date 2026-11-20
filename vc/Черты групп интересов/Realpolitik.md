@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Realpolitik» — VC 1.15, `ig_trait_realists`"
 project: vic3
 audience: agent

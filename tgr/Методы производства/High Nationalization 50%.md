@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «High Nationalization 50%» — TGR 1.15, `pm_tgr_company_participation_50`"
 project: vic3
 audience: agent

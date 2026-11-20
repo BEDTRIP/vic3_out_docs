@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «User Interface» — T&R 1.13, `user_interface`"
 project: vic3
 audience: agent

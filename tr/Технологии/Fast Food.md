@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Fast Food» — T&R 1.13, `fast_food`"
 project: vic3
 audience: agent

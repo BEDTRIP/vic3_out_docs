@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Passenger Flights» — LLWA 1.13, `LLWA_pm_air_travel`"
 project: vic3
 audience: agent

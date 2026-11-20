@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Provincial Autonomy» — Mandate of Heaven 1.15, `law_provincial_autonomy`"
 project: vic3
 audience: agent

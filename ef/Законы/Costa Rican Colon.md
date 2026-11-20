@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Costa Rican Colon» — E&F 1.13, `law_peso_costa_rican_colon_currency`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Artisans» — BPM 1.13, `ideology_eco_artisan`"
 project: vic3
 audience: agent

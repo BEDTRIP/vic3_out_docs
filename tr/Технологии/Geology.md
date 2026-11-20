@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Geology» — T&R 1.13, `agassiz_geology_tech`"
 project: vic3
 audience: agent

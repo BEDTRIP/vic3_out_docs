@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Reconnaissance Balloons» — T&R 1.13, `curtiss_reconnaissance_balloon_tech`"
 project: vic3
 audience: agent

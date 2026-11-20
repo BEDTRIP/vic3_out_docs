@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Negligent Environmentalist» — T&R 1.13, `ideology_neg_ambientalist`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Electrified Administrative Center» — Gates of Bosphorus 1.15, `pm_gbbf_dolmabahce_palace_upgraded`"
 project: vic3
 audience: agent

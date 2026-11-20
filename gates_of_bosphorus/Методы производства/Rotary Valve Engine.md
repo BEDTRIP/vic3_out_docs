@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Rotary Valve Engine» — Gates of Bosphorus 1.15, `gbbf_rotary_valve_engine_building_esparto`"
 project: vic3
 audience: agent

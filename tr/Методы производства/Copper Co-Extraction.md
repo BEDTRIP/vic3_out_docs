@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Copper Co-Extraction» — T&R 1.13, `selective_mineral_extraction_lead_mine`"
 project: vic3
 audience: agent

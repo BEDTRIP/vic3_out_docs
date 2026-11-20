@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««The Age»» — Morgenröte 1.15, `pbi_company_the_age`"
 project: vic3
 audience: agent

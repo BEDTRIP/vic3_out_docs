@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Internet» — T&R 1.13, `internet`"
 project: vic3
 audience: agent

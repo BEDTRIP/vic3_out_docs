@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Химические удобрения (pm_chemical_fertilizer_building_rice_farm)» — ваниль 1.15, `pm_chemical_fertilizer_building_rice_farm`"
 project: vic3
 audience: agent

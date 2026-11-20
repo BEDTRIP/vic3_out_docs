@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Active Restoration» — T&R 1.13, `law_active_restoration`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Genetic Engineering» — T&R 1.13, `genetic_engineering`"
 project: vic3
 audience: agent

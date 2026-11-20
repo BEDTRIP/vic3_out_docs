@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Market Connectivity» — LLWA 1.13, `llwa_market_conn`"
 project: vic3
 audience: agent

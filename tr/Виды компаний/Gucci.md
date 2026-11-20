@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Gucci» — T&R 1.13, `company_gucci`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Delivery Mode» — T&R 1.13, `pmg_delivery_mode_building_ecommerce_logistics`"
 project: vic3
 audience: agent

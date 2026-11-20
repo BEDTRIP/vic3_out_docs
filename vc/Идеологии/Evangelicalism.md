@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Evangelicalism» — VC 1.15, `ideology_evangelical_revival`"
 project: vic3
 audience: agent

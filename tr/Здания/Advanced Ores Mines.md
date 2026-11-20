@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Advanced Ores Mines» — T&R 1.13, `building_advancedores_mine`"
 project: vic3
 audience: agent

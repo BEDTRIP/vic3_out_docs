@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Molecular Biology» — T&R 1.13, `molecular_biology`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Prada» — T&R 1.13, `company_prada`"
 project: vic3
 audience: agent

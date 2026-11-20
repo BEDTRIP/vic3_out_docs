@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — ваниль 1.15, `pm_rotary_valve_engine_building_arms_industry`"
 project: vic3
 audience: agent

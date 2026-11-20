@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Hitotsubashi (Shueisha, Shogakukan, Kodansha)» — T&R 1.13, `company_hitotsubashi`"
 project: vic3
 audience: agent

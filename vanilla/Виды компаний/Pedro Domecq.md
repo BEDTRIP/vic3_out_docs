@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Pedro Domecq» — ваниль 1.15, `company_pedro_domecq`"
 project: vic3
 audience: agent

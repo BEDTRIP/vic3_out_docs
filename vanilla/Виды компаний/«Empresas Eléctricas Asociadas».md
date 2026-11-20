@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Empresas Eléctricas Asociadas»» — ваниль 1.15, `company_eea`"
 project: vic3
 audience: agent

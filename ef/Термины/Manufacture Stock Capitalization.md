@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Manufacture Stock Capitalization» — подсказка-понятие Victoria 3 1.13 (`concept_manufacture_stock_index`)"
 project: vic3
 audience: agent

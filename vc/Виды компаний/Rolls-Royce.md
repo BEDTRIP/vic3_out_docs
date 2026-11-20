@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Rolls-Royce» — VC 1.15, `company_rolls_royce`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Nuclear Equipment Delivery Method» — T&R 1.13, `pmg_nuclear_bomber_military`"
 project: vic3
 audience: agent

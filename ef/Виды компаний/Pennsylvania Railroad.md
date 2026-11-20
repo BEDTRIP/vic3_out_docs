@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Pennsylvania Railroad» — E&F 1.13, `company_PennsylvaniaRailroad`"
 project: vic3
 audience: agent

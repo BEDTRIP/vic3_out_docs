@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Sovereign Wealth Fund» — PBE 1.15, `pm_company_headquarter_swg_3`"
 project: vic3
 audience: agent

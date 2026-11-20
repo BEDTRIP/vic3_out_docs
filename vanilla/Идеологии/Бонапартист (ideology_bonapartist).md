@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Бонапартист (ideology_bonapartist)» — ваниль 1.15, `ideology_bonapartist`"
 project: vic3
 audience: agent

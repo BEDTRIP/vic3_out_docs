@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Sherkat-e Ettehadiya-ye Welayat-e Shemali»» — ваниль 1.15, `company_sherkat_shemali`"
 project: vic3
 audience: agent

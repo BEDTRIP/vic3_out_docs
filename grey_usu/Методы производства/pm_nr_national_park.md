@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_nr_national_park» — grey USU 1.13, `pm_nr_national_park`"
 project: vic3
 audience: agent

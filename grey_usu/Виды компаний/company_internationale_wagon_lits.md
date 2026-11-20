@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_internationale_wagon_lits» — grey USU 1.13, `company_internationale_wagon_lits`"
 project: vic3
 audience: agent

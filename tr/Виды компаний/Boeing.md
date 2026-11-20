@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Boeing» — T&R 1.13, `company_boeing`"
 project: vic3
 audience: agent

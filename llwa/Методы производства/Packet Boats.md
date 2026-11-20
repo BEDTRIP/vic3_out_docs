@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Packet Boats» — LLWA 1.13, `LLWA_pm_packet_ships`"
 project: vic3
 audience: agent

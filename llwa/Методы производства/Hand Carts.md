@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Hand Carts» — LLWA 1.13, `LLWA_pm_hand_carts`"
 project: vic3
 audience: agent

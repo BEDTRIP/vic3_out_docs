@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Supersonic Aviation» — T&R 1.13, `supersonic_aviation`"
 project: vic3
 audience: agent

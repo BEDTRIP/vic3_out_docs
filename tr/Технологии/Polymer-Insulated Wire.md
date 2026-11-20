@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Polymer-Insulated Wire» — T&R 1.13, `advanced_wire`"
 project: vic3
 audience: agent

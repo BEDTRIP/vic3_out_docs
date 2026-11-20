@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «KLM Royal Dutch Airlines» — T&R 1.13, `curtiss_company_KLM`"
 project: vic3
 audience: agent

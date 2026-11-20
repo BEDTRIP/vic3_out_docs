@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Imperial Reformer» — VC 1.15, `ideology_imperial_reformer_leader`"
 project: vic3
 audience: agent

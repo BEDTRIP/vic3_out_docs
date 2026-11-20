@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_John_Booth_lumber_mills» — grey USU 1.13, `company_John_Booth_lumber_mills`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Mercedes-Benz» — T&R 1.13, `company_mercedes_benz`"
 project: vic3
 audience: agent

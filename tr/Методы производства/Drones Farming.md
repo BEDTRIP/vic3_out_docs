@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Drones Farming» — T&R 1.13, `pm_hydroponic_drones_farming`"
 project: vic3
 audience: agent

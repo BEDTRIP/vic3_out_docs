@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Currency Type» — E&F 1.13, `pm_no_currency_type`"
 project: vic3
 audience: agent

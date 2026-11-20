@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Algorithmic Optimization (pm_internet_data_algorithmic_dispatch_heavy_industry_no_shopkeepers)» — T&R 1.13, `pm_internet_data_algorithmic_dispatch_heavy_industry_no_shopkeepers`"
 project: vic3
 audience: agent

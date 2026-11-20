@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Direct Reduced Iron» — T&R 1.13, `pmg_direct_reduced_iron_steelmaking`"
 project: vic3
 audience: agent

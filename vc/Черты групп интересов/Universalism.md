@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Universalism» — VC 1.15, `ig_trait_universalism`"
 project: vic3
 audience: agent

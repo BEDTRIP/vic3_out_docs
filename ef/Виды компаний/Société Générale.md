@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Société Générale» — E&F 1.13, `company_SocieteGenerale`"
 project: vic3
 audience: agent

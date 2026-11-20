@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Pleyel et Cie» — Morgenröte 1.15, `elgar_company_pleyel`"
 project: vic3
 audience: agent

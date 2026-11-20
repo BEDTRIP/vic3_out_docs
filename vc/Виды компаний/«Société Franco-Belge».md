@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Société Franco-Belge»» — VC 1.15, `company_franco_belge`"
 project: vic3
 audience: agent

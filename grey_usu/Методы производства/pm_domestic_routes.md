@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_domestic_routes» — grey USU 1.13, `pm_domestic_routes`"
 project: vic3
 audience: agent

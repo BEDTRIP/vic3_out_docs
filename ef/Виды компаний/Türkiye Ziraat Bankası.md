@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Türkiye Ziraat Bankası» — E&F 1.13, `company_TurkishZiraatBankasi`"
 project: vic3
 audience: agent

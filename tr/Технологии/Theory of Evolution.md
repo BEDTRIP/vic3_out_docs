@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Theory of Evolution» — T&R 1.13, `dubois_theory_of_evolution_tech`"
 project: vic3
 audience: agent

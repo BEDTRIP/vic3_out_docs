@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Секуляризм (pmg_government_administration_religious_administration)» — ваниль 1.15, `pmg_government_administration_religious_administration`"
 project: vic3
 audience: agent

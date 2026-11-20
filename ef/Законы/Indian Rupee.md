@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Indian Rupee» — E&F 1.13, `law_rupee_indian_rupee_currency`"
 project: vic3
 audience: agent

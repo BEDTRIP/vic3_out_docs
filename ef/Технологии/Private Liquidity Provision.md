@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Private Liquidity Provision» — E&F 1.13, `private_liquidity_provision`"
 project: vic3
 audience: agent

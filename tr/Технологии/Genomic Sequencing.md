@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Genomic Sequencing» — T&R 1.13, `genomic_sequencing`"
 project: vic3
 audience: agent

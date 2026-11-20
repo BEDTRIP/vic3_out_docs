@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Peking University» — Mandate of Heaven 1.15, `company_peking_university`"
 project: vic3
 audience: agent

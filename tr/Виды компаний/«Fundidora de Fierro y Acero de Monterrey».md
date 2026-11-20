@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Fundidora de Fierro y Acero de Monterrey»» — T&R 1.13, `company_fundidora_monterrey`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Borsa di Napoli» — E&F 1.13, `building_financial_centre_sic`"
 project: vic3
 audience: agent

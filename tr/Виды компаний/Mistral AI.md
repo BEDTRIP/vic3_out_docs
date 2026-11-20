@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Mistral AI» — T&R 1.13, `company_mistral_ai`"
 project: vic3
 audience: agent

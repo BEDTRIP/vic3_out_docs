@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Pro-Workers Regulations» — TGR 1.15, `law_salary_national_contract`"
 project: vic3
 audience: agent

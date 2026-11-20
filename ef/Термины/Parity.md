@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Parity» — подсказка-понятие Victoria 3 1.13 (`concept_parity`)"
 project: vic3
 audience: agent

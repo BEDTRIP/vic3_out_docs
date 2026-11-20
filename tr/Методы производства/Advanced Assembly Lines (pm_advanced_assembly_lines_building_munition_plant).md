@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Advanced Assembly Lines (pm_advanced_assembly_lines_building_munition_plant)» — T&R 1.13, `pm_advanced_assembly_lines_building_munition_plant`"
 project: vic3
 audience: agent

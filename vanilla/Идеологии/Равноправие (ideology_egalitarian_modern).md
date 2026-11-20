@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Равноправие (ideology_egalitarian_modern)» — ваниль 1.15, `ideology_egalitarian_modern`"
 project: vic3
 audience: agent

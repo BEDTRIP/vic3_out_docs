@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Neuroscience» — T&R 1.13, `neuroscience`"
 project: vic3
 audience: agent

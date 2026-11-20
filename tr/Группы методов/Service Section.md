@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Service Section» — T&R 1.13, `pmg_service_section_building_office`"
 project: vic3
 audience: agent

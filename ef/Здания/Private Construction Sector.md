@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Private Construction Sector» — E&F 1.13, `building_ef_private_construction`"
 project: vic3
 audience: agent

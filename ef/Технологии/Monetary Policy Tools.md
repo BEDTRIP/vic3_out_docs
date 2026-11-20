@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Monetary Policy Tools» — E&F 1.13, `monetary_policy_tools`"
 project: vic3
 audience: agent

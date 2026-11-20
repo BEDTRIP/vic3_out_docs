@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Modern Theatre» — T&R 1.13, `modern_productions_pm`"
 project: vic3
 audience: agent

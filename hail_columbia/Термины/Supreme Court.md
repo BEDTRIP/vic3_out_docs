@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Hail Columbia «Supreme Court» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_supreme_court`)"
 project: vic3
 audience: agent

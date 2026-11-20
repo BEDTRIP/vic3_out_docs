@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Specific Focus» — TGR 1.15, `foreign_policy_no_focus`"
 project: vic3
 audience: agent

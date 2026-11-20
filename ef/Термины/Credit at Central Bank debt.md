@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Credit at Central Bank debt» — подсказка-понятие Victoria 3 1.13 (`concept_credit_at_central_bank`)"
 project: vic3
 audience: agent

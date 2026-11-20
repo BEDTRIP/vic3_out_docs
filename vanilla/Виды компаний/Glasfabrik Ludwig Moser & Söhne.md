@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — ваниль 1.15, `company_ludwig_moser_and_sons`"
 project: vic3
 audience: agent

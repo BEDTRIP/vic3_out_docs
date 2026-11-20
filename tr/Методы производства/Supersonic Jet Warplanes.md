@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Supersonic Jet Warplanes» — T&R 1.13, `pm_supersonic_warplanes_production`"
 project: vic3
 audience: agent

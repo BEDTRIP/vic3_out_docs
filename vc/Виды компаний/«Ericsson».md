@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Ericsson»» — VC 1.15, `company_ericsson`"
 project: vic3
 audience: agent

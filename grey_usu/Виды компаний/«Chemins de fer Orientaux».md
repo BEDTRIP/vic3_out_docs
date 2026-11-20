@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Chemins de fer Orientaux»» — grey USU 1.13, `company_orient_express`"
 project: vic3
 audience: agent

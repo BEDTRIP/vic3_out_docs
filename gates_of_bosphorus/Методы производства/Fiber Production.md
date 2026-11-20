@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Fiber Production» — Gates of Bosphorus 1.15, `gbbf_esparto_default`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Ubisoft» — T&R 1.13, `company_ubisoft`"
 project: vic3
 audience: agent

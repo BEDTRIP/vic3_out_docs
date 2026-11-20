@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Fur Trapping» — Hail Columbia 1.13, `usfp_pm_fur_trapping`"
 project: vic3
 audience: agent

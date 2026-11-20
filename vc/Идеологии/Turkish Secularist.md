@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Turkish Secularist» — VC 1.15, `ideology_kemalism_leader`"
 project: vic3
 audience: agent

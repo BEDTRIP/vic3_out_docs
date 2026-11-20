@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Geothermal Reactor» — T&R 1.13, `pmg_geothermal_reactor`"
 project: vic3
 audience: agent

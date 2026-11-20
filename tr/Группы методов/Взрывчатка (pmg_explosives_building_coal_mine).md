@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Взрывчатка (pmg_explosives_building_coal_mine)» — T&R 1.13, `pmg_explosives_building_coal_mine`"
 project: vic3
 audience: agent

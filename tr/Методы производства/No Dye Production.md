@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Dye Production» — T&R 1.13, `pm_no_dye_production`"
 project: vic3
 audience: agent

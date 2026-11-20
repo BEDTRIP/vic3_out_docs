@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Natural Gas Rig» — T&R 1.13, `pmg_base_building_natural_gas_rig`"
 project: vic3
 audience: agent

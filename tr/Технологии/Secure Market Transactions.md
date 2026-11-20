@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Secure Market Transactions» — T&R 1.13, `secure_market_transactions`"
 project: vic3
 audience: agent

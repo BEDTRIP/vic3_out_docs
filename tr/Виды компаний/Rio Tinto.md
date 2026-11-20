@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Rio Tinto» — T&R 1.13, `company_rio_tinto`"
 project: vic3
 audience: agent

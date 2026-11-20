@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Bolckow, Vaughan & Co.»» — ваниль 1.15, `company_bolckow_vaughan`"
 project: vic3
 audience: agent

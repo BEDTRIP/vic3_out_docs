@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_default_building_banque_nationale_belgique» — grey soft pop 1.15, `pm_default_building_banque_nationale_belgique`"
 project: vic3
 audience: agent

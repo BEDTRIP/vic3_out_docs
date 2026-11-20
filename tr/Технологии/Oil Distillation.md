@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Oil Distillation» — T&R 1.13, `oil_distillation`"
 project: vic3
 audience: agent

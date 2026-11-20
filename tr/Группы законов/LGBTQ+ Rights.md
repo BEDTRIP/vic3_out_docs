@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «LGBTQ+ Rights» — T&R 1.13, `lawgroup_lgbtq_rights`"
 project: vic3
 audience: agent

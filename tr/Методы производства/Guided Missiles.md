@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Guided Missiles» — T&R 1.13, `pm_guided_missiles_building_munition_plant`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Night Watchmen» — Mandate of Heaven 1.15, `law_night_watchmen`"
 project: vic3
 audience: agent

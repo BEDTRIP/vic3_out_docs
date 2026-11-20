@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Airplanes» — T&R 1.13, `civil_planes`"
 project: vic3
 audience: agent

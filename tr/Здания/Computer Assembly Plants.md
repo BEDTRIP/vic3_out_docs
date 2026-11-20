@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Computer Assembly Plants» — T&R 1.13, `building_computer_assembly_plant`"
 project: vic3
 audience: agent

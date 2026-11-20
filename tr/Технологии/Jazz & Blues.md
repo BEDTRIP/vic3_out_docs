@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Jazz & Blues» — T&R 1.13, `jazz_blues`"
 project: vic3
 audience: agent

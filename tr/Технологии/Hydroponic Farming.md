@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Hydroponic Farming» — T&R 1.13, `hydroponic_farming`"
 project: vic3
 audience: agent

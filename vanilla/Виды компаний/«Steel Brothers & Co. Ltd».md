@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Steel Brothers & Co. Ltd»» — ваниль 1.15, `company_steel_brothers`"
 project: vic3
 audience: agent

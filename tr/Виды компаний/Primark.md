@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Primark» — T&R 1.13, `company_primark`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Tongrentang» — Mandate of Heaven 1.15, `company_tongrentang`"
 project: vic3
 audience: agent

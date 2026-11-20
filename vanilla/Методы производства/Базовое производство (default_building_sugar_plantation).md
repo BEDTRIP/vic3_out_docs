@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Базовое производство (default_building_sugar_plantation)» — ваниль 1.15, `default_building_sugar_plantation`"
 project: vic3
 audience: agent

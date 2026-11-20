@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Heavy Industry Investments» — TGR 1.15, `economic_incentives_industry_heavy`"
 project: vic3
 audience: agent

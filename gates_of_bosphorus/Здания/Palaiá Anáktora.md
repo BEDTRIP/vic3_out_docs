@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Palaiá Anáktora» — Gates of Bosphorus 1.15, `gbbf_building_palaia_anaktora`"
 project: vic3
 audience: agent

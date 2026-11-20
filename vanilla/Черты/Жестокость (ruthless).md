@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Жестокость (ruthless)» — ваниль 1.15, `ruthless`"
 project: vic3
 audience: agent

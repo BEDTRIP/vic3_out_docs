@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Steaua Română»» — grey USU 1.13, `company_romanian_star`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Паровая автоматизация (pmg_steam_automation_building_iron_mine)» — ваниль 1.15, `pmg_steam_automation_building_iron_mine`"
 project: vic3
 audience: agent

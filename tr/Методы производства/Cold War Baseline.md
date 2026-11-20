@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Cold War Baseline» — T&R 1.13, `pm_postwar_base`"
 project: vic3
 audience: agent

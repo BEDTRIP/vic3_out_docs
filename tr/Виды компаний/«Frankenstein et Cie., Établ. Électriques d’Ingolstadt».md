@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Frankenstein et Cie., Établ. Électriques d’Ingolstadt»» — T&R 1.13, `company_ingolstadt_electrical_company`"
 project: vic3
 audience: agent

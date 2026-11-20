@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Silver» — E&F 1.13, `silver`"
 project: vic3
 audience: agent

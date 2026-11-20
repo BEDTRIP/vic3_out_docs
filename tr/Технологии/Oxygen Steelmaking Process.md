@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Oxygen Steelmaking Process» — T&R 1.13, `oxygen_steelmaking_process`"
 project: vic3
 audience: agent

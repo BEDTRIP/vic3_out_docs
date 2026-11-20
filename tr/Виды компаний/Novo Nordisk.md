@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Novo Nordisk» — T&R 1.13, `company_novo_nordisk`"
 project: vic3
 audience: agent

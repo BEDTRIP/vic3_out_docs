@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Advisory Parliament Only» — TGR 1.15, `law_advisory_parliament_only`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Optimization (pmg_data_optimization_heavy_industry)» — T&R 1.13, `pmg_data_optimization_heavy_industry`"
 project: vic3
 audience: agent

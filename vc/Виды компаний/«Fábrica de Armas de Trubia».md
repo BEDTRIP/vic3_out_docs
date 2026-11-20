@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Fábrica de Armas de Trubia»» — VC 1.15, `company_trubia`"
 project: vic3
 audience: agent

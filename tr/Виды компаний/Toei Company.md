@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Toei Company» — T&R 1.13, `company_toei`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Общая подготовка (pm_general_training)» — ваниль 1.15, `pm_general_training`"
 project: vic3
 audience: agent

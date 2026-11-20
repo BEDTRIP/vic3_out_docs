@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Pop Art» — T&R 1.13, `pop_art`"
 project: vic3
 audience: agent

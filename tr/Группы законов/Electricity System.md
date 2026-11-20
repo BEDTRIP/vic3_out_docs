@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Electricity System» — T&R 1.13, `lawgroup_national_electric_system`"
 project: vic3
 audience: agent

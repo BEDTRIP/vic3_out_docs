@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Mitsubishi»» — ваниль 1.15, `company_mitsubishi`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Banco Hipotecario Nacional» — E&F 1.13, `company_BancoHipotecarioNacional`"
 project: vic3
 audience: agent

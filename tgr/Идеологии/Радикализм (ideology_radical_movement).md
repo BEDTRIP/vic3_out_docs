@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Радикализм (ideology_radical_movement)» — TGR 1.15, `ideology_radical_movement`"
 project: vic3
 audience: agent

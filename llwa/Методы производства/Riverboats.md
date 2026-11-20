@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Riverboats» — LLWA 1.13, `LLWA_pm_riverboats`"
 project: vic3
 audience: agent

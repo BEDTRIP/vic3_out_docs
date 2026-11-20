@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Cloud Computing» — T&R 1.13, `cloud_computing`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Arçelik» — T&R 1.13, `company_arcelik`"
 project: vic3
 audience: agent

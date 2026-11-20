@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Offset Printing» — T&R 1.13, `offset_printing`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Green Revolution» — T&R 1.13, `green_revolution`"
 project: vic3
 audience: agent

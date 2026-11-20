@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Вторичный (pmg_secondary_building_rye_farm)» — T&R 1.13, `pmg_secondary_building_rye_farm`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа зданий «Logistics Hub» — LLWA 1.13, `LLWA_bg_logihub`"
 project: vic3
 audience: agent

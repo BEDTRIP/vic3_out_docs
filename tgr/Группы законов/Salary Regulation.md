@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Salary Regulation» — TGR 1.15, `lawgroup_salary_regulation`"
 project: vic3
 audience: agent

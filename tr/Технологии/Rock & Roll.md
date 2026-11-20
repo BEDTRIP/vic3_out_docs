@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Rock & Roll» — T&R 1.13, `rock_and_roll`"
 project: vic3
 audience: agent

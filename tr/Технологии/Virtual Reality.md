@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Virtual Reality» — T&R 1.13, `virtual_reality`"
 project: vic3
 audience: agent

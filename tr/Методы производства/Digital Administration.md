@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Digital Administration» — T&R 1.13, `pm_advanced_data_networks`"
 project: vic3
 audience: agent

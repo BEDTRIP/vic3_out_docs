@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Nintendo» — T&R 1.13, `company_nintendo`"
 project: vic3
 audience: agent

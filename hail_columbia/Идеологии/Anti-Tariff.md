@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Anti-Tariff» — Hail Columbia 1.13, `ideology_anti_tariff`"
 project: vic3
 audience: agent

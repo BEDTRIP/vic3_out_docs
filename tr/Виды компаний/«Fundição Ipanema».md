@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Fundição Ipanema»» — T&R 1.13, `company_fundicao_ipanema`"
 project: vic3
 audience: agent

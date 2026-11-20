@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Our Peculiar Institution» — Hail Columbia 1.13, `usfp_ig_trait_peculiar_institution`"
 project: vic3
 audience: agent

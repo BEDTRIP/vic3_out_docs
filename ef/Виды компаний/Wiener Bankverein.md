@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Wiener Bankverein» — E&F 1.13, `company_WienerBankverein`"
 project: vic3
 audience: agent

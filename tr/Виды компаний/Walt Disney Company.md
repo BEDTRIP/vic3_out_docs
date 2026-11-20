@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Walt Disney Company» — T&R 1.13, `company_disney`"
 project: vic3
 audience: agent

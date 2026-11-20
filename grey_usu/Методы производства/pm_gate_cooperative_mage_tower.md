@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_gate_cooperative_mage_tower» — grey USU 1.13, `pm_gate_cooperative_mage_tower`"
 project: vic3
 audience: agent

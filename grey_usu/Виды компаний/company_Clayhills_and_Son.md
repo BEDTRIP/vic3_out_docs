@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_Clayhills_and_Son» — grey USU 1.13, `company_Clayhills_and_Son`"
 project: vic3
 audience: agent

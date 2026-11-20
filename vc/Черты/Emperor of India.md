@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта персонажа «Emperor of India» — VC 1.15, `special_character_emperor_of_india`"
 project: vic3
 audience: agent

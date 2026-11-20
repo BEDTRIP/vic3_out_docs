@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Alloys» — T&R 1.13, `advanced_alloys`"
 project: vic3
 audience: agent

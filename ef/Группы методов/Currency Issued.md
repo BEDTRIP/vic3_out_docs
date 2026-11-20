@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Currency Issued» — E&F 1.13, `pmg_currency_type`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Bombay Dyeing and Manufacturing Company Limited»» — ваниль 1.15, `company_bombay_dyeing_company`"
 project: vic3
 audience: agent

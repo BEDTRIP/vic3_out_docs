@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «BMW» — T&R 1.13, `company_bmw`"
 project: vic3
 audience: agent

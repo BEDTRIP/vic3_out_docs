@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Fundidora de Fierro y Acero de Monterrey»» — ваниль 1.15, `company_fundidora_monterrey`"
 project: vic3
 audience: agent

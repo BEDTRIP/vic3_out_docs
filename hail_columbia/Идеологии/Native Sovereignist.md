@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Native Sovereignist» — Hail Columbia 1.13, `ideology_usfp_american_indian_movement`"
 project: vic3
 audience: agent

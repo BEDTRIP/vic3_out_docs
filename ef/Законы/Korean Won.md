@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Korean Won» — E&F 1.13, `law_spe_korean_won_currency`"
 project: vic3
 audience: agent

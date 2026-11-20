@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Базовое производство (default_building_vineyard)» — ваниль 1.15, `default_building_vineyard`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Steam Donkey» — E&F 1.13, `pm_steam_donkey_building_silver_mine`"
 project: vic3
 audience: agent

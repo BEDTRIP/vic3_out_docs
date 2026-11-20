@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Devolved Taxation» — Hail Columbia 1.13, `law_usfp_devolved_taxation`"
 project: vic3
 audience: agent

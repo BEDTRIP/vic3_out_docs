@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «AcquaFarm Systems» — T&R 1.13, `pm_hydroponic_acquafarm_system`"
 project: vic3
 audience: agent

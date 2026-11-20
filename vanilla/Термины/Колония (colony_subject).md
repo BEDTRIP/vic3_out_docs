@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин игры «Колония (colony_subject)» — подсказка-понятие Victoria 3 1.15 (`concept_colony_subject`)"
 project: vic3
 audience: agent

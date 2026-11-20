@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Пакет покупок «wealth_73» — TGR 1.15, `wealth_73`"
 project: vic3
 audience: agent

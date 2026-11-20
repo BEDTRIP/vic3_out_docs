@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «HYL Process» — T&R 1.13, `pm_direct_reduced_iron_hyl_process`"
 project: vic3
 audience: agent

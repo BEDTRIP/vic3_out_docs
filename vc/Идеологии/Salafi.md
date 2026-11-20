@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Salafi» — VC 1.15, `ideology_salafi`"
 project: vic3
 audience: agent

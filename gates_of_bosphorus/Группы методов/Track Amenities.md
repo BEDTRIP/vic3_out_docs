@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Track Amenities» — Gates of Bosphorus 1.15, `pmg_gbbf_track_amenities`"
 project: vic3
 audience: agent

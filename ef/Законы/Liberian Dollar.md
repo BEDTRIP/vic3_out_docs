@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Liberian Dollar» — E&F 1.13, `law_dollar_liberian_dollar_currency`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_pasture)» — grey USU 1.13, `pm_serfdom_building_subsistence_pasture`"
 project: vic3
 audience: agent

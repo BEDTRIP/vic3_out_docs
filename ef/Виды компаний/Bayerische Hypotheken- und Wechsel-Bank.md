@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Bayerische Hypotheken- und Wechsel-Bank» — E&F 1.13, `company_BayerischeHypothekenUndWechselBank`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Southern Copper Corporation» — T&R 1.13, `company_southern_copper_corp`"
 project: vic3
 audience: agent

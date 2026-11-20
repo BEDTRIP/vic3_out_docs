@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Melli Iran Bank» — E&F 1.13, `company_BankMelliIran`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Precision Blasting» — T&R 1.13, `mine_precision_blasting`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Управление цепочками поставок (usu_pm_port_r_logistics_3)» — grey USU 1.13, `usu_pm_port_r_logistics_3`"
 project: vic3
 audience: agent

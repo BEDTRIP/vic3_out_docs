@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Méga Palátion» — Gates of Bosphorus 1.15, `gbbf_building_mega_palation`"
 project: vic3
 audience: agent

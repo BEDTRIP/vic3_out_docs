@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Rheinmetall» — VC 1.15, `company_rheinmetall`"
 project: vic3
 audience: agent

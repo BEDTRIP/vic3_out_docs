@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Радикализм (ideology_radical)» — ваниль 1.15, `ideology_radical`"
 project: vic3
 audience: agent

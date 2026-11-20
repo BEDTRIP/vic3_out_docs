@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_gate_mana_trains» — grey USU 1.13, `pm_gate_mana_trains`"
 project: vic3
 audience: agent

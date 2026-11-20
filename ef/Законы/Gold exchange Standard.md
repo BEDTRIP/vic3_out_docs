@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Gold exchange Standard» — E&F 1.13, `law_gold_exchange_standard`"
 project: vic3
 audience: agent

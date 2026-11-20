@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Ancestral Institutions» — VC 1.15, `ig_trait_confucian_ethics`"
 project: vic3
 audience: agent

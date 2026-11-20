@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Offices» — T&R 1.13, `building_office`"
 project: vic3
 audience: agent

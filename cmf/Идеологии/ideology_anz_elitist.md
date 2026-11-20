@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «ideology_anz_elitist» — CMF 1.15, `ideology_anz_elitist`"
 project: vic3
 audience: agent

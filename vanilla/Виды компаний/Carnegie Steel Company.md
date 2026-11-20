@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Carnegie Steel Company» — ваниль 1.15, `company_us_steel`"
 project: vic3
 audience: agent

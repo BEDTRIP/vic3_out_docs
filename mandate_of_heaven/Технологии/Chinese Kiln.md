@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Chinese Kiln» — Mandate of Heaven 1.15, `chinese_kiln`"
 project: vic3
 audience: agent

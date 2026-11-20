@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Paradox Interactive» — T&R 1.13, `company_paradox_interactive`"
 project: vic3
 audience: agent

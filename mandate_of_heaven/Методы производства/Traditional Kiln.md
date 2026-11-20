@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Traditional Kiln» — Mandate of Heaven 1.15, `pm_chinese_kiln`"
 project: vic3
 audience: agent

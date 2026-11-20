@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Reformist» — VC 1.15, `ideology_innovationist`"
 project: vic3
 audience: agent

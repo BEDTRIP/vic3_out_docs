@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «gbbf_outcome_background_fracture» — Gates of Bosphorus 1.15, `gbbf_outcome_background_fracture`"
 project: vic3
 audience: agent

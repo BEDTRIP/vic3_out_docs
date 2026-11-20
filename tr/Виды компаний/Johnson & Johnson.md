@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Johnson & Johnson» — T&R 1.13, `company_johnson_and_johnson`"
 project: vic3
 audience: agent

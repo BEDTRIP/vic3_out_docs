@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Dollfus-Mieg et Cie»» — TGR 1.15, `company_dmc`"
 project: vic3
 audience: agent

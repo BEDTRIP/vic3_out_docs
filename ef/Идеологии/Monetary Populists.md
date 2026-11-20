@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Monetary Populists» — E&F 1.13, `ideology_monetary_left`"
 project: vic3
 audience: agent

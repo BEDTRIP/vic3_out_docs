@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Pressurized HDPE Systems (pm_pressurized_hydro_systems)» — T&R 1.13, `pm_pressurized_hydro_systems`"
 project: vic3
 audience: agent

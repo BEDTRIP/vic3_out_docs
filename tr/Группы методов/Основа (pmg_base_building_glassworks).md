@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Основа (pmg_base_building_glassworks)» — T&R 1.13, `pmg_base_building_glassworks`"
 project: vic3
 audience: agent

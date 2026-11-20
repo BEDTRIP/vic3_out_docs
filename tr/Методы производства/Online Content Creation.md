@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Online Content Creation» — T&R 1.13, `pm_online_content_creation`"
 project: vic3
 audience: agent

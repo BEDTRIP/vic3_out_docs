@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Working Hours» — TGR 1.15, `lawgroup_working_hours`"
 project: vic3
 audience: agent

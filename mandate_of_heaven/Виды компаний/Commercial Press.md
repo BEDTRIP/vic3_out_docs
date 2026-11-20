@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Commercial Press» — Mandate of Heaven 1.15, `company_commercial_press`"
 project: vic3
 audience: agent

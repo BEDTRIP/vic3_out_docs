@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «The Biljarda» — Gates of Bosphorus 1.15, `pm_gbbf_biljarda`"
 project: vic3
 audience: agent

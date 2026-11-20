@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Mass Entertainment» — T&R 1.13, `mass_entertainment`"
 project: vic3
 audience: agent

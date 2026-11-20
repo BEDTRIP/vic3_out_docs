@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Processor» — T&R 1.13, `pmg_base_building_processors`"
 project: vic3
 audience: agent

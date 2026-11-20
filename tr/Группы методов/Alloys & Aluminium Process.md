@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Alloys & Aluminium Process» — T&R 1.13, `pmg_alloys_process`"
 project: vic3
 audience: agent

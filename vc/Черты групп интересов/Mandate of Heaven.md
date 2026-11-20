@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Mandate of Heaven» — VC 1.15, `ig_trait_mandate_of_heaven`"
 project: vic3
 audience: agent

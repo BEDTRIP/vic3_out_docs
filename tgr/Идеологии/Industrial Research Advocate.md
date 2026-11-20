@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Industrial Research Advocate» — TGR 1.15, `ideology_tgr_research_production`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «No Fixed Ratio» — E&F 1.13, `law_bimetallic_ratio_no`"
 project: vic3
 audience: agent

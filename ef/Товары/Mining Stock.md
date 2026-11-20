@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Товар «Mining Stock» — E&F 1.13, `mining_stock`"
 project: vic3
 audience: agent

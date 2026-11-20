@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «UAVs» — T&R 1.13, `military_uav`"
 project: vic3
 audience: agent

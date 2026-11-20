@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Websites» — T&R 1.13, `pm_web_based_building_software_industry`"
 project: vic3
 audience: agent

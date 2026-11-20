@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Plasma Monitoring» — T&R 1.13, `pmg_fusion_plasma_monitoring`"
 project: vic3
 audience: agent

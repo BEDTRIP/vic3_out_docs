@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Cosmetics» — T&R 1.13, `pmg_cosmetics`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Centralized Economy» — BPM 1.13, `ideology_eco_centralized_economy`"
 project: vic3
 audience: agent

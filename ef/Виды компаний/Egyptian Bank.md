@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Egyptian Bank» — E&F 1.13, `company_BanqueEgyptienne`"
 project: vic3
 audience: agent

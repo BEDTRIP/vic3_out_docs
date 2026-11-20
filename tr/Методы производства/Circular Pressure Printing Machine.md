@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Circular Pressure Printing Machine» — T&R 1.13, `manzoni_pm_cylinder_presses`"
 project: vic3
 audience: agent

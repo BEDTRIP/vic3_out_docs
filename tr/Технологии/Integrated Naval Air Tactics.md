@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Integrated Naval Air Tactics» — T&R 1.13, `integrated_naval_air_tactics`"
 project: vic3
 audience: agent

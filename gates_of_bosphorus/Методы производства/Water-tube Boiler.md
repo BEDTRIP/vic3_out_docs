@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Water-tube Boiler» — Gates of Bosphorus 1.15, `gbbf_watertube_boiler_building_esparto`"
 project: vic3
 audience: agent

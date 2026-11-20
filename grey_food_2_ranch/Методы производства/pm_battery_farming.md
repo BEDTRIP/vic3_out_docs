@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «pm_battery_farming» — grey food 2 ranch 1.13, `pm_battery_farming`"
 project: vic3
 audience: agent

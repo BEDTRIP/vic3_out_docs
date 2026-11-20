@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Hydroelectric Turbines» — Hail Columbia 1.13, `pm_usfp_hoover_dam`"
 project: vic3
 audience: agent

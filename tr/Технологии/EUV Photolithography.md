@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «EUV Photolithography» — T&R 1.13, `euv_photolithography`"
 project: vic3
 audience: agent

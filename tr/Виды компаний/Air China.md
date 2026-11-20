@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Air China» — T&R 1.13, `company_air_china`"
 project: vic3
 audience: agent

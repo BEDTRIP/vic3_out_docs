@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Co-bots» — T&R 1.13, `cobots`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Monetary Policy» — E&F 1.13, `pmg_monetary_policy`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Solar Panels» — T&R 1.13, `advanced_solar_panels`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Airports» — T&R 1.13, `building_airport`"
 project: vic3
 audience: agent

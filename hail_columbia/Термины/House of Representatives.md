@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода Hail Columbia «House of Representatives» — подсказка-понятие Victoria 3 1.13 (`concept_usfp_house_of_representatives`)"
 project: vic3
 audience: agent

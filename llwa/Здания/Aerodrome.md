@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Здание «Aerodrome» — LLWA 1.13, `LLWA_building_airway`"
 project: vic3
 audience: agent

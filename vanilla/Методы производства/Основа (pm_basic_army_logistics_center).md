@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Основа (pm_basic_army_logistics_center)» — ваниль 1.15, `pm_basic_army_logistics_center`"
 project: vic3
 audience: agent

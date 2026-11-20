@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Supremacist» — Hail Columbia 1.13, `ideology_reactionary_supremacist`"
 project: vic3
 audience: agent

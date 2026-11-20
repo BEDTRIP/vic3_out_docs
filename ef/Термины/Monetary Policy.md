@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода E&F «Monetary Policy» — подсказка-понятие Victoria 3 1.13 (`concept_monetary_policy`)"
 project: vic3
 audience: agent

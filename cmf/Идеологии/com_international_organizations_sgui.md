@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «com_international_organizations_sgui» — CMF 1.15, `com_international_organizations_sgui`"
 project: vic3
 audience: agent

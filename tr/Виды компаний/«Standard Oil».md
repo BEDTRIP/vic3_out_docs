@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Standard Oil»» — T&R 1.13, `company_standard_oil`"
 project: vic3
 audience: agent

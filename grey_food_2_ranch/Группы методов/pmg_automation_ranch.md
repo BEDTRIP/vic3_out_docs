@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «pmg_automation_ranch» — grey food 2 ranch 1.13, `pmg_automation_ranch`"
 project: vic3
 audience: agent

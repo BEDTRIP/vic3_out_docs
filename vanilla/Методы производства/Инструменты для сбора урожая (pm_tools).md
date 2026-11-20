@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Инструменты для сбора урожая (pm_tools)» — ваниль 1.15, `pm_tools`"
 project: vic3
 audience: agent

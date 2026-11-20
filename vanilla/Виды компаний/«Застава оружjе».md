@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Застава оружjе»» — ваниль 1.15, `company_zastava`"
 project: vic3
 audience: agent

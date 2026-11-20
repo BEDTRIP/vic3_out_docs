@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Modern Moralist» — BPM 1.13, `ideology_rel_modern_moralist`"
 project: vic3
 audience: agent

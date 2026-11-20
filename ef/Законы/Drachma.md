@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Drachma» — E&F 1.13, `law_spe_drachma_currency`"
 project: vic3
 audience: agent

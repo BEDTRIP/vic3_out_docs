@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Peugeot» — T&R 1.13, `company_peugeot`"
 project: vic3
 audience: agent

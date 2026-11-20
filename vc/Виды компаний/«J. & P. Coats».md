@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««J. & P. Coats»» — VC 1.15, `company_j_p_coats`"
 project: vic3
 audience: agent

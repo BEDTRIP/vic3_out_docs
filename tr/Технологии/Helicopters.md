@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Helicopters» — T&R 1.13, `helicopters`"
 project: vic3
 audience: agent

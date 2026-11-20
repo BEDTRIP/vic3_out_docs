@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «company_WaggonfabrikGoerlitz» — grey USU 1.13, `company_WaggonfabrikGoerlitz`"
 project: vic3
 audience: agent

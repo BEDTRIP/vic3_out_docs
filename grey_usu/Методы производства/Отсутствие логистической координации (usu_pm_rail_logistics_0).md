@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Отсутствие логистической координации (usu_pm_rail_logistics_0)» — grey USU 1.13, `usu_pm_rail_logistics_0`"
 project: vic3
 audience: agent

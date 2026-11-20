@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Rolls-Royce» — T&R 1.13, `company_rolls_royce`"
 project: vic3
 audience: agent

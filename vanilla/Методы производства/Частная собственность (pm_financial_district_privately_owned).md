@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Частная собственность (pm_financial_district_privately_owned)» — ваниль 1.15, `pm_financial_district_privately_owned`"
 project: vic3
 audience: agent

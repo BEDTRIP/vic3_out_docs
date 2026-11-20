@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «M.A. Rothschild & Söhne» — E&F 1.13, `company_Rothschild_Bank_ger`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Всечеловечность (ideology_universalist)» — ваниль 1.15, `ideology_universalist`"
 project: vic3
 audience: agent

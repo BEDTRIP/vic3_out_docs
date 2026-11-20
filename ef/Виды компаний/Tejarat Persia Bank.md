@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Tejarat Persia Bank» — E&F 1.13, `company_BankTejaratPersia`"
 project: vic3
 audience: agent

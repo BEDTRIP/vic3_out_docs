@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Osmanlı Bankası» — E&F 1.13, `company_OttomanBank`"
 project: vic3
 audience: agent

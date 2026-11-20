@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Вагоны-рефрижераторы (pm_refrigerated_rail_cars_building_fishing_wharf)» — ваниль 1.15, `pm_refrigerated_rail_cars_building_fishing_wharf`"
 project: vic3
 audience: agent

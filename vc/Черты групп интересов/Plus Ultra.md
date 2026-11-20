@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Plus Ultra» — VC 1.15, `ig_trait_plus_ultra`"
 project: vic3
 audience: agent

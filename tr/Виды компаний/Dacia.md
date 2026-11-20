@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Dacia» — T&R 1.13, `company_dacia`"
 project: vic3
 audience: agent

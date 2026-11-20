@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Hanseong Jeongi Hoesa»» — ваниль 1.15, `company_hanseong_jeongi_hoesa`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««A.P. Møller»» — grey USU 1.13, `company_ap_moller`"
 project: vic3
 audience: agent

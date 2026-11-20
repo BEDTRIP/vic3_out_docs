@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Термин мода VC «Commonwealth Sovereignty» — подсказка-понятие Victoria 3 1.15 (`concept_commonwealth_realm`)"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Advanced Personal Computer» — T&R 1.13, `advanced_personal_computer`"
 project: vic3
 audience: agent

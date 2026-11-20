@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Brooklyn Bridge» — Hail Columbia 1.13, `usfp_pmg_base_brooklyn_bridge`"
 project: vic3
 audience: agent

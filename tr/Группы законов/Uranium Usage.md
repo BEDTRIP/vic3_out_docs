@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа законов «Uranium Usage» — T&R 1.13, `lawgroup_uranium_usage`"
 project: vic3
 audience: agent

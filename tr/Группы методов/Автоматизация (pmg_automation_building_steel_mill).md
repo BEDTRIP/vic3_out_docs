@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Автоматизация (pmg_automation_building_steel_mill)» — T&R 1.13, `pmg_automation_building_steel_mill`"
 project: vic3
 audience: agent

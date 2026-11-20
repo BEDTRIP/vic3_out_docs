@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Закон «Basic Enviroment Protection» — T&R 1.13, `law_basic_protection`"
 project: vic3
 audience: agent

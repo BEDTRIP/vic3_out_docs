@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «Digital Retail» — T&R 1.13, `pm_digital_retail`"
 project: vic3
 audience: agent

@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Технология «Modern Physics» — T&R 1.13, `verrier_modern_physics_tech`"
 project: vic3
 audience: agent

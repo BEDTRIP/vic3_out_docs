@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Черта группы интересов «Loyal to the People» — VC 1.15, `ig_trait_loyal_to_nations`"
 project: vic3
 audience: agent

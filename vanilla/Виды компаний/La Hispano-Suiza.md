@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «La Hispano-Suiza» — ваниль 1.15, `company_hispano_suiza`"
 project: vic3
 audience: agent

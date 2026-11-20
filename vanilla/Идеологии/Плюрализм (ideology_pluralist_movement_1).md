@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Плюрализм (ideology_pluralist_movement_1)» — ваниль 1.15, `ideology_pluralist_movement_1`"
 project: vic3
 audience: agent

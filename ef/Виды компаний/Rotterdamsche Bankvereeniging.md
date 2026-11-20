@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании «Rotterdamsche Bankvereeniging» — E&F 1.13, `company_RotterdamscheBankvereeniging`"
 project: vic3
 audience: agent

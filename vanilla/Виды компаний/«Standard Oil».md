@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Вид компании ««Standard Oil»» — ваниль 1.15, `company_standard_oil`"
 project: vic3
 audience: agent

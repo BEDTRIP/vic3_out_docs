@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Использование поездов (pmg_train_automation_building_vineyard)» — T&R 1.13, `pmg_train_automation_building_vineyard`"
 project: vic3
 audience: agent

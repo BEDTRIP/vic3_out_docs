@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Группа методов производства «Взрывчатка (pmg_explosives_building_copper_mine)» — ваниль 1.15, `pmg_explosives_building_copper_mine`"
 project: vic3
 audience: agent

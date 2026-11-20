@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Метод производства «No Amenities» — Gates of Bosphorus 1.15, `pm_gbbf_no_amenities`"
 project: vic3
 audience: agent

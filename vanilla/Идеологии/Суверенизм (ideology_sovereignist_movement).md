@@ -1,5 +1,5 @@
 ---
-type: concept
+type: explanation
 description: "Идеология «Суверенизм (ideology_sovereignist_movement)» — ваниль 1.15, `ideology_sovereignist_movement`"
 project: vic3
 audience: agent
