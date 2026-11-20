@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Inability to work» — TGR 1.15, `law_retirement_age_inability_to_work`"
+description: "Закон «Inability to work» — TGR 1.15.2, `law_retirement_age_inability_to_work`"
 project: vic3
 audience: agent
 source: tgr

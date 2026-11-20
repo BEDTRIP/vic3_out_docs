@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Medium Nationalization 25%» — TGR 1.15, `law_tgr_strategic_participation`"
+description: "Закон «Medium Nationalization 25%» — TGR 1.15.2, `law_tgr_strategic_participation`"
 project: vic3
 audience: agent
 source: tgr

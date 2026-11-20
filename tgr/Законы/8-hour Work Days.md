@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «8-hour Work Days» — TGR 1.15, `law_protected_leisure`"
+description: "Закон «8-hour Work Days» — TGR 1.15.2, `law_protected_leisure`"
 project: vic3
 audience: agent
 source: tgr

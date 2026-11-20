@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Local Autonomies» — TGR 1.15, `law_local_autonomies`"
+description: "Закон «Local Autonomies» — TGR 1.15.2, `law_local_autonomies`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Pro-Workers Regulations» — TGR 1.15, `law_salary_national_contract`"
+description: "Закон «Pro-Workers Regulations» — TGR 1.15.2, `law_salary_national_contract`"
 project: vic3
 audience: agent
 source: tgr

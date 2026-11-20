@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Social Security Payments» — TGR 1.15, `law_medium_pension`"
+description: "Закон «Social Security Payments» — TGR 1.15.2, `law_medium_pension`"
 project: vic3
 audience: agent
 source: tgr

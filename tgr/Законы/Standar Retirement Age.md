@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Standar Retirement Age» — TGR 1.15, `law_retirement_standard_retirement_age`"
+description: "Закон «Standar Retirement Age» — TGR 1.15.2, `law_retirement_standard_retirement_age`"
 project: vic3
 audience: agent
 source: tgr

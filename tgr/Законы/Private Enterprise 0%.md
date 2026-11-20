@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Private Enterprise 0%» — TGR 1.15, `law_tgr_private_enterprise`"
+description: "Закон «Private Enterprise 0%» — TGR 1.15.2, `law_tgr_private_enterprise`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Spread Socialist Ideas» — TGR 1.15, `foreign_policy_socialist_ideas`"
+description: "Закон «Spread Socialist Ideas» — TGR 1.15.2, `foreign_policy_socialist_ideas`"
 project: vic3
 audience: agent
 source: tgr

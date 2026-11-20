@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Корпоративизм (ideology_corporatist_leader)» — TGR 1.15, `ideology_corporatist_leader`"
+description: "Идеология «Корпоративизм (ideology_corporatist_leader)» — TGR 1.15.2, `ideology_corporatist_leader`"
 project: vic3
 audience: agent
 source: tgr

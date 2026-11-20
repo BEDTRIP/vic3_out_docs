@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_watertube_boiler_building_furniture_manufacturies» — TGR 1.15, `pm_watertube_boiler_building_furniture_manufacturies`"
+description: "Метод производства «pm_watertube_boiler_building_furniture_manufacturies» — TGR 1.15.2, `pm_watertube_boiler_building_furniture_manufacturies`"
 project: vic3
 audience: agent
 source: tgr

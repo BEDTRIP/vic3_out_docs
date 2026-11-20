@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Government Policies (ideology_government_landowners)» — TGR 1.15, `ideology_government_landowners`"
+description: "Идеология «Government Policies (ideology_government_landowners)» — TGR 1.15.2, `ideology_government_landowners`"
 project: vic3
 audience: agent
 source: tgr

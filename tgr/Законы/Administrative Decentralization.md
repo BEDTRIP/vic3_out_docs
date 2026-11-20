@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Administrative Decentralization» — TGR 1.15, `law_administrative_decentralism`"
+description: "Закон «Administrative Decentralization» — TGR 1.15.2, `law_administrative_decentralism`"
 project: vic3
 audience: agent
 source: tgr

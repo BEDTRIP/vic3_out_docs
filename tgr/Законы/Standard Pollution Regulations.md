@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Standard Pollution Regulations» — TGR 1.15, `law_standard_environment_regulations`"
+description: "Закон «Standard Pollution Regulations» — TGR 1.15.2, `law_standard_environment_regulations`"
 project: vic3
 audience: agent
 source: tgr

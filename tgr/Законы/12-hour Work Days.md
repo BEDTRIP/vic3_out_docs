@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «12-hour Work Days» — TGR 1.15, `law_token_time_regulations`"
+description: "Закон «12-hour Work Days» — TGR 1.15.2, `law_token_time_regulations`"
 project: vic3
 audience: agent
 source: tgr

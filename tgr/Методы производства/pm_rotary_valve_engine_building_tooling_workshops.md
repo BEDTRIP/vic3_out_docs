@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_rotary_valve_engine_building_tooling_workshops» — TGR 1.15, `pm_rotary_valve_engine_building_tooling_workshops`"
+description: "Метод производства «pm_rotary_valve_engine_building_tooling_workshops» — TGR 1.15.2, `pm_rotary_valve_engine_building_tooling_workshops`"
 project: vic3
 audience: agent
 source: tgr

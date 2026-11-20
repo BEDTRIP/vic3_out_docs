@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Unicameral Parliamentary System» — TGR 1.15, `law_unicameral_parliamentary_system`"
+description: "Закон «Unicameral Parliamentary System» — TGR 1.15.2, `law_unicameral_parliamentary_system`"
 project: vic3
 audience: agent
 source: tgr

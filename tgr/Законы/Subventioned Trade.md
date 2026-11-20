@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Subventioned Trade» — TGR 1.15, `law_ai_subventioned_trade_modern`"
+description: "Закон «Subventioned Trade» — TGR 1.15.2, `law_ai_subventioned_trade_modern`"
 project: vic3
 audience: agent
 source: tgr

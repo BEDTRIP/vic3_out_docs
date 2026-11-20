@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Standard Salary Regulations» — TGR 1.15, `law_salary_minimum_safety`"
+description: "Закон «Standard Salary Regulations» — TGR 1.15.2, `law_salary_minimum_safety`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Ranked System» — TGR 1.15, `law_ranked_system`"
+description: "Закон «Ranked System» — TGR 1.15.2, `law_ranked_system`"
 project: vic3
 audience: agent
 source: tgr

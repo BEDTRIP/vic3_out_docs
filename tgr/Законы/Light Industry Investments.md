@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Light Industry Investments» — TGR 1.15, `economic_incentives_industry_light`"
+description: "Закон «Light Industry Investments» — TGR 1.15.2, `economic_incentives_industry_light`"
 project: vic3
 audience: agent
 source: tgr

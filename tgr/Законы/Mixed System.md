@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Mixed System» — TGR 1.15, `law_mixed_system`"
+description: "Закон «Mixed System» — TGR 1.15.2, `law_mixed_system`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Low Nationalization 10%» — TGR 1.15, `pm_tgr_company_participation_10`"
+description: "Метод производства «Low Nationalization 10%» — TGR 1.15.2, `pm_tgr_company_participation_10`"
 project: vic3
 audience: agent
 source: tgr

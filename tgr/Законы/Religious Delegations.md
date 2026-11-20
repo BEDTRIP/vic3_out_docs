@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Religious Delegations» — TGR 1.15, `foreign_policy_religious_embassies`"
+description: "Закон «Religious Delegations» — TGR 1.15.2, `foreign_policy_religious_embassies`"
 project: vic3
 audience: agent
 source: tgr

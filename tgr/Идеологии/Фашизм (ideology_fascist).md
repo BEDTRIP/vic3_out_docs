@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Фашизм (ideology_fascist)» — TGR 1.15, `ideology_fascist`"
+description: "Идеология «Фашизм (ideology_fascist)» — TGR 1.15.2, `ideology_fascist`"
 project: vic3
 audience: agent
 source: tgr

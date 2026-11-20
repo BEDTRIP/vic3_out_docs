@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «National Institute of Social Security» — TGR 1.15, `law_modern_pension`"
+description: "Закон «National Institute of Social Security» — TGR 1.15.2, `law_modern_pension`"
 project: vic3
 audience: agent
 source: tgr

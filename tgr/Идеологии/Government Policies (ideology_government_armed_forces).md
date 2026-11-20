@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Government Policies (ideology_government_armed_forces)» — TGR 1.15, `ideology_government_armed_forces`"
+description: "Идеология «Government Policies (ideology_government_armed_forces)» — TGR 1.15.2, `ideology_government_armed_forces`"
 project: vic3
 audience: agent
 source: tgr

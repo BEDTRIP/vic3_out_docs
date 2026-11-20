@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа законов «Social Security» — TGR 1.15, `lawgroup_social_security`"
+description: "Группа законов «Social Security» — TGR 1.15.2, `lawgroup_social_security`"
 project: vic3
 audience: agent
 source: tgr

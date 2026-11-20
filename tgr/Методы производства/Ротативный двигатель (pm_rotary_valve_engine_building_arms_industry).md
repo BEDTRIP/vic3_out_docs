@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — TGR 1.15, `pm_rotary_valve_engine_building_arms_industry`"
+description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — TGR 1.15.2, `pm_rotary_valve_engine_building_arms_industry`"
 project: vic3
 audience: agent
 source: tgr

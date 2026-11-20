@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Revolutionary Agitator» — TGR 1.15, `revolutionary_agitator`"
+description: "Черта персонажа «Revolutionary Agitator» — TGR 1.15.2, `revolutionary_agitator`"
 project: vic3
 audience: agent
 source: tgr

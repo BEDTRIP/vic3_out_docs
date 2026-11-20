@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)» — TGR 1.15, `pm_refrigerated_storage_building_fishing_wharf`"
+description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_fishing_wharf)» — TGR 1.15.2, `pm_refrigerated_storage_building_fishing_wharf`"
 project: vic3
 audience: agent
 source: tgr

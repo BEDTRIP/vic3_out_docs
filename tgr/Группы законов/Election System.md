@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа законов «Election System» — TGR 1.15, `lawgroup_election_system`"
+description: "Группа законов «Election System» — TGR 1.15.2, `lawgroup_election_system`"
 project: vic3
 audience: agent
 source: tgr

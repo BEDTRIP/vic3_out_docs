@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «No Incentive Focus (economic_incentives_no_focus_tertiary)» — TGR 1.15, `economic_incentives_no_focus_tertiary`"
+description: "Закон «No Incentive Focus (economic_incentives_no_focus_tertiary)» — TGR 1.15.2, `economic_incentives_no_focus_tertiary`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Public Enterprise 100%» — TGR 1.15, `pm_tgr_company_participation_100`"
+description: "Метод производства «Public Enterprise 100%» — TGR 1.15.2, `pm_tgr_company_participation_100`"
 project: vic3
 audience: agent
 source: tgr

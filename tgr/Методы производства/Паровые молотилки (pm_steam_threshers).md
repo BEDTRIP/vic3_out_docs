@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — TGR 1.15, `pm_steam_threshers`"
+description: "Метод производства «Паровые молотилки (pm_steam_threshers)» — TGR 1.15.2, `pm_steam_threshers`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Manufacturing Investments» — TGR 1.15, `economic_incentives_industry_manufactoring`"
+description: "Закон «Manufacturing Investments» — TGR 1.15.2, `economic_incentives_industry_manufactoring`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Government Policies (ideology_government_devout)» — TGR 1.15, `ideology_government_devout`"
+description: "Идеология «Government Policies (ideology_government_devout)» — TGR 1.15.2, `ideology_government_devout`"
 project: vic3
 audience: agent
 source: tgr

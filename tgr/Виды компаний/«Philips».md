@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Philips»» — TGR 1.15, `company_philips`"
+description: "Вид компании ««Philips»» — TGR 1.15.2, `company_philips`"
 project: vic3
 audience: agent
 source: tgr

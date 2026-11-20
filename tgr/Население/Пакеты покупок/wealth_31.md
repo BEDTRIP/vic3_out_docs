@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Пакет покупок «wealth_31» — TGR 1.15, `wealth_31`"
+description: "Пакет покупок «wealth_31» — TGR 1.15.2, `wealth_31`"
 project: vic3
 audience: agent
 source: tgr

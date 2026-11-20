@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Mantero Seta» — TGR 1.15, `company_mantero_seta`"
+description: "Вид компании «Mantero Seta» — TGR 1.15.2, `company_mantero_seta`"
 project: vic3
 audience: agent
 source: tgr

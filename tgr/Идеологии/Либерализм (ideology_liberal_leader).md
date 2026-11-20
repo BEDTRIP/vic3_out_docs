@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Либерализм (ideology_liberal_leader)» — TGR 1.15, `ideology_liberal_leader`"
+description: "Идеология «Либерализм (ideology_liberal_leader)» — TGR 1.15.2, `ideology_liberal_leader`"
 project: vic3
 audience: agent
 source: tgr

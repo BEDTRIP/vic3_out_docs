@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Инструменты для сбора урожая (pm_tools_building_rice_farm)» — TGR 1.15, `pm_tools_building_rice_farm`"
+description: "Метод производства «Инструменты для сбора урожая (pm_tools_building_rice_farm)» — TGR 1.15.2, `pm_tools_building_rice_farm`"
 project: vic3
 audience: agent
 source: tgr

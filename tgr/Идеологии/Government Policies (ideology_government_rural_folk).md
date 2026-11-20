@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Government Policies (ideology_government_rural_folk)» — TGR 1.15, `ideology_government_rural_folk`"
+description: "Идеология «Government Policies (ideology_government_rural_folk)» — TGR 1.15.2, `ideology_government_rural_folk`"
 project: vic3
 audience: agent
 source: tgr

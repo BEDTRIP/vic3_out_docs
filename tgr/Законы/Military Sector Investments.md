@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Military Sector Investments» — TGR 1.15, `economic_incentives_military`"
+description: "Закон «Military Sector Investments» — TGR 1.15.2, `economic_incentives_military`"
 project: vic3
 audience: agent
 source: tgr

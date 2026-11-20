@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Services Investments» — TGR 1.15, `economic_incentives_services`"
+description: "Закон «Services Investments» — TGR 1.15.2, `economic_incentives_services`"
 project: vic3
 audience: agent
 source: tgr

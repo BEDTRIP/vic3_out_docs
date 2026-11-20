@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Economic Decentralization» — TGR 1.15, `law_economic_decentralism`"
+description: "Закон «Economic Decentralization» — TGR 1.15.2, `law_economic_decentralism`"
 project: vic3
 audience: agent
 source: tgr

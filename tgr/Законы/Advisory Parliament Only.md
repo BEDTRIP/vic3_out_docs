@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Advisory Parliament Only» — TGR 1.15, `law_advisory_parliament_only`"
+description: "Закон «Advisory Parliament Only» — TGR 1.15.2, `law_advisory_parliament_only`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Social Agitator» — TGR 1.15, `social_agitator`"
+description: "Черта персонажа «Social Agitator» — TGR 1.15.2, `social_agitator`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Gebrüder Thonet» — TGR 1.15, `company_gebruder_thonet`"
+description: "Вид компании «Gebrüder Thonet» — TGR 1.15.2, `company_gebruder_thonet`"
 project: vic3
 audience: agent
 source: tgr

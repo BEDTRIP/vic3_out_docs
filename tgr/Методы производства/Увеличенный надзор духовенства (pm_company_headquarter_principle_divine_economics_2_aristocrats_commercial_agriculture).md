@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_aristocrats_commercial_agriculture)» — TGR 1.15, `pm_company_headquarter_principle_divine_economics_2_aristocrats_commercial_agriculture`"
+description: "Метод производства «Увеличенный надзор духовенства (pm_company_headquarter_principle_divine_economics_2_aristocrats_commercial_agriculture)» — TGR 1.15.2, `pm_company_headquarter_principle_divine_economics_2_aristocrats_commercial_agriculture`"
 project: vic3
 audience: agent
 source: tgr
@@ -38,6 +38,5 @@ replaces: "[[vanilla/Методы производства/Увеличенны�
     - [[vanilla/движок/Модификаторы B#^m-building-clergymen-shares-add|building_clergymen_shares_add]] = `2`
 - **state_modifiers**:
   - **level_scaled**:
-    - [[vanilla/движок/Модификаторы S#^m-state-weekly-trades-add|state_weekly_trades_add]] = `0.5`
     - [[vanilla/движок/Модификаторы S#^m-state-trade-capacity-add|state_trade_capacity_add]] = `1`
     - [[vanilla/движок/Модификаторы S#^m-state-tax-capacity-add|state_tax_capacity_add]] = `0.25`

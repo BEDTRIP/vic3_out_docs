@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «No Specific Focus» — TGR 1.15, `foreign_policy_no_focus`"
+description: "Закон «No Specific Focus» — TGR 1.15.2, `foreign_policy_no_focus`"
 project: vic3
 audience: agent
 source: tgr

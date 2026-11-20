@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Sherkat-e Eslamiya»» — TGR 1.15, `company_sherkate_eslamiya`"
+description: "Вид компании ««Sherkat-e Eslamiya»» — TGR 1.15.2, `company_sherkate_eslamiya`"
 project: vic3
 audience: agent
 source: tgr

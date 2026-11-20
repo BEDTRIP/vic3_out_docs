@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Unregulated Working Hours» — TGR 1.15, `law_unregulated_work_time`"
+description: "Закон «Unregulated Working Hours» — TGR 1.15.2, `law_unregulated_work_time`"
 project: vic3
 audience: agent
 source: tgr

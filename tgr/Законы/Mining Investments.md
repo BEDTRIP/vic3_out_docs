@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Mining Investments» — TGR 1.15, `economic_incentives_extracting_mining`"
+description: "Закон «Mining Investments» — TGR 1.15.2, `economic_incentives_extracting_mining`"
 project: vic3
 audience: agent
 source: tgr

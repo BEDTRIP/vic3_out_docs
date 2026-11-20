@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «No Research Focus» — TGR 1.15, `law_tgr_research_none`"
+description: "Закон «No Research Focus» — TGR 1.15.2, `law_tgr_research_none`"
 project: vic3
 audience: agent
 source: tgr

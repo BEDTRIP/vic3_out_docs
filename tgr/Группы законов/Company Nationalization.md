@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа законов «Company Nationalization» — TGR 1.15, `lawgroup_tgr_company_participation`"
+description: "Группа законов «Company Nationalization» — TGR 1.15.2, `lawgroup_tgr_company_participation`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Society Research» — TGR 1.15, `law_tgr_research_society`"
+description: "Закон «Society Research» — TGR 1.15.2, `law_tgr_research_society`"
 project: vic3
 audience: agent
 source: tgr

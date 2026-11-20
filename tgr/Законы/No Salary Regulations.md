@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «No Salary Regulations» — TGR 1.15, `law_no_salary_regulation`"
+description: "Закон «No Salary Regulations» — TGR 1.15.2, `law_no_salary_regulation`"
 project: vic3
 audience: agent
 source: tgr

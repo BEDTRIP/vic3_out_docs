@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Plantation Investments» — TGR 1.15, `economic_incentives_plantation`"
+description: "Закон «Plantation Investments» — TGR 1.15.2, `economic_incentives_plantation`"
 project: vic3
 audience: agent
 source: tgr

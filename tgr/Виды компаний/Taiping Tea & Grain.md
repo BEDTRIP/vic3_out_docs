@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Taiping Tea & Grain» — TGR 1.15, `company_ong_lung_sheng_tea_company_heaven_kingdom`"
+description: "Вид компании «Taiping Tea & Grain» — TGR 1.15.2, `company_ong_lung_sheng_tea_company_heaven_kingdom`"
 project: vic3
 audience: agent
 source: tgr

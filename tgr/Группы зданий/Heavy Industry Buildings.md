@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа зданий «Heavy Industry Buildings» — TGR 1.15, `bg_industry_heavy`"
+description: "Группа зданий «Heavy Industry Buildings» — TGR 1.15.2, `bg_industry_heavy`"
 project: vic3
 audience: agent
 source: tgr

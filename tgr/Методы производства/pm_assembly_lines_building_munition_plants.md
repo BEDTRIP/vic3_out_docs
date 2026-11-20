@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_assembly_lines_building_munition_plants» — TGR 1.15, `pm_assembly_lines_building_munition_plants`"
+description: "Метод производства «pm_assembly_lines_building_munition_plants» — TGR 1.15.2, `pm_assembly_lines_building_munition_plants`"
 project: vic3
 audience: agent
 source: tgr

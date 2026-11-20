@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Majoritarian System» — TGR 1.15, `law_majoritarian_system`"
+description: "Закон «Majoritarian System» — TGR 1.15.2, `law_majoritarian_system`"
 project: vic3
 audience: agent
 source: tgr

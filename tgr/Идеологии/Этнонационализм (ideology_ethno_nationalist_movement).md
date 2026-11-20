@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Этнонационализм (ideology_ethno_nationalist_movement)» — TGR 1.15, `ideology_ethno_nationalist_movement`"
+description: "Идеология «Этнонационализм (ideology_ethno_nationalist_movement)» — TGR 1.15.2, `ideology_ethno_nationalist_movement`"
 project: vic3
 audience: agent
 source: tgr

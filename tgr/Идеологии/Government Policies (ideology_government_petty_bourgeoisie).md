@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Government Policies (ideology_government_petty_bourgeoisie)» — TGR 1.15, `ideology_government_petty_bourgeoisie`"
+description: "Идеология «Government Policies (ideology_government_petty_bourgeoisie)» — TGR 1.15.2, `ideology_government_petty_bourgeoisie`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Social Research Advocate» — TGR 1.15, `ideology_tgr_research_society`"
+description: "Идеология «Social Research Advocate» — TGR 1.15.2, `ideology_tgr_research_society`"
 project: vic3
 audience: agent
 source: tgr

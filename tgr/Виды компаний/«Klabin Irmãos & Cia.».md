@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Klabin Irmãos & Cia.»» — TGR 1.15, `company_kablin`"
+description: "Вид компании ««Klabin Irmãos & Cia.»» — TGR 1.15.2, `company_kablin`"
 project: vic3
 audience: agent
 source: tgr

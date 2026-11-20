@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Коммунизм (ideology_communist_leader)» — TGR 1.15, `ideology_communist_leader`"
+description: "Идеология «Коммунизм (ideology_communist_leader)» — TGR 1.15.2, `ideology_communist_leader`"
 project: vic3
 audience: agent
 source: tgr

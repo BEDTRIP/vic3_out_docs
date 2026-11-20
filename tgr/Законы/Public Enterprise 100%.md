@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Public Enterprise 100%» — TGR 1.15, `law_tgr_public_enterprise`"
+description: "Закон «Public Enterprise 100%» — TGR 1.15.2, `law_tgr_public_enterprise`"
 project: vic3
 audience: agent
 source: tgr

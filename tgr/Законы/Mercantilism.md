@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Mercantilism» — TGR 1.15, `law_ai_subventioned_trade`"
+description: "Закон «Mercantilism» — TGR 1.15.2, `law_ai_subventioned_trade`"
 project: vic3
 audience: agent
 source: tgr

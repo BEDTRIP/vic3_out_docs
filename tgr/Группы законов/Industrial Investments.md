@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа законов «Industrial Investments» — TGR 1.15, `lawgroup_economic_incentives_tertiary`"
+description: "Группа законов «Industrial Investments» — TGR 1.15.2, `lawgroup_economic_incentives_tertiary`"
 project: vic3
 audience: agent
 source: tgr

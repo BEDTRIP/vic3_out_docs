@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Standardized Trade Logistics» — TGR 1.15, `pm_tgr_trade_center_trade_quantity_x4`"
+description: "Метод производства «Standardized Trade Logistics» — TGR 1.15.2, `pm_tgr_trade_center_trade_quantity_x4`"
 project: vic3
 audience: agent
 source: tgr

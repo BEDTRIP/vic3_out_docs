@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Administrative Centralization» — TGR 1.15, `law_administrative_centralism`"
+description: "Закон «Administrative Centralization» — TGR 1.15.2, `law_administrative_centralism`"
 project: vic3
 audience: agent
 source: tgr

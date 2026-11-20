@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Diplomatic Embassies» — TGR 1.15, `foreign_policy_diplomatic_embassies`"
+description: "Закон «Diplomatic Embassies» — TGR 1.15.2, `foreign_policy_diplomatic_embassies`"
 project: vic3
 audience: agent
 source: tgr

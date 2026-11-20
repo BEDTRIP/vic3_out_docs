@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_automotive_industry)» — TGR 1.15, `pm_assembly_lines_building_automotive_industry`"
+description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_automotive_industry)» — TGR 1.15.2, `pm_assembly_lines_building_automotive_industry`"
 project: vic3
 audience: agent
 source: tgr

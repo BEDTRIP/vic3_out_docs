@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_watertube_boiler_building_steel_mills» — TGR 1.15, `pm_watertube_boiler_building_steel_mills`"
+description: "Метод производства «pm_watertube_boiler_building_steel_mills» — TGR 1.15.2, `pm_watertube_boiler_building_steel_mills`"
 project: vic3
 audience: agent
 source: tgr

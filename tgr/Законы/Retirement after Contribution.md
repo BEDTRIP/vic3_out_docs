@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Retirement after Contribution» — TGR 1.15, `law_retirement_after_contribution`"
+description: "Закон «Retirement after Contribution» — TGR 1.15.2, `law_retirement_after_contribution`"
 project: vic3
 audience: agent
 source: tgr

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа законов «Retirement Age Policy» — TGR 1.15, `lawgroup_retirement_age`"
+description: "Группа законов «Retirement Age Policy» — TGR 1.15.2, `lawgroup_retirement_age`"
 project: vic3
 audience: agent
 source: tgr
