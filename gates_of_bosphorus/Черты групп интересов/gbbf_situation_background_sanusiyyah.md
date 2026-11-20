@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «gbbf_situation_background_sanusiyyah» — Gates of Bosphorus 1.15, `gbbf_situation_background_sanusiyyah`"
+description: "Черта группы интересов «gbbf_situation_background_sanusiyyah» — Gates of Bosphorus 1.15.2, `gbbf_situation_background_sanusiyyah`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

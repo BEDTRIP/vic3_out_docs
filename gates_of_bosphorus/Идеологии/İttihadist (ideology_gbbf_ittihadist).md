@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «İttihadist (ideology_gbbf_ittihadist)» — Gates of Bosphorus 1.15, `ideology_gbbf_ittihadist`"
+description: "Идеология «İttihadist (ideology_gbbf_ittihadist)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_ittihadist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Nile Barrage» — Gates of Bosphorus 1.15, `gbbf_building_nile_barrage`"
+description: "Здание «Nile Barrage» — Gates of Bosphorus 1.15.2, `gbbf_building_nile_barrage`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

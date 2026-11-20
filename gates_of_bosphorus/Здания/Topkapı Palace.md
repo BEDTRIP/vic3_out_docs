@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Topkapı Palace» — Gates of Bosphorus 1.15, `gbbf_building_topkapi_palace`"
+description: "Здание «Topkapı Palace» — Gates of Bosphorus 1.15.2, `gbbf_building_topkapi_palace`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Porphyrogenitus» — Gates of Bosphorus 1.15, `gbbf_trait_porphyrogenitus`"
+description: "Черта персонажа «Porphyrogenitus» — Gates of Bosphorus 1.15.2, `gbbf_trait_porphyrogenitus`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

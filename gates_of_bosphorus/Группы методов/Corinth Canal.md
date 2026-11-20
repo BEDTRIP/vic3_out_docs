@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Corinth Canal» — Gates of Bosphorus 1.15, `pmg_gbbf_corinth_canal`"
+description: "Группа методов производства «Corinth Canal» — Gates of Bosphorus 1.15.2, `pmg_gbbf_corinth_canal`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

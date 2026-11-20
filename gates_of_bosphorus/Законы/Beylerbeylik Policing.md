@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Beylerbeylik Policing» — Gates of Bosphorus 1.15, `law_gbbf_beylerbeylik_policing`"
+description: "Закон «Beylerbeylik Policing» — Gates of Bosphorus 1.15.2, `law_gbbf_beylerbeylik_policing`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

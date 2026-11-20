@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Paltry Reservoir» — Gates of Bosphorus 1.15, `pm_gbbf_no_reservior`"
+description: "Метод производства «Paltry Reservoir» — Gates of Bosphorus 1.15.2, `pm_gbbf_no_reservior`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

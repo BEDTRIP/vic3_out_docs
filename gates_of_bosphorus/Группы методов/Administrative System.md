@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Administrative System» — Gates of Bosphorus 1.15, `pmg_gbbf_karadag_administration`"
+description: "Группа методов производства «Administrative System» — Gates of Bosphorus 1.15.2, `pmg_gbbf_karadag_administration`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

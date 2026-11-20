@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Scribalistic» — Gates of Bosphorus 1.15, `ideology_gbbf_scribalist`"
+description: "Идеология «Scribalistic» — Gates of Bosphorus 1.15.2, `ideology_gbbf_scribalist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

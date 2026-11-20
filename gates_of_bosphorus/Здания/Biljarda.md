@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Biljarda» — Gates of Bosphorus 1.15, `gbbf_building_biljarda`"
+description: "Здание «Biljarda» — Gates of Bosphorus 1.15.2, `gbbf_building_biljarda`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Tribal Pathways» — Gates of Bosphorus 1.15, `pm_gbbf_tribal_paths`"
+description: "Метод производства «Tribal Pathways» — Gates of Bosphorus 1.15.2, `pm_gbbf_tribal_paths`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

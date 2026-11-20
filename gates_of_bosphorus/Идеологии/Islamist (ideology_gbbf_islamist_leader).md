@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Islamist (ideology_gbbf_islamist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_islamist_leader`"
+description: "Идеология «Islamist (ideology_gbbf_islamist_leader)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_islamist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

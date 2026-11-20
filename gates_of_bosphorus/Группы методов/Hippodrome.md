@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Hippodrome» — Gates of Bosphorus 1.15, `pmg_gbbf_hippodrome`"
+description: "Группа методов производства «Hippodrome» — Gates of Bosphorus 1.15.2, `pmg_gbbf_hippodrome`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

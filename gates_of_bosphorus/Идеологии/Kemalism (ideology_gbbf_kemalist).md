@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Kemalism (ideology_gbbf_kemalist)» — Gates of Bosphorus 1.15, `ideology_gbbf_kemalist`"
+description: "Идеология «Kemalism (ideology_gbbf_kemalist)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_kemalist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

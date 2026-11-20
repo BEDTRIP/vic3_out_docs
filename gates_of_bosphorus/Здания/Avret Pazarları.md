@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Avret Pazarları» — Gates of Bosphorus 1.15, `gbbf_building_avret_pazarlari`"
+description: "Здание «Avret Pazarları» — Gates of Bosphorus 1.15.2, `gbbf_building_avret_pazarlari`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

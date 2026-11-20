@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «gbbf_situation_background_constantinople» — Gates of Bosphorus 1.15, `gbbf_situation_background_constantinople`"
+description: "Черта группы интересов «gbbf_situation_background_constantinople» — Gates of Bosphorus 1.15.2, `gbbf_situation_background_constantinople`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

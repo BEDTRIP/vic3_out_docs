@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Old Spider» — Gates of Bosphorus 1.15, `gbbf_trait_old_spider`"
+description: "Черта персонажа «Old Spider» — Gates of Bosphorus 1.15.2, `gbbf_trait_old_spider`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

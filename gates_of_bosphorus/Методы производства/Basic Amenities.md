@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Basic Amenities» — Gates of Bosphorus 1.15, `pm_gbbf_basic_amenities`"
+description: "Метод производства «Basic Amenities» — Gates of Bosphorus 1.15.2, `pm_gbbf_basic_amenities`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

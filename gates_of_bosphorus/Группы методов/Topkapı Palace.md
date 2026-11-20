@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Topkapı Palace» — Gates of Bosphorus 1.15, `pmg_gbbf_topkapi_palace`"
+description: "Группа методов производства «Topkapı Palace» — Gates of Bosphorus 1.15.2, `pmg_gbbf_topkapi_palace`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

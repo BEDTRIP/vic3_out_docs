@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Méga Palátion» — Gates of Bosphorus 1.15, `pmg_gbbf_mega_palation`"
+description: "Группа методов производства «Méga Palátion» — Gates of Bosphorus 1.15.2, `pmg_gbbf_mega_palation`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

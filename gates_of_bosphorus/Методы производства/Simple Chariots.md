@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Simple Chariots» — Gates of Bosphorus 1.15, `pm_gbbf_simple_chariots`"
+description: "Метод производства «Simple Chariots» — Gates of Bosphorus 1.15.2, `pm_gbbf_simple_chariots`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

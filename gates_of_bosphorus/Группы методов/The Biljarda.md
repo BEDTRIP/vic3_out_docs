@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «The Biljarda» — Gates of Bosphorus 1.15, `pmg_gbbf_biljarda`"
+description: "Группа методов производства «The Biljarda» — Gates of Bosphorus 1.15.2, `pmg_gbbf_biljarda`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

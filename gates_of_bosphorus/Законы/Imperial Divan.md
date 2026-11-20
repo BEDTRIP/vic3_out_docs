@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Imperial Divan» — Gates of Bosphorus 1.15, `law_imperial_divan`"
+description: "Закон «Imperial Divan» — Gates of Bosphorus 1.15.2, `law_imperial_divan`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

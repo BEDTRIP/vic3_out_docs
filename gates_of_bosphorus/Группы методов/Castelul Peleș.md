@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Castelul Peleș» — Gates of Bosphorus 1.15, `pmg_gbbf_castelul_peles`"
+description: "Группа методов производства «Castelul Peleș» — Gates of Bosphorus 1.15.2, `pmg_gbbf_castelul_peles`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

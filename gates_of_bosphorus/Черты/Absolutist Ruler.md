@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Absolutist Ruler» — Gates of Bosphorus 1.15, `gbbf_trait_absolutist_ruler`"
+description: "Черта персонажа «Absolutist Ruler» — Gates of Bosphorus 1.15.2, `gbbf_trait_absolutist_ruler`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

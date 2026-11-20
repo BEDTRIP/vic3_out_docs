@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Expanded 6-Team Roster» — Gates of Bosphorus 1.15, `pm_gbbf_expanded_roster`"
+description: "Метод производства «Expanded 6-Team Roster» — Gates of Bosphorus 1.15.2, `pm_gbbf_expanded_roster`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

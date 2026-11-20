@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Tuberculosis» — Gates of Bosphorus 1.15, `gbbf_trait_tuberculosis`"
+description: "Черта персонажа «Tuberculosis» — Gates of Bosphorus 1.15.2, `gbbf_trait_tuberculosis`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

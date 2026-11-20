@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Ottomanist (ideology_gbbf_ottomanist_leader)» — Gates of Bosphorus 1.15, `ideology_gbbf_ottomanist_leader`"
+description: "Идеология «Ottomanist (ideology_gbbf_ottomanist_leader)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_ottomanist_leader`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

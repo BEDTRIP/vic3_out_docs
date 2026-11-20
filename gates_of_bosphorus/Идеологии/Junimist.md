@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Junimist» — Gates of Bosphorus 1.15, `ideology_gbbf_junimist`"
+description: "Идеология «Junimist» — Gates of Bosphorus 1.15.2, `ideology_gbbf_junimist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

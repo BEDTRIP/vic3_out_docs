@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Chariot Construction» — Gates of Bosphorus 1.15, `pmg_gbbf_chariot_construction`"
+description: "Группа методов производства «Chariot Construction» — Gates of Bosphorus 1.15.2, `pmg_gbbf_chariot_construction`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

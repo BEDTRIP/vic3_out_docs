@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Grandiose Amenities» — Gates of Bosphorus 1.15, `pm_gbbf_grandiose_amenities`"
+description: "Метод производства «Grandiose Amenities» — Gates of Bosphorus 1.15.2, `pm_gbbf_grandiose_amenities`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

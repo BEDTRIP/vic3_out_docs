@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Corsair» — Gates of Bosphorus 1.15, `gbbf_trait_corsair`"
+description: "Черта персонажа «Corsair» — Gates of Bosphorus 1.15.2, `gbbf_trait_corsair`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

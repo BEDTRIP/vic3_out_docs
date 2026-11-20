@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Racing Roster» — Gates of Bosphorus 1.15, `pmg_gbbf_racing_roster`"
+description: "Группа методов производства «Racing Roster» — Gates of Bosphorus 1.15.2, `pmg_gbbf_racing_roster`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

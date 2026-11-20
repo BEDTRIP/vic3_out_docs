@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин мода Gates of Bosphorus «Involvement» — подсказка-понятие Victoria 3 1.15 (`concept_balkan_situation_involvement`)"
+description: "Термин мода Gates of Bosphorus «Involvement» — подсказка-понятие Victoria 3 1.15.2 (`concept_balkan_situation_involvement`)"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

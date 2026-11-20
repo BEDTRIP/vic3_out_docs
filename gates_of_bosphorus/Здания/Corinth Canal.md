@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Corinth Canal» — Gates of Bosphorus 1.15, `gbbf_building_corinth_canal`"
+description: "Здание «Corinth Canal» — Gates of Bosphorus 1.15.2, `gbbf_building_corinth_canal`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

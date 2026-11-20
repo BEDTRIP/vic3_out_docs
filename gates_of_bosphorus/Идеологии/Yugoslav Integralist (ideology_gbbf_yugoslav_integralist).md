@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist)» — Gates of Bosphorus 1.15, `ideology_gbbf_yugoslav_integralist`"
+description: "Идеология «Yugoslav Integralist (ideology_gbbf_yugoslav_integralist)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_yugoslav_integralist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

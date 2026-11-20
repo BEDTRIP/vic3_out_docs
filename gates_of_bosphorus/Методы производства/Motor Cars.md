@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Motor Cars» — Gates of Bosphorus 1.15, `pm_gbbf_motor_cars`"
+description: "Метод производства «Motor Cars» — Gates of Bosphorus 1.15.2, `pm_gbbf_motor_cars`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

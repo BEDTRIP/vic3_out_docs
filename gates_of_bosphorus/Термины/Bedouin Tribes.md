@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин мода Gates of Bosphorus «Bedouin Tribes» — подсказка-понятие Victoria 3 1.15 (`concept_bedouin_tribes`)"
+description: "Термин мода Gates of Bosphorus «Bedouin Tribes» — подсказка-понятие Victoria 3 1.15.2 (`concept_bedouin_tribes`)"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

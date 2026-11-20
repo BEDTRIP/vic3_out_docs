@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Teşkilat» — Gates of Bosphorus 1.15, `law_gbbf_teshkilat`"
+description: "Закон «Teşkilat» — Gates of Bosphorus 1.15.2, `law_gbbf_teshkilat`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

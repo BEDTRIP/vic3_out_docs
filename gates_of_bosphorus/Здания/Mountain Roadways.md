@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Mountain Roadways» — Gates of Bosphorus 1.15, `gbbf_building_karadag_roads`"
+description: "Здание «Mountain Roadways» — Gates of Bosphorus 1.15.2, `gbbf_building_karadag_roads`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

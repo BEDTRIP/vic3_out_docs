@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Venizelist (ideology_gbbf_venizelos)» — Gates of Bosphorus 1.15, `ideology_gbbf_venizelos`"
+description: "Идеология «Venizelist (ideology_gbbf_venizelos)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_venizelos`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

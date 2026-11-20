@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Yugoslav Particularist» — Gates of Bosphorus 1.15, `ideology_gbbf_yugoslav_particularist`"
+description: "Идеология «Yugoslav Particularist» — Gates of Bosphorus 1.15.2, `ideology_gbbf_yugoslav_particularist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus

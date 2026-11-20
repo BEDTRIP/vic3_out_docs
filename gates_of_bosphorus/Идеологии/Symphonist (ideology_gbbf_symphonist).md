@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Symphonist (ideology_gbbf_symphonist)» — Gates of Bosphorus 1.15, `ideology_gbbf_symphonist`"
+description: "Идеология «Symphonist (ideology_gbbf_symphonist)» — Gates of Bosphorus 1.15.2, `ideology_gbbf_symphonist`"
 project: vic3
 audience: agent
 source: gates_of_bosphorus
