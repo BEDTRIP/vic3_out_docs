@@ -23,7 +23,7 @@ paths: [PSC/common/production_methods/zz_PSC_construction.txt]
     - [[vanilla/движок/Модификаторы C#^m-country-construction-add|country_construction_add]] = `1`
 - **building_modifiers**:
   - **workforce_scaled**:
-    - [[vanilla/движок/Модификаторы G#^m-goods-input-arc-welded-construction-add|goods_input_arc_welded_construction_add]] = `10` → [[psc/Товары/Arc-Welded Construction|Arc-Welded Construction]]
+    - `goods_input_arc_welded_construction_add` = `10` → [[psc/Товары/Arc-Welded Construction|Arc-Welded Construction]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-bureaucrats-add|building_employment_bureaucrats_add]] = `20` → [[vanilla/Население/Типы/Чиновники|Чиновники]]
 - **unlocking_production_methods**: `pm_arc_welded_point_conversion`
