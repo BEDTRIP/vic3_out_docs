@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин мода PBE «Power Blocs Expanded» — подсказка-понятие Victoria 3 1.15 (`concept_power_blocs_expanded`)"
+description: "Термин мода PBE «Power Blocs Expanded» — подсказка-понятие Victoria 3 1.15.2 (`concept_power_blocs_expanded`)"
 project: vic3
 audience: agent
 source: pbe

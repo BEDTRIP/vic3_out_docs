@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «No Effect (pm_manor_house_entrenched_no_effect)» — PBE 1.15, `pm_manor_house_entrenched_no_effect`"
+description: "Метод производства «No Effect (pm_manor_house_entrenched_no_effect)» — PBE 1.15.2, `pm_manor_house_entrenched_no_effect`"
 project: vic3
 audience: agent
 source: pbe
