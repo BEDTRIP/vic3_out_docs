@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Yasuda» — ваниль 1.15, `company_yasuda`"
+description: "Вид компании «Yasuda» — ваниль 1.15.2, `company_yasuda`"
 project: vic3
 audience: agent
 source: vanilla

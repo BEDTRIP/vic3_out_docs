@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Bombay Dyeing and Manufacturing Company Limited»» — ваниль 1.15, `company_bombay_dyeing_company`"
+description: "Вид компании ««Bombay Dyeing and Manufacturing Company Limited»» — ваниль 1.15.2, `company_bombay_dyeing_company`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 ---
 # «Bombay Dyeing and Manufacturing Company Limited»
 
-Вид компании · `company_bombay_dyeing_company` · `common/company_types/00_companies_ip2.txt:67`
+Вид компании · `company_bombay_dyeing_company` · `common/company_types/00_companies_ip2.txt:71`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
 - **extension_building_types**: [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
 - **possible_prestige_goods**: `prestige_good_generic_clothes`
-- **prestige_goods_trigger**: скрипт, строки 87–92
-- **potential**: скрипт, строки 94–97
-- **attainable**: скрипт, строки 99–105
-- **possible**: скрипт, строки 107–115
+- **prestige_goods_trigger**: скрипт, строки 91–96
+- **potential**: скрипт, строки 98–101
+- **attainable**: скрипт, строки 103–109
+- **possible**: скрипт, строки 111–123
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-dye-plantation-throughput-add|building_dye_plantation_throughput_add]] = `0.2` → [[vanilla/Здания/Плантации красильных растений|Плантации красильных растений]]
   - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.05` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
-- **ai_will_do**: скрипт, строки 122–127
-- **ai_construction_targets**: скрипт, строки 129–136
-- **ai_weight**: скрипт, строки 138–140
+- **ai_will_do**: скрипт, строки 130–135
+- **ai_construction_targets**: скрипт, строки 137–144
+- **ai_weight**: скрипт, строки 146–148

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Радикализм (ideology_radical)» — ваниль 1.15, `ideology_radical`"
+description: "Идеология «Радикализм (ideology_radical)» — ваниль 1.15.2, `ideology_radical`"
 project: vic3
 audience: agent
 source: vanilla

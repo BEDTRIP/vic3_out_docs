@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Жестокость (cruel)» — ваниль 1.15, `cruel`"
+description: "Черта персонажа «Жестокость (cruel)» — ваниль 1.15.2, `cruel`"
 project: vic3
 audience: agent
 source: vanilla

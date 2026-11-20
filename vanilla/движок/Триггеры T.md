@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры T — 29, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры T — 30, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры T
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **taking_loans** — Check if the country is currently running a weekly deficit and taking loans to compensate Traits: yes/no Reads gamestate for all scopes. · supported scopes: country ^t-taking-loans
 - **target_cohesion_number** — Compare the target Cohesion as a numeric value Reads gamestate for all scopes. · `target_cohesion_number > 50 Traits: <, <=, =, !=, >, >=` · supported scopes: power_bloc ^t-target-cohesion-number
@@ -17,6 +17,7 @@ generated: "v3 graph engine"
 - **target_is** — Checks who the target of a diplomatic play is Traits: country scope Reads gamestate for all scopes. · `target_is = country` · supported scopes: diplomatic_play · supported targets: country ^t-target-is
 - **tax_capacity** — Checks the taxation capacity of the scoped state Reads gamestate for all scopes. · `tax_capacity > 50 Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-tax-capacity
 - **tax_capacity_usage** — Checks the taxation capacity usage of the scoped state Reads gamestate for all scopes. · `tax_capacity_usage > 50 Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-tax-capacity-usage
+- **tax_income** — Does the country have this amount of weekly income from taxation, excluding tariffs, pacts, transfers and other external sources Reads gamestate for all scopes. · `tax_income > 1000 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-tax-income
 - **tax_level** — Compares the overall tax level of scoped country Reads gamestate for all scopes. · `tax_level = <level> Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-tax-level
 - **tax_level_value** — Compares the overall tax level integer value of scoped country Reads gamestate for all scopes. · `income_tax_level_value = <level> Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-tax-level-value
 - **tax_waste** — Compare the tax waste of the country Reads gamestate for all scopes. · `tax_waste > 100 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-tax-waste

@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры L — 22, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры L — 24, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,14 +9,15 @@ generated: "v3 graph engine"
 ---
 # Триггеры L
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
-- **law_approved_by** — Checks whether the scoped law is approved by an interest group Reads gamestate for all scopes. · `law_approved_by = ig_rural_folk` · supported scopes: law ^t-law-approved-by
+- **land_lost_since_war_start** — Compares how much of what the target country's economy was worth on entering the scoped war has since been taken from it by war goal enforcement Reads gamestate for all scopes. · `land_lost_since_war_start = { target = root value >= 0.2 } Traits: <, <=, =, !=, >, >=` · supported scopes: war ^t-land-lost-since-war-start
+- **law_approved_by** — Checks whether the scoped law is approved by an interest group Reads gamestate for all scopes. · `law_approved_by = ig_rural_folk` · value type: common/interest_groups · supported scopes: law ^t-law-approved-by
 - **law_enactment_stance** — Compares the stance of the scoped character, movement or interest group has about enactment of the specified law compared to the current active law in the same group Reads gamestate for all scopes. · supported scopes: character, interest_group, political_movement ^t-law-enactment-stance
 - **law_is_available** — Checks if a law is available for its country, considering its current situation. Like can_be_enacted, but ignores government support Traits: yes/no Reads gamestate for all scopes. · `law_is_available = yes` · supported scopes: law ^t-law-is-available
 - **law_progressiveness_difference** — Compares the progressiveness of the scoped law type to the target law type, higher value means greater difference "law_progressiveness_difference( scope:target_law )" > 50 Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: law_type ^t-law-progressiveness-difference
 - **law_stance** — Compares the base stance of the scoped character, movement or interest group has about the specified law, ignoring the current active law in the same group Reads gamestate for all scopes. · supported scopes: character, interest_group, political_movement ^t-law-stance
-- **leading_producer_of** — Checks if country is producing the most of a certain good Traits: goods scope Reads gamestate for all scopes. · `leading_producer_of = g:luxury_clothes` · supported scopes: country · supported targets: goods ^t-leading-producer-of
+- **leading_producer_of** — Checks if country is producing the most of a certain good Traits: goods scope Reads gamestate for all scopes. · `leading_producer_of = g:luxury_clothes` · value type: common/goods · supported scopes: country · supported targets: goods ^t-leading-producer-of
 - **leads_customs_union** — Check if any other country is part of this country's customs union Traits: yes/no Reads gamestate for all scopes. · `leads_customs_union = bool` · supported scopes: country ^t-leads-customs-union
 - **levels_owned_by_country** — Compares how many levels a country or investors in that country own in a building Reads gamestate for all scopes. · `levels_owned_by_country = { target = c:GBR value >= 1 Traits: <, <=, =, !=, >, >=` · supported scopes: building ^t-levels-owned-by-country
 - **leverage_advantage** — Checks that the leverage advantage between power bloc and target country meets condition } Reads gamestate for all scopes. · `power_bloc = { leverage = { target = c:BEL value > 0 } Traits: <, <=, =, !=, >, >=` · supported scopes: power_bloc ^t-leverage-advantage
@@ -30,6 +31,7 @@ generated: "v3 graph engine"
 - **lobby_formation_reason** — Check scope diplomatic catalyst or political lobby scope for lobby formation reason Reads gamestate for all scopes. · `lobby_formation_reason = diplomacy` · supported scopes: diplomatic_catalyst, political_lobby ^t-lobby-formation-reason
 - **local_variable_list_size** — Checks the size of a variable list Where X is the name of the variable Where Y is a script value or number · `variable_list_size = { name = X target >= Y }` · supported scopes: none ^t-local-variable-list-size
 - **local_variable_map_size** — Checks the size of a variable map Where X is the name of the variable map Where Y is a script value or number · `variable_map_size = { name = X value >= Y }` · supported scopes: none ^t-local-variable-map-size
+- **lowest_war_support_in_overlord_war** — Compares the lowest war support the scoped country has in any war it fights on the same side as its overlord, or the maximum war support if it has no such war Reads gamestate for all scopes. · `lowest_war_support_in_overlord_war < 25 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-lowest-war-support-in-overlord-war
 - **loyalist_fraction** — Compares loyalist fraction in pops in state or country, all parameters except value are optional Reads gamestate for all scopes. · `loyalist_fraction = { value = x pop_type = <key> strata = <key> culture = <key/scope> religion = <key/scope> } Traits: <, <=, =, !=, >, >=` · supported scopes: country, state ^t-loyalist-fraction
 - **loyalists** — Compares the loyalty in a given state, i.e. the fraction of Loyalists Reads gamestate for all scopes. · `loyalists > 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-loyalists
 - **loyalty** — Compares the character loyalty Reads gamestate for all scopes. · `loyalty > 1 Traits: <, <=, =, !=, >, >=` · supported scopes: character ^t-loyalty

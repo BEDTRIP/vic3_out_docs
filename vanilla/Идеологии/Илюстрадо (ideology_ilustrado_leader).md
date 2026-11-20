@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Илюстрадо (ideology_ilustrado_leader)» — ваниль 1.15, `ideology_ilustrado_leader`"
+description: "Идеология «Илюстрадо (ideology_ilustrado_leader)» — ваниль 1.15.2, `ideology_ilustrado_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Илюстрадо (ideology_ilustrado_leader)
 
-Идеология · `ideology_ilustrado_leader` · `common/ideologies/01_character_ideologies.txt:12721`
+Идеология · `ideology_ilustrado_leader` · `common/ideologies/01_character_ideologies.txt:12724`
 
 ## Поля
 
@@ -43,6 +43,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 - **country_trigger**: пусто
 - **interest_group_leader_trigger**:
   - `ideology_ilustrado_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 12764–12777
-- **interest_group_leader_weight**: скрипт, строки 12779–12799
-- **non_interest_group_leader_weight**: скрипт, строки 12801–12821
+- **non_interest_group_leader_trigger**: скрипт, строки 12767–12780
+- **interest_group_leader_weight**: скрипт, строки 12782–12802
+- **non_interest_group_leader_weight**: скрипт, строки 12804–12824

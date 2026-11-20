@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Горнодобывающее оборудование (pmg_mining_equipment_building_sulfur_mine)» — ваниль 1.15, `pmg_mining_equipment_building_sulfur_mine`"
+description: "Группа методов производства «Горнодобывающее оборудование (pmg_mining_equipment_building_sulfur_mine)» — ваниль 1.15.2, `pmg_mining_equipment_building_sulfur_mine`"
 project: vic3
 audience: agent
 source: vanilla

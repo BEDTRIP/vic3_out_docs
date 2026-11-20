@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««David Sassoon & Co., Ltd»» — ваниль 1.15, `company_david_sassoon`"
+description: "Вид компании ««David Sassoon & Co., Ltd»» — ваниль 1.15.2, `company_david_sassoon`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 ---
 # «David Sassoon & Co., Ltd»
 
-Вид компании · `company_david_sassoon` · `common/company_types/00_companies_ip2.txt:144`
+Вид компании · `company_david_sassoon` · `common/company_types/00_companies_ip2.txt:152`
 
 ## Поля
 
@@ -24,12 +24,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip2.txt]
 - **building_types**: [[vanilla/Здания/Маковые плантации|Маковые плантации]], [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
 - **extension_building_types**: [[vanilla/Здания/Порты|Порты]]
 - **possible_prestige_goods**: `prestige_good_generic_opium`
-- **prestige_goods_trigger**: скрипт, строки 167–172
-- **potential**: скрипт, строки 174–177
-- **attainable**: скрипт, строки 179–185
-- **possible**: скрипт, строки 187–201
+- **prestige_goods_trigger**: скрипт, строки 175–180
+- **potential**: скрипт, строки 182–185
+- **attainable**: скрипт, строки 187–193
+- **possible**: скрипт, строки 195–213
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-trade-advantage-mult|state_trade_advantage_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 207–212
-- **ai_construction_targets**: скрипт, строки 214–227
-- **ai_weight**: скрипт, строки 229–231
+- **ai_will_do**: скрипт, строки 219–224
+- **ai_construction_targets**: скрипт, строки 226–239
+- **ai_weight**: скрипт, строки 241–243

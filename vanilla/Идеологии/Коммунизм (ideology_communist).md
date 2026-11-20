@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Коммунизм (ideology_communist)» — ваниль 1.15, `ideology_communist`"
+description: "Идеология «Коммунизм (ideology_communist)» — ваниль 1.15.2, `ideology_communist`"
 project: vic3
 audience: agent
 source: vanilla

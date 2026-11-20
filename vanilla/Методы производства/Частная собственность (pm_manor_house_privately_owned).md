@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Частная собственность (pm_manor_house_privately_owned)» — ваниль 1.15, `pm_manor_house_privately_owned`"
+description: "Метод производства «Частная собственность (pm_manor_house_privately_owned)» — ваниль 1.15.2, `pm_manor_house_privately_owned`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/11_private_infrastructure.txt]
 ---
 # Частная собственность (pm_manor_house_privately_owned)
 
-Метод производства · `pm_manor_house_privately_owned` · `common/production_methods/11_private_infrastructure.txt:510`
+Метод производства · `pm_manor_house_privately_owned` · `common/production_methods/11_private_infrastructure.txt:513`
 
 ## Поля
 

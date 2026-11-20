@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Модернизатор (ideology_modernizer_movement_2)» — ваниль 1.15, `ideology_modernizer_movement_2`"
+description: "Идеология «Модернизатор (ideology_modernizer_movement_2)» — ваниль 1.15.2, `ideology_modernizer_movement_2`"
 project: vic3
 audience: agent
 source: vanilla

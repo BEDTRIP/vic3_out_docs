@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Фашизм (ideology_fascist)» — ваниль 1.15, `ideology_fascist`"
+description: "Идеология «Фашизм (ideology_fascist)» — ваниль 1.15.2, `ideology_fascist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Фашизм (ideology_fascist)
 
-Идеология · `ideology_fascist` · `common/ideologies/01_character_ideologies.txt:5181`
+Идеология · `ideology_fascist` · `common/ideologies/01_character_ideologies.txt:5184`
 
 ## Поля
 
@@ -68,9 +68,9 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `strongly_approve`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 5250–5255
+- **country_trigger**: скрипт, строки 5253–5258
 - **interest_group_leader_trigger**:
   - `ideology_fascist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 5261–5275
-- **interest_group_leader_weight**: скрипт, строки 5277–5520
-- **non_interest_group_leader_weight**: скрипт, строки 5522–5732
+- **non_interest_group_leader_trigger**: скрипт, строки 5264–5278
+- **interest_group_leader_weight**: скрипт, строки 5280–5523
+- **non_interest_group_leader_weight**: скрипт, строки 5525–5735

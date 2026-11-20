@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Ericsson»» — ваниль 1.15, `company_ericsson`"
+description: "Вид компании ««Ericsson»» — ваниль 1.15.2, `company_ericsson`"
 project: vic3
 audience: agent
 source: vanilla
@@ -25,10 +25,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **possible_prestige_goods**: `prestige_good_ericsson_apparatus`
 - **potential**: скрипт, строки 582–584
 - **attainable**: скрипт, строки 586–592
-- **possible**: скрипт, строки 594–602
+- **possible**: скрипт, строки 594–606
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-weekly-innovation-mult|country_weekly_innovation_mult]] = `0.1`
   - [[vanilla/движок/Модификаторы S#^m-state-education-access-wealth-add|state_education_access_wealth_add]] = `0.005`
-- **ai_will_do**: скрипт, строки 609–615
-- **ai_construction_targets**: скрипт, строки 617–624
-- **ai_weight**: скрипт, строки 626–628
+- **ai_will_do**: скрипт, строки 613–619
+- **ai_construction_targets**: скрипт, строки 621–628
+- **ai_weight**: скрипт, строки 630–632

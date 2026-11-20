@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Bergsbrukens Valdistrikt» — ваниль 1.15, `ig_trait_bergsbrukens_valdistrikten`"
+description: "Черта группы интересов «Bergsbrukens Valdistrikt» — ваниль 1.15.2, `ig_trait_bergsbrukens_valdistrikten`"
 project: vic3
 audience: agent
 source: vanilla

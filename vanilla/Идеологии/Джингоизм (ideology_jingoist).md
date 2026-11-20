@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Джингоизм (ideology_jingoist)» — ваниль 1.15, `ideology_jingoist`"
+description: "Идеология «Джингоизм (ideology_jingoist)» — ваниль 1.15.2, `ideology_jingoist`"
 project: vic3
 audience: agent
 source: vanilla

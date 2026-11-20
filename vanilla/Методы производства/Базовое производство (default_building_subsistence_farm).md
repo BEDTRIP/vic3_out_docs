@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Базовое производство (default_building_subsistence_farm)» — ваниль 1.15, `default_building_subsistence_farm`"
+description: "Метод производства «Базовое производство (default_building_subsistence_farm)» — ваниль 1.15.2, `default_building_subsistence_farm`"
 project: vic3
 audience: agent
 source: vanilla

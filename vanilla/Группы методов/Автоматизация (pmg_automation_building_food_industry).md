@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Автоматизация (pmg_automation_building_food_industry)» — ваниль 1.15, `pmg_automation_building_food_industry`"
+description: "Группа методов производства «Автоматизация (pmg_automation_building_food_industry)» — ваниль 1.15.2, `pmg_automation_building_food_industry`"
 project: vic3
 audience: agent
 source: vanilla

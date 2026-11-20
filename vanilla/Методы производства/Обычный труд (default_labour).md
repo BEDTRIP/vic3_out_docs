@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Обычный труд (default_labour)» — ваниль 1.15, `default_labour`"
+description: "Метод производства «Обычный труд (default_labour)» — ваниль 1.15.2, `default_labour`"
 project: vic3
 audience: agent
 source: vanilla

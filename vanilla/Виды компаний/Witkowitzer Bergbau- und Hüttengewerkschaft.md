@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Witkowitzer Bergbau- und Hüttengewerkschaft» — ваниль 1.15, `company_witkowitzer_bergbau_und_huttengewerkschaft`"
+description: "Вид компании «Witkowitzer Bergbau- und Hüttengewerkschaft» — ваниль 1.15.2, `company_witkowitzer_bergbau_und_huttengewerkschaft`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 ---
 # Witkowitzer Bergbau- und Hüttengewerkschaft
 
-Вид компании · `company_witkowitzer_bergbau_und_huttengewerkschaft` · `common/company_types/00_companies_ip3.txt:482`
+Вид компании · `company_witkowitzer_bergbau_und_huttengewerkschaft` · `common/company_types/00_companies_ip3.txt:486`
 
 ## Поля
 
@@ -21,12 +21,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]], [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]], [[vanilla/Здания/Серные рудники|Серные рудники]], [[vanilla/Здания/Медные рудники|Медные рудники]]
-- **potential**: скрипт, строки 499–502
-- **attainable**: скрипт, строки 504–510
-- **possible**: скрипт, строки 512–524
+- **potential**: скрипт, строки 503–506
+- **attainable**: скрипт, строки 508–514
+- **possible**: скрипт, строки 516–528
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-construction-sector-throughput-add|building_construction_sector_throughput_add]] = `0.05` → [[vanilla/Здания/Строительные сектора|Строительные сектора]]
   - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.1` → [[vanilla/Здания/Электростанции|Электростанции]]
-- **ai_will_do**: скрипт, строки 531–536
-- **ai_construction_targets**: скрипт, строки 538–551
-- **ai_weight**: скрипт, строки 553–555
+- **ai_will_do**: скрипт, строки 535–540
+- **ai_construction_targets**: скрипт, строки 542–555
+- **ai_weight**: скрипт, строки 557–559

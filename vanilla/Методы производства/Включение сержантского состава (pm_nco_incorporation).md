@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Включение сержантского состава (pm_nco_incorporation)» — ваниль 1.15, `pm_nco_incorporation`"
+description: "Метод производства «Включение сержантского состава (pm_nco_incorporation)» — ваниль 1.15.2, `pm_nco_incorporation`"
 project: vic3
 audience: agent
 source: vanilla

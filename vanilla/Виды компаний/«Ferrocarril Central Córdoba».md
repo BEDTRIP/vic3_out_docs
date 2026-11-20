@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Ferrocarril Central Córdoba»» — ваниль 1.15, `company_cordoba_railway`"
+description: "Вид компании ««Ferrocarril Central Córdoba»» — ваниль 1.15.2, `company_cordoba_railway`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 ---
 # «Ferrocarril Central Córdoba»
 
-Вид компании · `company_cordoba_railway` · `common/company_types/00_companies_cots.txt:666`
+Вид компании · `company_cordoba_railway` · `common/company_types/00_companies_cots.txt:690`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **preferred_headquarters**: `STATE_LA_PAMPA`
 - **building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **extension_building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]], [[vanilla/Здания/Моторные заводы|Моторные заводы]]
-- **potential**: скрипт, строки 683–686
-- **attainable**: скрипт, строки 688–694
-- **possible**: скрипт, строки 696–712
+- **potential**: скрипт, строки 707–710
+- **attainable**: скрипт, строки 712–718
+- **possible**: скрипт, строки 720–736
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-wheat-farm-throughput-add|building_wheat_farm_throughput_add]] = `0.1` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
   - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.05` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-- **ai_will_do**: скрипт, строки 719–725
-- **ai_construction_targets**: скрипт, строки 727–735
-- **ai_weight**: скрипт, строки 737–739
+- **ai_will_do**: скрипт, строки 743–749
+- **ai_construction_targets**: скрипт, строки 751–759
+- **ai_weight**: скрипт, строки 761–763

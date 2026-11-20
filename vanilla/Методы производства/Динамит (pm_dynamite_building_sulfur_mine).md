@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Динамит (pm_dynamite_building_sulfur_mine)» — ваниль 1.15, `pm_dynamite_building_sulfur_mine`"
+description: "Метод производства «Динамит (pm_dynamite_building_sulfur_mine)» — ваниль 1.15.2, `pm_dynamite_building_sulfur_mine`"
 project: vic3
 audience: agent
 source: vanilla

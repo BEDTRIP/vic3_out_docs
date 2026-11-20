@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Sherkat-e Eslamiya»» — ваниль 1.15, `company_sherkate_eslamiya`"
+description: "Вид компании ««Sherkat-e Eslamiya»» — ваниль 1.15.2, `company_sherkate_eslamiya`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 ---
 # «Sherkat-e Eslamiya»
 
-Вид компании · `company_sherkate_eslamiya` · `common/company_types/00_companies_soi.txt:453`
+Вид компании · `company_sherkate_eslamiya` · `common/company_types/00_companies_soi.txt:465`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **building_types**: [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
 - **extension_building_types**: [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
 - **possible_prestige_goods**: `prestige_good_generic_clothes`
-- **prestige_goods_trigger**: скрипт, строки 473–478
-- **potential**: скрипт, строки 480–483
-- **attainable**: скрипт, строки 485–491
-- **possible**: скрипт, строки 493–500
+- **prestige_goods_trigger**: скрипт, строки 485–490
+- **potential**: скрипт, строки 492–495
+- **attainable**: скрипт, строки 497–503
+- **possible**: скрипт, строки 505–516
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-state-religion-wages-mult|country_state_religion_wages_mult]] = `0.2`
-- **ai_will_do**: скрипт, строки 506–511
-- **ai_construction_targets**: скрипт, строки 513–520
-- **ai_weight**: скрипт, строки 522–524
+- **ai_will_do**: скрипт, строки 522–527
+- **ai_construction_targets**: скрипт, строки 529–536
+- **ai_weight**: скрипт, строки 538–540

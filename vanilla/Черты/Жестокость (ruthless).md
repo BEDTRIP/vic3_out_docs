@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Жестокость (ruthless)» — ваниль 1.15, `ruthless`"
+description: "Черта персонажа «Жестокость (ruthless)» — ваниль 1.15.2, `ruthless`"
 project: vic3
 audience: agent
 source: vanilla

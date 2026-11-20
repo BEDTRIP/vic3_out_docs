@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_whaling_station)» — ваниль 1.15, `pm_refrigerated_storage_building_whaling_station`"
+description: "Метод производства «Хранение в холодильнике (pm_refrigerated_storage_building_whaling_station)» — ваниль 1.15.2, `pm_refrigerated_storage_building_whaling_station`"
 project: vic3
 audience: agent
 source: vanilla
@@ -21,7 +21,7 @@ paths: [.vanillaVIC3/common/production_methods/09_misc_resource.txt]
 - **building_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `4` → [[vanilla/Товары/Электричество|Электричество]]
-    - `goods_input_copper_add` = `1` → [[vanilla/Товары/Медь|Медь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-copper-add|goods_input_copper_add]] = `1` → [[vanilla/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `-1000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]
 - **required_input_goods**: [[vanilla/Товары/Электричество|Электричество]]

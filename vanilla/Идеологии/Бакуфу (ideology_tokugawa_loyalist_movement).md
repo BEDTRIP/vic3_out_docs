@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Бакуфу (ideology_tokugawa_loyalist_movement)» — ваниль 1.15, `ideology_tokugawa_loyalist_movement`"
+description: "Идеология «Бакуфу (ideology_tokugawa_loyalist_movement)» — ваниль 1.15.2, `ideology_tokugawa_loyalist_movement`"
 project: vic3
 audience: agent
 source: vanilla

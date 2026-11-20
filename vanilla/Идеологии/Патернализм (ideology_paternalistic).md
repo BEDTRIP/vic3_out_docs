@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Патернализм (ideology_paternalistic)» — ваниль 1.15, `ideology_paternalistic`"
+description: "Идеология «Патернализм (ideology_paternalistic)» — ваниль 1.15.2, `ideology_paternalistic`"
 project: vic3
 audience: agent
 source: vanilla

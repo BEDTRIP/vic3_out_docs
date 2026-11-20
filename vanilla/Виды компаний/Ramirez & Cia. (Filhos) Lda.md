@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Ramirez & Cia. (Filhos) Lda» — ваниль 1.15, `company_ramirez`"
+description: "Вид компании «Ramirez & Cia. (Filhos) Lda» — ваниль 1.15.2, `company_ramirez`"
 project: vic3
 audience: agent
 source: vanilla

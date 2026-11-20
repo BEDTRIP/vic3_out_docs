@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — ваниль 1.15, `ideology_ethno_nationalist`"
+description: "Идеология «Этнонационализм (ideology_ethno_nationalist)» — ваниль 1.15.2, `ideology_ethno_nationalist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Этнонационализм (ideology_ethno_nationalist)
 
-Идеология · `ideology_ethno_nationalist` · `common/ideologies/01_character_ideologies.txt:6296`
+Идеология · `ideology_ethno_nationalist` · `common/ideologies/01_character_ideologies.txt:6299`
 
 ## Поля
 
@@ -33,6 +33,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - `has_technology_researched` = [[vanilla/Технологии/Паннационализм|Паннационализм]]
 - **interest_group_leader_trigger**:
   - `ideology_ethno_nationalist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 6324–6336
-- **interest_group_leader_weight**: скрипт, строки 6338–6463
-- **non_interest_group_leader_weight**: скрипт, строки 6465–6569
+- **non_interest_group_leader_trigger**: скрипт, строки 6327–6339
+- **interest_group_leader_weight**: скрипт, строки 6341–6466
+- **non_interest_group_leader_weight**: скрипт, строки 6468–6572

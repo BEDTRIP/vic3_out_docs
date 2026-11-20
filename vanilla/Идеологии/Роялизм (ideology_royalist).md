@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Роялизм (ideology_royalist)» — ваниль 1.15, `ideology_royalist`"
+description: "Идеология «Роялизм (ideology_royalist)» — ваниль 1.15.2, `ideology_royalist`"
 project: vic3
 audience: agent
 source: vanilla

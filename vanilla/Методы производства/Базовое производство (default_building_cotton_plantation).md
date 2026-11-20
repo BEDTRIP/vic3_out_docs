@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Базовое производство (default_building_cotton_plantation)» — ваниль 1.15, `default_building_cotton_plantation`"
+description: "Метод производства «Базовое производство (default_building_cotton_plantation)» — ваниль 1.15.2, `default_building_cotton_plantation`"
 project: vic3
 audience: agent
 source: vanilla

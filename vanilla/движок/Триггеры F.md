@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры F — 8, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры F — 8, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры F
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **fixed_expenses** — Does the country have this amount of weekly fixed expenses Reads gamestate for all scopes. · `fixed_expenses > 1000 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-fixed-expenses
 - **fixed_income** — Does the country have this amount of weekly fixed income Reads gamestate for all scopes. · `fixed_income > 1000 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-fixed-income

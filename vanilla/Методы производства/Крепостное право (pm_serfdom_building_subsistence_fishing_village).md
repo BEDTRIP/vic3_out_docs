@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_fishing_village)» — ваниль 1.15, `pm_serfdom_building_subsistence_fishing_village`"
+description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_fishing_village)» — ваниль 1.15.2, `pm_serfdom_building_subsistence_fishing_village`"
 project: vic3
 audience: agent
 source: vanilla

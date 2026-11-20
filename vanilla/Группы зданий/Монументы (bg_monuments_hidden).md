@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа зданий «Монументы (bg_monuments_hidden)» — ваниль 1.15, `bg_monuments_hidden`"
+description: "Группа зданий «Монументы (bg_monuments_hidden)» — ваниль 1.15.2, `bg_monuments_hidden`"
 project: vic3
 audience: agent
 source: vanilla

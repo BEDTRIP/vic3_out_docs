@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Царизм (ideology_tsarist)» — ваниль 1.15, `ideology_tsarist`"
+description: "Идеология «Царизм (ideology_tsarist)» — ваниль 1.15.2, `ideology_tsarist`"
 project: vic3
 audience: agent
 source: vanilla

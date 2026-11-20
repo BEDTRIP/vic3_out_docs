@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Государственный социализм (ideology_state_socialist)» — ваниль 1.15, `ideology_state_socialist`"
+description: "Идеология «Государственный социализм (ideology_state_socialist)» — ваниль 1.15.2, `ideology_state_socialist`"
 project: vic3
 audience: agent
 source: vanilla

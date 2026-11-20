@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Нет эффекта (pm_monument_no_effects)» — ваниль 1.15, `pm_monument_no_effects`"
+description: "Метод производства «Нет эффекта (pm_monument_no_effects)» — ваниль 1.15.2, `pm_monument_no_effects`"
 project: vic3
 audience: agent
 source: vanilla

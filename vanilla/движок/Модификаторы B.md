@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы B — 4391, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы B — 4084, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Модификаторы B
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **battle_casualties_mult** — к понесённым потерям · Бонус или штраф к потерям, которые эта сторона несёт в сражении · mask: battle ^m-battle-casualties-mult
 - **battle_combat_width_mult** — Масштаб сражения на типе местности · Бонус или штраф к масштабу сражения на типе местности для этой стороны сражения · mask: battle ^m-battle-combat-width-mult
@@ -43,7 +43,6 @@ generated: "v3 graph engine"
 - **building_artillery_foundry_throughput_add** — Товарооборот артиллерийских заводов · Бонус или штраф к потреблению и производству на артиллерийских заводах. · mask: building ^m-building-artillery-foundry-throughput-add
 - **building_automotive_industry_throughput_add** — Товарооборот автомобильной промышленности · Бонус или штраф к потреблению и производству на автомобильных заводах. · mask: building ^m-building-automotive-industry-throughput-add
 - **building_banana_plantation_throughput_add** — mask: building ^m-building-banana-plantation-throughput-add
-- **building_bank_throughput_add** — mask: building ^m-building-bank-throughput-add
 - **building_barrack_throughput_add** — Товарооборот казарм · Бонус или штраф к потреблению и производству в казармах. · mask: building ^m-building-barrack-throughput-add
 - **building_big_ben_throughput_add** — mask: building ^m-building-big-ben-throughput-add
 - **building_bureaucrats_fertility_mult** — mask: building ^m-building-bureaucrats-fertility-mult
@@ -60,6 +59,7 @@ generated: "v3 graph engine"
 - **building_capitalists_standard_of_living_add** — Уровень жизни для capitalists! капиталистов · Бонус или штраф к уровню жизни для занятых на работе capitalists! капиталистов. · mask: building ^m-building-capitalists-standard-of-living-add
 - **building_capitol_hill_throughput_add** — mask: building ^m-building-capitol-hill-throughput-add
 - **building_cash_reserves_mult** — к максимальному финансовому резерву · Бонус или штраф к максимальному финансовому резерву сооружения. · mask: building ^m-building-cash-reserves-mult
+- **building_cathedral_of_christ_the_savior_throughput_add** — mask: building ^m-building-cathedral-of-christ-the-savior-throughput-add
 - **building_central_park_throughput_add** — mask: building ^m-building-central-park-throughput-add
 - **building_chemical_plant_throughput_add** — Товарооборот химических заводов · Бонус или штраф к потреблению и производству химических заводов. · mask: building ^m-building-chemical-plant-throughput-add
 - **building_chichen_itza_throughput_add** — mask: building ^m-building-chichen-itza-throughput-add
@@ -82,8 +82,9 @@ generated: "v3 graph engine"
 - **building_company_regional_headquarter_throughput_add** — mask: building ^m-building-company-regional-headquarter-throughput-add
 - **building_company_worker_dividends_add** — Дивиденды работникам компании · Увеличение или уменьшение объёма дивидендов, выплачиваемых работникам за уровни сооружений, находящиеся в собственности компаний. · mask: building ^m-building-company-worker-dividends-add
 - **building_conscription_center_throughput_add** — mask: building ^m-building-conscription-center-throughput-add
-- **building_construction_regulator_throughput_add** — Товарооборот Регулятора строительства · Бонус или штраф как к вводу, так и к выводу Регуляторов строительства · mask: building ^m-building-construction-regulator-throughput-add
 - **building_construction_sector_throughput_add** — Товарооборот строительного сектора · Бонус или штраф к потреблению и производству строительного сектора. · mask: building ^m-building-construction-sector-throughput-add
+- **building_copper_mine_throughput_add** — Товарооборот медных рудников · Бонус или штраф к потреблению и производству медных рудников. · mask: building ^m-building-copper-mine-throughput-add
+- **building_cossack_host_throughput_add** — mask: building ^m-building-cossack-host-throughput-add
 - **building_cotton_plantation_throughput_add** — Товарооборот плантаций хлопка · Бонус или штраф к потреблению и производству на плантациях хлопка. · mask: building ^m-building-cotton-plantation-throughput-add
 - **building_cristo_redentor_throughput_add** — mask: building ^m-building-cristo-redentor-throughput-add
 - **building_dye_plantation_throughput_add** — Товарооборот плантаций красильных растений · Бонус или штраф к потреблению и производству на плантациях красильных растений. · mask: building ^m-building-dye-plantation-throughput-add
@@ -136,45 +137,6 @@ generated: "v3 graph engine"
 - **building_farmers_shares_add** — mask: building ^m-building-farmers-shares-add
 - **building_farmers_shares_mult** — mask: building ^m-building-farmers-shares-mult
 - **building_farmers_standard_of_living_add** — Уровень жизни для farmers! фермеров · Бонус или штраф к уровню жизни для занятых на работе farmers! фермеров. · mask: building ^m-building-farmers-standard-of-living-add
-- **building_financial_centre_arg_throughput_add** — mask: building ^m-building-financial-centre-arg-throughput-add
-- **building_financial_centre_aus_throughput_add** — mask: building ^m-building-financial-centre-aus-throughput-add
-- **building_financial_centre_bav_throughput_add** — mask: building ^m-building-financial-centre-bav-throughput-add
-- **building_financial_centre_bel_throughput_add** — mask: building ^m-building-financial-centre-bel-throughput-add
-- **building_financial_centre_bic_throughput_add** — mask: building ^m-building-financial-centre-bic-throughput-add
-- **building_financial_centre_brz_throughput_add** — mask: building ^m-building-financial-centre-brz-throughput-add
-- **building_financial_centre_chi_throughput_add** — mask: building ^m-building-financial-centre-chi-throughput-add
-- **building_financial_centre_chl_throughput_add** — mask: building ^m-building-financial-centre-chl-throughput-add
-- **building_financial_centre_dei_throughput_add** — mask: building ^m-building-financial-centre-dei-throughput-add
-- **building_financial_centre_den_throughput_add** — mask: building ^m-building-financial-centre-den-throughput-add
-- **building_financial_centre_egy_throughput_add** — mask: building ^m-building-financial-centre-egy-throughput-add
-- **building_financial_centre_fra_throughput_add** — mask: building ^m-building-financial-centre-fra-throughput-add
-- **building_financial_centre_frm_throughput_add** — mask: building ^m-building-financial-centre-frm-throughput-add
-- **building_financial_centre_gbr_throughput_add** — mask: building ^m-building-financial-centre-gbr-throughput-add
-- **building_financial_centre_gre_throughput_add** — mask: building ^m-building-financial-centre-gre-throughput-add
-- **building_financial_centre_han_throughput_add** — mask: building ^m-building-financial-centre-han-throughput-add
-- **building_financial_centre_ita_throughput_add** — mask: building ^m-building-financial-centre-ita-throughput-add
-- **building_financial_centre_jap_throughput_add** — mask: building ^m-building-financial-centre-jap-throughput-add
-- **building_financial_centre_mex_throughput_add** — mask: building ^m-building-financial-centre-mex-throughput-add
-- **building_financial_centre_net_throughput_add** — mask: building ^m-building-financial-centre-net-throughput-add
-- **building_financial_centre_nsw_throughput_add** — mask: building ^m-building-financial-centre-nsw-throughput-add
-- **building_financial_centre_ont_throughput_add** — mask: building ^m-building-financial-centre-ont-throughput-add
-- **building_financial_centre_peu_throughput_add** — mask: building ^m-building-financial-centre-peu-throughput-add
-- **building_financial_centre_por_throughput_add** — mask: building ^m-building-financial-centre-por-throughput-add
-- **building_financial_centre_pru_throughput_add** — mask: building ^m-building-financial-centre-pru-throughput-add
-- **building_financial_centre_que_throughput_add** — mask: building ^m-building-financial-centre-que-throughput-add
-- **building_financial_centre_rus_throughput_add** — mask: building ^m-building-financial-centre-rus-throughput-add
-- **building_financial_centre_saf_throughput_add** — mask: building ^m-building-financial-centre-saf-throughput-add
-- **building_financial_centre_sar_throughput_add** — mask: building ^m-building-financial-centre-sar-throughput-add
-- **building_financial_centre_sax_throughput_add** — mask: building ^m-building-financial-centre-sax-throughput-add
-- **building_financial_centre_sic_throughput_add** — mask: building ^m-building-financial-centre-sic-throughput-add
-- **building_financial_centre_spa_throughput_add** — mask: building ^m-building-financial-centre-spa-throughput-add
-- **building_financial_centre_swe_throughput_add** — mask: building ^m-building-financial-centre-swe-throughput-add
-- **building_financial_centre_swi_throughput_add** — mask: building ^m-building-financial-centre-swi-throughput-add
-- **building_financial_centre_throughput_add** — mask: building ^m-building-financial-centre-throughput-add
-- **building_financial_centre_tur_throughput_add** — mask: building ^m-building-financial-centre-tur-throughput-add
-- **building_financial_centre_tus_throughput_add** — mask: building ^m-building-financial-centre-tus-throughput-add
-- **building_financial_centre_uru_throughput_add** — mask: building ^m-building-financial-centre-uru-throughput-add
-- **building_financial_centre_usa_throughput_add** — mask: building ^m-building-financial-centre-usa-throughput-add
 - **building_financial_district_throughput_add** — mask: building ^m-building-financial-district-throughput-add
 - **building_fishing_wharf_throughput_add** — Товарооборот рыболовных верфей · Бонус или штраф к потреблению и производству рыболовных верфей. · mask: building ^m-building-fishing-wharf-throughput-add
 - **building_food_industry_throughput_add** — Товарооборот пищевой промышленности · Бонус или штраф к потреблению и производству пищевой промышленности. · mask: building ^m-building-food-industry-throughput-add
@@ -187,6 +149,7 @@ generated: "v3 graph engine"
 - **building_goods_input_mult** — Потребление товара · Изменение количества товаров, потребляемых сооружением. · mask: building ^m-building-goods-input-mult
 - **building_government_administration_throughput_add** — Товарооборот правительственного ведомства · Бонус или штраф к потреблению и производству в правительственных ведомствах. · mask: building ^m-building-government-administration-throughput-add
 - **building_gran_teatro_de_la_habana_throughput_add** — mask: building ^m-building-gran-teatro-de-la-habana-throughput-add
+- **building_grand_kremlin_palace_throughput_add** — mask: building ^m-building-grand-kremlin-palace-throughput-add
 - **building_group_bg_agriculture_academics_fertility_mult** — mask: building ^m-building-group-bg-agriculture-academics-fertility-mult
 - **building_group_bg_agriculture_academics_mortality_mult** — mask: building ^m-building-group-bg-agriculture-academics-mortality-mult
 - **building_group_bg_agriculture_academics_standard_of_living_add** — mask: building ^m-building-group-bg-agriculture-academics-standard-of-living-add
@@ -460,60 +423,6 @@ generated: "v3 graph engine"
 - **building_group_bg_banana_plantations_tax_mult** — mask: building ^m-building-group-bg-banana-plantations-tax-mult
 - **building_group_bg_banana_plantations_throughput_add** — mask: building ^m-building-group-bg-banana-plantations-throughput-add
 - **building_group_bg_banana_plantations_unincorporated_throughput_add** — mask: building ^m-building-group-bg-banana-plantations-unincorporated-throughput-add
-- **building_group_bg_bank_academics_fertility_mult** — mask: building ^m-building-group-bg-bank-academics-fertility-mult
-- **building_group_bg_bank_academics_mortality_mult** — mask: building ^m-building-group-bg-bank-academics-mortality-mult
-- **building_group_bg_bank_academics_standard_of_living_add** — mask: building ^m-building-group-bg-bank-academics-standard-of-living-add
-- **building_group_bg_bank_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-bank-aristocrats-fertility-mult
-- **building_group_bg_bank_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-bank-aristocrats-mortality-mult
-- **building_group_bg_bank_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-bank-aristocrats-standard-of-living-add
-- **building_group_bg_bank_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-bank-bureaucrats-fertility-mult
-- **building_group_bg_bank_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-bank-bureaucrats-mortality-mult
-- **building_group_bg_bank_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-bank-bureaucrats-standard-of-living-add
-- **building_group_bg_bank_capitalists_fertility_mult** — mask: building ^m-building-group-bg-bank-capitalists-fertility-mult
-- **building_group_bg_bank_capitalists_mortality_mult** — mask: building ^m-building-group-bg-bank-capitalists-mortality-mult
-- **building_group_bg_bank_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-bank-capitalists-standard-of-living-add
-- **building_group_bg_bank_clergymen_fertility_mult** — mask: building ^m-building-group-bg-bank-clergymen-fertility-mult
-- **building_group_bg_bank_clergymen_mortality_mult** — mask: building ^m-building-group-bg-bank-clergymen-mortality-mult
-- **building_group_bg_bank_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-bank-clergymen-standard-of-living-add
-- **building_group_bg_bank_clerks_fertility_mult** — mask: building ^m-building-group-bg-bank-clerks-fertility-mult
-- **building_group_bg_bank_clerks_mortality_mult** — mask: building ^m-building-group-bg-bank-clerks-mortality-mult
-- **building_group_bg_bank_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-bank-clerks-standard-of-living-add
-- **building_group_bg_bank_employee_mult** — mask: building ^m-building-group-bg-bank-employee-mult
-- **building_group_bg_bank_engineers_fertility_mult** — mask: building ^m-building-group-bg-bank-engineers-fertility-mult
-- **building_group_bg_bank_engineers_mortality_mult** — mask: building ^m-building-group-bg-bank-engineers-mortality-mult
-- **building_group_bg_bank_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-bank-engineers-standard-of-living-add
-- **building_group_bg_bank_farmers_fertility_mult** — mask: building ^m-building-group-bg-bank-farmers-fertility-mult
-- **building_group_bg_bank_farmers_mortality_mult** — mask: building ^m-building-group-bg-bank-farmers-mortality-mult
-- **building_group_bg_bank_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-bank-farmers-standard-of-living-add
-- **building_group_bg_bank_fertility_mult** — mask: building ^m-building-group-bg-bank-fertility-mult
-- **building_group_bg_bank_infrastructure_usage_mult** — mask: building ^m-building-group-bg-bank-infrastructure-usage-mult
-- **building_group_bg_bank_laborers_fertility_mult** — mask: building ^m-building-group-bg-bank-laborers-fertility-mult
-- **building_group_bg_bank_laborers_mortality_mult** — mask: building ^m-building-group-bg-bank-laborers-mortality-mult
-- **building_group_bg_bank_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-bank-laborers-standard-of-living-add
-- **building_group_bg_bank_machinists_fertility_mult** — mask: building ^m-building-group-bg-bank-machinists-fertility-mult
-- **building_group_bg_bank_machinists_mortality_mult** — mask: building ^m-building-group-bg-bank-machinists-mortality-mult
-- **building_group_bg_bank_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-bank-machinists-standard-of-living-add
-- **building_group_bg_bank_mortality_mult** — mask: building ^m-building-group-bg-bank-mortality-mult
-- **building_group_bg_bank_officers_fertility_mult** — mask: building ^m-building-group-bg-bank-officers-fertility-mult
-- **building_group_bg_bank_officers_mortality_mult** — mask: building ^m-building-group-bg-bank-officers-mortality-mult
-- **building_group_bg_bank_officers_standard_of_living_add** — mask: building ^m-building-group-bg-bank-officers-standard-of-living-add
-- **building_group_bg_bank_peasants_fertility_mult** — mask: building ^m-building-group-bg-bank-peasants-fertility-mult
-- **building_group_bg_bank_peasants_mortality_mult** — mask: building ^m-building-group-bg-bank-peasants-mortality-mult
-- **building_group_bg_bank_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-bank-peasants-standard-of-living-add
-- **building_group_bg_bank_self_investment_chance_add** — mask: building ^m-building-group-bg-bank-self-investment-chance-add
-- **building_group_bg_bank_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-bank-shopkeepers-fertility-mult
-- **building_group_bg_bank_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-bank-shopkeepers-mortality-mult
-- **building_group_bg_bank_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-bank-shopkeepers-standard-of-living-add
-- **building_group_bg_bank_slaves_fertility_mult** — mask: building ^m-building-group-bg-bank-slaves-fertility-mult
-- **building_group_bg_bank_slaves_mortality_mult** — mask: building ^m-building-group-bg-bank-slaves-mortality-mult
-- **building_group_bg_bank_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-bank-slaves-standard-of-living-add
-- **building_group_bg_bank_soldiers_fertility_mult** — mask: building ^m-building-group-bg-bank-soldiers-fertility-mult
-- **building_group_bg_bank_soldiers_mortality_mult** — mask: building ^m-building-group-bg-bank-soldiers-mortality-mult
-- **building_group_bg_bank_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-bank-soldiers-standard-of-living-add
-- **building_group_bg_bank_standard_of_living_add** — mask: building ^m-building-group-bg-bank-standard-of-living-add
-- **building_group_bg_bank_tax_mult** — mask: building ^m-building-group-bg-bank-tax-mult
-- **building_group_bg_bank_throughput_add** — mask: building ^m-building-group-bg-bank-throughput-add
-- **building_group_bg_bank_unincorporated_throughput_add** — mask: building ^m-building-group-bg-bank-unincorporated-throughput-add
 - **building_group_bg_bureaucracy_academics_fertility_mult** — mask: building ^m-building-group-bg-bureaucracy-academics-fertility-mult
 - **building_group_bg_bureaucracy_academics_mortality_mult** — mask: building ^m-building-group-bg-bureaucracy-academics-mortality-mult
 - **building_group_bg_bureaucracy_academics_standard_of_living_add** — mask: building ^m-building-group-bg-bureaucracy-academics-standard-of-living-add
@@ -923,7 +832,7 @@ generated: "v3 graph engine"
 - **building_group_bg_construction_laborers_mortality_mult** — к смертности среди laborers! рабочих, занятых в строительстве. · Повышение или снижение параметра к смертности среди laborers! рабочих, занятых в строительстве. · mask: building ^m-building-group-bg-construction-laborers-mortality-mult
 - **building_group_bg_construction_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-laborers-standard-of-living-add
 - **building_group_bg_construction_machinists_fertility_mult** — mask: building ^m-building-group-bg-construction-machinists-fertility-mult
-- **building_group_bg_construction_machinists_mortality_mult** — mask: building ^m-building-group-bg-construction-machinists-mortality-mult
+- **building_group_bg_construction_machinists_mortality_mult** — к смертности среди machinists! механиков, занятых в строительстве. · Повышение или снижение к смертности среди machinists! механиков, занятых в строительстве. · mask: building ^m-building-group-bg-construction-machinists-mortality-mult
 - **building_group_bg_construction_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-construction-machinists-standard-of-living-add
 - **building_group_bg_construction_mortality_mult** — mask: building ^m-building-group-bg-construction-mortality-mult
 - **building_group_bg_construction_officers_fertility_mult** — mask: building ^m-building-group-bg-construction-officers-fertility-mult
@@ -932,60 +841,6 @@ generated: "v3 graph engine"
 - **building_group_bg_construction_peasants_fertility_mult** — mask: building ^m-building-group-bg-construction-peasants-fertility-mult
 - **building_group_bg_construction_peasants_mortality_mult** — mask: building ^m-building-group-bg-construction-peasants-mortality-mult
 - **building_group_bg_construction_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-construction-peasants-standard-of-living-add
-- **building_group_bg_construction_regulator_academics_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-academics-fertility-mult
-- **building_group_bg_construction_regulator_academics_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-academics-mortality-mult
-- **building_group_bg_construction_regulator_academics_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-academics-standard-of-living-add
-- **building_group_bg_construction_regulator_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-aristocrats-fertility-mult
-- **building_group_bg_construction_regulator_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-aristocrats-mortality-mult
-- **building_group_bg_construction_regulator_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-aristocrats-standard-of-living-add
-- **building_group_bg_construction_regulator_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-bureaucrats-fertility-mult
-- **building_group_bg_construction_regulator_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-bureaucrats-mortality-mult
-- **building_group_bg_construction_regulator_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-bureaucrats-standard-of-living-add
-- **building_group_bg_construction_regulator_capitalists_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-capitalists-fertility-mult
-- **building_group_bg_construction_regulator_capitalists_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-capitalists-mortality-mult
-- **building_group_bg_construction_regulator_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-capitalists-standard-of-living-add
-- **building_group_bg_construction_regulator_clergymen_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-clergymen-fertility-mult
-- **building_group_bg_construction_regulator_clergymen_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-clergymen-mortality-mult
-- **building_group_bg_construction_regulator_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-clergymen-standard-of-living-add
-- **building_group_bg_construction_regulator_clerks_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-clerks-fertility-mult
-- **building_group_bg_construction_regulator_clerks_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-clerks-mortality-mult
-- **building_group_bg_construction_regulator_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-clerks-standard-of-living-add
-- **building_group_bg_construction_regulator_employee_mult** — mask: building ^m-building-group-bg-construction-regulator-employee-mult
-- **building_group_bg_construction_regulator_engineers_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-engineers-fertility-mult
-- **building_group_bg_construction_regulator_engineers_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-engineers-mortality-mult
-- **building_group_bg_construction_regulator_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-engineers-standard-of-living-add
-- **building_group_bg_construction_regulator_farmers_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-farmers-fertility-mult
-- **building_group_bg_construction_regulator_farmers_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-farmers-mortality-mult
-- **building_group_bg_construction_regulator_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-farmers-standard-of-living-add
-- **building_group_bg_construction_regulator_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-fertility-mult
-- **building_group_bg_construction_regulator_infrastructure_usage_mult** — mask: building ^m-building-group-bg-construction-regulator-infrastructure-usage-mult
-- **building_group_bg_construction_regulator_laborers_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-laborers-fertility-mult
-- **building_group_bg_construction_regulator_laborers_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-laborers-mortality-mult
-- **building_group_bg_construction_regulator_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-laborers-standard-of-living-add
-- **building_group_bg_construction_regulator_machinists_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-machinists-fertility-mult
-- **building_group_bg_construction_regulator_machinists_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-machinists-mortality-mult
-- **building_group_bg_construction_regulator_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-machinists-standard-of-living-add
-- **building_group_bg_construction_regulator_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-mortality-mult
-- **building_group_bg_construction_regulator_officers_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-officers-fertility-mult
-- **building_group_bg_construction_regulator_officers_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-officers-mortality-mult
-- **building_group_bg_construction_regulator_officers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-officers-standard-of-living-add
-- **building_group_bg_construction_regulator_peasants_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-peasants-fertility-mult
-- **building_group_bg_construction_regulator_peasants_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-peasants-mortality-mult
-- **building_group_bg_construction_regulator_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-peasants-standard-of-living-add
-- **building_group_bg_construction_regulator_self_investment_chance_add** — mask: building ^m-building-group-bg-construction-regulator-self-investment-chance-add
-- **building_group_bg_construction_regulator_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-shopkeepers-fertility-mult
-- **building_group_bg_construction_regulator_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-shopkeepers-mortality-mult
-- **building_group_bg_construction_regulator_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-shopkeepers-standard-of-living-add
-- **building_group_bg_construction_regulator_slaves_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-slaves-fertility-mult
-- **building_group_bg_construction_regulator_slaves_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-slaves-mortality-mult
-- **building_group_bg_construction_regulator_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-slaves-standard-of-living-add
-- **building_group_bg_construction_regulator_soldiers_fertility_mult** — mask: building ^m-building-group-bg-construction-regulator-soldiers-fertility-mult
-- **building_group_bg_construction_regulator_soldiers_mortality_mult** — mask: building ^m-building-group-bg-construction-regulator-soldiers-mortality-mult
-- **building_group_bg_construction_regulator_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-soldiers-standard-of-living-add
-- **building_group_bg_construction_regulator_standard_of_living_add** — mask: building ^m-building-group-bg-construction-regulator-standard-of-living-add
-- **building_group_bg_construction_regulator_tax_mult** — mask: building ^m-building-group-bg-construction-regulator-tax-mult
-- **building_group_bg_construction_regulator_throughput_add** — mask: building ^m-building-group-bg-construction-regulator-throughput-add
-- **building_group_bg_construction_regulator_unincorporated_throughput_add** — mask: building ^m-building-group-bg-construction-regulator-unincorporated-throughput-add
 - **building_group_bg_construction_self_investment_chance_add** — mask: building ^m-building-group-bg-construction-self-investment-chance-add
 - **building_group_bg_construction_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-construction-shopkeepers-fertility-mult
 - **building_group_bg_construction_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-construction-shopkeepers-mortality-mult
@@ -1000,6 +855,60 @@ generated: "v3 graph engine"
 - **building_group_bg_construction_tax_mult** — mask: building ^m-building-group-bg-construction-tax-mult
 - **building_group_bg_construction_throughput_add** — mask: building ^m-building-group-bg-construction-throughput-add
 - **building_group_bg_construction_unincorporated_throughput_add** — mask: building ^m-building-group-bg-construction-unincorporated-throughput-add
+- **building_group_bg_cossack_host_academics_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-academics-fertility-mult
+- **building_group_bg_cossack_host_academics_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-academics-mortality-mult
+- **building_group_bg_cossack_host_academics_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-academics-standard-of-living-add
+- **building_group_bg_cossack_host_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-aristocrats-fertility-mult
+- **building_group_bg_cossack_host_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-aristocrats-mortality-mult
+- **building_group_bg_cossack_host_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-aristocrats-standard-of-living-add
+- **building_group_bg_cossack_host_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-bureaucrats-fertility-mult
+- **building_group_bg_cossack_host_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-bureaucrats-mortality-mult
+- **building_group_bg_cossack_host_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-bureaucrats-standard-of-living-add
+- **building_group_bg_cossack_host_capitalists_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-capitalists-fertility-mult
+- **building_group_bg_cossack_host_capitalists_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-capitalists-mortality-mult
+- **building_group_bg_cossack_host_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-capitalists-standard-of-living-add
+- **building_group_bg_cossack_host_clergymen_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-clergymen-fertility-mult
+- **building_group_bg_cossack_host_clergymen_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-clergymen-mortality-mult
+- **building_group_bg_cossack_host_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-clergymen-standard-of-living-add
+- **building_group_bg_cossack_host_clerks_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-clerks-fertility-mult
+- **building_group_bg_cossack_host_clerks_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-clerks-mortality-mult
+- **building_group_bg_cossack_host_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-clerks-standard-of-living-add
+- **building_group_bg_cossack_host_employee_mult** — mask: building ^m-building-group-bg-cossack-host-employee-mult
+- **building_group_bg_cossack_host_engineers_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-engineers-fertility-mult
+- **building_group_bg_cossack_host_engineers_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-engineers-mortality-mult
+- **building_group_bg_cossack_host_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-engineers-standard-of-living-add
+- **building_group_bg_cossack_host_farmers_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-farmers-fertility-mult
+- **building_group_bg_cossack_host_farmers_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-farmers-mortality-mult
+- **building_group_bg_cossack_host_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-farmers-standard-of-living-add
+- **building_group_bg_cossack_host_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-fertility-mult
+- **building_group_bg_cossack_host_infrastructure_usage_mult** — mask: building ^m-building-group-bg-cossack-host-infrastructure-usage-mult
+- **building_group_bg_cossack_host_laborers_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-laborers-fertility-mult
+- **building_group_bg_cossack_host_laborers_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-laborers-mortality-mult
+- **building_group_bg_cossack_host_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-laborers-standard-of-living-add
+- **building_group_bg_cossack_host_machinists_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-machinists-fertility-mult
+- **building_group_bg_cossack_host_machinists_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-machinists-mortality-mult
+- **building_group_bg_cossack_host_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-machinists-standard-of-living-add
+- **building_group_bg_cossack_host_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-mortality-mult
+- **building_group_bg_cossack_host_officers_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-officers-fertility-mult
+- **building_group_bg_cossack_host_officers_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-officers-mortality-mult
+- **building_group_bg_cossack_host_officers_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-officers-standard-of-living-add
+- **building_group_bg_cossack_host_peasants_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-peasants-fertility-mult
+- **building_group_bg_cossack_host_peasants_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-peasants-mortality-mult
+- **building_group_bg_cossack_host_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-peasants-standard-of-living-add
+- **building_group_bg_cossack_host_self_investment_chance_add** — mask: building ^m-building-group-bg-cossack-host-self-investment-chance-add
+- **building_group_bg_cossack_host_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-shopkeepers-fertility-mult
+- **building_group_bg_cossack_host_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-shopkeepers-mortality-mult
+- **building_group_bg_cossack_host_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-shopkeepers-standard-of-living-add
+- **building_group_bg_cossack_host_slaves_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-slaves-fertility-mult
+- **building_group_bg_cossack_host_slaves_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-slaves-mortality-mult
+- **building_group_bg_cossack_host_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-slaves-standard-of-living-add
+- **building_group_bg_cossack_host_soldiers_fertility_mult** — mask: building ^m-building-group-bg-cossack-host-soldiers-fertility-mult
+- **building_group_bg_cossack_host_soldiers_mortality_mult** — mask: building ^m-building-group-bg-cossack-host-soldiers-mortality-mult
+- **building_group_bg_cossack_host_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-soldiers-standard-of-living-add
+- **building_group_bg_cossack_host_standard_of_living_add** — mask: building ^m-building-group-bg-cossack-host-standard-of-living-add
+- **building_group_bg_cossack_host_tax_mult** — mask: building ^m-building-group-bg-cossack-host-tax-mult
+- **building_group_bg_cossack_host_throughput_add** — mask: building ^m-building-group-bg-cossack-host-throughput-add
+- **building_group_bg_cossack_host_unincorporated_throughput_add** — mask: building ^m-building-group-bg-cossack-host-unincorporated-throughput-add
 - **building_group_bg_cotton_plantations_academics_fertility_mult** — mask: building ^m-building-group-bg-cotton-plantations-academics-fertility-mult
 - **building_group_bg_cotton_plantations_academics_mortality_mult** — mask: building ^m-building-group-bg-cotton-plantations-academics-mortality-mult
 - **building_group_bg_cotton_plantations_academics_standard_of_living_add** — mask: building ^m-building-group-bg-cotton-plantations-academics-standard-of-living-add
@@ -1108,60 +1017,6 @@ generated: "v3 graph engine"
 - **building_group_bg_dye_plantations_tax_mult** — mask: building ^m-building-group-bg-dye-plantations-tax-mult
 - **building_group_bg_dye_plantations_throughput_add** — mask: building ^m-building-group-bg-dye-plantations-throughput-add
 - **building_group_bg_dye_plantations_unincorporated_throughput_add** — mask: building ^m-building-group-bg-dye-plantations-unincorporated-throughput-add
-- **building_group_bg_ef_private_construction_academics_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-academics-fertility-mult
-- **building_group_bg_ef_private_construction_academics_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-academics-mortality-mult
-- **building_group_bg_ef_private_construction_academics_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-academics-standard-of-living-add
-- **building_group_bg_ef_private_construction_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-aristocrats-fertility-mult
-- **building_group_bg_ef_private_construction_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-aristocrats-mortality-mult
-- **building_group_bg_ef_private_construction_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-aristocrats-standard-of-living-add
-- **building_group_bg_ef_private_construction_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-bureaucrats-fertility-mult
-- **building_group_bg_ef_private_construction_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-bureaucrats-mortality-mult
-- **building_group_bg_ef_private_construction_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-bureaucrats-standard-of-living-add
-- **building_group_bg_ef_private_construction_capitalists_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-capitalists-fertility-mult
-- **building_group_bg_ef_private_construction_capitalists_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-capitalists-mortality-mult
-- **building_group_bg_ef_private_construction_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-capitalists-standard-of-living-add
-- **building_group_bg_ef_private_construction_clergymen_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-clergymen-fertility-mult
-- **building_group_bg_ef_private_construction_clergymen_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-clergymen-mortality-mult
-- **building_group_bg_ef_private_construction_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-clergymen-standard-of-living-add
-- **building_group_bg_ef_private_construction_clerks_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-clerks-fertility-mult
-- **building_group_bg_ef_private_construction_clerks_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-clerks-mortality-mult
-- **building_group_bg_ef_private_construction_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-clerks-standard-of-living-add
-- **building_group_bg_ef_private_construction_employee_mult** — mask: building ^m-building-group-bg-ef-private-construction-employee-mult
-- **building_group_bg_ef_private_construction_engineers_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-engineers-fertility-mult
-- **building_group_bg_ef_private_construction_engineers_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-engineers-mortality-mult
-- **building_group_bg_ef_private_construction_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-engineers-standard-of-living-add
-- **building_group_bg_ef_private_construction_farmers_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-farmers-fertility-mult
-- **building_group_bg_ef_private_construction_farmers_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-farmers-mortality-mult
-- **building_group_bg_ef_private_construction_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-farmers-standard-of-living-add
-- **building_group_bg_ef_private_construction_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-fertility-mult
-- **building_group_bg_ef_private_construction_infrastructure_usage_mult** — mask: building ^m-building-group-bg-ef-private-construction-infrastructure-usage-mult
-- **building_group_bg_ef_private_construction_laborers_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-laborers-fertility-mult
-- **building_group_bg_ef_private_construction_laborers_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-laborers-mortality-mult
-- **building_group_bg_ef_private_construction_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-laborers-standard-of-living-add
-- **building_group_bg_ef_private_construction_machinists_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-machinists-fertility-mult
-- **building_group_bg_ef_private_construction_machinists_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-machinists-mortality-mult
-- **building_group_bg_ef_private_construction_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-machinists-standard-of-living-add
-- **building_group_bg_ef_private_construction_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-mortality-mult
-- **building_group_bg_ef_private_construction_officers_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-officers-fertility-mult
-- **building_group_bg_ef_private_construction_officers_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-officers-mortality-mult
-- **building_group_bg_ef_private_construction_officers_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-officers-standard-of-living-add
-- **building_group_bg_ef_private_construction_peasants_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-peasants-fertility-mult
-- **building_group_bg_ef_private_construction_peasants_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-peasants-mortality-mult
-- **building_group_bg_ef_private_construction_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-peasants-standard-of-living-add
-- **building_group_bg_ef_private_construction_self_investment_chance_add** — mask: building ^m-building-group-bg-ef-private-construction-self-investment-chance-add
-- **building_group_bg_ef_private_construction_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-shopkeepers-fertility-mult
-- **building_group_bg_ef_private_construction_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-shopkeepers-mortality-mult
-- **building_group_bg_ef_private_construction_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-shopkeepers-standard-of-living-add
-- **building_group_bg_ef_private_construction_slaves_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-slaves-fertility-mult
-- **building_group_bg_ef_private_construction_slaves_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-slaves-mortality-mult
-- **building_group_bg_ef_private_construction_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-slaves-standard-of-living-add
-- **building_group_bg_ef_private_construction_soldiers_fertility_mult** — mask: building ^m-building-group-bg-ef-private-construction-soldiers-fertility-mult
-- **building_group_bg_ef_private_construction_soldiers_mortality_mult** — mask: building ^m-building-group-bg-ef-private-construction-soldiers-mortality-mult
-- **building_group_bg_ef_private_construction_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-soldiers-standard-of-living-add
-- **building_group_bg_ef_private_construction_standard_of_living_add** — mask: building ^m-building-group-bg-ef-private-construction-standard-of-living-add
-- **building_group_bg_ef_private_construction_tax_mult** — mask: building ^m-building-group-bg-ef-private-construction-tax-mult
-- **building_group_bg_ef_private_construction_throughput_add** — mask: building ^m-building-group-bg-ef-private-construction-throughput-add
-- **building_group_bg_ef_private_construction_unincorporated_throughput_add** — mask: building ^m-building-group-bg-ef-private-construction-unincorporated-throughput-add
 - **building_group_bg_extraction_academics_fertility_mult** — mask: building ^m-building-group-bg-extraction-academics-fertility-mult
 - **building_group_bg_extraction_academics_mortality_mult** — mask: building ^m-building-group-bg-extraction-academics-mortality-mult
 - **building_group_bg_extraction_academics_standard_of_living_add** — mask: building ^m-building-group-bg-extraction-academics-standard-of-living-add
@@ -1218,60 +1073,6 @@ generated: "v3 graph engine"
 - **building_group_bg_extraction_tax_mult** — mask: building ^m-building-group-bg-extraction-tax-mult
 - **building_group_bg_extraction_throughput_add** — Товарооборот добывающих предприятий · Бонус или штраф к потреблению и производству на добывающих предприятиях. · mask: building ^m-building-group-bg-extraction-throughput-add
 - **building_group_bg_extraction_unincorporated_throughput_add** — mask: building ^m-building-group-bg-extraction-unincorporated-throughput-add
-- **building_group_bg_financial_centre_academics_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-academics-fertility-mult
-- **building_group_bg_financial_centre_academics_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-academics-mortality-mult
-- **building_group_bg_financial_centre_academics_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-academics-standard-of-living-add
-- **building_group_bg_financial_centre_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-aristocrats-fertility-mult
-- **building_group_bg_financial_centre_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-aristocrats-mortality-mult
-- **building_group_bg_financial_centre_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-aristocrats-standard-of-living-add
-- **building_group_bg_financial_centre_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-bureaucrats-fertility-mult
-- **building_group_bg_financial_centre_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-bureaucrats-mortality-mult
-- **building_group_bg_financial_centre_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-bureaucrats-standard-of-living-add
-- **building_group_bg_financial_centre_capitalists_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-capitalists-fertility-mult
-- **building_group_bg_financial_centre_capitalists_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-capitalists-mortality-mult
-- **building_group_bg_financial_centre_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-capitalists-standard-of-living-add
-- **building_group_bg_financial_centre_clergymen_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-clergymen-fertility-mult
-- **building_group_bg_financial_centre_clergymen_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-clergymen-mortality-mult
-- **building_group_bg_financial_centre_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-clergymen-standard-of-living-add
-- **building_group_bg_financial_centre_clerks_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-clerks-fertility-mult
-- **building_group_bg_financial_centre_clerks_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-clerks-mortality-mult
-- **building_group_bg_financial_centre_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-clerks-standard-of-living-add
-- **building_group_bg_financial_centre_employee_mult** — mask: building ^m-building-group-bg-financial-centre-employee-mult
-- **building_group_bg_financial_centre_engineers_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-engineers-fertility-mult
-- **building_group_bg_financial_centre_engineers_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-engineers-mortality-mult
-- **building_group_bg_financial_centre_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-engineers-standard-of-living-add
-- **building_group_bg_financial_centre_farmers_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-farmers-fertility-mult
-- **building_group_bg_financial_centre_farmers_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-farmers-mortality-mult
-- **building_group_bg_financial_centre_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-farmers-standard-of-living-add
-- **building_group_bg_financial_centre_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-fertility-mult
-- **building_group_bg_financial_centre_infrastructure_usage_mult** — mask: building ^m-building-group-bg-financial-centre-infrastructure-usage-mult
-- **building_group_bg_financial_centre_laborers_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-laborers-fertility-mult
-- **building_group_bg_financial_centre_laborers_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-laborers-mortality-mult
-- **building_group_bg_financial_centre_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-laborers-standard-of-living-add
-- **building_group_bg_financial_centre_machinists_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-machinists-fertility-mult
-- **building_group_bg_financial_centre_machinists_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-machinists-mortality-mult
-- **building_group_bg_financial_centre_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-machinists-standard-of-living-add
-- **building_group_bg_financial_centre_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-mortality-mult
-- **building_group_bg_financial_centre_officers_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-officers-fertility-mult
-- **building_group_bg_financial_centre_officers_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-officers-mortality-mult
-- **building_group_bg_financial_centre_officers_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-officers-standard-of-living-add
-- **building_group_bg_financial_centre_peasants_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-peasants-fertility-mult
-- **building_group_bg_financial_centre_peasants_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-peasants-mortality-mult
-- **building_group_bg_financial_centre_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-peasants-standard-of-living-add
-- **building_group_bg_financial_centre_self_investment_chance_add** — mask: building ^m-building-group-bg-financial-centre-self-investment-chance-add
-- **building_group_bg_financial_centre_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-shopkeepers-fertility-mult
-- **building_group_bg_financial_centre_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-shopkeepers-mortality-mult
-- **building_group_bg_financial_centre_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-shopkeepers-standard-of-living-add
-- **building_group_bg_financial_centre_slaves_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-slaves-fertility-mult
-- **building_group_bg_financial_centre_slaves_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-slaves-mortality-mult
-- **building_group_bg_financial_centre_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-slaves-standard-of-living-add
-- **building_group_bg_financial_centre_soldiers_fertility_mult** — mask: building ^m-building-group-bg-financial-centre-soldiers-fertility-mult
-- **building_group_bg_financial_centre_soldiers_mortality_mult** — mask: building ^m-building-group-bg-financial-centre-soldiers-mortality-mult
-- **building_group_bg_financial_centre_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-soldiers-standard-of-living-add
-- **building_group_bg_financial_centre_standard_of_living_add** — mask: building ^m-building-group-bg-financial-centre-standard-of-living-add
-- **building_group_bg_financial_centre_tax_mult** — mask: building ^m-building-group-bg-financial-centre-tax-mult
-- **building_group_bg_financial_centre_throughput_add** — building_group_bg_financial_centre_throughput_add · building_group_bg_financial_centre_throughput_add_desc · mask: building ^m-building-group-bg-financial-centre-throughput-add
-- **building_group_bg_financial_centre_unincorporated_throughput_add** — mask: building ^m-building-group-bg-financial-centre-unincorporated-throughput-add
 - **building_group_bg_financial_districts_academics_fertility_mult** — mask: building ^m-building-group-bg-financial-districts-academics-fertility-mult
 - **building_group_bg_financial_districts_academics_mortality_mult** — mask: building ^m-building-group-bg-financial-districts-academics-mortality-mult
 - **building_group_bg_financial_districts_academics_standard_of_living_add** — mask: building ^m-building-group-bg-financial-districts-academics-standard-of-living-add
@@ -1900,7 +1701,7 @@ generated: "v3 graph engine"
 - **building_group_bg_logging_fertility_mult** — mask: building ^m-building-group-bg-logging-fertility-mult
 - **building_group_bg_logging_infrastructure_usage_mult** — mask: building ^m-building-group-bg-logging-infrastructure-usage-mult
 - **building_group_bg_logging_laborers_fertility_mult** — mask: building ^m-building-group-bg-logging-laborers-fertility-mult
-- **building_group_bg_logging_laborers_mortality_mult** — смертности среди laborers! рабочих лесозаготовительных сооружений · Повышение или снижение к смертности среди laborers! рабочих, занятых в строительстве. · mask: building ^m-building-group-bg-logging-laborers-mortality-mult
+- **building_group_bg_logging_laborers_mortality_mult** — смертности среди laborers! рабочих лесозаготовительных сооружений · Повышение или снижение смертности среди laborers! рабочих лесозаготовительных сооружений · mask: building ^m-building-group-bg-logging-laborers-mortality-mult
 - **building_group_bg_logging_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-logging-laborers-standard-of-living-add
 - **building_group_bg_logging_machinists_fertility_mult** — mask: building ^m-building-group-bg-logging-machinists-fertility-mult
 - **building_group_bg_logging_machinists_mortality_mult** — смертности среди machinists! механиков лесозаготовительных сооружений · Повышение или снижение смертности среди machinists! механиков лесозаготовительных сооружений · mask: building ^m-building-group-bg-logging-machinists-mortality-mult
@@ -3396,60 +3197,6 @@ generated: "v3 graph engine"
 - **building_group_bg_silk_plantations_tax_mult** — mask: building ^m-building-group-bg-silk-plantations-tax-mult
 - **building_group_bg_silk_plantations_throughput_add** — mask: building ^m-building-group-bg-silk-plantations-throughput-add
 - **building_group_bg_silk_plantations_unincorporated_throughput_add** — mask: building ^m-building-group-bg-silk-plantations-unincorporated-throughput-add
-- **building_group_bg_silver_mining_academics_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-academics-fertility-mult
-- **building_group_bg_silver_mining_academics_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-academics-mortality-mult
-- **building_group_bg_silver_mining_academics_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-academics-standard-of-living-add
-- **building_group_bg_silver_mining_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-aristocrats-fertility-mult
-- **building_group_bg_silver_mining_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-aristocrats-mortality-mult
-- **building_group_bg_silver_mining_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-aristocrats-standard-of-living-add
-- **building_group_bg_silver_mining_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-bureaucrats-fertility-mult
-- **building_group_bg_silver_mining_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-bureaucrats-mortality-mult
-- **building_group_bg_silver_mining_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-bureaucrats-standard-of-living-add
-- **building_group_bg_silver_mining_capitalists_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-capitalists-fertility-mult
-- **building_group_bg_silver_mining_capitalists_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-capitalists-mortality-mult
-- **building_group_bg_silver_mining_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-capitalists-standard-of-living-add
-- **building_group_bg_silver_mining_clergymen_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-clergymen-fertility-mult
-- **building_group_bg_silver_mining_clergymen_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-clergymen-mortality-mult
-- **building_group_bg_silver_mining_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-clergymen-standard-of-living-add
-- **building_group_bg_silver_mining_clerks_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-clerks-fertility-mult
-- **building_group_bg_silver_mining_clerks_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-clerks-mortality-mult
-- **building_group_bg_silver_mining_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-clerks-standard-of-living-add
-- **building_group_bg_silver_mining_employee_mult** — mask: building ^m-building-group-bg-silver-mining-employee-mult
-- **building_group_bg_silver_mining_engineers_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-engineers-fertility-mult
-- **building_group_bg_silver_mining_engineers_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-engineers-mortality-mult
-- **building_group_bg_silver_mining_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-engineers-standard-of-living-add
-- **building_group_bg_silver_mining_farmers_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-farmers-fertility-mult
-- **building_group_bg_silver_mining_farmers_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-farmers-mortality-mult
-- **building_group_bg_silver_mining_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-farmers-standard-of-living-add
-- **building_group_bg_silver_mining_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-fertility-mult
-- **building_group_bg_silver_mining_infrastructure_usage_mult** — mask: building ^m-building-group-bg-silver-mining-infrastructure-usage-mult
-- **building_group_bg_silver_mining_laborers_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-laborers-fertility-mult
-- **building_group_bg_silver_mining_laborers_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-laborers-mortality-mult
-- **building_group_bg_silver_mining_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-laborers-standard-of-living-add
-- **building_group_bg_silver_mining_machinists_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-machinists-fertility-mult
-- **building_group_bg_silver_mining_machinists_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-machinists-mortality-mult
-- **building_group_bg_silver_mining_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-machinists-standard-of-living-add
-- **building_group_bg_silver_mining_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-mortality-mult
-- **building_group_bg_silver_mining_officers_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-officers-fertility-mult
-- **building_group_bg_silver_mining_officers_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-officers-mortality-mult
-- **building_group_bg_silver_mining_officers_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-officers-standard-of-living-add
-- **building_group_bg_silver_mining_peasants_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-peasants-fertility-mult
-- **building_group_bg_silver_mining_peasants_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-peasants-mortality-mult
-- **building_group_bg_silver_mining_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-peasants-standard-of-living-add
-- **building_group_bg_silver_mining_self_investment_chance_add** — mask: building ^m-building-group-bg-silver-mining-self-investment-chance-add
-- **building_group_bg_silver_mining_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-shopkeepers-fertility-mult
-- **building_group_bg_silver_mining_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-shopkeepers-mortality-mult
-- **building_group_bg_silver_mining_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-shopkeepers-standard-of-living-add
-- **building_group_bg_silver_mining_slaves_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-slaves-fertility-mult
-- **building_group_bg_silver_mining_slaves_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-slaves-mortality-mult
-- **building_group_bg_silver_mining_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-slaves-standard-of-living-add
-- **building_group_bg_silver_mining_soldiers_fertility_mult** — mask: building ^m-building-group-bg-silver-mining-soldiers-fertility-mult
-- **building_group_bg_silver_mining_soldiers_mortality_mult** — mask: building ^m-building-group-bg-silver-mining-soldiers-mortality-mult
-- **building_group_bg_silver_mining_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-soldiers-standard-of-living-add
-- **building_group_bg_silver_mining_standard_of_living_add** — mask: building ^m-building-group-bg-silver-mining-standard-of-living-add
-- **building_group_bg_silver_mining_tax_mult** — mask: building ^m-building-group-bg-silver-mining-tax-mult
-- **building_group_bg_silver_mining_throughput_add** — mask: building ^m-building-group-bg-silver-mining-throughput-add
-- **building_group_bg_silver_mining_unincorporated_throughput_add** — mask: building ^m-building-group-bg-silver-mining-unincorporated-throughput-add
 - **building_group_bg_skyscraper_academics_fertility_mult** — mask: building ^m-building-group-bg-skyscraper-academics-fertility-mult
 - **building_group_bg_skyscraper_academics_mortality_mult** — mask: building ^m-building-group-bg-skyscraper-academics-mortality-mult
 - **building_group_bg_skyscraper_academics_standard_of_living_add** — mask: building ^m-building-group-bg-skyscraper-academics-standard-of-living-add
@@ -4208,60 +3955,6 @@ generated: "v3 graph engine"
 - **building_group_bg_wheat_farms_tax_mult** — mask: building ^m-building-group-bg-wheat-farms-tax-mult
 - **building_group_bg_wheat_farms_throughput_add** — mask: building ^m-building-group-bg-wheat-farms-throughput-add
 - **building_group_bg_wheat_farms_unincorporated_throughput_add** — mask: building ^m-building-group-bg-wheat-farms-unincorporated-throughput-add
-- **building_group_bg_zz_ef_banking_academics_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-academics-fertility-mult
-- **building_group_bg_zz_ef_banking_academics_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-academics-mortality-mult
-- **building_group_bg_zz_ef_banking_academics_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-academics-standard-of-living-add
-- **building_group_bg_zz_ef_banking_aristocrats_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-aristocrats-fertility-mult
-- **building_group_bg_zz_ef_banking_aristocrats_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-aristocrats-mortality-mult
-- **building_group_bg_zz_ef_banking_aristocrats_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-aristocrats-standard-of-living-add
-- **building_group_bg_zz_ef_banking_bureaucrats_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-bureaucrats-fertility-mult
-- **building_group_bg_zz_ef_banking_bureaucrats_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-bureaucrats-mortality-mult
-- **building_group_bg_zz_ef_banking_bureaucrats_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-bureaucrats-standard-of-living-add
-- **building_group_bg_zz_ef_banking_capitalists_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-capitalists-fertility-mult
-- **building_group_bg_zz_ef_banking_capitalists_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-capitalists-mortality-mult
-- **building_group_bg_zz_ef_banking_capitalists_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-capitalists-standard-of-living-add
-- **building_group_bg_zz_ef_banking_clergymen_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-clergymen-fertility-mult
-- **building_group_bg_zz_ef_banking_clergymen_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-clergymen-mortality-mult
-- **building_group_bg_zz_ef_banking_clergymen_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-clergymen-standard-of-living-add
-- **building_group_bg_zz_ef_banking_clerks_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-clerks-fertility-mult
-- **building_group_bg_zz_ef_banking_clerks_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-clerks-mortality-mult
-- **building_group_bg_zz_ef_banking_clerks_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-clerks-standard-of-living-add
-- **building_group_bg_zz_ef_banking_employee_mult** — mask: building ^m-building-group-bg-zz-ef-banking-employee-mult
-- **building_group_bg_zz_ef_banking_engineers_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-engineers-fertility-mult
-- **building_group_bg_zz_ef_banking_engineers_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-engineers-mortality-mult
-- **building_group_bg_zz_ef_banking_engineers_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-engineers-standard-of-living-add
-- **building_group_bg_zz_ef_banking_farmers_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-farmers-fertility-mult
-- **building_group_bg_zz_ef_banking_farmers_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-farmers-mortality-mult
-- **building_group_bg_zz_ef_banking_farmers_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-farmers-standard-of-living-add
-- **building_group_bg_zz_ef_banking_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-fertility-mult
-- **building_group_bg_zz_ef_banking_infrastructure_usage_mult** — mask: building ^m-building-group-bg-zz-ef-banking-infrastructure-usage-mult
-- **building_group_bg_zz_ef_banking_laborers_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-laborers-fertility-mult
-- **building_group_bg_zz_ef_banking_laborers_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-laborers-mortality-mult
-- **building_group_bg_zz_ef_banking_laborers_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-laborers-standard-of-living-add
-- **building_group_bg_zz_ef_banking_machinists_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-machinists-fertility-mult
-- **building_group_bg_zz_ef_banking_machinists_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-machinists-mortality-mult
-- **building_group_bg_zz_ef_banking_machinists_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-machinists-standard-of-living-add
-- **building_group_bg_zz_ef_banking_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-mortality-mult
-- **building_group_bg_zz_ef_banking_officers_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-officers-fertility-mult
-- **building_group_bg_zz_ef_banking_officers_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-officers-mortality-mult
-- **building_group_bg_zz_ef_banking_officers_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-officers-standard-of-living-add
-- **building_group_bg_zz_ef_banking_peasants_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-peasants-fertility-mult
-- **building_group_bg_zz_ef_banking_peasants_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-peasants-mortality-mult
-- **building_group_bg_zz_ef_banking_peasants_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-peasants-standard-of-living-add
-- **building_group_bg_zz_ef_banking_self_investment_chance_add** — mask: building ^m-building-group-bg-zz-ef-banking-self-investment-chance-add
-- **building_group_bg_zz_ef_banking_shopkeepers_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-shopkeepers-fertility-mult
-- **building_group_bg_zz_ef_banking_shopkeepers_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-shopkeepers-mortality-mult
-- **building_group_bg_zz_ef_banking_shopkeepers_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-shopkeepers-standard-of-living-add
-- **building_group_bg_zz_ef_banking_slaves_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-slaves-fertility-mult
-- **building_group_bg_zz_ef_banking_slaves_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-slaves-mortality-mult
-- **building_group_bg_zz_ef_banking_slaves_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-slaves-standard-of-living-add
-- **building_group_bg_zz_ef_banking_soldiers_fertility_mult** — mask: building ^m-building-group-bg-zz-ef-banking-soldiers-fertility-mult
-- **building_group_bg_zz_ef_banking_soldiers_mortality_mult** — mask: building ^m-building-group-bg-zz-ef-banking-soldiers-mortality-mult
-- **building_group_bg_zz_ef_banking_soldiers_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-soldiers-standard-of-living-add
-- **building_group_bg_zz_ef_banking_standard_of_living_add** — mask: building ^m-building-group-bg-zz-ef-banking-standard-of-living-add
-- **building_group_bg_zz_ef_banking_tax_mult** — mask: building ^m-building-group-bg-zz-ef-banking-tax-mult
-- **building_group_bg_zz_ef_banking_throughput_add** — mask: building ^m-building-group-bg-zz-ef-banking-throughput-add
-- **building_group_bg_zz_ef_banking_unincorporated_throughput_add** — mask: building ^m-building-group-bg-zz-ef-banking-unincorporated-throughput-add
 - **building_hagia_sophia_throughput_add** — mask: building ^m-building-hagia-sophia-throughput-add
 - **building_halloween_castledracula_throughput_add** — mask: building ^m-building-halloween-castledracula-throughput-add
 - **building_iron_mine_throughput_add** — Товарооборот железных рудников · Бонус или штраф к потреблению и производству в железных рудниках. · mask: building ^m-building-iron-mine-throughput-add
@@ -4272,13 +3965,13 @@ generated: "v3 graph engine"
 - **building_kaiserforum_4_throughput_add** — mask: building ^m-building-kaiserforum-4-throughput-add
 - **building_khaju_bridge_throughput_add** — mask: building ^m-building-khaju-bridge-throughput-add
 - **building_kiel_canal_throughput_add** — mask: building ^m-building-kiel-canal-throughput-add
+- **building_kizhi_pogost_throughput_add** — mask: building ^m-building-kizhi-pogost-throughput-add
 - **building_laborers_fertility_mult** — mask: building ^m-building-laborers-fertility-mult
 - **building_laborers_job_attractiveness_mult** — Привлекательность работы для laborers! рабочих · Бонус или штраф к зарплате, которую сооружение должно предлагать, нанимая laborers! рабочих. · mask: building ^m-building-laborers-job-attractiveness-mult
 - **building_laborers_mortality_mult** — к смертности среди laborers! рабочих · Повышение или снижение смертности laborers! рабочих. · mask: building ^m-building-laborers-mortality-mult
 - **building_laborers_shares_add** — к доле собственности laborers! рабочих · Увеличение или уменьшение доли собственности laborers! рабочих. · mask: building ^m-building-laborers-shares-add
 - **building_laborers_shares_mult** — mask: building ^m-building-laborers-shares-mult
 - **building_laborers_standard_of_living_add** — Уровень жизни для laborers! рабочих · Бонус или штраф к уровню жизни для занятых на работе laborers! рабочих. · mask: building ^m-building-laborers-standard-of-living-add
-- **building_ld_investment_fund_throughput_add** — mask: building ^m-building-ld-investment-fund-throughput-add
 - **building_lead_mine_throughput_add** — Товарооборот свинцовых рудников · Бонус или штраф к потреблению и производству в свинцовых рудниках. · mask: building ^m-building-lead-mine-throughput-add
 - **building_level_bureaucracy_cost_add** — Затраты бюрократии на уровень сооружения · Увеличивает количество расходуемой бюрократии на уровень сооружения, принадлежащий правительству · mask: building ^m-building-level-bureaucracy-cost-add
 - **building_livestock_ranch_throughput_add** — Товарооборот животноводческих ферм · Бонус или штраф к потреблению и производству животноводческих ферм. · mask: building ^m-building-livestock-ranch-throughput-add
@@ -4343,6 +4036,7 @@ generated: "v3 graph engine"
 - **building_sagrada_familia_cathedral_2_throughput_add** — mask: building ^m-building-sagrada-familia-cathedral-2-throughput-add
 - **building_sagrada_familia_cathedral_3_throughput_add** — mask: building ^m-building-sagrada-familia-cathedral-3-throughput-add
 - **building_saint_basils_cathedral_throughput_add** — mask: building ^m-building-saint-basils-cathedral-throughput-add
+- **building_saint_isaacs_cathedral_throughput_add** — mask: building ^m-building-saint-isaacs-cathedral-throughput-add
 - **building_self_investment_chance_add** — Вероятность самоинвестиций в сооружениях · Бонус или штраф к вероятности, что рабочая сила в сооружениях будет владеть новыми уровнями с инвестициями. · mask: building ^m-building-self-investment-chance-add
 - **building_shipyard_throughput_add** — Товарооборот верфей · Бонус или штраф к потреблению и производству на верфях. · mask: building ^m-building-shipyard-throughput-add
 - **building_shopkeepers_fertility_mult** — mask: building ^m-building-shopkeepers-fertility-mult
@@ -4352,7 +4046,6 @@ generated: "v3 graph engine"
 - **building_shopkeepers_shares_mult** — mask: building ^m-building-shopkeepers-shares-mult
 - **building_shopkeepers_standard_of_living_add** — Уровень жизни для shopkeepers! лавочников · Бонус или штраф к уровню жизни для занятых на работе shopkeepers! лавочников. · mask: building ^m-building-shopkeepers-standard-of-living-add
 - **building_silk_plantation_throughput_add** — Товарооборот плантаций шёлка · Бонус или штраф к потреблению и производству на плантациях шёлка. · mask: building ^m-building-silk-plantation-throughput-add
-- **building_silver_mine_throughput_add** — Товарооборот Серебряные рудники · building_silver_mine_throughput_add_desc · mask: building ^m-building-silver-mine-throughput-add
 - **building_skyscraper_throughput_add** — mask: building ^m-building-skyscraper-throughput-add
 - **building_slaves_fertility_mult** — mask: building ^m-building-slaves-fertility-mult
 - **building_slaves_job_attractiveness_mult** — mask: building ^m-building-slaves-job-attractiveness-mult
@@ -4400,5 +4093,5 @@ generated: "v3 graph engine"
 - **building_whaling_station_throughput_add** — Товарооборот китобойных станций · Бонус или штраф к потреблению и производству китобойных станций. · mask: building ^m-building-whaling-station-throughput-add
 - **building_wheat_farm_throughput_add** — Товарооборот пшеничных полей · Бонус или штраф к потреблению и производству пшеничных полей. · mask: building ^m-building-wheat-farm-throughput-add
 - **building_white_house_throughput_add** — mask: building ^m-building-white-house-throughput-add
+- **building_winter_palace_throughput_add** — mask: building ^m-building-winter-palace-throughput-add
 - **building_working_conditions_mult** — к опасным условиям работы · Повышение или понижение уровня опасности рабочих условий. · mask: building ^m-building-working-conditions-mult
-- **building_zz_ef_bank_throughput_add** — mask: building ^m-building-zz-ef-bank-throughput-add

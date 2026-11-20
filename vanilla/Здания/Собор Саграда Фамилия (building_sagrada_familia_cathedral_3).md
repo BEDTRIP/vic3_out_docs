@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_3)» — ваниль 1.15, `building_sagrada_familia_cathedral_3`"
+description: "Здание «Собор Саграда Фамилия (building_sagrada_familia_cathedral_3)» — ваниль 1.15.2, `building_sagrada_familia_cathedral_3`"
 project: vic3
 audience: agent
 source: vanilla

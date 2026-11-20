@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Estaleiro Mauá»» — ваниль 1.15, `company_estaleiro_maua`"
+description: "Вид компании ««Estaleiro Mauá»» — ваниль 1.15.2, `company_estaleiro_maua`"
 project: vic3
 audience: agent
 source: vanilla

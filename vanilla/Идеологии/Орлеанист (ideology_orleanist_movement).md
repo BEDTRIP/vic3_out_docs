@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Орлеанист (ideology_orleanist_movement)» — ваниль 1.15, `ideology_orleanist_movement`"
+description: "Идеология «Орлеанист (ideology_orleanist_movement)» — ваниль 1.15.2, `ideology_orleanist_movement`"
 project: vic3
 audience: agent
 source: vanilla

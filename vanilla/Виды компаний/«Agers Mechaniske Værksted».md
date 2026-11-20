@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Agers Mechaniske Værksted»» — ваниль 1.15, `company_aker_mek`"
+description: "Вид компании ««Agers Mechaniske Værksted»» — ваниль 1.15.2, `company_aker_mek`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Agers Mechaniske Værksted»
 
-Вид компании · `company_aker_mek` · `common/company_types/00_companies_europe.txt:800`
+Вид компании · `company_aker_mek` · `common/company_types/00_companies_europe.txt:804`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **preferred_headquarters**: `STATE_EASTERN_NORWAY`
 - **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Моторные заводы|Моторные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Производства инструментов|Производства инструментов]]
-- **potential**: скрипт, строки 817–819
-- **attainable**: скрипт, строки 821–827
-- **possible**: скрипт, строки 829–837
+- **potential**: скрипт, строки 821–823
+- **attainable**: скрипт, строки 825–831
+- **possible**: скрипт, строки 833–845
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.15`
   - [[vanilla/движок/Модификаторы B#^m-building-fishing-wharf-throughput-add|building_fishing_wharf_throughput_add]] = `0.05` → [[vanilla/Здания/Рыболовные верфи|Рыболовные верфи]]
-- **ai_will_do**: скрипт, строки 844–850
-- **ai_construction_targets**: скрипт, строки 852–859
-- **ai_weight**: скрипт, строки 861–863
+- **ai_will_do**: скрипт, строки 852–858
+- **ai_construction_targets**: скрипт, строки 860–867
+- **ai_weight**: скрипт, строки 869–871

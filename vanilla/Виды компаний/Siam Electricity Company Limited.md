@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Siam Electricity Company Limited» — ваниль 1.15, `company_siam_electrical_company_limited`"
+description: "Вид компании «Siam Electricity Company Limited» — ваниль 1.15.2, `company_siam_electrical_company_limited`"
 project: vic3
 audience: agent
 source: vanilla

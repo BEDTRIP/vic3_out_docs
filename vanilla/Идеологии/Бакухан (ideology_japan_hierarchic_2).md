@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Бакухан (ideology_japan_hierarchic_2)» — ваниль 1.15, `ideology_japan_hierarchic_2`"
+description: "Идеология «Бакухан (ideology_japan_hierarchic_2)» — ваниль 1.15.2, `ideology_japan_hierarchic_2`"
 project: vic3
 audience: agent
 source: vanilla

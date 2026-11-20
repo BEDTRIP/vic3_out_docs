@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Основа (pmg_base_building_munition_plant)» — ваниль 1.15, `pmg_base_building_munition_plant`"
+description: "Группа методов производства «Основа (pmg_base_building_munition_plant)» — ваниль 1.15.2, `pmg_base_building_munition_plant`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Fiskars Aktiebolag» — ваниль 1.15, `company_fiskars`"
+description: "Вид компании «Fiskars Aktiebolag» — ваниль 1.15.2, `company_fiskars`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip5.txt]
 ---
 # Fiskars Aktiebolag
 
-Вид компании · `company_fiskars` · `common/company_types/00_companies_ip5.txt:443`
+Вид компании · `company_fiskars` · `common/company_types/00_companies_ip5.txt:465`
 
 ## Поля
 
@@ -23,11 +23,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip5.txt]
 - **building_types**: [[vanilla/Здания/Производства инструментов|Производства инструментов]], [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
 - **possible_prestige_goods**: `prestige_good_fiskars_tools`
-- **potential**: скрипт, строки 466–469
-- **attainable**: скрипт, строки 471–477
-- **possible**: скрипт, строки 479–486
+- **potential**: скрипт, строки 488–491
+- **attainable**: скрипт, строки 493–499
+- **possible**: скрипт, строки 501–512
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.15`
-- **ai_will_do**: скрипт, строки 492–497
-- **ai_construction_targets**: скрипт, строки 499–506
-- **ai_weight**: скрипт, строки 508–510
+- **ai_will_do**: скрипт, строки 518–523
+- **ai_construction_targets**: скрипт, строки 525–532
+- **ai_weight**: скрипт, строки 534–536

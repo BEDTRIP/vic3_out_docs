@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы M — 11, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы M — 11, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Модификаторы M
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **military_formation_army_movement_speed_add** — Скорость армии · Насколько быстро армия может достичь пункта назначения · mask: military_formation ^m-military-formation-army-movement-speed-add
 - **military_formation_army_movement_speed_mult** — Скорость армии · Насколько быстро армия может достичь пункта назначения · mask: military_formation ^m-military-formation-army-movement-speed-mult

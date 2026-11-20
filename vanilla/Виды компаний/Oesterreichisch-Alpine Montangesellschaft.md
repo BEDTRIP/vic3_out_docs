@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — ваниль 1.15, `company_oesterreichisch_alpine_montangesellschaft`"
+description: "Вид компании «Oesterreichisch-Alpine Montangesellschaft» — ваниль 1.15.2, `company_oesterreichisch_alpine_montangesellschaft`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 ---
 # Oesterreichisch-Alpine Montangesellschaft
 
-Вид компании · `company_oesterreichisch_alpine_montangesellschaft` · `common/company_types/00_companies_ip3.txt:559`
+Вид компании · `company_oesterreichisch_alpine_montangesellschaft` · `common/company_types/00_companies_ip3.txt:563`
 
 ## Поля
 
@@ -21,12 +21,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
-- **potential**: скрипт, строки 574–576
-- **attainable**: скрипт, строки 578–586
-- **possible**: скрипт, строки 588–600
+- **potential**: скрипт, строки 578–580
+- **attainable**: скрипт, строки 582–590
+- **possible**: скрипт, строки 592–604
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-coal-mine-throughput-add|building_coal_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Угольные шахты|Угольные шахты]]
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-- **ai_will_do**: скрипт, строки 607–612
-- **ai_construction_targets**: скрипт, строки 614–627
-- **ai_weight**: скрипт, строки 629–631
+- **ai_will_do**: скрипт, строки 611–616
+- **ai_construction_targets**: скрипт, строки 618–631
+- **ai_weight**: скрипт, строки 633–635

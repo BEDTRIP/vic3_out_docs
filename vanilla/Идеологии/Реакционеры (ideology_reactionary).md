@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Реакционеры (ideology_reactionary)» — ваниль 1.15, `ideology_reactionary`"
+description: "Идеология «Реакционеры (ideology_reactionary)» — ваниль 1.15.2, `ideology_reactionary`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — ваниль 1.15, `company_ludwig_moser_and_sons`"
+description: "Вид компании «Glasfabrik Ludwig Moser & Söhne» — ваниль 1.15.2, `company_ludwig_moser_and_sons`"
 project: vic3
 audience: agent
 source: vanilla
@@ -25,11 +25,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **potential**: скрипт, строки 18–21
 - **possible_prestige_goods**: `prestige_good_bohemian_crystal`
 - **attainable**: скрипт, строки 27–35
-- **possible**: скрипт, строки 37–44
+- **possible**: скрипт, строки 37–48
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-influence-mult|country_influence_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.05` → [[vanilla/Здания/Академии искусств|Академии искусств]]
   - [[vanilla/движок/Модификаторы C#^m-country-leverage-generation-mult|country_leverage_generation_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 52–57
-- **ai_construction_targets**: скрипт, строки 59–66
-- **ai_weight**: скрипт, строки 68–70
+- **ai_will_do**: скрипт, строки 56–61
+- **ai_construction_targets**: скрипт, строки 63–70
+- **ai_weight**: скрипт, строки 72–74

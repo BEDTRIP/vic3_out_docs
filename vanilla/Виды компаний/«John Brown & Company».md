@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««John Brown & Company»» — ваниль 1.15, `company_john_brown`"
+description: "Вид компании ««John Brown & Company»» — ваниль 1.15.2, `company_john_brown`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 ---
 # «John Brown & Company»
 
-Вид компании · `company_john_brown` · `common/company_types/00_companies_great_britain.txt:151`
+Вид компании · `company_john_brown` · `common/company_types/00_companies_great_britain.txt:159`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **possible_prestige_goods**: `prestige_good_clyde_built_liners`
-- **potential**: скрипт, строки 172–174
-- **attainable**: скрипт, строки 176–182
-- **possible**: скрипт, строки 184–193
+- **potential**: скрипт, строки 180–182
+- **attainable**: скрипт, строки 184–190
+- **possible**: скрипт, строки 192–205
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы C#^m-country-ship-group-supply-ships-construction-efficiency-add|country_ship_group_supply_ships_construction_efficiency_add]] = `0.1`
-- **ai_will_do**: скрипт, строки 200–207
-- **ai_construction_targets**: скрипт, строки 209–216
-- **ai_weight**: скрипт, строки 218–220
+- **ai_will_do**: скрипт, строки 212–219
+- **ai_construction_targets**: скрипт, строки 221–228
+- **ai_weight**: скрипт, строки 230–232

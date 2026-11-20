@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Домашние мастерские (pm_home_workshops_building_subsistence_pasture)» — ваниль 1.15, `pm_home_workshops_building_subsistence_pasture`"
+description: "Метод производства «Домашние мастерские (pm_home_workshops_building_subsistence_pasture)» — ваниль 1.15.2, `pm_home_workshops_building_subsistence_pasture`"
 project: vic3
 audience: agent
 source: vanilla

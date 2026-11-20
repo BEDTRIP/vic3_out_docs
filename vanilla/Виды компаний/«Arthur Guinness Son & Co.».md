@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Arthur Guinness Son & Co.»» — ваниль 1.15, `company_guinness`"
+description: "Вид компании ««Arthur Guinness Son & Co.»» — ваниль 1.15.2, `company_guinness`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 ---
 # «Arthur Guinness Son & Co.»
 
-Вид компании · `company_guinness` · `common/company_types/00_companies_soi.txt:1009`
+Вид компании · `company_guinness` · `common/company_types/00_companies_soi.txt:1041`
 
 ## Поля
 
@@ -23,15 +23,15 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **building_types**: [[vanilla/Здания/Пищевые производства|Пищевые производства]]
 - **extension_building_types**: [[vanilla/Здания/Пшеничные поля|Пшеничные поля]], [[vanilla/Здания/Ржаные поля|Ржаные поля]]
 - **possible_prestige_goods**: `prestige_good_generic_groceries`
-- **prestige_goods_trigger**: скрипт, строки 1030–1035
-- **potential**: скрипт, строки 1037–1039
-- **attainable**: скрипт, строки 1041–1047
-- **possible**: скрипт, строки 1049–1057
+- **prestige_goods_trigger**: скрипт, строки 1062–1067
+- **potential**: скрипт, строки 1069–1071
+- **attainable**: скрипт, строки 1073–1079
+- **possible**: скрипт, строки 1081–1093
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.1`
   - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-violent-hostility-mult|state_radicalism_increases_violent_hostility_mult]] = `-0.05`
   - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-cultural-erasure-mult|state_radicalism_increases_cultural_erasure_mult]] = `-0.05`
   - [[vanilla/движок/Модификаторы S#^m-state-radicalism-increases-open-prejudice-mult|state_radicalism_increases_open_prejudice_mult]] = `-0.05`
-- **ai_will_do**: скрипт, строки 1066–1072
-- **ai_construction_targets**: скрипт, строки 1074–1081
-- **ai_weight**: скрипт, строки 1083–1085
+- **ai_will_do**: скрипт, строки 1102–1108
+- **ai_construction_targets**: скрипт, строки 1110–1117
+- **ai_weight**: скрипт, строки 1119–1121

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Сёдзёи (ideology_meiji_restorationist_movement_shojoi)» — ваниль 1.15, `ideology_meiji_restorationist_movement_shojoi`"
+description: "Идеология «Сёдзёи (ideology_meiji_restorationist_movement_shojoi)» — ваниль 1.15.2, `ideology_meiji_restorationist_movement_shojoi`"
 project: vic3
 audience: agent
 source: vanilla

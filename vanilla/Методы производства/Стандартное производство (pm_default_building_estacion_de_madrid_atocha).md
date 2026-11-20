@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Стандартное производство (pm_default_building_estacion_de_madrid_atocha)» — ваниль 1.15, `pm_default_building_estacion_de_madrid_atocha`"
+description: "Метод производства «Стандартное производство (pm_default_building_estacion_de_madrid_atocha)» — ваниль 1.15.2, `pm_default_building_estacion_de_madrid_atocha`"
 project: vic3
 audience: agent
 source: vanilla

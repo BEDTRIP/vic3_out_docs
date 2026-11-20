@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры P — 68, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры P — 68, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры P
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **play_participant_has_war_goal_of_type_against** — Checks if scope country holds a war goal of a specific type targeting a specific country in any diplomatic play Reads gamestate for all scopes. · `play_participant_has_war_goal_of_type_against = { type = <war goaltype key>, target = <country scope> }` · supported scopes: country ^t-play-participant-has-war-goal-of-type-against
 - **play_side_has_war_goal_of_type_against** — Checks if any country on the same side as scope country in any diplomatic play holds a war goal of a specific type targeting a specificcountry Reads gamestate for all scopes. · `play_side_has_war_goal_of_type_against = { type = <war goal type key>, target = <country scope> }` · supported scopes: country ^t-play-side-has-war-goal-of-type-against
@@ -24,13 +24,13 @@ generated: "v3 graph engine"
 - **pollution_amount** — Compare state region pollution Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: state_region ^t-pollution-amount
 - **pollution_generation** — Compare total pollution generation across all buildings in the state Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-pollution-generation
 - **pop_acceptance** — Compares the scoped pop's acceptance against an acceptence value Reads gamestate for all scopes. · `pop_acceptance > 50 Traits: <, <=, =, !=, >, >=` · supported scopes: pop ^t-pop-acceptance
-- **pop_employment_building** — Checks if pop is working in a specific building type Reads gamestate for all scopes. · `pop_employment_building = building` · supported scopes: pop ^t-pop-employment-building
-- **pop_employment_building_group** — Checks if pop is working in a specific building type Reads gamestate for all scopes. · `pop_employment_building = building` · supported scopes: pop ^t-pop-employment-building-group
+- **pop_employment_building** — Checks if pop is working in a specific building type Reads gamestate for all scopes. · `pop_employment_building = building` · value type: common/buildings · supported scopes: pop ^t-pop-employment-building
+- **pop_employment_building_group** — Checks if pop is working in a specific building type Reads gamestate for all scopes. · `pop_employment_building = building` · value type: common/building_groups · supported scopes: pop ^t-pop-employment-building-group
 - **pop_has_primary_culture** — Checks if pop's culture is primary Traits: yes/no Reads gamestate for all scopes. · `pop_has_primary_culture = bool` · supported scopes: pop ^t-pop-has-primary-culture
 - **pop_loyalist_fraction** — Compares the number of Radicals in a pop to its total size Reads gamestate for all scopes. · `pop_loyalist_fraction < 0.5 Traits: <, <=, =, !=, >, >=` · supported scopes: pop ^t-pop-loyalist-fraction
 - **pop_neutral_fraction** — Compares the number of Neutrals (not Radical, not Loyalist) in a pop to its total size Reads gamestate for all scopes. · `pop_neutral_fraction > 0.95 Traits: <, <=, =, !=, >, >=` · supported scopes: pop ^t-pop-neutral-fraction
 - **pop_radical_fraction** — Compares the number of Radicals in a pop to its total size Reads gamestate for all scopes. · `pop_radical_fraction > 0.25 Traits: <, <=, =, !=, >, >=` · supported scopes: pop ^t-pop-radical-fraction
-- **pop_type_percent_country** — Checks whether the scoped country has <percent> of its population belonging to the specified pop type } } Reads gamestate for all scopes. · `scope:example_country = { pop_type_percent_country = { pop_type = <pop_type> percent <compare operator (<,>,= and so on)> <percent> Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-pop-type-percent-country
+- **pop_type_percent_country** — Checks whether the scoped country has <percent> of its population belonging to the specified pop type } } Reads gamestate for all scopes. · `scope:example_country = { pop_type_percent_country = { target = <pop_type> value <compare operator (<,>,= and so on)> <percent> Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-pop-type-percent-country
 - **pop_type_percent_state** — Checks that a state's population has a certain percentage of a specific pop type } } Reads gamestate for all scopes. · `scope:example_state = { pop_type_percent_state = { target = pop_type:laborer value <= 0.8 Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-pop-type-percent-state
 - **population_by_culture** — Compare the current population of a target culture in the scoped state Reads gamestate for all scopes. · `population_by_culture = { target = cu:romanian value > 2500 } Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-population-by-culture
 - **potential_diplomatic_play_power_ratio** — Check the expected power ratio between scope country side and target country side in a potential diplomatic play Attempts to predict which sides involved participants will take (if any) so doesn't just check 'starting strengths' state and type are optional, will default to dp_open_market on target capital Reads gamestate for all scopes. · `potential_diplomatic_play_power_ratio = { type = dp_open_market target = c:BEL state = c:BEL.capital value > 1.0 } Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-potential-diplomatic-play-power-ratio
@@ -70,9 +70,9 @@ generated: "v3 graph engine"
 - **predicted_cohesion_percentage_with** — Predicts the cohesion of a Power Bloc (as a fraction of 1) if it included target country as a member Reads gamestate for all scopes. · `predicted_cohesion_percentage_with, = { target = scope:other_country value > 0.9 } Traits: <, <=, =, !=, >, >=` · supported scopes: power_bloc ^t-predicted-cohesion-percentage-with
 - **prefers_law** — Checks if the scoped interest group prefers the specified law to the comparison law Reads gamestate for all scopes. · supported scopes: interest_group ^t-prefers-law
 - **prestige** — Compare prestige Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-prestige
-- **primary_cultures_percent_country** — Checks that a country's population has a certain percentage of the country's primary cultures } Reads gamestate for all scopes. · `scope:example_country = { primary_cultures_percent_country >= 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-primary-cultures-percent-country
-- **primary_cultures_percent_state** — Checks that a state's population has a certain percentage of the country's primary cultures } Reads gamestate for all scopes. · `scope:example_state = { primary_cultures_percent_state >= 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-primary-cultures-percent-state
-- **primary_role** — Checks if the character's primary role is the specified role Reads gamestate for all scopes. · `primary_role = role` · supported scopes: character ^t-primary-role
+- **primary_cultures_percent_country** — Checks that a country's population has a certain percentage of the target country's primary cultures } } Reads gamestate for all scopes. · `scope:example_country = { primary_cultures_percent_country = { target_country = this value >= 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-primary-cultures-percent-country
+- **primary_cultures_percent_state** — Checks that a state's population has a certain percentage of the target country's primary cultures } } Reads gamestate for all scopes. · `scope:example_state = { primary_cultures_percent_state = { target_country = owner value >= 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: state ^t-primary-cultures-percent-state
+- **primary_role** — Checks if the character's primary role is the specified role Reads gamestate for all scopes. · `primary_role = role` · value type: common/character_roles · supported scopes: character ^t-primary-role
 - **private_ownership_fraction** — Compares the fraction of this building's levels that are privately owned Reads gamestate for all scopes. · `private_ownership_fraction > 0.5 Traits: <, <=, =, !=, >, >=` · supported scopes: building ^t-private-ownership-fraction
 - **produced_authority** — Compares the produced authority of the scoped country Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-produced-authority
 - **produced_bureaucracy** — Compares the produced bureaucracy of the scoped country Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-produced-bureaucracy

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Stabilimento Tecnico di Fiume» — ваниль 1.15, `company_stabilimento_tecnico_di_fiume`"
+description: "Вид компании «Stabilimento Tecnico di Fiume» — ваниль 1.15.2, `company_stabilimento_tecnico_di_fiume`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 ---
 # Stabilimento Tecnico di Fiume
 
-Вид компании · `company_stabilimento_tecnico_di_fiume` · `common/company_types/00_companies_ip3.txt:149`
+Вид компании · `company_stabilimento_tecnico_di_fiume` · `common/company_types/00_companies_ip3.txt:153`
 
 ## Поля
 
@@ -21,11 +21,11 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip3.txt]
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Заводы взрывчатки|Заводы взрывчатки]]
 - **extension_building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
-- **potential**: скрипт, строки 164–167
-- **attainable**: скрипт, строки 169–184
-- **possible**: скрипт, строки 186–202
+- **potential**: скрипт, строки 168–171
+- **attainable**: скрипт, строки 173–188
+- **possible**: скрипт, строки 190–206
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-ship-hull-damage-mult|ship_hull_damage_mult]] = `0.075`
-- **ai_will_do**: скрипт, строки 208–217
-- **ai_construction_targets**: скрипт, строки 219–229
-- **ai_weight**: скрипт, строки 231–233
+- **ai_will_do**: скрипт, строки 212–221
+- **ai_construction_targets**: скрипт, строки 223–233
+- **ai_weight**: скрипт, строки 235–237

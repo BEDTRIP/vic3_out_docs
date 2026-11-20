@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры R — 16, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры R — 16, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры R
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **radical_fraction** — Compares radical fraction in pops in state or country, all parameters except value are optional Reads gamestate for all scopes. · `radical_fraction = { value = x pop_type = <key> strata = <key> culture = <key/scope> religion = <key/scope> } Traits: <, <=, =, !=, >, >=` · supported scopes: country, state ^t-radical-fraction
 - **radical_population_fraction** — Compares the fraction of the population that are radicals in a given country Reads gamestate for all scopes. · `radical_population_fraction > 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-radical-population-fraction

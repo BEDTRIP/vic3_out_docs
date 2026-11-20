@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа зданий «Золотые прииски (bg_gold_fields)» — ваниль 1.15, `bg_gold_fields`"
+description: "Группа зданий «Золотые прииски (bg_gold_fields)» — ваниль 1.15.2, `bg_gold_fields`"
 project: vic3
 audience: agent
 source: vanilla

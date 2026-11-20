@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Klabin Irmãos & Cia.»» — ваниль 1.15, `company_kablin`"
+description: "Вид компании ««Klabin Irmãos & Cia.»» — ваниль 1.15.2, `company_kablin`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 ---
 # «Klabin Irmãos & Cia.»
 
-Вид компании · `company_kablin` · `common/company_types/00_companies_americas.txt:609`
+Вид компании · `company_kablin` · `common/company_types/00_companies_americas.txt:625`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **building_types**: [[vanilla/Здания/Бумажные фабрики|Бумажные фабрики]], [[vanilla/Здания/Лесозаготовки|Лесозаготовки]]
 - **extension_building_types**: [[vanilla/Здания/Серные рудники|Серные рудники]]
 - **possible_prestige_goods**: `prestige_good_rosewood`
-- **potential**: скрипт, строки 628–630
-- **attainable**: скрипт, строки 632–638
-- **possible**: скрипт, строки 640–650
+- **potential**: скрипт, строки 644–646
+- **attainable**: скрипт, строки 648–654
+- **possible**: скрипт, строки 656–666
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-tooling-workshop-throughput-add|building_tooling_workshop_throughput_add]] = `0.1` → [[vanilla/Здания/Производства инструментов|Производства инструментов]]
   - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `15`
-- **ai_will_do**: скрипт, строки 657–663
-- **ai_construction_targets**: скрипт, строки 665–673
-- **ai_weight**: скрипт, строки 675–677
+- **ai_will_do**: скрипт, строки 673–679
+- **ai_construction_targets**: скрипт, строки 681–689
+- **ai_weight**: скрипт, строки 691–693

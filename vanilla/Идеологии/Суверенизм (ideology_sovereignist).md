@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Суверенизм (ideology_sovereignist)» — ваниль 1.15, `ideology_sovereignist`"
+description: "Идеология «Суверенизм (ideology_sovereignist)» — ваниль 1.15.2, `ideology_sovereignist`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Norsk Hydroelektrisk Kvælstofaktieselskap» — ваниль 1.15, `company_norsk_hydro`"
+description: "Вид компании «Norsk Hydroelektrisk Kvælstofaktieselskap» — ваниль 1.15.2, `company_norsk_hydro`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 ---
 # Norsk Hydroelektrisk Kvælstofaktieselskap
 
-Вид компании · `company_norsk_hydro` · `common/company_types/00_companies_mp1.txt:1147`
+Вид компании · `company_norsk_hydro` · `common/company_types/00_companies_mp1.txt:1183`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_mp1.txt]
 - **preferred_headquarters**: `STATE_WESTERN_NORWAY`
 - **building_types**: [[vanilla/Здания/Заводы удобрений|Заводы удобрений]], [[vanilla/Здания/Электростанции|Электростанции]]
 - **extension_building_types**: [[vanilla/Здания/Серные рудники|Серные рудники]], [[vanilla/Здания/Медные рудники|Медные рудники]]
-- **potential**: скрипт, строки 1165–1167
-- **attainable**: скрипт, строки 1169–1177
-- **possible**: скрипт, строки 1179–1192
+- **potential**: скрипт, строки 1201–1203
+- **attainable**: скрипт, строки 1205–1213
+- **possible**: скрипт, строки 1215–1228
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
   - [[vanilla/движок/Модификаторы C#^m-country-production-tech-spread-mult|country_production_tech_spread_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 1199–1205
-- **ai_construction_targets**: скрипт, строки 1207–1220
-- **ai_weight**: скрипт, строки 1222–1224
+- **ai_will_do**: скрипт, строки 1235–1241
+- **ai_construction_targets**: скрипт, строки 1243–1256
+- **ai_weight**: скрипт, строки 1258–1260

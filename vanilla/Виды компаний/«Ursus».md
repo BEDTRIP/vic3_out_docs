@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Ursus»» — ваниль 1.15, `company_ursus`"
+description: "Вид компании ««Ursus»» — ваниль 1.15.2, `company_ursus`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Ursus»
 
-Вид компании · `company_ursus` · `common/company_types/00_companies_europe.txt:946`
+Вид компании · `company_ursus` · `common/company_types/00_companies_europe.txt:958`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **preferred_headquarters**: `STATE_GREATER_POLAND`
 - **building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
-- **potential**: скрипт, строки 963–965
-- **attainable**: скрипт, строки 967–973
-- **possible**: скрипт, строки 975–983
+- **potential**: скрипт, строки 975–977
+- **attainable**: скрипт, строки 979–985
+- **possible**: скрипт, строки 987–999
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-wheat-farm-throughput-add|building_wheat_farm_throughput_add]] = `0.2` → [[vanilla/Здания/Пшеничные поля|Пшеничные поля]]
   - [[vanilla/движок/Модификаторы B#^m-building-rye-farm-throughput-add|building_rye_farm_throughput_add]] = `0.2` → [[vanilla/Здания/Ржаные поля|Ржаные поля]]
-- **ai_will_do**: скрипт, строки 990–996
-- **ai_construction_targets**: скрипт, строки 998–1005
-- **ai_weight**: скрипт, строки 1007–1009
+- **ai_will_do**: скрипт, строки 1006–1012
+- **ai_construction_targets**: скрипт, строки 1014–1021
+- **ai_weight**: скрипт, строки 1023–1025

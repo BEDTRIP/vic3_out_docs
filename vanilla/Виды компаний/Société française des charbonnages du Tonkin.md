@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Société française des charbonnages du Tonkin» — ваниль 1.15, `company_societe_francaise_charbonnages_du_tonkin`"
+description: "Вид компании «Société française des charbonnages du Tonkin» — ваниль 1.15.2, `company_societe_francaise_charbonnages_du_tonkin`"
 project: vic3
 audience: agent
 source: vanilla

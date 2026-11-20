@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Тактика ведения мобильной войны (pm_mobile_warfare_tactics_conscription)» — ваниль 1.15, `pm_mobile_warfare_tactics_conscription`"
+description: "Метод производства «Тактика ведения мобильной войны (pm_mobile_warfare_tactics_conscription)» — ваниль 1.15.2, `pm_mobile_warfare_tactics_conscription`"
 project: vic3
 audience: agent
 source: vanilla

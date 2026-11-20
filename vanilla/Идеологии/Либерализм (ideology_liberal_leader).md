@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Либерализм (ideology_liberal_leader)» — ваниль 1.15, `ideology_liberal_leader`"
+description: "Идеология «Либерализм (ideology_liberal_leader)» — ваниль 1.15.2, `ideology_liberal_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Либерализм (ideology_liberal_leader)
 
-Идеология · `ideology_liberal_leader` · `common/ideologies/01_character_ideologies.txt:9739`
+Идеология · `ideology_liberal_leader` · `common/ideologies/01_character_ideologies.txt:9742`
 
 ## Поля
 
@@ -48,6 +48,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `disapprove`
 - **country_trigger**:
   - `has_technology_researched` = [[vanilla/Технологии/Демократия|Демократия]]
-- **non_interest_group_leader_trigger**: скрипт, строки 9784–9798
-- **interest_group_leader_weight**: скрипт, строки 9800–9932
-- **non_interest_group_leader_weight**: скрипт, строки 9934–10042
+- **non_interest_group_leader_trigger**: скрипт, строки 9787–9801
+- **interest_group_leader_weight**: скрипт, строки 9803–9935
+- **non_interest_group_leader_weight**: скрипт, строки 9937–10045

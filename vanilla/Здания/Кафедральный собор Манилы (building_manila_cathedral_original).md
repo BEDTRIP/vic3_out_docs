@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Кафедральный собор Манилы (building_manila_cathedral_original)» — ваниль 1.15, `building_manila_cathedral_original`"
+description: "Здание «Кафедральный собор Манилы (building_manila_cathedral_original)» — ваниль 1.15.2, `building_manila_cathedral_original`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Собственность (pmg_ownership_building_financial_district)» — ваниль 1.15, `pmg_ownership_building_financial_district`"
+description: "Группа методов производства «Собственность (pmg_ownership_building_financial_district)» — ваниль 1.15.2, `pmg_ownership_building_financial_district`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Frankenstein et Cie., Établ. Électriques d’Ingolstadt»» — ваниль 1.15, `company_ingolstadt_electrical_company`"
+description: "Вид компании ««Frankenstein et Cie., Établ. Électriques d’Ingolstadt»» — ваниль 1.15.2, `company_ingolstadt_electrical_company`"
 project: vic3
 audience: agent
 source: vanilla

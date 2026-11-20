@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Grand East Plantations Ltd» — ваниль 1.15, `company_basic_colonial_plantations_1`"
+description: "Вид компании «Grand East Plantations Ltd» — ваниль 1.15.2, `company_basic_colonial_plantations_1`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/99_basic_companies.txt]
 ---
 # Grand East Plantations Ltd
 
-Вид компании · `company_basic_colonial_plantations_1` · `common/company_types/99_basic_companies.txt:207`
+Вид компании · `company_basic_colonial_plantations_1` · `common/company_types/99_basic_companies.txt:182`
 
 ## Поля
 
@@ -25,8 +25,8 @@ paths: [.vanillaVIC3/common/company_types/99_basic_companies.txt]
 - **building_types**: [[vanilla/Здания/Маковые плантации|Маковые плантации]], [[vanilla/Здания/Чайные плантации|Чайные плантации]]
 - **extension_building_types**: [[vanilla/Здания/Табачные плантации|Табачные плантации]]
 - **possible_prestige_goods**: `prestige_good_generic_opium`
-- **prestige_goods_trigger**: скрипт, строки 237–242
-- **possible**: скрипт, строки 244–254
+- **prestige_goods_trigger**: скрипт, строки 212–217
+- **possible**: скрипт, строки 219–229
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-radicals-from-political-movements-mult|state_radicals_from_political_movements_mult]] = `-0.1`
-- **ai_will_do**: скрипт, строки 260–270
+- **ai_will_do**: скрипт, строки 235–237

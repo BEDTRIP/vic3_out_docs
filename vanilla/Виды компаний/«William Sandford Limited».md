@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««William Sandford Limited»» — ваниль 1.15, `company_william_sandford`"
+description: "Вид компании ««William Sandford Limited»» — ваниль 1.15.2, `company_william_sandford`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 ---
 # «William Sandford Limited»
 
-Вид компании · `company_william_sandford` · `common/company_types/00_companies_asia.txt:860`
+Вид компании · `company_william_sandford` · `common/company_types/00_companies_asia.txt:872`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Угольные шахты|Угольные шахты]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 881–886
-- **potential**: скрипт, строки 888–890
-- **attainable**: скрипт, строки 892–898
-- **possible**: скрипт, строки 900–908
+- **prestige_goods_trigger**: скрипт, строки 893–898
+- **potential**: скрипт, строки 900–902
+- **attainable**: скрипт, строки 904–910
+- **possible**: скрипт, строки 912–924
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.15` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-- **ai_will_do**: скрипт, строки 914–920
-- **ai_construction_targets**: скрипт, строки 922–929
-- **ai_weight**: скрипт, строки 931–933
+- **ai_will_do**: скрипт, строки 930–936
+- **ai_construction_targets**: скрипт, строки 938–945
+- **ai_weight**: скрипт, строки 947–949

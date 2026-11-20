@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры G — 15, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры G — 17, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,9 +9,11 @@ generated: "v3 graph engine"
 ---
 # Триггеры G
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **game_date** — Compare to current game date · `current_game_date = 1837.1.1 Traits: <, <=, =, !=, >, >=` · supported scopes: none ^t-game-date
+- **gdp_change_since_war_start** — Compares the fraction of GDP the target country has gained or lost since it entered the scoped war Reads gamestate for all scopes. · `gdp_change_since_war_start = { target = root value <= -0.2 } Traits: <, <=, =, !=, >, >=` · supported scopes: war ^t-gdp-change-since-war-start
+- **gdp_owned_by** — Compares the yearly GDP the specified country owns in the scoped country Reads gamestate for all scopes. · `gdp_owned_by = { target = scope:owner_country value > 100000 } Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-gdp-owned-by
 - **gdp_ownership_ratio** — Compares the ratio of GDP the specified country owns in the scoped country Reads gamestate for all scopes. · `gdp_ownership_ratio = { target = scope:owner_country value > 0.1 } Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-gdp-ownership-ratio
 - **gdp_per_capita_ranking** — Compares a Country's GDP per Capita Ranking (position) Reads gamestate for all scopes. · `gdp_per_capita_ranking > 42 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-gdp-per-capita-ranking
 - **gdp_ranking** — Compares a Country's GDP Ranking (position) Reads gamestate for all scopes. · `gdp_ranking > 42 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-gdp-ranking

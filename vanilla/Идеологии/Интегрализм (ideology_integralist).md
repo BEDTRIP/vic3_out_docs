@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Интегрализм (ideology_integralist)» — ваниль 1.15, `ideology_integralist`"
+description: "Идеология «Интегрализм (ideology_integralist)» — ваниль 1.15.2, `ideology_integralist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Интегрализм (ideology_integralist)
 
-Идеология · `ideology_integralist` · `common/ideologies/01_character_ideologies.txt:9205`
+Идеология · `ideology_integralist` · `common/ideologies/01_character_ideologies.txt:9208`
 
 ## Поля
 
@@ -67,9 +67,9 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `strongly_approve`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 9273–9282
+- **country_trigger**: скрипт, строки 9276–9285
 - **interest_group_leader_trigger**:
   - `ideology_integralist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 9288–9302
-- **interest_group_leader_weight**: скрипт, строки 9304–9546
-- **non_interest_group_leader_weight**: скрипт, строки 9548–9736
+- **non_interest_group_leader_trigger**: скрипт, строки 9291–9305
+- **interest_group_leader_weight**: скрипт, строки 9307–9549
+- **non_interest_group_leader_weight**: скрипт, строки 9551–9739

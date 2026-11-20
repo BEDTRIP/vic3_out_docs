@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Compañía Estañífera de Llallagua»» — ваниль 1.15, `company_estanifera_llallagua`"
+description: "Вид компании ««Compañía Estañífera de Llallagua»» — ваниль 1.15.2, `company_estanifera_llallagua`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 ---
 # «Compañía Estañífera de Llallagua»
 
-Вид компании · `company_estanifera_llallagua` · `common/company_types/00_companies_cots.txt:403`
+Вид компании · `company_estanifera_llallagua` · `common/company_types/00_companies_cots.txt:415`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **preferred_headquarters**: `STATE_POTOSI`
 - **building_types**: [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]], [[vanilla/Здания/Медные рудники|Медные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Серные рудники|Серные рудники]]
-- **potential**: скрипт, строки 421–424
-- **attainable**: скрипт, строки 426–432
-- **possible**: скрипт, строки 434–441
+- **potential**: скрипт, строки 433–436
+- **attainable**: скрипт, строки 438–444
+- **possible**: скрипт, строки 446–457
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-lead-mine-throughput-add|building_lead_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
   - [[vanilla/движок/Модификаторы I#^m-interest-group-ig-industrialists-pol-str-mult|interest_group_ig_industrialists_pol_str_mult]] = `0.15`
-- **ai_will_do**: скрипт, строки 448–453
-- **ai_construction_targets**: скрипт, строки 455–462
-- **ai_weight**: скрипт, строки 464–466
+- **ai_will_do**: скрипт, строки 464–469
+- **ai_construction_targets**: скрипт, строки 471–478
+- **ai_weight**: скрипт, строки 480–482

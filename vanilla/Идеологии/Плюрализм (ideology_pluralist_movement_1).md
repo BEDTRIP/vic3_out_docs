@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Плюрализм (ideology_pluralist_movement_1)» — ваниль 1.15, `ideology_pluralist_movement_1`"
+description: "Идеология «Плюрализм (ideology_pluralist_movement_1)» — ваниль 1.15.2, `ideology_pluralist_movement_1`"
 project: vic3
 audience: agent
 source: vanilla

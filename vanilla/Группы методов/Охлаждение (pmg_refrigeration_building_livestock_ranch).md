@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_livestock_ranch)» — ваниль 1.15, `pmg_refrigeration_building_livestock_ranch`"
+description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_livestock_ranch)» — ваниль 1.15.2, `pmg_refrigeration_building_livestock_ranch`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Tersâne-i Âmire»» — ваниль 1.15, `company_imperial_arsenal`"
+description: "Вид компании ««Tersâne-i Âmire»» — ваниль 1.15.2, `company_imperial_arsenal`"
 project: vic3
 audience: agent
 source: vanilla
@@ -25,9 +25,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **extension_building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Заводы взрывчатки|Заводы взрывчатки]]
 - **potential**: скрипт, строки 111–113
 - **attainable**: скрипт, строки 115–121
-- **possible**: скрипт, строки 123–131
+- **possible**: скрипт, строки 123–135
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 137–143
-- **ai_construction_targets**: скрипт, строки 145–152
-- **ai_weight**: скрипт, строки 154–156
+- **ai_will_do**: скрипт, строки 141–147
+- **ai_construction_targets**: скрипт, строки 149–156
+- **ai_weight**: скрипт, строки 158–160

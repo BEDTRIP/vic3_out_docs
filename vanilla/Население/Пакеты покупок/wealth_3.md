@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Пакет покупок «wealth_3» — ваниль 1.15, `wealth_3`"
+description: "Пакет покупок «wealth_3» — ваниль 1.15.2, `wealth_3`"
 project: vic3
 audience: agent
 source: vanilla

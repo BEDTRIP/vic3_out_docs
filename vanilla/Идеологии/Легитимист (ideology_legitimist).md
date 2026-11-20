@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Легитимист (ideology_legitimist)» — ваниль 1.15, `ideology_legitimist`"
+description: "Идеология «Легитимист (ideology_legitimist)» — ваниль 1.15.2, `ideology_legitimist`"
 project: vic3
 audience: agent
 source: vanilla

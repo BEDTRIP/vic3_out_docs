@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_tea_plantation)» — ваниль 1.15, `automatic_irrigation_building_tea_plantation`"
+description: "Метод производства «Автоматическая ирригация (automatic_irrigation_building_tea_plantation)» — ваниль 1.15.2, `automatic_irrigation_building_tea_plantation`"
 project: vic3
 audience: agent
 source: vanilla

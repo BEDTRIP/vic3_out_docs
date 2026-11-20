@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Модернизатор (ideology_modernizer_leader)» — ваниль 1.15, `ideology_modernizer_leader`"
+description: "Идеология «Модернизатор (ideology_modernizer_leader)» — ваниль 1.15.2, `ideology_modernizer_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Модернизатор (ideology_modernizer_leader)
 
-Идеология · `ideology_modernizer_leader` · `common/ideologies/01_character_ideologies.txt:11403`
+Идеология · `ideology_modernizer_leader` · `common/ideologies/01_character_ideologies.txt:11406`
 
 ## Поля
 
@@ -64,6 +64,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - `has_technology_researched` = [[vanilla/Технологии/Академия|Академия]]
 - **interest_group_leader_trigger**:
   - `ideology_modernizer_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 11472–11491
-- **interest_group_leader_weight**: скрипт, строки 11493–11566
-- **non_interest_group_leader_weight**: скрипт, строки 11568–11620
+- **non_interest_group_leader_trigger**: скрипт, строки 11475–11494
+- **interest_group_leader_weight**: скрипт, строки 11496–11569
+- **non_interest_group_leader_weight**: скрипт, строки 11571–11623

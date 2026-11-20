@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Centro Vitivinícola Nacional»» — ваниль 1.15, `company_argentinian_wine`"
+description: "Вид компании ««Centro Vitivinícola Nacional»» — ваниль 1.15.2, `company_argentinian_wine`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 ---
 # «Centro Vitivinícola Nacional»
 
-Вид компании · `company_argentinian_wine` · `common/company_types/00_companies_cots.txt:470`
+Вид компании · `company_argentinian_wine` · `common/company_types/00_companies_cots.txt:486`
 
 ## Поля
 
@@ -21,10 +21,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_cots.txt]
 - **category**: `shopkeeper_owned`
 - **building_types**: [[vanilla/Здания/Виноградники|Виноградники]]
 - **extension_building_types**: [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-- **potential**: скрипт, строки 484–487
-- **possible**: скрипт, строки 489–500
+- **potential**: скрипт, строки 500–503
+- **possible**: скрипт, строки 505–516
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.2`
-- **ai_will_do**: скрипт, строки 506–512
-- **ai_construction_targets**: скрипт, строки 514–522
-- **ai_weight**: скрипт, строки 524–526
+- **ai_will_do**: скрипт, строки 522–528
+- **ai_construction_targets**: скрипт, строки 530–538
+- **ai_weight**: скрипт, строки 540–542

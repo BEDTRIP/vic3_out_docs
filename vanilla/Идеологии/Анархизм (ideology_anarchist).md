@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Анархизм (ideology_anarchist)» — ваниль 1.15, `ideology_anarchist`"
+description: "Идеология «Анархизм (ideology_anarchist)» — ваниль 1.15.2, `ideology_anarchist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Анархизм (ideology_anarchist)
 
-Идеология · `ideology_anarchist` · `common/ideologies/01_character_ideologies.txt:5735`
+Идеология · `ideology_anarchist` · `common/ideologies/01_character_ideologies.txt:5738`
 
 ## Поля
 
@@ -80,6 +80,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - `has_technology_researched` = [[vanilla/Технологии/Анархизм|Анархизм]]
 - **interest_group_leader_trigger**:
   - `ideology_anarchist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 5822–5847
-- **interest_group_leader_weight**: скрипт, строки 5849–6107
-- **non_interest_group_leader_weight**: скрипт, строки 6109–6293
+- **non_interest_group_leader_trigger**: скрипт, строки 5825–5850
+- **interest_group_leader_weight**: скрипт, строки 5852–6110
+- **non_interest_group_leader_weight**: скрипт, строки 6112–6296

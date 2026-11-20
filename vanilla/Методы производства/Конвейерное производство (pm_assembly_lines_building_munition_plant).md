@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_munition_plant)» — ваниль 1.15, `pm_assembly_lines_building_munition_plant`"
+description: "Метод производства «Конвейерное производство (pm_assembly_lines_building_munition_plant)» — ваниль 1.15.2, `pm_assembly_lines_building_munition_plant`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 ---
 # Конвейерное производство (pm_assembly_lines_building_munition_plant)
 
-Метод производства · `pm_assembly_lines_building_munition_plant` · `common/production_methods/01_industry.txt:2736`
+Метод производства · `pm_assembly_lines_building_munition_plant` · `common/production_methods/01_industry.txt:2735`
 
 ## Поля
 
@@ -24,7 +24,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 - **building_modifiers**:
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `4` → [[vanilla/Товары/Инструменты|Инструменты]]
-    - `goods_input_copper_add` = `1` → [[vanilla/Товары/Медь|Медь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-input-copper-add|goods_input_copper_add]] = `1` → [[vanilla/Товары/Медь|Медь]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-oil-add|goods_input_oil_add]] = `5` → [[vanilla/Товары/ГСМ|ГСМ]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-electricity-add|goods_input_electricity_add]] = `5` → [[vanilla/Товары/Электричество|Электричество]]
   - **level_scaled**:

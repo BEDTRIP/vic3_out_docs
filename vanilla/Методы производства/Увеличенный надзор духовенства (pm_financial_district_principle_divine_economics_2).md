@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)» — ваниль 1.15, `pm_financial_district_principle_divine_economics_2`"
+description: "Метод производства «Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)» — ваниль 1.15.2, `pm_financial_district_principle_divine_economics_2`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/11_private_infrastructure.txt]
 ---
 # Увеличенный надзор духовенства (pm_financial_district_principle_divine_economics_2)
 
-Метод производства · `pm_financial_district_principle_divine_economics_2` · `common/production_methods/11_private_infrastructure.txt:488`
+Метод производства · `pm_financial_district_principle_divine_economics_2` · `common/production_methods/11_private_infrastructure.txt:491`
 
 ## Поля
 

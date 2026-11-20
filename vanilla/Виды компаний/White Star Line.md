@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «White Star Line» — ваниль 1.15, `company_white_star_line`"
+description: "Вид компании «White Star Line» — ваниль 1.15.2, `company_white_star_line`"
 project: vic3
 audience: agent
 source: vanilla

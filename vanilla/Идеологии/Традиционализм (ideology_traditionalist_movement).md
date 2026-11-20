@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Традиционализм (ideology_traditionalist_movement)» — ваниль 1.15, `ideology_traditionalist_movement`"
+description: "Идеология «Традиционализм (ideology_traditionalist_movement)» — ваниль 1.15.2, `ideology_traditionalist_movement`"
 project: vic3
 audience: agent
 source: vanilla

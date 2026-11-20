@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — ваниль 1.15, `ideology_utilitarian_leader`"
+description: "Идеология «Утилитаризм (ideology_utilitarian_leader)» — ваниль 1.15.2, `ideology_utilitarian_leader`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Утилитаризм (ideology_utilitarian_leader)
 
-Идеология · `ideology_utilitarian_leader` · `common/ideologies/01_character_ideologies.txt:10933`
+Идеология · `ideology_utilitarian_leader` · `common/ideologies/01_character_ideologies.txt:10936`
 
 ## Поля
 
@@ -55,6 +55,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
     - `has_discrimination_trait` = `language_anglophone`
 - **interest_group_leader_trigger**:
   - `ideology_utilitarian_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 10992–11009
-- **interest_group_leader_weight**: скрипт, строки 11011–11060
-- **non_interest_group_leader_weight**: скрипт, строки 11062–11101
+- **non_interest_group_leader_trigger**: скрипт, строки 10995–11012
+- **interest_group_leader_weight**: скрипт, строки 11014–11063
+- **non_interest_group_leader_weight**: скрипт, строки 11065–11104

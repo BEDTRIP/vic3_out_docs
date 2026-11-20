@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Нигилизм (ideology_nihilist)» — ваниль 1.15, `ideology_nihilist`"
+description: "Идеология «Нигилизм (ideology_nihilist)» — ваниль 1.15.2, `ideology_nihilist`"
 project: vic3
 audience: agent
 source: vanilla

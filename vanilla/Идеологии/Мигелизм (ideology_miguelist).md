@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Мигелизм (ideology_miguelist)» — ваниль 1.15, `ideology_miguelist`"
+description: "Идеология «Мигелизм (ideology_miguelist)» — ваниль 1.15.2, `ideology_miguelist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Мигелизм (ideology_miguelist)
 
-Идеология · `ideology_miguelist` · `common/ideologies/01_character_ideologies.txt:12176`
+Идеология · `ideology_miguelist` · `common/ideologies/01_character_ideologies.txt:12179`
 
 ## Поля
 
@@ -58,9 +58,9 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
   - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
   - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `disapprove`
-- **country_trigger**: скрипт, строки 12231–12242
+- **country_trigger**: скрипт, строки 12234–12245
 - **interest_group_leader_trigger**:
   - `ideology_miguelist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 12248–12263
-- **interest_group_leader_weight**: скрипт, строки 12265–12361
-- **non_interest_group_leader_weight**: скрипт, строки 12363–12447
+- **non_interest_group_leader_trigger**: скрипт, строки 12251–12266
+- **interest_group_leader_weight**: скрипт, строки 12268–12364
+- **non_interest_group_leader_weight**: скрипт, строки 12366–12450

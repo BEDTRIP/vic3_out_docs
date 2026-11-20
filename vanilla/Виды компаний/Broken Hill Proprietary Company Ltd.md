@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Broken Hill Proprietary Company Ltd» — ваниль 1.15, `company_broken_hill_proprietary_company`"
+description: "Вид компании «Broken Hill Proprietary Company Ltd» — ваниль 1.15.2, `company_broken_hill_proprietary_company`"
 project: vic3
 audience: agent
 source: vanilla
@@ -29,7 +29,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ep2.txt]
 - **possible**: скрипт, строки 496–509
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-production-tech-research-speed-mult|country_production_tech_research_speed_mult]] = `0.05`
-  - `building_copper_mine_throughput_add` = `0.1` → [[vanilla/Здания/Медные рудники|Медные рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-copper-mine-throughput-add|building_copper_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Медные рудники|Медные рудники]]
 - **ai_will_do**: скрипт, строки 516–520
 - **ai_construction_targets**: скрипт, строки 522–535
 - **ai_weight**: скрипт, строки 537–539

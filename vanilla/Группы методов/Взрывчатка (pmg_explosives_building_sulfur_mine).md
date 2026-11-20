@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Взрывчатка (pmg_explosives_building_sulfur_mine)» — ваниль 1.15, `pmg_explosives_building_sulfur_mine`"
+description: "Группа методов производства «Взрывчатка (pmg_explosives_building_sulfur_mine)» — ваниль 1.15.2, `pmg_explosives_building_sulfur_mine`"
 project: vic3
 audience: agent
 source: vanilla

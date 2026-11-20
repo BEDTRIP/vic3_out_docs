@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Местечковый традиционализм (ideology_traditionalist_minoritarian_movement)» — ваниль 1.15, `ideology_traditionalist_minoritarian_movement`"
+description: "Идеология «Местечковый традиционализм (ideology_traditionalist_minoritarian_movement)» — ваниль 1.15.2, `ideology_traditionalist_minoritarian_movement`"
 project: vic3
 audience: agent
 source: vanilla

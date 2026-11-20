@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Против рабства (ideology_slave_revolt_movement)» — ваниль 1.15, `ideology_slave_revolt_movement`"
+description: "Идеология «Против рабства (ideology_slave_revolt_movement)» — ваниль 1.15.2, `ideology_slave_revolt_movement`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Fundidora de Fierro y Acero de Monterrey»» — ваниль 1.15, `company_fundidora_monterrey`"
+description: "Вид компании ««Fundidora de Fierro y Acero de Monterrey»» — ваниль 1.15.2, `company_fundidora_monterrey`"
 project: vic3
 audience: agent
 source: vanilla
@@ -26,10 +26,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **prestige_goods_trigger**: скрипт, строки 23–28
 - **potential**: скрипт, строки 30–32
 - **attainable**: скрипт, строки 34–40
-- **possible**: скрипт, строки 42–50
+- **possible**: скрипт, строки 42–54
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
   - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Железные рудники|Железные рудники]]
-- **ai_will_do**: скрипт, строки 57–62
-- **ai_construction_targets**: скрипт, строки 64–71
-- **ai_weight**: скрипт, строки 73–75
+- **ai_will_do**: скрипт, строки 61–66
+- **ai_construction_targets**: скрипт, строки 68–75
+- **ai_weight**: скрипт, строки 77–79

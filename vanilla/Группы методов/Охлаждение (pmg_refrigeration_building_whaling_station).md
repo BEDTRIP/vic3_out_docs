@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_whaling_station)» — ваниль 1.15, `pmg_refrigeration_building_whaling_station`"
+description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_whaling_station)» — ваниль 1.15.2, `pmg_refrigeration_building_whaling_station`"
 project: vic3
 audience: agent
 source: vanilla

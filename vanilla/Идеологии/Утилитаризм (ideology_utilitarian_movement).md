@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Утилитаризм (ideology_utilitarian_movement)» — ваниль 1.15, `ideology_utilitarian_movement`"
+description: "Идеология «Утилитаризм (ideology_utilitarian_movement)» — ваниль 1.15.2, `ideology_utilitarian_movement`"
 project: vic3
 audience: agent
 source: vanilla

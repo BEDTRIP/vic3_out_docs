@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_orchard)» — ваниль 1.15, `pm_serfdom_building_subsistence_orchard`"
+description: "Метод производства «Крепостное право (pm_serfdom_building_subsistence_orchard)» — ваниль 1.15.2, `pm_serfdom_building_subsistence_orchard`"
 project: vic3
 audience: agent
 source: vanilla

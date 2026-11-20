@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Индуистский морализм (ideology_hindu_moralist)» — ваниль 1.15, `ideology_hindu_moralist`"
+description: "Идеология «Индуистский морализм (ideology_hindu_moralist)» — ваниль 1.15.2, `ideology_hindu_moralist`"
 project: vic3
 audience: agent
 source: vanilla

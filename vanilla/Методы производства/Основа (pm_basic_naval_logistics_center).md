@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Основа (pm_basic_naval_logistics_center)» — ваниль 1.15, `pm_basic_naval_logistics_center`"
+description: "Метод производства «Основа (pm_basic_naval_logistics_center)» — ваниль 1.15.2, `pm_basic_naval_logistics_center`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned)» — ваниль 1.15, `pm_company_headquarter_privately_owned`"
+description: "Метод производства «Частная собственность (pm_company_headquarter_privately_owned)» — ваниль 1.15.2, `pm_company_headquarter_privately_owned`"
 project: vic3
 audience: agent
 source: vanilla

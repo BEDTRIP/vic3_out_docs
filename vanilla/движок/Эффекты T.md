@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Эффекты T — 7, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Эффекты T — 7, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Эффекты T
 
-Из дампа `effects.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `effects.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **take_on_scaled_debt** — Transfers an amount of debt equal to the defined multiplier on target's max credit } · `take_on_scaled_debt = { who = <country> value = decimal value` · supported scopes: country ^e-take-on-scaled-debt
 - **teleport_to_front** — Teleports the scope formation to the target front Can also take a base_camp parameter, will use given province to search for the nearest connected base camp · `teleport_to_front = p:xFAFAFA.front teleport_to_front = { front = p:xFAFAFA.front base_camp = p:xFAFAFA }` · supported scopes: military_formation ^e-teleport-to-front

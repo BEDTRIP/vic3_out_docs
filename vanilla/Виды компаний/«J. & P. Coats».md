@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««J. & P. Coats»» — ваниль 1.15, `company_j_p_coats`"
+description: "Вид компании ««J. & P. Coats»» — ваниль 1.15.2, `company_j_p_coats`"
 project: vic3
 audience: agent
 source: vanilla
@@ -26,10 +26,10 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **prestige_goods_trigger**: скрипт, строки 22–27
 - **potential**: скрипт, строки 29–31
 - **attainable**: скрипт, строки 33–39
-- **possible**: скрипт, строки 41–49
+- **possible**: скрипт, строки 41–53
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-textile-mill-throughput-add|building_textile_mill_throughput_add]] = `0.15` → [[vanilla/Здания/Текстильные фабрики|Текстильные фабрики]]
   - [[vanilla/движок/Модификаторы B#^m-building-cotton-plantation-throughput-add|building_cotton_plantation_throughput_add]] = `0.05` → [[vanilla/Здания/Плантации хлопка|Плантации хлопка]]
-- **ai_will_do**: скрипт, строки 56–62
-- **ai_construction_targets**: скрипт, строки 64–71
-- **ai_weight**: скрипт, строки 73–75
+- **ai_will_do**: скрипт, строки 60–66
+- **ai_construction_targets**: скрипт, строки 68–75
+- **ai_weight**: скрипт, строки 77–79

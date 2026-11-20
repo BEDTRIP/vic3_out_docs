@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Паровой насос с конденсатором (pm_condensing_engine_pump_building_copper_mine)» — ваниль 1.15, `pm_condensing_engine_pump_building_copper_mine`"
+description: "Метод производства «Паровой насос с конденсатором (pm_condensing_engine_pump_building_copper_mine)» — ваниль 1.15.2, `pm_condensing_engine_pump_building_copper_mine`"
 project: vic3
 audience: agent
 source: vanilla
@@ -25,7 +25,7 @@ paths: [.vanillaVIC3/common/production_methods/03_mines.txt]
   - **workforce_scaled**:
     - [[vanilla/движок/Модификаторы G#^m-goods-input-tools-add|goods_input_tools_add]] = `15` → [[vanilla/Товары/Инструменты|Инструменты]]
     - [[vanilla/движок/Модификаторы G#^m-goods-input-coal-add|goods_input_coal_add]] = `15` → [[vanilla/Товары/Уголь|Уголь]]
-    - `goods_output_copper_add` = `60` → [[vanilla/Товары/Медь|Медь]]
+    - [[vanilla/движок/Модификаторы G#^m-goods-output-copper-add|goods_output_copper_add]] = `60` → [[vanilla/Товары/Медь|Медь]]
   - **level_scaled**:
     - [[vanilla/движок/Модификаторы B#^m-building-employment-shopkeepers-add|building_employment_shopkeepers_add]] = `500` → [[vanilla/Население/Типы/Лавочники|Лавочники]]
     - [[vanilla/движок/Модификаторы B#^m-building-employment-laborers-add|building_employment_laborers_add]] = `3000` → [[vanilla/Население/Типы/Рабочие|Рабочие]]

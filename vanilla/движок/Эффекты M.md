@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Эффекты M — 4, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Эффекты M — 4, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Эффекты M
 
-Из дампа `effects.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `effects.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **make_independent** — Makes a country independent. · `make_independent = bool` · supported scopes: country ^e-make-independent
 - **mobilize_army** — Mobilizes scope army · `mobilize_army = yes` · supported scopes: military_formation ^e-mobilize-army

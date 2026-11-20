@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Hanseong Jeongi Hoesa»» — ваниль 1.15, `company_hanseong_jeongi_hoesa`"
+description: "Вид компании ««Hanseong Jeongi Hoesa»» — ваниль 1.15.2, `company_hanseong_jeongi_hoesa`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 ---
 # «Hanseong Jeongi Hoesa»
 
-Вид компании · `company_hanseong_jeongi_hoesa` · `common/company_types/00_companies_soi.txt:595`
+Вид компании · `company_hanseong_jeongi_hoesa` · `common/company_types/00_companies_soi.txt:615`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_soi.txt]
 - **preferred_headquarters**: `STATE_SEOUL`
 - **building_types**: [[vanilla/Здания/Электростанции|Электростанции]]
 - **extension_building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
-- **potential**: скрипт, строки 613–616
-- **attainable**: скрипт, строки 618–624
-- **possible**: скрипт, строки 626–634
+- **potential**: скрипт, строки 633–636
+- **attainable**: скрипт, строки 638–644
+- **possible**: скрипт, строки 646–658
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-art-academy-throughput-add|building_art_academy_throughput_add]] = `0.05` → [[vanilla/Здания/Академии искусств|Академии искусств]]
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.05` → [[vanilla/Здания/Железные дороги|Железные дороги]]
-- **ai_will_do**: скрипт, строки 641–647
-- **ai_construction_targets**: скрипт, строки 649–656
-- **ai_weight**: скрипт, строки 658–660
+- **ai_will_do**: скрипт, строки 665–671
+- **ai_construction_targets**: скрипт, строки 673–680
+- **ai_weight**: скрипт, строки 682–684

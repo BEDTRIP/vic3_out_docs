@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Quality Grains Inc» — ваниль 1.15, `company_basic_agriculture_1`"
+description: "Вид компании «Quality Grains Inc» — ваниль 1.15.2, `company_basic_agriculture_1`"
 project: vic3
 audience: agent
 source: vanilla
@@ -29,4 +29,4 @@ paths: [.vanillaVIC3/common/company_types/99_basic_companies.txt]
 - **possible**: скрипт, строки 39–49
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-livestock-ranch-throughput-add|building_livestock_ranch_throughput_add]] = `0.1` → [[vanilla/Здания/Животноводческие фермы|Животноводческие фермы]]
-- **ai_will_do**: скрипт, строки 55–65
+- **ai_will_do**: скрипт, строки 55–57

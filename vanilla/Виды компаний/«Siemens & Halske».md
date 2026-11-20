@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Siemens & Halske»» — ваниль 1.15, `company_siemens_and_halske`"
+description: "Вид компании ««Siemens & Halske»» — ваниль 1.15.2, `company_siemens_and_halske`"
 project: vic3
 audience: agent
 source: vanilla
@@ -24,9 +24,9 @@ paths: [.vanillaVIC3/common/company_types/00_companies_germany.txt]
 - **extension_building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **potential**: скрипт, строки 312–314
 - **attainable**: скрипт, строки 316–322
-- **possible**: скрипт, строки 324–332
+- **possible**: скрипт, строки 324–336
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-power-plant-throughput-add|building_power_plant_throughput_add]] = `0.15` → [[vanilla/Здания/Электростанции|Электростанции]]
-- **ai_will_do**: скрипт, строки 338–344
-- **ai_construction_targets**: скрипт, строки 346–353
-- **ai_weight**: скрипт, строки 355–357
+- **ai_will_do**: скрипт, строки 342–348
+- **ai_construction_targets**: скрипт, строки 350–357
+- **ai_weight**: скрипт, строки 359–361

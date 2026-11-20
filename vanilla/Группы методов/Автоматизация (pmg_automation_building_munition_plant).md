@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Автоматизация (pmg_automation_building_munition_plant)» — ваниль 1.15, `pmg_automation_building_munition_plant`"
+description: "Группа методов производства «Автоматизация (pmg_automation_building_munition_plant)» — ваниль 1.15.2, `pmg_automation_building_munition_plant`"
 project: vic3
 audience: agent
 source: vanilla

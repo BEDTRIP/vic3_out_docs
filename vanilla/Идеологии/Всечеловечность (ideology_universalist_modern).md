@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Всечеловечность (ideology_universalist_modern)» — ваниль 1.15, `ideology_universalist_modern`"
+description: "Идеология «Всечеловечность (ideology_universalist_modern)» — ваниль 1.15.2, `ideology_universalist_modern`"
 project: vic3
 audience: agent
 source: vanilla

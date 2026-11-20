@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Базовое производство (default_building_gold_field)» — ваниль 1.15, `default_building_gold_field`"
+description: "Метод производства «Базовое производство (default_building_gold_field)» — ваниль 1.15.2, `default_building_gold_field`"
 project: vic3
 audience: agent
 source: vanilla

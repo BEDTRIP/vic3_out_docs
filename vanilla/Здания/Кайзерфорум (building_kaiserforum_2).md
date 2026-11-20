@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Кайзерфорум (building_kaiserforum_2)» — ваниль 1.15, `building_kaiserforum_2`"
+description: "Здание «Кайзерфорум (building_kaiserforum_2)» — ваниль 1.15.2, `building_kaiserforum_2`"
 project: vic3
 audience: agent
 source: vanilla

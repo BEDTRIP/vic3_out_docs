@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Анархизм (ideology_anarchist_movement)» — ваниль 1.15, `ideology_anarchist_movement`"
+description: "Идеология «Анархизм (ideology_anarchist_movement)» — ваниль 1.15.2, `ideology_anarchist_movement`"
 project: vic3
 audience: agent
 source: vanilla

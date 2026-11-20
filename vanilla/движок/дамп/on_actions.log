@@ -2,12 +2,6 @@ On Action Documentation:
 
 --------------------
 
-zz_ef_newcountry_on_country_released_as_overlord_subject:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_law_enactment_fail:
 From Code: Yes
 Expected Scope: none
@@ -34,6 +28,12 @@ Expected Scope: country
 
 on_wounded:
 From Code: No
+Expected Scope: none
+
+--------------------
+
+on_wargoal_enforced_by_timer:
+From Code: Yes
 Expected Scope: none
 
 --------------------
@@ -134,18 +134,6 @@ Expected Scope: none
 
 --------------------
 
-ef_on_battle_ended:
-From Code: No
-Expected Scope: none
-
---------------------
-
-zz_ef_monthly_unscheduled:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_naval_battle_started:
 From Code: Yes
 Expected Scope: none
@@ -160,12 +148,6 @@ Expected Scope: none
 
 on_reverse_sway_offer_accepted:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_pb_ef_ai_sector_downsize:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -260,18 +242,6 @@ Expected Scope: none
 
 --------------------
 
-zz_ef_bubble_monthly:
-From Code: No
-Expected Scope: none
-
---------------------
-
-zz_ef_capitalization_monthly:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_enemy_supply_ships_raided:
 From Code: Yes
 Expected Scope: none
@@ -296,13 +266,19 @@ Expected Scope: country
 
 --------------------
 
+on_character_returned_from_exile:
+From Code: Yes
+Expected Scope: none
+
+--------------------
+
 exile_pool_culling_on_action:
 From Code: No
 Expected Scope: none
 
 --------------------
 
-zz_ef_init_stockpile_state_vars_monthly_backstop:
+on_monthly_pulse_country_morocco:
 From Code: No
 Expected Scope: none
 
@@ -332,8 +308,8 @@ Expected Scope: none
 
 --------------------
 
-set_construction_weekly_on_action:
-From Code: No
+on_journal_entry_concluded:
+From Code: Yes
 Expected Scope: none
 
 --------------------
@@ -346,6 +322,12 @@ Expected Scope: country
 
 on_journal_entry_deactivated:
 From Code: Yes
+Expected Scope: none
+
+--------------------
+
+on_monthly_pulse_country_portugal:
+From Code: No
 Expected Scope: none
 
 --------------------
@@ -365,12 +347,6 @@ Expected Scope: country
 on_election_campaign_start:
 From Code: Yes
 Expected Scope: country
-
---------------------
-
-zz_ef_cb_rate_monthly:
-From Code: No
-Expected Scope: none
 
 --------------------
 
@@ -416,6 +392,12 @@ Expected Scope: none
 
 --------------------
 
+on_monthly_pulse_country_spain:
+From Code: No
+Expected Scope: none
+
+--------------------
+
 on_sway_offer:
 From Code: Yes
 Expected Scope: none
@@ -448,7 +430,7 @@ Expected Scope: none
 
 on_government_reformed:
 From Code: Yes
-Expected Scope: none
+Expected Scope: country
 
 --------------------
 
@@ -458,7 +440,7 @@ Expected Scope: none
 
 --------------------
 
-on_com_released_country_topbar:
+on_monthly_pulse_country_india:
 From Code: No
 Expected Scope: none
 
@@ -473,6 +455,12 @@ Expected Scope: none
 british_dictate_yearly_events:
 From Code: No
 Expected Scope: country
+
+--------------------
+
+on_monthly_pulse_country_baltic:
+From Code: No
+Expected Scope: none
 
 --------------------
 
@@ -560,6 +548,12 @@ Expected Scope: none
 
 --------------------
 
+on_monthly_pulse_country_montenegro:
+From Code: No
+Expected Scope: none
+
+--------------------
+
 on_treaty_enforced:
 From Code: Yes
 Expected Scope: none
@@ -578,14 +572,14 @@ Expected Scope: none
 
 --------------------
 
-com_topbar_setup:
-From Code: No
+on_power_bloc_struggle_started:
+From Code: Yes
 Expected Scope: none
 
 --------------------
 
-on_power_bloc_struggle_started:
-From Code: Yes
+on_monthly_pulse_country_britain:
+From Code: No
 Expected Scope: none
 
 --------------------
@@ -596,14 +590,14 @@ Expected Scope: none
 
 --------------------
 
-on_sway_offer_accepted:
+on_power_bloc_formed:
 From Code: Yes
 Expected Scope: none
 
 --------------------
 
-on_acquired_construction_tech:
-From Code: No
+on_sway_offer_accepted:
+From Code: Yes
 Expected Scope: none
 
 --------------------
@@ -616,12 +610,6 @@ Expected Scope: none
 
 on_invasion_succeeded:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_money_model_monthly:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -704,6 +692,12 @@ Expected Scope: none
 
 --------------------
 
+on_diplo_play_subject_backstab_overlord:
+From Code: Yes
+Expected Scope: none
+
+--------------------
+
 on_reverse_sway_offer_rejected:
 From Code: Yes
 Expected Scope: none
@@ -718,12 +712,6 @@ Expected Scope: none
 
 on_decade_pulse_character:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_newcountry_on_become_independent:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -758,12 +746,6 @@ Expected Scope: none
 
 --------------------
 
-example_on_action_weekly:
-From Code: No
-Expected Scope: none
-
---------------------
-
 kamehameha_coin_toss:
 From Code: No
 Expected Scope: none
@@ -782,12 +764,6 @@ Expected Scope: none
 
 --------------------
 
-on_construction_sector_method_changed:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_our_supply_ships_raided:
 From Code: Yes
 Expected Scope: none
@@ -800,33 +776,9 @@ Expected Scope: state
 
 --------------------
 
-zz_ef_newcountry_on_country_released_as_independent:
-From Code: No
-Expected Scope: none
-
---------------------
-
-ef_on_half_yearly_pulse_country:
-From Code: No
-Expected Scope: none
-
---------------------
-
-set_spending_value:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_country_formed:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-set_construction_country:
-From Code: No
-Expected Scope: none
+Expected Scope: country
 
 --------------------
 
@@ -844,6 +796,12 @@ Expected Scope: country
 
 on_law_checkpoint_success:
 From Code: Yes
+Expected Scope: country
+
+--------------------
+
+on_monthly_pulse_country_france:
+From Code: No
 Expected Scope: none
 
 --------------------
@@ -880,12 +838,6 @@ Expected Scope: none
 
 on_enemy_capitulated_notification:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_sched_probe:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -938,26 +890,8 @@ Expected Scope: none
 
 --------------------
 
-on_diplo_play_subject_released_overlord:
+on_lost_war:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_newcountry_on_country_released_as_own_subject:
-From Code: No
-Expected Scope: none
-
---------------------
-
-zz_ef_cur_names_start:
-From Code: No
-Expected Scope: none
-
---------------------
-
-on_com_revolution_copy_topbar:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -980,12 +914,6 @@ Expected Scope: none
 
 --------------------
 
-zz_ef_rv_on_revolution_end:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_flagship_destroyed:
 From Code: Yes
 Expected Scope: none
@@ -993,12 +921,6 @@ Expected Scope: none
 --------------------
 
 on_country_broke_treaty:
-From Code: Yes
-Expected Scope: none
-
---------------------
-
-on_journal_entry_failed:
 From Code: Yes
 Expected Scope: none
 
@@ -1024,6 +946,12 @@ Expected Scope: none
 
 on_start_supporting_unification:
 From Code: Yes
+Expected Scope: none
+
+--------------------
+
+on_monthly_pulse_country_japan:
+From Code: No
 Expected Scope: none
 
 --------------------
@@ -1055,6 +983,12 @@ Expected Scope: none
 on_ally_capitulated_notification:
 From Code: Yes
 Expected Scope: none
+
+--------------------
+
+on_monthly_pulse_country_russia:
+From Code: No
+Expected Scope: country
 
 --------------------
 
@@ -1106,20 +1040,20 @@ Expected Scope: none
 
 --------------------
 
+council_republic_monthly_events:
+From Code: No
+Expected Scope: country
+
+--------------------
+
 on_sub_objective_completed:
 From Code: Yes
 Expected Scope: none
 
 --------------------
 
-on_com_save_structs:
-From Code: No
-Expected Scope: none
-
---------------------
-
-zz_ef_sched_day:
-From Code: No
+on_won_war:
+From Code: Yes
 Expected Scope: none
 
 --------------------
@@ -1130,14 +1064,8 @@ Expected Scope: none
 
 --------------------
 
-ef_on_five_year_pulse_country:
-From Code: No
-Expected Scope: none
-
---------------------
-
-on_construction_sector_built:
-From Code: No
+on_diplo_play_overlord_protects_subject:
+From Code: Yes
 Expected Scope: none
 
 --------------------
@@ -1150,12 +1078,6 @@ Expected Scope: country
 
 on_diplomatic_action_subject_increase_own_autonomy:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-set_construction_start:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -1190,12 +1112,6 @@ Expected Scope: none
 
 --------------------
 
-com_topbar_setup_ef:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_unification_candidate_removed:
 From Code: Yes
 Expected Scope: none
@@ -1208,15 +1124,15 @@ Expected Scope: none
 
 --------------------
 
-on_decade_pulse_country:
-From Code: Yes
-Expected Scope: country
+sps_law_checkpoint_cancellation:
+From Code: No
+Expected Scope: none
 
 --------------------
 
-zz_ef_rv_on_civil_war_won:
-From Code: No
-Expected Scope: none
+on_decade_pulse_country:
+From Code: Yes
+Expected Scope: country
 
 --------------------
 
@@ -1292,32 +1208,14 @@ Expected Scope: none
 
 --------------------
 
-zz_ef_bank_monthly:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_country_released_as_independent:
 From Code: Yes
 Expected Scope: none
 
 --------------------
 
-zz_ef_roles_monthly:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_diplomatic_proposal_accepted:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-ef_on_yearly_pulse_country:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -1346,12 +1244,6 @@ Expected Scope: none
 
 --------------------
 
-zz_ef_rv_on_secession_end:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_naval_battle_won:
 From Code: Yes
 Expected Scope: country
@@ -1365,12 +1257,6 @@ Expected Scope: country
 --------------------
 
 on_merge_markets:
-From Code: Yes
-Expected Scope: none
-
---------------------
-
-on_diplo_play_subject_released:
 From Code: Yes
 Expected Scope: none
 
@@ -1406,14 +1292,14 @@ Expected Scope: none
 
 --------------------
 
-on_decade_pulse_state:
-From Code: Yes
+on_monthly_pulse_country_sweden:
+From Code: No
 Expected Scope: none
 
 --------------------
 
-zz_pb_ef_overbuild_counter:
-From Code: No
+on_decade_pulse_state:
+From Code: Yes
 Expected Scope: none
 
 --------------------
@@ -1432,12 +1318,6 @@ Expected Scope: none
 
 on_travel_to_front_cancelled:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_rv_on_revolution_start:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -1472,12 +1352,6 @@ Expected Scope: none
 
 --------------------
 
-set_weekly_on_action_example:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_repudiate_obligation:
 From Code: Yes
 Expected Scope: none
@@ -1499,6 +1373,12 @@ Expected Scope: none
 on_peace_agreement_signed_war_participant:
 From Code: Yes
 Expected Scope: none
+
+--------------------
+
+russia_yearly_events:
+From Code: No
+Expected Scope: country
 
 --------------------
 
@@ -1556,12 +1436,6 @@ Expected Scope: none
 
 --------------------
 
-on_journal_entry_completed:
-From Code: Yes
-Expected Scope: none
-
---------------------
-
 on_diplomatic_incident:
 From Code: Yes
 Expected Scope: none
@@ -1574,15 +1448,15 @@ Expected Scope: none
 
 --------------------
 
-zz_ef_sched_step:
-From Code: No
-Expected Scope: none
-
---------------------
-
 on_monthly_pulse_country:
 From Code: Yes
 Expected Scope: country
+
+--------------------
+
+on_five_year_pulse_country_poland:
+From Code: No
+Expected Scope: none
 
 --------------------
 
@@ -1640,24 +1514,6 @@ Expected Scope: country
 
 --------------------
 
-zz_ef_newcountry_on_country_released_as_company_subject:
-From Code: No
-Expected Scope: none
-
---------------------
-
-zz_ef_sched_start:
-From Code: No
-Expected Scope: none
-
---------------------
-
-ef_on_monthly_pulse_country:
-From Code: No
-Expected Scope: none
-
---------------------
-
 coup_aftermath_half_yearly_events:
 From Code: No
 Expected Scope: country
@@ -1666,12 +1522,6 @@ Expected Scope: country
 
 on_migration_target_created_other:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_init_stockpile_state_vars:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -1703,6 +1553,12 @@ Expected Scope: state
 portugal_single_fire_yearly_events:
 From Code: No
 Expected Scope: country
+
+--------------------
+
+on_monthly_pulse_country_turkey:
+From Code: No
+Expected Scope: none
 
 --------------------
 
@@ -1742,6 +1598,12 @@ Expected Scope: none
 
 --------------------
 
+rlit_monthly_events:
+From Code: No
+Expected Scope: country
+
+--------------------
+
 on_empty_battle_won:
 From Code: Yes
 Expected Scope: none
@@ -1755,6 +1617,12 @@ Expected Scope: none
 --------------------
 
 lobbies_proposals_half_yearly_events:
+From Code: No
+Expected Scope: country
+
+--------------------
+
+nemo_monthly_events:
 From Code: No
 Expected Scope: country
 
@@ -1790,20 +1658,14 @@ Expected Scope: none
 
 --------------------
 
+chartering_the_stanitsas_state_gained:
+From Code: No
+Expected Scope: none
+
+--------------------
+
 on_sway_offer_rejected:
 From Code: Yes
-Expected Scope: none
-
---------------------
-
-zz_ef_rv_on_secession_start:
-From Code: No
-Expected Scope: none
-
---------------------
-
-zz_ef_newcountry_on_country_formed:
-From Code: No
 Expected Scope: none
 
 --------------------
@@ -1835,6 +1697,12 @@ Expected Scope: none
 silkworm_half_yearly_events:
 From Code: No
 Expected Scope: country
+
+--------------------
+
+on_inconclusive_war:
+From Code: Yes
+Expected Scope: none
 
 --------------------
 

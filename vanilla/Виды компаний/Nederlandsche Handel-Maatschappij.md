@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Nederlandsche Handel-Maatschappij» — ваниль 1.15, `company_nhm`"
+description: "Вид компании «Nederlandsche Handel-Maatschappij» — ваниль 1.15.2, `company_nhm`"
 project: vic3
 audience: agent
 source: vanilla

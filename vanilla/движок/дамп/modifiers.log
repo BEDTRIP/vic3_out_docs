@@ -118,11 +118,11 @@ building_self_investment_chance_add:
 building_subsistence_output_add:
   Mask: building
   Name: к доходам от натурального хозяйства
-  Description: Увеличение или уменьшение доходов от натурального хозяйства , которые получают peasants! Крестьяне, работающие в сооружении.
+  Description: Увеличение или уменьшение доходов от натурального хозяйства , которые получают peasants! Крестьяне, работающие в сооружении.
 building_subsistence_output_mult:
   Mask: building
   Name: к доходам от натурального хозяйства
-  Description: Увеличение или уменьшение доходов от натурального хозяйства , которые получают peasants! Крестьяне, работающие в сооружении.
+  Description: Увеличение или уменьшение доходов от натурального хозяйства , которые получают peasants! Крестьяне, работающие в сооружении.
 building_throughput_add:
   Mask: building
   Name: Товарооборот
@@ -138,7 +138,7 @@ building_training_rate_mult:
 building_unincorporated_subsistence_output_mult:
   Mask: building
   Name: к доходам от натурального хозяйства в невключённых областях
-  Description: Увеличение или уменьшение доходов от натурального хозяйства , которые получают peasants! Крестьяне в невключённых областях
+  Description: Увеличение или уменьшение доходов от натурального хозяйства , которые получают peasants! Крестьяне в невключённых областях
 building_unincorporated_throughput_add:
   Mask: building
   Name: к товарообороту в невключённых областях
@@ -238,7 +238,7 @@ character_battle_condition_surprise_maneuver_mult:
 character_blockade_mult:
   Mask: character
   Name: Сила блокады адмирала
-  Description: Бонус или штраф к тому, как эффективно адмирал блокирует вражеские порты
+  Description: Бонус или штраф к тому, как эффективно адмирал блокирует враждебные порты
 character_command_limit_add:
   Mask: character
   Name: Боевой авторитет
@@ -258,12 +258,12 @@ character_commander_loyalty_add:
   Description: Увеличение или уменьшение лояльности командира
 character_convoy_protection_mult:
   Mask: character
-  Name: Защита торговых кораблей адмиралом
-  Description: Бонус или штраф к тому, как эффективно адмирал защищает торговые корабли
+  Name: Защита merchant_marine! Торговых кораблей адмиралом
+  Description: Бонус или штраф к тому, как эффективно адмирал защищает merchant_marine! Торговые корабли
 character_convoy_raiding_mult:
   Mask: character
-  Name: Эффективность налётов адмирала на торговые корабли
-  Description: Бонус или штраф к эффективности адмирала при налёте на торговые корабли
+  Name: Эффективность налётов адмирала на merchant_marine! Торговые корабли
+  Description: Бонус или штраф к эффективности адмирала при налёте на merchant_marine! Торговые корабли
 character_coup_strength_add:
   Mask: character
   Name: Сила переворота
@@ -424,6 +424,10 @@ country_authority_per_subject_add:
   Mask: country
   Name: aut! Авторитет за субъект
   Description: Количество aut! авторитета, зависящее от количества субъектов
+country_ban_slavery_no_infamy_bool:
+  Mask: country
+  Name: Отсутствие дурной славы в войнах за отмену рабства
+  Description: Цели войны «Отмена рабства» больше не увеличивают уровень дурной славы
 country_block_government_reform_bool:
   Mask: country
   Name: Запрещает реформы правительства
@@ -452,10 +456,18 @@ country_bureaucracy_mult:
   Mask: country
   Name: к количеству bur! бюрократии
   Description: Прирост и убыток bur! бюрократии
+country_can_conscript_protected_subsistence_employment_bool:
+  Mask: country
+  Name: Призывные пункты игнорируют защиту занятости в натуральном хозяйстве
+  Description: Могут ли призывные пункты вербовать население из построек натурального хозяйства вне зависимости от защиты их занятости
 country_can_form_construction_company_bool:
   Mask: country
   Name: Может образовывать строительные компании
   Description: Может образовывать строительные компании
+country_can_found_cossack_host_bool:
+  Mask: country
+  Name: Можно учреждать казачьи войска
+  Description: Позволяет учреждать казачьи войска в областях
 country_can_only_conscript_peasants_bool:
   Mask: country
   Name: Разрешены только пехотные батальоны призывников
@@ -472,6 +484,10 @@ country_cannot_cancel_law_enactment_bool:
   Mask: country
   Name: Запретить отменять принятие законов
   Description: Штраф, запрещающий стране отменять принятие каких-либо рассматриваемых законов
+country_cannot_decrease_autonomy_bool:
+  Mask: country
+  Name: Гарантирована автономия
+  Description: Гарантия, которая не позволяет сюзерену снижать автономию или использовать действие сюзерена «Установить предпочтительного правителя»
 country_cannot_enact_laws_bool:
   Mask: country
   Name: Запретить принимать законы
@@ -484,10 +500,6 @@ country_cannot_start_law_enactment_bool:
   Mask: country
   Name: Запретить начинать принятие законов
   Description: Штраф, запрещающий стране начинать процедуру принятия новых законов
-country_change_gold_silver_ratio_bool:
-  Mask: country
-  Name: Корректировка золотосеребряного паритета
-  Description: Эта поправка изменяет установленный законом золотосеребряный паритет, корректируя биметаллическое соотношение, применяемое государством.
 country_company_construction_efficiency_bonus_add:
   Mask: country
   Name: Бонус к строительству от компании
@@ -520,14 +532,6 @@ country_coup_resistance_mult:
   Mask: country
   Name: Устойчивость к переворотам
   Description: Увеличение или уменьшение способности страны сопротивляться возможному перевороту
-country_credit_note_add:
-  Mask: country
-  Name: Прибавка к кредитному рейтингу страны
-  Description: Увеличение общего рейтинга страны на +0,5 за уровень института
-country_credit_note_mult:
-  Mask: country
-  Name: Множитель кредитного рейтинга страны
-  Description: Увеличение общего рейтинга страны на 5% за уровень института
 country_damage_relations_speed_mult:
   Mask: country
   Name: к скорости ухудшения отношений
@@ -568,6 +572,14 @@ country_disallow_agitator_invites_bool:
   Mask: country
   Name: Запрещено приглашать изгнанников
   Description: Эта страна не позволяет приглашать изгнанников
+country_disallow_army_creation_bool:
+  Mask: country
+  Name: Запретить создание армии
+  Description: Не разрешается создавать новые армии
+country_disallow_military_ship_construction_bool:
+  Mask: country
+  Name: Запретить постройку военных кораблей
+  Description: Не разрешает строить военные корабли, но на корабли снабжения это ограничение не распространяется
 country_disallow_trade_bool:
   Mask: country
   Name: Запрет торговых центров
@@ -608,10 +620,6 @@ country_financial_districts_buy_farms_likelihood:
   Mask: country
   Name: Инвестиции финансовых районов в плантации, фермы и сельское хозяйство
   Description: Увеличение или уменьшение вероятности инвестиций финансовых районов в такие сооружения, как плантации, фермы и сельское хозяйство
-country_financial_product_by_trade_route_mult:
-  Mask: country
-  Name: Финансовый продукт по торговому маршруту
-  Description: Представляет общую долю конкретного типа финансового продукта, который может быть включён в приказ о продаже через импорт
 country_flagship_interest_gain_mult:
   Mask: country
   Name: Рост вовлечённости от флагмана
@@ -676,6 +684,10 @@ country_higher_leverage_from_economic_dependence_bool:
   Mask: country
   Name: Прирост влияния от экономической зависимости
   Description: Дополнительный прирост влияния от экономической зависимости.
+country_homeland_infamy_reduction_bool:
+  Mask: country
+  Name: Снижение дурной славы за родные земли
+  Description: Захват родных земель наших основных культур даёт нам ещё меньше дурной славы
 country_improve_relations_speed_mult:
   Mask: country
   Name: к скорости улучшения отношений
@@ -818,8 +830,8 @@ country_liberty_desire_of_subjects_add:
   Description: Увеличение или уменьшение еженедельного прироста желания свободы у всех субъектов сюзерена
 country_limit_officers_qualifications_to_upper_strata:
   Mask: country
-  Name: officers! Офицеры только из высших классов
-  Description: Квалифицированные officers! Офицеры — это исключительно выходцы из высшего класса
+  Name: officers! Офицеры только из высших классов
+  Description: Квалифицированные officers! Офицеры — это исключительно выходцы из высшего класса
 country_loan_interest_rate_add:
   Mask: country
   Name: к процентной ставке по займам
@@ -904,10 +916,30 @@ country_opposition_ig_approval_add:
   Mask: country
   Name: к одобрению заинтересованной группы оппозиции
   Description: Бонус или штраф к вероятности одобрения заинтересованными группами оппозиции.
+country_other_country_socialist_economy_hostility_impact_add:
+  Mask: country
+  Name: Влияние социалистической экономики на враждебность
+  Description: Увеличение или уменьшение враждебности других стран к экономике этой страны при оценке стратегии, дипломатических игр и договоров
+country_other_country_socialist_economy_hostility_impact_mult:
+  Mask: country
+  Name: Влияние социалистической экономики на враждебность
+  Description: Увеличение или уменьшение враждебности других стран к экономике этой страны при оценке стратегии, дипломатических игр и договоров
+country_other_country_socialist_government_hostility_impact_add:
+  Mask: country
+  Name: Влияние социалистического правительства на враждебность
+  Description: Увеличение или уменьшение враждебности других стран к правительству этой страны при оценке стратегии, дипломатических игр и договоров
+country_other_country_socialist_government_hostility_impact_mult:
+  Mask: country
+  Name: Влияние социалистического правительства на враждебность
+  Description: Увеличение или уменьшение враждебности других стран к правительству этой страны при оценке стратегии, дипломатических игр и договоров
 country_overlord_income_transfer_mult:
   Mask: country
   Name: Передача доходов сюзерену
   Description: Увеличение или уменьшение суммы денег, которую субъект должен отдавать сюзерену
+country_overlord_law_enactment_success_add:
+  Mask: country
+  Name: Юридическая поддержка сюзерена
+  Description: Базовый процент повышения вероятности принятия закона, который уже есть у сюзерена этой страны.
 country_pact_leverage_generation_add:
   Mask: country
   Name: Прирост влияния от дипломатических пактов
@@ -927,7 +959,11 @@ country_piracy_income_add:
 country_port_connection_cost_mult:
   Mask: country
   Name: Затраты merchant_marine! торговых кораблей на связь порта
-  Description: Увеличение или уменьшение спроса на торговые корабли, необходимые для поддержания связи порта.
+  Description: Увеличение или уменьшение спроса на merchant_marine! Торговые корабли, необходимые для поддержания связи порта.
+country_power_bloc_formation_mandates_add:
+  Mask: country
+  Name: Мандаты при создании блока государств
+  Description: Дополнительные мандаты для получения принципов при создании блока государств. Блок сохраняет любые неизрасходованные мандаты.
 country_prestige_add:
   Mask: country
   Name: к престижу
@@ -964,6 +1000,14 @@ country_reduced_liberty_desire_same_religion_bool:
   Mask: country
   Name: Сниженное желание свободы у страны с той же религией
   Description: Субъекты с той же государственной религией будут постепенно терять желание свободы.
+country_reform_or_revolution_reform_bonus_add:
+  Mask: country
+  Name: Пропорциональный прогресс реформистов в записи «Реформа или революция»
+  Description: Увеличение или уменьшение ежемесячного прогресса в пользу реформизма в записи в дневнике «Реформа или революция» пропорционально силе социалистического движения или социалистической партии страны
+country_reform_or_revolution_revolution_bonus_add:
+  Mask: country
+  Name: Пропорциональный прогресс революционеров в записи «Реформа или революция»
+  Description: Увеличение или уменьшение ежемесячного прогресса в пользу революции в записи в дневнике «Реформа или революция» пропорционально силе социалистического движения или социалистической партии страны
 country_resource_depletion_chance_mult:
   Mask: country
   Name: к шансу истощения ресурсов
@@ -984,6 +1028,18 @@ country_revolution_progress_mult:
   Mask: country
   Name: к скорости прогресса революции
   Description: Бонус или штраф к прогрессу революции, добавляемому, когда счётчик революции достигает отметки 12
+country_rlit_censorship_severity_add:
+  Mask: country
+  Name: Литературная цензура
+  Description: country_rlit_censorship_severity_add_desc
+country_rlit_cultural_prestige_add:
+  Mask: country
+  Name: Литературный престиж
+  Description: country_rlit_cultural_prestige_add_desc
+country_rlit_intellectual_freedom_add:
+  Mask: country
+  Name: Интеллектуальная свобода
+  Description: country_rlit_intellectual_freedom_add_desc
 country_sailors_max_add:
   Mask: country
   Name: Максимум матросов
@@ -1000,6 +1056,10 @@ country_secession_progress_mult:
   Mask: country
   Name: к скорости прогресса отделения
   Description: Бонус или штраф к прогрессу отделения, добавляемому, когда счётчик отделения достигает отметки 12
+country_shared_language_infamy_reduction_bool:
+  Mask: country
+  Name: Снижение дурной славы за общий язык
+  Description: Захват родных земель культур с тем же языком, что у наших основных, даёт нам ещё меньше дурной славы
 country_ship_construction_add:
   Mask: country
   Name: ship_construction! Кораблестроение
@@ -1164,10 +1224,18 @@ country_voting_power_wealth_threshold_add:
   Mask: country
   Name: к имущественному цензу для голосования
   Description: Увеличение или уменьшение необходимого благосостояния, определяющего, какие группы населения могут голосовать.
-country_war_exhaustion_casualties_mult:
+country_war_support_battles_decrease_mult:
   Mask: country
-  Name: к утомлению войной от потерь
-  Description: Увеличение или уменьшение утомления войной от потерь, понесённых страной в ходе войны
+  Name: к воинственности от проигранного сражения
+  Description: Увеличение или уменьшение количества воинственности, теряемого страной в ходе войны за поражение в сражении.
+country_war_support_battles_increase_mult:
+  Mask: country
+  Name: к воинственности от выигранного сражения
+  Description: Увеличение или уменьшение количества воинственности, получаемого страной в ходе войны за победу в сражении.
+country_war_support_casualties_mult:
+  Mask: country
+  Name: к воинственности от потерь
+  Description: Увеличение или уменьшение воинственности от потерь, понесённых страной в ходе войны
 country_weekly_innovation_add:
   Mask: country
   Name: к инновации
@@ -1188,386 +1256,6 @@ dummy_modifier_type:
   Mask: 
   Name: warning! Этот тип модификатора нельзя использовать
   Description: modifier_dummy_modifier_type
-goods_input_dinar_algerian_dinar_c_add:
-  Mask: goods
-  Name: Потребление алжирского динара
-  Description: goods_input_dinar_algerian_dinar_c_add_desc
-goods_input_dinar_c_add:
-  Mask: goods
-  Name: Потребление динара
-  Description: goods_input_dinar_c_add_desc
-goods_input_dinar_iraqi_dinar_c_add:
-  Mask: goods
-  Name: Потребление иракского динара
-  Description: goods_input_dinar_iraqi_dinar_c_add_desc
-goods_input_dinar_libyan_dinar_c_add:
-  Mask: goods
-  Name: Потребление ливийского динара
-  Description: goods_input_dinar_libyan_dinar_c_add_desc
-goods_input_dinar_moroccan_dirham_c_add:
-  Mask: goods
-  Name: Потребление марокканского дирхама
-  Description: goods_input_dinar_moroccan_dirham_c_add_desc
-goods_input_dinar_omanian_rial_c_add:
-  Mask: goods
-  Name: Потребление оманского риала
-  Description: goods_input_dinar_omanian_rial_c_add_desc
-goods_input_dinar_qiran_c_add:
-  Mask: goods
-  Name: Потребление кирана
-  Description: goods_input_dinar_qiran_c_add_desc
-goods_input_dinar_saudi_riyal_c_add:
-  Mask: goods
-  Name: Потребление саудовского рияла
-  Description: goods_input_dinar_saudi_riyal_c_add_desc
-goods_input_dinar_serbian_dinar_c_add:
-  Mask: goods
-  Name: Потребление сербского динара
-  Description: goods_input_dinar_serbian_dinar_c_add_desc
-goods_input_dinar_tunisian_dinar_c_add:
-  Mask: goods
-  Name: Потребление тунисского динара
-  Description: goods_input_dinar_tunisian_dinar_c_add_desc
-goods_input_dinar_yugoslav_dinar_c_add:
-  Mask: goods
-  Name: Потребление югославского динара
-  Description: goods_input_dinar_yugoslav_dinar_c_add_desc
-goods_input_dollar_australian_dollar_c_add:
-  Mask: goods
-  Name: Потребление австралийского доллара
-  Description: goods_input_dollar_australian_dollar_c_add_desc
-goods_input_dollar_canadian_dollar_c_add:
-  Mask: goods
-  Name: Потребление канадского доллара
-  Description: goods_input_dollar_canadian_dollar_c_add_desc
-goods_input_dollar_caribbean_dollar_c_add:
-  Mask: goods
-  Name: Потребление карибского доллара
-  Description: goods_input_dollar_caribbean_dollar_c_add_desc
-goods_input_dollar_confederate_states_dollar_c_add:
-  Mask: goods
-  Name: Потребление доллара Конфедерации
-  Description: goods_input_dollar_confederate_states_dollar_c_add_desc
-goods_input_dollar_liberian_dollar_c_add:
-  Mask: goods
-  Name: Потребление либерийского доллара
-  Description: goods_input_dollar_liberian_dollar_c_add_desc
-goods_input_dollar_new_zealand_dollar_c_add:
-  Mask: goods
-  Name: Потребление новозеландского доллара
-  Description: goods_input_dollar_new_zealand_dollar_c_add_desc
-goods_input_dollar_sierra_leonean_dollar_c_add:
-  Mask: goods
-  Name: Потребление доллара Сьерра-Леоне
-  Description: goods_input_dollar_sierra_leonean_dollar_c_add_desc
-goods_input_dollar_united_states_dollar_c_add:
-  Mask: goods
-  Name: Потребление доллара США
-  Description: goods_input_dollar_united_states_dollar_c_add_desc
-goods_input_eco_ariary_c_add:
-  Mask: goods
-  Name: Потребление ариари
-  Description: goods_input_eco_ariary_c_add_desc
-goods_input_eco_central_african_eco_c_add:
-  Mask: goods
-  Name: Потребление центральноафриканского эко
-  Description: goods_input_eco_central_african_eco_c_add_desc
-goods_input_eco_east_african_eco_c_add:
-  Mask: goods
-  Name: Потребление восточноафриканского эко
-  Description: goods_input_eco_east_african_eco_c_add_desc
-goods_input_eco_ethiopian_birr_c_add:
-  Mask: goods
-  Name: Потребление эфиопского быра
-  Description: goods_input_eco_ethiopian_birr_c_add_desc
-goods_input_eco_ghanaian_pound_c_add:
-  Mask: goods
-  Name: Потребление ганского фунта
-  Description: goods_input_eco_ghanaian_pound_c_add_desc
-goods_input_eco_nigerian_naira_c_add:
-  Mask: goods
-  Name: Потребление нигерийской найры
-  Description: goods_input_eco_nigerian_naira_c_add_desc
-goods_input_eco_south_african_rand_c_add:
-  Mask: goods
-  Name: Потребление южноафриканского ранда
-  Description: goods_input_eco_south_african_rand_c_add_desc
-goods_input_eco_tuareg_ouguiya_c_add:
-  Mask: goods
-  Name: Потребление туарегской угии
-  Description: goods_input_eco_tuareg_ouguiya_c_add_desc
-goods_input_eco_west_african_eco_c_add:
-  Mask: goods
-  Name: Потребление западноафриканского эко
-  Description: goods_input_eco_west_african_eco_c_add_desc
-goods_input_franc_belgian_franc_c_add:
-  Mask: goods
-  Name: Потребление бельгийского франка
-  Description: goods_input_franc_belgian_franc_c_add_desc
-goods_input_franc_french_franc_c_add:
-  Mask: goods
-  Name: Потребление французского франка
-  Description: goods_input_franc_french_franc_c_add_desc
-goods_input_franc_luxembourgish_franc_c_add:
-  Mask: goods
-  Name: Потребление люксембургского франка
-  Description: goods_input_franc_luxembourgish_franc_c_add_desc
-goods_input_franc_swiss_franc_c_add:
-  Mask: goods
-  Name: Потребление швейцарского франка
-  Description: goods_input_franc_swiss_franc_c_add_desc
-goods_input_gulden_bavarian_gulden_c_add:
-  Mask: goods
-  Name: Потребление баварского гульдена
-  Description: goods_input_gulden_bavarian_gulden_c_add_desc
-goods_input_gulden_c_add:
-  Mask: goods
-  Name: Потребление гульдена
-  Description: goods_input_gulden_c_add_desc
-goods_input_gulden_florin_c_add:
-  Mask: goods
-  Name: Потребление флорина
-  Description: goods_input_gulden_florin_c_add_desc
-goods_input_gulden_hungarian_forint_c_add:
-  Mask: goods
-  Name: Потребление венгерского форинта
-  Description: goods_input_gulden_hungarian_forint_c_add_desc
-goods_input_gulden_indies_guilder_c_add:
-  Mask: goods
-  Name: Потребление ост-индского гульдена
-  Description: goods_input_gulden_indies_guilder_c_add_desc
-goods_input_gulden_south_german_gulden_c_add:
-  Mask: goods
-  Name: Потребление южногерманского гульдена
-  Description: goods_input_gulden_south_german_gulden_c_add_desc
-goods_input_krone_czech_koruna_c_add:
-  Mask: goods
-  Name: Потребление чешской кроны
-  Description: goods_input_krone_czech_koruna_c_add_desc
-goods_input_krone_danish_krone_c_add:
-  Mask: goods
-  Name: Потребление датской кроны
-  Description: goods_input_krone_danish_krone_c_add_desc
-goods_input_krone_estonian_kroon_c_add:
-  Mask: goods
-  Name: Потребление эстонской кроны
-  Description: goods_input_krone_estonian_kroon_c_add_desc
-goods_input_krone_icelandic_krona_c_add:
-  Mask: goods
-  Name: Потребление исландской кроны
-  Description: goods_input_krone_icelandic_krona_c_add_desc
-goods_input_krone_norwegian_krone_c_add:
-  Mask: goods
-  Name: Потребление норвежской кроны
-  Description: goods_input_krone_norwegian_krone_c_add_desc
-goods_input_krone_slovak_koruna_c_add:
-  Mask: goods
-  Name: Потребление словацкой кроны
-  Description: goods_input_krone_slovak_koruna_c_add_desc
-goods_input_krone_swedish_krona_c_add:
-  Mask: goods
-  Name: Потребление шведской кроны
-  Description: goods_input_krone_swedish_krona_c_add_desc
-goods_input_leon_leu_c_add:
-  Mask: goods
-  Name: Потребление лея
-  Description: goods_input_leon_leu_c_add_desc
-goods_input_leon_lev_c_add:
-  Mask: goods
-  Name: Потребление лева
-  Description: goods_input_leon_lev_c_add_desc
-goods_input_lira_c_add:
-  Mask: goods
-  Name: Потребление лиры
-  Description: goods_input_lira_c_add_desc
-goods_input_lira_ducato_c_add:
-  Mask: goods
-  Name: Потребление дуката
-  Description: goods_input_lira_ducato_c_add_desc
-goods_input_lira_ottoman_lira_c_add:
-  Mask: goods
-  Name: Потребление османской лиры
-  Description: goods_input_lira_ottoman_lira_c_add_desc
-goods_input_lira_scudo_pontificio_c_add:
-  Mask: goods
-  Name: Потребление папского скудо
-  Description: goods_input_lira_scudo_pontificio_c_add_desc
-goods_input_lira_scudo_sardo_c_add:
-  Mask: goods
-  Name: Потребление сардинского скудо
-  Description: goods_input_lira_scudo_sardo_c_add_desc
-goods_input_lira_toscane_lira_c_add:
-  Mask: goods
-  Name: Потребление тосканской лиры
-  Description: goods_input_lira_toscane_lira_c_add_desc
-goods_input_mark_c_add:
-  Mask: goods
-  Name: Потребление марки
-  Description: goods_input_mark_c_add_desc
-goods_input_mark_finnish_markka_c_add:
-  Mask: goods
-  Name: Потребление финской марки
-  Description: goods_input_mark_finnish_markka_c_add_desc
-goods_input_peso_argentine_peso_c_add:
-  Mask: goods
-  Name: Потребление аргентинского песо
-  Description: goods_input_peso_argentine_peso_c_add_desc
-goods_input_peso_bolivien_peso_c_add:
-  Mask: goods
-  Name: Потребление боливийского песо
-  Description: goods_input_peso_bolivien_peso_c_add_desc
-goods_input_peso_c_add:
-  Mask: goods
-  Name: Потребление песо
-  Description: goods_input_peso_c_add_desc
-goods_input_peso_chilean_peso_c_add:
-  Mask: goods
-  Name: Потребление чилийского песо
-  Description: goods_input_peso_chilean_peso_c_add_desc
-goods_input_peso_colombian_peso_c_add:
-  Mask: goods
-  Name: Потребление колумбийского песо
-  Description: goods_input_peso_colombian_peso_c_add_desc
-goods_input_peso_costa_rican_colon_c_add:
-  Mask: goods
-  Name: Потребление костариканского колона
-  Description: goods_input_peso_costa_rican_colon_c_add_desc
-goods_input_peso_cuban_peso_c_add:
-  Mask: goods
-  Name: Потребление кубинского песо
-  Description: goods_input_peso_cuban_peso_c_add_desc
-goods_input_peso_ecuadorian_peso_c_add:
-  Mask: goods
-  Name: Потребление эквадорского песо
-  Description: goods_input_peso_ecuadorian_peso_c_add_desc
-goods_input_peso_el_salvador_colon_c_add:
-  Mask: goods
-  Name: Потребление сальвадорского колона
-  Description: goods_input_peso_el_salvador_colon_c_add_desc
-goods_input_peso_guatemalan_quetzal_c_add:
-  Mask: goods
-  Name: Потребление гватемальского кетсаля
-  Description: goods_input_peso_guatemalan_quetzal_c_add_desc
-goods_input_peso_honduran_lempira_c_add:
-  Mask: goods
-  Name: Потребление гондурасской лемпиры
-  Description: goods_input_peso_honduran_lempira_c_add_desc
-goods_input_peso_mexican_peso_c_add:
-  Mask: goods
-  Name: Потребление мексиканского песо
-  Description: goods_input_peso_mexican_peso_c_add_desc
-goods_input_peso_nicaraguan_cordoba_c_add:
-  Mask: goods
-  Name: Потребление никарагуанской кордобы
-  Description: goods_input_peso_nicaraguan_cordoba_c_add_desc
-goods_input_peso_paraguayan_peso_c_add:
-  Mask: goods
-  Name: Потребление парагвайского песо
-  Description: goods_input_peso_paraguayan_peso_c_add_desc
-goods_input_peso_philippine_peso_c_add:
-  Mask: goods
-  Name: Потребление филиппинского песо
-  Description: goods_input_peso_philippine_peso_c_add_desc
-goods_input_peso_sol_de_oro_c_add:
-  Mask: goods
-  Name: Потребление соль-де-оро
-  Description: goods_input_peso_sol_de_oro_c_add_desc
-goods_input_peso_uruguayan_peso_c_add:
-  Mask: goods
-  Name: Потребление уругвайского песо
-  Description: goods_input_peso_uruguayan_peso_c_add_desc
-goods_input_peso_venezuelan_peso_c_add:
-  Mask: goods
-  Name: Потребление венесуэльского песо
-  Description: goods_input_peso_venezuelan_peso_c_add_desc
-goods_input_pound_egyptian_pound_c_add:
-  Mask: goods
-  Name: Потребление египетского фунта
-  Description: goods_input_pound_egyptian_pound_c_add_desc
-goods_input_pound_irish_pound_c_add:
-  Mask: goods
-  Name: Потребление ирландского фунта
-  Description: goods_input_pound_irish_pound_c_add_desc
-goods_input_pound_sterling_c_add:
-  Mask: goods
-  Name: Потребление фунта стерлингов
-  Description: goods_input_pound_sterling_c_add_desc
-goods_input_real_brazilian_real_c_add:
-  Mask: goods
-  Name: Потребление бразильского реала
-  Description: goods_input_real_brazilian_real_c_add_desc
-goods_input_real_c_add:
-  Mask: goods
-  Name: Потребление реала
-  Description: goods_input_real_c_add_desc
-goods_input_rupee_indian_rupee_c_add:
-  Mask: goods
-  Name: Потребление индийской рупии
-  Description: goods_input_rupee_indian_rupee_c_add_desc
-goods_input_rupee_indonesian_rupiah_c_add:
-  Mask: goods
-  Name: Потребление индонезийской рупии
-  Description: goods_input_rupee_indonesian_rupiah_c_add_desc
-goods_input_spe_baht_c_add:
-  Mask: goods
-  Name: Потребление бата
-  Description: goods_input_spe_baht_c_add_desc
-goods_input_spe_dong_c_add:
-  Mask: goods
-  Name: Потребление донга
-  Description: goods_input_spe_dong_c_add_desc
-goods_input_spe_drachma_c_add:
-  Mask: goods
-  Name: Потребление драхмы
-  Description: goods_input_spe_drachma_c_add_desc
-goods_input_spe_korean_won_c_add:
-  Mask: goods
-  Name: Потребление корейской воны
-  Description: goods_input_spe_korean_won_c_add_desc
-goods_input_spe_latvian_lats_c_add:
-  Mask: goods
-  Name: Потребление латвийского лата
-  Description: goods_input_spe_latvian_lats_c_add_desc
-goods_input_spe_lithuanian_litas_c_add:
-  Mask: goods
-  Name: Потребление литовского лита
-  Description: goods_input_spe_lithuanian_litas_c_add_desc
-goods_input_spe_peseta_c_add:
-  Mask: goods
-  Name: Потребление песеты
-  Description: goods_input_spe_peseta_c_add_desc
-goods_input_spe_ruble_c_add:
-  Mask: goods
-  Name: Потребление рубля
-  Description: goods_input_spe_ruble_c_add_desc
-goods_input_spe_uni_c_add:
-  Mask: goods
-  Name: Потребление уни
-  Description: goods_input_spe_uni_c_add_desc
-goods_input_spe_yen_c_add:
-  Mask: goods
-  Name: Потребление иены
-  Description: goods_input_spe_yen_c_add_desc
-goods_input_spe_yuan_c_add:
-  Mask: goods
-  Name: Потребление юаня
-  Description: goods_input_spe_yuan_c_add_desc
-goods_input_spe_zloti_c_add:
-  Mask: goods
-  Name: Потребление злотого
-  Description: goods_input_spe_zloti_c_add_desc
-goods_input_thaler_hannoveraner_thaler_c_add:
-  Mask: goods
-  Name: Потребление ганноверского талера
-  Description: goods_input_thaler_hannoveraner_thaler_c_add_desc
-goods_input_thaler_prussian_thaler_c_add:
-  Mask: goods
-  Name: Потребление прусского талера
-  Description: goods_input_thaler_prussian_thaler_c_add_desc
-goods_input_thaler_saxon_thaler_c_add:
-  Mask: goods
-  Name: Потребление саксонского талера
-  Description: goods_input_thaler_saxon_thaler_c_add_desc
 interest_group_amenability_add:
   Mask: interest_group
   Name: Сговорчивость заинтересованной группы
@@ -1576,6 +1264,194 @@ interest_group_approval_add:
   Mask: interest_group
   Name: к одобрению заинтересованной группы
   Description: Бонус или штраф к одобрению заинтересованной группы.
+interest_group_ideology_abolitionist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-аболициониста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Аболиционизм»
+interest_group_ideology_anarchist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-анархиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Анархизм»
+interest_group_ideology_authoritarian_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить авторитарного лидера
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Авторитаризм»
+interest_group_ideology_bonapartist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-бонапартиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Бонапартист»
+interest_group_ideology_carlist_2_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-карлиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Карлизм»
+interest_group_ideology_carlist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-карлиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Карлизм»
+interest_group_ideology_communist_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-коммуниста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Коммунизм»
+interest_group_ideology_corporatist_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-корпоративиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Корпоративизм»
+interest_group_ideology_despotic_utopian_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера — деспота-утописта
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Деспот-утопист»
+interest_group_ideology_ethno_nationalist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-этнонационалиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Этнонационализм »
+interest_group_ideology_fascist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-фашиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Фашизм»
+interest_group_ideology_feminist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-феминистку
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Феминизм»
+interest_group_ideology_humanitarian_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-гуманиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Гуманитарии»
+interest_group_ideology_humanitarian_royalist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера — просвещённого роялиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Просвещённый роялизм»
+interest_group_ideology_ilustrado_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-илюстрадос
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Илюстрадо»
+interest_group_ideology_integralist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-интегралиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Интегрализм»
+interest_group_ideology_jacksonian_democrat_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера — джексонианского демократа
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Джексонианский демократ»
+interest_group_ideology_jingoist_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-джингоиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Джингоизм»
+interest_group_ideology_land_reformer_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера — земельного реформатора
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Земельный реформатор»
+interest_group_ideology_legitimist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-легитимиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Легитимист»
+interest_group_ideology_liberal_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-либерала
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Либерализм»
+interest_group_ideology_luddite_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-луддита
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Луддит»
+interest_group_ideology_market_liberal_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера — рыночного либерала
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Рыночный либерализм»
+interest_group_ideology_miguelist_2_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-мигелиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Мигелизм»
+interest_group_ideology_miguelist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-мигелиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Мигелизм»
+interest_group_ideology_mitogaku_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-митогаку
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Митогаку»
+interest_group_ideology_moderate_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить умеренного лидера
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Умеренные взгляды»
+interest_group_ideology_modernizer_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-модернизатора
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Модернизатор»
+interest_group_ideology_nihilist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-нигилиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Нигилизм»
+interest_group_ideology_orleanist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-орлеаниста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Орлеанист»
+interest_group_ideology_pacifist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-пацифиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Пацифизм»
+interest_group_ideology_positivist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-позитивиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Позитивист»
+interest_group_ideology_protectionist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-протекциониста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Протекционист»
+interest_group_ideology_radical_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-радикала
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Радикализм»
+interest_group_ideology_reformer_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-реформатора
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Реформы»
+interest_group_ideology_republican_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-республиканца
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Республиканство»
+interest_group_ideology_royalist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-роялиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Роялизм»
+interest_group_ideology_shojoi_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-сёдзёи
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Сёдзёи»
+interest_group_ideology_slaver_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-рабовладельца
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Рабство»
+interest_group_ideology_sovereignist_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-суверениста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Суверенизм»
+interest_group_ideology_state_socialist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера с идеологией государственного социализма
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Государственный социализм»
+interest_group_ideology_theocrat_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-теократа
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Теократия»
+interest_group_ideology_traditionalist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-традиционалиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Традиционализм»
+interest_group_ideology_traditionalist_minoritarian_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера — местечкового традиционалиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Местечковый традиционализм»
+interest_group_ideology_utilitarian_leader_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-утилитариста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Утилитаризм»
+interest_group_ideology_utopian_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-утописта
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Утопизм»
+interest_group_ideology_vanguardist_leader_chance_mult:
+  Mask: interest_group
+  Name: к вероятности получить лидера-авангардиста
+  Description: Увеличение или уменьшение вероятности того, что эта заинтересованная группа выберет лидера с идеологией «Авангардизм»
 interest_group_in_government_approval_add:
   Mask: interest_group
   Name: к одобрению заинтересованной группы правительства
@@ -1694,8 +1570,8 @@ political_movement_activism_growth_mult:
   Description: Увеличение или уменьшение темпов роста активизма политического движения.
 political_movement_character_attraction_mult:
   Mask: political_movement
-  Name: political_movement_character_attraction_mult
-  Description: political_movement_character_attraction_mult_desc
+  Name: к привлекательности политического движения для персонажей
+  Description: Повышение или снижение привлекательности политического движения для персонажей.
 political_movement_pop_attraction_mult:
   Mask: political_movement
   Name: к привлекательности политического движения для групп населения
@@ -1815,11 +1691,11 @@ ship_battle_condition_accuracy_penalty_mult:
 ship_blockade_strength_add:
   Mask: ship
   Name: Сила блокады
-  Description: Способность корабля блокировать вражеские порты
+  Description: Способность корабля блокировать враждебные порты
 ship_blockade_strength_mult:
   Mask: ship
   Name: Сила блокады
-  Description: Способность корабля блокировать вражеские порты
+  Description: Способность корабля блокировать враждебные порты
 ship_carrying_capacity_add:
   Mask: ship
   Name: Вместимость
@@ -1900,14 +1776,6 @@ ship_hull_damage_mult:
   Mask: ship
   Name: Урон корпусу при атаке
   Description: Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля
-ship_interest_gain_add:
-  Mask: ship
-  Name: к приросту вовлечённости от корабля
-  Description: Бонус или штраф к вовлечённости, генерируемой этим кораблём в его стратегических регионах.
-ship_interest_gain_mult:
-  Mask: ship
-  Name: к приросту вовлечённости от корабля
-  Description: Бонус или штраф к вовлечённости, генерируемой этим кораблём в его стратегических регионах.
 ship_marine_capacity_add:
   Mask: ship
   Name: Численность морпехов
@@ -1936,6 +1804,14 @@ ship_naval_invasion_efficiency_mult:
   Mask: ship
   Name: Эффективность морского вторжения
   Description: Величина вклада корабля в эффективность батальонов, осуществляющих морское вторжение.
+ship_power_projection_add:
+  Mask: ship
+  Name: Демонстрация силы кораблей
+  Description: Повышение или снижение демонстрации силы от кораблей. Определяет, сколько вовлечённости даёт каждый корабль.
+ship_power_projection_mult:
+  Mask: ship
+  Name: Демонстрация силы кораблей
+  Description: Повышение или снижение демонстрации силы от кораблей. Определяет, сколько вовлечённости даёт каждый корабль.
 ship_readiness_gain_add:
   Mask: ship
   Name: Готовность
@@ -2084,6 +1960,14 @@ state_devastation_decay_mult:
   Mask: state
   Name: Восстановление от опустошения
   Description: Бонус или штраф к скорости восстановления областей от опустошения.
+state_disable_disband_prestige_penalty_bool:
+  Mask: state
+  Name: Нет штрафов к престижу из-за роспуска
+  Description: При роспуске батальонов из области не тратится престиж
+state_disallow_barracks_construction_bool:
+  Mask: state
+  Name: Запретить строительство военных сооружений
+  Description: В этой области запрещено строить сооружения «Армейские сооружения» и набирать новые батальоны
 state_disallow_incorporation_bool:
   Mask: state
   Name: Запрещено включение области
@@ -2168,6 +2052,10 @@ state_literacy_growth_add:
   Mask: state
   Name: Прирост грамотности
   Description: Бонус или штраф к приросту грамотности в области.
+state_lower_strata_birth_rate_mult:
+  Mask: state
+  Name: Рождаемость низшего класса
+  Description: Сколько детей рождается ежегодно у низшего класса.
 state_lower_strata_expected_sol_add:
   Mask: state
   Name: к минимальному ожидаемому уровню жизни для низшего класса
@@ -2188,6 +2076,10 @@ state_max_trade_advantage_from_capacity_add:
   Mask: state
   Name: Максимальное торговое преимущество от потенциала
   Description: Увеличение или уменьшение максимального торгового преимущества от торгового потенциала в области
+state_middle_strata_birth_rate_mult:
+  Mask: state
+  Name: Рождаемость среднего класса
+  Description: Сколько детей рождается ежегодно у среднего класса.
 state_middle_strata_expected_sol_add:
   Mask: state
   Name: к минимальному ожидаемому уровню жизни для среднего класса
@@ -2240,6 +2132,10 @@ state_non_homeland_mortality_mult:
   Mask: state
   Name: к смертности за пределами родных областей.
   Description: Повышение или снижение уровня смертности среди всех групп населения в областях, не являющихся родиной ни одной из ваших основных культур.
+state_orthodox_lower_strata_conversion_rate_add:
+  Mask: state
+  Name: Ежемесячное обращение в православие
+  Description: Увеличение или снижение доли низших групп населения в неправославной стране, которые ежемесячно будут обращаться в православие
 state_political_strength_from_wealth_mult:
   Mask: state
   Name: к политической силе от благосостояния
@@ -2352,6 +2248,10 @@ state_unincorporated_starting_wages_mult:
   Mask: state
   Name: к начальным зарплатам в невключённых областях
   Description: Насколько начальные зарплаты населения невключённых областей отличаются от обычных.
+state_upper_strata_birth_rate_mult:
+  Mask: state
+  Name: Рождаемость высшего класса
+  Description: Сколько детей рождается ежегодно у высшего класса.
 state_upper_strata_expected_sol_add:
   Mask: state
   Name: к минимальному ожидаемому уровню жизни для высшего класса
@@ -2403,11 +2303,11 @@ tax_income_add:
 tax_land_add:
   Mask: tax
   Name: Земельный налог
-  Description: Сумма земельных налогов, которые ежегодно выплачивают peasants! Крестьяне.
+  Description: Сумма земельных налогов, которые ежегодно выплачивают peasants! Крестьяне.
 tax_per_capita_add:
   Mask: tax
   Name: Среднедушевой налог
-  Description: Сумма среднедушевых налогов, которые ежегодно выплачивают группы, не принадлежащие к категории peasants! Крестьяне.
+  Description: Сумма среднедушевых налогов, которые ежегодно выплачивают группы, не принадлежащие к категории peasants! Крестьяне.
 unit_army_defense_add:
   Mask: unit
   Name: к защите армии
@@ -2455,7 +2355,7 @@ unit_experience_gain_mult:
 unit_kill_rate_add:
   Mask: unit
   Name: к вероятности убийства 
-  Description: Показывает, насколько эффективно подразделение превращает вражеские потери в безвозвратные. Увеличивает долю убитых в потерях (вместо раненых). Вероятность убийства снижается с ростом вероятности восстановления вражеских подразделений.
+  Description: Показывает, насколько эффективно подразделение уничтожает противника. Увеличивает долю убитых в потерях (вместо раненых). Вероятность убийства снижается с ростом вероятности восстановления вражеских подразделений.
 unit_morale_damage_mult:
   Mask: unit
   Name: к урону боевому духу
@@ -2499,7 +2399,7 @@ unit_provinces_lost_mult:
 unit_recovery_rate_add:
   Mask: unit
   Name: к вероятности восстановления
-  Description: Доля потерь в подразделении, которые выживают, в некоторых случаях становясь иждивенцами. Её повышают с помощью вариантов мобилизации. Вероятность восстановления снижается с ростом вероятности убийства вражеских подразделений.
+  Description: Показывает, насколько эффективно подразделение защищает своих военнослужащих. Преобразует часть потерь, которые несёт подразделение, в деморализованных военнослужащих. Снижает долю убитых в потерях (вместо раненых). Этому параметру противостоит параметр вероятности убийства у вражеских подразделений. Можно увеличить за счёт вариантов мобилизации.
 unit_supply_consumption_mult:
   Mask: unit
   Name: к потреблению снабжения
@@ -2614,14 +2514,14 @@ building_coffee_plantation_throughput_add:
   Mask: building
   Name: Товарооборот кофейных плантаций
   Description: Бонус или штраф к потреблению и производству на кофейных плантациях.
-building_construction_regulator_throughput_add:
-  Mask: building
-  Name: Товарооборот Регулятора строительства
-  Description: Бонус или штраф как к вводу, так и к выводу Регуляторов строительства
 building_construction_sector_throughput_add:
   Mask: building
   Name: Товарооборот строительного сектора
   Description: Бонус или штраф к потреблению и производству строительного сектора.
+building_copper_mine_throughput_add:
+  Mask: building
+  Name: Товарооборот медных рудников
+  Description: Бонус или штраф к потреблению и производству медных рудников.
 building_cotton_plantation_throughput_add:
   Mask: building
   Name: Товарооборот плантаций хлопка
@@ -2810,6 +2710,10 @@ building_group_bg_construction_laborers_mortality_mult:
   Mask: building
   Name: к смертности среди laborers! рабочих, занятых в строительстве.
   Description: Повышение или снижение параметра к смертности среди laborers! рабочих, занятых в строительстве.
+building_group_bg_construction_machinists_mortality_mult:
+  Mask: building
+  Name: к смертности среди machinists! механиков, занятых в строительстве.
+  Description: Повышение или снижение к смертности среди machinists! механиков, занятых в строительстве.
 building_group_bg_extraction_allowed_collectivization_add:
   Mask: building
   Name: Минимум уровней добывающих сооружений в собственности рабочих
@@ -2826,10 +2730,6 @@ building_group_bg_extraction_throughput_add:
   Mask: building
   Name: Товарооборот добывающих предприятий
   Description: Бонус или штраф к потреблению и производству на добывающих предприятиях.
-building_group_bg_financial_centre_throughput_add:
-  Mask: building
-  Name: building_group_bg_financial_centre_throughput_add
-  Description: building_group_bg_financial_centre_throughput_add_desc
 building_group_bg_fishing_employee_mult:
   Mask: building
   Name: к количеству работников рыболовецких сооружений
@@ -2985,7 +2885,7 @@ building_group_bg_logging_engineers_mortality_mult:
 building_group_bg_logging_laborers_mortality_mult:
   Mask: building
   Name: смертности среди laborers! рабочих лесозаготовительных сооружений
-  Description: Повышение или снижение к смертности среди laborers! рабочих, занятых в строительстве.
+  Description: Повышение или снижение смертности среди laborers! рабочих лесозаготовительных сооружений
 building_group_bg_logging_machinists_mortality_mult:
   Mask: building
   Name: смертности среди machinists! механиков лесозаготовительных сооружений
@@ -3534,10 +3434,6 @@ building_silk_plantation_throughput_add:
   Mask: building
   Name: Товарооборот плантаций шёлка
   Description: Бонус или штраф к потреблению и производству на плантациях шёлка.
-building_silver_mine_throughput_add:
-  Mask: building
-  Name: Товарооборот Серебряные рудники
-  Description: building_silver_mine_throughput_add_desc
 building_slaves_mortality_mult:
   Mask: building
   Name: к смертности среди slaves! рабов
@@ -3618,6 +3514,10 @@ building_wheat_farm_throughput_add:
   Mask: building
   Name: Товарооборот пшеничных полей
   Description: Бонус или штраф к потреблению и производству пшеничных полей.
+country_abkhazian_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Абхазцы
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_aborigine_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Аборигены
@@ -3764,7 +3664,7 @@ country_aragonese_cultural_acceptance_add:
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_argentine_cultural_acceptance_add:
   Mask: country
-  Name: Терпимость к культуре Аргентина
+  Name: Терпимость к культуре Аргентинцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_aristocrats_pol_str_mult:
   Mask: country
@@ -3906,6 +3806,26 @@ country_bihari_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Бихарцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_birth_rate_cultural_erasure_mult:
+  Mask: country
+  Name: Рождаемость при статусе acceptance_status_2!«Вымывание культуры»
+  Description: Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_2!«Вымывание культуры»
+country_birth_rate_full_acceptance_mult:
+  Mask: country
+  Name: Рождаемость при статусе acceptance_status_5!«Полное принятие»
+  Description: Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_5!«Полное принятие»
+country_birth_rate_open_prejudice_mult:
+  Mask: country
+  Name: Рождаемость при статусе acceptance_status_3!«Неприкрытые предрассудки»
+  Description: Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_3!«Неприкрытые предрассудки»
+country_birth_rate_second_rate_citizen_mult:
+  Mask: country
+  Name: Рождаемость при статусе acceptance_status_4!«Граждане второго сорта»
+  Description: Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_4!«Граждане второго сорта»
+country_birth_rate_violent_hostility_mult:
+  Mask: country
+  Name: Рождаемость при статусе acceptance_status_1!«Ожесточённая неприязнь»
+  Description: Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_1!«Ожесточённая неприязнь»
 country_boer_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Буры
@@ -3980,7 +3900,7 @@ country_caddoan_cultural_acceptance_add:
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_cajun_cultural_acceptance_add:
   Mask: country
-  Name: Терпимость к культуре Каджун
+  Name: Терпимость к культуре Каджуны
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_can_impose_same_lawgroup_army_model_in_power_bloc_bool:
   Mask: country
@@ -4034,6 +3954,10 @@ country_catalan_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Каталонцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_caucasian_turk_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Кавказские тюрки
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_central_american_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Центральноамериканцы
@@ -4061,6 +3985,10 @@ country_chhattisgarhi_cultural_acceptance_add:
 country_chilean_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Чилийцы
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_chukchi_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Чукчи
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_chuvash_cultural_acceptance_add:
   Mask: country
@@ -4102,6 +4030,10 @@ country_cree_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Кри
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_crimean_tatar_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Крымские татары
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_croat_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Хорваты
@@ -4109,6 +4041,10 @@ country_croat_cultural_acceptance_add:
 country_czech_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Чехи
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_dagestani_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Дагестанцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_dakota_cultural_acceptance_add:
   Mask: country
@@ -4250,6 +4186,10 @@ country_enactment_speed_law_autocracy_mult:
   Mask: country
   Name: country_enactment_speed_law_autocracy_mult
   Description: country_enactment_speed_law_autocracy_mult_desc
+country_enactment_speed_law_multicultural_mult:
+  Mask: country
+  Name: country_enactment_speed_law_multicultural_mult
+  Description: country_enactment_speed_law_multicultural_mult_desc
 country_enactment_speed_law_oligarchy_mult:
   Mask: country
   Name: country_enactment_speed_law_oligarchy_mult
@@ -4273,6 +4213,10 @@ country_enactment_success_chance_law_anarchy_add:
 country_enactment_success_chance_law_autocracy_add:
   Mask: country
   Name: Вероятность успешного принятия закона «Автократия»
+  Description: Базовый процент повышения вероятности принятия конкретного закона.
+country_enactment_success_chance_law_multicultural_add:
+  Mask: country
+  Name: Вероятность успешного принятия мультикультурализма
   Description: Базовый процент повышения вероятности принятия конкретного закона.
 country_enactment_success_chance_law_oligarchy_add:
   Mask: country
@@ -4306,6 +4250,10 @@ country_estonian_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Эстонцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_evenki_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Эвенки
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_ewe_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Эве
@@ -4322,6 +4270,10 @@ country_farmers_voting_power_add:
   Mask: country
   Name: Политическая сила от голосов farmers! фермеров
   Description: Увеличение или уменьшение политической силы от голосов farmers! фермеров на выборах.
+country_fervor_target_abkhazian_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Абхазцы
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_aborigine_add:
   Mask: country
   Name: Пропорциональный пыл культуры Аборигены
@@ -4400,7 +4352,7 @@ country_fervor_target_aragonese_add:
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_argentine_add:
   Mask: country
-  Name: Пропорциональный пыл культуры Аргентина
+  Name: Пропорциональный пыл культуры Аргентинцы
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_armenian_add:
   Mask: country
@@ -4564,7 +4516,7 @@ country_fervor_target_caddoan_add:
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_cajun_add:
   Mask: country
-  Name: Пропорциональный пыл культуры Каджун
+  Name: Пропорциональный пыл культуры Каджуны
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_cariban_add:
   Mask: country
@@ -4577,6 +4529,10 @@ country_fervor_target_caribeno_add:
 country_fervor_target_catalan_add:
   Mask: country
   Name: Пропорциональный пыл культуры Каталонцы
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
+country_fervor_target_caucasian_turk_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Кавказские тюрки
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_central_american_add:
   Mask: country
@@ -4606,6 +4562,10 @@ country_fervor_target_chilean_add:
   Mask: country
   Name: Пропорциональный пыл культуры Чилийцы
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
+country_fervor_target_chukchi_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Чукчи
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_chuvash_add:
   Mask: country
   Name: Пропорциональный пыл культуры Чуваши
@@ -4630,6 +4590,10 @@ country_fervor_target_cree_add:
   Mask: country
   Name: Пропорциональный пыл культуры Кри
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
+country_fervor_target_crimean_tatar_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Крымские татары
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_croat_add:
   Mask: country
   Name: Пропорциональный пыл культуры Хорваты
@@ -4637,6 +4601,10 @@ country_fervor_target_croat_add:
 country_fervor_target_czech_add:
   Mask: country
   Name: Пропорциональный пыл культуры Чехи
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
+country_fervor_target_dagestani_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Дагестанцы
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_dakota_add:
   Mask: country
@@ -4689,6 +4657,10 @@ country_fervor_target_equatorial_bantu_add:
 country_fervor_target_estonian_add:
   Mask: country
   Name: Пропорциональный пыл культуры Эстонцы
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
+country_fervor_target_evenki_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Эвенки
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_ewe_add:
   Mask: country
@@ -4904,7 +4876,7 @@ country_fervor_target_khmu_add:
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_kho_add:
   Mask: country
-  Name: Пропорциональный пыл культуры Кхо
+  Name: Пропорциональный пыл культуры Читрали
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_khoisan_add:
   Mask: country
@@ -5150,10 +5122,6 @@ country_fervor_target_north_andean_add:
   Mask: country
   Name: Пропорциональный пыл культуры Северные андцы
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
-country_fervor_target_north_caucasian_add:
-  Mask: country
-  Name: Пропорциональный пыл культуры Кавказцы
-  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_north_german_add:
   Mask: country
   Name: Пропорциональный пыл культуры Северные немцы
@@ -5193,6 +5161,10 @@ country_fervor_target_oriya_add:
 country_fervor_target_oromo_add:
   Mask: country
   Name: Пропорциональный пыл культуры Оромо
+  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
+country_fervor_target_ossetian_add:
+  Mask: country
+  Name: Пропорциональный пыл культуры Осетины
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_ovimbundu_add:
   Mask: country
@@ -5256,7 +5228,7 @@ country_fervor_target_portuguese_add:
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_promethean_add:
   Mask: country
-  Name: Пропорциональный пыл культуры Прометеевск
+  Name: Пропорциональный пыл культуры Прометеевцы
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_pueblo_add:
   Mask: country
@@ -5320,7 +5292,7 @@ country_fervor_target_senufo_add:
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_sephardic_add:
   Mask: country
-  Name: Пропорциональный пыл культуры Сефарды
+  Name: Пропорциональный пыл культуры Сефардка
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_serb_add:
   Mask: country
@@ -5333,10 +5305,6 @@ country_fervor_target_shan_add:
 country_fervor_target_shona_add:
   Mask: country
   Name: Пропорциональный пыл культуры Шона
-  Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
-country_fervor_target_siberian_add:
-  Mask: country
-  Name: Пропорциональный пыл культуры Сибирцы
   Description: Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')].
 country_fervor_target_sidama_add:
   Mask: country
@@ -5758,10 +5726,6 @@ country_institution_cost_institution_social_security_mult:
   Mask: country
   Name: bur! Затраты бюрократии на институт «Социальная защита»
   Description: Увеличение или уменьшение bur! бюрократических затрат на распространение эффектов института «Социальная защита» на граждан
-country_institution_economic_central_bank_max_investment_add:
-  Mask: country
-  Name: Макс. уровень института «Экономическое и банковское управление»
-  Description: country_institution_economic_central_bank_max_investment_add_desc
 country_institution_health_system_max_investment_add:
   Mask: country
   Name: к максимальным вложениям в институт «Система здравоохранения»
@@ -5802,6 +5766,30 @@ country_institution_workplace_safety_max_investment_add:
   Mask: country
   Name: к максимальным вложениям в институт «Министерство труда»
   Description: Бонус или штраф к максимальному уровню института «Министерство труда».
+country_interest_tier_engaged_trade_advantage_mult:
+  Mask: country
+  Name: к торговому преимуществу при интересе уровня «Участие»
+  Description: Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Участие»
+country_interest_tier_hegemonic_trade_advantage_mult:
+  Mask: country
+  Name: к торговому преимуществу при интересе уровня «Гегемония»
+  Description: Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Гегемония»
+country_interest_tier_influential_trade_advantage_mult:
+  Mask: country
+  Name: к торговому преимуществу при интересе уровня «Влияние»
+  Description: Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Влияние»
+country_interest_tier_none_trade_advantage_mult:
+  Mask: country
+  Name: к торговому преимуществу при интересе уровня «Отсутствует»
+  Description: Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Отсутствует»
+country_interest_tier_observant_trade_advantage_mult:
+  Mask: country
+  Name: к торговому преимуществу при интересе уровня «Наблюдение»
+  Description: Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Наблюдение»
+country_interest_tier_pervasive_trade_advantage_mult:
+  Mask: country
+  Name: к торговому преимуществу при интересе уровня «Господство»
+  Description: Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Господство»
 country_inuit_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Инуиты
@@ -5868,7 +5856,7 @@ country_khmu_cultural_acceptance_add:
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_kho_cultural_acceptance_add:
   Mask: country
-  Name: Терпимость к культуре Кхо
+  Name: Терпимость к культуре Читрали
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_khoisan_cultural_acceptance_add:
   Mask: country
@@ -6198,10 +6186,6 @@ country_north_andean_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Северные андцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
-country_north_caucasian_cultural_acceptance_add:
-  Mask: country
-  Name: Терпимость к культуре Кавказцы
-  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_north_german_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Северные немцы
@@ -6249,6 +6233,10 @@ country_oriya_cultural_acceptance_add:
 country_oromo_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Оромо
+  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
+country_ossetian_cultural_acceptance_add:
+  Mask: country
+  Name: Терпимость к культуре Осетины
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_ovimbundu_cultural_acceptance_add:
   Mask: country
@@ -6348,7 +6336,7 @@ country_production_tech_spread_mult:
   Description: Скорость, с которой мы перенимаем у других государств производственные технологии. 
 country_promethean_cultural_acceptance_add:
   Mask: country
-  Name: Терпимость к культуре Прометеевск
+  Name: Терпимость к культуре Прометеевцы
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_pueblo_cultural_acceptance_add:
   Mask: country
@@ -6452,7 +6440,7 @@ country_senufo_cultural_acceptance_add:
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_sephardic_cultural_acceptance_add:
   Mask: country
-  Name: Терпимость к культуре Сефарды
+  Name: Терпимость к культуре Сефардка
   Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_serb_cultural_acceptance_add:
   Mask: country
@@ -6466,6 +6454,10 @@ country_ship_type_armored_cruiser_construction_efficiency_add:
   Mask: country
   Name: Эффективность строительства бронированных крейсеров
   Description: Эффективность ship_construction! строительства бронированных крейсеров
+country_ship_type_early_troop_ship_construction_efficiency_add:
+  Mask: country
+  Name: Эффективность строительства ранних войсковых транспортов
+  Description: Эффективность ship_construction! строительства ранних войсковых транспортов
 country_ship_type_light_cruiser_construction_efficiency_add:
   Mask: country
   Name: Эффективность строительства лёгких крейсеров
@@ -6526,10 +6518,6 @@ country_shudras_qualification_growth_same_class_mult:
   Mask: country
   Name: Рост квалификации в касте шудр
   Description: Процентный рост или снижение роста квалификации касты шудр для получения профессий в той же касте
-country_siberian_cultural_acceptance_add:
-  Mask: country
-  Name: Терпимость к культуре Сибирцы
-  Description: Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры.
 country_sidama_cultural_acceptance_add:
   Mask: country
   Name: Терпимость к культуре Сидама
@@ -7146,14 +7134,6 @@ goods_input_aeroplanes_add:
   Mask: goods
   Name: Потребление aeroplanes! аэропланов
   Description: Количество aeroplanes! аэропланов, потребляемых сооружениями.
-goods_input_agricultural_stock_add:
-  Mask: goods
-  Name: Потребление акций сельского хозяйства
-  Description: Потребление акций сельского хозяйства
-goods_input_agricultural_stock_mult:
-  Mask: goods
-  Name: Накопление акций сельского хозяйства
-  Description: Накопление акций сельского хозяйства
 goods_input_ammunition_add:
   Mask: goods
   Name: Потребление ammunition! боеприпасов
@@ -7162,10 +7142,6 @@ goods_input_ammunition_mult:
   Mask: goods
   Name: Потребление ammunition! боеприпасов
   Description: Количество ammunition! боеприпасов, потребляемых сооружениями.
-goods_input_arc_welded_construction_add:
-  Mask: goods
-  Name: Потребление arc_welded_construction! Сварные стройматериалы
-  Description: Количество arc_welded_construction! Сварных стройматериалов, потребляемых зданиями
 goods_input_artillery_add:
   Mask: goods
   Name: Потребление artillery! артиллерии
@@ -7178,14 +7154,6 @@ goods_input_automobiles_add:
   Mask: goods
   Name: Потребление automobiles! автомобилей
   Description: Количество automobiles! автомобилей, потребляемых сооружениями.
-goods_input_bond_add:
-  Mask: goods
-  Name: Потребление облигаций
-  Description: Потребление облигаций
-goods_input_bond_mult:
-  Mask: goods
-  Name: Накопление облигаций
-  Description: Накопление облигаций
 goods_input_clippers_add:
   Mask: goods
   Name: Потребление clippers! клиперов
@@ -7198,6 +7166,10 @@ goods_input_coal_add:
   Mask: goods
   Name: Потребление coal! угля
   Description: Количество coal! угля, потребляемого сооружениями.
+goods_input_copper_add:
+  Mask: goods
+  Name: Потребление copper! меди
+  Description: Количество copper! меди, потребляемой сооружениями
 goods_input_dye_add:
   Mask: goods
   Name: Потребление dye! красителей
@@ -7234,14 +7206,6 @@ goods_input_glass_add:
   Mask: goods
   Name: Потребление glass! стекла
   Description: Количество glass! стекла, потребляемого сооружениями.
-goods_input_gold_add:
-  Mask: goods
-  Name: goods_input_gold_add
-  Description: goods_input_gold_add_desc
-goods_input_gold_mult:
-  Mask: goods
-  Name: goods_input_gold_mult
-  Description: goods_input_gold_mult_desc
 goods_input_grain_add:
   Mask: goods
   Name: Потребление grain! зерна
@@ -7258,10 +7222,6 @@ goods_input_iron_add:
   Mask: goods
   Name: Потребление iron! железа
   Description: Количество iron! железа, потребляемого сооружениями.
-goods_input_iron_construction_add:
-  Mask: goods
-  Name: Потребление iron_construction! Чугунные стройматериалы
-  Description: Количество iron_construction! Чугунных стройматериалов, потребляемых зданиями
 goods_input_ironclads_add:
   Mask: goods
   Name: Потребление ironclads! броненосцев
@@ -7270,34 +7230,14 @@ goods_input_lead_add:
   Mask: goods
   Name: Потребление lead! свинца
   Description: Количество lead! свинца, потребляемого сооружениями.
-goods_input_liquidity_currency_add:
-  Mask: goods
-  Name: Потребление базовых денег
-  Description: Множитель потребления базовых денег
-goods_input_liquidity_currency_mult:
-  Mask: goods
-  Name: goods_input_liquidity_currency_mult
-  Description: goods_input_liquidity_currency_mult_desc
 goods_input_liquor_add:
   Mask: goods
   Name: Потребление liquor! спирта
   Description: Количество liquor! спирта, потребляемого сооружениями.
-goods_input_local_currency_mult:
-  Mask: goods
-  Name: goods_input_local_currency_mult
-  Description: goods_input_local_currency_mult_desc
 goods_input_manowars_add:
   Mask: goods
   Name: Потребление manowars! мановаров
   Description: Количество manowars! мановаров, потребляемых сооружениями.
-goods_input_manufacture_stock_add:
-  Mask: goods
-  Name: Потребление промышленных акций
-  Description: Потребление промышленных акций
-goods_input_manufacture_stock_mult:
-  Mask: goods
-  Name: Накопление промышленных акций
-  Description: Накопление промышленных акций
 goods_input_meat_add:
   Mask: goods
   Name: Потребление meat! мяса
@@ -7306,22 +7246,6 @@ goods_input_merchant_marine_add:
   Mask: goods
   Name: Потребление merchant_marine! торговых кораблей
   Description: Количество merchant_marine! торговых кораблей, потребляемых сооружениями.
-goods_input_mining_stock_add:
-  Mask: goods
-  Name: Потребление горнодобывающих акций
-  Description: Потребление горнодобывающих акций
-goods_input_mining_stock_mult:
-  Mask: goods
-  Name: Накопление горнодобывающих акций
-  Description: Накопление горнодобывающих акций
-goods_input_mutual_funds_add:
-  Mask: goods
-  Name: Потребление взаимных фондов
-  Description: Потребление взаимных фондов
-goods_input_mutual_funds_mult:
-  Mask: goods
-  Name: Накопление взаимных фондов
-  Description: Накопление взаимных фондов
 goods_input_oil_add:
   Mask: goods
   Name: Потребление oil! ГСМ
@@ -7346,34 +7270,14 @@ goods_input_radios_mult:
   Mask: goods
   Name: Потребление radios! радио
   Description: Количество radios! радио, потребляемых сооружениями.
-goods_input_railroad_stock_add:
-  Mask: goods
-  Name: Потребление железнодорожных акций
-  Description: Потребление железнодорожных акций
-goods_input_railroad_stock_mult:
-  Mask: goods
-  Name: Накопление железнодорожных акций
-  Description: Накопление железнодорожных акций
 goods_input_rubber_add:
   Mask: goods
   Name: Потребление rubber! резины
   Description: Количество rubber! резины, потребляемой сооружениями.
-goods_input_services_add:
-  Mask: goods
-  Name: goods_input_services_add
-  Description: goods_input_services_add_desc
 goods_input_silk_add:
   Mask: goods
   Name: Потребление silk! тонкого шёлка
   Description: Количество silk! тонкого шёлка, потребляемого сооружениями.
-goods_input_silver_add:
-  Mask: goods
-  Name: Потребление серебра
-  Description: Потребление серебра
-goods_input_silver_mult:
-  Mask: goods
-  Name: goods_input_silver_mult
-  Description: goods_input_silver_mult_desc
 goods_input_small_arms_add:
   Mask: goods
   Name: Потребление small_arms! ручного оружия
@@ -7390,10 +7294,6 @@ goods_input_steel_add:
   Mask: goods
   Name: Потребление steel! стали
   Description: Количество steel! стали, потребляемой сооружениями.
-goods_input_steel_construction_add:
-  Mask: goods
-  Name: Потребление steel_construction! Стальные стройматериалы
-  Description: Количество steel_construction! Стальных стройматериалов, потребляемых зданиями
 goods_input_sugar_add:
   Mask: goods
   Name: Потребление sugar! сахара
@@ -7434,398 +7334,314 @@ goods_input_wood_add:
   Mask: goods
   Name: Потребление wood! древесины
   Description: Количество wood! древесины, потребляемой сооружениями.
-goods_input_wood_construction_add:
-  Mask: goods
-  Name: Потребление wood_construction! Древесные стройматериалы
-  Description: Количество wood_construction! Древесных стройматериалов, потребляемых зданиями
 goods_output_aeroplanes_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство aeroplanes! аэропланов
   Description: Количество aeroplanes! аэропланов, производимых сооружениями.
 goods_output_aeroplanes_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство aeroplanes! аэропланов в сооружениях
   Description: Бонус или штраф к количеству aeroplanes!, производимых сооружениями.
-goods_output_agricultural_stock_add:
-  Mask: goods
-  Name: Производство акций сельского хозяйства
-  Description: Производство акций сельского хозяйства
-goods_output_agricultural_stock_mult:
-  Mask: goods
-  Name: Высвобождение акций сельского хозяйства
-  Description: Высвобождение акций сельского хозяйства
 goods_output_ammunition_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство ammunition! боеприпасов
   Description: Количество ammunition! боеприпасов, производимых сооружениями.
 goods_output_ammunition_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство ammunition! боеприпасов в сооружениях
   Description: Бонус или штраф к количеству ammunition!, производимых сооружениями.
-goods_output_arc_welded_construction_add:
-  Mask: goods
-  Name: Производство arc_welded_construction! Сварные стройматериалы
-  Description: Количество arc_welded_construction! Сварных стройматериалов, производимых зданиями
 goods_output_artillery_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство artillery! артиллерии
   Description: Количество artillery! артиллерии, производимой сооружениями.
 goods_output_artillery_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство artillery! артиллерии в сооружениях
   Description: Бонус или штраф к количеству artillery!, производимой сооружениями.
 goods_output_automobiles_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство automobiles! автомобилей
   Description: Количество automobiles! автомобилей, производимых сооружениями.
 goods_output_automobiles_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство automobiles! автомобилей в сооружениях
   Description: Бонус или штраф к количеству automobiles!, производимых сооружениями.
-goods_output_bond_add:
-  Mask: goods
-  Name: Производство облигаций
-  Description: Производство облигаций
-goods_output_bond_mult:
-  Mask: goods
-  Name: Высвобождение облигаций
-  Description: Высвобождение облигаций
 goods_output_clippers_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство clippers! клиперов
   Description: Количество clippers! клиперов, производимых сооружениями.
 goods_output_clippers_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство clippers! клиперов в сооружениях
   Description: Бонус или штраф к количеству clippers! клиперов, производимых сооружениями.
 goods_output_clothes_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство clothes! одежды
   Description: Количество clothes! одежды, производимой сооружениями.
 goods_output_coal_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство coal! угля
   Description: Количество coal! угля, производимого сооружениями.
 goods_output_coffee_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство coffee! кофе
   Description: Количество coffee! кофе, производимого сооружениями.
+goods_output_copper_add:
+  Mask: goods_output
+  Name: Производство copper! меди
+  Description: Количество copper! меди, производимой сооружениями
 goods_output_dye_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство dye! красителей
   Description: Количество dye! красителей, производимых сооружениями.
 goods_output_electricity_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство electricity! электричества
   Description: Количество electricity! электричества, производимого сооружениями.
 goods_output_electricity_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство electricity! электричества в сооружениях
   Description: Бонус или штраф к количеству electricity! электричества, производимого сооружениями.
 goods_output_engines_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство engines! двигателей
   Description: Количество engines! двигателей, производимых сооружениями.
 goods_output_engines_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство engines! двигателей в сооружениях
   Description: Бонус или штраф к количеству engines!, производимых сооружениями.
 goods_output_explosives_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство explosives! взрывчатки
   Description: Количество explosives! взрывчатки, производимой сооружениями.
 goods_output_fabric_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fabric! ткани
   Description: Количество fabric! ткани, производимой сооружениями.
 goods_output_fabric_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fabric! ткани в сооружениях
   Description: Бонус или штраф к количеству fabric! ткани, производимой сооружениями.
 goods_output_fertilizer_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fertilizer! удобрений
   Description: Количество fertilizer! удобрений, производимых сооружениями.
 goods_output_fine_art_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fine_art! картин
   Description: Количество fine_art! картин, производимых сооружениями.
+goods_output_fine_art_mult:
+  Mask: goods_output
+  Name: Производство fine_art! картин в сооружениях
+  Description: Бонус или штраф к числу fine_art! картин, производимых сооружениями
 goods_output_fish_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fish! рыбы
   Description: Количество fish! рыбы, производимой сооружениями.
 goods_output_fruit_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fruit! фруктов
   Description: Количество fruit! фруктов, производимых сооружениями.
 goods_output_fruit_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство fruit! фруктов в сооружениях
   Description: Бонус или штраф к количеству fruit! фруктов, производимых сооружениями.
 goods_output_furniture_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство furniture! мебели
   Description: Количество furniture! мебели, производимой сооружениями.
 goods_output_glass_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство glass! стекла
   Description: Количество glass! стекла, производимого сооружениями.
 goods_output_gold_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство gold! золота
   Description: Количество gold! золота, производимого сооружениями.
-goods_output_gold_mult:
-  Mask: goods
-  Name: goods_output_gold_mult
-  Description: goods_output_gold_mult_desc
 goods_output_grain_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство grain! зерна
   Description: Количество grain! зерна, производимого сооружениями.
 goods_output_groceries_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство groceries! продуктов
   Description: Количество groceries! продуктов, производимых сооружениями.
 goods_output_hardwood_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство hardwood! древесины твёрдых пород
   Description: Количество hardwood! древесины твёрдых пород, производимой сооружениями.
 goods_output_hardwood_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство hardwood! древесины твёрдых пород в сооружениях
   Description: Бонус или штраф к количеству hardwood! древесины твёрдых пород, производимой сооружениями.
 goods_output_iron_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство iron! железа
   Description: Количество iron! железа, производимого сооружениями.
-goods_output_iron_construction_add:
-  Mask: goods
-  Name: Производство iron_construction! Чугунные стройматериалы
-  Description: Количество iron_construction! Чугунных стройматериалов, производимых зданиями
 goods_output_ironclads_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство ironclads! броненосцев
   Description: Количество ironclads! броненосцев, производимых сооружениями.
 goods_output_ironclads_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство ironclads! броненосцев в сооружениях
   Description: Бонус или штраф к количеству ironclads! броненосцев, производимых сооружениями.
 goods_output_lead_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство lead! свинца
   Description: Количество lead! свинца, производимого сооружениями.
-goods_output_liquidity_currency_add:
-  Mask: goods
-  Name: Производство базовых денег
-  Description: Множитель производства базовых денег
-goods_output_liquidity_currency_mult:
-  Mask: goods
-  Name: goods_output_liquidity_currency_mult
-  Description: goods_output_liquidity_currency_mult_desc
 goods_output_liquor_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство liquor! спирта
   Description: Количество liquor! спирта, производимого сооружениями.
 goods_output_liquor_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство liquor! спирта в сооружениях
   Description: Бонус или штраф к количеству liquor! спирта, производимого сооружениями.
-goods_output_local_currency_mult:
-  Mask: goods
-  Name: goods_output_local_currency_mult
-  Description: goods_output_local_currency_mult_desc
 goods_output_luxury_clothes_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство luxury_clothes! роскошной одежды
   Description: Количество luxury_clothes! роскошной одежды, производимой сооружениями.
 goods_output_luxury_furniture_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство luxury_furniture! роскошной мебели
   Description: Количество luxury_furniture! роскошной мебели, производимой сооружениями.
 goods_output_manowars_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство manowars! мановаров
   Description: Количество manowars! мановаров, производимых сооружениями.
 goods_output_manowars_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство manowars! мановаров в сооружениях
   Description: Бонус или штраф к количеству manowars! мановаров, производимых сооружениями.
-goods_output_manufacture_stock_add:
-  Mask: goods
-  Name: Производство промышленных акций
-  Description: Производство промышленных акций
-goods_output_manufacture_stock_mult:
-  Mask: goods
-  Name: Высвобождение промышленных акций
-  Description: Высвобождение промышленных акций
 goods_output_meat_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство meat! мяса
   Description: Количество meat! мяса, производимого сооружениями.
 goods_output_merchant_marine_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство merchant_marine! торговых кораблей
   Description: Количество merchant_marine! торговых кораблей, производимых сооружениями.
-goods_output_mining_stock_add:
-  Mask: goods
-  Name: Производство горнодобывающих акций
-  Description: Производство горнодобывающих акций
-goods_output_mining_stock_mult:
-  Mask: goods
-  Name: Высвобождение горнодобывающих акций
-  Description: Высвобождение горнодобывающих акций
-goods_output_mutual_funds_add:
-  Mask: goods
-  Name: Производство взаимных фондов
-  Description: Производство взаимных фондов
-goods_output_mutual_funds_mult:
-  Mask: goods
-  Name: Высвобождение взаимных фондов
-  Description: Высвобождение взаимных фондов
 goods_output_oil_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство oil! ГСМ
   Description: Количество oil! ГСМ, производимых сооружениями.
 goods_output_oil_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство oil! ГСМ в сооружениях 
   Description: Бонус или штраф к количеству oil! ГСМ, производимых сооружениями.
 goods_output_opium_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство opium! опиума
   Description: Количество opium! опиума, производимого сооружениями.
 goods_output_paper_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство paper! бумаги
   Description: Количество paper! бумаги, производимой сооружениями.
 goods_output_porcelain_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство porcelain! фарфора
   Description: Количество porcelain! фарфора, производимого сооружениями.
 goods_output_radios_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство radios! радио
   Description: Количество radios! радио, производимых сооружениями.
 goods_output_radios_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство radio! радио в сооружениях
   Description: Бонус или штраф к количеству radio! радио, производимых сооружениями.
-goods_output_railroad_stock_add:
-  Mask: goods
-  Name: Производство железнодорожных акций
-  Description: Производство железнодорожных акций
-goods_output_railroad_stock_mult:
-  Mask: goods
-  Name: Высвобождение железнодорожных акций
-  Description: Высвобождение железнодорожных акций
 goods_output_rubber_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство rubber! резины
   Description: Количество rubber! резины, производимой сооружениями.
 goods_output_services_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство services! услуг
   Description: Количество services! услуг, производимых сооружениями.
 goods_output_silk_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство silk! тонкого шёлка
   Description: Количество silk! тонкого шёлка, производимого сооружениями.
 goods_output_silk_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство silk! шёлка в сооружениях
   Description: Бонус или штраф к количеству silk! шёлка, производимого сооружениями.
-goods_output_silver_add:
-  Mask: goods
-  Name: Производство серебра
-  Description: Производство серебра
-goods_output_silver_mult:
-  Mask: goods
-  Name: goods_output_silver_mult
-  Description: goods_output_silver_mult_desc
 goods_output_small_arms_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство small_arms! ручного оружия
   Description: Количество small_arms! ручного оружия, производимого сооружениями.
 goods_output_small_arms_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство small_arms! ручного оружия в сооружениях
   Description: Бонус или штраф к количеству small_arms!, производимых сооружениями.
 goods_output_steamers_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство steamers! пароходов
   Description: Количество steamers! пароходов, производимых сооружениями.
 goods_output_steamers_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство steamers! пароходов в сооружениях
   Description: Бонус или штраф к количеству steamers! пароходов, производимых сооружениями.
 goods_output_steel_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство steel! стали
   Description: Количество steel! стали, производимой сооружениями.
-goods_output_steel_construction_add:
-  Mask: goods
-  Name: Производство steel_construction! Стальные стройматериалы
-  Description: Количество steel_construction! Стальных стройматериалов, производимых зданиями
 goods_output_sugar_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство sugar! сахара
   Description: Количество sugar! сахара, производимого сооружениями.
 goods_output_sugar_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство sugar! сахара в сооружениях
   Description: Бонус или штраф к количеству sugar! сахара, производимого сооружениями.
 goods_output_sulfur_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство sulfur! серы
   Description: Количество sulfur! серы, производимой сооружениями.
 goods_output_tanks_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство tanks! танков
   Description: Количество tanks! танков, производимых сооружениями.
 goods_output_tanks_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство tanks! танков в сооружениях
   Description: Бонус или штраф к количеству tanks!, производимых сооружениями.
 goods_output_tea_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство tea! чая
   Description: Количество tea! чая, производимого сооружениями.
 goods_output_telephones_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство telephones! телефонов
   Description: Количество telephones! телефонов, производимых сооружениями.
 goods_output_tobacco_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство tobacco! табака
   Description: Количество tobacco! табака, производимого сооружениями.
 goods_output_tools_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство tools! инструментов
   Description: Количество tools! инструментов, производимых сооружениями.
 goods_output_tools_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство tools! инструментов в сооружениях
   Description: Бонус или штраф к количеству tools!, производимых сооружениями.
 goods_output_transportation_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство transportation! перевозок
   Description: Количество transportation! перевозок, производимых сооружениями.
 goods_output_wine_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство wine! вина
   Description: Количество wine! вина, производимого сооружениями.
 goods_output_wine_mult:
-  Mask: goods
+  Mask: goods_output
   Name: Производство wine! вина в сооружениях
   Description: Бонус или штраф к количеству wine! вина, производимого сооружениями.
 goods_output_wood_add:
-  Mask: goods
+  Mask: goods_output
   Name: Производство wood! древесины
   Description: Количество wood! древесины, производимой сооружениями.
-goods_output_wood_construction_add:
-  Mask: goods
-  Name: Производство wood_construction! Древесные стройматериалы
-  Description: Количество wood_construction! Древесных стройматериалов, производимых зданиями
 interest_group_ig_armed_forces_approval_add:
   Mask: interest_group
   Name: к одобрению заинтересованной группы «Без политических воззрений ()»
@@ -7998,6 +7814,10 @@ power_bloc_mandate_progress_per_unrecognized_regional_power_member_mult:
   Mask: power_bloc
   Name: Прогресс мандата за региональную непризнанную державу
   Description: Определяет прогресс мандата в блоке государств за каждого участника в статусе региональной непризнанной державы
+ship_battle_against_ship_type_coastal_defense_ship_hull_damage_mult:
+  Mask: ship
+  Name: Урон корпусу при атаке кораблей береговой охраны
+  Description: Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля
 ship_battle_against_ship_type_destroyer_accuracy_add:
   Mask: ship
   Name: Меткость эсминцев
@@ -8010,9 +7830,17 @@ ship_battle_against_ship_type_dreadnought_hull_damage_mult:
   Mask: ship
   Name: Урон корпусу при атаке дредноутов
   Description: Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля
+ship_battle_against_ship_type_early_ironclad_hull_damage_mult:
+  Mask: ship
+  Name: Урон корпусу при атаке ранних броненосцев
+  Description: Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля
 ship_battle_against_ship_type_modern_ironclad_hull_damage_mult:
   Mask: ship
   Name: Урон корпусу при атаке современных броненосцев
+  Description: Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля
+ship_battle_against_ship_type_monitor_hull_damage_mult:
+  Mask: ship
+  Name: Урон корпусу при атаке мониторов
   Description: Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля
 ship_battle_against_ship_type_pre_dreadnought_hull_damage_mult:
   Mask: ship
@@ -8058,6 +7886,10 @@ ship_ship_type_supply_ship_supply_capacity_mult:
   Mask: ship
   Name: Припасы кораблей снабжения
   Description: Увеличение или уменьшение максимального количества припасов, которое может перевозить корабль
+state_abkhazian_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Абхазцы
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_aborigine_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Аборигены
@@ -8152,7 +7984,7 @@ state_aragonese_standard_of_living_add:
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_argentine_standard_of_living_add:
   Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Аргентина
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Аргентинцы
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_aristocrats_investment_pool_contribution_add:
   Mask: state
@@ -8314,170 +8146,14 @@ state_building_conscription_center_max_level_add:
   Mask: state
   Name: Максимальный лимит призыва
   Description: Бонус или штраф к общему количеству батальонов призывников, которые можно набрать в одной области независимо от доли призывников.
-state_building_financial_centre_arg_max_level_add:
+state_building_construction_sector_max_level_add:
   Mask: state
-  Name: Максимальный уровень Bolsa de Comercio de Buenos Aires
-  Description: Максимальный уровень Bolsa de Comercio de Buenos Aires
-state_building_financial_centre_aus_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Wiener Börse
-  Description: Максимальный уровень Wiener Börse
-state_building_financial_centre_bav_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Münchener Börse
-  Description: Максимальный уровень Münchener Börse
-state_building_financial_centre_bel_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bourse de Bruxelles
-  Description: Максимальный уровень Bourse de Bruxelles
-state_building_financial_centre_bic_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bombay Stock Exchange
-  Description: Максимальный уровень Bombay Stock Exchange
-state_building_financial_centre_brz_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Brasil Bolsa Balcão
-  Description: Максимальный уровень Brasil Bolsa Balcão
-state_building_financial_centre_chi_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Shanghai Sharebrokers’ Association
-  Description: Максимальный уровень Shanghai Sharebrokers’ Association
-state_building_financial_centre_chl_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bolsa de Comercio de Santiago
-  Description: Максимальный уровень Bolsa de Comercio de Santiago
-state_building_financial_centre_dei_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Beurs van Batavia
-  Description: Максимальный уровень Beurs van Batavia
-state_building_financial_centre_den_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Københavns Fondsbørs
-  Description: Максимальный уровень Københavns Fondsbørs
-state_building_financial_centre_egy_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Khedive Stock Exchange
-  Description: Максимальный уровень Khedive Stock Exchange
-state_building_financial_centre_fra_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bourse de Paris
-  Description: Максимальный уровень Bourse de Paris
-state_building_financial_centre_frm_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Frankfurter Wertpapierbörse
-  Description: Максимальный уровень Frankfurter Wertpapierbörse
-state_building_financial_centre_gbr_max_level_add:
-  Mask: state
-  Name: Максимальный уровень London Stock Exchange
-  Description: Максимальный уровень London Stock Exchange
-state_building_financial_centre_gre_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Χρηματιστήριο Αθηνών
-  Description: Максимальный уровень Χρηματιστήριο Αθηνών
-state_building_financial_centre_han_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Börse Hannover
-  Description: Максимальный уровень Börse Hannover
-state_building_financial_centre_ita_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Borsa Italiana
-  Description: Максимальный уровень Borsa Italiana
-state_building_financial_centre_jap_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Tokyo Stock Exchange
-  Description: Максимальный уровень Tokyo Stock Exchange
-state_building_financial_centre_max_level_add:
-  Mask: state
-  Name: Максимальный уровень финансового центра
-  Description: Максимальный уровень финансового центра
-state_building_financial_centre_mex_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bolsa de Valores de México
-  Description: Максимальный уровень Bolsa de Valores de México
-state_building_financial_centre_net_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Beurs van Amsterdam
-  Description: Максимальный уровень Beurs van Amsterdam
-state_building_financial_centre_nsw_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Australian Securities Exchange
-  Description: Максимальный уровень Australian Securities Exchange
-state_building_financial_centre_ont_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Toronto Stock Exchange
-  Description: Максимальный уровень Toronto Stock Exchange
-state_building_financial_centre_peu_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bolsa de Valores de Lima
-  Description: Максимальный уровень Bolsa de Valores de Lima
-state_building_financial_centre_por_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bolsa de Valores de Lisboa
-  Description: Максимальный уровень Bolsa de Valores de Lisboa
-state_building_financial_centre_pru_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Börse zu Berlin
-  Description: Максимальный уровень Börse zu Berlin
-state_building_financial_centre_que_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bourse de Montréal
-  Description: Максимальный уровень Bourse de Montréal
-state_building_financial_centre_rus_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Санкт-Петербургской биржи
-  Description: Максимальный уровень Санкт-Петербургской биржи
-state_building_financial_centre_saf_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Johannesburg Stock Exchange
-  Description: Максимальный уровень Johannesburg Stock Exchange
-state_building_financial_centre_sar_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Borsa di Cagliari
-  Description: Максимальный уровень Borsa di Cagliari
-state_building_financial_centre_sax_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Sächsische Börse
-  Description: Максимальный уровень Sächsische Börse
-state_building_financial_centre_sic_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Borsa di Napoli
-  Description: Максимальный уровень Borsa di Napoli
-state_building_financial_centre_spa_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bolsa de Madrid
-  Description: Максимальный уровень Bolsa de Madrid
-state_building_financial_centre_swe_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Stockholmsbörsen
-  Description: Максимальный уровень Stockholmsbörsen
-state_building_financial_centre_swi_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bourses de Genève
-  Description: Максимальный уровень Bourses de Genève
-state_building_financial_centre_tur_max_level_add:
-  Mask: state
-  Name: Максимальный уровень İstanbul Menkul Kıymetler Borsası
-  Description: Максимальный уровень İstanbul Menkul Kıymetler Borsası
-state_building_financial_centre_tus_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Borsa di Toscana
-  Description: Максимальный уровень Borsa di Toscana
-state_building_financial_centre_uru_max_level_add:
-  Mask: state
-  Name: Максимальный уровень Bolsa de Valores de Montevideo
-  Description: Максимальный уровень Bolsa de Valores de Montevideo
-state_building_financial_centre_usa_max_level_add:
-  Mask: state
-  Name: Максимальный уровень New York Stock Exchange
-  Description: Максимальный уровень New York Stock Exchange
+  Name: Макс. уровень строительного сектора
+  Description: Бонус или штраф к максимальному уровню строительного сектора.
 state_building_naval_fortification_max_level_add:
   Mask: state
   Name: к макс. уровню береговых укреплений
   Description: Бонус или штраф к максимальному уровню береговых укреплений.
-state_building_silver_mine_max_level_add:
-  Mask: state
-  Name: Максимальный уровень серебряных рудников
-  Description: Максимальный уровень серебряных рудников
 state_bulgarian_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Болгары
@@ -8524,7 +8200,7 @@ state_caddoan_standard_of_living_add:
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_cajun_standard_of_living_add:
   Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Каджун
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Каджуны
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_capitalists_investment_pool_contribution_add:
   Mask: state
@@ -8550,6 +8226,10 @@ state_catholic_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Католичество
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии.
+state_caucasian_turk_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Кавказские тюрки
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_central_american_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Центральноамериканцы
@@ -8577,6 +8257,10 @@ state_chhattisgarhi_standard_of_living_add:
 state_chilean_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Чилийцы
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
+state_chukchi_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Чукчи
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_chuvash_standard_of_living_add:
   Mask: state
@@ -8622,6 +8306,10 @@ state_cree_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Кри
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
+state_crimean_tatar_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Крымские татары
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_croat_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Хорваты
@@ -8629,6 +8317,10 @@ state_croat_standard_of_living_add:
 state_czech_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Чехи
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
+state_dagestani_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Дагестанцы
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_dakota_standard_of_living_add:
   Mask: state
@@ -8689,6 +8381,10 @@ state_equatorial_bantu_standard_of_living_add:
 state_estonian_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Эстонцы
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
+state_evenki_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Эвенки
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_ewe_standard_of_living_add:
   Mask: state
@@ -9000,7 +8696,7 @@ state_khmu_standard_of_living_add:
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_kho_standard_of_living_add:
   Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Кхо
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Читрали
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_khoisan_standard_of_living_add:
   Mask: state
@@ -9294,10 +8990,6 @@ state_north_andean_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Северные андцы
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
-state_north_caucasian_standard_of_living_add:
-  Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Кавказцы
-  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_north_german_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Северные немцы
@@ -9354,6 +9046,10 @@ state_orthodox_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Православие
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии.
+state_ossetian_standard_of_living_add:
+  Mask: state
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Осетины
+  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_ovimbundu_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Овимбунду
@@ -9400,12 +9096,12 @@ state_peasants_education_access_add:
   Description: Бонус или штраф к доступности образования для peasants! крестьян
 state_peasants_internal_migration_disallowed_bool:
   Mask: state
-  Name: peasants! Крестьяне не могут мигрировать
-  Description: peasants! Крестьяне лишены права мигрировать из одной области страны в другую
+  Name: peasants! Крестьяне не могут мигрировать
+  Description: peasants! Крестьяне лишены права мигрировать из одной области страны в другую
 state_peasants_mass_migration_disallowed_bool:
   Mask: state
-  Name: peasants! Крестьяне не могут массово мигрировать
-  Description: peasants! Крестьяне лишены права массово мигрировать из родной страны
+  Name: peasants! Крестьяне не могут массово мигрировать
+  Description: peasants! Крестьяне лишены права массово мигрировать из родной страны
 state_peasants_mortality_mult:
   Mask: state
   Name: к смертности среди peasants! крестьян
@@ -9700,7 +9396,7 @@ state_portuguese_standard_of_living_add:
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_promethean_standard_of_living_add:
   Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Прометеевск
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Прометеевцы
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_protestant_standard_of_living_add:
   Mask: state
@@ -9781,27 +9477,19 @@ state_scottish_standard_of_living_add:
 state_sell_orders_ammunition_add:
   Mask: state
   Name: Приказы о продаже ammunition! боеприпасов
-  Description: Увеличение или уменьшение количества приказов о продаже  боеприпасов в области
+  Description: Увеличение или уменьшение количества приказов о продаже  ammunition! Боеприпасов в области
 state_sell_orders_artillery_add:
   Mask: state
   Name: Приказы о продаже artillery! артиллерии
-  Description: Увеличение или уменьшение количества приказов о продаже  артиллерии в области
+  Description: Увеличение или уменьшение количества приказов о продаже  artillery! Артиллерии в области
 state_sell_orders_grain_add:
   Mask: state
   Name: Приказы о продаже grain! зерна
-  Description: Увеличение или уменьшение количества приказов о продаже  зерна в области
-state_sell_orders_liquidity_currency_add:
-  Mask: state
-  Name: Приказы о продаже локальной валюты
-  Description: state_sell_orders_liquidity_currency_add_desc
-state_sell_orders_local_currency_add:
-  Mask: state
-  Name: Государственные заявки на продажу (местная валюта)
-  Description: state_sell_orders_local_currency_add_desc
+  Description: Увеличение или уменьшение количества приказов о продаже  grain! Зерна в области
 state_sell_orders_small_arms_add:
   Mask: state
   Name: Приказы о продаже small_arms! стрелкового оружия
-  Description: Увеличение или уменьшение количества приказов о продаже  стрелкового оружия в области
+  Description: Увеличение или уменьшение количества приказов о продаже  small_arms! Стрелкового оружия в области
 state_sena_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Сена
@@ -9812,7 +9500,7 @@ state_senufo_standard_of_living_add:
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_sephardic_standard_of_living_add:
   Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Сефарды
+  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Сефардка
   Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_serb_standard_of_living_add:
   Mask: state
@@ -9842,10 +9530,6 @@ state_shopkeepers_investment_pool_efficiency_mult:
   Mask: state
   Name: Эффективность вклада shopkeepers! лавочников в инвестиционный пул
   Description: Увеличение или уменьшение роли доходов shopkeepers! лавочников в инвестиционном пуле
-state_siberian_standard_of_living_add:
-  Mask: state
-  Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Сибирцы
-  Description: Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры.
 state_sidama_standard_of_living_add:
   Mask: state
   Name: Модификатор [Concept('concept_sol', 'уровня жизни')]: Сидама
@@ -10130,10 +9814,26 @@ unit_combat_unit_type_cannon_artillery_offense_mult:
   Mask: unit
   Name: к атаке ствольной артиллерии
   Description: к атаке ствольной артиллерии
+unit_combat_unit_type_cuirassiers_offense_mult:
+  Mask: unit
+  Name: к атаке кирасиров
+  Description: к атаке кирасиров
+unit_combat_unit_type_dragoons_offense_mult:
+  Mask: unit
+  Name: к атаке драгунов
+  Description: к атаке драгунов
 unit_combat_unit_type_heavy_tank_offense_mult:
   Mask: unit
   Name: к атаке тяжёлых танков
   Description: к атаке тяжёлых танков
+unit_combat_unit_type_hussars_offense_mult:
+  Mask: unit
+  Name: к атаке гусаров
+  Description: к атаке гусаров
+unit_combat_unit_type_lancers_offense_mult:
+  Mask: unit
+  Name: к атаке уланов
+  Description: к атаке уланов
 unit_combat_unit_type_mechanized_infantry_offense_add:
   Mask: unit
   Name: к атаке механизированной пехоты
@@ -10274,8 +9974,6 @@ building_army_logistics_center_throughput_add:
   Mask: building
 building_banana_plantation_throughput_add:
   Mask: building
-building_bank_throughput_add:
-  Mask: building
 building_big_ben_throughput_add:
   Mask: building
 building_bureaucrats_fertility_mult:
@@ -10291,6 +9989,8 @@ building_capitalists_mortality_mult:
 building_capitalists_shares_mult:
   Mask: building
 building_capitol_hill_throughput_add:
+  Mask: building
+building_cathedral_of_christ_the_savior_throughput_add:
   Mask: building
 building_central_park_throughput_add:
   Mask: building
@@ -10313,6 +10013,8 @@ building_company_headquarter_throughput_add:
 building_company_regional_headquarter_throughput_add:
   Mask: building
 building_conscription_center_throughput_add:
+  Mask: building
+building_cossack_host_throughput_add:
   Mask: building
 building_cristo_redentor_throughput_add:
   Mask: building
@@ -10366,84 +10068,6 @@ building_farmers_shares_add:
   Mask: building
 building_farmers_shares_mult:
   Mask: building
-building_financial_centre_arg_throughput_add:
-  Mask: building
-building_financial_centre_aus_throughput_add:
-  Mask: building
-building_financial_centre_bav_throughput_add:
-  Mask: building
-building_financial_centre_bel_throughput_add:
-  Mask: building
-building_financial_centre_bic_throughput_add:
-  Mask: building
-building_financial_centre_brz_throughput_add:
-  Mask: building
-building_financial_centre_chi_throughput_add:
-  Mask: building
-building_financial_centre_chl_throughput_add:
-  Mask: building
-building_financial_centre_dei_throughput_add:
-  Mask: building
-building_financial_centre_den_throughput_add:
-  Mask: building
-building_financial_centre_egy_throughput_add:
-  Mask: building
-building_financial_centre_fra_throughput_add:
-  Mask: building
-building_financial_centre_frm_throughput_add:
-  Mask: building
-building_financial_centre_gbr_throughput_add:
-  Mask: building
-building_financial_centre_gre_throughput_add:
-  Mask: building
-building_financial_centre_han_throughput_add:
-  Mask: building
-building_financial_centre_ita_throughput_add:
-  Mask: building
-building_financial_centre_jap_throughput_add:
-  Mask: building
-building_financial_centre_mex_throughput_add:
-  Mask: building
-building_financial_centre_net_throughput_add:
-  Mask: building
-building_financial_centre_nsw_throughput_add:
-  Mask: building
-building_financial_centre_ont_throughput_add:
-  Mask: building
-building_financial_centre_peu_throughput_add:
-  Mask: building
-building_financial_centre_por_throughput_add:
-  Mask: building
-building_financial_centre_pru_throughput_add:
-  Mask: building
-building_financial_centre_que_throughput_add:
-  Mask: building
-building_financial_centre_rus_throughput_add:
-  Mask: building
-building_financial_centre_saf_throughput_add:
-  Mask: building
-building_financial_centre_sar_throughput_add:
-  Mask: building
-building_financial_centre_sax_throughput_add:
-  Mask: building
-building_financial_centre_sic_throughput_add:
-  Mask: building
-building_financial_centre_spa_throughput_add:
-  Mask: building
-building_financial_centre_swe_throughput_add:
-  Mask: building
-building_financial_centre_swi_throughput_add:
-  Mask: building
-building_financial_centre_throughput_add:
-  Mask: building
-building_financial_centre_tur_throughput_add:
-  Mask: building
-building_financial_centre_tus_throughput_add:
-  Mask: building
-building_financial_centre_uru_throughput_add:
-  Mask: building
-building_financial_centre_usa_throughput_add:
-  Mask: building
 building_financial_district_throughput_add:
   Mask: building
 building_forbidden_city_throughput_add:
@@ -10451,6 +10075,8 @@ building_forbidden_city_throughput_add:
 building_giza_necropolis_throughput_add:
   Mask: building
 building_gran_teatro_de_la_habana_throughput_add:
+  Mask: building
+building_grand_kremlin_palace_throughput_add:
   Mask: building
 building_group_bg_agriculture_academics_fertility_mult:
   Mask: building
@@ -10971,114 +10597,6 @@ building_group_bg_banana_plantations_tax_mult:
 building_group_bg_banana_plantations_throughput_add:
   Mask: building
 building_group_bg_banana_plantations_unincorporated_throughput_add:
-  Mask: building
-building_group_bg_bank_academics_fertility_mult:
-  Mask: building
-building_group_bg_bank_academics_mortality_mult:
-  Mask: building
-building_group_bg_bank_academics_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_aristocrats_fertility_mult:
-  Mask: building
-building_group_bg_bank_aristocrats_mortality_mult:
-  Mask: building
-building_group_bg_bank_aristocrats_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_bureaucrats_fertility_mult:
-  Mask: building
-building_group_bg_bank_bureaucrats_mortality_mult:
-  Mask: building
-building_group_bg_bank_bureaucrats_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_capitalists_fertility_mult:
-  Mask: building
-building_group_bg_bank_capitalists_mortality_mult:
-  Mask: building
-building_group_bg_bank_capitalists_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_clergymen_fertility_mult:
-  Mask: building
-building_group_bg_bank_clergymen_mortality_mult:
-  Mask: building
-building_group_bg_bank_clergymen_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_clerks_fertility_mult:
-  Mask: building
-building_group_bg_bank_clerks_mortality_mult:
-  Mask: building
-building_group_bg_bank_clerks_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_employee_mult:
-  Mask: building
-building_group_bg_bank_engineers_fertility_mult:
-  Mask: building
-building_group_bg_bank_engineers_mortality_mult:
-  Mask: building
-building_group_bg_bank_engineers_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_farmers_fertility_mult:
-  Mask: building
-building_group_bg_bank_farmers_mortality_mult:
-  Mask: building
-building_group_bg_bank_farmers_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_fertility_mult:
-  Mask: building
-building_group_bg_bank_infrastructure_usage_mult:
-  Mask: building
-building_group_bg_bank_laborers_fertility_mult:
-  Mask: building
-building_group_bg_bank_laborers_mortality_mult:
-  Mask: building
-building_group_bg_bank_laborers_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_machinists_fertility_mult:
-  Mask: building
-building_group_bg_bank_machinists_mortality_mult:
-  Mask: building
-building_group_bg_bank_machinists_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_mortality_mult:
-  Mask: building
-building_group_bg_bank_officers_fertility_mult:
-  Mask: building
-building_group_bg_bank_officers_mortality_mult:
-  Mask: building
-building_group_bg_bank_officers_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_peasants_fertility_mult:
-  Mask: building
-building_group_bg_bank_peasants_mortality_mult:
-  Mask: building
-building_group_bg_bank_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_self_investment_chance_add:
-  Mask: building
-building_group_bg_bank_shopkeepers_fertility_mult:
-  Mask: building
-building_group_bg_bank_shopkeepers_mortality_mult:
-  Mask: building
-building_group_bg_bank_shopkeepers_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_slaves_fertility_mult:
-  Mask: building
-building_group_bg_bank_slaves_mortality_mult:
-  Mask: building
-building_group_bg_bank_slaves_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_soldiers_fertility_mult:
-  Mask: building
-building_group_bg_bank_soldiers_mortality_mult:
-  Mask: building
-building_group_bg_bank_soldiers_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_standard_of_living_add:
-  Mask: building
-building_group_bg_bank_tax_mult:
-  Mask: building
-building_group_bg_bank_throughput_add:
-  Mask: building
-building_group_bg_bank_unincorporated_throughput_add:
   Mask: building
 building_group_bg_bureaucracy_academics_fertility_mult:
   Mask: building
@@ -11894,8 +11412,6 @@ building_group_bg_construction_laborers_standard_of_living_add:
   Mask: building
 building_group_bg_construction_machinists_fertility_mult:
   Mask: building
-building_group_bg_construction_machinists_mortality_mult:
-  Mask: building
 building_group_bg_construction_machinists_standard_of_living_add:
   Mask: building
 building_group_bg_construction_mortality_mult:
@@ -11911,114 +11427,6 @@ building_group_bg_construction_peasants_fertility_mult:
 building_group_bg_construction_peasants_mortality_mult:
   Mask: building
 building_group_bg_construction_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_academics_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_academics_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_academics_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_aristocrats_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_aristocrats_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_aristocrats_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_bureaucrats_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_bureaucrats_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_bureaucrats_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_capitalists_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_capitalists_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_capitalists_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_clergymen_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_clergymen_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_clergymen_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_clerks_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_clerks_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_clerks_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_employee_mult:
-  Mask: building
-building_group_bg_construction_regulator_engineers_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_engineers_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_engineers_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_farmers_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_farmers_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_farmers_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_infrastructure_usage_mult:
-  Mask: building
-building_group_bg_construction_regulator_laborers_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_laborers_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_laborers_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_machinists_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_machinists_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_machinists_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_officers_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_officers_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_officers_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_peasants_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_peasants_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_self_investment_chance_add:
-  Mask: building
-building_group_bg_construction_regulator_shopkeepers_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_shopkeepers_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_shopkeepers_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_slaves_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_slaves_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_slaves_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_soldiers_fertility_mult:
-  Mask: building
-building_group_bg_construction_regulator_soldiers_mortality_mult:
-  Mask: building
-building_group_bg_construction_regulator_soldiers_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_standard_of_living_add:
-  Mask: building
-building_group_bg_construction_regulator_tax_mult:
-  Mask: building
-building_group_bg_construction_regulator_throughput_add:
-  Mask: building
-building_group_bg_construction_regulator_unincorporated_throughput_add:
   Mask: building
 building_group_bg_construction_self_investment_chance_add:
   Mask: building
@@ -12047,6 +11455,114 @@ building_group_bg_construction_tax_mult:
 building_group_bg_construction_throughput_add:
   Mask: building
 building_group_bg_construction_unincorporated_throughput_add:
+  Mask: building
+building_group_bg_cossack_host_academics_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_academics_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_academics_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_aristocrats_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_aristocrats_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_aristocrats_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_bureaucrats_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_bureaucrats_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_bureaucrats_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_capitalists_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_capitalists_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_capitalists_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_clergymen_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_clergymen_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_clergymen_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_clerks_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_clerks_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_clerks_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_employee_mult:
+  Mask: building
+building_group_bg_cossack_host_engineers_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_engineers_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_engineers_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_farmers_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_farmers_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_farmers_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_infrastructure_usage_mult:
+  Mask: building
+building_group_bg_cossack_host_laborers_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_laborers_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_laborers_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_machinists_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_machinists_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_machinists_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_officers_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_officers_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_officers_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_peasants_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_peasants_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_peasants_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_self_investment_chance_add:
+  Mask: building
+building_group_bg_cossack_host_shopkeepers_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_shopkeepers_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_shopkeepers_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_slaves_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_slaves_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_slaves_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_soldiers_fertility_mult:
+  Mask: building
+building_group_bg_cossack_host_soldiers_mortality_mult:
+  Mask: building
+building_group_bg_cossack_host_soldiers_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_standard_of_living_add:
+  Mask: building
+building_group_bg_cossack_host_tax_mult:
+  Mask: building
+building_group_bg_cossack_host_throughput_add:
+  Mask: building
+building_group_bg_cossack_host_unincorporated_throughput_add:
   Mask: building
 building_group_bg_cotton_plantations_academics_fertility_mult:
   Mask: building
@@ -12264,114 +11780,6 @@ building_group_bg_dye_plantations_throughput_add:
   Mask: building
 building_group_bg_dye_plantations_unincorporated_throughput_add:
   Mask: building
-building_group_bg_ef_private_construction_academics_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_academics_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_academics_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_aristocrats_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_aristocrats_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_aristocrats_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_bureaucrats_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_bureaucrats_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_bureaucrats_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_capitalists_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_capitalists_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_capitalists_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_clergymen_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_clergymen_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_clergymen_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_clerks_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_clerks_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_clerks_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_employee_mult:
-  Mask: building
-building_group_bg_ef_private_construction_engineers_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_engineers_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_engineers_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_farmers_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_farmers_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_farmers_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_infrastructure_usage_mult:
-  Mask: building
-building_group_bg_ef_private_construction_laborers_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_laborers_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_laborers_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_machinists_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_machinists_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_machinists_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_officers_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_officers_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_officers_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_peasants_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_peasants_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_self_investment_chance_add:
-  Mask: building
-building_group_bg_ef_private_construction_shopkeepers_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_shopkeepers_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_shopkeepers_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_slaves_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_slaves_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_slaves_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_soldiers_fertility_mult:
-  Mask: building
-building_group_bg_ef_private_construction_soldiers_mortality_mult:
-  Mask: building
-building_group_bg_ef_private_construction_soldiers_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_standard_of_living_add:
-  Mask: building
-building_group_bg_ef_private_construction_tax_mult:
-  Mask: building
-building_group_bg_ef_private_construction_throughput_add:
-  Mask: building
-building_group_bg_ef_private_construction_unincorporated_throughput_add:
-  Mask: building
 building_group_bg_extraction_academics_fertility_mult:
   Mask: building
 building_group_bg_extraction_academics_mortality_mult:
@@ -12475,112 +11883,6 @@ building_group_bg_extraction_standard_of_living_add:
 building_group_bg_extraction_tax_mult:
   Mask: building
 building_group_bg_extraction_unincorporated_throughput_add:
-  Mask: building
-building_group_bg_financial_centre_academics_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_academics_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_academics_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_aristocrats_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_aristocrats_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_aristocrats_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_bureaucrats_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_bureaucrats_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_bureaucrats_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_capitalists_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_capitalists_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_capitalists_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_clergymen_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_clergymen_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_clergymen_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_clerks_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_clerks_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_clerks_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_employee_mult:
-  Mask: building
-building_group_bg_financial_centre_engineers_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_engineers_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_engineers_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_farmers_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_farmers_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_farmers_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_infrastructure_usage_mult:
-  Mask: building
-building_group_bg_financial_centre_laborers_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_laborers_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_laborers_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_machinists_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_machinists_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_machinists_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_officers_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_officers_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_officers_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_peasants_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_peasants_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_self_investment_chance_add:
-  Mask: building
-building_group_bg_financial_centre_shopkeepers_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_shopkeepers_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_shopkeepers_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_slaves_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_slaves_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_slaves_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_soldiers_fertility_mult:
-  Mask: building
-building_group_bg_financial_centre_soldiers_mortality_mult:
-  Mask: building
-building_group_bg_financial_centre_soldiers_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_standard_of_living_add:
-  Mask: building
-building_group_bg_financial_centre_tax_mult:
-  Mask: building
-building_group_bg_financial_centre_unincorporated_throughput_add:
   Mask: building
 building_group_bg_financial_districts_academics_fertility_mult:
   Mask: building
@@ -16568,114 +15870,6 @@ building_group_bg_silk_plantations_throughput_add:
   Mask: building
 building_group_bg_silk_plantations_unincorporated_throughput_add:
   Mask: building
-building_group_bg_silver_mining_academics_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_academics_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_academics_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_aristocrats_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_aristocrats_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_aristocrats_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_bureaucrats_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_bureaucrats_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_bureaucrats_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_capitalists_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_capitalists_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_capitalists_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_clergymen_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_clergymen_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_clergymen_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_clerks_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_clerks_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_clerks_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_employee_mult:
-  Mask: building
-building_group_bg_silver_mining_engineers_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_engineers_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_engineers_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_farmers_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_farmers_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_farmers_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_infrastructure_usage_mult:
-  Mask: building
-building_group_bg_silver_mining_laborers_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_laborers_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_laborers_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_machinists_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_machinists_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_machinists_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_officers_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_officers_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_officers_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_peasants_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_peasants_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_self_investment_chance_add:
-  Mask: building
-building_group_bg_silver_mining_shopkeepers_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_shopkeepers_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_shopkeepers_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_slaves_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_slaves_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_slaves_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_soldiers_fertility_mult:
-  Mask: building
-building_group_bg_silver_mining_soldiers_mortality_mult:
-  Mask: building
-building_group_bg_silver_mining_soldiers_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_standard_of_living_add:
-  Mask: building
-building_group_bg_silver_mining_tax_mult:
-  Mask: building
-building_group_bg_silver_mining_throughput_add:
-  Mask: building
-building_group_bg_silver_mining_unincorporated_throughput_add:
-  Mask: building
 building_group_bg_skyscraper_academics_fertility_mult:
   Mask: building
 building_group_bg_skyscraper_academics_mortality_mult:
@@ -18170,114 +17364,6 @@ building_group_bg_wheat_farms_throughput_add:
   Mask: building
 building_group_bg_wheat_farms_unincorporated_throughput_add:
   Mask: building
-building_group_bg_zz_ef_banking_academics_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_academics_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_academics_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_aristocrats_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_aristocrats_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_aristocrats_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_bureaucrats_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_bureaucrats_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_bureaucrats_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_capitalists_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_capitalists_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_capitalists_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_clergymen_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_clergymen_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_clergymen_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_clerks_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_clerks_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_clerks_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_employee_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_engineers_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_engineers_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_engineers_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_farmers_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_farmers_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_farmers_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_infrastructure_usage_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_laborers_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_laborers_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_laborers_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_machinists_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_machinists_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_machinists_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_officers_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_officers_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_officers_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_peasants_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_peasants_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_peasants_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_self_investment_chance_add:
-  Mask: building
-building_group_bg_zz_ef_banking_shopkeepers_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_shopkeepers_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_shopkeepers_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_slaves_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_slaves_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_slaves_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_soldiers_fertility_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_soldiers_mortality_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_soldiers_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_standard_of_living_add:
-  Mask: building
-building_group_bg_zz_ef_banking_tax_mult:
-  Mask: building
-building_group_bg_zz_ef_banking_throughput_add:
-  Mask: building
-building_group_bg_zz_ef_banking_unincorporated_throughput_add:
-  Mask: building
 building_hagia_sophia_throughput_add:
   Mask: building
 building_halloween_castledracula_throughput_add:
@@ -18294,11 +17380,11 @@ building_khaju_bridge_throughput_add:
   Mask: building
 building_kiel_canal_throughput_add:
   Mask: building
+building_kizhi_pogost_throughput_add:
+  Mask: building
 building_laborers_fertility_mult:
   Mask: building
 building_laborers_shares_mult:
-  Mask: building
-building_ld_investment_fund_throughput_add:
   Mask: building
 building_logging_camp_throughput_add:
   Mask: building
@@ -18360,6 +17446,8 @@ building_sagrada_familia_cathedral_3_throughput_add:
   Mask: building
 building_saint_basils_cathedral_throughput_add:
   Mask: building
+building_saint_isaacs_cathedral_throughput_add:
+  Mask: building
 building_shopkeepers_fertility_mult:
   Mask: building
 building_shopkeepers_mortality_mult:
@@ -18406,7 +17494,7 @@ building_wat_arun_throughput_add:
   Mask: building
 building_white_house_throughput_add:
   Mask: building
-building_zz_ef_bank_throughput_add:
+building_winter_palace_throughput_add:
   Mask: building
 country_aeroplanes_export_tariffs_rate_add:
   Mask: country
@@ -18420,18 +17508,6 @@ country_aeroplanes_min_export_tariffs_level_add:
   Mask: country
 country_aeroplanes_min_import_tariffs_level_add:
   Mask: country
-country_agricultural_stock_export_tariffs_rate_add:
-  Mask: country
-country_agricultural_stock_import_tariffs_rate_add:
-  Mask: country
-country_agricultural_stock_max_export_tariffs_level_add:
-  Mask: country
-country_agricultural_stock_max_import_tariffs_level_add:
-  Mask: country
-country_agricultural_stock_min_export_tariffs_level_add:
-  Mask: country
-country_agricultural_stock_min_import_tariffs_level_add:
-  Mask: country
 country_ammunition_export_tariffs_rate_add:
   Mask: country
 country_ammunition_import_tariffs_rate_add:
@@ -18443,18 +17519,6 @@ country_ammunition_max_import_tariffs_level_add:
 country_ammunition_min_export_tariffs_level_add:
   Mask: country
 country_ammunition_min_import_tariffs_level_add:
-  Mask: country
-country_arc_welded_construction_export_tariffs_rate_add:
-  Mask: country
-country_arc_welded_construction_import_tariffs_rate_add:
-  Mask: country
-country_arc_welded_construction_max_export_tariffs_level_add:
-  Mask: country
-country_arc_welded_construction_max_import_tariffs_level_add:
-  Mask: country
-country_arc_welded_construction_min_export_tariffs_level_add:
-  Mask: country
-country_arc_welded_construction_min_import_tariffs_level_add:
   Mask: country
 country_artillery_export_tariffs_rate_add:
   Mask: country
@@ -18490,8 +17554,6 @@ country_bg_arts_require_subsidies_bool:
   Mask: country
 country_bg_banana_plantations_require_subsidies_bool:
   Mask: country
-country_bg_bank_require_subsidies_bool:
-  Mask: country
 country_bg_bureaucracy_require_subsidies_bool:
   Mask: country
 country_bg_canals_require_subsidies_bool:
@@ -18506,19 +17568,15 @@ country_bg_company_regional_headquarter_require_subsidies_bool:
   Mask: country
 country_bg_conscription_require_subsidies_bool:
   Mask: country
-country_bg_construction_regulator_require_subsidies_bool:
-  Mask: country
 country_bg_construction_require_subsidies_bool:
+  Mask: country
+country_bg_cossack_host_require_subsidies_bool:
   Mask: country
 country_bg_cotton_plantations_require_subsidies_bool:
   Mask: country
 country_bg_dye_plantations_require_subsidies_bool:
   Mask: country
-country_bg_ef_private_construction_require_subsidies_bool:
-  Mask: country
 country_bg_extraction_require_subsidies_bool:
-  Mask: country
-country_bg_financial_centre_require_subsidies_bool:
   Mask: country
 country_bg_financial_districts_require_subsidies_bool:
   Mask: country
@@ -18596,8 +17654,6 @@ country_bg_ship_construction_require_subsidies_bool:
   Mask: country
 country_bg_silk_plantations_require_subsidies_bool:
   Mask: country
-country_bg_silver_mining_require_subsidies_bool:
-  Mask: country
 country_bg_skyscraper_require_subsidies_bool:
   Mask: country
 country_bg_staple_crops_require_subsidies_bool:
@@ -18626,20 +17682,6 @@ country_bg_whaling_require_subsidies_bool:
   Mask: country
 country_bg_wheat_farms_require_subsidies_bool:
   Mask: country
-country_bg_zz_ef_banking_require_subsidies_bool:
-  Mask: country
-country_bond_export_tariffs_rate_add:
-  Mask: country
-country_bond_import_tariffs_rate_add:
-  Mask: country
-country_bond_max_export_tariffs_level_add:
-  Mask: country
-country_bond_max_import_tariffs_level_add:
-  Mask: country
-country_bond_min_export_tariffs_level_add:
-  Mask: country
-country_bond_min_import_tariffs_level_add:
-  Mask: country
 country_building_angkor_wat_require_subsidies_bool:
   Mask: country
 country_building_argebam_require_subsidies_bool:
@@ -18656,13 +17698,13 @@ country_building_automotive_industry_require_subsidies_bool:
   Mask: country
 country_building_banana_plantation_require_subsidies_bool:
   Mask: country
-country_building_bank_require_subsidies_bool:
-  Mask: country
 country_building_barrack_require_subsidies_bool:
   Mask: country
 country_building_big_ben_require_subsidies_bool:
   Mask: country
 country_building_capitol_hill_require_subsidies_bool:
+  Mask: country
+country_building_cathedral_of_christ_the_savior_require_subsidies_bool:
   Mask: country
 country_building_central_park_require_subsidies_bool:
   Mask: country
@@ -18680,9 +17722,11 @@ country_building_company_regional_headquarter_require_subsidies_bool:
   Mask: country
 country_building_conscription_center_require_subsidies_bool:
   Mask: country
-country_building_construction_regulator_require_subsidies_bool:
-  Mask: country
 country_building_construction_sector_require_subsidies_bool:
+  Mask: country
+country_building_copper_mine_require_subsidies_bool:
+  Mask: country
+country_building_cossack_host_require_subsidies_bool:
   Mask: country
 country_building_cotton_plantation_require_subsidies_bool:
   Mask: country
@@ -18701,84 +17745,6 @@ country_building_estacion_de_madrid_atocha_require_subsidies_bool:
 country_building_explosives_factory_require_subsidies_bool:
   Mask: country
 country_building_eye_of_sahara_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_arg_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_aus_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_bav_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_bel_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_bic_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_brz_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_chi_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_chl_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_dei_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_den_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_egy_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_fra_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_frm_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_gbr_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_gre_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_han_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_ita_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_jap_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_mex_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_net_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_nsw_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_ont_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_peu_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_por_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_pru_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_que_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_rus_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_saf_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_sar_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_sax_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_sic_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_spa_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_swe_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_swi_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_tur_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_tus_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_uru_require_subsidies_bool:
-  Mask: country
-country_building_financial_centre_usa_require_subsidies_bool:
   Mask: country
 country_building_financial_district_require_subsidies_bool:
   Mask: country
@@ -18802,6 +17768,8 @@ country_building_government_administration_require_subsidies_bool:
   Mask: country
 country_building_gran_teatro_de_la_habana_require_subsidies_bool:
   Mask: country
+country_building_grand_kremlin_palace_require_subsidies_bool:
+  Mask: country
 country_building_hagia_sophia_require_subsidies_bool:
   Mask: country
 country_building_halloween_castledracula_require_subsidies_bool:
@@ -18820,7 +17788,7 @@ country_building_khaju_bridge_require_subsidies_bool:
   Mask: country
 country_building_kiel_canal_require_subsidies_bool:
   Mask: country
-country_building_ld_investment_fund_require_subsidies_bool:
+country_building_kizhi_pogost_require_subsidies_bool:
   Mask: country
 country_building_lead_mine_require_subsidies_bool:
   Mask: country
@@ -18894,11 +17862,11 @@ country_building_sagrada_familia_cathedral_3_require_subsidies_bool:
   Mask: country
 country_building_saint_basils_cathedral_require_subsidies_bool:
   Mask: country
+country_building_saint_isaacs_cathedral_require_subsidies_bool:
+  Mask: country
 country_building_shipyard_require_subsidies_bool:
   Mask: country
 country_building_silk_plantation_require_subsidies_bool:
-  Mask: country
-country_building_silver_mine_require_subsidies_bool:
   Mask: country
 country_building_skyscraper_require_subsidies_bool:
   Mask: country
@@ -18956,7 +17924,7 @@ country_building_wheat_farm_require_subsidies_bool:
   Mask: country
 country_building_white_house_require_subsidies_bool:
   Mask: country
-country_building_zz_ef_bank_require_subsidies_bool:
+country_building_winter_palace_require_subsidies_bool:
   Mask: country
 country_clippers_export_tariffs_rate_add:
   Mask: country
@@ -19006,6 +17974,18 @@ country_coffee_min_export_tariffs_level_add:
   Mask: country
 country_coffee_min_import_tariffs_level_add:
   Mask: country
+country_copper_export_tariffs_rate_add:
+  Mask: country
+country_copper_import_tariffs_rate_add:
+  Mask: country
+country_copper_max_export_tariffs_level_add:
+  Mask: country
+country_copper_max_import_tariffs_level_add:
+  Mask: country
+country_copper_min_export_tariffs_level_add:
+  Mask: country
+country_copper_min_import_tariffs_level_add:
+  Mask: country
 country_dye_export_tariffs_rate_add:
   Mask: country
 country_dye_import_tariffs_rate_add:
@@ -19040,9 +18020,7 @@ country_enactment_success_chance_law_appointed_bureaucrats_add:
   Mask: country
 country_enactment_success_chance_law_bakufu_add:
   Mask: country
-country_enactment_success_chance_law_bimetallism_exchange_standard_add:
-  Mask: country
-country_enactment_success_chance_law_bimetallism_standard_add:
+country_enactment_success_chance_law_caesaropapism_add:
   Mask: country
 country_enactment_success_chance_law_canton_system_add:
   Mask: country
@@ -19076,6 +18054,8 @@ country_enactment_success_chance_law_command_economy_add:
   Mask: country
 country_enactment_success_chance_law_commercialized_agriculture_add:
   Mask: country
+country_enactment_success_chance_law_communal_administration_add:
+  Mask: country
 country_enactment_success_chance_law_compulsory_primary_school_add:
   Mask: country
 country_enactment_success_chance_law_consumption_based_taxation_add:
@@ -19096,8 +18076,6 @@ country_enactment_success_chance_law_debt_slavery_add:
   Mask: country
 country_enactment_success_chance_law_dedicated_police_add:
   Mask: country
-country_enactment_success_chance_law_devaluation_add:
-  Mask: country
 country_enactment_success_chance_law_diplomatic_navy_add:
   Mask: country
 country_enactment_success_chance_law_elder_council_add:
@@ -19108,23 +18086,17 @@ country_enactment_success_chance_law_ethnostate_add:
   Mask: country
 country_enactment_success_chance_law_expanded_latifundias_add:
   Mask: country
-country_enactment_success_chance_law_external_exchange_standard_add:
-  Mask: country
 country_enactment_success_chance_law_extraction_economy_add:
   Mask: country
-country_enactment_success_chance_law_factory_councils_add:
+country_enactment_success_chance_law_extraordinary_commission_add:
   Mask: country
-country_enactment_success_chance_law_fiat_standard_add:
+country_enactment_success_chance_law_factory_councils_add:
   Mask: country
 country_enactment_success_chance_law_free_trade_add:
   Mask: country
 country_enactment_success_chance_law_freedom_of_conscience_add:
   Mask: country
 country_enactment_success_chance_law_frontier_colonization_add:
-  Mask: country
-country_enactment_success_chance_law_gold_exchange_standard_add:
-  Mask: country
-country_enactment_success_chance_law_gold_standard_add:
   Mask: country
 country_enactment_success_chance_law_graduated_taxation_add:
   Mask: country
@@ -19146,11 +18118,15 @@ country_enactment_success_chance_law_industry_banned_add:
   Mask: country
 country_enactment_success_chance_law_intermediate_edo_system_add:
   Mask: country
+country_enactment_success_chance_law_internal_colonization_add:
+  Mask: country
 country_enactment_success_chance_law_interventionism_add:
   Mask: country
 country_enactment_success_chance_law_isolationism_add:
   Mask: country
 country_enactment_success_chance_law_jeune_ecole_add:
+  Mask: country
+country_enactment_success_chance_law_labour_suffrage_add:
   Mask: country
 country_enactment_success_chance_law_laissez_faire_add:
   Mask: country
@@ -19158,17 +18134,9 @@ country_enactment_success_chance_law_land_based_taxation_add:
   Mask: country
 country_enactment_success_chance_law_landed_voting_add:
   Mask: country
-country_enactment_success_chance_law_large_monetary_policy_add:
-  Mask: country
 country_enactment_success_chance_law_latifundias_add:
   Mask: country
 country_enactment_success_chance_law_lax_edo_system_add:
-  Mask: country
-country_enactment_success_chance_law_ld_cb_none_add:
-  Mask: country
-country_enactment_success_chance_law_ld_cb_private_add:
-  Mask: country
-country_enactment_success_chance_law_ld_cb_state_add:
   Mask: country
 country_enactment_success_chance_law_legacy_slavery_add:
   Mask: country
@@ -19186,11 +18154,11 @@ country_enactment_success_chance_law_migration_controls_add:
   Mask: country
 country_enactment_success_chance_law_militarized_police_add:
   Mask: country
+country_enactment_success_chance_law_military_bureaucrats_add:
+  Mask: country
 country_enactment_success_chance_law_millet_system_add:
   Mask: country
 country_enactment_success_chance_law_monarchy_add:
-  Mask: country
-country_enactment_success_chance_law_multicultural_add:
   Mask: country
 country_enactment_success_chance_law_national_guard_add:
   Mask: country
@@ -19208,10 +18176,6 @@ country_enactment_success_chance_law_no_home_affairs_add:
   Mask: country
 country_enactment_success_chance_law_no_migration_controls_add:
   Mask: country
-country_enactment_success_chance_law_no_monetary_policy_add:
-  Mask: country
-country_enactment_success_chance_law_no_monetary_system_add:
-  Mask: country
 country_enactment_success_chance_law_no_police_add:
   Mask: country
 country_enactment_success_chance_law_no_schools_add:
@@ -19221,6 +18185,10 @@ country_enactment_success_chance_law_no_social_security_add:
 country_enactment_success_chance_law_no_womens_rights_add:
   Mask: country
 country_enactment_success_chance_law_no_workers_rights_add:
+  Mask: country
+country_enactment_success_chance_law_official_nationality_add:
+  Mask: country
+country_enactment_success_chance_law_okhrana_add:
   Mask: country
 country_enactment_success_chance_law_old_age_pension_add:
   Mask: country
@@ -19266,7 +18234,7 @@ country_enactment_success_chance_law_religious_schools_add:
   Mask: country
 country_enactment_success_chance_law_restricted_child_labor_add:
   Mask: country
-country_enactment_success_chance_law_revaluation_add:
+country_enactment_success_chance_law_revolutionary_guard_add:
   Mask: country
 country_enactment_success_chance_law_right_of_assembly_add:
   Mask: country
@@ -19279,10 +18247,6 @@ country_enactment_success_chance_law_secret_police_add:
 country_enactment_success_chance_law_serfdom_add:
   Mask: country
 country_enactment_success_chance_law_shinsengumi_add:
-  Mask: country
-country_enactment_success_chance_law_silver_exchange_standard_add:
-  Mask: country
-country_enactment_success_chance_law_silver_standard_add:
   Mask: country
 country_enactment_success_chance_law_slave_trade_add:
   Mask: country
@@ -19303,6 +18267,8 @@ country_enactment_success_chance_law_tenant_farmers_add:
 country_enactment_success_chance_law_terakoya_add:
   Mask: country
 country_enactment_success_chance_law_theocracy_add:
+  Mask: country
+country_enactment_success_chance_law_third_section_add:
   Mask: country
 country_enactment_success_chance_law_total_separation_add:
   Mask: country
@@ -19482,18 +18448,6 @@ country_hardwood_min_export_tariffs_level_add:
   Mask: country
 country_hardwood_min_import_tariffs_level_add:
   Mask: country
-country_iron_construction_export_tariffs_rate_add:
-  Mask: country
-country_iron_construction_import_tariffs_rate_add:
-  Mask: country
-country_iron_construction_max_export_tariffs_level_add:
-  Mask: country
-country_iron_construction_max_import_tariffs_level_add:
-  Mask: country
-country_iron_construction_min_export_tariffs_level_add:
-  Mask: country
-country_iron_construction_min_import_tariffs_level_add:
-  Mask: country
 country_iron_export_tariffs_rate_add:
   Mask: country
 country_iron_import_tariffs_rate_add:
@@ -19530,18 +18484,6 @@ country_lead_min_export_tariffs_level_add:
   Mask: country
 country_lead_min_import_tariffs_level_add:
   Mask: country
-country_liquidity_currency_export_tariffs_rate_add:
-  Mask: country
-country_liquidity_currency_import_tariffs_rate_add:
-  Mask: country
-country_liquidity_currency_max_export_tariffs_level_add:
-  Mask: country
-country_liquidity_currency_max_import_tariffs_level_add:
-  Mask: country
-country_liquidity_currency_min_export_tariffs_level_add:
-  Mask: country
-country_liquidity_currency_min_import_tariffs_level_add:
-  Mask: country
 country_liquor_export_tariffs_rate_add:
   Mask: country
 country_liquor_import_tariffs_rate_add:
@@ -19553,18 +18495,6 @@ country_liquor_max_import_tariffs_level_add:
 country_liquor_min_export_tariffs_level_add:
   Mask: country
 country_liquor_min_import_tariffs_level_add:
-  Mask: country
-country_local_currency_export_tariffs_rate_add:
-  Mask: country
-country_local_currency_import_tariffs_rate_add:
-  Mask: country
-country_local_currency_max_export_tariffs_level_add:
-  Mask: country
-country_local_currency_max_import_tariffs_level_add:
-  Mask: country
-country_local_currency_min_export_tariffs_level_add:
-  Mask: country
-country_local_currency_min_import_tariffs_level_add:
   Mask: country
 country_luxury_clothes_export_tariffs_rate_add:
   Mask: country
@@ -19602,18 +18532,6 @@ country_manowars_min_export_tariffs_level_add:
   Mask: country
 country_manowars_min_import_tariffs_level_add:
   Mask: country
-country_manufacture_stock_export_tariffs_rate_add:
-  Mask: country
-country_manufacture_stock_import_tariffs_rate_add:
-  Mask: country
-country_manufacture_stock_max_export_tariffs_level_add:
-  Mask: country
-country_manufacture_stock_max_import_tariffs_level_add:
-  Mask: country
-country_manufacture_stock_min_export_tariffs_level_add:
-  Mask: country
-country_manufacture_stock_min_import_tariffs_level_add:
-  Mask: country
 country_meat_export_tariffs_rate_add:
   Mask: country
 country_meat_import_tariffs_rate_add:
@@ -19637,30 +18555,6 @@ country_merchant_marine_max_import_tariffs_level_add:
 country_merchant_marine_min_export_tariffs_level_add:
   Mask: country
 country_merchant_marine_min_import_tariffs_level_add:
-  Mask: country
-country_mining_stock_export_tariffs_rate_add:
-  Mask: country
-country_mining_stock_import_tariffs_rate_add:
-  Mask: country
-country_mining_stock_max_export_tariffs_level_add:
-  Mask: country
-country_mining_stock_max_import_tariffs_level_add:
-  Mask: country
-country_mining_stock_min_export_tariffs_level_add:
-  Mask: country
-country_mining_stock_min_import_tariffs_level_add:
-  Mask: country
-country_mutual_funds_export_tariffs_rate_add:
-  Mask: country
-country_mutual_funds_import_tariffs_rate_add:
-  Mask: country
-country_mutual_funds_max_export_tariffs_level_add:
-  Mask: country
-country_mutual_funds_max_import_tariffs_level_add:
-  Mask: country
-country_mutual_funds_min_export_tariffs_level_add:
-  Mask: country
-country_mutual_funds_min_import_tariffs_level_add:
   Mask: country
 country_oil_export_tariffs_rate_add:
   Mask: country
@@ -19721,18 +18615,6 @@ country_radios_max_import_tariffs_level_add:
 country_radios_min_export_tariffs_level_add:
   Mask: country
 country_radios_min_import_tariffs_level_add:
-  Mask: country
-country_railroad_stock_export_tariffs_rate_add:
-  Mask: country
-country_railroad_stock_import_tariffs_rate_add:
-  Mask: country
-country_railroad_stock_max_export_tariffs_level_add:
-  Mask: country
-country_railroad_stock_max_import_tariffs_level_add:
-  Mask: country
-country_railroad_stock_min_export_tariffs_level_add:
-  Mask: country
-country_railroad_stock_min_import_tariffs_level_add:
   Mask: country
 country_rubber_export_tariffs_rate_add:
   Mask: country
@@ -19804,18 +18686,6 @@ country_silk_min_export_tariffs_level_add:
   Mask: country
 country_silk_min_import_tariffs_level_add:
   Mask: country
-country_silver_export_tariffs_rate_add:
-  Mask: country
-country_silver_import_tariffs_rate_add:
-  Mask: country
-country_silver_max_export_tariffs_level_add:
-  Mask: country
-country_silver_max_import_tariffs_level_add:
-  Mask: country
-country_silver_min_export_tariffs_level_add:
-  Mask: country
-country_silver_min_import_tariffs_level_add:
-  Mask: country
 country_slaves_pol_str_mult:
   Mask: country
 country_small_arms_export_tariffs_rate_add:
@@ -19841,18 +18711,6 @@ country_steamers_max_import_tariffs_level_add:
 country_steamers_min_export_tariffs_level_add:
   Mask: country
 country_steamers_min_import_tariffs_level_add:
-  Mask: country
-country_steel_construction_export_tariffs_rate_add:
-  Mask: country
-country_steel_construction_import_tariffs_rate_add:
-  Mask: country
-country_steel_construction_max_export_tariffs_level_add:
-  Mask: country
-country_steel_construction_max_import_tariffs_level_add:
-  Mask: country
-country_steel_construction_min_export_tariffs_level_add:
-  Mask: country
-country_steel_construction_min_import_tariffs_level_add:
   Mask: country
 country_steel_export_tariffs_rate_add:
   Mask: country
@@ -19974,18 +18832,6 @@ country_wine_min_export_tariffs_level_add:
   Mask: country
 country_wine_min_import_tariffs_level_add:
   Mask: country
-country_wood_construction_export_tariffs_rate_add:
-  Mask: country
-country_wood_construction_import_tariffs_rate_add:
-  Mask: country
-country_wood_construction_max_export_tariffs_level_add:
-  Mask: country
-country_wood_construction_max_import_tariffs_level_add:
-  Mask: country
-country_wood_construction_min_export_tariffs_level_add:
-  Mask: country
-country_wood_construction_min_import_tariffs_level_add:
-  Mask: country
 country_wood_export_tariffs_rate_add:
   Mask: country
 country_wood_import_tariffs_rate_add:
@@ -20000,8 +18846,6 @@ country_wood_min_import_tariffs_level_add:
   Mask: country
 goods_input_aeroplanes_mult:
   Mask: goods
-goods_input_arc_welded_construction_mult:
-  Mask: goods
 goods_input_automobiles_mult:
   Mask: goods
 goods_input_clippers_mult:
@@ -20013,6 +18857,8 @@ goods_input_coal_mult:
 goods_input_coffee_add:
   Mask: goods
 goods_input_coffee_mult:
+  Mask: goods
+goods_input_copper_mult:
   Mask: goods
 goods_input_dye_mult:
   Mask: goods
@@ -20040,13 +18886,15 @@ goods_input_furniture_mult:
   Mask: goods
 goods_input_glass_mult:
   Mask: goods
+goods_input_gold_add:
+  Mask: goods
+goods_input_gold_mult:
+  Mask: goods
 goods_input_grain_mult:
   Mask: goods
 goods_input_groceries_mult:
   Mask: goods
 goods_input_hardwood_mult:
-  Mask: goods
-goods_input_iron_construction_mult:
   Mask: goods
 goods_input_iron_mult:
   Mask: goods
@@ -20055,8 +18903,6 @@ goods_input_ironclads_mult:
 goods_input_lead_mult:
   Mask: goods
 goods_input_liquor_mult:
-  Mask: goods
-goods_input_local_currency_add:
   Mask: goods
 goods_input_luxury_clothes_add:
   Mask: goods
@@ -20082,13 +18928,13 @@ goods_input_porcelain_mult:
   Mask: goods
 goods_input_rubber_mult:
   Mask: goods
+goods_input_services_add:
+  Mask: goods
 goods_input_services_mult:
   Mask: goods
 goods_input_silk_mult:
   Mask: goods
 goods_input_steamers_mult:
-  Mask: goods
-goods_input_steel_construction_mult:
   Mask: goods
 goods_input_steel_mult:
   Mask: goods
@@ -20110,93 +18956,77 @@ goods_input_transportation_mult:
   Mask: goods
 goods_input_wine_mult:
   Mask: goods
-goods_input_wood_construction_mult:
-  Mask: goods
 goods_input_wood_mult:
   Mask: goods
-goods_output_arc_welded_construction_mult:
-  Mask: goods
 goods_output_clothes_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_coal_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_coffee_mult:
-  Mask: goods
+  Mask: goods_output
+goods_output_copper_mult:
+  Mask: goods_output
 goods_output_dye_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_explosives_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_fertilizer_mult:
-  Mask: goods
-goods_output_fine_art_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_fish_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_furniture_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_glass_mult:
-  Mask: goods
+  Mask: goods_output
+goods_output_gold_mult:
+  Mask: goods_output
 goods_output_grain_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_groceries_mult:
-  Mask: goods
-goods_output_iron_construction_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_iron_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_lead_mult:
-  Mask: goods
-goods_output_local_currency_add:
-  Mask: goods
+  Mask: goods_output
 goods_output_luxury_clothes_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_luxury_furniture_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_meat_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_merchant_marine_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_opium_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_paper_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_porcelain_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_rubber_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_services_mult:
-  Mask: goods
-goods_output_steel_construction_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_steel_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_sulfur_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_tea_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_telephones_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_tobacco_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_transportation_mult:
-  Mask: goods
-goods_output_wood_construction_mult:
-  Mask: goods
+  Mask: goods_output
 goods_output_wood_mult:
-  Mask: goods
+  Mask: goods_output
 goods_trade_advantage_aeroplanes_mult:
   Mask: goods
-goods_trade_advantage_agricultural_stock_mult:
-  Mask: goods
 goods_trade_advantage_ammunition_mult:
-  Mask: goods
-goods_trade_advantage_arc_welded_construction_mult:
   Mask: goods
 goods_trade_advantage_artillery_mult:
   Mask: goods
 goods_trade_advantage_automobiles_mult:
-  Mask: goods
-goods_trade_advantage_bond_mult:
   Mask: goods
 goods_trade_advantage_clippers_mult:
   Mask: goods
@@ -20205,6 +19035,8 @@ goods_trade_advantage_clothes_mult:
 goods_trade_advantage_coal_mult:
   Mask: goods
 goods_trade_advantage_coffee_mult:
+  Mask: goods
+goods_trade_advantage_copper_mult:
   Mask: goods
 goods_trade_advantage_dye_mult:
   Mask: goods
@@ -20236,19 +19068,13 @@ goods_trade_advantage_groceries_mult:
   Mask: goods
 goods_trade_advantage_hardwood_mult:
   Mask: goods
-goods_trade_advantage_iron_construction_mult:
-  Mask: goods
 goods_trade_advantage_iron_mult:
   Mask: goods
 goods_trade_advantage_ironclads_mult:
   Mask: goods
 goods_trade_advantage_lead_mult:
   Mask: goods
-goods_trade_advantage_liquidity_currency_mult:
-  Mask: goods
 goods_trade_advantage_liquor_mult:
-  Mask: goods
-goods_trade_advantage_local_currency_mult:
   Mask: goods
 goods_trade_advantage_luxury_clothes_mult:
   Mask: goods
@@ -20256,15 +19082,9 @@ goods_trade_advantage_luxury_furniture_mult:
   Mask: goods
 goods_trade_advantage_manowars_mult:
   Mask: goods
-goods_trade_advantage_manufacture_stock_mult:
-  Mask: goods
 goods_trade_advantage_meat_mult:
   Mask: goods
 goods_trade_advantage_merchant_marine_mult:
-  Mask: goods
-goods_trade_advantage_mining_stock_mult:
-  Mask: goods
-goods_trade_advantage_mutual_funds_mult:
   Mask: goods
 goods_trade_advantage_oil_mult:
   Mask: goods
@@ -20276,21 +19096,15 @@ goods_trade_advantage_porcelain_mult:
   Mask: goods
 goods_trade_advantage_radios_mult:
   Mask: goods
-goods_trade_advantage_railroad_stock_mult:
-  Mask: goods
 goods_trade_advantage_rubber_mult:
   Mask: goods
 goods_trade_advantage_services_mult:
   Mask: goods
 goods_trade_advantage_silk_mult:
   Mask: goods
-goods_trade_advantage_silver_mult:
-  Mask: goods
 goods_trade_advantage_small_arms_mult:
   Mask: goods
 goods_trade_advantage_steamers_mult:
-  Mask: goods
-goods_trade_advantage_steel_construction_mult:
   Mask: goods
 goods_trade_advantage_steel_mult:
   Mask: goods
@@ -20311,8 +19125,6 @@ goods_trade_advantage_tools_mult:
 goods_trade_advantage_transportation_mult:
   Mask: goods
 goods_trade_advantage_wine_mult:
-  Mask: goods
-goods_trade_advantage_wood_construction_mult:
   Mask: goods
 goods_trade_advantage_wood_mult:
   Mask: goods
@@ -20348,13 +19160,7 @@ state_bureaucrats_mortality_mult:
   Mask: state
 state_buy_orders_aeroplanes_add:
   Mask: state
-state_buy_orders_agricultural_stock_add:
-  Mask: state
-state_buy_orders_arc_welded_construction_add:
-  Mask: state
 state_buy_orders_automobiles_add:
-  Mask: state
-state_buy_orders_bond_add:
   Mask: state
 state_buy_orders_clippers_add:
   Mask: state
@@ -20363,6 +19169,8 @@ state_buy_orders_clothes_add:
 state_buy_orders_coal_add:
   Mask: state
 state_buy_orders_coffee_add:
+  Mask: state
+state_buy_orders_copper_add:
   Mask: state
 state_buy_orders_dye_add:
   Mask: state
@@ -20396,17 +19204,11 @@ state_buy_orders_hardwood_add:
   Mask: state
 state_buy_orders_iron_add:
   Mask: state
-state_buy_orders_iron_construction_add:
-  Mask: state
 state_buy_orders_ironclads_add:
   Mask: state
 state_buy_orders_lead_add:
   Mask: state
-state_buy_orders_liquidity_currency_add:
-  Mask: state
 state_buy_orders_liquor_add:
-  Mask: state
-state_buy_orders_local_currency_add:
   Mask: state
 state_buy_orders_luxury_clothes_add:
   Mask: state
@@ -20414,15 +19216,9 @@ state_buy_orders_luxury_furniture_add:
   Mask: state
 state_buy_orders_manowars_add:
   Mask: state
-state_buy_orders_manufacture_stock_add:
-  Mask: state
 state_buy_orders_meat_add:
   Mask: state
 state_buy_orders_merchant_marine_add:
-  Mask: state
-state_buy_orders_mining_stock_add:
-  Mask: state
-state_buy_orders_mutual_funds_add:
   Mask: state
 state_buy_orders_oil_add:
   Mask: state
@@ -20434,21 +19230,15 @@ state_buy_orders_porcelain_add:
   Mask: state
 state_buy_orders_radios_add:
   Mask: state
-state_buy_orders_railroad_stock_add:
-  Mask: state
 state_buy_orders_rubber_add:
   Mask: state
 state_buy_orders_services_add:
   Mask: state
 state_buy_orders_silk_add:
   Mask: state
-state_buy_orders_silver_add:
-  Mask: state
 state_buy_orders_steamers_add:
   Mask: state
 state_buy_orders_steel_add:
-  Mask: state
-state_buy_orders_steel_construction_add:
   Mask: state
 state_buy_orders_sugar_add:
   Mask: state
@@ -20469,8 +19259,6 @@ state_buy_orders_transportation_add:
 state_buy_orders_wine_add:
   Mask: state
 state_buy_orders_wood_add:
-  Mask: state
-state_buy_orders_wood_construction_add:
   Mask: state
 state_capitalists_dependent_wage_mult:
   Mask: state
@@ -20512,15 +19300,9 @@ state_farmers_mass_migration_disallowed_bool:
   Mask: state
 state_infrastructure_from_aeroplanes_consumption_add:
   Mask: state
-state_infrastructure_from_agricultural_stock_consumption_add:
-  Mask: state
 state_infrastructure_from_ammunition_consumption_add:
   Mask: state
-state_infrastructure_from_arc_welded_construction_consumption_add:
-  Mask: state
 state_infrastructure_from_artillery_consumption_add:
-  Mask: state
-state_infrastructure_from_bond_consumption_add:
   Mask: state
 state_infrastructure_from_clippers_consumption_add:
   Mask: state
@@ -20529,6 +19311,8 @@ state_infrastructure_from_clothes_consumption_add:
 state_infrastructure_from_coal_consumption_add:
   Mask: state
 state_infrastructure_from_coffee_consumption_add:
+  Mask: state
+state_infrastructure_from_copper_consumption_add:
   Mask: state
 state_infrastructure_from_dye_consumption_add:
   Mask: state
@@ -20560,19 +19344,13 @@ state_infrastructure_from_groceries_consumption_add:
   Mask: state
 state_infrastructure_from_hardwood_consumption_add:
   Mask: state
-state_infrastructure_from_iron_construction_consumption_add:
-  Mask: state
 state_infrastructure_from_iron_consumption_add:
   Mask: state
 state_infrastructure_from_ironclads_consumption_add:
   Mask: state
 state_infrastructure_from_lead_consumption_add:
   Mask: state
-state_infrastructure_from_liquidity_currency_consumption_add:
-  Mask: state
 state_infrastructure_from_liquor_consumption_add:
-  Mask: state
-state_infrastructure_from_local_currency_consumption_add:
   Mask: state
 state_infrastructure_from_luxury_clothes_consumption_add:
   Mask: state
@@ -20580,15 +19358,9 @@ state_infrastructure_from_luxury_furniture_consumption_add:
   Mask: state
 state_infrastructure_from_manowars_consumption_add:
   Mask: state
-state_infrastructure_from_manufacture_stock_consumption_add:
-  Mask: state
 state_infrastructure_from_meat_consumption_add:
   Mask: state
 state_infrastructure_from_merchant_marine_consumption_add:
-  Mask: state
-state_infrastructure_from_mining_stock_consumption_add:
-  Mask: state
-state_infrastructure_from_mutual_funds_consumption_add:
   Mask: state
 state_infrastructure_from_oil_consumption_add:
   Mask: state
@@ -20600,21 +19372,15 @@ state_infrastructure_from_porcelain_consumption_add:
   Mask: state
 state_infrastructure_from_radios_consumption_add:
   Mask: state
-state_infrastructure_from_railroad_stock_consumption_add:
-  Mask: state
 state_infrastructure_from_rubber_consumption_add:
   Mask: state
 state_infrastructure_from_services_consumption_add:
   Mask: state
 state_infrastructure_from_silk_consumption_add:
   Mask: state
-state_infrastructure_from_silver_consumption_add:
-  Mask: state
 state_infrastructure_from_small_arms_consumption_add:
   Mask: state
 state_infrastructure_from_steamers_consumption_add:
-  Mask: state
-state_infrastructure_from_steel_construction_consumption_add:
   Mask: state
 state_infrastructure_from_steel_consumption_add:
   Mask: state
@@ -20635,8 +19401,6 @@ state_infrastructure_from_tools_consumption_add:
 state_infrastructure_from_transportation_consumption_add:
   Mask: state
 state_infrastructure_from_wine_consumption_add:
-  Mask: state
-state_infrastructure_from_wood_construction_consumption_add:
   Mask: state
 state_infrastructure_from_wood_consumption_add:
   Mask: state
@@ -20666,6 +19430,14 @@ state_peasants_investment_pool_contribution_add:
   Mask: state
 state_peasants_investment_pool_efficiency_mult:
   Mask: state
+state_pop_support_movement_anti_communist_add:
+  Mask: state
+state_pop_support_movement_anti_communist_mult:
+  Mask: state
+state_pop_support_movement_cossack_add:
+  Mask: state
+state_pop_support_movement_cossack_mult:
+  Mask: state
 state_pop_support_movement_dominican_national_add:
   Mask: state
 state_pop_support_movement_dominican_national_mult:
@@ -20692,13 +19464,7 @@ state_pop_support_movement_tokugawa_loyalist_mult:
   Mask: state
 state_sell_orders_aeroplanes_add:
   Mask: state
-state_sell_orders_agricultural_stock_add:
-  Mask: state
-state_sell_orders_arc_welded_construction_add:
-  Mask: state
 state_sell_orders_automobiles_add:
-  Mask: state
-state_sell_orders_bond_add:
   Mask: state
 state_sell_orders_clippers_add:
   Mask: state
@@ -20707,6 +19473,8 @@ state_sell_orders_clothes_add:
 state_sell_orders_coal_add:
   Mask: state
 state_sell_orders_coffee_add:
+  Mask: state
+state_sell_orders_copper_add:
   Mask: state
 state_sell_orders_dye_add:
   Mask: state
@@ -20738,8 +19506,6 @@ state_sell_orders_hardwood_add:
   Mask: state
 state_sell_orders_iron_add:
   Mask: state
-state_sell_orders_iron_construction_add:
-  Mask: state
 state_sell_orders_ironclads_add:
   Mask: state
 state_sell_orders_lead_add:
@@ -20752,15 +19518,9 @@ state_sell_orders_luxury_furniture_add:
   Mask: state
 state_sell_orders_manowars_add:
   Mask: state
-state_sell_orders_manufacture_stock_add:
-  Mask: state
 state_sell_orders_meat_add:
   Mask: state
 state_sell_orders_merchant_marine_add:
-  Mask: state
-state_sell_orders_mining_stock_add:
-  Mask: state
-state_sell_orders_mutual_funds_add:
   Mask: state
 state_sell_orders_oil_add:
   Mask: state
@@ -20772,21 +19532,15 @@ state_sell_orders_porcelain_add:
   Mask: state
 state_sell_orders_radios_add:
   Mask: state
-state_sell_orders_railroad_stock_add:
-  Mask: state
 state_sell_orders_rubber_add:
   Mask: state
 state_sell_orders_services_add:
   Mask: state
 state_sell_orders_silk_add:
   Mask: state
-state_sell_orders_silver_add:
-  Mask: state
 state_sell_orders_steamers_add:
   Mask: state
 state_sell_orders_steel_add:
-  Mask: state
-state_sell_orders_steel_construction_add:
   Mask: state
 state_sell_orders_sugar_add:
   Mask: state
@@ -20807,8 +19561,6 @@ state_sell_orders_transportation_add:
 state_sell_orders_wine_add:
   Mask: state
 state_sell_orders_wood_add:
-  Mask: state
-state_sell_orders_wood_construction_add:
   Mask: state
 state_shopkeepers_dependent_wage_mult:
   Mask: state

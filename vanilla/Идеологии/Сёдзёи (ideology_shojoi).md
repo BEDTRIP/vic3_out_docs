@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Сёдзёи (ideology_shojoi)» — ваниль 1.15, `ideology_shojoi`"
+description: "Идеология «Сёдзёи (ideology_shojoi)» — ваниль 1.15.2, `ideology_shojoi`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Сёдзёи (ideology_shojoi)
 
-Идеология · `ideology_shojoi` · `common/ideologies/01_character_ideologies.txt:12994`
+Идеология · `ideology_shojoi` · `common/ideologies/01_character_ideologies.txt:12997`
 
 ## Поля
 
@@ -38,9 +38,9 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `approve`
   - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `disapprove`
   - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 13027–13031
+- **country_trigger**: скрипт, строки 13030–13034
 - **interest_group_leader_trigger**:
   - `ideology_shojoi_leader_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 13037–13046
-- **interest_group_leader_weight**: скрипт, строки 13048–13117
-- **non_interest_group_leader_weight**: скрипт, строки 13119–13149
+- **non_interest_group_leader_trigger**: скрипт, строки 13040–13049
+- **interest_group_leader_weight**: скрипт, строки 13051–13120
+- **non_interest_group_leader_weight**: скрипт, строки 13122–13152

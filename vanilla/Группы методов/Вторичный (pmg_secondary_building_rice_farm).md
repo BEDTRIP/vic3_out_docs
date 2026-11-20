@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Вторичный (pmg_secondary_building_rice_farm)» — ваниль 1.15, `pmg_secondary_building_rice_farm`"
+description: "Группа методов производства «Вторичный (pmg_secondary_building_rice_farm)» — ваниль 1.15.2, `pmg_secondary_building_rice_farm`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Нет домашних мастерских (pm_home_workshops_no_building_subsistence_orchard)» — ваниль 1.15, `pm_home_workshops_no_building_subsistence_orchard`"
+description: "Метод производства «Нет домашних мастерских (pm_home_workshops_no_building_subsistence_orchard)» — ваниль 1.15.2, `pm_home_workshops_no_building_subsistence_orchard`"
 project: vic3
 audience: agent
 source: vanilla

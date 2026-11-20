@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин игры «Влияние (power_bloc_leverage)» — подсказка-понятие Victoria 3 1.15 (`concept_power_bloc_leverage`)"
+description: "Термин игры «Влияние (power_bloc_leverage)» — подсказка-понятие Victoria 3 1.15.2 (`concept_power_bloc_leverage`)"
 project: vic3
 audience: agent
 source: vanilla

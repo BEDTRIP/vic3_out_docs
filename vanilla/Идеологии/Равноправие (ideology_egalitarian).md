@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Равноправие (ideology_egalitarian)» — ваниль 1.15, `ideology_egalitarian`"
+description: "Идеология «Равноправие (ideology_egalitarian)» — ваниль 1.15.2, `ideology_egalitarian`"
 project: vic3
 audience: agent
 source: vanilla

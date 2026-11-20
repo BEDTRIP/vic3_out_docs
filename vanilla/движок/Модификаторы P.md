@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы P — 50, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы P — 50, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,10 +9,10 @@ generated: "v3 graph engine"
 ---
 # Модификаторы P
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **political_movement_activism_growth_mult** — Рост активизма политического движения · Увеличение или уменьшение темпов роста активизма политического движения. · mask: political_movement ^m-political-movement-activism-growth-mult
-- **political_movement_character_attraction_mult** — political_movement_character_attraction_mult · political_movement_character_attraction_mult_desc · mask: political_movement ^m-political-movement-character-attraction-mult
+- **political_movement_character_attraction_mult** — к привлекательности политического движения для персонажей · Повышение или снижение привлекательности политического движения для персонажей. · mask: political_movement ^m-political-movement-character-attraction-mult
 - **political_movement_pop_attraction_mult** — к привлекательности политического движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: political_movement ^m-political-movement-pop-attraction-mult
 - **political_movement_radicalism_add** — Активизм политического движения · Увеличение или уменьшение активизма политического движения. · mask: political_movement ^m-political-movement-radicalism-add
 - **political_movement_radicalism_from_enactment_approval_mult** — Снижение активизма политического движения от одобрения принятия · Повышение или снижение влияния принятия законов, одобряемых политическими движениями, на их активизм · mask: political_movement ^m-political-movement-radicalism-from-enactment-approval-mult

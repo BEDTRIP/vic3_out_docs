@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры E — 20, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры E — 21, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры E
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **earnings** — Compare a building's current annual earnings per employee Reads gamestate for all scopes. · `earnings >= 10 Traits: <, <=, =, !=, >, >=` · supported scopes: building ^t-earnings
 - **economic_dependence** — Compares the degree of dependence the country in scope has to the target country. Note: This is an expensive trigger Reads gamestate for all scopes. · `economic_dependence = { target = scope:other_country value > 2.2 } Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-economic-dependence
@@ -23,8 +23,9 @@ generated: "v3 graph engine"
 - **enactment_chance_without_enactment_modifier** — Compares the current enactment success chance in scope country but excludes values from enactment modifier Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-enactment-chance-without-enactment-modifier
 - **enactment_phase** — Compares the current law enactment phase in scope country. Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-enactment-phase
 - **enactment_setback_count** — Compares the current enactment setback count in scope country. Reads gamestate for all scopes. · `Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-enactment-setback-count
-- **enemy_contested_wargoals** — Determines the fraction of war goals that enemies in the war are currently contesting Reads gamestate for all scopes. · `enemy_contested_wargoals = { target = scope:war value > 0.4 } Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-enemy-contested-wargoals
 - **enemy_occupation** — Determines the (weighted) enemy occupation score of a country Reads gamestate for all scopes. · `enemy_occupation > 0.2 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-enemy-occupation
+- **enemy_pressure** — Compares how actively the target country's enemies in the scoped war are pressuring it, from 0 to 1, through occupation, blockade or recent significant battles Reads gamestate for all scopes. · `enemy_pressure = { target = root value > 0 } Traits: <, <=, =, !=, >, >=` · supported scopes: war ^t-enemy-pressure
+- **enemy_side_occupation** — Average weighted occupation of the countries on the enemy side of the scoped war, from the scoped country's perspective (0-1) Reads gamestate for all scopes. · `add = "enemy_side_occupation(scope:war)" Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-enemy-side-occupation
 - **escalation** — Checks whether escalation has passed a certain threshold Reads gamestate for all scopes. · `escalation > -58 Traits: <, <=, =, !=, >, >=` · supported scopes: diplomatic_play ^t-escalation
 - **exists** — Checks whether the specified scope target exists (check for not being the null object) · `exists = from.owner.var:cool_var.mother` · supported scopes: none ^t-exists
 - **expanding_institution** — Checks if the institution is expanding Reads gamestate for all scopes. · `expanding_institution = <scope/key>` · supported scopes: country ^t-expanding-institution

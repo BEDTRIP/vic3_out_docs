@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Процесс сбора урожая (pmg_harvesting_process_building_wheat_farm)» — ваниль 1.15, `pmg_harvesting_process_building_wheat_farm`"
+description: "Группа методов производства «Процесс сбора урожая (pmg_harvesting_process_building_wheat_farm)» — ваниль 1.15.2, `pmg_harvesting_process_building_wheat_farm`"
 project: vic3
 audience: agent
 source: vanilla

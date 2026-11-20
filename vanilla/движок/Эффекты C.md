@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Эффекты C — 66, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Эффекты C — 68, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Эффекты C
 
-Из дампа `effects.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `effects.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **call_election** — Sets the next election date for country in N months } · `call_election = { months = 6` · supported scopes: country ^e-call-election
 - **cancel_enactment** — Stops enacting the country's currently enacting law · `cancel_enactment = yes` · supported scopes: country ^e-cancel-enactment
@@ -17,18 +17,19 @@ generated: "v3 graph engine"
 - **cede_treaty_port** — Cedes a treaty port in scope state to target country · `cede_treaty_port = scope/country` · supported scopes: state · supported targets: country ^e-cede-treaty-port
 - **change_appeasement** — Change appeasement of scope political lobby } · `change_appeasement = { amount = 1 factor = trade_agreement_formed` · supported scopes: political_lobby ^e-change-appeasement
 - **change_character_culture** — Changes the culture of the scoped character · `change_character_culture = cu:colombian` · supported scopes: character · supported targets: culture ^e-change-character-culture
-- **change_character_religion** — Changes the religion of the scoped character · `change_character_religion = rel:protestant` · supported scopes: character · supported targets: religion ^e-change-character-religion
+- **change_character_religion** — Changes the religion of the scoped character · `change_character_religion = rel:protestant` · value type: common/religions · supported scopes: character · supported targets: religion ^e-change-character-religion
 - **change_global_variable** — Changes the value or a numeric variable Where X is the name of the numeric variable to modify Where the valid operations are add, subtract, multiply, divide, modulo, min and max Where Y is a fixed point value, script value or event target of a value type · `change_variable = { name = X operation = Y }` · supported scopes: none ^e-change-global-variable
 - **change_infamy** — Change infamy of scope country · `change_infamy = amount` · supported scopes: country ^e-change-infamy
 - **change_institution_investment_level** — Add/remove the investment level for the institution } · `change_institution_investment_level = { institution = institution_police investment = -1` · supported scopes: country ^e-change-institution-investment-level
 - **change_local_variable** — Changes the value or a numeric variable Where X is the name of the numeric variable to modify Where the valid operations are add, subtract, multiply, divide, modulo, min and max Where Y is a fixed point value, script value or event target of a value type · `change_variable = { name = X operation = Y }` · supported scopes: none ^e-change-local-variable
 - **change_pop_culture** — Changes the culture of the scoped pop to a specified culture by a specified percentage · `change_pop_culture = { target = cu:spanish value = 0.33 }` · supported scopes: pop ^e-change-pop-culture
 - **change_pop_religion** — Changes the religion of the scoped pop to a specified religion by a specified percentage · `change_pop_religion = { target = rel:catholic value = 0.5 }` · supported scopes: pop ^e-change-pop-religion
-- **change_poptype** — Changes the type of the pop to the given type · supported scopes: pop · supported targets: pop_type ^e-change-poptype
+- **change_poptype** — Changes the type of the pop to the given type · value type: common/pop_types · supported scopes: pop · supported targets: pop_type ^e-change-poptype
+- **change_power_bloc_name** — Changes the name of the power bloc in scope to a localization key } · `power_bloc = { change_power_bloc_name = loc_key` · supported scopes: power_bloc ^e-change-power-bloc-name
 - **change_relations** — Change relations between two countries } · `change_relations = { tcountry = country scope/tag value = amount` · supported scopes: country ^e-change-relations
 - **change_resource_potential** — Change the potential max buildings of a resource in a state region. Only works for building types capped by resources. } · `change_resource_potential = { type = building_iron_mine amount = 5` · supported scopes: state, state_region ^e-change-resource-potential
-- **change_subject_type** — Changes the subject type of the country in scope while retaining the current Liberty Desire value. · `change_subject_type = subject_type_dominion` · supported scopes: country ^e-change-subject-type
-- **change_tag** — Change the tag for the scoped country · `c:GBR = { change_tag = FRA }` · supported scopes: country ^e-change-tag
+- **change_subject_type** — Changes the subject type of the country in scope while retaining the current Liberty Desire value. · `change_subject_type = subject_type_dominion` · value type: common/subject_types · supported scopes: country ^e-change-subject-type
+- **change_tag** — Change the tag for the scoped country · `c:GBR = { change_tag = FRA }` · value type: common/country_definitions · supported scopes: country ^e-change-tag
 - **change_tension** — Change tension between two countries } · `change_tension = { tcountry = country scope/tag value = amount` · supported scopes: country ^e-change-tension
 - **change_variable** — Changes the value or a numeric variable Where X is the name of the numeric variable to modify Where the valid operations are add, subtract, multiply, divide, modulo, min and max Where Y is a fixed point value, script value or event target of a value type · `change_variable = { name = X operation = Y }` · supported scopes: none ^e-change-variable
 - **clamp_global_variable** — Clamps a variable the specified max and min Where X is the name of the variable Where Y and Z are script values · `clamp_variable = { name = X max = Y min = Z }` · supported scopes: none ^e-clamp-global-variable
@@ -48,7 +49,8 @@ generated: "v3 graph engine"
 - **clear_tags** — Removes all tags from the script container in scope. · `clear_tags = yes` · supported scopes: container ^e-clear-tags
 - **clear_variable_list** — Empties the list · `clear_variable_list = variable_name` · supported scopes: none ^e-clear-variable-list
 - **clear_variable_map** — Empties the map · `clear_variable_map = variable_name` · supported scopes: none ^e-clear-variable-map
-- **complete_objective_subgoal** — Completes an objective subgoal · `complete_objective_subgoal = <key>` · supported scopes: country ^e-complete-objective-subgoal
+- **complete_objective_subgoal** — Completes an objective subgoal · `complete_objective_subgoal = <key>` · value type: common/objective_subgoals · supported scopes: country ^e-complete-objective-subgoal
+- **conclude_journal_entry** — `Concludes the scoped country's journal entry of the given type with the regular outcome whose effect_header matches, hidden = yes skips on_journal_entry_concluded conclude_journal_entry = { type = <k…` · supported scopes: country ^e-conclude-journal-entry
 - **convert_population** — Changes X% of the different religion population to the specified religion. · `convert_population = { target = rel:catholic value = 0.5 }` · supported scopes: state ^e-convert-population
 - **copy_laws** — Copies the constitution of the target country scope Warning: This stops any current enactment. · `copy_laws = scope` · supported scopes: country · supported targets: country ^e-copy-laws
 - **create_bidirectional_truce** — Create a bidirectional truce between two countries } · `create_bidirectional_truce = { tcountry = country scope/tag months = integer` · supported scopes: country ^e-create-bidirectional-truce
@@ -67,7 +69,7 @@ generated: "v3 graph engine"
 - **create_political_movement** — Creates a political movement of the specified type in the country, culture/religion optional · `create_political_movement = { movement_type = x religion = <scope> culture = <scope>}` · supported scopes: country ^e-create-political-movement
 - **create_pop** — Creates a pop in the scoped state · supported scopes: state ^e-create-pop
 - **create_power_bloc** — Creates a power bloc with the scoped object as leader } · `create_power_bloc = { name = loc_key map_color = { R G B } or hsv{ H S V } founding_date = yyyy.mm.dd, optional identity = power bloc identity key principle = power bloc principle key, can be repeate…` · supported scopes: country ^e-create-power-bloc
-- **create_ship** — Creates a ship in a scoped country } · `create_ship = { type = ship_type:key # Type of ship to create fleet = scope:fleet # Fleet to assign the created ship to save_scope_as = scope_name # If specified, saves the created ship in the given …` · supported scopes: country ^e-create-ship
+- **create_ship** — Creates a ship in a scoped country # skin instead of the country's base template, so other ships of the # same type keep their own appearance. Such a template is never made # the country's default } · `create_ship = { type = ship_type:key # Type of ship to create fleet = scope:fleet # Fleet to assign the created ship to save_scope_as = scope_name # If specified, saves the created ship in the given …` · supported scopes: country ^e-create-ship
 - **create_state** — creates a state in a state region · supported scopes: state_region ^e-create-state
 - **create_treaty** — Creates a treaty between countries } } } } # some examples of valid articles } } } } · `create_treaty = { name = <loc key> # (default: empty) if specified, this treaty's name will be determined by the localization of the specified key first_country = <country> # (default: none) must _no…` · supported scopes: none ^e-create-treaty
 - **create_unidirectional_truce** — Create a unidirectional truce for one country towards another } · `create_unidirectional_truce = { tcountry = country scope/tag months = integer` · supported scopes: country ^e-create-unidirectional-truce

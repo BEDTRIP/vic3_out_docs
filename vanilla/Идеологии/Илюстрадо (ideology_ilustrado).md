@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Илюстрадо (ideology_ilustrado)» — ваниль 1.15, `ideology_ilustrado`"
+description: "Идеология «Илюстрадо (ideology_ilustrado)» — ваниль 1.15.2, `ideology_ilustrado`"
 project: vic3
 audience: agent
 source: vanilla

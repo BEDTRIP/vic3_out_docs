@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы U — 60, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы U — 64, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Модификаторы U
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **unit_army_defense_add** — к защите армии · Защита подразделения (только армия) · mask: unit ^m-unit-army-defense-add
 - **unit_army_defense_mult** — к защите армии · Защита подразделения (только армия) · mask: unit ^m-unit-army-defense-mult
@@ -18,7 +18,11 @@ generated: "v3 graph engine"
 - **unit_army_offense_add** — к атаке армии · Атака подразделения (только армия) · mask: unit ^m-unit-army-offense-add
 - **unit_army_offense_mult** — к атаке армии · Атака подразделения (только армия) · mask: unit ^m-unit-army-offense-mult
 - **unit_combat_unit_type_cannon_artillery_offense_mult** — к атаке ствольной артиллерии · к атаке ствольной артиллерии · mask: unit ^m-unit-combat-unit-type-cannon-artillery-offense-mult
+- **unit_combat_unit_type_cuirassiers_offense_mult** — к атаке кирасиров · к атаке кирасиров · mask: unit ^m-unit-combat-unit-type-cuirassiers-offense-mult
+- **unit_combat_unit_type_dragoons_offense_mult** — к атаке драгунов · к атаке драгунов · mask: unit ^m-unit-combat-unit-type-dragoons-offense-mult
 - **unit_combat_unit_type_heavy_tank_offense_mult** — к атаке тяжёлых танков · к атаке тяжёлых танков · mask: unit ^m-unit-combat-unit-type-heavy-tank-offense-mult
+- **unit_combat_unit_type_hussars_offense_mult** — к атаке гусаров · к атаке гусаров · mask: unit ^m-unit-combat-unit-type-hussars-offense-mult
+- **unit_combat_unit_type_lancers_offense_mult** — к атаке уланов · к атаке уланов · mask: unit ^m-unit-combat-unit-type-lancers-offense-mult
 - **unit_combat_unit_type_mechanized_infantry_offense_add** — к атаке механизированной пехоты · к атаке механизированной пехоты · mask: unit ^m-unit-combat-unit-type-mechanized-infantry-offense-add
 - **unit_combat_unit_type_mobile_artillery_offense_mult** — к атаке мобильной артиллерии · к атаке мобильной артиллерии · mask: unit ^m-unit-combat-unit-type-mobile-artillery-offense-mult
 - **unit_combat_unit_type_shrapnel_artillery_offense_mult** — к атаке осколочной артиллерии · к атаке осколочной артиллерии · mask: unit ^m-unit-combat-unit-type-shrapnel-artillery-offense-mult
@@ -44,7 +48,7 @@ generated: "v3 graph engine"
 - **unit_devastation_mult** — к опустошению · Опустошение, создаваемое подразделениями в регионе, где происходит сражение. · mask: unit ^m-unit-devastation-mult
 - **unit_experience_gain_add** — Недельный рост опыта армий · Количество опыта, получаемого армиями каждую неделю для повышения уровня ветеранства · mask: unit ^m-unit-experience-gain-add
 - **unit_experience_gain_mult** — Недельный рост опыта армий · Количество опыта, получаемого армиями каждую неделю для повышения уровня ветеранства · mask: unit ^m-unit-experience-gain-mult
-- **unit_kill_rate_add** — к вероятности убийства · Показывает, насколько эффективно подразделение превращает вражеские потери в безвозвратные. Увеличивает долю убитых в потерях (вместо раненых). Вероятность убийства снижается с ростом вероятности восстановления вражеских подразделений. · mask: unit ^m-unit-kill-rate-add
+- **unit_kill_rate_add** — к вероятности убийства · Показывает, насколько эффективно подразделение уничтожает противника. Увеличивает долю убитых в потерях (вместо раненых). Вероятность убийства снижается с ростом вероятности восстановления вражеских подразделений. · mask: unit ^m-unit-kill-rate-add
 - **unit_morale_damage_mult** — к урону боевому духу · Количество урона, наносимого подразделением боевому духу врага. · mask: unit ^m-unit-morale-damage-mult
 - **unit_morale_loss_add** — к потерям боевого духа · Количество боевого духа, теряемого подразделением во время сражения · mask: unit ^m-unit-morale-loss-add
 - **unit_morale_loss_mult** — к потерям боевого духа · Количество боевого духа, теряемого подразделением во время сражения · mask: unit ^m-unit-morale-loss-mult
@@ -69,5 +73,5 @@ generated: "v3 graph engine"
 - **unit_offense_water_mult** — к атаке (Тип местности: Ровный) · Атака подразделения (Тип местности: Ровный) · mask: unit ^m-unit-offense-water-mult
 - **unit_provinces_captured_mult** — к захвату провинций · Меняет количество провинций, захватываемых при успешном наступлении. · mask: unit ^m-unit-provinces-captured-mult
 - **unit_provinces_lost_mult** — к потере провинций · Меняет количество провинций, теряемых при проигранном оборонительном сражении. · mask: unit ^m-unit-provinces-lost-mult
-- **unit_recovery_rate_add** — к вероятности восстановления · Доля потерь в подразделении, которые выживают, в некоторых случаях становясь иждивенцами. Её повышают с помощью вариантов мобилизации. Вероятность восстановления снижается с ростом вероятности убийства вражеских подразделений. · mask: unit ^m-unit-recovery-rate-add
+- **unit_recovery_rate_add** — к вероятности восстановления · Показывает, насколько эффективно подразделение защищает своих военнослужащих. Преобразует часть потерь, которые несёт подразделение, в деморализованных военнослужащих. Снижает долю убитых в потерях (вместо раненых). Этому параметру противостоит параметр вероятности убийства у вражеских подразделений. Можно увеличить за счёт вариантов мобилизации. · mask: unit ^m-unit-recovery-rate-add
 - **unit_supply_consumption_mult** — к потреблению снабжения · Сколько товаров необходимо для снабжения подразделения. · mask: unit ^m-unit-supply-consumption-mult

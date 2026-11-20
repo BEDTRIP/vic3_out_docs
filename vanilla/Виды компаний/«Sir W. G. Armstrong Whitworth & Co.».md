@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — ваниль 1.15, `company_armstrong_whitworth`"
+description: "Вид компании ««Sir W. G. Armstrong Whitworth & Co.»» — ваниль 1.15.2, `company_armstrong_whitworth`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 ---
 # «Sir W. G. Armstrong Whitworth & Co.»
 
-Вид компании · `company_armstrong_whitworth` · `common/company_types/00_companies_great_britain.txt:79`
+Вид компании · `company_armstrong_whitworth` · `common/company_types/00_companies_great_britain.txt:83`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_great_britain.txt]
 - **building_types**: [[vanilla/Здания/Верфи|Верфи]], [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
 - **possible_prestige_goods**: пусто
 - **extension_building_types**: [[vanilla/Здания/Автомобильные заводы|Автомобильные заводы]]
-- **potential**: скрипт, строки 99–101
-- **attainable**: скрипт, строки 103–109
-- **possible**: скрипт, строки 111–120
+- **potential**: скрипт, строки 103–105
+- **attainable**: скрипт, строки 107–113
+- **possible**: скрипт, строки 115–128
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-ship-ship-type-aircraft-carrier-hull-damage-mult|ship_ship_type_aircraft_carrier_hull_damage_mult]] = `0.075`
   - [[vanilla/движок/Модификаторы S#^m-ship-armor-mult|ship_armor_mult]] = `0.05`
-- **ai_will_do**: скрипт, строки 127–134
-- **ai_construction_targets**: скрипт, строки 136–143
-- **ai_weight**: скрипт, строки 145–147
+- **ai_will_do**: скрипт, строки 135–142
+- **ai_construction_targets**: скрипт, строки 144–151
+- **ai_weight**: скрипт, строки 153–155

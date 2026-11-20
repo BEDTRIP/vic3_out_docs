@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««La Rosada»» — ваниль 1.15, `company_la_rosada`"
+description: "Вид компании ««La Rosada»» — ваниль 1.15.2, `company_la_rosada`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 ---
 # «La Rosada»
 
-Вид компании · `company_la_rosada` · `common/company_types/00_companies_americas.txt:386`
+Вид компании · `company_la_rosada` · `common/company_types/00_companies_americas.txt:394`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_americas.txt]
 - **building_types**: [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Оружейные заводы|Оружейные заводы]], [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 408–413
-- **potential**: скрипт, строки 415–417
-- **attainable**: скрипт, строки 419–425
-- **possible**: скрипт, строки 427–435
+- **prestige_goods_trigger**: скрипт, строки 416–421
+- **potential**: скрипт, строки 423–425
+- **attainable**: скрипт, строки 427–433
+- **possible**: скрипт, строки 435–447
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Железные рудники|Железные рудники]]
-- **ai_will_do**: скрипт, строки 442–448
-- **ai_construction_targets**: скрипт, строки 450–457
-- **ai_weight**: скрипт, строки 459–461
+- **ai_will_do**: скрипт, строки 454–460
+- **ai_construction_targets**: скрипт, строки 462–469
+- **ai_weight**: скрипт, строки 471–473

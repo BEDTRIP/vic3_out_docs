@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы C — 1934, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы C — 1853, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Модификаторы C
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **character_advancement_speed_add** — Скорость наступления генерала · Бонус или штраф к тому, как быстро генерал накапливает прогресс наступления. · mask: character ^m-character-advancement-speed-add
 - **character_advancement_speed_mult** — Скорость наступления генерала · Бонус или штраф к тому, как быстро генерал накапливает прогресс наступления. · mask: character ^m-character-advancement-speed-mult
@@ -33,12 +33,12 @@ generated: "v3 graph engine"
 - **character_battle_condition_rough_waters_mult** — к вероятности наступления состояния «» · Вероятность того, что окажет влияние условия сражения«» · mask: character ^m-character-battle-condition-rough-waters-mult
 - **character_battle_condition_strong_winds_mult** — к вероятности наступления состояния «» · Вероятность того, что окажет влияние условия сражения«» · mask: character ^m-character-battle-condition-strong-winds-mult
 - **character_battle_condition_surprise_maneuver_mult** — к вероятности наступления состояния «Неожиданный манёвр» · Вероятность того, что окажет влияние условия сражения«Неожиданный манёвр» · mask: character ^m-character-battle-condition-surprise-maneuver-mult
-- **character_blockade_mult** — Сила блокады адмирала · Бонус или штраф к тому, как эффективно адмирал блокирует вражеские порты · mask: character ^m-character-blockade-mult
+- **character_blockade_mult** — Сила блокады адмирала · Бонус или штраф к тому, как эффективно адмирал блокирует враждебные порты · mask: character ^m-character-blockade-mult
 - **character_command_limit_add** — Боевой авторитет · Боевой авторитет определяет, сколько батальонов или кораблей можно эффективно организовать в составе войскового соединения. Чтобы увеличить боевой авторитет, можно повысить командира до более высокого звания. · mask: character ^m-character-command-limit-add
 - **character_command_limit_mult** — к боевому авторитету · Увеличивает количество подразделений, которыми может командовать этот персонаж. · mask: character ^m-character-command-limit-mult
 - **character_commander_loyalty_add** — к лояльности командира · Увеличение или уменьшение лояльности командира · mask: character ^m-character-commander-loyalty-add
-- **character_convoy_protection_mult** — Защита торговых кораблей адмиралом · Бонус или штраф к тому, как эффективно адмирал защищает торговые корабли · mask: character ^m-character-convoy-protection-mult
-- **character_convoy_raiding_mult** — Эффективность налётов адмирала на торговые корабли · Бонус или штраф к эффективности адмирала при налёте на торговые корабли · mask: character ^m-character-convoy-raiding-mult
+- **character_convoy_protection_mult** — Защита merchant_marine! Торговых кораблей адмиралом · Бонус или штраф к тому, как эффективно адмирал защищает merchant_marine! Торговые корабли · mask: character ^m-character-convoy-protection-mult
+- **character_convoy_raiding_mult** — Эффективность налётов адмирала на merchant_marine! Торговые корабли · Бонус или штраф к эффективности адмирала при налёте на merchant_marine! Торговые корабли · mask: character ^m-character-convoy-raiding-mult
 - **character_coup_strength_add** — Сила переворота · Увеличение или уменьшение силы потенциального переворота, начатого этим командиром · mask: character ^m-character-coup-strength-add
 - **character_coup_strength_mult** — Сила переворота · Увеличение или уменьшение силы потенциального переворота, начатого этим командиром · mask: character ^m-character-coup-strength-mult
 - **character_expedition_events_explorer_mult** — Возможности экспедиции · Вероятность того, что будет больше хорошего, чем плохого в экспедиции,, которую возглавляет этот персонаж · mask: character ^m-character-expedition-events-explorer-mult
@@ -52,6 +52,7 @@ generated: "v3 graph engine"
 - **character_popularity_add** — к популярности · Увеличение или уменьшение популярности персонажа · mask: character ^m-character-popularity-add
 - **character_prominence_add** — к известности · Увеличение или уменьшение известности персонажа · mask: character ^m-character-prominence-add
 - **character_raid_supply_add** — Вероятность налёта адмирала · Вероятность того, что флот адмирала совершит налёт на флот кораблей снабжения за четверть суток · mask: character ^m-character-raid-supply-add
+- **country_abkhazian_cultural_acceptance_add** — Терпимость к культуре Абхазцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-abkhazian-cultural-acceptance-add
 - **country_aborigine_cultural_acceptance_add** — Терпимость к культуре Аборигены · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-aborigine-cultural-acceptance-add
 - **country_academics_pol_str_mult** — к политической силе academics! учёных · Увеличение или уменьшение политической силы academics! учёных. · mask: country ^m-country-academics-pol-str-mult
 - **country_academics_voting_power_add** — Политическая сила от голосов academics! учёных · Увеличение или уменьшение политической силы от голосов academics! учёных на выборах. · mask: country ^m-country-academics-voting-power-add
@@ -84,12 +85,6 @@ generated: "v3 graph engine"
 - **country_afro_caribbean_cultural_acceptance_add** — Терпимость к культуре Афрокарибцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-afro-caribbean-cultural-acceptance-add
 - **country_afro_caribeno_cultural_acceptance_add** — Терпимость к культуре Афрокарибеньо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-afro-caribeno-cultural-acceptance-add
 - **country_agitator_slots_add** — к потенциальным агитаторам · Повышение или снижение количества потенциальных агитаторов, которых государство может содержать на территории страны · mask: country ^m-country-agitator-slots-add
-- **country_agricultural_stock_export_tariffs_rate_add** — mask: country ^m-country-agricultural-stock-export-tariffs-rate-add
-- **country_agricultural_stock_import_tariffs_rate_add** — mask: country ^m-country-agricultural-stock-import-tariffs-rate-add
-- **country_agricultural_stock_max_export_tariffs_level_add** — mask: country ^m-country-agricultural-stock-max-export-tariffs-level-add
-- **country_agricultural_stock_max_import_tariffs_level_add** — mask: country ^m-country-agricultural-stock-max-import-tariffs-level-add
-- **country_agricultural_stock_min_export_tariffs_level_add** — mask: country ^m-country-agricultural-stock-min-export-tariffs-level-add
-- **country_agricultural_stock_min_import_tariffs_level_add** — mask: country ^m-country-agricultural-stock-min-import-tariffs-level-add
 - **country_ahead_of_time_research_penalty_mult** — Штраф за опережение · Увеличение или уменьшение штрафа к исследованиям за неизученные технологии предыдущих эпох · mask: country ^m-country-ahead-of-time-research-penalty-mult
 - **country_aimara_cultural_acceptance_add** — Терпимость к культуре Аймара · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-aimara-cultural-acceptance-add
 - **country_ainu_cultural_acceptance_add** — Терпимость к культуре Айны · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-ainu-cultural-acceptance-add
@@ -128,13 +123,7 @@ generated: "v3 graph engine"
 - **country_anglo_canadian_cultural_acceptance_add** — Терпимость к культуре Англо-канадцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-anglo-canadian-cultural-acceptance-add
 - **country_apache_cultural_acceptance_add** — Терпимость к культуре Апачи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-apache-cultural-acceptance-add
 - **country_aragonese_cultural_acceptance_add** — Терпимость к культуре Арагонцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-aragonese-cultural-acceptance-add
-- **country_arc_welded_construction_export_tariffs_rate_add** — mask: country ^m-country-arc-welded-construction-export-tariffs-rate-add
-- **country_arc_welded_construction_import_tariffs_rate_add** — mask: country ^m-country-arc-welded-construction-import-tariffs-rate-add
-- **country_arc_welded_construction_max_export_tariffs_level_add** — mask: country ^m-country-arc-welded-construction-max-export-tariffs-level-add
-- **country_arc_welded_construction_max_import_tariffs_level_add** — mask: country ^m-country-arc-welded-construction-max-import-tariffs-level-add
-- **country_arc_welded_construction_min_export_tariffs_level_add** — mask: country ^m-country-arc-welded-construction-min-export-tariffs-level-add
-- **country_arc_welded_construction_min_import_tariffs_level_add** — mask: country ^m-country-arc-welded-construction-min-import-tariffs-level-add
-- **country_argentine_cultural_acceptance_add** — Терпимость к культуре Аргентина · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-argentine-cultural-acceptance-add
+- **country_argentine_cultural_acceptance_add** — Терпимость к культуре Аргентинцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-argentine-cultural-acceptance-add
 - **country_aristocrats_pol_str_mult** — к политической силе aristocrats! аристократов · Увеличение или уменьшение политической силы aristocrats! аристократов. · mask: country ^m-country-aristocrats-pol-str-mult
 - **country_aristocrats_voting_power_add** — Политическая сила от голосов aristocrats! аристократов · Увеличение или уменьшение политической силы от голосов aristocrats! аристократов на выборах. · mask: country ^m-country-aristocrats-voting-power-add
 - **country_armenian_cultural_acceptance_add** — Терпимость к культуре Армяне · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-armenian-cultural-acceptance-add
@@ -176,6 +165,7 @@ generated: "v3 graph engine"
 - **country_balinese_cultural_acceptance_add** — Терпимость к культуре Балийцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-balinese-cultural-acceptance-add
 - **country_baluchi_cultural_acceptance_add** — Терпимость к культуре Белуджи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-baluchi-cultural-acceptance-add
 - **country_bambara_cultural_acceptance_add** — Терпимость к культуре Бамбара · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bambara-cultural-acceptance-add
+- **country_ban_slavery_no_infamy_bool** — Отсутствие дурной славы в войнах за отмену рабства · Цели войны «Отмена рабства» больше не увеличивают уровень дурной славы · mask: country ^m-country-ban-slavery-no-infamy-bool
 - **country_bashkir_cultural_acceptance_add** — Терпимость к культуре Башкиры · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bashkir-cultural-acceptance-add
 - **country_basque_cultural_acceptance_add** — Терпимость к культуре Баски · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-basque-cultural-acceptance-add
 - **country_bassa_cultural_acceptance_add** — Терпимость к культуре Басса · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bassa-cultural-acceptance-add
@@ -189,7 +179,6 @@ generated: "v3 graph engine"
 - **country_bg_army_require_subsidies_bool** — mask: country ^m-country-bg-army-require-subsidies-bool
 - **country_bg_arts_require_subsidies_bool** — mask: country ^m-country-bg-arts-require-subsidies-bool
 - **country_bg_banana_plantations_require_subsidies_bool** — mask: country ^m-country-bg-banana-plantations-require-subsidies-bool
-- **country_bg_bank_require_subsidies_bool** — mask: country ^m-country-bg-bank-require-subsidies-bool
 - **country_bg_bureaucracy_require_subsidies_bool** — mask: country ^m-country-bg-bureaucracy-require-subsidies-bool
 - **country_bg_canals_require_subsidies_bool** — mask: country ^m-country-bg-canals-require-subsidies-bool
 - **country_bg_coal_mining_require_subsidies_bool** — mask: country ^m-country-bg-coal-mining-require-subsidies-bool
@@ -197,13 +186,11 @@ generated: "v3 graph engine"
 - **country_bg_company_headquarter_require_subsidies_bool** — mask: country ^m-country-bg-company-headquarter-require-subsidies-bool
 - **country_bg_company_regional_headquarter_require_subsidies_bool** — mask: country ^m-country-bg-company-regional-headquarter-require-subsidies-bool
 - **country_bg_conscription_require_subsidies_bool** — mask: country ^m-country-bg-conscription-require-subsidies-bool
-- **country_bg_construction_regulator_require_subsidies_bool** — mask: country ^m-country-bg-construction-regulator-require-subsidies-bool
 - **country_bg_construction_require_subsidies_bool** — mask: country ^m-country-bg-construction-require-subsidies-bool
+- **country_bg_cossack_host_require_subsidies_bool** — mask: country ^m-country-bg-cossack-host-require-subsidies-bool
 - **country_bg_cotton_plantations_require_subsidies_bool** — mask: country ^m-country-bg-cotton-plantations-require-subsidies-bool
 - **country_bg_dye_plantations_require_subsidies_bool** — mask: country ^m-country-bg-dye-plantations-require-subsidies-bool
-- **country_bg_ef_private_construction_require_subsidies_bool** — mask: country ^m-country-bg-ef-private-construction-require-subsidies-bool
 - **country_bg_extraction_require_subsidies_bool** — mask: country ^m-country-bg-extraction-require-subsidies-bool
-- **country_bg_financial_centre_require_subsidies_bool** — mask: country ^m-country-bg-financial-centre-require-subsidies-bool
 - **country_bg_financial_districts_require_subsidies_bool** — mask: country ^m-country-bg-financial-districts-require-subsidies-bool
 - **country_bg_fishing_require_subsidies_bool** — mask: country ^m-country-bg-fishing-require-subsidies-bool
 - **country_bg_gold_fields_require_subsidies_bool** — mask: country ^m-country-bg-gold-fields-require-subsidies-bool
@@ -243,7 +230,6 @@ generated: "v3 graph engine"
 - **country_bg_service_require_subsidies_bool** — mask: country ^m-country-bg-service-require-subsidies-bool
 - **country_bg_ship_construction_require_subsidies_bool** — mask: country ^m-country-bg-ship-construction-require-subsidies-bool
 - **country_bg_silk_plantations_require_subsidies_bool** — mask: country ^m-country-bg-silk-plantations-require-subsidies-bool
-- **country_bg_silver_mining_require_subsidies_bool** — mask: country ^m-country-bg-silver-mining-require-subsidies-bool
 - **country_bg_skyscraper_require_subsidies_bool** — mask: country ^m-country-bg-skyscraper-require-subsidies-bool
 - **country_bg_staple_crops_require_subsidies_bool** — mask: country ^m-country-bg-staple-crops-require-subsidies-bool
 - **country_bg_subsistence_agriculture_require_subsidies_bool** — mask: country ^m-country-bg-subsistence-agriculture-require-subsidies-bool
@@ -258,20 +244,18 @@ generated: "v3 graph engine"
 - **country_bg_vineyard_plantations_require_subsidies_bool** — mask: country ^m-country-bg-vineyard-plantations-require-subsidies-bool
 - **country_bg_whaling_require_subsidies_bool** — mask: country ^m-country-bg-whaling-require-subsidies-bool
 - **country_bg_wheat_farms_require_subsidies_bool** — mask: country ^m-country-bg-wheat-farms-require-subsidies-bool
-- **country_bg_zz_ef_banking_require_subsidies_bool** — mask: country ^m-country-bg-zz-ef-banking-require-subsidies-bool
 - **country_bidan_cultural_acceptance_add** — Терпимость к культуре Бида · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bidan-cultural-acceptance-add
 - **country_bihari_cultural_acceptance_add** — Терпимость к культуре Бихарцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bihari-cultural-acceptance-add
+- **country_birth_rate_cultural_erasure_mult** — Рождаемость при статусе acceptance_status_2!«Вымывание культуры» · Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_2!«Вымывание культуры» · mask: country ^m-country-birth-rate-cultural-erasure-mult
+- **country_birth_rate_full_acceptance_mult** — Рождаемость при статусе acceptance_status_5!«Полное принятие» · Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_5!«Полное принятие» · mask: country ^m-country-birth-rate-full-acceptance-mult
+- **country_birth_rate_open_prejudice_mult** — Рождаемость при статусе acceptance_status_3!«Неприкрытые предрассудки» · Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_3!«Неприкрытые предрассудки» · mask: country ^m-country-birth-rate-open-prejudice-mult
+- **country_birth_rate_second_rate_citizen_mult** — Рождаемость при статусе acceptance_status_4!«Граждане второго сорта» · Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_4!«Граждане второго сорта» · mask: country ^m-country-birth-rate-second-rate-citizen-mult
+- **country_birth_rate_violent_hostility_mult** — Рождаемость при статусе acceptance_status_1!«Ожесточённая неприязнь» · Сколько детей рождается ежегодно у групп населения со статусом acceptance_status_1!«Ожесточённая неприязнь» · mask: country ^m-country-birth-rate-violent-hostility-mult
 - **country_block_government_reform_bool** — Запрещает реформы правительства · Запрещает стране реформировать действующее правительство. · mask: country ^m-country-block-government-reform-bool
 - **country_boer_cultural_acceptance_add** — Терпимость к культуре Буры · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-boer-cultural-acceptance-add
 - **country_bolivian_cultural_acceptance_add** — Терпимость к культуре Боливийцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bolivian-cultural-acceptance-add
 - **country_bolster_attraction_factor** — к влиянию поддержки на привлекательность политических движений · Повышение или снижение привлекательности политического движения в глазах населения вследствие его поддержки. · mask: country ^m-country-bolster-attraction-factor
 - **country_bolster_cost_mult** — к стоимости поддержки · Увеличение или уменьшение стоимости поддержки политического движения. · mask: country ^m-country-bolster-cost-mult
-- **country_bond_export_tariffs_rate_add** — mask: country ^m-country-bond-export-tariffs-rate-add
-- **country_bond_import_tariffs_rate_add** — mask: country ^m-country-bond-import-tariffs-rate-add
-- **country_bond_max_export_tariffs_level_add** — mask: country ^m-country-bond-max-export-tariffs-level-add
-- **country_bond_max_import_tariffs_level_add** — mask: country ^m-country-bond-max-import-tariffs-level-add
-- **country_bond_min_export_tariffs_level_add** — mask: country ^m-country-bond-min-export-tariffs-level-add
-- **country_bond_min_import_tariffs_level_add** — mask: country ^m-country-bond-min-import-tariffs-level-add
 - **country_bornean_cultural_acceptance_add** — Терпимость к культуре Борнейцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bornean-cultural-acceptance-add
 - **country_bosniak_cultural_acceptance_add** — Терпимость к культуре Боснийцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bosniak-cultural-acceptance-add
 - **country_brahmins_acceptance_min_add** — Минимальная терпимость к касте брахманов · Терпимость к группам населения из касты брахманов не сможет упасть ниже этого порогового значения · mask: country ^m-country-brahmins-acceptance-min-add
@@ -288,10 +272,10 @@ generated: "v3 graph engine"
 - **country_building_artillery_foundry_require_subsidies_bool** — mask: country ^m-country-building-artillery-foundry-require-subsidies-bool
 - **country_building_automotive_industry_require_subsidies_bool** — mask: country ^m-country-building-automotive-industry-require-subsidies-bool
 - **country_building_banana_plantation_require_subsidies_bool** — mask: country ^m-country-building-banana-plantation-require-subsidies-bool
-- **country_building_bank_require_subsidies_bool** — mask: country ^m-country-building-bank-require-subsidies-bool
 - **country_building_barrack_require_subsidies_bool** — mask: country ^m-country-building-barrack-require-subsidies-bool
 - **country_building_big_ben_require_subsidies_bool** — mask: country ^m-country-building-big-ben-require-subsidies-bool
 - **country_building_capitol_hill_require_subsidies_bool** — mask: country ^m-country-building-capitol-hill-require-subsidies-bool
+- **country_building_cathedral_of_christ_the_savior_require_subsidies_bool** — mask: country ^m-country-building-cathedral-of-christ-the-savior-require-subsidies-bool
 - **country_building_central_park_require_subsidies_bool** — mask: country ^m-country-building-central-park-require-subsidies-bool
 - **country_building_chemical_plant_require_subsidies_bool** — mask: country ^m-country-building-chemical-plant-require-subsidies-bool
 - **country_building_chichen_itza_require_subsidies_bool** — mask: country ^m-country-building-chichen-itza-require-subsidies-bool
@@ -300,8 +284,9 @@ generated: "v3 graph engine"
 - **country_building_company_headquarter_require_subsidies_bool** — mask: country ^m-country-building-company-headquarter-require-subsidies-bool
 - **country_building_company_regional_headquarter_require_subsidies_bool** — mask: country ^m-country-building-company-regional-headquarter-require-subsidies-bool
 - **country_building_conscription_center_require_subsidies_bool** — mask: country ^m-country-building-conscription-center-require-subsidies-bool
-- **country_building_construction_regulator_require_subsidies_bool** — mask: country ^m-country-building-construction-regulator-require-subsidies-bool
 - **country_building_construction_sector_require_subsidies_bool** — mask: country ^m-country-building-construction-sector-require-subsidies-bool
+- **country_building_copper_mine_require_subsidies_bool** — mask: country ^m-country-building-copper-mine-require-subsidies-bool
+- **country_building_cossack_host_require_subsidies_bool** — mask: country ^m-country-building-cossack-host-require-subsidies-bool
 - **country_building_cotton_plantation_require_subsidies_bool** — mask: country ^m-country-building-cotton-plantation-require-subsidies-bool
 - **country_building_cristo_redentor_require_subsidies_bool** — mask: country ^m-country-building-cristo-redentor-require-subsidies-bool
 - **country_building_dye_plantation_require_subsidies_bool** — mask: country ^m-country-building-dye-plantation-require-subsidies-bool
@@ -311,45 +296,6 @@ generated: "v3 graph engine"
 - **country_building_estacion_de_madrid_atocha_require_subsidies_bool** — mask: country ^m-country-building-estacion-de-madrid-atocha-require-subsidies-bool
 - **country_building_explosives_factory_require_subsidies_bool** — mask: country ^m-country-building-explosives-factory-require-subsidies-bool
 - **country_building_eye_of_sahara_require_subsidies_bool** — mask: country ^m-country-building-eye-of-sahara-require-subsidies-bool
-- **country_building_financial_centre_arg_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-arg-require-subsidies-bool
-- **country_building_financial_centre_aus_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-aus-require-subsidies-bool
-- **country_building_financial_centre_bav_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-bav-require-subsidies-bool
-- **country_building_financial_centre_bel_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-bel-require-subsidies-bool
-- **country_building_financial_centre_bic_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-bic-require-subsidies-bool
-- **country_building_financial_centre_brz_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-brz-require-subsidies-bool
-- **country_building_financial_centre_chi_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-chi-require-subsidies-bool
-- **country_building_financial_centre_chl_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-chl-require-subsidies-bool
-- **country_building_financial_centre_dei_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-dei-require-subsidies-bool
-- **country_building_financial_centre_den_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-den-require-subsidies-bool
-- **country_building_financial_centre_egy_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-egy-require-subsidies-bool
-- **country_building_financial_centre_fra_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-fra-require-subsidies-bool
-- **country_building_financial_centre_frm_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-frm-require-subsidies-bool
-- **country_building_financial_centre_gbr_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-gbr-require-subsidies-bool
-- **country_building_financial_centre_gre_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-gre-require-subsidies-bool
-- **country_building_financial_centre_han_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-han-require-subsidies-bool
-- **country_building_financial_centre_ita_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-ita-require-subsidies-bool
-- **country_building_financial_centre_jap_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-jap-require-subsidies-bool
-- **country_building_financial_centre_mex_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-mex-require-subsidies-bool
-- **country_building_financial_centre_net_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-net-require-subsidies-bool
-- **country_building_financial_centre_nsw_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-nsw-require-subsidies-bool
-- **country_building_financial_centre_ont_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-ont-require-subsidies-bool
-- **country_building_financial_centre_peu_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-peu-require-subsidies-bool
-- **country_building_financial_centre_por_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-por-require-subsidies-bool
-- **country_building_financial_centre_pru_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-pru-require-subsidies-bool
-- **country_building_financial_centre_que_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-que-require-subsidies-bool
-- **country_building_financial_centre_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-require-subsidies-bool
-- **country_building_financial_centre_rus_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-rus-require-subsidies-bool
-- **country_building_financial_centre_saf_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-saf-require-subsidies-bool
-- **country_building_financial_centre_sar_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-sar-require-subsidies-bool
-- **country_building_financial_centre_sax_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-sax-require-subsidies-bool
-- **country_building_financial_centre_sic_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-sic-require-subsidies-bool
-- **country_building_financial_centre_spa_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-spa-require-subsidies-bool
-- **country_building_financial_centre_swe_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-swe-require-subsidies-bool
-- **country_building_financial_centre_swi_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-swi-require-subsidies-bool
-- **country_building_financial_centre_tur_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-tur-require-subsidies-bool
-- **country_building_financial_centre_tus_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-tus-require-subsidies-bool
-- **country_building_financial_centre_uru_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-uru-require-subsidies-bool
-- **country_building_financial_centre_usa_require_subsidies_bool** — mask: country ^m-country-building-financial-centre-usa-require-subsidies-bool
 - **country_building_financial_district_require_subsidies_bool** — mask: country ^m-country-building-financial-district-require-subsidies-bool
 - **country_building_fishing_wharf_require_subsidies_bool** — mask: country ^m-country-building-fishing-wharf-require-subsidies-bool
 - **country_building_food_industry_require_subsidies_bool** — mask: country ^m-country-building-food-industry-require-subsidies-bool
@@ -361,6 +307,7 @@ generated: "v3 graph engine"
 - **country_building_gold_mine_require_subsidies_bool** — mask: country ^m-country-building-gold-mine-require-subsidies-bool
 - **country_building_government_administration_require_subsidies_bool** — mask: country ^m-country-building-government-administration-require-subsidies-bool
 - **country_building_gran_teatro_de_la_habana_require_subsidies_bool** — mask: country ^m-country-building-gran-teatro-de-la-habana-require-subsidies-bool
+- **country_building_grand_kremlin_palace_require_subsidies_bool** — mask: country ^m-country-building-grand-kremlin-palace-require-subsidies-bool
 - **country_building_hagia_sophia_require_subsidies_bool** — mask: country ^m-country-building-hagia-sophia-require-subsidies-bool
 - **country_building_halloween_castledracula_require_subsidies_bool** — mask: country ^m-country-building-halloween-castledracula-require-subsidies-bool
 - **country_building_iron_mine_require_subsidies_bool** — mask: country ^m-country-building-iron-mine-require-subsidies-bool
@@ -370,7 +317,7 @@ generated: "v3 graph engine"
 - **country_building_kaiserforum_4_require_subsidies_bool** — mask: country ^m-country-building-kaiserforum-4-require-subsidies-bool
 - **country_building_khaju_bridge_require_subsidies_bool** — mask: country ^m-country-building-khaju-bridge-require-subsidies-bool
 - **country_building_kiel_canal_require_subsidies_bool** — mask: country ^m-country-building-kiel-canal-require-subsidies-bool
-- **country_building_ld_investment_fund_require_subsidies_bool** — mask: country ^m-country-building-ld-investment-fund-require-subsidies-bool
+- **country_building_kizhi_pogost_require_subsidies_bool** — mask: country ^m-country-building-kizhi-pogost-require-subsidies-bool
 - **country_building_lead_mine_require_subsidies_bool** — mask: country ^m-country-building-lead-mine-require-subsidies-bool
 - **country_building_livestock_ranch_require_subsidies_bool** — mask: country ^m-country-building-livestock-ranch-require-subsidies-bool
 - **country_building_logging_camp_require_subsidies_bool** — mask: country ^m-country-building-logging-camp-require-subsidies-bool
@@ -407,9 +354,9 @@ generated: "v3 graph engine"
 - **country_building_sagrada_familia_cathedral_2_require_subsidies_bool** — mask: country ^m-country-building-sagrada-familia-cathedral-2-require-subsidies-bool
 - **country_building_sagrada_familia_cathedral_3_require_subsidies_bool** — mask: country ^m-country-building-sagrada-familia-cathedral-3-require-subsidies-bool
 - **country_building_saint_basils_cathedral_require_subsidies_bool** — mask: country ^m-country-building-saint-basils-cathedral-require-subsidies-bool
+- **country_building_saint_isaacs_cathedral_require_subsidies_bool** — mask: country ^m-country-building-saint-isaacs-cathedral-require-subsidies-bool
 - **country_building_shipyard_require_subsidies_bool** — mask: country ^m-country-building-shipyard-require-subsidies-bool
 - **country_building_silk_plantation_require_subsidies_bool** — mask: country ^m-country-building-silk-plantation-require-subsidies-bool
-- **country_building_silver_mine_require_subsidies_bool** — mask: country ^m-country-building-silver-mine-require-subsidies-bool
 - **country_building_skyscraper_require_subsidies_bool** — mask: country ^m-country-building-skyscraper-require-subsidies-bool
 - **country_building_statue_of_liberty_require_subsidies_bool** — mask: country ^m-country-building-statue-of-liberty-require-subsidies-bool
 - **country_building_steel_mill_require_subsidies_bool** — mask: country ^m-country-building-steel-mill-require-subsidies-bool
@@ -438,7 +385,7 @@ generated: "v3 graph engine"
 - **country_building_whaling_station_require_subsidies_bool** — mask: country ^m-country-building-whaling-station-require-subsidies-bool
 - **country_building_wheat_farm_require_subsidies_bool** — mask: country ^m-country-building-wheat-farm-require-subsidies-bool
 - **country_building_white_house_require_subsidies_bool** — mask: country ^m-country-building-white-house-require-subsidies-bool
-- **country_building_zz_ef_bank_require_subsidies_bool** — mask: country ^m-country-building-zz-ef-bank-require-subsidies-bool
+- **country_building_winter_palace_require_subsidies_bool** — mask: country ^m-country-building-winter-palace-require-subsidies-bool
 - **country_bulgarian_cultural_acceptance_add** — Терпимость к культуре Болгары · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bulgarian-cultural-acceptance-add
 - **country_bundeli_cultural_acceptance_add** — Терпимость к культуре Бундели · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-bundeli-cultural-acceptance-add
 - **country_bureaucracy_add** — к количеству bur! бюрократии · Количество bur! бюрократии, доступной государству · mask: country ^m-country-bureaucracy-add
@@ -451,8 +398,10 @@ generated: "v3 graph engine"
 - **country_buryat_cultural_acceptance_add** — Терпимость к культуре Буряты · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-buryat-cultural-acceptance-add
 - **country_byelorussian_cultural_acceptance_add** — Терпимость к культуре Белорусы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-byelorussian-cultural-acceptance-add
 - **country_caddoan_cultural_acceptance_add** — Терпимость к культуре Каддо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-caddoan-cultural-acceptance-add
-- **country_cajun_cultural_acceptance_add** — Терпимость к культуре Каджун · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-cajun-cultural-acceptance-add
+- **country_cajun_cultural_acceptance_add** — Терпимость к культуре Каджуны · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-cajun-cultural-acceptance-add
+- **country_can_conscript_protected_subsistence_employment_bool** — Призывные пункты игнорируют защиту занятости в натуральном хозяйстве · Могут ли призывные пункты вербовать население из построек натурального хозяйства вне зависимости от защиты их занятости · mask: country ^m-country-can-conscript-protected-subsistence-employment-bool
 - **country_can_form_construction_company_bool** — Может образовывать строительные компании · Может образовывать строительные компании · mask: country ^m-country-can-form-construction-company-bool
+- **country_can_found_cossack_host_bool** — Можно учреждать казачьи войска · Позволяет учреждать казачьи войска в областях · mask: country ^m-country-can-found-cossack-host-bool
 - **country_can_impose_same_lawgroup_army_model_in_power_bloc_bool** — Навязать тот же закон в категории «Модель армии» членам блока · Разрешено навязывать другим членам блока закон в категории «Модель армии», аналогичный действующим в стране · mask: country ^m-country-can-impose-same-lawgroup-army-model-in-power-bloc-bool
 - **country_can_impose_same_lawgroup_church_and_state_in_power_bloc_bool** — Навязать тот же закон в категории «Церковь и государство» членам блока · Разрешено навязывать другим членам блока законы в категории «Церковь и государство», аналогичные действующим в стране · mask: country ^m-country-can-impose-same-lawgroup-church-and-state-in-power-bloc-bool
 - **country_can_impose_same_lawgroup_citizenship_in_power_bloc_bool** — Навязать тот же закон в категории «Гражданство» членам блока · Разрешено навязывать другим членам блока закон в категории «Гражданство», аналогичный действующим в стране · mask: country ^m-country-can-impose-same-lawgroup-citizenship-in-power-bloc-bool
@@ -465,6 +414,7 @@ generated: "v3 graph engine"
 - **country_cannot_be_subjugated_bool** — Нельзя подчинить · Эта страна недавно объявила о своём нейтралитете, и её нельзя подчинить · mask: country ^m-country-cannot-be-subjugated-bool
 - **country_cannot_be_target_for_law_imposition_bool** — Нельзя выбрать целью навязывания закона · Страну нельзя выбрать целью навязывания нового закона, пока действует этот модификатор · mask: country ^m-country-cannot-be-target-for-law-imposition-bool
 - **country_cannot_cancel_law_enactment_bool** — Запретить отменять принятие законов · Штраф, запрещающий стране отменять принятие каких-либо рассматриваемых законов · mask: country ^m-country-cannot-cancel-law-enactment-bool
+- **country_cannot_decrease_autonomy_bool** — Гарантирована автономия · Гарантия, которая не позволяет сюзерену снижать автономию или использовать действие сюзерена «Установить предпочтительного правителя» · mask: country ^m-country-cannot-decrease-autonomy-bool
 - **country_cannot_enact_laws_bool** — Запретить принимать законы · Штраф, запрещающий стране принимать какие-либо законы · mask: country ^m-country-cannot-enact-laws-bool
 - **country_cannot_join_power_bloc_bool** — Не может вступать в блоки государств · Эта страна недавно объявила о своём нейтралитете и не может вступать в блоки государств · mask: country ^m-country-cannot-join-power-bloc-bool
 - **country_cannot_start_law_enactment_bool** — Запретить начинать принятие законов · Штраф, запрещающий стране начинать процедуру принятия новых законов · mask: country ^m-country-cannot-start-law-enactment-bool
@@ -473,14 +423,15 @@ generated: "v3 graph engine"
 - **country_cariban_cultural_acceptance_add** — Терпимость к культуре Карибцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-cariban-cultural-acceptance-add
 - **country_caribeno_cultural_acceptance_add** — Терпимость к культуре Карибеньо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-caribeno-cultural-acceptance-add
 - **country_catalan_cultural_acceptance_add** — Терпимость к культуре Каталонцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-catalan-cultural-acceptance-add
+- **country_caucasian_turk_cultural_acceptance_add** — Терпимость к культуре Кавказские тюрки · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-caucasian-turk-cultural-acceptance-add
 - **country_central_american_cultural_acceptance_add** — Терпимость к культуре Центральноамериканцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-central-american-cultural-acceptance-add
 - **country_champa_cultural_acceptance_add** — Терпимость к культуре Тямпцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-champa-cultural-acceptance-add
-- **country_change_gold_silver_ratio_bool** — Корректировка золотосеребряного паритета · Эта поправка изменяет установленный законом золотосеребряный паритет, корректируя биметаллическое соотношение, применяемое государством. · mask: country ^m-country-change-gold-silver-ratio-bool
 - **country_chechen_cultural_acceptance_add** — Терпимость к культуре Чеченцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-chechen-cultural-acceptance-add
 - **country_cherokee_cultural_acceptance_add** — Терпимость к культуре Чироки · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-cherokee-cultural-acceptance-add
 - **country_chewa_cultural_acceptance_add** — Терпимость к культуре Чева · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-chewa-cultural-acceptance-add
 - **country_chhattisgarhi_cultural_acceptance_add** — Терпимость к культуре Чхаттисгархи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-chhattisgarhi-cultural-acceptance-add
 - **country_chilean_cultural_acceptance_add** — Терпимость к культуре Чилийцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-chilean-cultural-acceptance-add
+- **country_chukchi_cultural_acceptance_add** — Терпимость к культуре Чукчи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-chukchi-cultural-acceptance-add
 - **country_chuvash_cultural_acceptance_add** — Терпимость к культуре Чуваши · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-chuvash-cultural-acceptance-add
 - **country_circassian_cultural_acceptance_add** — Терпимость к культуре Черкесы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-circassian-cultural-acceptance-add
 - **country_clergymen_pol_str_mult** — к политической силе clergymen! священнослужителей · Увеличение или уменьшение политической силы clergymen! священнослужителей. · mask: country ^m-country-clergymen-pol-str-mult
@@ -519,14 +470,20 @@ generated: "v3 graph engine"
 - **country_construction_goods_cost_mult** — к стоимости строительных товаров · Бонус или штраф к денежной стоимости материалов для нужд строительства. · mask: country ^m-country-construction-goods-cost-mult
 - **country_consumption_tax_cost_mult** — к затратам на потребительские налоги · Увеличение или снижение затрат авторитета на введение потребительских налогов. · mask: country ^m-country-consumption-tax-cost-mult
 - **country_conversion_delta_threshold_add** — Порог религиозного обращения · Бонус или штраф к пороговому значению для обращения в этой стране · mask: country ^m-country-conversion-delta-threshold-add
+- **country_copper_export_tariffs_rate_add** — mask: country ^m-country-copper-export-tariffs-rate-add
+- **country_copper_import_tariffs_rate_add** — mask: country ^m-country-copper-import-tariffs-rate-add
+- **country_copper_max_export_tariffs_level_add** — mask: country ^m-country-copper-max-export-tariffs-level-add
+- **country_copper_max_import_tariffs_level_add** — mask: country ^m-country-copper-max-import-tariffs-level-add
+- **country_copper_min_export_tariffs_level_add** — mask: country ^m-country-copper-min-export-tariffs-level-add
+- **country_copper_min_import_tariffs_level_add** — mask: country ^m-country-copper-min-import-tariffs-level-add
 - **country_corsican_cultural_acceptance_add** — Терпимость к культуре Корсиканцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-corsican-cultural-acceptance-add
 - **country_coup_resistance_add** — Устойчивость к переворотам · Увеличение или уменьшение силы потенциального переворота, начатого этим командиром · mask: country ^m-country-coup-resistance-add
 - **country_coup_resistance_mult** — Устойчивость к переворотам · Увеличение или уменьшение способности страны сопротивляться возможному перевороту · mask: country ^m-country-coup-resistance-mult
-- **country_credit_note_add** — Прибавка к кредитному рейтингу страны · Увеличение общего рейтинга страны на +0,5 за уровень института · mask: country ^m-country-credit-note-add
-- **country_credit_note_mult** — Множитель кредитного рейтинга страны · Увеличение общего рейтинга страны на 5% за уровень института · mask: country ^m-country-credit-note-mult
 - **country_cree_cultural_acceptance_add** — Терпимость к культуре Кри · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-cree-cultural-acceptance-add
+- **country_crimean_tatar_cultural_acceptance_add** — Терпимость к культуре Крымские татары · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-crimean-tatar-cultural-acceptance-add
 - **country_croat_cultural_acceptance_add** — Терпимость к культуре Хорваты · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-croat-cultural-acceptance-add
 - **country_czech_cultural_acceptance_add** — Терпимость к культуре Чехи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-czech-cultural-acceptance-add
+- **country_dagestani_cultural_acceptance_add** — Терпимость к культуре Дагестанцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-dagestani-cultural-acceptance-add
 - **country_dakota_cultural_acceptance_add** — Терпимость к культуре Дакота · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-dakota-cultural-acceptance-add
 - **country_dalit_acceptance_max_add** — Максимальная терпимость к касте неприкасаемых · Терпимость к группам населения из касты неприкасаемых не сможет подняться выше этого порогового значения · mask: country ^m-country-dalit-acceptance-max-add
 - **country_dalit_cultural_acceptance_add** — Культурная терпимость к касте неприкасаемых · Базовый рост или снижение культурной терпимости к касте неприкасаемых · mask: country ^m-country-dalit-cultural-acceptance-add
@@ -551,6 +508,7 @@ generated: "v3 graph engine"
 - **country_disable_non_company_privatization_bool** — Запрет приватизации (за исключением компаний) · Запрет на любые формы приватизации, за исключением приватизации компаниями · mask: country ^m-country-disable-non-company-privatization-bool
 - **country_disallow_aggressive_plays_bool** — Запретить агрессивные дипломатические игры · Не разрешается начинать дипломатические игры против других стран · mask: country ^m-country-disallow-aggressive-plays-bool
 - **country_disallow_agitator_invites_bool** — Запрещено приглашать изгнанников · Эта страна не позволяет приглашать изгнанников · mask: country ^m-country-disallow-agitator-invites-bool
+- **country_disallow_army_creation_bool** — Запретить создание армии · Не разрешается создавать новые армии · mask: country ^m-country-disallow-army-creation-bool
 - **country_disallow_government_work_cultural_erasure_bool** — Запрет на работу в правительственных сооружениях на должностях высшего и среднего класса для обладателей статуса acceptance_status_2! «Вымывание культуры» · Запретить группам населения — обладателям статуса acceptance_status_2! «Вымывание культуры», устраиваться на работу в правительственные сооружения на должности высшего и среднего класса · mask: country ^m-country-disallow-government-work-cultural-erasure-bool
 - **country_disallow_government_work_full_acceptance_bool** — Запрет на работу в правительственных сооружениях на должностях высшего и среднего класса для обладателей статуса acceptance_status_5! «Полное принятие» · Запретить группам населения — обладателям статуса acceptance_status_5! «Полное принятие», устраиваться на работу в правительственные сооружения на должности высшего и среднего класса · mask: country ^m-country-disallow-government-work-full-acceptance-bool
 - **country_disallow_government_work_open_prejudice_bool** — Запрет на работу в правительственных сооружениях на должностях высшего и среднего класса для обладателей статуса acceptance_status_3! «Неприкрытые предрассудки» · Запретить группам населения — обладателям статуса acceptance_status_3! «Неприкрытые предрассудки», устраиваться на работу в правительственные сооружения на должности высшего и среднего класса · mask: country ^m-country-disallow-government-work-open-prejudice-bool
@@ -559,6 +517,7 @@ generated: "v3 graph engine"
 - **country_disallow_law_no_colonial_affairs_bool** — Запретить закон «Нет колоний» · Не разрешается начинать принятие закона «Нет колоний» · mask: country ^m-country-disallow-law-no-colonial-affairs-bool
 - **country_disallow_law_no_police_bool** — Запретить закон «Нет полиции» · Не разрешается начинать принятие закона «Нет полиции» · mask: country ^m-country-disallow-law-no-police-bool
 - **country_disallow_law_no_schools_bool** — Запретить закон «Нет школ» · Не разрешается начинать принятие закона «Нет школ» · mask: country ^m-country-disallow-law-no-schools-bool
+- **country_disallow_military_ship_construction_bool** — Запретить постройку военных кораблей · Не разрешает строить военные корабли, но на корабли снабжения это ограничение не распространяется · mask: country ^m-country-disallow-military-ship-construction-bool
 - **country_disallow_military_work_cultural_erasure_bool** — Запрет на работу в военных сооружениях для обладателей статуса acceptance_status_2! «Вымывание культуры» · Запретить группам населения — обладателям статуса acceptance_status_2! «Вымывание культуры» устраиваться на работу в армию и флот · mask: country ^m-country-disallow-military-work-cultural-erasure-bool
 - **country_disallow_military_work_full_acceptance_bool** — Запрет на работу в военных сооружениях для обладателей статуса acceptance_status_5! «Полное принятие» · Запретить группам населения — обладателям статуса acceptance_status_5! «Полное принятие» устраиваться на работу в армию и флот · mask: country ^m-country-disallow-military-work-full-acceptance-bool
 - **country_disallow_military_work_open_prejudice_bool** — Запрет на работу в военных сооружениях для обладателей статуса acceptance_status_3! «Неприкрытые предрассудки» · Запретить группам населения — обладателям статуса acceptance_status_3! «Неприкрытые предрассудки» устраиваться на работу в армию и флот · mask: country ^m-country-disallow-military-work-open-prejudice-bool
@@ -591,6 +550,7 @@ generated: "v3 graph engine"
 - **country_electricity_min_import_tariffs_level_add** — mask: country ^m-country-electricity-min-import-tariffs-level-add
 - **country_enactment_speed_law_anarchy_mult** — country_enactment_speed_law_anarchy_mult · country_enactment_speed_law_anarchy_mult_desc · mask: country ^m-country-enactment-speed-law-anarchy-mult
 - **country_enactment_speed_law_autocracy_mult** — country_enactment_speed_law_autocracy_mult · country_enactment_speed_law_autocracy_mult_desc · mask: country ^m-country-enactment-speed-law-autocracy-mult
+- **country_enactment_speed_law_multicultural_mult** — country_enactment_speed_law_multicultural_mult · country_enactment_speed_law_multicultural_mult_desc · mask: country ^m-country-enactment-speed-law-multicultural-mult
 - **country_enactment_speed_law_oligarchy_mult** — country_enactment_speed_law_oligarchy_mult · country_enactment_speed_law_oligarchy_mult_desc · mask: country ^m-country-enactment-speed-law-oligarchy-mult
 - **country_enactment_speed_law_public_schools_mult** — Скорость принятия государственных школ · Повышение или снижение скорости принятия определённых законов · mask: country ^m-country-enactment-speed-law-public-schools-mult
 - **country_enactment_speed_law_single_party_state_mult** — country_enactment_speed_law_single_party_state_mult · country_enactment_speed_law_single_party_state_mult_desc · mask: country ^m-country-enactment-speed-law-single-party-state-mult
@@ -602,8 +562,7 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_appointed_bureaucrats_add** — mask: country ^m-country-enactment-success-chance-law-appointed-bureaucrats-add
 - **country_enactment_success_chance_law_autocracy_add** — Вероятность успешного принятия закона «Автократия» · Базовый процент повышения вероятности принятия конкретного закона. · mask: country ^m-country-enactment-success-chance-law-autocracy-add
 - **country_enactment_success_chance_law_bakufu_add** — mask: country ^m-country-enactment-success-chance-law-bakufu-add
-- **country_enactment_success_chance_law_bimetallism_exchange_standard_add** — mask: country ^m-country-enactment-success-chance-law-bimetallism-exchange-standard-add
-- **country_enactment_success_chance_law_bimetallism_standard_add** — mask: country ^m-country-enactment-success-chance-law-bimetallism-standard-add
+- **country_enactment_success_chance_law_caesaropapism_add** — mask: country ^m-country-enactment-success-chance-law-caesaropapism-add
 - **country_enactment_success_chance_law_canton_system_add** — mask: country ^m-country-enactment-success-chance-law-canton-system-add
 - **country_enactment_success_chance_law_censorship_add** — mask: country ^m-country-enactment-success-chance-law-censorship-add
 - **country_enactment_success_chance_law_census_voting_add** — mask: country ^m-country-enactment-success-chance-law-census-voting-add
@@ -620,6 +579,7 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_combination_acts_add** — mask: country ^m-country-enactment-success-chance-law-combination-acts-add
 - **country_enactment_success_chance_law_command_economy_add** — mask: country ^m-country-enactment-success-chance-law-command-economy-add
 - **country_enactment_success_chance_law_commercialized_agriculture_add** — mask: country ^m-country-enactment-success-chance-law-commercialized-agriculture-add
+- **country_enactment_success_chance_law_communal_administration_add** — mask: country ^m-country-enactment-success-chance-law-communal-administration-add
 - **country_enactment_success_chance_law_compulsory_primary_school_add** — mask: country ^m-country-enactment-success-chance-law-compulsory-primary-school-add
 - **country_enactment_success_chance_law_consumption_based_taxation_add** — mask: country ^m-country-enactment-success-chance-law-consumption-based-taxation-add
 - **country_enactment_success_chance_law_cooperative_ownership_add** — mask: country ^m-country-enactment-success-chance-law-cooperative-ownership-add
@@ -630,21 +590,17 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_cultural_exclusion_add** — mask: country ^m-country-enactment-success-chance-law-cultural-exclusion-add
 - **country_enactment_success_chance_law_debt_slavery_add** — mask: country ^m-country-enactment-success-chance-law-debt-slavery-add
 - **country_enactment_success_chance_law_dedicated_police_add** — mask: country ^m-country-enactment-success-chance-law-dedicated-police-add
-- **country_enactment_success_chance_law_devaluation_add** — mask: country ^m-country-enactment-success-chance-law-devaluation-add
 - **country_enactment_success_chance_law_diplomatic_navy_add** — mask: country ^m-country-enactment-success-chance-law-diplomatic-navy-add
 - **country_enactment_success_chance_law_elder_council_add** — mask: country ^m-country-enactment-success-chance-law-elder-council-add
 - **country_enactment_success_chance_law_elected_bureaucrats_add** — mask: country ^m-country-enactment-success-chance-law-elected-bureaucrats-add
 - **country_enactment_success_chance_law_ethnostate_add** — mask: country ^m-country-enactment-success-chance-law-ethnostate-add
 - **country_enactment_success_chance_law_expanded_latifundias_add** — mask: country ^m-country-enactment-success-chance-law-expanded-latifundias-add
-- **country_enactment_success_chance_law_external_exchange_standard_add** — mask: country ^m-country-enactment-success-chance-law-external-exchange-standard-add
 - **country_enactment_success_chance_law_extraction_economy_add** — mask: country ^m-country-enactment-success-chance-law-extraction-economy-add
+- **country_enactment_success_chance_law_extraordinary_commission_add** — mask: country ^m-country-enactment-success-chance-law-extraordinary-commission-add
 - **country_enactment_success_chance_law_factory_councils_add** — mask: country ^m-country-enactment-success-chance-law-factory-councils-add
-- **country_enactment_success_chance_law_fiat_standard_add** — mask: country ^m-country-enactment-success-chance-law-fiat-standard-add
 - **country_enactment_success_chance_law_free_trade_add** — mask: country ^m-country-enactment-success-chance-law-free-trade-add
 - **country_enactment_success_chance_law_freedom_of_conscience_add** — mask: country ^m-country-enactment-success-chance-law-freedom-of-conscience-add
 - **country_enactment_success_chance_law_frontier_colonization_add** — mask: country ^m-country-enactment-success-chance-law-frontier-colonization-add
-- **country_enactment_success_chance_law_gold_exchange_standard_add** — mask: country ^m-country-enactment-success-chance-law-gold-exchange-standard-add
-- **country_enactment_success_chance_law_gold_standard_add** — mask: country ^m-country-enactment-success-chance-law-gold-standard-add
 - **country_enactment_success_chance_law_graduated_taxation_add** — mask: country ^m-country-enactment-success-chance-law-graduated-taxation-add
 - **country_enactment_success_chance_law_guaranteed_liberties_add** — mask: country ^m-country-enactment-success-chance-law-guaranteed-liberties-add
 - **country_enactment_success_chance_law_guild_system_add** — mask: country ^m-country-enactment-success-chance-law-guild-system-add
@@ -655,18 +611,16 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_homesteading_add** — mask: country ^m-country-enactment-success-chance-law-homesteading-add
 - **country_enactment_success_chance_law_industry_banned_add** — mask: country ^m-country-enactment-success-chance-law-industry-banned-add
 - **country_enactment_success_chance_law_intermediate_edo_system_add** — mask: country ^m-country-enactment-success-chance-law-intermediate-edo-system-add
+- **country_enactment_success_chance_law_internal_colonization_add** — mask: country ^m-country-enactment-success-chance-law-internal-colonization-add
 - **country_enactment_success_chance_law_interventionism_add** — mask: country ^m-country-enactment-success-chance-law-interventionism-add
 - **country_enactment_success_chance_law_isolationism_add** — mask: country ^m-country-enactment-success-chance-law-isolationism-add
 - **country_enactment_success_chance_law_jeune_ecole_add** — mask: country ^m-country-enactment-success-chance-law-jeune-ecole-add
+- **country_enactment_success_chance_law_labour_suffrage_add** — mask: country ^m-country-enactment-success-chance-law-labour-suffrage-add
 - **country_enactment_success_chance_law_laissez_faire_add** — mask: country ^m-country-enactment-success-chance-law-laissez-faire-add
 - **country_enactment_success_chance_law_land_based_taxation_add** — mask: country ^m-country-enactment-success-chance-law-land-based-taxation-add
 - **country_enactment_success_chance_law_landed_voting_add** — mask: country ^m-country-enactment-success-chance-law-landed-voting-add
-- **country_enactment_success_chance_law_large_monetary_policy_add** — mask: country ^m-country-enactment-success-chance-law-large-monetary-policy-add
 - **country_enactment_success_chance_law_latifundias_add** — mask: country ^m-country-enactment-success-chance-law-latifundias-add
 - **country_enactment_success_chance_law_lax_edo_system_add** — mask: country ^m-country-enactment-success-chance-law-lax-edo-system-add
-- **country_enactment_success_chance_law_ld_cb_none_add** — mask: country ^m-country-enactment-success-chance-law-ld-cb-none-add
-- **country_enactment_success_chance_law_ld_cb_private_add** — mask: country ^m-country-enactment-success-chance-law-ld-cb-private-add
-- **country_enactment_success_chance_law_ld_cb_state_add** — mask: country ^m-country-enactment-success-chance-law-ld-cb-state-add
 - **country_enactment_success_chance_law_legacy_slavery_add** — mask: country ^m-country-enactment-success-chance-law-legacy-slavery-add
 - **country_enactment_success_chance_law_local_police_add** — mask: country ^m-country-enactment-success-chance-law-local-police-add
 - **country_enactment_success_chance_law_manorialism_add** — mask: country ^m-country-enactment-success-chance-law-manorialism-add
@@ -675,9 +629,10 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_merchant_navy_add** — mask: country ^m-country-enactment-success-chance-law-merchant-navy-add
 - **country_enactment_success_chance_law_migration_controls_add** — mask: country ^m-country-enactment-success-chance-law-migration-controls-add
 - **country_enactment_success_chance_law_militarized_police_add** — mask: country ^m-country-enactment-success-chance-law-militarized-police-add
+- **country_enactment_success_chance_law_military_bureaucrats_add** — mask: country ^m-country-enactment-success-chance-law-military-bureaucrats-add
 - **country_enactment_success_chance_law_millet_system_add** — mask: country ^m-country-enactment-success-chance-law-millet-system-add
 - **country_enactment_success_chance_law_monarchy_add** — mask: country ^m-country-enactment-success-chance-law-monarchy-add
-- **country_enactment_success_chance_law_multicultural_add** — mask: country ^m-country-enactment-success-chance-law-multicultural-add
+- **country_enactment_success_chance_law_multicultural_add** — Вероятность успешного принятия мультикультурализма · Базовый процент повышения вероятности принятия конкретного закона. · mask: country ^m-country-enactment-success-chance-law-multicultural-add
 - **country_enactment_success_chance_law_national_guard_add** — mask: country ^m-country-enactment-success-chance-law-national-guard-add
 - **country_enactment_success_chance_law_national_militia_add** — mask: country ^m-country-enactment-success-chance-law-national-militia-add
 - **country_enactment_success_chance_law_national_supremacy_add** — mask: country ^m-country-enactment-success-chance-law-national-supremacy-add
@@ -686,13 +641,13 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_no_health_system_add** — mask: country ^m-country-enactment-success-chance-law-no-health-system-add
 - **country_enactment_success_chance_law_no_home_affairs_add** — mask: country ^m-country-enactment-success-chance-law-no-home-affairs-add
 - **country_enactment_success_chance_law_no_migration_controls_add** — mask: country ^m-country-enactment-success-chance-law-no-migration-controls-add
-- **country_enactment_success_chance_law_no_monetary_policy_add** — mask: country ^m-country-enactment-success-chance-law-no-monetary-policy-add
-- **country_enactment_success_chance_law_no_monetary_system_add** — mask: country ^m-country-enactment-success-chance-law-no-monetary-system-add
 - **country_enactment_success_chance_law_no_police_add** — mask: country ^m-country-enactment-success-chance-law-no-police-add
 - **country_enactment_success_chance_law_no_schools_add** — mask: country ^m-country-enactment-success-chance-law-no-schools-add
 - **country_enactment_success_chance_law_no_social_security_add** — mask: country ^m-country-enactment-success-chance-law-no-social-security-add
 - **country_enactment_success_chance_law_no_womens_rights_add** — mask: country ^m-country-enactment-success-chance-law-no-womens-rights-add
 - **country_enactment_success_chance_law_no_workers_rights_add** — mask: country ^m-country-enactment-success-chance-law-no-workers-rights-add
+- **country_enactment_success_chance_law_official_nationality_add** — mask: country ^m-country-enactment-success-chance-law-official-nationality-add
+- **country_enactment_success_chance_law_okhrana_add** — mask: country ^m-country-enactment-success-chance-law-okhrana-add
 - **country_enactment_success_chance_law_old_age_pension_add** — mask: country ^m-country-enactment-success-chance-law-old-age-pension-add
 - **country_enactment_success_chance_law_oligarchy_add** — Вероятность успешного принятия закона «Олигархия» · Базовый процент повышения вероятности принятия конкретного закона. · mask: country ^m-country-enactment-success-chance-law-oligarchy-add
 - **country_enactment_success_chance_law_organic_regulation_add** — mask: country ^m-country-enactment-success-chance-law-organic-regulation-add
@@ -717,15 +672,13 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_regulatory_bodies_add** — mask: country ^m-country-enactment-success-chance-law-regulatory-bodies-add
 - **country_enactment_success_chance_law_religious_schools_add** — mask: country ^m-country-enactment-success-chance-law-religious-schools-add
 - **country_enactment_success_chance_law_restricted_child_labor_add** — mask: country ^m-country-enactment-success-chance-law-restricted-child-labor-add
-- **country_enactment_success_chance_law_revaluation_add** — mask: country ^m-country-enactment-success-chance-law-revaluation-add
+- **country_enactment_success_chance_law_revolutionary_guard_add** — mask: country ^m-country-enactment-success-chance-law-revolutionary-guard-add
 - **country_enactment_success_chance_law_right_of_assembly_add** — mask: country ^m-country-enactment-success-chance-law-right-of-assembly-add
 - **country_enactment_success_chance_law_right_to_associate_add** — mask: country ^m-country-enactment-success-chance-law-right-to-associate-add
 - **country_enactment_success_chance_law_sakoku_add** — mask: country ^m-country-enactment-success-chance-law-sakoku-add
 - **country_enactment_success_chance_law_secret_police_add** — mask: country ^m-country-enactment-success-chance-law-secret-police-add
 - **country_enactment_success_chance_law_serfdom_add** — mask: country ^m-country-enactment-success-chance-law-serfdom-add
 - **country_enactment_success_chance_law_shinsengumi_add** — mask: country ^m-country-enactment-success-chance-law-shinsengumi-add
-- **country_enactment_success_chance_law_silver_exchange_standard_add** — mask: country ^m-country-enactment-success-chance-law-silver-exchange-standard-add
-- **country_enactment_success_chance_law_silver_standard_add** — mask: country ^m-country-enactment-success-chance-law-silver-standard-add
 - **country_enactment_success_chance_law_single_party_state_add** — Вероятность успешного принятия закона «Однопартийное государство» · Базовый процент повышения вероятности принятия конкретного закона. · mask: country ^m-country-enactment-success-chance-law-single-party-state-add
 - **country_enactment_success_chance_law_slave_trade_add** — mask: country ^m-country-enactment-success-chance-law-slave-trade-add
 - **country_enactment_success_chance_law_slavery_banned_add** — mask: country ^m-country-enactment-success-chance-law-slavery-banned-add
@@ -738,6 +691,7 @@ generated: "v3 graph engine"
 - **country_enactment_success_chance_law_tenant_farmers_add** — mask: country ^m-country-enactment-success-chance-law-tenant-farmers-add
 - **country_enactment_success_chance_law_terakoya_add** — mask: country ^m-country-enactment-success-chance-law-terakoya-add
 - **country_enactment_success_chance_law_theocracy_add** — mask: country ^m-country-enactment-success-chance-law-theocracy-add
+- **country_enactment_success_chance_law_third_section_add** — mask: country ^m-country-enactment-success-chance-law-third-section-add
 - **country_enactment_success_chance_law_total_separation_add** — mask: country ^m-country-enactment-success-chance-law-total-separation-add
 - **country_enactment_success_chance_law_traditionalism_add** — mask: country ^m-country-enactment-success-chance-law-traditionalism-add
 - **country_enactment_success_chance_law_universal_suffrage_add** — mask: country ^m-country-enactment-success-chance-law-universal-suffrage-add
@@ -759,6 +713,7 @@ generated: "v3 graph engine"
 - **country_engines_min_import_tariffs_level_add** — mask: country ^m-country-engines-min-import-tariffs-level-add
 - **country_equatorial_bantu_cultural_acceptance_add** — Терпимость к культуре Экваториальные банту · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-equatorial-bantu-cultural-acceptance-add
 - **country_estonian_cultural_acceptance_add** — Терпимость к культуре Эстонцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-estonian-cultural-acceptance-add
+- **country_evenki_cultural_acceptance_add** — Терпимость к культуре Эвенки · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-evenki-cultural-acceptance-add
 - **country_ewe_cultural_acceptance_add** — Терпимость к культуре Эве · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-ewe-cultural-acceptance-add
 - **country_expedition_events_explorer_mult** — Возможности экспедиции · Вероятность того, что будет больше хорошего, чем плохого в экспедиции,, которую организует это государство · mask: country ^m-country-expedition-events-explorer-mult
 - **country_expenses_add** — к правительственным расходам · Базовое увеличение или снижение правительственных расходов. · mask: country ^m-country-expenses-add
@@ -783,6 +738,7 @@ generated: "v3 graph engine"
 - **country_fertilizer_max_import_tariffs_level_add** — mask: country ^m-country-fertilizer-max-import-tariffs-level-add
 - **country_fertilizer_min_export_tariffs_level_add** — mask: country ^m-country-fertilizer-min-export-tariffs-level-add
 - **country_fertilizer_min_import_tariffs_level_add** — mask: country ^m-country-fertilizer-min-import-tariffs-level-add
+- **country_fervor_target_abkhazian_add** — Пропорциональный пыл культуры Абхазцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-abkhazian-add
 - **country_fervor_target_aborigine_add** — Пропорциональный пыл культуры Аборигены · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-aborigine-add
 - **country_fervor_target_afar_add** — Пропорциональный пыл культуры Афары · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-afar-add
 - **country_fervor_target_afro_american_add** — Пропорциональный пыл культуры Афроамериканцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-afro-american-add
@@ -802,7 +758,7 @@ generated: "v3 graph engine"
 - **country_fervor_target_anglo_canadian_add** — Пропорциональный пыл культуры Англо-канадцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-anglo-canadian-add
 - **country_fervor_target_apache_add** — Пропорциональный пыл культуры Апачи · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-apache-add
 - **country_fervor_target_aragonese_add** — Пропорциональный пыл культуры Арагонцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-aragonese-add
-- **country_fervor_target_argentine_add** — Пропорциональный пыл культуры Аргентина · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-argentine-add
+- **country_fervor_target_argentine_add** — Пропорциональный пыл культуры Аргентинцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-argentine-add
 - **country_fervor_target_armenian_add** — Пропорциональный пыл культуры Армяне · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-armenian-add
 - **country_fervor_target_ashkenazi_add** — Пропорциональный пыл культуры Ашкеназы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-ashkenazi-add
 - **country_fervor_target_assamese_add** — Пропорциональный пыл культуры Ассамцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-assamese-add
@@ -843,10 +799,11 @@ generated: "v3 graph engine"
 - **country_fervor_target_buryat_add** — Пропорциональный пыл культуры Буряты · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-buryat-add
 - **country_fervor_target_byelorussian_add** — Пропорциональный пыл культуры Белорусы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-byelorussian-add
 - **country_fervor_target_caddoan_add** — Пропорциональный пыл культуры Каддо · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-caddoan-add
-- **country_fervor_target_cajun_add** — Пропорциональный пыл культуры Каджун · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-cajun-add
+- **country_fervor_target_cajun_add** — Пропорциональный пыл культуры Каджуны · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-cajun-add
 - **country_fervor_target_cariban_add** — Пропорциональный пыл культуры Карибцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-cariban-add
 - **country_fervor_target_caribeno_add** — Пропорциональный пыл культуры Карибеньо · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-caribeno-add
 - **country_fervor_target_catalan_add** — Пропорциональный пыл культуры Каталонцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-catalan-add
+- **country_fervor_target_caucasian_turk_add** — Пропорциональный пыл культуры Кавказские тюрки · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-caucasian-turk-add
 - **country_fervor_target_central_american_add** — Пропорциональный пыл культуры Центральноамериканцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-central-american-add
 - **country_fervor_target_champa_add** — Пропорциональный пыл культуры Тямпцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-champa-add
 - **country_fervor_target_chechen_add** — Пропорциональный пыл культуры Чеченцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-chechen-add
@@ -854,14 +811,17 @@ generated: "v3 graph engine"
 - **country_fervor_target_chewa_add** — Пропорциональный пыл культуры Чева · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-chewa-add
 - **country_fervor_target_chhattisgarhi_add** — Пропорциональный пыл культуры Чхаттисгархи · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-chhattisgarhi-add
 - **country_fervor_target_chilean_add** — Пропорциональный пыл культуры Чилийцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-chilean-add
+- **country_fervor_target_chukchi_add** — Пропорциональный пыл культуры Чукчи · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-chukchi-add
 - **country_fervor_target_chuvash_add** — Пропорциональный пыл культуры Чуваши · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-chuvash-add
 - **country_fervor_target_circassian_add** — Пропорциональный пыл культуры Черкесы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-circassian-add
 - **country_fervor_target_colombian_add** — Пропорциональный пыл культуры Колумбийцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-colombian-add
 - **country_fervor_target_comanche_add** — Пропорциональный пыл культуры Команчи · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-comanche-add
 - **country_fervor_target_corsican_add** — Пропорциональный пыл культуры Корсиканцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-corsican-add
 - **country_fervor_target_cree_add** — Пропорциональный пыл культуры Кри · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-cree-add
+- **country_fervor_target_crimean_tatar_add** — Пропорциональный пыл культуры Крымские татары · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-crimean-tatar-add
 - **country_fervor_target_croat_add** — Пропорциональный пыл культуры Хорваты · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-croat-add
 - **country_fervor_target_czech_add** — Пропорциональный пыл культуры Чехи · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-czech-add
+- **country_fervor_target_dagestani_add** — Пропорциональный пыл культуры Дагестанцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-dagestani-add
 - **country_fervor_target_dakota_add** — Пропорциональный пыл культуры Дакота · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-dakota-add
 - **country_fervor_target_danish_add** — Пропорциональный пыл культуры Датчане · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-danish-add
 - **country_fervor_target_dayak_add** — Пропорциональный пыл культуры Даяки · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-dayak-add
@@ -875,6 +835,7 @@ generated: "v3 graph engine"
 - **country_fervor_target_edo_add** — Пропорциональный пыл культуры Эдо · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-edo-add
 - **country_fervor_target_equatorial_bantu_add** — Пропорциональный пыл культуры Экваториальные банту · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-equatorial-bantu-add
 - **country_fervor_target_estonian_add** — Пропорциональный пыл культуры Эстонцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-estonian-add
+- **country_fervor_target_evenki_add** — Пропорциональный пыл культуры Эвенки · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-evenki-add
 - **country_fervor_target_ewe_add** — Пропорциональный пыл культуры Эве · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-ewe-add
 - **country_fervor_target_fang_add** — Пропорциональный пыл культуры Фанги · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-fang-add
 - **country_fervor_target_filipino_add** — Пропорциональный пыл культуры Филиппинск · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-filipino-add
@@ -928,7 +889,7 @@ generated: "v3 graph engine"
 - **country_fervor_target_kazak_add** — Пропорциональный пыл культуры Казахи · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-kazak-add
 - **country_fervor_target_khmer_add** — Пропорциональный пыл культуры Кхмеры · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-khmer-add
 - **country_fervor_target_khmu_add** — Пропорциональный пыл культуры Кхму · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-khmu-add
-- **country_fervor_target_kho_add** — Пропорциональный пыл культуры Кхо · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-kho-add
+- **country_fervor_target_kho_add** — Пропорциональный пыл культуры Читрали · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-kho-add
 - **country_fervor_target_khoisan_add** — Пропорциональный пыл культуры Койсаны · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-khoisan-add
 - **country_fervor_target_kikuyu_add** — Пропорциональный пыл культуры Кикуйю · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-kikuyu-add
 - **country_fervor_target_kirgiz_add** — Пропорциональный пыл культуры Киргизы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-kirgiz-add
@@ -990,7 +951,6 @@ generated: "v3 graph engine"
 - **country_fervor_target_nilotic_add** — Пропорциональный пыл культуры Нилоты · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-nilotic-add
 - **country_fervor_target_nordestino_add** — Пропорциональный пыл культуры Нордестину · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-nordestino-add
 - **country_fervor_target_north_andean_add** — Пропорциональный пыл культуры Северные андцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-north-andean-add
-- **country_fervor_target_north_caucasian_add** — Пропорциональный пыл культуры Кавказцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-north-caucasian-add
 - **country_fervor_target_north_german_add** — Пропорциональный пыл культуры Северные немцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-north-german-add
 - **country_fervor_target_north_italian_add** — Пропорциональный пыл культуры Северные итальянцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-north-italian-add
 - **country_fervor_target_norwegian_add** — Пропорциональный пыл культуры Норвежцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-norwegian-add
@@ -1001,6 +961,7 @@ generated: "v3 graph engine"
 - **country_fervor_target_oodham_add** — Пропорциональный пыл культуры Оодхам · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-oodham-add
 - **country_fervor_target_oriya_add** — Пропорциональный пыл культуры Ория · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-oriya-add
 - **country_fervor_target_oromo_add** — Пропорциональный пыл культуры Оромо · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-oromo-add
+- **country_fervor_target_ossetian_add** — Пропорциональный пыл культуры Осетины · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-ossetian-add
 - **country_fervor_target_ovimbundu_add** — Пропорциональный пыл культуры Овимбунду · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-ovimbundu-add
 - **country_fervor_target_pahari_add** — Пропорциональный пыл культуры Пахари · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-pahari-add
 - **country_fervor_target_paiute_add** — Пропорциональный пыл культуры Пайюты · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-paiute-add
@@ -1016,7 +977,7 @@ generated: "v3 graph engine"
 - **country_fervor_target_polish_add** — Пропорциональный пыл культуры Поляки · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-polish-add
 - **country_fervor_target_polynesian_add** — Пропорциональный пыл культуры Полинезийцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-polynesian-add
 - **country_fervor_target_portuguese_add** — Пропорциональный пыл культуры Португальцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-portuguese-add
-- **country_fervor_target_promethean_add** — Пропорциональный пыл культуры Прометеевск · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-promethean-add
+- **country_fervor_target_promethean_add** — Пропорциональный пыл культуры Прометеевцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-promethean-add
 - **country_fervor_target_pueblo_add** — Пропорциональный пыл культуры Пуэбло · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-pueblo-add
 - **country_fervor_target_quechua_add** — Пропорциональный пыл культуры Кечуа · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-quechua-add
 - **country_fervor_target_rajput_add** — Пропорциональный пыл культуры Раджпуты · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-rajput-add
@@ -1032,11 +993,10 @@ generated: "v3 graph engine"
 - **country_fervor_target_scottish_gaelic_add** — Пропорциональный пыл культуры Гэлы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-scottish-gaelic-add
 - **country_fervor_target_sena_add** — Пропорциональный пыл культуры Сена · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-sena-add
 - **country_fervor_target_senufo_add** — Пропорциональный пыл культуры Сенуфо · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-senufo-add
-- **country_fervor_target_sephardic_add** — Пропорциональный пыл культуры Сефарды · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-sephardic-add
+- **country_fervor_target_sephardic_add** — Пропорциональный пыл культуры Сефардка · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-sephardic-add
 - **country_fervor_target_serb_add** — Пропорциональный пыл культуры Сербы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-serb-add
 - **country_fervor_target_shan_add** — Пропорциональный пыл культуры Шань · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-shan-add
 - **country_fervor_target_shona_add** — Пропорциональный пыл культуры Шона · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-shona-add
-- **country_fervor_target_siberian_add** — Пропорциональный пыл культуры Сибирцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-siberian-add
 - **country_fervor_target_sidama_add** — Пропорциональный пыл культуры Сидама · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-sidama-add
 - **country_fervor_target_sindi_add** — Пропорциональный пыл культуры Синды · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-sindi-add
 - **country_fervor_target_sinhala_add** — Пропорциональный пыл культуры Сингальцы · Бонус или штраф к [Concept('concept_fervor', 'пылу')] определённой культуры, изменяющийся пропорционально доле [Concept('concept_pop', 'групп населения')] культуры, проживающей в затронутой [Concept('concept_country', 'стране')]. · mask: country ^m-country-fervor-target-sinhala-add
@@ -1104,7 +1064,6 @@ generated: "v3 graph engine"
 - **country_filipino_hispanophone_cultural_acceptance_add** — Терпимость к культуре Филиппинцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-filipino-hispanophone-cultural-acceptance-add
 - **country_filipino_mestizo_cultural_acceptance_add** — Терпимость к культуре Филиппинские местисо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-filipino-mestizo-cultural-acceptance-add
 - **country_financial_districts_buy_farms_likelihood** — Инвестиции финансовых районов в плантации, фермы и сельское хозяйство · Увеличение или уменьшение вероятности инвестиций финансовых районов в такие сооружения, как плантации, фермы и сельское хозяйство · mask: country ^m-country-financial-districts-buy-farms-likelihood
-- **country_financial_product_by_trade_route_mult** — Финансовый продукт по торговому маршруту · Представляет общую долю конкретного типа финансового продукта, который может быть включён в приказ о продаже через импорт · mask: country ^m-country-financial-product-by-trade-route-mult
 - **country_fine_art_export_tariffs_rate_add** — mask: country ^m-country-fine-art-export-tariffs-rate-add
 - **country_fine_art_import_tariffs_rate_add** — mask: country ^m-country-fine-art-import-tariffs-rate-add
 - **country_fine_art_max_export_tariffs_level_add** — mask: country ^m-country-fine-art-max-export-tariffs-level-add
@@ -1201,6 +1160,7 @@ generated: "v3 graph engine"
 - **country_higher_leverage_from_economic_dependence_bool** — Прирост влияния от экономической зависимости · Дополнительный прирост влияния от экономической зависимости. · mask: country ^m-country-higher-leverage-from-economic-dependence-bool
 - **country_hindustani_cultural_acceptance_add** — Терпимость к культуре Хиндустанцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-hindustani-cultural-acceptance-add
 - **country_hokan_cultural_acceptance_add** — Терпимость к культуре Хоканы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-hokan-cultural-acceptance-add
+- **country_homeland_infamy_reduction_bool** — Снижение дурной славы за родные земли · Захват родных земель наших основных культур даёт нам ещё меньше дурной славы · mask: country ^m-country-homeland-infamy-reduction-bool
 - **country_hungarian_cultural_acceptance_add** — Терпимость к культуре Венгры · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-hungarian-cultural-acceptance-add
 - **country_iberian_cultural_acceptance_add** — Терпимость к культуре Иберийцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-iberian-cultural-acceptance-add
 - **country_ibibio_cultural_acceptance_add** — Терпимость к культуре Ибибио · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-ibibio-cultural-acceptance-add
@@ -1222,7 +1182,6 @@ generated: "v3 graph engine"
 - **country_institution_cost_institution_police_mult** — Затраты bur! бюрократии на институт «Правоохранительные органы» · Увеличение или уменьшение bur! бюрократических затрат на распространение эффектов института «Правоохранительные органы» на граждан. · mask: country ^m-country-institution-cost-institution-police-mult
 - **country_institution_cost_institution_schools_mult** — Затраты bur! бюрократии на институт «Образование» · Увеличение или уменьшение bur! бюрократических затрат на распространение эффектов института «Образование» на граждан · mask: country ^m-country-institution-cost-institution-schools-mult
 - **country_institution_cost_institution_social_security_mult** — bur! Затраты бюрократии на институт «Социальная защита» · Увеличение или уменьшение bur! бюрократических затрат на распространение эффектов института «Социальная защита» на граждан · mask: country ^m-country-institution-cost-institution-social-security-mult
-- **country_institution_economic_central_bank_max_investment_add** — Макс. уровень института «Экономическое и банковское управление» · country_institution_economic_central_bank_max_investment_add_desc · mask: country ^m-country-institution-economic-central-bank-max-investment-add
 - **country_institution_health_system_max_investment_add** — к максимальным вложениям в институт «Система здравоохранения» · Бонус или штраф к максимальному уровню института «Система здравоохранения». · mask: country ^m-country-institution-health-system-max-investment-add
 - **country_institution_home_affairs_max_investment_add** — к максимальным вложениям в институт «Министерство внутренних дел» · Бонус или штраф к максимальному уровню института «Министерство внутренних дел». · mask: country ^m-country-institution-home-affairs-max-investment-add
 - **country_institution_impact_institution_health_system_mult** — Влияние института «Система здравоохранения» · Увеличение или уменьшение последствий распространения эффектов института «Система здравоохранения» на граждан. · mask: country ^m-country-institution-impact-institution-health-system-mult
@@ -1234,14 +1193,14 @@ generated: "v3 graph engine"
 - **country_institution_size_change_speed_mult** — к скорости изменения размера института · Насколько быстро вы можете изменить размер института. · mask: country ^m-country-institution-size-change-speed-mult
 - **country_institution_social_security_max_investment_add** — к максимальным вложениям в институт «Социальная защита» · Бонус или штраф к максимальному уровню института «Социальная защита». · mask: country ^m-country-institution-social-security-max-investment-add
 - **country_institution_workplace_safety_max_investment_add** — к максимальным вложениям в институт «Министерство труда» · Бонус или штраф к максимальному уровню института «Министерство труда». · mask: country ^m-country-institution-workplace-safety-max-investment-add
+- **country_interest_tier_engaged_trade_advantage_mult** — к торговому преимуществу при интересе уровня «Участие» · Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Участие» · mask: country ^m-country-interest-tier-engaged-trade-advantage-mult
+- **country_interest_tier_hegemonic_trade_advantage_mult** — к торговому преимуществу при интересе уровня «Гегемония» · Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Гегемония» · mask: country ^m-country-interest-tier-hegemonic-trade-advantage-mult
+- **country_interest_tier_influential_trade_advantage_mult** — к торговому преимуществу при интересе уровня «Влияние» · Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Влияние» · mask: country ^m-country-interest-tier-influential-trade-advantage-mult
+- **country_interest_tier_none_trade_advantage_mult** — к торговому преимуществу при интересе уровня «Отсутствует» · Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Отсутствует» · mask: country ^m-country-interest-tier-none-trade-advantage-mult
+- **country_interest_tier_observant_trade_advantage_mult** — к торговому преимуществу при интересе уровня «Наблюдение» · Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Наблюдение» · mask: country ^m-country-interest-tier-observant-trade-advantage-mult
+- **country_interest_tier_pervasive_trade_advantage_mult** — к торговому преимуществу при интересе уровня «Господство» · Бонус или штраф к приросту торгового преимущества в рыночных столицах, где ваш интерес находится на уровне «Господство» · mask: country ^m-country-interest-tier-pervasive-trade-advantage-mult
 - **country_inuit_cultural_acceptance_add** — Терпимость к культуре Инуиты · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-inuit-cultural-acceptance-add
 - **country_irish_cultural_acceptance_add** — Терпимость к культуре Ирландцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-irish-cultural-acceptance-add
-- **country_iron_construction_export_tariffs_rate_add** — mask: country ^m-country-iron-construction-export-tariffs-rate-add
-- **country_iron_construction_import_tariffs_rate_add** — mask: country ^m-country-iron-construction-import-tariffs-rate-add
-- **country_iron_construction_max_export_tariffs_level_add** — mask: country ^m-country-iron-construction-max-export-tariffs-level-add
-- **country_iron_construction_max_import_tariffs_level_add** — mask: country ^m-country-iron-construction-max-import-tariffs-level-add
-- **country_iron_construction_min_export_tariffs_level_add** — mask: country ^m-country-iron-construction-min-export-tariffs-level-add
-- **country_iron_construction_min_import_tariffs_level_add** — mask: country ^m-country-iron-construction-min-import-tariffs-level-add
 - **country_iron_export_tariffs_rate_add** — mask: country ^m-country-iron-export-tariffs-rate-add
 - **country_iron_import_tariffs_rate_add** — mask: country ^m-country-iron-import-tariffs-rate-add
 - **country_iron_max_export_tariffs_level_add** — mask: country ^m-country-iron-max-export-tariffs-level-add
@@ -1271,7 +1230,7 @@ generated: "v3 graph engine"
 - **country_kazak_cultural_acceptance_add** — Терпимость к культуре Казахи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-kazak-cultural-acceptance-add
 - **country_khmer_cultural_acceptance_add** — Терпимость к культуре Кхмеры · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-khmer-cultural-acceptance-add
 - **country_khmu_cultural_acceptance_add** — Терпимость к культуре Кхму · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-khmu-cultural-acceptance-add
-- **country_kho_cultural_acceptance_add** — Терпимость к культуре Кхо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-kho-cultural-acceptance-add
+- **country_kho_cultural_acceptance_add** — Терпимость к культуре Читрали · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-kho-cultural-acceptance-add
 - **country_khoisan_cultural_acceptance_add** — Терпимость к культуре Койсаны · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-khoisan-cultural-acceptance-add
 - **country_kikuyu_cultural_acceptance_add** — Терпимость к культуре Кикуйю · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-kikuyu-cultural-acceptance-add
 - **country_kirgiz_cultural_acceptance_add** — Терпимость к культуре Киргизы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-kirgiz-cultural-acceptance-add
@@ -1323,13 +1282,7 @@ generated: "v3 graph engine"
 - **country_liberty_desire_decrease_mult** — Уменьшение желания свободы в неделю · Изменяет значение, на которое уменьшается желание свободы в случае его снижения · mask: country ^m-country-liberty-desire-decrease-mult
 - **country_liberty_desire_increase_mult** — Прирост желания свободы в неделю · Изменяет значение, на которое увеличивается желание свободы в случае его роста · mask: country ^m-country-liberty-desire-increase-mult
 - **country_liberty_desire_of_subjects_add** — Желание свободы в неделю для всех субъектов · Увеличение или уменьшение еженедельного прироста желания свободы у всех субъектов сюзерена · mask: country ^m-country-liberty-desire-of-subjects-add
-- **country_limit_officers_qualifications_to_upper_strata** — officers! Офицеры только из высших классов · Квалифицированные officers! Офицеры — это исключительно выходцы из высшего класса · mask: country ^m-country-limit-officers-qualifications-to-upper-strata
-- **country_liquidity_currency_export_tariffs_rate_add** — mask: country ^m-country-liquidity-currency-export-tariffs-rate-add
-- **country_liquidity_currency_import_tariffs_rate_add** — mask: country ^m-country-liquidity-currency-import-tariffs-rate-add
-- **country_liquidity_currency_max_export_tariffs_level_add** — mask: country ^m-country-liquidity-currency-max-export-tariffs-level-add
-- **country_liquidity_currency_max_import_tariffs_level_add** — mask: country ^m-country-liquidity-currency-max-import-tariffs-level-add
-- **country_liquidity_currency_min_export_tariffs_level_add** — mask: country ^m-country-liquidity-currency-min-export-tariffs-level-add
-- **country_liquidity_currency_min_import_tariffs_level_add** — mask: country ^m-country-liquidity-currency-min-import-tariffs-level-add
+- **country_limit_officers_qualifications_to_upper_strata** — officers! Офицеры только из высших классов · Квалифицированные officers! Офицеры — это исключительно выходцы из высшего класса · mask: country ^m-country-limit-officers-qualifications-to-upper-strata
 - **country_liquor_export_tariffs_rate_add** — mask: country ^m-country-liquor-export-tariffs-rate-add
 - **country_liquor_import_tariffs_rate_add** — mask: country ^m-country-liquor-import-tariffs-rate-add
 - **country_liquor_max_export_tariffs_level_add** — mask: country ^m-country-liquor-max-export-tariffs-level-add
@@ -1341,12 +1294,6 @@ generated: "v3 graph engine"
 - **country_loan_interest_rate_mult** — к процентной ставке по займам · Бонус или штраф к процентам по займам. · mask: country ^m-country-loan-interest-rate-mult
 - **country_lobby_leverage_generation_mult** — Прирост влияния от политических лобби · Увеличение или уменьшение количества влияния от политических лобби, действующих в пользу лидера блока · mask: country ^m-country-lobby-leverage-generation-mult
 - **country_lobby_support** — Поддержка лобби · Бонус или штраф к вероятности того, что заинтересованная группа не покинет своё политическое лобби · mask: country ^m-country-lobby-support
-- **country_local_currency_export_tariffs_rate_add** — mask: country ^m-country-local-currency-export-tariffs-rate-add
-- **country_local_currency_import_tariffs_rate_add** — mask: country ^m-country-local-currency-import-tariffs-rate-add
-- **country_local_currency_max_export_tariffs_level_add** — mask: country ^m-country-local-currency-max-export-tariffs-level-add
-- **country_local_currency_max_import_tariffs_level_add** — mask: country ^m-country-local-currency-max-import-tariffs-level-add
-- **country_local_currency_min_export_tariffs_level_add** — mask: country ^m-country-local-currency-min-export-tariffs-level-add
-- **country_local_currency_min_import_tariffs_level_add** — mask: country ^m-country-local-currency-min-import-tariffs-level-add
 - **country_lomwe_cultural_acceptance_add** — Терпимость к культуре Ломве · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-lomwe-cultural-acceptance-add
 - **country_loyalism_increases_cultural_erasure_mult** — Рост лоялизма среди обладателей статуса acceptance_status_2! «Вымывание культуры» · Бонус или штраф к росту лоялизма среди групп населения с данным статусом · mask: country ^m-country-loyalism-increases-cultural-erasure-mult
 - **country_loyalism_increases_full_acceptance_mult** — Рост лоялизма среди обладателей статуса acceptance_status_5! «Полное принятие» · Бонус или штраф к росту лоялизма среди групп населения с данным статусом · mask: country ^m-country-loyalism-increases-full-acceptance-mult
@@ -1390,12 +1337,6 @@ generated: "v3 graph engine"
 - **country_manowars_max_import_tariffs_level_add** — mask: country ^m-country-manowars-max-import-tariffs-level-add
 - **country_manowars_min_export_tariffs_level_add** — mask: country ^m-country-manowars-min-export-tariffs-level-add
 - **country_manowars_min_import_tariffs_level_add** — mask: country ^m-country-manowars-min-import-tariffs-level-add
-- **country_manufacture_stock_export_tariffs_rate_add** — mask: country ^m-country-manufacture-stock-export-tariffs-rate-add
-- **country_manufacture_stock_import_tariffs_rate_add** — mask: country ^m-country-manufacture-stock-import-tariffs-rate-add
-- **country_manufacture_stock_max_export_tariffs_level_add** — mask: country ^m-country-manufacture-stock-max-export-tariffs-level-add
-- **country_manufacture_stock_max_import_tariffs_level_add** — mask: country ^m-country-manufacture-stock-max-import-tariffs-level-add
-- **country_manufacture_stock_min_export_tariffs_level_add** — mask: country ^m-country-manufacture-stock-min-export-tariffs-level-add
-- **country_manufacture_stock_min_import_tariffs_level_add** — mask: country ^m-country-manufacture-stock-min-import-tariffs-level-add
 - **country_maori_cultural_acceptance_add** — Терпимость к культуре Маори · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-maori-cultural-acceptance-add
 - **country_marathi_cultural_acceptance_add** — Терпимость к культуре Маратхи · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-marathi-cultural-acceptance-add
 - **country_mari_cultural_acceptance_add** — Терпимость к культуре Марийцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-mari-cultural-acceptance-add
@@ -1430,12 +1371,6 @@ generated: "v3 graph engine"
 - **country_military_tech_spread_mult** — к распространению военных технологий · Скорость, с которой мы перенимаем у других государств военные технологии. · mask: country ^m-country-military-tech-spread-mult
 - **country_military_wages_mult** — к военным зарплатам · Насколько зарплата сотрудников военных ведомств больше или меньше средней. · mask: country ^m-country-military-wages-mult
 - **country_min_cultural_acceptance_add** — Терпимость к культуре Минь · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-min-cultural-acceptance-add
-- **country_mining_stock_export_tariffs_rate_add** — mask: country ^m-country-mining-stock-export-tariffs-rate-add
-- **country_mining_stock_import_tariffs_rate_add** — mask: country ^m-country-mining-stock-import-tariffs-rate-add
-- **country_mining_stock_max_export_tariffs_level_add** — mask: country ^m-country-mining-stock-max-export-tariffs-level-add
-- **country_mining_stock_max_import_tariffs_level_add** — mask: country ^m-country-mining-stock-max-import-tariffs-level-add
-- **country_mining_stock_min_export_tariffs_level_add** — mask: country ^m-country-mining-stock-min-export-tariffs-level-add
-- **country_mining_stock_min_import_tariffs_level_add** — mask: country ^m-country-mining-stock-min-import-tariffs-level-add
 - **country_minting_add** — к денежному производству · Базовый рост или снижение денежного производства. · mask: country ^m-country-minting-add
 - **country_minting_mult** — к денежному производству · Бонус или штраф к количеству производимых денег. · mask: country ^m-country-minting-mult
 - **country_miskito_cultural_acceptance_add** — Терпимость к культуре Мискиты · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-miskito-cultural-acceptance-add
@@ -1451,12 +1386,6 @@ generated: "v3 graph engine"
 - **country_muisca_cultural_acceptance_add** — Терпимость к культуре Муиски · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-muisca-cultural-acceptance-add
 - **country_muskogean_cultural_acceptance_add** — Терпимость к культуре Маскоги · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-muskogean-cultural-acceptance-add
 - **country_must_have_movement_to_enact_laws_bool** — Для принятия законов требуется политическое движение · Штраф, запрещающий стране принимать какие-либо законы без поддержки политического движения · mask: country ^m-country-must-have-movement-to-enact-laws-bool
-- **country_mutual_funds_export_tariffs_rate_add** — mask: country ^m-country-mutual-funds-export-tariffs-rate-add
-- **country_mutual_funds_import_tariffs_rate_add** — mask: country ^m-country-mutual-funds-import-tariffs-rate-add
-- **country_mutual_funds_max_export_tariffs_level_add** — mask: country ^m-country-mutual-funds-max-export-tariffs-level-add
-- **country_mutual_funds_max_import_tariffs_level_add** — mask: country ^m-country-mutual-funds-max-import-tariffs-level-add
-- **country_mutual_funds_min_export_tariffs_level_add** — mask: country ^m-country-mutual-funds-min-export-tariffs-level-add
-- **country_mutual_funds_min_import_tariffs_level_add** — mask: country ^m-country-mutual-funds-min-import-tariffs-level-add
 - **country_naga_cultural_acceptance_add** — Терпимость к культуре Нага · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-naga-cultural-acceptance-add
 - **country_nahua_cultural_acceptance_add** — Терпимость к культуре Науа · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-nahua-cultural-acceptance-add
 - **country_nationalization_cost_non_members_mult** — к стоимости национализации · Увеличение или уменьшение стоимости национализации сооружений, принадлежащих стране, не входящей в ваш блок государств · mask: country ^m-country-nationalization-cost-non-members-mult
@@ -1470,7 +1399,6 @@ generated: "v3 graph engine"
 - **country_non_state_religion_wages_mult** — к зарплатам населения, не исповедующего государственную религию · Насколько зарплаты населения, не исповедующего государственную религию, отличаются от обычных. · mask: country ^m-country-non-state-religion-wages-mult
 - **country_nordestino_cultural_acceptance_add** — Терпимость к культуре Нордестину · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-nordestino-cultural-acceptance-add
 - **country_north_andean_cultural_acceptance_add** — Терпимость к культуре Северные андцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-north-andean-cultural-acceptance-add
-- **country_north_caucasian_cultural_acceptance_add** — Терпимость к культуре Кавказцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-north-caucasian-cultural-acceptance-add
 - **country_north_german_cultural_acceptance_add** — Терпимость к культуре Северные немцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-north-german-cultural-acceptance-add
 - **country_north_italian_cultural_acceptance_add** — Терпимость к культуре Северные итальянцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-north-italian-cultural-acceptance-add
 - **country_norwegian_cultural_acceptance_add** — Терпимость к культуре Норвежцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-norwegian-cultural-acceptance-add
@@ -1496,7 +1424,13 @@ generated: "v3 graph engine"
 - **country_opposition_ig_approval_add** — к одобрению заинтересованной группы оппозиции · Бонус или штраф к вероятности одобрения заинтересованными группами оппозиции. · mask: country ^m-country-opposition-ig-approval-add
 - **country_oriya_cultural_acceptance_add** — Терпимость к культуре Ория · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-oriya-cultural-acceptance-add
 - **country_oromo_cultural_acceptance_add** — Терпимость к культуре Оромо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-oromo-cultural-acceptance-add
+- **country_ossetian_cultural_acceptance_add** — Терпимость к культуре Осетины · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-ossetian-cultural-acceptance-add
+- **country_other_country_socialist_economy_hostility_impact_add** — Влияние социалистической экономики на враждебность · Увеличение или уменьшение враждебности других стран к экономике этой страны при оценке стратегии, дипломатических игр и договоров · mask: country ^m-country-other-country-socialist-economy-hostility-impact-add
+- **country_other_country_socialist_economy_hostility_impact_mult** — Влияние социалистической экономики на враждебность · Увеличение или уменьшение враждебности других стран к экономике этой страны при оценке стратегии, дипломатических игр и договоров · mask: country ^m-country-other-country-socialist-economy-hostility-impact-mult
+- **country_other_country_socialist_government_hostility_impact_add** — Влияние социалистического правительства на враждебность · Увеличение или уменьшение враждебности других стран к правительству этой страны при оценке стратегии, дипломатических игр и договоров · mask: country ^m-country-other-country-socialist-government-hostility-impact-add
+- **country_other_country_socialist_government_hostility_impact_mult** — Влияние социалистического правительства на враждебность · Увеличение или уменьшение враждебности других стран к правительству этой страны при оценке стратегии, дипломатических игр и договоров · mask: country ^m-country-other-country-socialist-government-hostility-impact-mult
 - **country_overlord_income_transfer_mult** — Передача доходов сюзерену · Увеличение или уменьшение суммы денег, которую субъект должен отдавать сюзерену · mask: country ^m-country-overlord-income-transfer-mult
+- **country_overlord_law_enactment_success_add** — Юридическая поддержка сюзерена · Базовый процент повышения вероятности принятия закона, который уже есть у сюзерена этой страны. · mask: country ^m-country-overlord-law-enactment-success-add
 - **country_ovimbundu_cultural_acceptance_add** — Терпимость к культуре Овимбунду · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-ovimbundu-cultural-acceptance-add
 - **country_pact_leverage_generation_add** — Прирост влияния от дипломатических пактов · Увеличение или уменьшение количества влияния, появляющегося между двумя странами, подписавшими дипломатический пакт, если доминирующая страна в пакте является лидером блока · mask: country ^m-country-pact-leverage-generation-add
 - **country_pact_leverage_generation_mult** — Прирост влияния от дипломатических пактов · Увеличение или уменьшение количества влияния, появляющегося между двумя странами, подписавшими дипломатический пакт, если доминирующая страна в пакте является лидером блока · mask: country ^m-country-pact-leverage-generation-mult
@@ -1534,8 +1468,9 @@ generated: "v3 graph engine"
 - **country_porcelain_max_import_tariffs_level_add** — mask: country ^m-country-porcelain-max-import-tariffs-level-add
 - **country_porcelain_min_export_tariffs_level_add** — mask: country ^m-country-porcelain-min-export-tariffs-level-add
 - **country_porcelain_min_import_tariffs_level_add** — mask: country ^m-country-porcelain-min-import-tariffs-level-add
-- **country_port_connection_cost_mult** — Затраты merchant_marine! торговых кораблей на связь порта · Увеличение или уменьшение спроса на торговые корабли, необходимые для поддержания связи порта. · mask: country ^m-country-port-connection-cost-mult
+- **country_port_connection_cost_mult** — Затраты merchant_marine! торговых кораблей на связь порта · Увеличение или уменьшение спроса на merchant_marine! Торговые корабли, необходимые для поддержания связи порта. · mask: country ^m-country-port-connection-cost-mult
 - **country_portuguese_cultural_acceptance_add** — Терпимость к культуре Португальцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-portuguese-cultural-acceptance-add
+- **country_power_bloc_formation_mandates_add** — Мандаты при создании блока государств · Дополнительные мандаты для получения принципов при создании блока государств. Блок сохраняет любые неизрасходованные мандаты. · mask: country ^m-country-power-bloc-formation-mandates-add
 - **country_prestige_add** — к престижу · Престиж государства. · mask: country ^m-country-prestige-add
 - **country_prestige_from_army_power_projection_mult** — Престиж от демонстрации силы армии · Увеличение или уменьшение количества престижа, который страна получает от демонстрации силы армии. · mask: country ^m-country-prestige-from-army-power-projection-mult
 - **country_prestige_from_navy_power_projection_mult** — Престиж от демонстрации силы флота · Увеличение или уменьшение количества престижа, который страна получает от демонстрации силы флота. · mask: country ^m-country-prestige-from-navy-power-projection-mult
@@ -1544,7 +1479,7 @@ generated: "v3 graph engine"
 - **country_private_construction_allocation_mult** — Доля частного строительства · Увеличение или уменьшение доли недельного строительства, которая будет отведена под частное строительство в ущерб государственному. · mask: country ^m-country-private-construction-allocation-mult
 - **country_production_tech_research_speed_mult** — Скорость изучения производственных технологий · Бонус или штраф к скорости изучения производственных технологий при расходовании инноваций · mask: country ^m-country-production-tech-research-speed-mult
 - **country_production_tech_spread_mult** — к распространению производственных технологий · Скорость, с которой мы перенимаем у других государств производственные технологии. · mask: country ^m-country-production-tech-spread-mult
-- **country_promethean_cultural_acceptance_add** — Терпимость к культуре Прометеевск · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-promethean-cultural-acceptance-add
+- **country_promethean_cultural_acceptance_add** — Терпимость к культуре Прометеевцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-promethean-cultural-acceptance-add
 - **country_pueblo_cultural_acceptance_add** — Терпимость к культуре Пуэбло · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-pueblo-cultural-acceptance-add
 - **country_qualification_growth_cultural_erasure_mult** — Ежемесячное повышение квалификации обладателей статуса acceptance_status_2! «Вымывание культуры» · Бонус или штраф к ежемесячному повышению квалификации обладателей статуса acceptance_status_2! «Вымывание культуры» · mask: country ^m-country-qualification-growth-cultural-erasure-mult
 - **country_qualification_growth_full_acceptance_mult** — Ежемесячное повышение квалификации обладателей статуса acceptance_status_5! «Полное принятие» · Бонус или штраф к ежемесячному повышению квалификации обладателей статуса acceptance_status_5! «Полное принятие» · mask: country ^m-country-qualification-growth-full-acceptance-mult
@@ -1565,19 +1500,18 @@ generated: "v3 graph engine"
 - **country_radios_max_import_tariffs_level_add** — mask: country ^m-country-radios-max-import-tariffs-level-add
 - **country_radios_min_export_tariffs_level_add** — mask: country ^m-country-radios-min-export-tariffs-level-add
 - **country_radios_min_import_tariffs_level_add** — mask: country ^m-country-radios-min-import-tariffs-level-add
-- **country_railroad_stock_export_tariffs_rate_add** — mask: country ^m-country-railroad-stock-export-tariffs-rate-add
-- **country_railroad_stock_import_tariffs_rate_add** — mask: country ^m-country-railroad-stock-import-tariffs-rate-add
-- **country_railroad_stock_max_export_tariffs_level_add** — mask: country ^m-country-railroad-stock-max-export-tariffs-level-add
-- **country_railroad_stock_max_import_tariffs_level_add** — mask: country ^m-country-railroad-stock-max-import-tariffs-level-add
-- **country_railroad_stock_min_export_tariffs_level_add** — mask: country ^m-country-railroad-stock-min-export-tariffs-level-add
-- **country_railroad_stock_min_import_tariffs_level_add** — mask: country ^m-country-railroad-stock-min-import-tariffs-level-add
 - **country_rajput_cultural_acceptance_add** — Терпимость к культуре Раджпуты · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-rajput-cultural-acceptance-add
 - **country_reduced_liberty_desire_same_religion_bool** — Сниженное желание свободы у страны с той же религией · Субъекты с той же государственной религией будут постепенно терять желание свободы. · mask: country ^m-country-reduced-liberty-desire-same-religion-bool
+- **country_reform_or_revolution_reform_bonus_add** — Пропорциональный прогресс реформистов в записи «Реформа или революция» · Увеличение или уменьшение ежемесячного прогресса в пользу реформизма в записи в дневнике «Реформа или революция» пропорционально силе социалистического движения или социалистической партии страны · mask: country ^m-country-reform-or-revolution-reform-bonus-add
+- **country_reform_or_revolution_revolution_bonus_add** — Пропорциональный прогресс революционеров в записи «Реформа или революция» · Увеличение или уменьшение ежемесячного прогресса в пользу революции в записи в дневнике «Реформа или революция» пропорционально силе социалистического движения или социалистической партии страны · mask: country ^m-country-reform-or-revolution-revolution-bonus-add
 - **country_resource_depletion_chance_mult** — к шансу истощения ресурсов · Повышает вероятность истощения ресурсного потенциала. · mask: country ^m-country-resource-depletion-chance-mult
 - **country_resource_discovery_chance_mult** — к шансу обнаружения ресурсов · Повышает вероятность обнаружения скрытого ресурсного потенциала. · mask: country ^m-country-resource-discovery-chance-mult
 - **country_revolution_clock_time_add** — Счётчик революции · Бонус или штраф к скорости счётчика революции · mask: country ^m-country-revolution-clock-time-add
 - **country_revolution_progress_add** — к скорости прогресса революции · Бонус или штраф к прогрессу революции, добавляемому, когда счётчик революции достигает отметки 12 · mask: country ^m-country-revolution-progress-add
 - **country_revolution_progress_mult** — к скорости прогресса революции · Бонус или штраф к прогрессу революции, добавляемому, когда счётчик революции достигает отметки 12 · mask: country ^m-country-revolution-progress-mult
+- **country_rlit_censorship_severity_add** — Литературная цензура · country_rlit_censorship_severity_add_desc · mask: country ^m-country-rlit-censorship-severity-add
+- **country_rlit_cultural_prestige_add** — Литературный престиж · country_rlit_cultural_prestige_add_desc · mask: country ^m-country-rlit-cultural-prestige-add
+- **country_rlit_intellectual_freedom_add** — Интеллектуальная свобода · country_rlit_intellectual_freedom_add_desc · mask: country ^m-country-rlit-intellectual-freedom-add
 - **country_romanian_cultural_acceptance_add** — Терпимость к культуре Румыны · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-romanian-cultural-acceptance-add
 - **country_ruanda_cultural_acceptance_add** — Терпимость к культуре Руанда · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-ruanda-cultural-acceptance-add
 - **country_rubber_export_tariffs_rate_add** — mask: country ^m-country-rubber-export-tariffs-rate-add
@@ -1600,7 +1534,7 @@ generated: "v3 graph engine"
 - **country_secession_progress_mult** — к скорости прогресса отделения · Бонус или штраф к прогрессу отделения, добавляемому, когда счётчик отделения достигает отметки 12 · mask: country ^m-country-secession-progress-mult
 - **country_sena_cultural_acceptance_add** — Терпимость к культуре Сена · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-sena-cultural-acceptance-add
 - **country_senufo_cultural_acceptance_add** — Терпимость к культуре Сенуфо · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-senufo-cultural-acceptance-add
-- **country_sephardic_cultural_acceptance_add** — Терпимость к культуре Сефарды · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-sephardic-cultural-acceptance-add
+- **country_sephardic_cultural_acceptance_add** — Терпимость к культуре Сефардка · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-sephardic-cultural-acceptance-add
 - **country_serb_cultural_acceptance_add** — Терпимость к культуре Сербы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-serb-cultural-acceptance-add
 - **country_services_export_tariffs_rate_add** — mask: country ^m-country-services-export-tariffs-rate-add
 - **country_services_import_tariffs_rate_add** — mask: country ^m-country-services-import-tariffs-rate-add
@@ -1609,6 +1543,7 @@ generated: "v3 graph engine"
 - **country_services_min_export_tariffs_level_add** — mask: country ^m-country-services-min-export-tariffs-level-add
 - **country_services_min_import_tariffs_level_add** — mask: country ^m-country-services-min-import-tariffs-level-add
 - **country_shan_cultural_acceptance_add** — Терпимость к культуре Шань · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-shan-cultural-acceptance-add
+- **country_shared_language_infamy_reduction_bool** — Снижение дурной славы за общий язык · Захват родных земель культур с тем же языком, что у наших основных, даёт нам ещё меньше дурной славы · mask: country ^m-country-shared-language-infamy-reduction-bool
 - **country_ship_construction_add** — ship_construction! Кораблестроение · Объём ship_construction! строительства, который страна может выделять на кораблестроение каждую неделю · mask: country ^m-country-ship-construction-add
 - **country_ship_construction_efficiency_add** — Эффективность кораблестроения · Эффективность всего ship_construction! кораблестроения, влияет на то, сколько единиц кораблестроения расходуется на единицу прогресса · mask: country ^m-country-ship-construction-efficiency-add
 - **country_ship_construction_goods_cost_mult** — Стоимость товаров для кораблестроения · Бонус или штраф к денежной стоимости материалов для нужд кораблестроения. · mask: country ^m-country-ship-construction-goods-cost-mult
@@ -1631,6 +1566,7 @@ generated: "v3 graph engine"
 - **country_ship_type_destroyer_construction_efficiency_add** — mask: country ^m-country-ship-type-destroyer-construction-efficiency-add
 - **country_ship_type_dreadnought_construction_efficiency_add** — mask: country ^m-country-ship-type-dreadnought-construction-efficiency-add
 - **country_ship_type_early_ironclad_construction_efficiency_add** — mask: country ^m-country-ship-type-early-ironclad-construction-efficiency-add
+- **country_ship_type_early_troop_ship_construction_efficiency_add** — Эффективность строительства ранних войсковых транспортов · Эффективность ship_construction! строительства ранних войсковых транспортов · mask: country ^m-country-ship-type-early-troop-ship-construction-efficiency-add
 - **country_ship_type_frigate_construction_efficiency_add** — mask: country ^m-country-ship-type-frigate-construction-efficiency-add
 - **country_ship_type_iron_frigate_construction_efficiency_add** — mask: country ^m-country-ship-type-iron-frigate-construction-efficiency-add
 - **country_ship_type_light_cruiser_construction_efficiency_add** — Эффективность строительства лёгких крейсеров · Эффективность ship_construction! строительства лёгких крейсеров · mask: country ^m-country-ship-type-light-cruiser-construction-efficiency-add
@@ -1658,7 +1594,6 @@ generated: "v3 graph engine"
 - **country_shudras_qualification_growth_mult** — Рост квалификации касты шудр · Процентный рост или снижение роста квалификации касты шудр · mask: country ^m-country-shudras-qualification-growth-mult
 - **country_shudras_qualification_growth_other_class_mult** — Рост квалификации шудр вне касты шудр · Процентный рост или снижение роста квалификации касты шудр для получения профессий в других социальных слоях · mask: country ^m-country-shudras-qualification-growth-other-class-mult
 - **country_shudras_qualification_growth_same_class_mult** — Рост квалификации в касте шудр · Процентный рост или снижение роста квалификации касты шудр для получения профессий в той же касте · mask: country ^m-country-shudras-qualification-growth-same-class-mult
-- **country_siberian_cultural_acceptance_add** — Терпимость к культуре Сибирцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-siberian-cultural-acceptance-add
 - **country_sidama_cultural_acceptance_add** — Терпимость к культуре Сидама · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-sidama-cultural-acceptance-add
 - **country_silk_export_tariffs_rate_add** — mask: country ^m-country-silk-export-tariffs-rate-add
 - **country_silk_import_tariffs_rate_add** — mask: country ^m-country-silk-import-tariffs-rate-add
@@ -1666,12 +1601,6 @@ generated: "v3 graph engine"
 - **country_silk_max_import_tariffs_level_add** — mask: country ^m-country-silk-max-import-tariffs-level-add
 - **country_silk_min_export_tariffs_level_add** — mask: country ^m-country-silk-min-export-tariffs-level-add
 - **country_silk_min_import_tariffs_level_add** — mask: country ^m-country-silk-min-import-tariffs-level-add
-- **country_silver_export_tariffs_rate_add** — mask: country ^m-country-silver-export-tariffs-rate-add
-- **country_silver_import_tariffs_rate_add** — mask: country ^m-country-silver-import-tariffs-rate-add
-- **country_silver_max_export_tariffs_level_add** — mask: country ^m-country-silver-max-export-tariffs-level-add
-- **country_silver_max_import_tariffs_level_add** — mask: country ^m-country-silver-max-import-tariffs-level-add
-- **country_silver_min_export_tariffs_level_add** — mask: country ^m-country-silver-min-export-tariffs-level-add
-- **country_silver_min_import_tariffs_level_add** — mask: country ^m-country-silver-min-import-tariffs-level-add
 - **country_sindi_cultural_acceptance_add** — Терпимость к культуре Синды · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-sindi-cultural-acceptance-add
 - **country_sinhala_cultural_acceptance_add** — Терпимость к культуре Сингальцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-sinhala-cultural-acceptance-add
 - **country_siouan_cultural_acceptance_add** — Терпимость к культуре Сиуаны · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-siouan-cultural-acceptance-add
@@ -1709,12 +1638,6 @@ generated: "v3 graph engine"
 - **country_steamers_max_import_tariffs_level_add** — mask: country ^m-country-steamers-max-import-tariffs-level-add
 - **country_steamers_min_export_tariffs_level_add** — mask: country ^m-country-steamers-min-export-tariffs-level-add
 - **country_steamers_min_import_tariffs_level_add** — mask: country ^m-country-steamers-min-import-tariffs-level-add
-- **country_steel_construction_export_tariffs_rate_add** — mask: country ^m-country-steel-construction-export-tariffs-rate-add
-- **country_steel_construction_import_tariffs_rate_add** — mask: country ^m-country-steel-construction-import-tariffs-rate-add
-- **country_steel_construction_max_export_tariffs_level_add** — mask: country ^m-country-steel-construction-max-export-tariffs-level-add
-- **country_steel_construction_max_import_tariffs_level_add** — mask: country ^m-country-steel-construction-max-import-tariffs-level-add
-- **country_steel_construction_min_export_tariffs_level_add** — mask: country ^m-country-steel-construction-min-export-tariffs-level-add
-- **country_steel_construction_min_import_tariffs_level_add** — mask: country ^m-country-steel-construction-min-import-tariffs-level-add
 - **country_steel_export_tariffs_rate_add** — mask: country ^m-country-steel-export-tariffs-rate-add
 - **country_steel_import_tariffs_rate_add** — mask: country ^m-country-steel-import-tariffs-rate-add
 - **country_steel_max_export_tariffs_level_add** — mask: country ^m-country-steel-max-export-tariffs-level-add
@@ -1908,7 +1831,9 @@ generated: "v3 graph engine"
 - **country_wage_second_rate_citizen_mult** — Зарплата обладателей статуса acceptance_status_4! «Граждане второго сорта» · Бонус или штраф к зарплатам обладателей статуса acceptance_status_4! «Граждане второго сорта». Это значение влияет как на текущую, так и на целевую зарплату · mask: country ^m-country-wage-second-rate-citizen-mult
 - **country_wage_violent_hostility_mult** — Зарплата обладателей статуса acceptance_status_1! «Ожесточённая неприязнь» · Бонус или штраф к зарплатам обладателей статуса acceptance_status_1! «Ожесточённая неприязнь». Это значение влияет как на текущую, так и на целевую зарплату · mask: country ^m-country-wage-violent-hostility-mult
 - **country_wallonian_cultural_acceptance_add** — Терпимость к культуре Валлонцы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-wallonian-cultural-acceptance-add
-- **country_war_exhaustion_casualties_mult** — к утомлению войной от потерь · Увеличение или уменьшение утомления войной от потерь, понесённых страной в ходе войны · mask: country ^m-country-war-exhaustion-casualties-mult
+- **country_war_support_battles_decrease_mult** — к воинственности от проигранного сражения · Увеличение или уменьшение количества воинственности, теряемого страной в ходе войны за поражение в сражении. · mask: country ^m-country-war-support-battles-decrease-mult
+- **country_war_support_battles_increase_mult** — к воинственности от выигранного сражения · Увеличение или уменьшение количества воинственности, получаемого страной в ходе войны за победу в сражении. · mask: country ^m-country-war-support-battles-increase-mult
+- **country_war_support_casualties_mult** — к воинственности от потерь · Увеличение или уменьшение воинственности от потерь, понесённых страной в ходе войны · mask: country ^m-country-war-support-casualties-mult
 - **country_weekly_innovation_add** — к инновации · Еженедельный прирост или убыток innovation! инновации · mask: country ^m-country-weekly-innovation-add
 - **country_weekly_innovation_max_add** — к максимальным вложениям в инновации · Максимальное количество innovation! инновации, которую можно вложить в развитие технологий на каждой неделе · mask: country ^m-country-weekly-innovation-max-add
 - **country_weekly_innovation_mult** — к инновации · Еженедельный прирост или убыток innovation! инновации · mask: country ^m-country-weekly-innovation-mult
@@ -1920,12 +1845,6 @@ generated: "v3 graph engine"
 - **country_wine_min_export_tariffs_level_add** — mask: country ^m-country-wine-min-export-tariffs-level-add
 - **country_wine_min_import_tariffs_level_add** — mask: country ^m-country-wine-min-import-tariffs-level-add
 - **country_wolof_cultural_acceptance_add** — Терпимость к культуре Волофы · Бонус или штраф к [Concept('concept_acceptance', 'терпимости')] к представителям определённой культуры. · mask: country ^m-country-wolof-cultural-acceptance-add
-- **country_wood_construction_export_tariffs_rate_add** — mask: country ^m-country-wood-construction-export-tariffs-rate-add
-- **country_wood_construction_import_tariffs_rate_add** — mask: country ^m-country-wood-construction-import-tariffs-rate-add
-- **country_wood_construction_max_export_tariffs_level_add** — mask: country ^m-country-wood-construction-max-export-tariffs-level-add
-- **country_wood_construction_max_import_tariffs_level_add** — mask: country ^m-country-wood-construction-max-import-tariffs-level-add
-- **country_wood_construction_min_export_tariffs_level_add** — mask: country ^m-country-wood-construction-min-export-tariffs-level-add
-- **country_wood_construction_min_import_tariffs_level_add** — mask: country ^m-country-wood-construction-min-import-tariffs-level-add
 - **country_wood_export_tariffs_rate_add** — mask: country ^m-country-wood-export-tariffs-rate-add
 - **country_wood_import_tariffs_rate_add** — mask: country ^m-country-wood-import-tariffs-rate-add
 - **country_wood_max_export_tariffs_level_add** — mask: country ^m-country-wood-max-export-tariffs-level-add

@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Эффекты K — 8, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Эффекты K — 8, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Эффекты K
 
-Из дампа `effects.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `effects.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **kill_character** — Kill a character } · `kill_character = bool (yes - kill [by default], no - don't do anything) kill_character = { hidden = bool (yes - without notification; no - show notification [by default]) value = bool (yes - kill [by…` · supported scopes: character ^e-kill-character
 - **kill_crew** — Kills a given amount of a ship's crew · `kill_crew = 20` · supported scopes: ship ^e-kill-crew

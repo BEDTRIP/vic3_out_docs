@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Перевозка (pmg_transportation_building_logging_camp)» — ваниль 1.15, `pmg_transportation_building_logging_camp`"
+description: "Группа методов производства «Перевозка (pmg_transportation_building_logging_camp)» — ваниль 1.15.2, `pmg_transportation_building_logging_camp`"
 project: vic3
 audience: agent
 source: vanilla

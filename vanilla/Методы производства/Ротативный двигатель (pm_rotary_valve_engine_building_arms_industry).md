@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — ваниль 1.15, `pm_rotary_valve_engine_building_arms_industry`"
+description: "Метод производства «Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)» — ваниль 1.15.2, `pm_rotary_valve_engine_building_arms_industry`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/production_methods/01_industry.txt]
 ---
 # Ротативный двигатель (pm_rotary_valve_engine_building_arms_industry)
 
-Метод производства · `pm_rotary_valve_engine_building_arms_industry` · `common/production_methods/01_industry.txt:2595`
+Метод производства · `pm_rotary_valve_engine_building_arms_industry` · `common/production_methods/01_industry.txt:2594`
 
 ## Поля
 

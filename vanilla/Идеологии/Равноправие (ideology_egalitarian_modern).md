@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Равноправие (ideology_egalitarian_modern)» — ваниль 1.15, `ideology_egalitarian_modern`"
+description: "Идеология «Равноправие (ideology_egalitarian_modern)» — ваниль 1.15.2, `ideology_egalitarian_modern`"
 project: vic3
 audience: agent
 source: vanilla
@@ -18,15 +18,25 @@ paths: [.vanillaVIC3/common/ideologies/00_ig_ideologies_event.txt]
 
 - **icon**: `gfx/interface/icons/ideology_icons/egalitarian.dds`
 - **priority**: `100`
+- **lawgroup_caste_hegemony**:
+  - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_disapprove`
+  - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `strongly_disapprove`
+  - [[vanilla/Законы/Необязательная кастовая система|Необязательная кастовая система]] = `neutral`
+  - [[vanilla/Законы/Позитивная дискриминация|Позитивная дискриминация]] = `approve`
+- **lawgroup_edo_social_system**:
+  - [[vanilla/Законы/Строгая сословная иерархия|Строгая сословная иерархия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Смягчённая сословная иерархия|Смягчённая сословная иерархия]] = `disapprove`
+  - [[vanilla/Законы/Гибкая сословная иерархия|Гибкая сословная иерархия]] = `strongly_approve`
+- **lawgroup_education_system**:
+  - [[vanilla/Законы/Государственные школы|Государственные школы]] = `approve`
+  - [[vanilla/Законы/Частные школы|Частные школы]] = `disapprove`
+  - [[vanilla/Законы/Религиозные школы|Религиозные школы]] = `neutral`
+  - [[vanilla/Законы/Нет школ|Нет школ]] = `disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `strongly_approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `approve`
   - [[vanilla/Законы/Цензура|Цензура]] = `neutral`
   - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `disapprove`
-- **lawgroup_labor_rights**:
-  - [[vanilla/Законы/Защита прав рабочих|Защита прав рабочих]] = `strongly_approve`
-  - [[vanilla/Законы/Регулирующие органы|Регулирующие органы]] = `approve`
-  - [[vanilla/Законы/Нет прав трудящихся|Нет прав трудящихся]] = `neutral`
 - **lawgroup_childrens_rights**:
   - [[vanilla/Законы/Обязательное начальное образование|Обязательное начальное образование]] = `strongly_approve`
   - [[vanilla/Законы/Ограниченный детский труд|Ограниченный детский труд]] = `approve`

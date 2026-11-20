@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Uzinele de Fier și Domeniile Reșița» — ваниль 1.15, `company_resita_works`"
+description: "Вид компании «Uzinele de Fier și Domeniile Reșița» — ваниль 1.15.2, `company_resita_works`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip5.txt]
 ---
 # Uzinele de Fier și Domeniile Reșița
 
-Вид компании · `company_resita_works` · `common/company_types/00_companies_ip5.txt:589`
+Вид компании · `company_resita_works` · `common/company_types/00_companies_ip5.txt:619`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip5.txt]
 - **building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]], [[vanilla/Здания/Производства инструментов|Производства инструментов]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **extension_building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]], [[vanilla/Здания/Электрозаводы|Электрозаводы]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 612–617
-- **potential**: скрипт, строки 619–621
-- **attainable**: скрипт, строки 623–629
-- **possible**: скрипт, строки 631–638
+- **prestige_goods_trigger**: скрипт, строки 642–647
+- **potential**: скрипт, строки 649–651
+- **attainable**: скрипт, строки 653–659
+- **possible**: скрипт, строки 661–672
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-railway-throughput-add|building_railway_throughput_add]] = `0.1` → [[vanilla/Здания/Железные дороги|Железные дороги]]
   - [[vanilla/движок/Модификаторы B#^m-building-artillery-foundry-throughput-add|building_artillery_foundry_throughput_add]] = `0.1` → [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
-- **ai_will_do**: скрипт, строки 645–650
-- **ai_construction_targets**: скрипт, строки 652–659
-- **ai_weight**: скрипт, строки 661–663
+- **ai_will_do**: скрипт, строки 679–684
+- **ai_construction_targets**: скрипт, строки 686–693
+- **ai_weight**: скрипт, строки 695–697

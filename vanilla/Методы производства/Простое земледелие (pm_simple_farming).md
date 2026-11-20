@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Простое земледелие (pm_simple_farming)» — ваниль 1.15, `pm_simple_farming`"
+description: "Метод производства «Простое земледелие (pm_simple_farming)» — ваниль 1.15.2, `pm_simple_farming`"
 project: vic3
 audience: agent
 source: vanilla

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Отсутствие организованной подготовки (pm_no_organization_conscription)» — ваниль 1.15, `pm_no_organization_conscription`"
+description: "Метод производства «Отсутствие организованной подготовки (pm_no_organization_conscription)» — ваниль 1.15.2, `pm_no_organization_conscription`"
 project: vic3
 audience: agent
 source: vanilla

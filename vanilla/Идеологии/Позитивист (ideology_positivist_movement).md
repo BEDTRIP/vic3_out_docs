@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Позитивист (ideology_positivist_movement)» — ваниль 1.15, `ideology_positivist_movement`"
+description: "Идеология «Позитивист (ideology_positivist_movement)» — ваниль 1.15.2, `ideology_positivist_movement`"
 project: vic3
 audience: agent
 source: vanilla

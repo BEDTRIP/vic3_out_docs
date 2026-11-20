@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Крепостное право (pm_serfdom)» — ваниль 1.15, `pm_serfdom`"
+description: "Метод производства «Крепостное право (pm_serfdom)» — ваниль 1.15.2, `pm_serfdom`"
 project: vic3
 audience: agent
 source: vanilla

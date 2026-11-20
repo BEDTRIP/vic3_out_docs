@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Застава оружjе»» — ваниль 1.15, `company_zastava`"
+description: "Вид компании ««Застава оружjе»» — ваниль 1.15.2, `company_zastava`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Застава оружjе»
 
-Вид компании · `company_zastava` · `common/company_types/00_companies_europe.txt:1519`
+Вид компании · `company_zastava` · `common/company_types/00_companies_europe.txt:1551`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **building_types**: [[vanilla/Здания/Оружейные заводы|Оружейные заводы]], [[vanilla/Здания/Заводы боеприпасов|Заводы боеприпасов]]
 - **extension_building_types**: [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
 - **possible_prestige_goods**: `prestige_good_generic_small_arms`
-- **prestige_goods_trigger**: скрипт, строки 1540–1545
-- **potential**: скрипт, строки 1547–1549
-- **attainable**: скрипт, строки 1551–1557
-- **possible**: скрипт, строки 1559–1567
+- **prestige_goods_trigger**: скрипт, строки 1572–1577
+- **potential**: скрипт, строки 1579–1581
+- **attainable**: скрипт, строки 1583–1589
+- **possible**: скрипт, строки 1591–1603
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы U#^m-unit-defense-mult|unit_defense_mult]] = `0.05`
   - [[vanilla/движок/Модификаторы U#^m-unit-recovery-rate-add|unit_recovery_rate_add]] = `0.05`
-- **ai_will_do**: скрипт, строки 1574–1580
-- **ai_construction_targets**: скрипт, строки 1582–1589
-- **ai_weight**: скрипт, строки 1591–1593
+- **ai_will_do**: скрипт, строки 1610–1616
+- **ai_construction_targets**: скрипт, строки 1618–1625
+- **ai_weight**: скрипт, строки 1627–1629

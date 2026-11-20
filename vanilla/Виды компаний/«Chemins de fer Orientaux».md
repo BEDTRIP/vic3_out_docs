@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Chemins de fer Orientaux»» — ваниль 1.15, `company_orient_express`"
+description: "Вид компании ««Chemins de fer Orientaux»» — ваниль 1.15.2, `company_orient_express`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 ---
 # «Chemins de fer Orientaux»
 
-Вид компании · `company_orient_express` · `common/company_types/00_companies_asia.txt:314`
+Вид компании · `company_orient_express` · `common/company_types/00_companies_asia.txt:322`
 
 ## Поля
 
@@ -23,12 +23,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **preferred_headquarters**: `STATE_EASTERN_THRACE`
 - **building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **extension_building_types**: [[vanilla/Здания/Моторные заводы|Моторные заводы]]
-- **potential**: скрипт, строки 332–337
+- **potential**: скрипт, строки 340–345
 - **attainable**:
   - `owns_entire_state_region` = `STATE_EASTERN_THRACE`
-- **possible**: скрипт, строки 343–357
+- **possible**: скрипт, строки 351–365
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы C#^m-country-prestige-mult|country_prestige_mult]] = `0.1`
-- **ai_will_do**: скрипт, строки 363–372
-- **ai_construction_targets**: скрипт, строки 374–382
-- **ai_weight**: скрипт, строки 384–386
+- **ai_will_do**: скрипт, строки 371–380
+- **ai_construction_targets**: скрипт, строки 382–390
+- **ai_weight**: скрипт, строки 392–394

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Compagnie du Congo»» — ваниль 1.15, `company_ccci`"
+description: "Вид компании ««Compagnie du Congo»» — ваниль 1.15.2, `company_ccci`"
 project: vic3
 audience: agent
 source: vanilla

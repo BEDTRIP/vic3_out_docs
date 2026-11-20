@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры D — 9, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры D — 9, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры D
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **day_value** — Day value · `Traits: <, <=, =, !=, >, >=` · supported scopes: none ^t-day-value
 - **daynight_value** — DayNight value · `Traits: <, <=, =, !=, >, >=` · supported scopes: none ^t-daynight-value

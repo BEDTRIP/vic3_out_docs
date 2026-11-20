@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Фашизм (ideology_fascist_movement)» — ваниль 1.15, `ideology_fascist_movement`"
+description: "Идеология «Фашизм (ideology_fascist_movement)» — ваниль 1.15.2, `ideology_fascist_movement`"
 project: vic3
 audience: agent
 source: vanilla

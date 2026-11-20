@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Эффекты S — 98, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Эффекты S — 99, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,20 +9,21 @@ generated: "v3 graph engine"
 ---
 # Эффекты S
 
-Из дампа `effects.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `effects.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **save_scope_as** — Saves the current scope as an arbitrarily-named target to be referenced later in the (unbroken) event chain · `save_scope_as = <string>` · supported scopes: none ^e-save-scope-as
 - **save_scope_value_as** — Saves a numerical or bool value as an arbitrarily-named target to be referenced later in the (unbroken) event chain · `save_scope_value_as = { name = <string> value = x }` · supported scopes: none ^e-save-scope-value-as
 - **save_temporary_scope_as** — Saves the current scope as an arbitrarily-named temporary target to be referenced later in the same effect · `save_temporary_scope_as = <string>` · supported scopes: none ^e-save-temporary-scope-as
 - **save_temporary_scope_value_as** — Saves a numerical or bool value as an arbitrarily-named temporary target to be referenced later in the same effect · `save_temporary_scope_value_as = { name = <string> value = x }` · supported scopes: none ^e-save-temporary-scope-value-as
 - **seize_investment_pool** — `Seize investment pool for the treasury and transfer all private construction queue elements to the government queue = bool` · supported scopes: country ^e-seize-investment-pool
+- **send_interface_message** — Runs the contained effects in the current scope and shows the player a message # any number of effects, executed in the current scope } · `send_interface_message = { title = loc_key # localized against the current scope desc = loc_key # optional, replaces the child effect description, localized against the current scope icon = texture #…` · supported scopes: none ^e-send-interface-message
 - **set_as_adult** — Turns the scoped character into an adult if they are not one already. · `scope:character = { set_as_adult = yes }` · supported scopes: character ^e-set-as-adult
 - **set_as_flagship** — Assign/unassign the ship as a flagship for the country · `set_as_flagship = yes/no` · supported scopes: ship ^e-set-as-flagship
 - **set_as_interest_group_leader** — Sets a character as interest group leader · `set_as_interest_group_leader = yes` · supported scopes: character ^e-set-as-interest-group-leader
-- **set_available_for_autonomous_investment** — Sets a building type as available for autonomous investment in the current scoped State · `set_available_for_autonomous_investment = building type scope` · supported scopes: state · supported targets: building_type ^e-set-available-for-autonomous-investment
+- **set_available_for_autonomous_investment** — Sets a building type as available for autonomous investment in the current scoped State · `set_available_for_autonomous_investment = building type scope` · value type: common/buildings · supported scopes: state · supported targets: building_type ^e-set-available-for-autonomous-investment
 - **set_bar_progress** — Sets progress for a journal entry scripted progressbar · `set_bar_progress = {value = -5name = example_progress_bar_name}` · supported scopes: journal_entry ^e-set-bar-progress
 - **set_bolstering** — Starts/stops bolstering the political movement in scope · `set_bolstering = yes/no` · supported scopes: political_movement ^e-set-bolstering
-- **set_capital** — Set capital state in a country scope Where X is a state region · `set_capital = X` · supported scopes: country ^e-set-capital
+- **set_capital** — Set capital state in a country scope Where X is a state region · `set_capital = X` · value type: map_data/state_regions · supported scopes: country ^e-set-capital
 - **set_career_length** — Sets the career length from now for a character in a role. Role can be a specific database role or a role type (e.g. general). If no role is specified, applies to all roles with career end dates. · `set_career_length = { role = role_key/role_type days/months/years = 10 random_range = { 0.8 1.2 } }` · supported scopes: character ^e-set-career-length
 - **set_character_as_executive** — Makes scope character the executive of target company · `set_character_as_executive = <company scope>` · supported scopes: character · supported targets: company ^e-set-character-as-executive
 - **set_character_as_ruler** — Set scoped character as ruler in their country. · `scope:larry = { set_character_as_ruler = yes }CAUTION: Do not use this effect with chartered companies, as the character's country will be affected` · supported scopes: character ^e-set-character-as-ruler
@@ -31,8 +32,8 @@ generated: "v3 graph engine"
 - **set_commander_rank** — Promotes/demotes a character to a given military rank value · `set_commander_rank = 3` · supported scopes: character ^e-set-commander-rank
 - **set_company_establishment_date** — Sets the establishment date of scope company · `set_company_establishment_date = 1782.7.18` · supported scopes: company ^e-set-company-establishment-date
 - **set_company_state_region** — Sets the state region for the scoped company, so the company building can be built there · `set_company_state_region = s:STATE_WALLONIA` · supported scopes: company · supported targets: state_region ^e-set-company-state-region
-- **set_core_ideology** — Sets the core ideology of a political movement · `set_ideology = x` · supported scopes: political_movement ^e-set-core-ideology
-- **set_country_type** — Sets the type of country for a country, for history · supported scopes: country ^e-set-country-type
+- **set_core_ideology** — Sets the core ideology of a political movement · `set_ideology = x` · value type: common/ideologies · supported scopes: political_movement ^e-set-core-ideology
+- **set_country_type** — Sets the type of country for a country, for history · value type: common/country_types · supported scopes: country ^e-set-country-type
 - **set_devastation** — Set devastation to a state region or state · supported scopes: state, state_region ^e-set-devastation
 - **set_diplomats_expelled** — Expels diplomats from target country in scoped country · `set_diplomats_expelled = scope:target_country` · supported scopes: country · supported targets: country ^e-set-diplomats-expelled
 - **set_electoral_confidence** — Set x% electoral confidence in scope country · `set_electoral_confidence = 0.5` · supported scopes: country ^e-set-electoral-confidence
@@ -45,12 +46,12 @@ generated: "v3 graph engine"
 - **set_has_negotiated** — `Sets whether an interest group has finished negotiating: set_has_negotiated = yes/no` · supported scopes: interest_group ^e-set-has-negotiated
 - **set_heir** — Sets the heir of the scoped country to the character scope specified · `set_heir = scope_victoria` · supported scopes: country · supported targets: character ^e-set-heir
 - **set_home_country** — Set a character's home country. This makes them start considering themselves as having been exiled, i.e. was_exiled starts evaluating to yes for them. · `set_home_country = c:FRA` · supported scopes: character · supported targets: country ^e-set-home-country
-- **set_home_country_definition** — Set a character's home country directly to a tag, you can use this to avoid making sure that the tag exists, this makes them an exile · `set_home_country_definition = cd:FRA` · supported scopes: character · supported targets: country_definition ^e-set-home-country-definition
+- **set_home_country_definition** — Set a character's home country directly to a tag, you can use this to avoid making sure that the tag exists, this makes them an exile · `set_home_country_definition = cd:FRA` · value type: common/country_definitions · supported scopes: character · supported targets: country_definition ^e-set-home-country-definition
 - **set_home_state** — Changes the home state of the scoped character · `set_home_state = <state scope>` · supported scopes: character · supported targets: state ^e-set-home-state
 - **set_hub_name** — Sets the name of a hub in a scoped state to a localization string } · `set_state_name = { type = city ( can be any hub type city/port/farm/mine/wood ) name = HUB_NAME_STATE_KIEV_city_ukrainian` · supported scopes: state ^e-set-hub-name
 - **set_hub_names** — Sets the names of all the hubs in a scoped state to localization strings based on the name of the state region, the type of hub and a specified suffix · `set_hub_names = ukrainian` · supported scopes: state ^e-set-hub-names
-- **set_ideology** — Changes scoped character's ideology · `set_ideology = x` · supported scopes: character · supported targets: ideology ^e-set-ideology
-- **set_ig_trait** — Adds a trait to the Interest Group, or replaces their current trait with the same approval level · `set_ig_trait = ig_trait:ig_trait_engines_of_progress` · supported scopes: interest_group · supported targets: interest_group_trait ^e-set-ig-trait
+- **set_ideology** — Changes scoped character's ideology · `set_ideology = x` · value type: common/ideologies · supported scopes: character · supported targets: ideology ^e-set-ideology
+- **set_ig_trait** — Adds a trait to the Interest Group, or replaces their current trait with the same approval level · `set_ig_trait = ig_trait:ig_trait_engines_of_progress` · value type: common/interest_group_traits · supported scopes: interest_group · supported targets: interest_group_trait ^e-set-ig-trait
 - **set_immune_to_revolutions** — Makes a country immune to revolutions or removes such immunity. · `set_immune_to_revolutions = yes/no` · supported scopes: country ^e-set-immune-to-revolutions
 - **set_import_tariff_level** — Sets import tariff level for a good in scoped country · `set_import_tariff_level = { goods = g:iron level = max_tariffs }` · supported scopes: country ^e-set-import-tariff-level
 - **set_imports** — Sets a multiplier of imports to the state for the scoped state goods · `set_imports = 3` · supported scopes: state_goods ^e-set-imports
@@ -61,7 +62,7 @@ generated: "v3 graph engine"
 - **set_key** — Set name to a diplomatic play · `set_key = loc_key` · supported scopes: diplomatic_play ^e-set-key
 - **set_last_name** — Changes the last name of a character to a loc key · `set_last_name = loc_key` · supported scopes: character ^e-set-last-name
 - **set_local_variable** — Sets a variable Where X is the name of the variable used to then access it Where Y is any event target, bool, value, script value or flag (flag:W) An optional days where Z is the number of days or script value This variable will be accessible with <type_>var:X. With type being in a scope object or in a top scope · `set_variable = { name = X value = Y days = Z } Can also be used as set_variable = X (equivalent to set_variable = { name = X value = yes })` · supported scopes: none ^e-set-local-variable
-- **set_market_capital** — Set market capital in a country scope Where X is a state region · `set_market_capital = X` · supported scopes: country ^e-set-market-capital
+- **set_market_capital** — Set market capital in a country scope Where X is a state region · `set_market_capital = X` · value type: map_data/state_regions · supported scopes: country ^e-set-market-capital
 - **set_military_wage_level** — Sets the military wage level of scoped country · `set_military_wage_level = very_low/low/medium/high/very_high` · supported scopes: country ^e-set-military-wage-level
 - **set_movement_defeated** — Sets or clears the defeat date for the movement in scope · `set_movement_defeated = yes/no` · supported scopes: political_movement ^e-set-movement-defeated
 - **set_mutual_secret_goal** — Set mutual secret AI goal for scope country and target country } · `set_mutual_secret_goal = { tcountry = country scope/tag secret_goal = secret goal type` · supported scopes: country ^e-set-mutual-secret-goal
@@ -81,12 +82,12 @@ generated: "v3 graph engine"
 - **set_secret_goal** — Set a secret AI goal for scope country towards another country } · `set_secret_goal = { tcountry = country scope/tag secret_goal = secret goal type` · supported scopes: country ^e-set-secret-goal
 - **set_ship_owner** — Set ship owner country · `set_ship_owner = country` · supported scopes: ship · supported targets: country ^e-set-ship-owner
 - **set_ship_owner_multiple** — Set ship owner country, use when setting multiple ships in a row to put them in a single ownership transfer fleet, then use clear_ownership_transfer_fleet to clear it · `set_ship_owner_multiple = country` · supported scopes: ship · supported targets: country ^e-set-ship-owner-multiple
-- **set_social_hierarchy** — Sets the social hierarchy the scoped country · `set_social_hierarchy = <key>` · supported scopes: country ^e-set-social-hierarchy
+- **set_social_hierarchy** — Sets the social hierarchy the scoped country · `set_social_hierarchy = <key>` · value type: common/social_hierarchies · supported scopes: country ^e-set-social-hierarchy
 - **set_state_name** — Sets the name of a scoped state to a localization string · `set_state_name = STATE_KIEV_ukrainian` · supported scopes: state ^e-set-state-name
 - **set_state_owner** — Set State Owner · `set_state_owner = scope` · supported scopes: state · supported targets: country ^e-set-state-owner
-- **set_state_religion** — Changes the state religion of the country to the specified religion Where X is a religion scope · `set_state_religion = X` · supported scopes: country · supported targets: religion ^e-set-state-religion
+- **set_state_religion** — Changes the state religion of the country to the specified religion Where X is a religion scope · `set_state_religion = X` · value type: common/religions · supported scopes: country · supported targets: religion ^e-set-state-religion
 - **set_state_type** — Sets a state to a certain type (incorporated, unincorporated, treaty_port) · supported scopes: state ^e-set-state-type
-- **set_strategy** — Set AI strategy for scope country · `set_strategy = <key>` · supported scopes: country ^e-set-strategy
+- **set_strategy** — Set AI strategy for scope country · `set_strategy = <key>` · value type: common/ai_strategies · supported scopes: country ^e-set-strategy
 - **set_subsidized** — Sets whether a building is subsidized · `set_subsidized = yes/no` · supported scopes: building ^e-set-subsidized
 - **set_suppression** — Starts/stops suppressing the political movement in scope · `set_suppression = yes/no` · supported scopes: political_movement ^e-set-suppression
 - **set_target_technology** — Sets a (new) target technology scope for a journal entry · `set_target_technology = <scope>` · supported scopes: journal_entry ^e-set-target-technology
@@ -99,13 +100,13 @@ generated: "v3 graph engine"
 - **sort_local_variable_list** — Sorts a variable list Where X is the name of the variable Where Y is some math script to determine sort order · `sort_variable_list = { name = X order = Y }` · supported scopes: none ^e-sort-local-variable-list
 - **sort_variable_list** — Sorts a variable list Where X is the name of the variable Where Y is some math script to determine sort order · `sort_variable_list = { name = X order = Y }` · supported scopes: none ^e-sort-variable-list
 - **spawn_entity_effect** — Spawns a temporary entity at the center of the scoped state region for a number of seconds · `spawn_entity_effect = { name = "entity_type" duration = X }` · supported scopes: state_region ^e-spawn-entity-effect
-- **start_building_construction** — Start constructing a building in a scoped state as a government construction · `start_building_construction = building_barracks` · supported scopes: state ^e-start-building-construction
+- **start_building_construction** — Start constructing a building in a scoped state as a government construction · `start_building_construction = building_barracks` · value type: common/buildings · supported scopes: state ^e-start-building-construction
 - **start_earthquake_effect** — Starts an earthquake camera shake centered on the scoped state region · `start_earthquake_effect = yes` · supported scopes: state_region ^e-start-earthquake-effect
-- **start_enactment** — Starts enacting the specified law type for the country in scope · `start_enactment = law_type:law_multicultural` · supported scopes: country · supported targets: law_type ^e-start-enactment
-- **start_harvest_condition** — Start a harvest condition of type (or refresh it if already exists) in the scoped state region · `start_harvest_condition = <key>` · supported scopes: state_region ^e-start-harvest-condition
+- **start_enactment** — Starts enacting the specified law type for the country in scope · `start_enactment = law_type:law_multicultural` · value type: common/laws · supported scopes: country · supported targets: law_type ^e-start-enactment
+- **start_harvest_condition** — Start a harvest condition of type (or refresh it if already exists) in the scoped state region · `start_harvest_condition = <key>` · value type: common/harvest_condition_types · supported scopes: state_region ^e-start-harvest-condition
 - **start_harvest_condition_with_params** — Start a harvest condition of type in scoped state region where intensity and duration(in days) are optionally provided } · `start_harvest_condition_with_params = { type = flood intensity = 5 (optional) duration = 5 (optional)` · supported scopes: state_region ^e-start-harvest-condition-with-params
 - **start_national_awakening** — Starts a cultural awakening } · `start_national_awakening = { culture = cu:british # the culture that will have a national awakening months = 12 # the number of months the awakening will last for state_region = s:STATE_HOME_COUNTIES…` · supported scopes: country ^e-start-national-awakening
-- **start_privately_funded_building_construction** — Start constructing a building in a scoped state as a private construction · `start_privately_funded_building_construction = building_barracks` · supported scopes: state ^e-start-privately-funded-building-construction
+- **start_privately_funded_building_construction** — Start constructing a building in a scoped state as a private construction · `start_privately_funded_building_construction = building_barracks` · value type: common/buildings · supported scopes: state ^e-start-privately-funded-building-construction
 - **start_research_random_technology** — Scoped country starts research of any random technology they can · `start_research_random_technology = yes` · supported scopes: country ^e-start-research-random-technology
 - **start_tutorial_lesson** — Starts the tutorial lesson with the given key. Does nothing if the tutorial is not running, the lesson is completed (or already running), or the lesson cannot be triggered (e.g. trigger fails) · supported scopes: none ^e-start-tutorial-lesson
 - **switch** — Switch on a trigger for the evaluation of another trigger with an optional fallback trigger. · `switch = { trigger = simple_assign_trigger case_1 = { <effects> } case_2 = { <effects> } case_n = { <effects> } fallback = { <effects> }` · supported scopes: none ^e-switch

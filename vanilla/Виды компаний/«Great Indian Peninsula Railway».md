@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Great Indian Peninsula Railway»» — ваниль 1.15, `company_great_indian_railway`"
+description: "Вид компании ««Great Indian Peninsula Railway»» — ваниль 1.15.2, `company_great_indian_railway`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 ---
 # «Great Indian Peninsula Railway»
 
-Вид компании · `company_great_indian_railway` · `common/company_types/00_companies_asia.txt:390`
+Вид компании · `company_great_indian_railway` · `common/company_types/00_companies_asia.txt:398`
 
 ## Поля
 
@@ -22,12 +22,12 @@ paths: [.vanillaVIC3/common/company_types/00_companies_asia.txt]
 - **flavored_company**: `yes`
 - **building_types**: [[vanilla/Здания/Железные дороги|Железные дороги]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]]
-- **potential**: скрипт, строки 406–411
-- **attainable**: скрипт, строки 413–419
-- **possible**: скрипт, строки 421–432
+- **potential**: скрипт, строки 414–419
+- **attainable**: скрипт, строки 421–427
+- **possible**: скрипт, строки 429–440
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-add|state_infrastructure_from_population_add]] = `0.5`
   - [[vanilla/движок/Модификаторы S#^m-state-infrastructure-from-population-max-add|state_infrastructure_from_population_max_add]] = `20`
-- **ai_will_do**: скрипт, строки 439–445
-- **ai_construction_targets**: скрипт, строки 447–455
-- **ai_weight**: скрипт, строки 457–459
+- **ai_will_do**: скрипт, строки 447–453
+- **ai_construction_targets**: скрипт, строки 455–463
+- **ai_weight**: скрипт, строки 465–467

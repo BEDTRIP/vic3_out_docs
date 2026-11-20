@@ -1,14 +1,13 @@
 # Генерат графа источников: v3 graph (решения узла ADR-0318, ADR-0319, ADR-0320, ADR-0325). Снимок — vic3_mods_out (папка выше).
-version = "1.15"
+version = "1.15.2"
 paths_root = ".."
 # генерат — агенту: человеку граф, поиск и списки его не показывают (методика, «Шапка документа», «Кому заметка»)
 audience = "agent"
 # имена генерата не должны повторять заметки форка и узла (одно хранилище Obsidian)
 # справочник движка: дамп script_docs из документов игры (копия — vanilla/движок/дамп/), дата дампа
-dump = "C:/Users/Andrey/Documents/Paradox Interactive/Victoria 3/docs"
-dump_date = "2026-10-13"
-# дамп 13.10 — ещё 1.13 (с E&F): дамп 1.15 без модов не снят (этап ОБН, шаг 2)
-dump_version = "1.13"
+dump = "C:/ProjectData/vic3/_tmp_analysis/dump_1.15.2"
+dump_date = "2026-11-20"
+# дамп 1.15.2 без модов — снят в ВМ-песочнице (SRC-1)
 avoid = ["../../Economic-and-Financial-Ledgerdemain-Mod/docs/понятия", "../../docs"]
 
 [sources.vanilla]
@@ -61,7 +60,6 @@ label = "ETF"
 [sources.hail_columbia]
 snapshot = "../for addon/Hail Columbia"
 label = "Hail Columbia"
-version = "1.13"
 [sources.mandate_of_heaven]
 snapshot = "../for addon/Mandate of Heaven"
 label = "Mandate of Heaven"

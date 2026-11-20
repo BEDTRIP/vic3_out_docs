@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Собственность (pmg_ownership_building_company_headquarter)» — ваниль 1.15, `pmg_ownership_building_company_headquarter`"
+description: "Группа методов производства «Собственность (pmg_ownership_building_company_headquarter)» — ваниль 1.15.2, `pmg_ownership_building_company_headquarter`"
 project: vic3
 audience: agent
 source: vanilla

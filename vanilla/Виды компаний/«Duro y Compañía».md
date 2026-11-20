@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Duro y Compañía»» — ваниль 1.15, `company_duro_y_compania`"
+description: "Вид компании ««Duro y Compañía»» — ваниль 1.15.2, `company_duro_y_compania`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 ---
 # «Duro y Compañía»
 
-Вид компании · `company_duro_y_compania` · `common/company_types/00_companies_europe.txt:1284`
+Вид компании · `company_duro_y_compania` · `common/company_types/00_companies_europe.txt:1304`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_europe.txt]
 - **building_types**: [[vanilla/Здания/Угольные шахты|Угольные шахты]], [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]], [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Лесозаготовки|Лесозаготовки]]
 - **possible_prestige_goods**: `prestige_good_generic_steel`
-- **prestige_goods_trigger**: скрипт, строки 1306–1311
-- **potential**: скрипт, строки 1313–1315
-- **attainable**: скрипт, строки 1317–1323
-- **possible**: скрипт, строки 1325–1333
+- **prestige_goods_trigger**: скрипт, строки 1326–1331
+- **potential**: скрипт, строки 1333–1335
+- **attainable**: скрипт, строки 1337–1343
+- **possible**: скрипт, строки 1345–1357
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-arms-industry-throughput-add|building_arms_industry_throughput_add]] = `0.1` → [[vanilla/Здания/Оружейные заводы|Оружейные заводы]]
   - [[vanilla/движок/Модификаторы B#^m-building-artillery-foundry-throughput-add|building_artillery_foundry_throughput_add]] = `0.1` → [[vanilla/Здания/Артиллерийские заводы|Артиллерийские заводы]]
-- **ai_will_do**: скрипт, строки 1340–1346
-- **ai_construction_targets**: скрипт, строки 1348–1355
-- **ai_weight**: скрипт, строки 1357–1359
+- **ai_will_do**: скрипт, строки 1364–1370
+- **ai_construction_targets**: скрипт, строки 1372–1379
+- **ai_weight**: скрипт, строки 1381–1383

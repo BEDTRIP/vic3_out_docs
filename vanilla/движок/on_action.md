@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: on_action — 308, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: on_action — 286, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,25 +9,19 @@ generated: "v3 graph engine"
 ---
 # on_action
 
-Из дампа `on_actions.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `on_actions.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **austrian_monarchy_yearly_events** — из кода: No · scope: country ^o-austrian-monarchy-yearly-events
 - **bp1_misc_yearly_events** — из кода: No · scope: country ^o-bp1-misc-yearly-events
 - **british_dictate_yearly_events** — из кода: No · scope: country ^o-british-dictate-yearly-events
 - **carlist_war_battle_score** — из кода: No · scope: none ^o-carlist-war-battle-score
+- **chartering_the_stanitsas_state_gained** — из кода: No · scope: none ^o-chartering-the-stanitsas-state-gained
 - **colonial_claims_check** — из кода: No · scope: none ^o-colonial-claims-check
-- **com_topbar_setup** — из кода: No · scope: none ^o-com-topbar-setup
-- **com_topbar_setup_ef** — из кода: No · scope: none ^o-com-topbar-setup-ef
+- **council_republic_monthly_events** — из кода: No · scope: country ^o-council-republic-monthly-events
 - **coup_aftermath_half_yearly_events** — из кода: No · scope: country ^o-coup-aftermath-half-yearly-events
 - **coup_monthly_events** — из кода: No · scope: country ^o-coup-monthly-events
-- **ef_on_battle_ended** — из кода: No · scope: none ^o-ef-on-battle-ended
-- **ef_on_five_year_pulse_country** — из кода: No · scope: none ^o-ef-on-five-year-pulse-country
-- **ef_on_half_yearly_pulse_country** — из кода: No · scope: none ^o-ef-on-half-yearly-pulse-country
-- **ef_on_monthly_pulse_country** — из кода: No · scope: none ^o-ef-on-monthly-pulse-country
-- **ef_on_yearly_pulse_country** — из кода: No · scope: none ^o-ef-on-yearly-pulse-country
 - **elections_monthly_events** — из кода: No · scope: country ^o-elections-monthly-events
 - **ep1_misc_yearly_events** — из кода: No · scope: country ^o-ep1-misc-yearly-events
-- **example_on_action_weekly** — из кода: No · scope: none ^o-example-on-action-weekly
 - **exile_pool_culling_on_action** — из кода: No · scope: none ^o-exile-pool-culling-on-action
 - **exiles_yearly_events** — из кода: No · scope: country ^o-exiles-yearly-events
 - **famine_yearly_events** — из кода: No · scope: country ^o-famine-yearly-events
@@ -49,7 +43,7 @@ generated: "v3 graph engine"
 - **lobby_yearly_events** — из кода: No · scope: country ^o-lobby-yearly-events
 - **montenegro_half_yearly_events** — из кода: No · scope: country ^o-montenegro-half-yearly-events
 - **movement_half_yearly_events** — из кода: No · scope: country ^o-movement-half-yearly-events
-- **on_acquired_construction_tech** — из кода: No · scope: none ^o-on-acquired-construction-tech
+- **nemo_monthly_events** — из кода: No · scope: country ^o-nemo-monthly-events
 - **on_acquired_technology** — из кода: Yes · scope: country ^o-on-acquired-technology
 - **on_ally_capitulated_notification** — из кода: Yes · scope: none ^o-on-ally-capitulated-notification
 - **on_amendment_repealed** — из кода: Yes · scope: none ^o-on-amendment-repealed
@@ -67,21 +61,17 @@ generated: "v3 graph engine"
 - **on_character_creation** — из кода: Yes · scope: none ^o-on-character-creation
 - **on_character_death** — из кода: Yes · scope: none ^o-on-character-death
 - **on_character_recruitment** — из кода: Yes · scope: none ^o-on-character-recruitment
+- **on_character_returned_from_exile** — из кода: Yes · scope: none ^o-on-character-returned-from-exile
 - **on_character_spawned_in_pool** — из кода: Yes · scope: none ^o-on-character-spawned-in-pool
 - **on_civil_war_won** — из кода: Yes · scope: none ^o-on-civil-war-won
 - **on_claim_added** — из кода: Yes · scope: none ^o-on-claim-added
 - **on_colony_created** — из кода: Yes · scope: none ^o-on-colony-created
-- **on_com_released_country_topbar** — из кода: No · scope: none ^o-on-com-released-country-topbar
-- **on_com_revolution_copy_topbar** — из кода: No · scope: none ^o-on-com-revolution-copy-topbar
-- **on_com_save_structs** — из кода: No · scope: none ^o-on-com-save-structs
 - **on_commander_promoted** — из кода: Yes · scope: none ^o-on-commander-promoted
 - **on_company_disbanded** — из кода: Yes · scope: none ^o-on-company-disbanded
 - **on_company_established** — из кода: Yes · scope: none ^o-on-company-established
-- **on_construction_sector_built** — из кода: No · scope: none ^o-on-construction-sector-built
-- **on_construction_sector_method_changed** — из кода: No · scope: none ^o-on-construction-sector-method-changed
 - **on_country_broke_treaty** — из кода: Yes · scope: none ^o-on-country-broke-treaty
 - **on_country_default** — из кода: Yes · scope: none ^o-on-country-default
-- **on_country_formed** — из кода: Yes · scope: none ^o-on-country-formed
+- **on_country_formed** — из кода: Yes · scope: country ^o-on-country-formed
 - **on_country_no_longer_default** — из кода: Yes · scope: none ^o-on-country-no-longer-default
 - **on_country_released_as_company_subject** — из кода: Yes · scope: none ^o-on-country-released-as-company-subject
 - **on_country_released_as_independent** — из кода: Yes · scope: none ^o-on-country-released-as-independent
@@ -102,10 +92,10 @@ generated: "v3 graph engine"
 - **on_diplo_play_back_down_involved** — из кода: Yes · scope: none ^o-on-diplo-play-back-down-involved
 - **on_diplo_play_declare_neutrality** — из кода: Yes · scope: none ^o-on-diplo-play-declare-neutrality
 - **on_diplo_play_join_side** — из кода: Yes · scope: none ^o-on-diplo-play-join-side
+- **on_diplo_play_overlord_protects_subject** — из кода: Yes · scope: none ^o-on-diplo-play-overlord-protects-subject
 - **on_diplo_play_start** — из кода: Yes · scope: none ^o-on-diplo-play-start
 - **on_diplo_play_start_third_party** — из кода: Yes · scope: none ^o-on-diplo-play-start-third-party
-- **on_diplo_play_subject_released** — из кода: Yes · scope: none ^o-on-diplo-play-subject-released
-- **on_diplo_play_subject_released_overlord** — из кода: Yes · scope: none ^o-on-diplo-play-subject-released-overlord
+- **on_diplo_play_subject_backstab_overlord** — из кода: Yes · scope: none ^o-on-diplo-play-subject-backstab-overlord
 - **on_diplo_play_switch_sides** — из кода: Yes · scope: none ^o-on-diplo-play-switch-sides
 - **on_diplo_play_war_start** — из кода: Yes · scope: none ^o-on-diplo-play-war-start
 - **on_diplomatic_action** — из кода: Yes · scope: none ^o-on-diplomatic-action
@@ -147,6 +137,7 @@ generated: "v3 graph engine"
 - **on_five_year_pulse_character** — из кода: Yes · scope: none ^o-on-five-year-pulse-character
 - **on_five_year_pulse_country** — из кода: Yes · scope: country ^o-on-five-year-pulse-country
 - **on_five_year_pulse_country_elections** — из кода: Yes · scope: none ^o-on-five-year-pulse-country-elections
+- **on_five_year_pulse_country_poland** — из кода: No · scope: none ^o-on-five-year-pulse-country-poland
 - **on_five_year_pulse_state** — из кода: Yes · scope: none ^o-on-five-year-pulse-state
 - **on_flagship_battle_lost** — из кода: Yes · scope: none ^o-on-flagship-battle-lost
 - **on_flagship_battle_won** — из кода: Yes · scope: none ^o-on-flagship-battle-won
@@ -154,7 +145,7 @@ generated: "v3 graph engine"
 - **on_fleet_destroyed** — из кода: Yes · scope: none ^o-on-fleet-destroyed
 - **on_game_started** — из кода: Yes · scope: none ^o-on-game-started
 - **on_game_started_after_lobby** — из кода: Yes · scope: none ^o-on-game-started-after-lobby
-- **on_government_reformed** — из кода: Yes · scope: none ^o-on-government-reformed
+- **on_government_reformed** — из кода: Yes · scope: country ^o-on-government-reformed
 - **on_half_yearly_events** — из кода: No · scope: country ^o-on-half-yearly-events
 - **on_half_yearly_pulse_character** — из кода: Yes · scope: none ^o-on-half-yearly-pulse-character
 - **on_half_yearly_pulse_country** — из кода: Yes · scope: country ^o-on-half-yearly-pulse-country
@@ -164,22 +155,23 @@ generated: "v3 graph engine"
 - **on_heir_born** — из кода: Yes · scope: none ^o-on-heir-born
 - **on_ig_resigned_government** — из кода: Yes · scope: none ^o-on-ig-resigned-government
 - **on_impose_law** — из кода: Yes · scope: none ^o-on-impose-law
+- **on_inconclusive_war** — из кода: Yes · scope: none ^o-on-inconclusive-war
 - **on_invasion_succeeded** — из кода: Yes · scope: none ^o-on-invasion-succeeded
 - **on_investment_decreased** — из кода: Yes · scope: none ^o-on-investment-decreased
 - **on_investment_increased** — из кода: Yes · scope: none ^o-on-investment-increased
 - **on_journal_entry_activated** — из кода: Yes · scope: none ^o-on-journal-entry-activated
-- **on_journal_entry_completed** — из кода: Yes · scope: none ^o-on-journal-entry-completed
+- **on_journal_entry_concluded** — из кода: Yes · scope: none ^o-on-journal-entry-concluded
 - **on_journal_entry_deactivated** — из кода: Yes · scope: none ^o-on-journal-entry-deactivated
-- **on_journal_entry_failed** — из кода: Yes · scope: none ^o-on-journal-entry-failed
 - **on_law_activated** — из кода: Yes · scope: none ^o-on-law-activated
 - **on_law_checkpoint_advance** — из кода: Yes · scope: country ^o-on-law-checkpoint-advance
 - **on_law_checkpoint_debate** — из кода: Yes · scope: country ^o-on-law-checkpoint-debate
 - **on_law_checkpoint_stall** — из кода: Yes · scope: country ^o-on-law-checkpoint-stall
-- **on_law_checkpoint_success** — из кода: Yes · scope: none ^o-on-law-checkpoint-success
+- **on_law_checkpoint_success** — из кода: Yes · scope: country ^o-on-law-checkpoint-success
 - **on_law_enactment_ended** — из кода: Yes · scope: none ^o-on-law-enactment-ended
 - **on_law_enactment_fail** — из кода: Yes · scope: none ^o-on-law-enactment-fail
 - **on_law_enactment_pass** — из кода: Yes · scope: none ^o-on-law-enactment-pass
 - **on_law_enactment_started** — из кода: Yes · scope: none ^o-on-law-enactment-started
+- **on_lost_war** — из кода: Yes · scope: none ^o-on-lost-war
 - **on_merge_markets** — из кода: Yes · scope: none ^o-on-merge-markets
 - **on_migration_target_created** — из кода: Yes · scope: none ^o-on-migration-target-created
 - **on_migration_target_created_other** — из кода: Yes · scope: none ^o-on-migration-target-created-other
@@ -189,7 +181,19 @@ generated: "v3 graph engine"
 - **on_monthly_pulse** — из кода: Yes · scope: none ^o-on-monthly-pulse
 - **on_monthly_pulse_character** — из кода: Yes · scope: none ^o-on-monthly-pulse-character
 - **on_monthly_pulse_country** — из кода: Yes · scope: country ^o-on-monthly-pulse-country
+- **on_monthly_pulse_country_baltic** — из кода: No · scope: none ^o-on-monthly-pulse-country-baltic
+- **on_monthly_pulse_country_britain** — из кода: No · scope: none ^o-on-monthly-pulse-country-britain
 - **on_monthly_pulse_country_elections** — из кода: Yes · scope: country ^o-on-monthly-pulse-country-elections
+- **on_monthly_pulse_country_france** — из кода: No · scope: none ^o-on-monthly-pulse-country-france
+- **on_monthly_pulse_country_india** — из кода: No · scope: none ^o-on-monthly-pulse-country-india
+- **on_monthly_pulse_country_japan** — из кода: No · scope: none ^o-on-monthly-pulse-country-japan
+- **on_monthly_pulse_country_montenegro** — из кода: No · scope: none ^o-on-monthly-pulse-country-montenegro
+- **on_monthly_pulse_country_morocco** — из кода: No · scope: none ^o-on-monthly-pulse-country-morocco
+- **on_monthly_pulse_country_portugal** — из кода: No · scope: none ^o-on-monthly-pulse-country-portugal
+- **on_monthly_pulse_country_russia** — из кода: No · scope: country ^o-on-monthly-pulse-country-russia
+- **on_monthly_pulse_country_spain** — из кода: No · scope: none ^o-on-monthly-pulse-country-spain
+- **on_monthly_pulse_country_sweden** — из кода: No · scope: none ^o-on-monthly-pulse-country-sweden
+- **on_monthly_pulse_country_turkey** — из кода: No · scope: none ^o-on-monthly-pulse-country-turkey
 - **on_monthly_pulse_state** — из кода: Yes · scope: none ^o-on-monthly-pulse-state
 - **on_national_awakening_started** — из кода: Yes · scope: none ^o-on-national-awakening-started
 - **on_native_uprising** — из кода: Yes · scope: none ^o-on-native-uprising
@@ -214,6 +218,7 @@ generated: "v3 graph engine"
 - **on_political_movement_disbanded** — из кода: Yes · scope: none ^o-on-political-movement-disbanded
 - **on_political_movement_formed** — из кода: Yes · scope: none ^o-on-political-movement-formed
 - **on_political_movement_supported_law_cancelled** — из кода: Yes · scope: none ^o-on-political-movement-supported-law-cancelled
+- **on_power_bloc_formed** — из кода: Yes · scope: none ^o-on-power-bloc-formed
 - **on_power_bloc_struggle_ended** — из кода: Yes · scope: none ^o-on-power-bloc-struggle-ended
 - **on_power_bloc_struggle_started** — из кода: Yes · scope: none ^o-on-power-bloc-struggle-started
 - **on_production_method_changed** — из кода: Yes · scope: none ^o-on-production-method-changed
@@ -267,7 +272,9 @@ generated: "v3 graph engine"
 - **on_war_end** — из кода: Yes · scope: none ^o-on-war-end
 - **on_wargoal_added** — из кода: Yes · scope: none ^o-on-wargoal-added
 - **on_wargoal_enforced** — из кода: Yes · scope: none ^o-on-wargoal-enforced
+- **on_wargoal_enforced_by_timer** — из кода: Yes · scope: none ^o-on-wargoal-enforced-by-timer
 - **on_wargoal_removed** — из кода: Yes · scope: none ^o-on-wargoal-removed
+- **on_won_war** — из кода: Yes · scope: none ^o-on-won-war
 - **on_wounded** — из кода: No · scope: none ^o-on-wounded
 - **on_yearly_events** — из кода: No · scope: country ^o-on-yearly-events
 - **on_yearly_pulse** — из кода: Yes · scope: none ^o-on-yearly-pulse
@@ -277,45 +284,16 @@ generated: "v3 graph engine"
 - **on_yearly_pulse_state** — из кода: Yes · scope: state ^o-on-yearly-pulse-state
 - **portugal_single_fire_yearly_events** — из кода: No · scope: country ^o-portugal-single-fire-yearly-events
 - **regency_monthly_events** — из кода: No · scope: country ^o-regency-monthly-events
+- **rlit_monthly_events** — из кода: No · scope: country ^o-rlit-monthly-events
+- **russia_yearly_events** — из кода: No · scope: country ^o-russia-yearly-events
 - **russian_monarchy_yearly_events** — из кода: No · scope: country ^o-russian-monarchy-yearly-events
 - **ryukyu_rivalry_coin_toss** — из кода: No · scope: none ^o-ryukyu-rivalry-coin-toss
-- **set_construction_country** — из кода: No · scope: none ^o-set-construction-country
-- **set_construction_start** — из кода: No · scope: none ^o-set-construction-start
-- **set_construction_weekly_on_action** — из кода: No · scope: none ^o-set-construction-weekly-on-action
-- **set_spending_value** — из кода: No · scope: none ^o-set-spending-value
-- **set_weekly_on_action_example** — из кода: No · scope: none ^o-set-weekly-on-action-example
 - **silkworm_half_yearly_events** — из кода: No · scope: country ^o-silkworm-half-yearly-events
 - **slavery_abolition_yearly_events** — из кода: No · scope: country ^o-slavery-abolition-yearly-events
 - **spain_single_fire_yearly_events** — из кода: No · scope: country ^o-spain-single-fire-yearly-events
 - **spooky_halloween_events** — из кода: No · scope: country ^o-spooky-halloween-events
 - **springtime_of_peoples_yearly_events** — из кода: No · scope: country ^o-springtime-of-peoples-yearly-events
+- **sps_law_checkpoint_cancellation** — из кода: No · scope: none ^o-sps-law-checkpoint-cancellation
 - **sweden_events** — из кода: No · scope: country ^o-sweden-events
 - **tech_monthly_events** — из кода: No · scope: country ^o-tech-monthly-events
 - **tunguska_yearly_events** — из кода: No · scope: country ^o-tunguska-yearly-events
-- **zz_ef_bank_monthly** — из кода: No · scope: none ^o-zz-ef-bank-monthly
-- **zz_ef_bubble_monthly** — из кода: No · scope: none ^o-zz-ef-bubble-monthly
-- **zz_ef_capitalization_monthly** — из кода: No · scope: none ^o-zz-ef-capitalization-monthly
-- **zz_ef_cb_rate_monthly** — из кода: No · scope: none ^o-zz-ef-cb-rate-monthly
-- **zz_ef_cur_names_start** — из кода: No · scope: none ^o-zz-ef-cur-names-start
-- **zz_ef_init_stockpile_state_vars** — из кода: No · scope: none ^o-zz-ef-init-stockpile-state-vars
-- **zz_ef_init_stockpile_state_vars_monthly_backstop** — из кода: No · scope: none ^o-zz-ef-init-stockpile-state-vars-monthly-backstop
-- **zz_ef_money_model_monthly** — из кода: No · scope: none ^o-zz-ef-money-model-monthly
-- **zz_ef_monthly_unscheduled** — из кода: No · scope: none ^o-zz-ef-monthly-unscheduled
-- **zz_ef_newcountry_on_become_independent** — из кода: No · scope: none ^o-zz-ef-newcountry-on-become-independent
-- **zz_ef_newcountry_on_country_formed** — из кода: No · scope: none ^o-zz-ef-newcountry-on-country-formed
-- **zz_ef_newcountry_on_country_released_as_company_subject** — из кода: No · scope: none ^o-zz-ef-newcountry-on-country-released-as-company-subject
-- **zz_ef_newcountry_on_country_released_as_independent** — из кода: No · scope: none ^o-zz-ef-newcountry-on-country-released-as-independent
-- **zz_ef_newcountry_on_country_released_as_overlord_subject** — из кода: No · scope: none ^o-zz-ef-newcountry-on-country-released-as-overlord-subject
-- **zz_ef_newcountry_on_country_released_as_own_subject** — из кода: No · scope: none ^o-zz-ef-newcountry-on-country-released-as-own-subject
-- **zz_ef_roles_monthly** — из кода: No · scope: none ^o-zz-ef-roles-monthly
-- **zz_ef_rv_on_civil_war_won** — из кода: No · scope: none ^o-zz-ef-rv-on-civil-war-won
-- **zz_ef_rv_on_revolution_end** — из кода: No · scope: none ^o-zz-ef-rv-on-revolution-end
-- **zz_ef_rv_on_revolution_start** — из кода: No · scope: none ^o-zz-ef-rv-on-revolution-start
-- **zz_ef_rv_on_secession_end** — из кода: No · scope: none ^o-zz-ef-rv-on-secession-end
-- **zz_ef_rv_on_secession_start** — из кода: No · scope: none ^o-zz-ef-rv-on-secession-start
-- **zz_ef_sched_day** — из кода: No · scope: none ^o-zz-ef-sched-day
-- **zz_ef_sched_probe** — из кода: No · scope: none ^o-zz-ef-sched-probe
-- **zz_ef_sched_start** — из кода: No · scope: none ^o-zz-ef-sched-start
-- **zz_ef_sched_step** — из кода: No · scope: none ^o-zz-ef-sched-step
-- **zz_pb_ef_ai_sector_downsize** — из кода: No · scope: none ^o-zz-pb-ef-ai-sector-downsize
-- **zz_pb_ef_overbuild_counter** — из кода: No · scope: none ^o-zz-pb-ef-overbuild-counter

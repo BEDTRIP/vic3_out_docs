@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Земельный реформатор (ideology_land_reformer)» — ваниль 1.15, `ideology_land_reformer`"
+description: "Идеология «Земельный реформатор (ideology_land_reformer)» — ваниль 1.15.2, `ideology_land_reformer`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Земельный реформатор (ideology_land_reformer)
 
-Идеология · `ideology_land_reformer` · `common/ideologies/01_character_ideologies.txt:8927`
+Идеология · `ideology_land_reformer` · `common/ideologies/01_character_ideologies.txt:8930`
 
 ## Поля
 
@@ -34,6 +34,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - `has_technology_researched` = [[vanilla/Технологии/Огораживание|Огораживание]]
 - **interest_group_leader_trigger**:
   - `ideology_land_reformer_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 8956–8973
-- **interest_group_leader_weight**: скрипт, строки 8975–9102
-- **non_interest_group_leader_weight**: скрипт, строки 9104–9202
+- **non_interest_group_leader_trigger**: скрипт, строки 8959–8976
+- **interest_group_leader_weight**: скрипт, строки 8978–9105
+- **non_interest_group_leader_weight**: скрипт, строки 9107–9205

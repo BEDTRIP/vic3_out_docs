@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Карлизм (ideology_carlist)» — ваниль 1.15, `ideology_carlist`"
+description: "Идеология «Карлизм (ideology_carlist)» — ваниль 1.15.2, `ideology_carlist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Карлизм (ideology_carlist)
 
-Идеология · `ideology_carlist` · `common/ideologies/01_character_ideologies.txt:11623`
+Идеология · `ideology_carlist` · `common/ideologies/01_character_ideologies.txt:11626`
 
 ## Поля
 
@@ -58,9 +58,9 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `strongly_disapprove`
   - [[vanilla/Законы/Командная экономика|Командная экономика]] = `strongly_disapprove`
   - [[vanilla/Законы/Добывающая экономика|Добывающая экономика]] = `disapprove`
-- **country_trigger**: скрипт, строки 11678–11693
+- **country_trigger**: скрипт, строки 11681–11696
 - **interest_group_leader_trigger**:
   - `ideology_carlist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 11699–11714
-- **interest_group_leader_weight**: скрипт, строки 11716–11812
-- **non_interest_group_leader_weight**: скрипт, строки 11814–11898
+- **non_interest_group_leader_trigger**: скрипт, строки 11702–11717
+- **interest_group_leader_weight**: скрипт, строки 11719–11815
+- **non_interest_group_leader_weight**: скрипт, строки 11817–11901

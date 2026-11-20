@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Tokyo Electric Light Company, Ltd» — ваниль 1.15, `company_tokyo_electric_light_company`"
+description: "Вид компании «Tokyo Electric Light Company, Ltd» — ваниль 1.15.2, `company_tokyo_electric_light_company`"
 project: vic3
 audience: agent
 source: vanilla

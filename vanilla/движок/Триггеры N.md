@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Триггеры N — 35, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Триггеры N — 38, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Триггеры N
 
-Из дампа `triggers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `triggers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **nand** — a negated AND trigger · supported scopes: none ^t-nand
 - **nationalization_cost** — Compares the total cost of nationalizing all buildings in scope country owned by the government or pops of target country Reads gamestate for all scopes. · `nationalization_cost = { target = scope:other_country value > 100000 } Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-nationalization-cost
@@ -22,6 +22,8 @@ generated: "v3 graph engine"
 - **night_value** — Night value · `Traits: <, <=, =, !=, >, >=` · supported scopes: none ^t-night-value
 - **nor** — a negated OR trigger · supported scopes: none ^t-nor
 - **not** — negates content of trigger · supported scopes: none ^t-not
+- **num_building_assets_of_group** — Checks the number of building levels of a given building group the scoped building own. Reads gamestate for all scopes. · `num_building_assets_of_group = { type = bg_military_industry value >= 3 } Traits: <, <=, =, !=, >, >=` · supported scopes: building ^t-num-building-assets-of-group
+- **num_building_assets_of_type** — Checks the number of building levels of a given type the scoped building own. Reads gamestate for all scopes. · `num_building_assets_of_type = { type = building_arms_industry value >= 3 } Traits: <, <=, =, !=, >, >=` · supported scopes: building ^t-num-building-assets-of-type
 - **num_casualties** — Checks the number of total casualties in the scoped war Reads gamestate for all scopes. · `num_casualties >= 5000 Traits: <, <=, =, !=, >, >=` · supported scopes: war ^t-num-casualties
 - **num_companies** — How many companies the scoped country has Reads gamestate for all scopes. · `num_companies > 0 Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-num-companies
 - **num_contraventions** — Check if the scoped article has the given number of contravention from the given country value > 0 } } Reads gamestate for all scopes. · `scope:treaty_article = { num_contraventions = { target = c:FRA Traits: <, <=, =, !=, >, >=` · supported scopes: treaty_article ^t-num-contraventions
@@ -41,6 +43,7 @@ generated: "v3 graph engine"
 - **num_power_bloc_members** — Compare the number of members in a power bloc against a value Reads gamestate for all scopes. · `num_power_bloc_members >= 2 Traits: <, <=, =, !=, >, >=` · supported scopes: power_bloc ^t-num-power-bloc-members
 - **num_power_bloc_states** — Compare the number of states in a power bloc against a value Reads gamestate for all scopes. · `num_power_bloc_states >= 2 Traits: <, <=, =, !=, >, >=` · supported scopes: power_bloc ^t-num-power-bloc-states
 - **num_provinces_in_theater** — Determines the number provinces in the scoped theater Reads gamestate for all scopes. · `num_provinces_in_theater > 10 Traits: <, <=, =, !=, >, >=` · supported scopes: theater ^t-num-provinces-in-theater
+- **num_significant_battles** — Number of ended battles in the scoped war that had power projection on both sides Reads gamestate for all scopes. · `scope:war = { num_significant_battles > 0 } Traits: <, <=, =, !=, >, >=` · supported scopes: war ^t-num-significant-battles
 - **num_subjects** — Compares the number of subjects of scoped country Reads gamestate for all scopes. · `num_subjects = <value> Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-num-subjects
 - **num_taxed_goods** — Compares the number of consumption taxed goods of scoped country Reads gamestate for all scopes. · `num_taxed_goods = <value> Traits: <, <=, =, !=, >, >=` · supported scopes: country ^t-num-taxed-goods
 - **num_wounded** — Checks the number of total wounded in the scoped war Reads gamestate for all scopes. · `num_wounded >= 5000 Traits: <, <=, =, !=, >, >=` · supported scopes: war ^t-num-wounded

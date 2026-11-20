@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_fishing_wharf)» — ваниль 1.15, `pmg_refrigeration_building_fishing_wharf`"
+description: "Группа методов производства «Охлаждение (pmg_refrigeration_building_fishing_wharf)» — ваниль 1.15.2, `pmg_refrigeration_building_fishing_wharf`"
 project: vic3
 audience: agent
 source: vanilla

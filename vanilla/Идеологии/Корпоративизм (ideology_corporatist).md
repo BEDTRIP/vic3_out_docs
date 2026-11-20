@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Корпоративизм (ideology_corporatist)» — ваниль 1.15, `ideology_corporatist`"
+description: "Идеология «Корпоративизм (ideology_corporatist)» — ваниль 1.15.2, `ideology_corporatist`"
 project: vic3
 audience: agent
 source: vanilla

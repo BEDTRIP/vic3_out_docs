@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Позитивист (ideology_positivist)» — ваниль 1.15, `ideology_positivist`"
+description: "Идеология «Позитивист (ideology_positivist)» — ваниль 1.15.2, `ideology_positivist`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
 ---
 # Позитивист (ideology_positivist)
 
-Идеология · `ideology_positivist` · `common/ideologies/01_character_ideologies.txt:8582`
+Идеология · `ideology_positivist` · `common/ideologies/01_character_ideologies.txt:8585`
 
 ## Поля
 
@@ -53,6 +53,6 @@ paths: [.vanillaVIC3/common/ideologies/01_character_ideologies.txt]
   - `has_global_variable` = `positivism_invented`
 - **interest_group_leader_trigger**:
   - `ideology_positivist_valid_trigger` = `yes`
-- **non_interest_group_leader_trigger**: скрипт, строки 8634–8658
-- **interest_group_leader_weight**: скрипт, строки 8660–8813
-- **non_interest_group_leader_weight**: скрипт, строки 8815–8924
+- **non_interest_group_leader_trigger**: скрипт, строки 8637–8661
+- **interest_group_leader_weight**: скрипт, строки 8663–8816
+- **non_interest_group_leader_weight**: скрипт, строки 8818–8927

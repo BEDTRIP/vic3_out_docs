@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Office Chérifien des Phosphates» — ваниль 1.15, `company_office_cherifien_des_phosphates`"
+description: "Вид компании «Office Chérifien des Phosphates» — ваниль 1.15.2, `company_office_cherifien_des_phosphates`"
 project: vic3
 audience: agent
 source: vanilla
@@ -12,7 +12,7 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 ---
 # Office Chérifien des Phosphates
 
-Вид компании · `company_office_cherifien_des_phosphates` · `common/company_types/00_companies_ip4.txt:457`
+Вид компании · `company_office_cherifien_des_phosphates` · `common/company_types/00_companies_ip4.txt:461`
 
 ## Поля
 
@@ -23,13 +23,13 @@ paths: [.vanillaVIC3/common/company_types/00_companies_ip4.txt]
 - **building_types**: [[vanilla/Здания/Серные рудники|Серные рудники]], [[vanilla/Здания/Заводы удобрений|Заводы удобрений]]
 - **extension_building_types**: [[vanilla/Здания/Железные рудники|Железные рудники]]
 - **possible_prestige_goods**: `prestige_good_generic_fertilizer`
-- **prestige_goods_trigger**: скрипт, строки 478–483
-- **potential**: скрипт, строки 485–487
-- **attainable**: скрипт, строки 489–495
-- **possible**: скрипт, строки 497–503
-- **ai_will_do**: скрипт, строки 505–510
-- **ai_construction_targets**: скрипт, строки 512–519
+- **prestige_goods_trigger**: скрипт, строки 482–487
+- **potential**: скрипт, строки 489–491
+- **attainable**: скрипт, строки 493–499
+- **possible**: скрипт, строки 501–507
+- **ai_will_do**: скрипт, строки 509–514
+- **ai_construction_targets**: скрипт, строки 516–523
 - **prosperity_modifier**:
   - [[vanilla/движок/Модификаторы B#^m-building-group-bg-agriculture-throughput-add|building_group_bg_agriculture_throughput_add]] = `0.1`
   - [[vanilla/движок/Модификаторы B#^m-building-sulfur-mine-throughput-add|building_sulfur_mine_throughput_add]] = `0.05` → [[vanilla/Здания/Серные рудники|Серные рудники]]
-- **ai_weight**: скрипт, строки 526–528
+- **ai_weight**: скрипт, строки 530–532

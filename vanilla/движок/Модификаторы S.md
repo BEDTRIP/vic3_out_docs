@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы S — 934, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы S — 877, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,16 +9,19 @@ generated: "v3 graph engine"
 ---
 # Модификаторы S
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **ship_accuracy_add** — Меткость · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-accuracy-add
 - **ship_accuracy_mult** — Меткость · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-accuracy-mult
 - **ship_armor_add** — Корабельная броня · Увеличение или уменьшение единиц брони, снижающей урон по корпусу корабля · mask: ship ^m-ship-armor-add
 - **ship_armor_mult** — Корабельная броня · Увеличение или уменьшение единиц брони, снижающей урон по корпусу корабля · mask: ship ^m-ship-armor-mult
+- **ship_battle_against_ship_type_coastal_defense_ship_hull_damage_mult** — Урон корпусу при атаке кораблей береговой охраны · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-battle-against-ship-type-coastal-defense-ship-hull-damage-mult
 - **ship_battle_against_ship_type_destroyer_accuracy_add** — Меткость эсминцев · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-battle-against-ship-type-destroyer-accuracy-add
 - **ship_battle_against_ship_type_destroyer_accuracy_mult** — Меткость эсминцев · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-battle-against-ship-type-destroyer-accuracy-mult
 - **ship_battle_against_ship_type_dreadnought_hull_damage_mult** — Урон корпусу при атаке дредноутов · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-battle-against-ship-type-dreadnought-hull-damage-mult
+- **ship_battle_against_ship_type_early_ironclad_hull_damage_mult** — Урон корпусу при атаке ранних броненосцев · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-battle-against-ship-type-early-ironclad-hull-damage-mult
 - **ship_battle_against_ship_type_modern_ironclad_hull_damage_mult** — Урон корпусу при атаке современных броненосцев · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-battle-against-ship-type-modern-ironclad-hull-damage-mult
+- **ship_battle_against_ship_type_monitor_hull_damage_mult** — Урон корпусу при атаке мониторов · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-battle-against-ship-type-monitor-hull-damage-mult
 - **ship_battle_against_ship_type_pre_dreadnought_hull_damage_mult** — Урон корпусу при атаке додредноутов · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-battle-against-ship-type-pre-dreadnought-hull-damage-mult
 - **ship_battle_against_ship_type_submarine_accuracy_add** — Меткость подводных лодок · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-battle-against-ship-type-submarine-accuracy-add
 - **ship_battle_against_ship_type_submarine_accuracy_mult** — Меткость подводных лодок · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-battle-against-ship-type-submarine-accuracy-mult
@@ -28,8 +31,8 @@ generated: "v3 graph engine"
 - **ship_battle_against_ship_type_torpedo_boat_destroyer_accuracy_add** — Меткость истребителей миноносцев · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-battle-against-ship-type-torpedo-boat-destroyer-accuracy-add
 - **ship_battle_against_ship_type_torpedo_boat_destroyer_accuracy_mult** — Меткость истребителей миноносцев · Повышение или снижение вероятности того, что корабль при атаке попадёт в цель. · mask: ship ^m-ship-battle-against-ship-type-torpedo-boat-destroyer-accuracy-mult
 - **ship_battle_condition_accuracy_penalty_mult** — Штраф к меткости от условий сражения · Увеличение или уменьшение штрафа к меткости от неблагоприятных условий сражения. · mask: ship ^m-ship-battle-condition-accuracy-penalty-mult
-- **ship_blockade_strength_add** — Сила блокады · Способность корабля блокировать вражеские порты · mask: ship ^m-ship-blockade-strength-add
-- **ship_blockade_strength_mult** — Сила блокады · Способность корабля блокировать вражеские порты · mask: ship ^m-ship-blockade-strength-mult
+- **ship_blockade_strength_add** — Сила блокады · Способность корабля блокировать враждебные порты · mask: ship ^m-ship-blockade-strength-add
+- **ship_blockade_strength_mult** — Сила блокады · Способность корабля блокировать враждебные порты · mask: ship ^m-ship-blockade-strength-mult
 - **ship_carrying_capacity_add** — Вместимость · Сколько батальонов может перевозить один корабль для поддержки морского вторжения · mask: ship ^m-ship-carrying-capacity-add
 - **ship_carrying_capacity_mult** — Вместимость · Сколько батальонов может перевозить один корабль для поддержки морского вторжения · mask: ship ^m-ship-carrying-capacity-mult
 - **ship_construction_progress_max_add** — Максимальный прогресс кораблестроения · Максимальный уровень прогресса постройки одного корабля, который страна может выделять каждую неделю · mask: ship ^m-ship-construction-progress-max-add
@@ -50,8 +53,6 @@ generated: "v3 graph engine"
 - **ship_hit_points_max_mult** — Максимум очков прочности · Максимальный уровень урона, который корпус корабля может выдержать до полного разрушения · mask: ship ^m-ship-hit-points-max-mult
 - **ship_hull_damage_add** — Урон корпусу при атаке · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-hull-damage-add
 - **ship_hull_damage_mult** — Урон корпусу при атаке · Повышение или снижение урона, который корабль может нанести корпусу вражеского корабля · mask: ship ^m-ship-hull-damage-mult
-- **ship_interest_gain_add** — к приросту вовлечённости от корабля · Бонус или штраф к вовлечённости, генерируемой этим кораблём в его стратегических регионах. · mask: ship ^m-ship-interest-gain-add
-- **ship_interest_gain_mult** — к приросту вовлечённости от корабля · Бонус или штраф к вовлечённости, генерируемой этим кораблём в его стратегических регионах. · mask: ship ^m-ship-interest-gain-mult
 - **ship_marine_capacity_add** — Численность морпехов · Увеличение или уменьшение количества морских пехотинцев, которое может перевозить корабль. Определяет его полезность во время морских вторжений и других десантных операций · mask: ship ^m-ship-marine-capacity-add
 - **ship_marine_capacity_mult** — Численность морпехов · Увеличение или уменьшение количества морских пехотинцев, которое может перевозить корабль. Определяет его полезность во время морских вторжений и других десантных операций · mask: ship ^m-ship-marine-capacity-mult
 - **ship_max_distance_to_port_add** — к максимальному расстоянию от порта · Увеличение или уменьшение максимального расстояния, на которое корабль может отдалиться от порта без штрафов · mask: ship ^m-ship-max-distance-to-port-add
@@ -59,6 +60,8 @@ generated: "v3 graph engine"
 - **ship_movement_speed_add** — Скорость корабля · Увеличение или уменьшение скорости движения кораблей. Скорость флота определяется по самому медленному кораблю в его составе · mask: ship ^m-ship-movement-speed-add
 - **ship_movement_speed_mult** — Скорость корабля · Увеличение или уменьшение скорости движения кораблей. Скорость флота определяется по самому медленному кораблю в его составе · mask: ship ^m-ship-movement-speed-mult
 - **ship_naval_invasion_efficiency_mult** — Эффективность морского вторжения · Величина вклада корабля в эффективность батальонов, осуществляющих морское вторжение. · mask: ship ^m-ship-naval-invasion-efficiency-mult
+- **ship_power_projection_add** — Демонстрация силы кораблей · Повышение или снижение демонстрации силы от кораблей. Определяет, сколько вовлечённости даёт каждый корабль. · mask: ship ^m-ship-power-projection-add
+- **ship_power_projection_mult** — Демонстрация силы кораблей · Повышение или снижение демонстрации силы от кораблей. Определяет, сколько вовлечённости даёт каждый корабль. · mask: ship ^m-ship-power-projection-mult
 - **ship_readiness_gain_add** — Готовность · Повышение или снижение скорости действия корабля в бою · mask: ship ^m-ship-readiness-gain-add
 - **ship_readiness_gain_mult** — Готовность · Повышение или снижение скорости действия корабля в бою · mask: ship ^m-ship-readiness-gain-mult
 - **ship_screening_add** — Прикрытие · От величины этого показателя зависит, в какой степени корабль способен компенсировать уязвимость других кораблей · mask: ship ^m-ship-screening-add
@@ -79,6 +82,7 @@ generated: "v3 graph engine"
 - **ship_visibility_mult** — Заметность · От величины этого показателя зависит, насколько сложно заметить корабль · mask: ship ^m-ship-visibility-mult
 - **ship_vulnerability_add** — Уязвимость · От величины этого показателя зависит степень уязвимости корабля для атак · mask: ship ^m-ship-vulnerability-add
 - **ship_vulnerability_mult** — Уязвимость · От величины этого показателя зависит степень уязвимости корабля для атак · mask: ship ^m-ship-vulnerability-mult
+- **state_abkhazian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Абхазцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-abkhazian-standard-of-living-add
 - **state_aborigine_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Аборигены · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-aborigine-standard-of-living-add
 - **state_academics_dependent_wage_mult** — mask: state ^m-state-academics-dependent-wage-mult
 - **state_academics_internal_migration_disallowed_bool** — mask: state ^m-state-academics-internal-migration-disallowed-bool
@@ -108,7 +112,7 @@ generated: "v3 graph engine"
 - **state_animist_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Анимизм · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-animist-standard-of-living-add
 - **state_apache_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Апачи · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-apache-standard-of-living-add
 - **state_aragonese_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Арагонцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-aragonese-standard-of-living-add
-- **state_argentine_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Аргентина · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-argentine-standard-of-living-add
+- **state_argentine_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Аргентинцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-argentine-standard-of-living-add
 - **state_aristocrats_dependent_wage_mult** — mask: state ^m-state-aristocrats-dependent-wage-mult
 - **state_aristocrats_internal_migration_disallowed_bool** — mask: state ^m-state-aristocrats-internal-migration-disallowed-bool
 - **state_aristocrats_investment_pool_contribution_add** — к инвестиционному пулу от aristocrats! аристократов · Часть доходов, которую aristocrats! аристократы будут инвестировать. · mask: state ^m-state-aristocrats-investment-pool-contribution-add
@@ -155,47 +159,8 @@ generated: "v3 graph engine"
 - **state_british_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Англичане · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-british-standard-of-living-add
 - **state_building_barrack_max_level_add** — к макс. уровню казарм · Бонус или штраф к максимальному уровню казарм. · mask: state ^m-state-building-barrack-max-level-add
 - **state_building_conscription_center_max_level_add** — Максимальный лимит призыва · Бонус или штраф к общему количеству батальонов призывников, которые можно набрать в одной области независимо от доли призывников. · mask: state ^m-state-building-conscription-center-max-level-add
-- **state_building_financial_centre_arg_max_level_add** — Максимальный уровень Bolsa de Comercio de Buenos Aires · Максимальный уровень Bolsa de Comercio de Buenos Aires · mask: state ^m-state-building-financial-centre-arg-max-level-add
-- **state_building_financial_centre_aus_max_level_add** — Максимальный уровень Wiener Börse · Максимальный уровень Wiener Börse · mask: state ^m-state-building-financial-centre-aus-max-level-add
-- **state_building_financial_centre_bav_max_level_add** — Максимальный уровень Münchener Börse · Максимальный уровень Münchener Börse · mask: state ^m-state-building-financial-centre-bav-max-level-add
-- **state_building_financial_centre_bel_max_level_add** — Максимальный уровень Bourse de Bruxelles · Максимальный уровень Bourse de Bruxelles · mask: state ^m-state-building-financial-centre-bel-max-level-add
-- **state_building_financial_centre_bic_max_level_add** — Максимальный уровень Bombay Stock Exchange · Максимальный уровень Bombay Stock Exchange · mask: state ^m-state-building-financial-centre-bic-max-level-add
-- **state_building_financial_centre_brz_max_level_add** — Максимальный уровень Brasil Bolsa Balcão · Максимальный уровень Brasil Bolsa Balcão · mask: state ^m-state-building-financial-centre-brz-max-level-add
-- **state_building_financial_centre_chi_max_level_add** — Максимальный уровень Shanghai Sharebrokers’ Association · Максимальный уровень Shanghai Sharebrokers’ Association · mask: state ^m-state-building-financial-centre-chi-max-level-add
-- **state_building_financial_centre_chl_max_level_add** — Максимальный уровень Bolsa de Comercio de Santiago · Максимальный уровень Bolsa de Comercio de Santiago · mask: state ^m-state-building-financial-centre-chl-max-level-add
-- **state_building_financial_centre_dei_max_level_add** — Максимальный уровень Beurs van Batavia · Максимальный уровень Beurs van Batavia · mask: state ^m-state-building-financial-centre-dei-max-level-add
-- **state_building_financial_centre_den_max_level_add** — Максимальный уровень Københavns Fondsbørs · Максимальный уровень Københavns Fondsbørs · mask: state ^m-state-building-financial-centre-den-max-level-add
-- **state_building_financial_centre_egy_max_level_add** — Максимальный уровень Khedive Stock Exchange · Максимальный уровень Khedive Stock Exchange · mask: state ^m-state-building-financial-centre-egy-max-level-add
-- **state_building_financial_centre_fra_max_level_add** — Максимальный уровень Bourse de Paris · Максимальный уровень Bourse de Paris · mask: state ^m-state-building-financial-centre-fra-max-level-add
-- **state_building_financial_centre_frm_max_level_add** — Максимальный уровень Frankfurter Wertpapierbörse · Максимальный уровень Frankfurter Wertpapierbörse · mask: state ^m-state-building-financial-centre-frm-max-level-add
-- **state_building_financial_centre_gbr_max_level_add** — Максимальный уровень London Stock Exchange · Максимальный уровень London Stock Exchange · mask: state ^m-state-building-financial-centre-gbr-max-level-add
-- **state_building_financial_centre_gre_max_level_add** — Максимальный уровень Χρηματιστήριο Αθηνών · Максимальный уровень Χρηματιστήριο Αθηνών · mask: state ^m-state-building-financial-centre-gre-max-level-add
-- **state_building_financial_centre_han_max_level_add** — Максимальный уровень Börse Hannover · Максимальный уровень Börse Hannover · mask: state ^m-state-building-financial-centre-han-max-level-add
-- **state_building_financial_centre_ita_max_level_add** — Максимальный уровень Borsa Italiana · Максимальный уровень Borsa Italiana · mask: state ^m-state-building-financial-centre-ita-max-level-add
-- **state_building_financial_centre_jap_max_level_add** — Максимальный уровень Tokyo Stock Exchange · Максимальный уровень Tokyo Stock Exchange · mask: state ^m-state-building-financial-centre-jap-max-level-add
-- **state_building_financial_centre_max_level_add** — Максимальный уровень финансового центра · Максимальный уровень финансового центра · mask: state ^m-state-building-financial-centre-max-level-add
-- **state_building_financial_centre_mex_max_level_add** — Максимальный уровень Bolsa de Valores de México · Максимальный уровень Bolsa de Valores de México · mask: state ^m-state-building-financial-centre-mex-max-level-add
-- **state_building_financial_centre_net_max_level_add** — Максимальный уровень Beurs van Amsterdam · Максимальный уровень Beurs van Amsterdam · mask: state ^m-state-building-financial-centre-net-max-level-add
-- **state_building_financial_centre_nsw_max_level_add** — Максимальный уровень Australian Securities Exchange · Максимальный уровень Australian Securities Exchange · mask: state ^m-state-building-financial-centre-nsw-max-level-add
-- **state_building_financial_centre_ont_max_level_add** — Максимальный уровень Toronto Stock Exchange · Максимальный уровень Toronto Stock Exchange · mask: state ^m-state-building-financial-centre-ont-max-level-add
-- **state_building_financial_centre_peu_max_level_add** — Максимальный уровень Bolsa de Valores de Lima · Максимальный уровень Bolsa de Valores de Lima · mask: state ^m-state-building-financial-centre-peu-max-level-add
-- **state_building_financial_centre_por_max_level_add** — Максимальный уровень Bolsa de Valores de Lisboa · Максимальный уровень Bolsa de Valores de Lisboa · mask: state ^m-state-building-financial-centre-por-max-level-add
-- **state_building_financial_centre_pru_max_level_add** — Максимальный уровень Börse zu Berlin · Максимальный уровень Börse zu Berlin · mask: state ^m-state-building-financial-centre-pru-max-level-add
-- **state_building_financial_centre_que_max_level_add** — Максимальный уровень Bourse de Montréal · Максимальный уровень Bourse de Montréal · mask: state ^m-state-building-financial-centre-que-max-level-add
-- **state_building_financial_centre_rus_max_level_add** — Максимальный уровень Санкт-Петербургской биржи · Максимальный уровень Санкт-Петербургской биржи · mask: state ^m-state-building-financial-centre-rus-max-level-add
-- **state_building_financial_centre_saf_max_level_add** — Максимальный уровень Johannesburg Stock Exchange · Максимальный уровень Johannesburg Stock Exchange · mask: state ^m-state-building-financial-centre-saf-max-level-add
-- **state_building_financial_centre_sar_max_level_add** — Максимальный уровень Borsa di Cagliari · Максимальный уровень Borsa di Cagliari · mask: state ^m-state-building-financial-centre-sar-max-level-add
-- **state_building_financial_centre_sax_max_level_add** — Максимальный уровень Sächsische Börse · Максимальный уровень Sächsische Börse · mask: state ^m-state-building-financial-centre-sax-max-level-add
-- **state_building_financial_centre_sic_max_level_add** — Максимальный уровень Borsa di Napoli · Максимальный уровень Borsa di Napoli · mask: state ^m-state-building-financial-centre-sic-max-level-add
-- **state_building_financial_centre_spa_max_level_add** — Максимальный уровень Bolsa de Madrid · Максимальный уровень Bolsa de Madrid · mask: state ^m-state-building-financial-centre-spa-max-level-add
-- **state_building_financial_centre_swe_max_level_add** — Максимальный уровень Stockholmsbörsen · Максимальный уровень Stockholmsbörsen · mask: state ^m-state-building-financial-centre-swe-max-level-add
-- **state_building_financial_centre_swi_max_level_add** — Максимальный уровень Bourses de Genève · Максимальный уровень Bourses de Genève · mask: state ^m-state-building-financial-centre-swi-max-level-add
-- **state_building_financial_centre_tur_max_level_add** — Максимальный уровень İstanbul Menkul Kıymetler Borsası · Максимальный уровень İstanbul Menkul Kıymetler Borsası · mask: state ^m-state-building-financial-centre-tur-max-level-add
-- **state_building_financial_centre_tus_max_level_add** — Максимальный уровень Borsa di Toscana · Максимальный уровень Borsa di Toscana · mask: state ^m-state-building-financial-centre-tus-max-level-add
-- **state_building_financial_centre_uru_max_level_add** — Максимальный уровень Bolsa de Valores de Montevideo · Максимальный уровень Bolsa de Valores de Montevideo · mask: state ^m-state-building-financial-centre-uru-max-level-add
-- **state_building_financial_centre_usa_max_level_add** — Максимальный уровень New York Stock Exchange · Максимальный уровень New York Stock Exchange · mask: state ^m-state-building-financial-centre-usa-max-level-add
+- **state_building_construction_sector_max_level_add** — Макс. уровень строительного сектора · Бонус или штраф к максимальному уровню строительного сектора. · mask: state ^m-state-building-construction-sector-max-level-add
 - **state_building_naval_fortification_max_level_add** — к макс. уровню береговых укреплений · Бонус или штраф к максимальному уровню береговых укреплений. · mask: state ^m-state-building-naval-fortification-max-level-add
-- **state_building_silver_mine_max_level_add** — Максимальный уровень серебряных рудников · Максимальный уровень серебряных рудников · mask: state ^m-state-building-silver-mine-max-level-add
 - **state_bulgarian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Болгары · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-bulgarian-standard-of-living-add
 - **state_bundeli_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Бундели · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-bundeli-standard-of-living-add
 - **state_bureaucracy_population_base_cost_factor_mult** — к множителю затрат bur! бюрократии на население · Увеличение или снижение административных затрат на ваше население · mask: state ^m-state-bureaucracy-population-base-cost-factor-mult
@@ -208,16 +173,14 @@ generated: "v3 graph engine"
 - **state_burmese_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Бирманцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-burmese-standard-of-living-add
 - **state_buryat_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Буряты · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-buryat-standard-of-living-add
 - **state_buy_orders_aeroplanes_add** — mask: state ^m-state-buy-orders-aeroplanes-add
-- **state_buy_orders_agricultural_stock_add** — mask: state ^m-state-buy-orders-agricultural-stock-add
 - **state_buy_orders_ammunition_add** — Приказы о покупке ammunition! боеприпасов · Увеличение или уменьшение приказов о покупке боеприпасов в области. · mask: state ^m-state-buy-orders-ammunition-add
-- **state_buy_orders_arc_welded_construction_add** — mask: state ^m-state-buy-orders-arc-welded-construction-add
 - **state_buy_orders_artillery_add** — Приказы о покупке artillery! артиллерии · Увеличение или уменьшение приказов о покупке артиллерии в области. · mask: state ^m-state-buy-orders-artillery-add
 - **state_buy_orders_automobiles_add** — mask: state ^m-state-buy-orders-automobiles-add
-- **state_buy_orders_bond_add** — mask: state ^m-state-buy-orders-bond-add
 - **state_buy_orders_clippers_add** — mask: state ^m-state-buy-orders-clippers-add
 - **state_buy_orders_clothes_add** — mask: state ^m-state-buy-orders-clothes-add
 - **state_buy_orders_coal_add** — mask: state ^m-state-buy-orders-coal-add
 - **state_buy_orders_coffee_add** — mask: state ^m-state-buy-orders-coffee-add
+- **state_buy_orders_copper_add** — mask: state ^m-state-buy-orders-copper-add
 - **state_buy_orders_dye_add** — mask: state ^m-state-buy-orders-dye-add
 - **state_buy_orders_electricity_add** — mask: state ^m-state-buy-orders-electricity-add
 - **state_buy_orders_engines_add** — mask: state ^m-state-buy-orders-engines-add
@@ -234,34 +197,25 @@ generated: "v3 graph engine"
 - **state_buy_orders_groceries_add** — mask: state ^m-state-buy-orders-groceries-add
 - **state_buy_orders_hardwood_add** — mask: state ^m-state-buy-orders-hardwood-add
 - **state_buy_orders_iron_add** — mask: state ^m-state-buy-orders-iron-add
-- **state_buy_orders_iron_construction_add** — mask: state ^m-state-buy-orders-iron-construction-add
 - **state_buy_orders_ironclads_add** — mask: state ^m-state-buy-orders-ironclads-add
 - **state_buy_orders_lead_add** — mask: state ^m-state-buy-orders-lead-add
-- **state_buy_orders_liquidity_currency_add** — mask: state ^m-state-buy-orders-liquidity-currency-add
 - **state_buy_orders_liquor_add** — mask: state ^m-state-buy-orders-liquor-add
-- **state_buy_orders_local_currency_add** — mask: state ^m-state-buy-orders-local-currency-add
 - **state_buy_orders_luxury_clothes_add** — mask: state ^m-state-buy-orders-luxury-clothes-add
 - **state_buy_orders_luxury_furniture_add** — mask: state ^m-state-buy-orders-luxury-furniture-add
 - **state_buy_orders_manowars_add** — mask: state ^m-state-buy-orders-manowars-add
-- **state_buy_orders_manufacture_stock_add** — mask: state ^m-state-buy-orders-manufacture-stock-add
 - **state_buy_orders_meat_add** — mask: state ^m-state-buy-orders-meat-add
 - **state_buy_orders_merchant_marine_add** — mask: state ^m-state-buy-orders-merchant-marine-add
-- **state_buy_orders_mining_stock_add** — mask: state ^m-state-buy-orders-mining-stock-add
-- **state_buy_orders_mutual_funds_add** — mask: state ^m-state-buy-orders-mutual-funds-add
 - **state_buy_orders_oil_add** — mask: state ^m-state-buy-orders-oil-add
 - **state_buy_orders_opium_add** — mask: state ^m-state-buy-orders-opium-add
 - **state_buy_orders_paper_add** — mask: state ^m-state-buy-orders-paper-add
 - **state_buy_orders_porcelain_add** — mask: state ^m-state-buy-orders-porcelain-add
 - **state_buy_orders_radios_add** — mask: state ^m-state-buy-orders-radios-add
-- **state_buy_orders_railroad_stock_add** — mask: state ^m-state-buy-orders-railroad-stock-add
 - **state_buy_orders_rubber_add** — mask: state ^m-state-buy-orders-rubber-add
 - **state_buy_orders_services_add** — mask: state ^m-state-buy-orders-services-add
 - **state_buy_orders_silk_add** — mask: state ^m-state-buy-orders-silk-add
-- **state_buy_orders_silver_add** — mask: state ^m-state-buy-orders-silver-add
 - **state_buy_orders_small_arms_add** — Приказы о покупке small_arms! стрелкового оружия · Увеличение или уменьшение приказов о покупке стрелкового оружия в области. · mask: state ^m-state-buy-orders-small-arms-add
 - **state_buy_orders_steamers_add** — mask: state ^m-state-buy-orders-steamers-add
 - **state_buy_orders_steel_add** — mask: state ^m-state-buy-orders-steel-add
-- **state_buy_orders_steel_construction_add** — mask: state ^m-state-buy-orders-steel-construction-add
 - **state_buy_orders_sugar_add** — mask: state ^m-state-buy-orders-sugar-add
 - **state_buy_orders_sulfur_add** — mask: state ^m-state-buy-orders-sulfur-add
 - **state_buy_orders_tanks_add** — mask: state ^m-state-buy-orders-tanks-add
@@ -272,10 +226,9 @@ generated: "v3 graph engine"
 - **state_buy_orders_transportation_add** — mask: state ^m-state-buy-orders-transportation-add
 - **state_buy_orders_wine_add** — mask: state ^m-state-buy-orders-wine-add
 - **state_buy_orders_wood_add** — mask: state ^m-state-buy-orders-wood-add
-- **state_buy_orders_wood_construction_add** — mask: state ^m-state-buy-orders-wood-construction-add
 - **state_byelorussian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Белорусы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-byelorussian-standard-of-living-add
 - **state_caddoan_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Каддо · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-caddoan-standard-of-living-add
-- **state_cajun_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Каджун · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-cajun-standard-of-living-add
+- **state_cajun_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Каджуны · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-cajun-standard-of-living-add
 - **state_capitalists_dependent_wage_mult** — mask: state ^m-state-capitalists-dependent-wage-mult
 - **state_capitalists_internal_migration_disallowed_bool** — mask: state ^m-state-capitalists-internal-migration-disallowed-bool
 - **state_capitalists_investment_pool_contribution_add** — к инвестиционному пулу от capitalists! капиталистов · Часть доходов, которую capitalists! капиталисты будут инвестировать. · mask: state ^m-state-capitalists-investment-pool-contribution-add
@@ -286,6 +239,7 @@ generated: "v3 graph engine"
 - **state_caribeno_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Карибеньо · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-caribeno-standard-of-living-add
 - **state_catalan_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Каталонцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-catalan-standard-of-living-add
 - **state_catholic_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Католичество · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-catholic-standard-of-living-add
+- **state_caucasian_turk_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кавказские тюрки · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-caucasian-turk-standard-of-living-add
 - **state_central_american_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Центральноамериканцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-central-american-standard-of-living-add
 - **state_champa_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Тямпцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-champa-standard-of-living-add
 - **state_chechen_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чеченцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-chechen-standard-of-living-add
@@ -293,6 +247,7 @@ generated: "v3 graph engine"
 - **state_chewa_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чева · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-chewa-standard-of-living-add
 - **state_chhattisgarhi_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чхаттисгархи · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-chhattisgarhi-standard-of-living-add
 - **state_chilean_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чилийцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-chilean-standard-of-living-add
+- **state_chukchi_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чукчи · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-chukchi-standard-of-living-add
 - **state_chuvash_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чуваши · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-chuvash-standard-of-living-add
 - **state_circassian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Черкесы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-circassian-standard-of-living-add
 - **state_clergymen_dependent_wage_mult** — mask: state ^m-state-clergymen-dependent-wage-mult
@@ -320,8 +275,10 @@ generated: "v3 graph engine"
 - **state_conversion_mult** — к обращению · Бонус или штраф к обращению · mask: state ^m-state-conversion-mult
 - **state_corsican_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Корсиканцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-corsican-standard-of-living-add
 - **state_cree_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кри · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-cree-standard-of-living-add
+- **state_crimean_tatar_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Крымские татары · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-crimean-tatar-standard-of-living-add
 - **state_croat_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Хорваты · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-croat-standard-of-living-add
 - **state_czech_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Чехи · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-czech-standard-of-living-add
+- **state_dagestani_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Дагестанцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-dagestani-standard-of-living-add
 - **state_dakota_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Дакота · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-dakota-standard-of-living-add
 - **state_danish_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Датчане · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-danish-standard-of-living-add
 - **state_dayak_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Даяки · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-dayak-standard-of-living-add
@@ -332,6 +289,8 @@ generated: "v3 graph engine"
 - **state_dependent_wage_mult** — к доходу от иждивенцев · Увеличение или уменьшение дохода от иждивенцев. · mask: state ^m-state-dependent-wage-mult
 - **state_devastation_decay_mult** — Восстановление от опустошения · Бонус или штраф к скорости восстановления областей от опустошения. · mask: state ^m-state-devastation-decay-mult
 - **state_dinka_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Динка · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-dinka-standard-of-living-add
+- **state_disable_disband_prestige_penalty_bool** — Нет штрафов к престижу из-за роспуска · При роспуске батальонов из области не тратится престиж · mask: state ^m-state-disable-disband-prestige-penalty-bool
+- **state_disallow_barracks_construction_bool** — Запретить строительство военных сооружений · В этой области запрещено строить сооружения «Армейские сооружения» и набирать новые батальоны · mask: state ^m-state-disallow-barracks-construction-bool
 - **state_disallow_incorporation_bool** — Запрещено включение области · Невозможно включить область из-за модификатора. · mask: state ^m-state-disallow-incorporation-bool
 - **state_dixie_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Дикси · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-dixie-standard-of-living-add
 - **state_dutch_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Нидерландцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-dutch-standard-of-living-add
@@ -349,6 +308,7 @@ generated: "v3 graph engine"
 - **state_engineers_mortality_mult** — mask: state ^m-state-engineers-mortality-mult
 - **state_equatorial_bantu_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Экваториальные банту · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-equatorial-bantu-standard-of-living-add
 - **state_estonian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Эстонцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-estonian-standard-of-living-add
+- **state_evenki_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Эвенки · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-evenki-standard-of-living-add
 - **state_ewe_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Эве · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-ewe-standard-of-living-add
 - **state_expected_sol_from_literacy** — к минимальному ожидаемому уровню жизни из-за грамотности · Повышение или снижение минимального уровня жизни, при котором группы населения будут чувствовать себя комфортно в соответствии с их грамотностью. · mask: state ^m-state-expected-sol-from-literacy
 - **state_expected_sol_mult** — к минимальному ожидаемому уровню жизни · Повышение или снижение минимального уровня жизни, при котором группы населения будут чувствовать себя комфортно · mask: state ^m-state-expected-sol-mult
@@ -423,16 +383,14 @@ generated: "v3 graph engine"
 - **state_incorporation_speed_mult** — Скорость включения · Бонус или штраф к скорости включения областей · mask: state ^m-state-incorporation-speed-mult
 - **state_infrastructure_add** — к инфраструктуре · Бонус или штраф к инфраструктуре области. · mask: state ^m-state-infrastructure-add
 - **state_infrastructure_from_aeroplanes_consumption_add** — mask: state ^m-state-infrastructure-from-aeroplanes-consumption-add
-- **state_infrastructure_from_agricultural_stock_consumption_add** — mask: state ^m-state-infrastructure-from-agricultural-stock-consumption-add
 - **state_infrastructure_from_ammunition_consumption_add** — mask: state ^m-state-infrastructure-from-ammunition-consumption-add
-- **state_infrastructure_from_arc_welded_construction_consumption_add** — mask: state ^m-state-infrastructure-from-arc-welded-construction-consumption-add
 - **state_infrastructure_from_artillery_consumption_add** — mask: state ^m-state-infrastructure-from-artillery-consumption-add
 - **state_infrastructure_from_automobiles_consumption_add** — Инфраструктура от потребления automobiles! автомобилей населением · Уровень инфраструктуры, который даётся за каждую единицу automobiles! автомобилей, потребляемых группами населения, которые проживают в области · mask: state ^m-state-infrastructure-from-automobiles-consumption-add
-- **state_infrastructure_from_bond_consumption_add** — mask: state ^m-state-infrastructure-from-bond-consumption-add
 - **state_infrastructure_from_clippers_consumption_add** — mask: state ^m-state-infrastructure-from-clippers-consumption-add
 - **state_infrastructure_from_clothes_consumption_add** — mask: state ^m-state-infrastructure-from-clothes-consumption-add
 - **state_infrastructure_from_coal_consumption_add** — mask: state ^m-state-infrastructure-from-coal-consumption-add
 - **state_infrastructure_from_coffee_consumption_add** — mask: state ^m-state-infrastructure-from-coffee-consumption-add
+- **state_infrastructure_from_copper_consumption_add** — mask: state ^m-state-infrastructure-from-copper-consumption-add
 - **state_infrastructure_from_dye_consumption_add** — mask: state ^m-state-infrastructure-from-dye-consumption-add
 - **state_infrastructure_from_electricity_consumption_add** — mask: state ^m-state-infrastructure-from-electricity-consumption-add
 - **state_infrastructure_from_engines_consumption_add** — mask: state ^m-state-infrastructure-from-engines-consumption-add
@@ -448,21 +406,15 @@ generated: "v3 graph engine"
 - **state_infrastructure_from_grain_consumption_add** — mask: state ^m-state-infrastructure-from-grain-consumption-add
 - **state_infrastructure_from_groceries_consumption_add** — mask: state ^m-state-infrastructure-from-groceries-consumption-add
 - **state_infrastructure_from_hardwood_consumption_add** — mask: state ^m-state-infrastructure-from-hardwood-consumption-add
-- **state_infrastructure_from_iron_construction_consumption_add** — mask: state ^m-state-infrastructure-from-iron-construction-consumption-add
 - **state_infrastructure_from_iron_consumption_add** — mask: state ^m-state-infrastructure-from-iron-consumption-add
 - **state_infrastructure_from_ironclads_consumption_add** — mask: state ^m-state-infrastructure-from-ironclads-consumption-add
 - **state_infrastructure_from_lead_consumption_add** — mask: state ^m-state-infrastructure-from-lead-consumption-add
-- **state_infrastructure_from_liquidity_currency_consumption_add** — mask: state ^m-state-infrastructure-from-liquidity-currency-consumption-add
 - **state_infrastructure_from_liquor_consumption_add** — mask: state ^m-state-infrastructure-from-liquor-consumption-add
-- **state_infrastructure_from_local_currency_consumption_add** — mask: state ^m-state-infrastructure-from-local-currency-consumption-add
 - **state_infrastructure_from_luxury_clothes_consumption_add** — mask: state ^m-state-infrastructure-from-luxury-clothes-consumption-add
 - **state_infrastructure_from_luxury_furniture_consumption_add** — mask: state ^m-state-infrastructure-from-luxury-furniture-consumption-add
 - **state_infrastructure_from_manowars_consumption_add** — mask: state ^m-state-infrastructure-from-manowars-consumption-add
-- **state_infrastructure_from_manufacture_stock_consumption_add** — mask: state ^m-state-infrastructure-from-manufacture-stock-consumption-add
 - **state_infrastructure_from_meat_consumption_add** — mask: state ^m-state-infrastructure-from-meat-consumption-add
 - **state_infrastructure_from_merchant_marine_consumption_add** — mask: state ^m-state-infrastructure-from-merchant-marine-consumption-add
-- **state_infrastructure_from_mining_stock_consumption_add** — mask: state ^m-state-infrastructure-from-mining-stock-consumption-add
-- **state_infrastructure_from_mutual_funds_consumption_add** — mask: state ^m-state-infrastructure-from-mutual-funds-consumption-add
 - **state_infrastructure_from_oil_consumption_add** — mask: state ^m-state-infrastructure-from-oil-consumption-add
 - **state_infrastructure_from_opium_consumption_add** — mask: state ^m-state-infrastructure-from-opium-consumption-add
 - **state_infrastructure_from_paper_consumption_add** — mask: state ^m-state-infrastructure-from-paper-consumption-add
@@ -472,14 +424,11 @@ generated: "v3 graph engine"
 - **state_infrastructure_from_population_mult** — Инфраструктура за 100K населения · Уровень инфраструктуры, который даётся за группы населения (до 100K), которые проживают в области. · mask: state ^m-state-infrastructure-from-population-mult
 - **state_infrastructure_from_porcelain_consumption_add** — mask: state ^m-state-infrastructure-from-porcelain-consumption-add
 - **state_infrastructure_from_radios_consumption_add** — mask: state ^m-state-infrastructure-from-radios-consumption-add
-- **state_infrastructure_from_railroad_stock_consumption_add** — mask: state ^m-state-infrastructure-from-railroad-stock-consumption-add
 - **state_infrastructure_from_rubber_consumption_add** — mask: state ^m-state-infrastructure-from-rubber-consumption-add
 - **state_infrastructure_from_services_consumption_add** — mask: state ^m-state-infrastructure-from-services-consumption-add
 - **state_infrastructure_from_silk_consumption_add** — mask: state ^m-state-infrastructure-from-silk-consumption-add
-- **state_infrastructure_from_silver_consumption_add** — mask: state ^m-state-infrastructure-from-silver-consumption-add
 - **state_infrastructure_from_small_arms_consumption_add** — mask: state ^m-state-infrastructure-from-small-arms-consumption-add
 - **state_infrastructure_from_steamers_consumption_add** — mask: state ^m-state-infrastructure-from-steamers-consumption-add
-- **state_infrastructure_from_steel_construction_consumption_add** — mask: state ^m-state-infrastructure-from-steel-construction-consumption-add
 - **state_infrastructure_from_steel_consumption_add** — mask: state ^m-state-infrastructure-from-steel-consumption-add
 - **state_infrastructure_from_sugar_consumption_add** — mask: state ^m-state-infrastructure-from-sugar-consumption-add
 - **state_infrastructure_from_sulfur_consumption_add** — mask: state ^m-state-infrastructure-from-sulfur-consumption-add
@@ -490,7 +439,6 @@ generated: "v3 graph engine"
 - **state_infrastructure_from_tools_consumption_add** — mask: state ^m-state-infrastructure-from-tools-consumption-add
 - **state_infrastructure_from_transportation_consumption_add** — mask: state ^m-state-infrastructure-from-transportation-consumption-add
 - **state_infrastructure_from_wine_consumption_add** — mask: state ^m-state-infrastructure-from-wine-consumption-add
-- **state_infrastructure_from_wood_construction_consumption_add** — mask: state ^m-state-infrastructure-from-wood-construction-consumption-add
 - **state_infrastructure_from_wood_consumption_add** — mask: state ^m-state-infrastructure-from-wood-consumption-add
 - **state_infrastructure_mult** — к инфраструктуре · Бонус или штраф к инфраструктуре области. · mask: state ^m-state-infrastructure-mult
 - **state_institution_impact_add** — Влияние институтов · Увеличение или уменьшение влияния институтов в области. · mask: state ^m-state-institution-impact-add
@@ -511,7 +459,7 @@ generated: "v3 graph engine"
 - **state_kazak_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Казахи · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-kazak-standard-of-living-add
 - **state_khmer_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кхмеры · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-khmer-standard-of-living-add
 - **state_khmu_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кхму · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-khmu-standard-of-living-add
-- **state_kho_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кхо · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-kho-standard-of-living-add
+- **state_kho_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Читрали · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-kho-standard-of-living-add
 - **state_khoisan_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Койсаны · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-khoisan-standard-of-living-add
 - **state_kikuyu_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кикуйю · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-kikuyu-standard-of-living-add
 - **state_kirgiz_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Киргизы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-kirgiz-standard-of-living-add
@@ -531,6 +479,7 @@ generated: "v3 graph engine"
 - **state_literacy_growth_add** — Прирост грамотности · Бонус или штраф к приросту грамотности в области. · mask: state ^m-state-literacy-growth-add
 - **state_lithuanian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Литовцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-lithuanian-standard-of-living-add
 - **state_lomwe_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Ломве · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-lomwe-standard-of-living-add
+- **state_lower_strata_birth_rate_mult** — Рождаемость низшего класса · Сколько детей рождается ежегодно у низшего класса. · mask: state ^m-state-lower-strata-birth-rate-mult
 - **state_lower_strata_expected_sol_add** — к минимальному ожидаемому уровню жизни для низшего класса · Повышение или снижение минимального уровня жизни, при котором группы населения, принадлежащие к низшему классу, будут чувствовать себя комфортно. · mask: state ^m-state-lower-strata-expected-sol-add
 - **state_lower_strata_standard_of_living_add** — к уровню жизни для низшего класса · Помимо благосостояния, добавлен дополнительный уровень жизни · mask: state ^m-state-lower-strata-standard-of-living-add
 - **state_loyalism_increases_cultural_erasure_mult** — Рост лоялизма среди обладателей статуса acceptance_status_2! «Вымывание культуры» · Бонус или штраф к росту лоялизма среди групп населения с данным статусом · mask: state ^m-state-loyalism-increases-cultural-erasure-mult
@@ -575,6 +524,7 @@ generated: "v3 graph engine"
 - **state_mexican_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Мексиканцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-mexican-standard-of-living-add
 - **state_miao_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Мяо · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-miao-standard-of-living-add
 - **state_micronesian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Микронезийцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-micronesian-standard-of-living-add
+- **state_middle_strata_birth_rate_mult** — Рождаемость среднего класса · Сколько детей рождается ежегодно у среднего класса. · mask: state ^m-state-middle-strata-birth-rate-mult
 - **state_middle_strata_expected_sol_add** — к минимальному ожидаемому уровню жизни для среднего класса · Повышение или снижение минимального уровня жизни, при котором группы населения, принадлежащие к среднему классу, будут чувствовать себя комфортно. · mask: state ^m-state-middle-strata-expected-sol-add
 - **state_middle_strata_standard_of_living_add** — к уровню жизни для среднего класса · Помимо благосостояния, добавлен дополнительный уровень жизни · mask: state ^m-state-middle-strata-standard-of-living-add
 - **state_migration_pull_add** — к миграционной привлекательности · Бонус или штраф к привлекательности области для мигрантов в пределах её рынка. · mask: state ^m-state-migration-pull-add
@@ -610,7 +560,6 @@ generated: "v3 graph engine"
 - **state_non_homeland_mortality_mult** — к смертности за пределами родных областей. · Повышение или снижение уровня смертности среди всех групп населения в областях, не являющихся родиной ни одной из ваших основных культур. · mask: state ^m-state-non-homeland-mortality-mult
 - **state_nordestino_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Нордестину · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-nordestino-standard-of-living-add
 - **state_north_andean_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Северные андцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-north-andean-standard-of-living-add
-- **state_north_caucasian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кавказцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-north-caucasian-standard-of-living-add
 - **state_north_german_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Северные немцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-north-german-standard-of-living-add
 - **state_north_italian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Северные итальянцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-north-italian-standard-of-living-add
 - **state_norwegian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Норвежцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-norwegian-standard-of-living-add
@@ -628,7 +577,9 @@ generated: "v3 graph engine"
 - **state_oriental_orthodox_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Восточное православие · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-oriental-orthodox-standard-of-living-add
 - **state_oriya_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Ория · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-oriya-standard-of-living-add
 - **state_oromo_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Оромо · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-oromo-standard-of-living-add
+- **state_orthodox_lower_strata_conversion_rate_add** — Ежемесячное обращение в православие · Увеличение или снижение доли низших групп населения в неправославной стране, которые ежемесячно будут обращаться в православие · mask: state ^m-state-orthodox-lower-strata-conversion-rate-add
 - **state_orthodox_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Православие · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-orthodox-standard-of-living-add
+- **state_ossetian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Осетины · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-ossetian-standard-of-living-add
 - **state_ovimbundu_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Овимбунду · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-ovimbundu-standard-of-living-add
 - **state_pahari_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Пахари · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-pahari-standard-of-living-add
 - **state_paiute_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Пайюты · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-paiute-standard-of-living-add
@@ -641,10 +592,10 @@ generated: "v3 graph engine"
 - **state_peasants_consumption_multiplier_add** — Потребление товаров peasants! крестьянами · Бонус или штраф к потреблению товаров peasants! крестьянами · mask: state ^m-state-peasants-consumption-multiplier-add
 - **state_peasants_dependent_wage_mult** — mask: state ^m-state-peasants-dependent-wage-mult
 - **state_peasants_education_access_add** — Доступность образования для peasants! крестьян · Бонус или штраф к доступности образования для peasants! крестьян · mask: state ^m-state-peasants-education-access-add
-- **state_peasants_internal_migration_disallowed_bool** — peasants! Крестьяне не могут мигрировать · peasants! Крестьяне лишены права мигрировать из одной области страны в другую · mask: state ^m-state-peasants-internal-migration-disallowed-bool
+- **state_peasants_internal_migration_disallowed_bool** — peasants! Крестьяне не могут мигрировать · peasants! Крестьяне лишены права мигрировать из одной области страны в другую · mask: state ^m-state-peasants-internal-migration-disallowed-bool
 - **state_peasants_investment_pool_contribution_add** — mask: state ^m-state-peasants-investment-pool-contribution-add
 - **state_peasants_investment_pool_efficiency_mult** — mask: state ^m-state-peasants-investment-pool-efficiency-mult
-- **state_peasants_mass_migration_disallowed_bool** — peasants! Крестьяне не могут массово мигрировать · peasants! Крестьяне лишены права массово мигрировать из родной страны · mask: state ^m-state-peasants-mass-migration-disallowed-bool
+- **state_peasants_mass_migration_disallowed_bool** — peasants! Крестьяне не могут массово мигрировать · peasants! Крестьяне лишены права массово мигрировать из родной страны · mask: state ^m-state-peasants-mass-migration-disallowed-bool
 - **state_peasants_mortality_mult** — к смертности среди peasants! крестьян · Повышение или снижение смертности peasants! крестьян. · mask: state ^m-state-peasants-mortality-mult
 - **state_persian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Персы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-persian-standard-of-living-add
 - **state_peruvian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Перуанцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-peruvian-standard-of-living-add
@@ -660,6 +611,8 @@ generated: "v3 graph engine"
 - **state_pop_qualifications_mult** — к квалификации · Бонус или штраф к квалификации групп населения. · mask: state ^m-state-pop-qualifications-mult
 - **state_pop_support_movement_anarchist_add** — к привлекательности анархистского движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-anarchist-add
 - **state_pop_support_movement_anarchist_mult** — к привлекательности анархистского движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-anarchist-mult
+- **state_pop_support_movement_anti_communist_add** — mask: state ^m-state-pop-support-movement-anti-communist-add
+- **state_pop_support_movement_anti_communist_mult** — mask: state ^m-state-pop-support-movement-anti-communist-mult
 - **state_pop_support_movement_anti_slavery_add** — к привлекательности движения аболиционистов для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-anti-slavery-add
 - **state_pop_support_movement_anti_slavery_mult** — к привлекательности движения аболиционистов для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-anti-slavery-mult
 - **state_pop_support_movement_bonapartist_add** — к привлекательности бонапартистского движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-bonapartist-add
@@ -670,6 +623,8 @@ generated: "v3 graph engine"
 - **state_pop_support_movement_communist_mult** — к привлекательности коммунистического движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-communist-mult
 - **state_pop_support_movement_corporatist_add** — к привлекательности корпоративистского движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-corporatist-add
 - **state_pop_support_movement_corporatist_mult** — к привлекательности корпоративистского движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-corporatist-mult
+- **state_pop_support_movement_cossack_add** — mask: state ^m-state-pop-support-movement-cossack-add
+- **state_pop_support_movement_cossack_mult** — mask: state ^m-state-pop-support-movement-cossack-mult
 - **state_pop_support_movement_cultural_majority_add** — к привлекательности движения культурного большинства для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-cultural-majority-add
 - **state_pop_support_movement_cultural_majority_mult** — к привлекательности движения культурного большинства для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-cultural-majority-mult
 - **state_pop_support_movement_cultural_minority_add** — к привлекательности движения культурного меньшинства для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-cultural-minority-add
@@ -737,7 +692,7 @@ generated: "v3 graph engine"
 - **state_pop_support_movement_yugoslav_national_add** — state_pop_support_movement_yugoslav_national_add · state_pop_support_movement_yugoslav_national_add_desc · mask: state ^m-state-pop-support-movement-yugoslav-national-add
 - **state_pop_support_movement_yugoslav_national_mult** — Привлекательность германского национального движения для групп населения · Повышение или снижение привлекательности политического движения для групп населения. · mask: state ^m-state-pop-support-movement-yugoslav-national-mult
 - **state_portuguese_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Португальцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-portuguese-standard-of-living-add
-- **state_promethean_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Прометеевск · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-promethean-standard-of-living-add
+- **state_promethean_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Прометеевцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-promethean-standard-of-living-add
 - **state_protestant_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Протестантизм · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-protestant-standard-of-living-add
 - **state_pueblo_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Пуэбло · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-pueblo-standard-of-living-add
 - **state_quechua_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Кечуа · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-quechua-standard-of-living-add
@@ -760,16 +715,14 @@ generated: "v3 graph engine"
 - **state_scottish_gaelic_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Гэлы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-scottish-gaelic-standard-of-living-add
 - **state_scottish_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Шотландцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-scottish-standard-of-living-add
 - **state_sell_orders_aeroplanes_add** — mask: state ^m-state-sell-orders-aeroplanes-add
-- **state_sell_orders_agricultural_stock_add** — mask: state ^m-state-sell-orders-agricultural-stock-add
-- **state_sell_orders_ammunition_add** — Приказы о продаже ammunition! боеприпасов · Увеличение или уменьшение количества приказов о продаже боеприпасов в области · mask: state ^m-state-sell-orders-ammunition-add
-- **state_sell_orders_arc_welded_construction_add** — mask: state ^m-state-sell-orders-arc-welded-construction-add
-- **state_sell_orders_artillery_add** — Приказы о продаже artillery! артиллерии · Увеличение или уменьшение количества приказов о продаже артиллерии в области · mask: state ^m-state-sell-orders-artillery-add
+- **state_sell_orders_ammunition_add** — Приказы о продаже ammunition! боеприпасов · Увеличение или уменьшение количества приказов о продаже ammunition! Боеприпасов в области · mask: state ^m-state-sell-orders-ammunition-add
+- **state_sell_orders_artillery_add** — Приказы о продаже artillery! артиллерии · Увеличение или уменьшение количества приказов о продаже artillery! Артиллерии в области · mask: state ^m-state-sell-orders-artillery-add
 - **state_sell_orders_automobiles_add** — mask: state ^m-state-sell-orders-automobiles-add
-- **state_sell_orders_bond_add** — mask: state ^m-state-sell-orders-bond-add
 - **state_sell_orders_clippers_add** — mask: state ^m-state-sell-orders-clippers-add
 - **state_sell_orders_clothes_add** — mask: state ^m-state-sell-orders-clothes-add
 - **state_sell_orders_coal_add** — mask: state ^m-state-sell-orders-coal-add
 - **state_sell_orders_coffee_add** — mask: state ^m-state-sell-orders-coffee-add
+- **state_sell_orders_copper_add** — mask: state ^m-state-sell-orders-copper-add
 - **state_sell_orders_dye_add** — mask: state ^m-state-sell-orders-dye-add
 - **state_sell_orders_electricity_add** — mask: state ^m-state-sell-orders-electricity-add
 - **state_sell_orders_engines_add** — mask: state ^m-state-sell-orders-engines-add
@@ -782,38 +735,29 @@ generated: "v3 graph engine"
 - **state_sell_orders_furniture_add** — mask: state ^m-state-sell-orders-furniture-add
 - **state_sell_orders_glass_add** — mask: state ^m-state-sell-orders-glass-add
 - **state_sell_orders_gold_add** — mask: state ^m-state-sell-orders-gold-add
-- **state_sell_orders_grain_add** — Приказы о продаже grain! зерна · Увеличение или уменьшение количества приказов о продаже зерна в области · mask: state ^m-state-sell-orders-grain-add
+- **state_sell_orders_grain_add** — Приказы о продаже grain! зерна · Увеличение или уменьшение количества приказов о продаже grain! Зерна в области · mask: state ^m-state-sell-orders-grain-add
 - **state_sell_orders_groceries_add** — mask: state ^m-state-sell-orders-groceries-add
 - **state_sell_orders_hardwood_add** — mask: state ^m-state-sell-orders-hardwood-add
 - **state_sell_orders_iron_add** — mask: state ^m-state-sell-orders-iron-add
-- **state_sell_orders_iron_construction_add** — mask: state ^m-state-sell-orders-iron-construction-add
 - **state_sell_orders_ironclads_add** — mask: state ^m-state-sell-orders-ironclads-add
 - **state_sell_orders_lead_add** — mask: state ^m-state-sell-orders-lead-add
-- **state_sell_orders_liquidity_currency_add** — Приказы о продаже локальной валюты · state_sell_orders_liquidity_currency_add_desc · mask: state ^m-state-sell-orders-liquidity-currency-add
 - **state_sell_orders_liquor_add** — mask: state ^m-state-sell-orders-liquor-add
-- **state_sell_orders_local_currency_add** — Государственные заявки на продажу (местная валюта) · state_sell_orders_local_currency_add_desc · mask: state ^m-state-sell-orders-local-currency-add
 - **state_sell_orders_luxury_clothes_add** — mask: state ^m-state-sell-orders-luxury-clothes-add
 - **state_sell_orders_luxury_furniture_add** — mask: state ^m-state-sell-orders-luxury-furniture-add
 - **state_sell_orders_manowars_add** — mask: state ^m-state-sell-orders-manowars-add
-- **state_sell_orders_manufacture_stock_add** — mask: state ^m-state-sell-orders-manufacture-stock-add
 - **state_sell_orders_meat_add** — mask: state ^m-state-sell-orders-meat-add
 - **state_sell_orders_merchant_marine_add** — mask: state ^m-state-sell-orders-merchant-marine-add
-- **state_sell_orders_mining_stock_add** — mask: state ^m-state-sell-orders-mining-stock-add
-- **state_sell_orders_mutual_funds_add** — mask: state ^m-state-sell-orders-mutual-funds-add
 - **state_sell_orders_oil_add** — mask: state ^m-state-sell-orders-oil-add
 - **state_sell_orders_opium_add** — mask: state ^m-state-sell-orders-opium-add
 - **state_sell_orders_paper_add** — mask: state ^m-state-sell-orders-paper-add
 - **state_sell_orders_porcelain_add** — mask: state ^m-state-sell-orders-porcelain-add
 - **state_sell_orders_radios_add** — mask: state ^m-state-sell-orders-radios-add
-- **state_sell_orders_railroad_stock_add** — mask: state ^m-state-sell-orders-railroad-stock-add
 - **state_sell_orders_rubber_add** — mask: state ^m-state-sell-orders-rubber-add
 - **state_sell_orders_services_add** — mask: state ^m-state-sell-orders-services-add
 - **state_sell_orders_silk_add** — mask: state ^m-state-sell-orders-silk-add
-- **state_sell_orders_silver_add** — mask: state ^m-state-sell-orders-silver-add
-- **state_sell_orders_small_arms_add** — Приказы о продаже small_arms! стрелкового оружия · Увеличение или уменьшение количества приказов о продаже стрелкового оружия в области · mask: state ^m-state-sell-orders-small-arms-add
+- **state_sell_orders_small_arms_add** — Приказы о продаже small_arms! стрелкового оружия · Увеличение или уменьшение количества приказов о продаже small_arms! Стрелкового оружия в области · mask: state ^m-state-sell-orders-small-arms-add
 - **state_sell_orders_steamers_add** — mask: state ^m-state-sell-orders-steamers-add
 - **state_sell_orders_steel_add** — mask: state ^m-state-sell-orders-steel-add
-- **state_sell_orders_steel_construction_add** — mask: state ^m-state-sell-orders-steel-construction-add
 - **state_sell_orders_sugar_add** — mask: state ^m-state-sell-orders-sugar-add
 - **state_sell_orders_sulfur_add** — mask: state ^m-state-sell-orders-sulfur-add
 - **state_sell_orders_tanks_add** — mask: state ^m-state-sell-orders-tanks-add
@@ -824,10 +768,9 @@ generated: "v3 graph engine"
 - **state_sell_orders_transportation_add** — mask: state ^m-state-sell-orders-transportation-add
 - **state_sell_orders_wine_add** — mask: state ^m-state-sell-orders-wine-add
 - **state_sell_orders_wood_add** — mask: state ^m-state-sell-orders-wood-add
-- **state_sell_orders_wood_construction_add** — mask: state ^m-state-sell-orders-wood-construction-add
 - **state_sena_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сена · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-sena-standard-of-living-add
 - **state_senufo_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сенуфо · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-senufo-standard-of-living-add
-- **state_sephardic_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сефарды · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-sephardic-standard-of-living-add
+- **state_sephardic_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сефардка · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-sephardic-standard-of-living-add
 - **state_serb_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сербы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-serb-standard-of-living-add
 - **state_shan_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Шань · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-shan-standard-of-living-add
 - **state_shiite_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Шиизм · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-shiite-standard-of-living-add
@@ -839,7 +782,6 @@ generated: "v3 graph engine"
 - **state_shopkeepers_investment_pool_efficiency_mult** — Эффективность вклада shopkeepers! лавочников в инвестиционный пул · Увеличение или уменьшение роли доходов shopkeepers! лавочников в инвестиционном пуле · mask: state ^m-state-shopkeepers-investment-pool-efficiency-mult
 - **state_shopkeepers_mass_migration_disallowed_bool** — mask: state ^m-state-shopkeepers-mass-migration-disallowed-bool
 - **state_shopkeepers_mortality_mult** — mask: state ^m-state-shopkeepers-mortality-mult
-- **state_siberian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сибирцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-siberian-standard-of-living-add
 - **state_sidama_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сидама · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-sidama-standard-of-living-add
 - **state_sikh_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Сикхизм · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой религии. · mask: state ^m-state-sikh-standard-of-living-add
 - **state_sindi_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Синды · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-sindi-standard-of-living-add
@@ -917,6 +859,7 @@ generated: "v3 graph engine"
 - **state_uighur_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Уйгуры · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-uighur-standard-of-living-add
 - **state_ukrainian_standard_of_living_add** — Модификатор [Concept('concept_sol', 'уровня жизни')]: Украинцы · Бонус или штраф к [Concept('concept_sol', 'уровню жизни')] представителей определённой культуры. · mask: state ^m-state-ukrainian-standard-of-living-add
 - **state_unincorporated_starting_wages_mult** — к начальным зарплатам в невключённых областях · Насколько начальные зарплаты населения невключённых областей отличаются от обычных. · mask: state ^m-state-unincorporated-starting-wages-mult
+- **state_upper_strata_birth_rate_mult** — Рождаемость высшего класса · Сколько детей рождается ежегодно у высшего класса. · mask: state ^m-state-upper-strata-birth-rate-mult
 - **state_upper_strata_expected_sol_add** — к минимальному ожидаемому уровню жизни для высшего класса · Повышение или снижение минимального уровня жизни, при котором группы населения, принадлежащие к высшему классу, будут чувствовать себя комфортно. · mask: state ^m-state-upper-strata-expected-sol-add
 - **state_upper_strata_standard_of_living_add** — к уровню жизни для высшего класса · Помимо благосостояния, добавлен дополнительный уровень жизни. · mask: state ^m-state-upper-strata-standard-of-living-add
 - **state_urbanization_per_level_add** — Урбанизация за городские центры · Количество урбанизации, необходимое в области для того, чтобы построить городские центры 1 уровня · mask: state ^m-state-urbanization-per-level-add

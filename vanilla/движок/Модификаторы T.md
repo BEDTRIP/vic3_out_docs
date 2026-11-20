@@ -1,6 +1,6 @@
 ---
 type: reference
-description: "Справочник движка Victoria 3 1.13: Модификаторы T — 6, из дампа script_docs"
+description: "Справочник движка Victoria 3 1.15.2: Модификаторы T — 6, из дампа script_docs"
 project: vic3
 audience: agent
 source: vanilla
@@ -9,7 +9,7 @@ generated: "v3 graph engine"
 ---
 # Модификаторы T
 
-Из дампа `modifiers.log` (2026-10-13; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
+Из дампа `modifiers.log` (2026-11-20; копия — `дамп/`). Генерат `v3 graph engine`: руками не править; дамп снят с набором модов — записи модов в нём тоже есть.
 
 - **tax_consumption_add** — к ставке потребительского налога · Размер налога для товаров, относящихся к категории потребительских. · mask: tax ^m-tax-consumption-add
 - **tax_dividends_add** — к ставке налога на дивиденды · к ставке налога на дивиденды · mask: tax ^m-tax-dividends-add

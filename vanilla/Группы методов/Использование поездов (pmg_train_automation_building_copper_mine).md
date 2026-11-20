@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Использование поездов (pmg_train_automation_building_copper_mine)» — ваниль 1.15, `pmg_train_automation_building_copper_mine`"
+description: "Группа методов производства «Использование поездов (pmg_train_automation_building_copper_mine)» — ваниль 1.15.2, `pmg_train_automation_building_copper_mine`"
 project: vic3
 audience: agent
 source: vanilla

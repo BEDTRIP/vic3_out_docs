@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Бонапартист (ideology_bonapartist)» — ваниль 1.15, `ideology_bonapartist`"
+description: "Идеология «Бонапартист (ideology_bonapartist)» — ваниль 1.15.2, `ideology_bonapartist`"
 project: vic3
 audience: agent
 source: vanilla

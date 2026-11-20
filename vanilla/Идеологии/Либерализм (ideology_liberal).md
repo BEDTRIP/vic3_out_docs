@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Либерализм (ideology_liberal)» — ваниль 1.15, `ideology_liberal`"
+description: "Идеология «Либерализм (ideology_liberal)» — ваниль 1.15.2, `ideology_liberal`"
 project: vic3
 audience: agent
 source: vanilla
