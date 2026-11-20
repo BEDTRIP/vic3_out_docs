@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Reformer» — Mandate of Heaven 1.15, `ideology_moh_reformer`"
+description: "Идеология «Reformer» — Mandate of Heaven 1.15.2, `ideology_moh_reformer`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

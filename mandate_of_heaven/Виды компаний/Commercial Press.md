@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Commercial Press» — Mandate of Heaven 1.15, `company_commercial_press`"
+description: "Вид компании «Commercial Press» — Mandate of Heaven 1.15.2, `company_commercial_press`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

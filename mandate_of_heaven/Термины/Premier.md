@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин мода Mandate of Heaven «Premier» — подсказка-понятие Victoria 3 1.15 (`concept_character_role_sun_yatsen`)"
+description: "Термин мода Mandate of Heaven «Premier» — подсказка-понятие Victoria 3 1.15.2 (`concept_character_role_sun_yatsen`)"
 project: vic3
 audience: agent
 source: mandate_of_heaven

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Imperial Examination System» — Mandate of Heaven 1.15, `law_imperial_examinations`"
+description: "Закон «Imperial Examination System» — Mandate of Heaven 1.15.2, `law_imperial_examinations`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

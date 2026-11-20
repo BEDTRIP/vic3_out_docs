@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Kuomintang Nationalist» — Mandate of Heaven 1.15, `ideology_moh_kmt`"
+description: "Идеология «Kuomintang Nationalist» — Mandate of Heaven 1.15.2, `ideology_moh_kmt`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

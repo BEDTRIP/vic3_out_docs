@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Sanxin» — Mandate of Heaven 1.15, `company_sanxin`"
+description: "Вид компании «Sanxin» — Mandate of Heaven 1.15.2, `company_sanxin`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

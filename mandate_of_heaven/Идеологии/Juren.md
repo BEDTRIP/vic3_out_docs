@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Juren» — Mandate of Heaven 1.15, `ideology_eight_legged`"
+description: "Идеология «Juren» — Mandate of Heaven 1.15.2, `ideology_eight_legged`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

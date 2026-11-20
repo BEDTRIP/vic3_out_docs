@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Old Summer Palace» — Mandate of Heaven 1.15, `pm_default_building_old_summer_palace`"
+description: "Метод производства «Old Summer Palace» — Mandate of Heaven 1.15.2, `pm_default_building_old_summer_palace`"
 project: vic3
 audience: agent
 source: mandate_of_heaven

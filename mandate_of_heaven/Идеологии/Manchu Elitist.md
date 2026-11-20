@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Manchu Elitist» — Mandate of Heaven 1.15, `ideology_manchu_elitist`"
+description: "Идеология «Manchu Elitist» — Mandate of Heaven 1.15.2, `ideology_manchu_elitist`"
 project: vic3
 audience: agent
 source: mandate_of_heaven
