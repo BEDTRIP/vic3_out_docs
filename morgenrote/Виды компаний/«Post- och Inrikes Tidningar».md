@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Post- och Inrikes Tidningar»» — Morgenröte 1.15, `pbi_company_post_och_inrikes_tidningar`"
+description: "Вид компании ««Post- och Inrikes Tidningar»» — Morgenröte 1.15.2, `pbi_company_post_och_inrikes_tidningar`"
 project: vic3
 audience: agent
 source: morgenrote

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Fédération Internationale de Football Association» — Morgenröte 1.15, `pmg_vikelas_fifa`"
+description: "Группа методов производства «Fédération Internationale de Football Association» — Morgenröte 1.15.2, `pmg_vikelas_fifa`"
 project: vic3
 audience: agent
 source: morgenrote

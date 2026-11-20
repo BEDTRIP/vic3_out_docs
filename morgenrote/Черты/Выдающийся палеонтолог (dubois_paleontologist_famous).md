@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Выдающийся палеонтолог (dubois_paleontologist_famous)» — Morgenröte 1.15, `dubois_paleontologist_famous`"
+description: "Черта персонажа «Выдающийся палеонтолог (dubois_paleontologist_famous)» — Morgenröte 1.15.2, `dubois_paleontologist_famous`"
 project: vic3
 audience: agent
 source: morgenrote

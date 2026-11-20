@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««The Times»» — Morgenröte 1.15, `pbi_company_the_times`"
+description: "Вид компании ««The Times»» — Morgenröte 1.15.2, `pbi_company_the_times`"
 project: vic3
 audience: agent
 source: morgenrote

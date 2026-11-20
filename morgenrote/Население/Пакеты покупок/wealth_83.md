@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Пакет покупок «wealth_83» — Morgenröte 1.15, `wealth_83`"
+description: "Пакет покупок «wealth_83» — Morgenröte 1.15.2, `wealth_83`"
 project: vic3
 audience: agent
 source: morgenrote

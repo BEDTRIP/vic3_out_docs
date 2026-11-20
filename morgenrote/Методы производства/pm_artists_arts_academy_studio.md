@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_artists_arts_academy_studio» — Morgenröte 1.15, `pm_artists_arts_academy_studio`"
+description: "Метод производства «pm_artists_arts_academy_studio» — Morgenröte 1.15.2, `pm_artists_arts_academy_studio`"
 project: vic3
 audience: agent
 source: morgenrote

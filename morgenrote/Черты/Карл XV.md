@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Карл XV» — Morgenröte 1.15, `mr_ruler_trait_karl_xv`"
+description: "Черта персонажа «Карл XV» — Morgenröte 1.15.2, `mr_ruler_trait_karl_xv`"
 project: vic3
 audience: agent
 source: morgenrote

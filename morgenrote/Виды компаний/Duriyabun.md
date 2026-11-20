@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Duriyabun» — Morgenröte 1.15, `elgar_company_duriyabun`"
+description: "Вид компании «Duriyabun» — Morgenröte 1.15.2, `elgar_company_duriyabun`"
 project: vic3
 audience: agent
 source: morgenrote

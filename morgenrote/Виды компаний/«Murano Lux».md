@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««Murano Lux»» — Morgenröte 1.15, `company_compagnia_di_venezia_e_murano`"
+description: "Вид компании ««Murano Lux»» — Morgenröte 1.15.2, `company_compagnia_di_venezia_e_murano`"
 project: vic3
 audience: agent
 source: morgenrote

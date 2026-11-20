@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Steinway & Sons» — Morgenröte 1.15, `elgar_company_steinway`"
+description: "Вид компании «Steinway & Sons» — Morgenröte 1.15.2, `elgar_company_steinway`"
 project: vic3
 audience: agent
 source: morgenrote

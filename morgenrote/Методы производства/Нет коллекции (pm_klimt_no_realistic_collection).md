@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Нет коллекции (pm_klimt_no_realistic_collection)» — Morgenröte 1.15, `pm_klimt_no_realistic_collection`"
+description: "Метод производства «Нет коллекции (pm_klimt_no_realistic_collection)» — Morgenröte 1.15.2, `pm_klimt_no_realistic_collection`"
 project: vic3
 audience: agent
 source: morgenrote

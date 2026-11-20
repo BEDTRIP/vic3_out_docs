@@ -1,10 +1,10 @@
 ---
 type: explanation
-description: "Термин мода Morgenröte «Опыт (Morgenröte)» — подсказка-понятие Victoria 3 1.15 (`concept_academics_experience`)"
+description: "Термин мода Morgenröte «Опыт (Morgenröte)» — подсказка-понятие Victoria 3 1.15.2 (`concept_academics_experience`)"
 project: vic3
 audience: agent
 source: morgenrote
-aliases: ["Опыт инженера-строителя", "Опыт инженера-механика", "Опыт военного инженера", "Опыт инженера-электрика", "Опыт авиаконструктора", "Опыт химика", "Опыт астронома", "Опыт геолога", "Опыт палеонтолога", "Опыт натуралиста", "Опыт биолога", "Опыт врача", "Опыт археолога", "Опыт антрополога", "Опыт этнолога", "Опытный", "Знаменитый", "Mathematical Physicist Experience", "Meteorological Physicist Experience", "Rocket Physicist Experience", "Nuclear Physicist Experience", "Experience", "concept_academics_experience"]
+aliases: ["Опыт инженера-строителя", "Опыт инженера-механика", "Опыт военного инженера", "Опыт инженера-электрика", "Опыт авиаконструктора", "Опыт химика", "Опыт астронома", "Опыт геолога", "Опыт палеонтолога", "Опыт натуралиста", "Опыт биолога", "Опыт врача", "Опыт археолога", "Опыт антрополога", "Опыт этнолога", "Опытный", "Знаменитый", "Опыт физика-математика", "Опыт физика-метеоролога", "Опыт физика в ракетостроении", "Опыт физика-ядерщика", "Experience", "concept_academics_experience"]
 tags: [morgenrote, термин]
 generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 key: concept_academics_experience

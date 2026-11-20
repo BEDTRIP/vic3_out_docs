@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Термин мода Morgenröte «Morgenröte» — подсказка-понятие Victoria 3 1.15 (`concept_morgenroete`)"
+description: "Термин мода Morgenröte «Morgenröte» — подсказка-понятие Victoria 3 1.15.2 (`concept_morgenroete`)"
 project: vic3
 audience: agent
 source: morgenrote

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Outokumpu Oyj» — Morgenröte 1.15, `mr_company_outokumpu`"
+description: "Вид компании «Outokumpu Oyj» — Morgenröte 1.15.2, `mr_company_outokumpu`"
 project: vic3
 audience: agent
 source: morgenrote
@@ -27,7 +27,7 @@ paths: [Morgenrote/common/company_types/mr_company_types.txt]
 - **potential**: скрипт, строки 243–247
 - **possible**: скрипт, строки 249–259
 - **prosperity_modifier**:
-  - `building_copper_mine_throughput_add` = `0.15` → [[vanilla/Здания/Медные рудники|Медные рудники]]
+  - [[vanilla/движок/Модификаторы B#^m-building-copper-mine-throughput-add|building_copper_mine_throughput_add]] = `0.15` → [[vanilla/Здания/Медные рудники|Медные рудники]]
   - [[vanilla/движок/Модификаторы B#^m-building-iron-mine-throughput-add|building_iron_mine_throughput_add]] = `0.1` → [[vanilla/Здания/Железные рудники|Железные рудники]]
   - [[vanilla/движок/Модификаторы B#^m-building-steel-mill-throughput-add|building_steel_mill_throughput_add]] = `0.1` → [[vanilla/Здания/Сталелитейные заводы|Сталелитейные заводы]]
 - **ai_will_do**: скрипт, строки 267–277

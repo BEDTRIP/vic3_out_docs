@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Becker» — Morgenröte 1.15, `elgar_company_becker`"
+description: "Вид компании «Becker» — Morgenröte 1.15.2, `elgar_company_becker`"
 project: vic3
 audience: agent
 source: morgenrote

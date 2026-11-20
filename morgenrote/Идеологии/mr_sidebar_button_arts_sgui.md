@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «mr_sidebar_button_arts_sgui» — Morgenröte 1.15, `mr_sidebar_button_arts_sgui`"
+description: "Идеология «mr_sidebar_button_arts_sgui» — Morgenröte 1.15.2, `mr_sidebar_button_arts_sgui`"
 project: vic3
 audience: agent
 source: morgenrote

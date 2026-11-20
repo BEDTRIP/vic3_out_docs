@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании ««La Voz de Galicia»» — Morgenröte 1.15, `pbi_company_la_voz_de_galicia`"
+description: "Вид компании ««La Voz de Galicia»» — Morgenröte 1.15.2, `pbi_company_la_voz_de_galicia`"
 project: vic3
 audience: agent
 source: morgenrote

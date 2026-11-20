@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Оскар I» — Morgenröte 1.15, `mr_ruler_trait_oscar_i`"
+description: "Черта персонажа «Оскар I» — Morgenröte 1.15.2, `mr_ruler_trait_oscar_i`"
 project: vic3
 audience: agent
 source: morgenrote

@@ -9,9 +9,11 @@ generated: "v3 graph terms; ручной раздел — «## Рабочее»"
 ---
 # Термины Morgenröte
 
-Свои подсказки-понятия мода (`common/game_concepts`), 202; ссылки на термины игры — в `vanilla/Термины/`. Генерат: текст руками не править, ручной раздел — «## Рабочее».
+Свои подсказки-понятия мода (`common/game_concepts`), 204; ссылки на термины игры — в `vanilla/Термины/`. Генерат: текст руками не править, ручной раздел — «## Рабочее».
 
+- [[morgenrote/Термины/Helium|Helium]]
 - [[morgenrote/Термины/Morgenröte|Morgenröte]]
+- [[morgenrote/Термины/Stratospheric Flight|Stratospheric Flight]]
 - [[morgenrote/Термины/Авиакомпания|Авиакомпания]]
 - [[morgenrote/Термины/Авиаконструктор|Авиаконструктор]]
 - [[morgenrote/Термины/Авиация|Авиация]]

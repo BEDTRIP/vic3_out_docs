@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «pmg_curie_magnetic_observatory» — Morgenröte 1.15, `pmg_curie_magnetic_observatory`"
+description: "Группа методов производства «pmg_curie_magnetic_observatory» — Morgenröte 1.15.2, `pmg_curie_magnetic_observatory`"
 project: vic3
 audience: agent
 source: morgenrote
