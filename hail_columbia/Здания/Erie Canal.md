@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Erie Canal» — Hail Columbia 1.13, `building_usfp_erie_canal`"
+description: "Здание «Erie Canal» — Hail Columbia 1.15.2, `building_usfp_erie_canal`"
 project: vic3
 audience: agent
 source: hail_columbia

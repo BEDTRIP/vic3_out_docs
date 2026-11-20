@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Exclusionary» — Hail Columbia 1.13, `ideology_reactionary_exclusionist`"
+description: "Идеология «Exclusionary» — Hail Columbia 1.15.2, `ideology_reactionary_exclusionist`"
 project: vic3
 audience: agent
 source: hail_columbia

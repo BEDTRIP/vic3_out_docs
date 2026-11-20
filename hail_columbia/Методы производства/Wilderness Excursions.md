@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Wilderness Excursions» — Hail Columbia 1.13, `usfp_pm_national_park_maps`"
+description: "Метод производства «Wilderness Excursions» — Hail Columbia 1.15.2, `usfp_pm_national_park_maps`"
 project: vic3
 audience: agent
 source: hail_columbia

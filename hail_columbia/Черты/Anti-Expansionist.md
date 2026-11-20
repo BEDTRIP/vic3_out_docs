@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Anti-Expansionist» — Hail Columbia 1.13, `usfp_trait_antiexpansionist`"
+description: "Черта персонажа «Anti-Expansionist» — Hail Columbia 1.15.2, `usfp_trait_antiexpansionist`"
 project: vic3
 audience: agent
 source: hail_columbia

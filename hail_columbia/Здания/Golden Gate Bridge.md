@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Golden Gate Bridge» — Hail Columbia 1.13, `building_usfp_golden_gate_bridge`"
+description: "Здание «Golden Gate Bridge» — Hail Columbia 1.15.2, `building_usfp_golden_gate_bridge`"
 project: vic3
 audience: agent
 source: hail_columbia

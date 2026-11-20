@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Prophet of Freedom» — Hail Columbia 1.13, `usfp_special_character_frederick_douglass`"
+description: "Черта персонажа «Prophet of Freedom» — Hail Columbia 1.15.2, `usfp_special_character_frederick_douglass`"
 project: vic3
 audience: agent
 source: hail_columbia

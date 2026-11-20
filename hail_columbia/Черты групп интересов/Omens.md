@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Omens» — Hail Columbia 1.13, `usfp_ig_trait_spiritual_visions`"
+description: "Черта группы интересов «Omens» — Hail Columbia 1.15.2, `usfp_ig_trait_spiritual_visions`"
 project: vic3
 audience: agent
 source: hail_columbia

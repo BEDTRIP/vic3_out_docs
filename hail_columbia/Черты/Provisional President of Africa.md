@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта персонажа «Provisional President of Africa» — Hail Columbia 1.13, `usfp_special_character_provisional_president_of_africa`"
+description: "Черта персонажа «Provisional President of Africa» — Hail Columbia 1.15.2, `usfp_special_character_provisional_president_of_africa`"
 project: vic3
 audience: agent
 source: hail_columbia

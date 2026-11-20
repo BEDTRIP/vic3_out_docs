@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Indigenous Agrarian» — Hail Columbia 1.13, `ideology_usfp_native_american_agrarian`"
+description: "Идеология «Indigenous Agrarian» — Hail Columbia 1.15.2, `ideology_usfp_native_american_agrarian`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Indigenous Agrarian
 
-Идеология · `ideology_usfp_native_american_agrarian` · `common/ideologies/usfp_ideologies.txt:339`
+Идеология · `ideology_usfp_native_american_agrarian` · `common/ideologies/usfp_ideologies.txt:348`
 
 ## Поля
 

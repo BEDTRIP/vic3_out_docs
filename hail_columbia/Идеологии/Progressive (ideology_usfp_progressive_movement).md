@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Progressive (ideology_usfp_progressive_movement)» — Hail Columbia 1.13, `ideology_usfp_progressive_movement`"
+description: "Идеология «Progressive (ideology_usfp_progressive_movement)» — Hail Columbia 1.15.2, `ideology_usfp_progressive_movement`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Progressive (ideology_usfp_progressive_movement)
 
-Идеология · `ideology_usfp_progressive_movement` · `common/ideologies/usfp_ideologies.txt:412`
+Идеология · `ideology_usfp_progressive_movement` · `common/ideologies/usfp_ideologies.txt:423`
 
 ## Поля
 
@@ -27,6 +27,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Командная экономика|Командная экономика]] = `approve`
   - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `disapprove`
@@ -69,6 +70,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `disapprove`
 - **lawgroup_slavery**:
   - [[hail_columbia/Законы/Запрет рабства|Запрет рабства]] = `neutral`
   - [[hail_columbia/Законы/Унаследованное рабство|Унаследованное рабство]] = `strongly_disapprove`

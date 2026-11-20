@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа зданий «National Parks» — Hail Columbia 1.13, `bg_usfp_national_parks`"
+description: "Группа зданий «National Parks» — Hail Columbia 1.15.2, `bg_usfp_national_parks`"
 project: vic3
 audience: agent
 source: hail_columbia

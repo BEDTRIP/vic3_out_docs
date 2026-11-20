@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Universalist» — Hail Columbia 1.13, `ideology_usfp_universalist`"
+description: "Идеология «Universalist» — Hail Columbia 1.15.2, `ideology_usfp_universalist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Universalist
 
-Идеология · `ideology_usfp_universalist` · `common/ideologies/usfp_leader_ideologies.txt:1032`
+Идеология · `ideology_usfp_universalist` · `common/ideologies/usfp_leader_ideologies.txt:1040`
 
 ## Поля
 
@@ -23,6 +23,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `strongly_disapprove`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `strongly_disapprove`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `strongly_disapprove`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `disapprove`
 - **lawgroup_church_and_state**:
   - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `disapprove`
   - [[hail_columbia/Законы/Свобода совести|Свобода совести]] = `neutral`
@@ -49,6 +50,6 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - `has_technology_researched` = [[vanilla/Технологии/Права человека|Права человека]]
 - **interest_group_leader_trigger**:
   - `is_interest_group_type` = [[vanilla/Группы интересов/Верующие|Верующие]]
-- **non_interest_group_leader_trigger**: скрипт, строки 1082–1094
-- **interest_group_leader_weight**: скрипт, строки 1097–1140
-- **non_interest_group_leader_weight**: скрипт, строки 1142–1185
+- **non_interest_group_leader_trigger**: скрипт, строки 1091–1103
+- **interest_group_leader_weight**: скрипт, строки 1106–1149
+- **non_interest_group_leader_weight**: скрипт, строки 1151–1194

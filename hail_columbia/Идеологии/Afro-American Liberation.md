@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Afro-American Liberation» — Hail Columbia 1.13, `ideology_usfp_afro_american_movement`"
+description: "Идеология «Afro-American Liberation» — Hail Columbia 1.15.2, `ideology_usfp_afro_american_movement`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Afro-American Liberation
 
-Идеология · `ideology_usfp_afro_american_movement` · `common/ideologies/usfp_ideologies.txt:494`
+Идеология · `ideology_usfp_afro_american_movement` · `common/ideologies/usfp_ideologies.txt:508`
 
 ## Поля
 
@@ -40,6 +40,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `disapprove`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `neutral`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `neutral`

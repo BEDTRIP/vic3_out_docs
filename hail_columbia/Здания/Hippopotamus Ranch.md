@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Hippopotamus Ranch» — Hail Columbia 1.13, `usfp_hippo_ranch`"
+description: "Здание «Hippopotamus Ranch» — Hail Columbia 1.15.2, `usfp_hippo_ranch`"
 project: vic3
 audience: agent
 source: hail_columbia

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «United States Rubber Company» — Hail Columbia 1.13, `company_usfp_us_rubber`"
+description: "Вид компании «United States Rubber Company» — Hail Columbia 1.15.2, `company_usfp_us_rubber`"
 project: vic3
 audience: agent
 source: hail_columbia

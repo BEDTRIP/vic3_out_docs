@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Social Gospelist» — Hail Columbia 1.13, `ideology_usfp_social_gospel_leader`"
+description: "Идеология «Social Gospelist» — Hail Columbia 1.15.2, `ideology_usfp_social_gospel_leader`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Social Gospelist
 
-Идеология · `ideology_usfp_social_gospel_leader` · `common/ideologies/usfp_leader_ideologies.txt:164`
+Идеология · `ideology_usfp_social_gospel_leader` · `common/ideologies/usfp_leader_ideologies.txt:167`
 
 ## Поля
 
@@ -60,6 +60,6 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - `has_global_variable` = `social_gospel_appeared`
 - **interest_group_leader_trigger**:
   - `is_interest_group_type` = [[vanilla/Группы интересов/Верующие|Верующие]]
-- **non_interest_group_leader_trigger**: скрипт, строки 229–242
-- **interest_group_leader_weight**: скрипт, строки 244–258
-- **non_interest_group_leader_weight**: скрипт, строки 260–268
+- **non_interest_group_leader_trigger**: скрипт, строки 232–245
+- **interest_group_leader_weight**: скрипт, строки 247–261
+- **non_interest_group_leader_weight**: скрипт, строки 263–271

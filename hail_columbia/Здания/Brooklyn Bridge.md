@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Brooklyn Bridge» — Hail Columbia 1.13, `building_usfp_brooklyn_bridge`"
+description: "Здание «Brooklyn Bridge» — Hail Columbia 1.15.2, `building_usfp_brooklyn_bridge`"
 project: vic3
 audience: agent
 source: hail_columbia

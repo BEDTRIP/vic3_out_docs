@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Rail Transport» — Hail Columbia 1.13, `usfp_pm_fur_rail_hunting`"
+description: "Метод производства «Rail Transport» — Hail Columbia 1.15.2, `usfp_pm_fur_rail_hunting`"
 project: vic3
 audience: agent
 source: hail_columbia

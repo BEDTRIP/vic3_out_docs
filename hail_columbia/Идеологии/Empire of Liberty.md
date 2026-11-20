@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Empire of Liberty» — Hail Columbia 1.13, `ideology_empire_of_liberty`"
+description: "Идеология «Empire of Liberty» — Hail Columbia 1.15.2, `ideology_empire_of_liberty`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -22,8 +22,10 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `neutral`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `neutral`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `disapprove`
 - **lawgroup_colonization**:
   - [[vanilla/Законы/Нет колоний|Нет колоний]] = `neutral`
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `disapprove`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `disapprove`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `approve`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `neutral`

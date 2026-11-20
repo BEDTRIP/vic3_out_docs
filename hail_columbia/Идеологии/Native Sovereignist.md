@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Native Sovereignist» — Hail Columbia 1.13, `ideology_usfp_american_indian_movement`"
+description: "Идеология «Native Sovereignist» — Hail Columbia 1.15.2, `ideology_usfp_american_indian_movement`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Native Sovereignist
 
-Идеология · `ideology_usfp_american_indian_movement` · `common/ideologies/usfp_ideologies.txt:545`
+Идеология · `ideology_usfp_american_indian_movement` · `common/ideologies/usfp_ideologies.txt:560`
 
 ## Поля
 
@@ -39,6 +39,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `disapprove`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `neutral`
@@ -49,3 +50,4 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `disapprove`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `disapprove`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `disapprove`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `disapprove`

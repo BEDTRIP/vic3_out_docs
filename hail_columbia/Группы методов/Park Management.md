@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Park Management» — Hail Columbia 1.13, `usfp_pmg_base_national_parks`"
+description: "Группа методов производства «Park Management» — Hail Columbia 1.15.2, `usfp_pmg_base_national_parks`"
 project: vic3
 audience: agent
 source: hail_columbia

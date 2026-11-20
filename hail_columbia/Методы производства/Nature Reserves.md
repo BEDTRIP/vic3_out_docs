@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Nature Reserves» — Hail Columbia 1.13, `usfp_pm_national_park_reserve`"
+description: "Метод производства «Nature Reserves» — Hail Columbia 1.15.2, `usfp_pm_national_park_reserve`"
 project: vic3
 audience: agent
 source: hail_columbia

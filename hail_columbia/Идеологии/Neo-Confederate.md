@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Neo-Confederate» — Hail Columbia 1.13, `ideology_usfp_neoconfederate_movement`"
+description: "Идеология «Neo-Confederate» — Hail Columbia 1.15.2, `ideology_usfp_neoconfederate_movement`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Neo-Confederate
 
-Идеология · `ideology_usfp_neoconfederate_movement` · `common/ideologies/usfp_ideologies.txt:594`
+Идеология · `ideology_usfp_neoconfederate_movement` · `common/ideologies/usfp_ideologies.txt:611`
 
 ## Поля
 

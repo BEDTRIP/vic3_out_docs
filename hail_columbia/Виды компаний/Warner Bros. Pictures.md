@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Warner Bros. Pictures» — Hail Columbia 1.13, `company_usfp_us_warner_bros`"
+description: "Вид компании «Warner Bros. Pictures» — Hail Columbia 1.15.2, `company_usfp_us_warner_bros`"
 project: vic3
 audience: agent
 source: hail_columbia

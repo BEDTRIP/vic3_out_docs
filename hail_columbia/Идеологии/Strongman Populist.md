@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Strongman Populist» — Hail Columbia 1.13, `ideology_usfp_strongman_populist`"
+description: "Идеология «Strongman Populist» — Hail Columbia 1.15.2, `ideology_usfp_strongman_populist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Strongman Populist
 
-Идеология · `ideology_usfp_strongman_populist` · `common/ideologies/usfp_leader_ideologies.txt:272`
+Идеология · `ideology_usfp_strongman_populist` · `common/ideologies/usfp_leader_ideologies.txt:275`
 
 ## Поля
 
@@ -36,6 +36,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `approve`
   - [[vanilla/Законы/Автократия|Автократия]] = `approve`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `strongly_approve`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_taxation**:
   - [[vanilla/Законы/Потребительское налогообложение|Потребительское налогообложение]] = `disapprove`
   - [[vanilla/Законы/Земельное налогообложение|Земельное налогообложение]] = `disapprove`
@@ -56,6 +57,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `approve`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `neutral`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `neutral`
 - **lawgroup_policing**:
   - [[vanilla/Законы/Нет полиции|Нет полиции]] = `disapprove`
   - [[vanilla/Законы/Профессиональная полиция|Профессиональная полиция]] = `approve`
@@ -66,6 +69,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `disapprove`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `approve`
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_approve`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `disapprove`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `neutral`
@@ -73,7 +77,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Запрет на критику|Запрет на критику]] = `strongly_approve`
 - **country_trigger**:
   - `usfp_country_is_american` = `yes`
-- **interest_group_leader_trigger**: скрипт, строки 352–359
-- **non_interest_group_leader_trigger**: скрипт, строки 361–370
-- **interest_group_leader_weight**: скрипт, строки 372–395
-- **non_interest_group_leader_weight**: скрипт, строки 397–411
+- **interest_group_leader_trigger**: скрипт, строки 359–366
+- **non_interest_group_leader_trigger**: скрипт, строки 368–377
+- **interest_group_leader_weight**: скрипт, строки 379–402
+- **non_interest_group_leader_weight**: скрипт, строки 404–418

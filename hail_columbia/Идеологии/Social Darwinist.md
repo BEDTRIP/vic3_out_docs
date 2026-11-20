@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Social Darwinist» — Hail Columbia 1.13, `ideology_usfp_social_darwinist_leader`"
+description: "Идеология «Social Darwinist» — Hail Columbia 1.15.2, `ideology_usfp_social_darwinist_leader`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Social Darwinist
 
-Идеология · `ideology_usfp_social_darwinist_leader` · `common/ideologies/usfp_leader_ideologies.txt:836`
+Идеология · `ideology_usfp_social_darwinist_leader` · `common/ideologies/usfp_leader_ideologies.txt:843`
 
 ## Поля
 
@@ -69,6 +69,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `approve`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `strongly_approve`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `neutral`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `neutral`
 - **lawgroup_labour_associations**:
   - [[vanilla/Законы/Законы о собраниях|Законы о собраниях]] = `approve`
   - [[vanilla/Законы/Система гильдий|Система гильдий]] = `strongly_disapprove`
@@ -76,8 +77,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Государственные профсоюзы|Государственные профсоюзы]] = `neutral`
   - [[vanilla/Законы/Свобода объединения|Свобода объединения]] = `disapprove`
   - [[vanilla/Законы/Фабричный совет|Фабричный совет]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 919–934
-- **interest_group_leader_trigger**: скрипт, строки 936–944
-- **non_interest_group_leader_trigger**: скрипт, строки 946–956
-- **interest_group_leader_weight**: скрипт, строки 958–1001
-- **non_interest_group_leader_weight**: скрипт, строки 1003–1028
+- **country_trigger**: скрипт, строки 927–942
+- **interest_group_leader_trigger**: скрипт, строки 944–952
+- **non_interest_group_leader_trigger**: скрипт, строки 954–964
+- **interest_group_leader_weight**: скрипт, строки 966–1009
+- **non_interest_group_leader_weight**: скрипт, строки 1011–1036

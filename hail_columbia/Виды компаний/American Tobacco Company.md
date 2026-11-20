@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «American Tobacco Company» — Hail Columbia 1.13, `company_usfp_american_tobacco`"
+description: "Вид компании «American Tobacco Company» — Hail Columbia 1.15.2, `company_usfp_american_tobacco`"
 project: vic3
 audience: agent
 source: hail_columbia

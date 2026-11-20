@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Gender Complementarian» — Hail Columbia 1.13, `ideology_usfp_gender_complementarian`"
+description: "Идеология «Gender Complementarian» — Hail Columbia 1.15.2, `ideology_usfp_gender_complementarian`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Gender Complementarian
 
-Идеология · `ideology_usfp_gender_complementarian` · `common/ideologies/usfp_ideologies.txt:328`
+Идеология · `ideology_usfp_gender_complementarian` · `common/ideologies/usfp_ideologies.txt:337`
 
 ## Поля
 

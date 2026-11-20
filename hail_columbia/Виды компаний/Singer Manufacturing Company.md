@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Singer Manufacturing Company» — Hail Columbia 1.13, `company_usfp_singer`"
+description: "Вид компании «Singer Manufacturing Company» — Hail Columbia 1.15.2, `company_usfp_singer`"
 project: vic3
 audience: agent
 source: hail_columbia

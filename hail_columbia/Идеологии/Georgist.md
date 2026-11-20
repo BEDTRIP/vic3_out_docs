@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Georgist» — Hail Columbia 1.13, `ideology_usfp_georgist_leader`"
+description: "Идеология «Georgist» — Hail Columbia 1.15.2, `ideology_usfp_georgist_leader`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Georgist
 
-Идеология · `ideology_usfp_georgist_leader` · `common/ideologies/usfp_leader_ideologies.txt:616`
+Идеология · `ideology_usfp_georgist_leader` · `common/ideologies/usfp_leader_ideologies.txt:623`
 
 ## Поля
 
@@ -49,8 +49,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Нет социальной защиты|Нет социальной защиты]] = `disapprove`
   - [[vanilla/Законы/Субсидирование зарплат|Субсидирование зарплат]] = `approve`
   - [[vanilla/Законы/Пенсия по старости|Пенсия по старости]] = `approve`
-- **country_trigger**: скрипт, строки 662–686
-- **interest_group_leader_trigger**: скрипт, строки 688–695
-- **non_interest_group_leader_trigger**: скрипт, строки 697–706
-- **interest_group_leader_weight**: скрипт, строки 708–781
-- **non_interest_group_leader_weight**: скрипт, строки 783–832
+- **country_trigger**: скрипт, строки 669–693
+- **interest_group_leader_trigger**: скрипт, строки 695–702
+- **non_interest_group_leader_trigger**: скрипт, строки 704–713
+- **interest_group_leader_weight**: скрипт, строки 715–788
+- **non_interest_group_leader_weight**: скрипт, строки 790–839

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Группа методов производства «Boulder Dam» — Hail Columbia 1.13, `usfp_pmg_base_hoover_dam`"
+description: "Группа методов производства «Boulder Dam» — Hail Columbia 1.15.2, `usfp_pmg_base_hoover_dam`"
 project: vic3
 audience: agent
 source: hail_columbia

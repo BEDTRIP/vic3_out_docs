@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «Lost Cause» — Hail Columbia 1.13, `usfp_ig_trait_lost_cause`"
+description: "Черта группы интересов «Lost Cause» — Hail Columbia 1.15.2, `usfp_ig_trait_lost_cause`"
 project: vic3
 audience: agent
 source: hail_columbia

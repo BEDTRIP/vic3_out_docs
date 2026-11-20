@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Tribal Identity» — Hail Columbia 1.13, `law_usfp_tribal_identity`"
+description: "Закон «Tribal Identity» — Hail Columbia 1.15.2, `law_usfp_tribal_identity`"
 project: vic3
 audience: agent
 source: hail_columbia

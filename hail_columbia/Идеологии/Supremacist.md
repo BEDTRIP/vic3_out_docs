@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Supremacist» — Hail Columbia 1.13, `ideology_reactionary_supremacist`"
+description: "Идеология «Supremacist» — Hail Columbia 1.15.2, `ideology_reactionary_supremacist`"
 project: vic3
 audience: agent
 source: hail_columbia

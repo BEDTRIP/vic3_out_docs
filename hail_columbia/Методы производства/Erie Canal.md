@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Erie Canal» — Hail Columbia 1.13, `pm_usfp_erie_canal`"
+description: "Метод производства «Erie Canal» — Hail Columbia 1.15.2, `pm_usfp_erie_canal`"
 project: vic3
 audience: agent
 source: hail_columbia

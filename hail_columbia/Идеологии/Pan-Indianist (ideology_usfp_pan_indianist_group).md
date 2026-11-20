@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Pan-Indianist (ideology_usfp_pan_indianist_group)» — Hail Columbia 1.13, `ideology_usfp_pan_indianist_group`"
+description: "Идеология «Pan-Indianist (ideology_usfp_pan_indianist_group)» — Hail Columbia 1.15.2, `ideology_usfp_pan_indianist_group`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Pan-Indianist (ideology_usfp_pan_indianist_group)
 
-Идеология · `ideology_usfp_pan_indianist_group` · `common/ideologies/usfp_ideologies.txt:276`
+Идеология · `ideology_usfp_pan_indianist_group` · `common/ideologies/usfp_ideologies.txt:284`
 
 ## Поля
 
@@ -23,6 +23,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `strongly_disapprove`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `strongly_disapprove`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `strongly_disapprove`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `disapprove`
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Подданство|Подданство]] = `neutral`
   - [[hail_columbia/Законы/Этническое государство|Этническое государство]] = `strongly_disapprove`

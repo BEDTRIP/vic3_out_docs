@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «DuPont de Nemours» — Hail Columbia 1.13, `company_usfp_dupont`"
+description: "Вид компании «DuPont de Nemours» — Hail Columbia 1.15.2, `company_usfp_dupont`"
 project: vic3
 audience: agent
 source: hail_columbia

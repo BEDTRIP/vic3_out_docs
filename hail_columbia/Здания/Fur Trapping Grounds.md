@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Fur Trapping Grounds» — Hail Columbia 1.13, `building_usfp_fur_trapper`"
+description: "Здание «Fur Trapping Grounds» — Hail Columbia 1.15.2, `building_usfp_fur_trapper`"
 project: vic3
 audience: agent
 source: hail_columbia

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Progressive (ideology_usfp_progressive)» — Hail Columbia 1.13, `ideology_usfp_progressive`"
+description: "Идеология «Progressive (ideology_usfp_progressive)» — Hail Columbia 1.15.2, `ideology_usfp_progressive`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -28,6 +28,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Олигархия|Олигархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Автократия|Автократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Однопартийное государство|Однопартийное государство]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Командная экономика|Командная экономика]] = `approve`
   - [[vanilla/Законы/Кооперативное владение|Кооперативное владение]] = `disapprove`
@@ -70,14 +71,16 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `disapprove`
 - **lawgroup_slavery**:
   - [[hail_columbia/Законы/Запрет рабства|Запрет рабства]] = `neutral`
   - [[hail_columbia/Законы/Унаследованное рабство|Унаследованное рабство]] = `strongly_disapprove`
   - [[hail_columbia/Законы/Долговое рабство|Долговое рабство]] = `strongly_disapprove`
   - [[hail_columbia/Законы/Работорговля|Работорговля]] = `strongly_disapprove`
   - [[hail_columbia/Законы/Колониальное рабство|Колониальное рабство]] = `strongly_disapprove`
-- **country_trigger**: скрипт, строки 84–91
-- **interest_group_leader_trigger**: скрипт, строки 93–102
-- **non_interest_group_leader_trigger**: скрипт, строки 103–123
-- **interest_group_leader_weight**: скрипт, строки 125–151
-- **non_interest_group_leader_weight**: скрипт, строки 153–161
+- **country_trigger**: скрипт, строки 87–94
+- **interest_group_leader_trigger**: скрипт, строки 96–105
+- **non_interest_group_leader_trigger**: скрипт, строки 106–126
+- **interest_group_leader_weight**: скрипт, строки 128–154
+- **non_interest_group_leader_weight**: скрипт, строки 156–164

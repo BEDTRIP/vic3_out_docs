@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Accommodationist» — Hail Columbia 1.13, `ideology_usfp_accomodationist`"
+description: "Идеология «Accommodationist» — Hail Columbia 1.15.2, `ideology_usfp_accomodationist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Accommodationist
 
-Идеология · `ideology_usfp_accomodationist` · `common/ideologies/usfp_ideologies.txt:245`
+Идеология · `ideology_usfp_accomodationist` · `common/ideologies/usfp_ideologies.txt:251`
 
 ## Поля
 
@@ -31,6 +31,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `neutral`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `disapprove`
 - **lawgroup_caste_hegemony**:
   - [[vanilla/Законы/Принудительная кастовая система|Принудительная кастовая система]] = `strongly_disapprove`
   - [[vanilla/Законы/Кодифицированная кастовая система|Кодифицированная кастовая система]] = `disapprove`

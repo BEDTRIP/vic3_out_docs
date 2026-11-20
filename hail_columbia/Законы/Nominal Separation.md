@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «Nominal Separation» — Hail Columbia 1.13, `law_usfp_nominal_separation`"
+description: "Закон «Nominal Separation» — Hail Columbia 1.15.2, `law_usfp_nominal_separation`"
 project: vic3
 audience: agent
 source: hail_columbia

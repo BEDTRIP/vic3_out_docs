@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «Bison Hunting» — Hail Columbia 1.13, `usfp_pm_bison_hunting`"
+description: "Метод производства «Bison Hunting» — Hail Columbia 1.15.2, `usfp_pm_bison_hunting`"
 project: vic3
 audience: agent
 source: hail_columbia

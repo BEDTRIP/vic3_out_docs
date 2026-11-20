@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Eugenicist» — Hail Columbia 1.13, `ideology_usfp_eugenicist`"
+description: "Идеология «Eugenicist» — Hail Columbia 1.15.2, `ideology_usfp_eugenicist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Eugenicist
 
-Идеология · `ideology_usfp_eugenicist` · `common/ideologies/usfp_ideologies.txt:166`
+Идеология · `ideology_usfp_eugenicist` · `common/ideologies/usfp_ideologies.txt:168`
 
 ## Поля
 

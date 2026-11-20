@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Здание «Boulder Dam» — Hail Columbia 1.13, `building_usfp_hoover_dam`"
+description: "Здание «Boulder Dam» — Hail Columbia 1.15.2, `building_usfp_hoover_dam`"
 project: vic3
 audience: agent
 source: hail_columbia

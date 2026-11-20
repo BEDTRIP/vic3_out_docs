@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «American Exceptionalism» — Hail Columbia 1.13, `usfp_ig_trait_american_exceptionalism`"
+description: "Черта группы интересов «American Exceptionalism» — Hail Columbia 1.15.2, `usfp_ig_trait_american_exceptionalism`"
 project: vic3
 audience: agent
 source: hail_columbia

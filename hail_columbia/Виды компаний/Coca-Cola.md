@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Coca-Cola» — Hail Columbia 1.13, `company_usfp_coca_cola`"
+description: "Вид компании «Coca-Cola» — Hail Columbia 1.15.2, `company_usfp_coca_cola`"
 project: vic3
 audience: agent
 source: hail_columbia

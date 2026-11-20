@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Закон «American System» — Hail Columbia 1.13, `law_usfp_american_system`"
+description: "Закон «American System» — Hail Columbia 1.15.2, `law_usfp_american_system`"
 project: vic3
 audience: agent
 source: hail_columbia

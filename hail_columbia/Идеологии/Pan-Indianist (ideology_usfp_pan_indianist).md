@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Pan-Indianist (ideology_usfp_pan_indianist)» — Hail Columbia 1.13, `ideology_usfp_pan_indianist`"
+description: "Идеология «Pan-Indianist (ideology_usfp_pan_indianist)» — Hail Columbia 1.15.2, `ideology_usfp_pan_indianist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Pan-Indianist (ideology_usfp_pan_indianist)
 
-Идеология · `ideology_usfp_pan_indianist` · `common/ideologies/usfp_leader_ideologies.txt:1188`
+Идеология · `ideology_usfp_pan_indianist` · `common/ideologies/usfp_leader_ideologies.txt:1197`
 
 ## Поля
 
@@ -23,6 +23,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Переселение в колонии|Переселение в колонии]] = `strongly_disapprove`
   - [[vanilla/Законы/Колониальная эксплуатация|Колониальная эксплуатация]] = `strongly_disapprove`
   - [[vanilla/Законы/Колонизация границ|Колонизация границ]] = `strongly_disapprove`
+  - [[vanilla/Законы/Внутренняя колонизация|Внутренняя колонизация]] = `strongly_disapprove`
 - **lawgroup_citizenship**:
   - [[vanilla/Законы/Подданство|Подданство]] = `neutral`
   - [[hail_columbia/Законы/Этническое государство|Этническое государство]] = `strongly_disapprove`
@@ -54,13 +55,13 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Миграция не контролируется|Миграция не контролируется]] = `disapprove`
   - [[vanilla/Законы/Миграционный контроль|Миграционный контроль]] = `approve`
   - [[vanilla/Законы/Закрытые границы|Закрытые границы]] = `neutral`
-- **country_trigger**: скрипт, строки 1242–1252
+- **country_trigger**: скрипт, строки 1252–1262
 - **interest_group_leader_trigger**:
   - `is_interest_group_type` = [[vanilla/Группы интересов/Верующие|Верующие]]
   - `is_interest_group_type` = [[vanilla/Группы интересов/Интеллигенты|Интеллигенты]]
   - `is_interest_group_type` = [[vanilla/Группы интересов/Вооружённые силы|Вооружённые силы]]
   - `is_interest_group_type` = [[vanilla/Группы интересов/Профсоюзы|Профсоюзы]]
-- **non_interest_group_leader_trigger**: скрипт, строки 1261–1274
-- **interest_group_leader_weight**: скрипт, строки 1276–1281
+- **non_interest_group_leader_trigger**: скрипт, строки 1271–1284
+- **interest_group_leader_weight**: скрипт, строки 1286–1291
 - **non_interest_group_leader_weight**:
   - `value` = `100`

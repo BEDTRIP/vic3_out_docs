@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Evangelical Moralist» — Hail Columbia 1.13, `ideology_usfp_evangelical_moralist`"
+description: "Идеология «Evangelical Moralist» — Hail Columbia 1.15.2, `ideology_usfp_evangelical_moralist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Evangelical Moralist
 
-Идеология · `ideology_usfp_evangelical_moralist` · `common/ideologies/usfp_ideologies.txt:144`
+Идеология · `ideology_usfp_evangelical_moralist` · `common/ideologies/usfp_ideologies.txt:146`
 
 ## Поля
 

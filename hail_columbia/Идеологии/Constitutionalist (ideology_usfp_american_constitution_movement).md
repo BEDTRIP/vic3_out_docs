@@ -1,18 +1,18 @@
 ---
 type: explanation
-description: "Идеология «Constitutionalist» — Hail Columbia 1.13, `ideology_usfp_american_constitution_movement`"
+description: "Идеология «Constitutionalist (ideology_usfp_american_constitution_movement)» — Hail Columbia 1.15.2, `ideology_usfp_american_constitution_movement`"
 project: vic3
 audience: agent
 source: hail_columbia
-aliases: ["Constitutionalist", "ideology_usfp_american_constitution_movement"]
+aliases: ["Constitutionalist (ideology_usfp_american_constitution_movement)", "Constitutionalist", "ideology_usfp_american_constitution_movement"]
 tags: [hail_columbia, идеология]
 generated: "v3 graph objects; ручной раздел — «## Зачем в механике»"
 key: ideology_usfp_american_constitution_movement
 paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
-# Constitutionalist
+# Constitutionalist (ideology_usfp_american_constitution_movement)
 
-Идеология · `ideology_usfp_american_constitution_movement` · `common/ideologies/usfp_ideologies.txt:638`
+Идеология · `ideology_usfp_american_constitution_movement` · `common/ideologies/usfp_ideologies.txt:655`
 
 ## Поля
 
@@ -45,6 +45,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Всеобщее избирательное право|Всеобщее избирательное право]] = `neutral`
   - [[vanilla/Законы/Анархия|Анархия]] = `strongly_disapprove`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `strongly_disapprove`
 - **lawgroup_free_speech**:
   - [[vanilla/Законы/Защита свободы слова|Защита свободы слова]] = `approve`
   - [[vanilla/Законы/Право собрания|Право собрания]] = `neutral`
@@ -54,6 +55,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `strongly_disapprove`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `strongly_disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `strongly_disapprove`
 - **lawgroup_economic_system**:
   - [[vanilla/Законы/Аграрность|Аграрность]] = `neutral`
   - [[vanilla/Законы/Запрет промышленности|Запрет промышленности]] = `disapprove`
@@ -83,3 +86,4 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `neutral`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `neutral`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `neutral`

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Radical Abolitionist» — Hail Columbia 1.13, `ideology_usfp_abolitionist_radical`"
+description: "Идеология «Radical Abolitionist» — Hail Columbia 1.15.2, `ideology_usfp_abolitionist_radical`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
 ---
 # Radical Abolitionist
 
-Идеология · `ideology_usfp_abolitionist_radical` · `common/ideologies/usfp_leader_ideologies.txt:471`
+Идеология · `ideology_usfp_abolitionist_radical` · `common/ideologies/usfp_leader_ideologies.txt:478`
 
 ## Поля
 
@@ -37,8 +37,8 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_leader_ideologies.txt]
   - [[vanilla/Законы/Расовая сегрегация|Расовая сегрегация]] = `disapprove`
   - [[vanilla/Законы/Культурное отчуждение|Культурное отчуждение]] = `strongly_approve`
   - [[vanilla/Законы/Мультикультурализм|Мультикультурализм]] = `neutral`
-- **country_trigger**: скрипт, строки 501–508
-- **interest_group_leader_trigger**: скрипт, строки 510–518
-- **non_interest_group_leader_trigger**: скрипт, строки 520–530
-- **interest_group_leader_weight**: скрипт, строки 533–592
-- **non_interest_group_leader_weight**: скрипт, строки 594–613
+- **country_trigger**: скрипт, строки 508–515
+- **interest_group_leader_trigger**: скрипт, строки 517–525
+- **non_interest_group_leader_trigger**: скрипт, строки 527–537
+- **interest_group_leader_weight**: скрипт, строки 540–599
+- **non_interest_group_leader_weight**: скрипт, строки 601–620

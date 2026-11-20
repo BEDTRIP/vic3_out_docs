@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Anaconda Mining Company» — Hail Columbia 1.13, `company_usfp_anaconda`"
+description: "Вид компании «Anaconda Mining Company» — Hail Columbia 1.15.2, `company_usfp_anaconda`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -20,7 +20,7 @@ paths: [for addon/Hail Columbia/common/company_types/usfp_companies.txt]
 - **background**: `gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds`
 - **flavored_company**: `yes`
 - **preferred_headquarters**: `STATE_MONTANA`
-- **building_types**: [[vanilla/Здания/Золотые рудники|Золотые рудники]], [[vanilla/Здания/Железные рудники|Железные рудники]]
+- **building_types**: [[vanilla/Здания/Золотые рудники|Золотые рудники]], [[vanilla/Здания/Медные рудники|Медные рудники]]
 - **extension_building_types**: [[vanilla/Здания/Свинцовые рудники|Свинцовые рудники]]
 - **potential**: скрипт, строки 328–334
 - **possible**: скрипт, строки 336–352

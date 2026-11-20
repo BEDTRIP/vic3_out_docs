@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «American Sugar Refining Company» — Hail Columbia 1.13, `company_usfp_american_sugar`"
+description: "Вид компании «American Sugar Refining Company» — Hail Columbia 1.15.2, `company_usfp_american_sugar`"
 project: vic3
 audience: agent
 source: hail_columbia

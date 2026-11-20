@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Localist» — Hail Columbia 1.13, `ideology_usfp_localist`"
+description: "Идеология «Localist» — Hail Columbia 1.15.2, `ideology_usfp_localist`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Localist
 
-Идеология · `ideology_usfp_localist` · `common/ideologies/usfp_ideologies.txt:199`
+Идеология · `ideology_usfp_localist` · `common/ideologies/usfp_ideologies.txt:201`
 
 ## Поля
 
@@ -27,6 +27,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Профессиональная армия|Профессиональная армия]] = `neutral`
   - [[vanilla/Законы/Массовый призыв|Массовый призыв]] = `disapprove`
   - [[vanilla/Законы/Крестьянское ополчение|Крестьянское ополчение]] = `disapprove`
+  - [[vanilla/Законы/Революционная гвардия|Революционная гвардия]] = `neutral`
 - **lawgroup_slavery**:
   - [[hail_columbia/Законы/Запрет рабства|Запрет рабства]] = `neutral`
   - [[hail_columbia/Законы/Унаследованное рабство|Унаследованное рабство]] = `neutral`
@@ -37,11 +38,14 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Потомственные чиновники|Потомственные чиновники]] = `strongly_disapprove`
   - [[vanilla/Законы/Назначаемые чиновники|Назначаемые чиновники]] = `disapprove`
   - [[vanilla/Законы/Избираемые чиновники|Избираемые чиновники]] = `neutral`
+  - [[vanilla/Законы/Военные чиновники|Военные чиновники]] = `disapprove`
+  - [[vanilla/Законы/Общественная администрация|Общественная администрация]] = `neutral`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `neutral`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `neutral`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
 - **lawgroup_church_and_state**:
   - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `disapprove`
   - [[hail_columbia/Законы/Свобода совести|Свобода совести]] = `neutral`

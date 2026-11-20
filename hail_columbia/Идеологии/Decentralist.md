@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «Decentralist» — Hail Columbia 1.13, `ideology_usfp_tribal_government`"
+description: "Идеология «Decentralist» — Hail Columbia 1.15.2, `ideology_usfp_tribal_government`"
 project: vic3
 audience: agent
 source: hail_columbia
@@ -12,7 +12,7 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
 ---
 # Decentralist
 
-Идеология · `ideology_usfp_tribal_government` · `common/ideologies/usfp_ideologies.txt:369`
+Идеология · `ideology_usfp_tribal_government` · `common/ideologies/usfp_ideologies.txt:378`
 
 ## Поля
 
@@ -37,11 +37,13 @@ paths: [for addon/Hail Columbia/common/ideologies/usfp_ideologies.txt]
   - [[vanilla/Законы/Анархия|Анархия]] = `approve`
   - [[vanilla/Законы/Технократия|Технократия]] = `strongly_disapprove`
   - [[vanilla/Законы/Совет старейшин|Совет старейшин]] = `strongly_approve`
+  - [[vanilla/Законы/Рабочий ценз|Рабочий ценз]] = `neutral`
 - **lawgroup_internal_security**:
   - [[vanilla/Законы/Тайная полиция|Тайная полиция]] = `strongly_disapprove`
   - [[vanilla/Законы/Национальная гвардия|Национальная гвардия]] = `neutral`
   - [[vanilla/Законы/Отсутствие внутренних дел|Отсутствие внутренних дел]] = `neutral`
   - [[vanilla/Законы/Гарантия свобод|Гарантия свобод]] = `neutral`
+  - [[vanilla/Законы/Чрезвычайная комиссия|Чрезвычайная комиссия]] = `strongly_disapprove`
 - **lawgroup_church_and_state**:
   - [[vanilla/Законы/Государственная религия (закон)|Государственная религия (закон)]] = `neutral`
   - [[hail_columbia/Законы/Свобода совести|Свобода совести]] = `neutral`
