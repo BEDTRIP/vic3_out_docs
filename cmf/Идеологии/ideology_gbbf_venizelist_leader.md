@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_gbbf_venizelist_leader» — CMF 1.15, `ideology_gbbf_venizelist_leader`"
+description: "Идеология «ideology_gbbf_venizelist_leader» — CMF 1.15.2, `ideology_gbbf_venizelist_leader`"
 project: vic3
 audience: agent
 source: cmf

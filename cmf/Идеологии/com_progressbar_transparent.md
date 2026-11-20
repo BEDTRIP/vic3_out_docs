@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «com_progressbar_transparent» — CMF 1.15, `com_progressbar_transparent`"
+description: "Идеология «com_progressbar_transparent» — CMF 1.15.2, `com_progressbar_transparent`"
 project: vic3
 audience: agent
 source: cmf

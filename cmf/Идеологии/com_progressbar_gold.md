@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «com_progressbar_gold» — CMF 1.15, `com_progressbar_gold`"
+description: "Идеология «com_progressbar_gold» — CMF 1.15.2, `com_progressbar_gold`"
 project: vic3
 audience: agent
 source: cmf

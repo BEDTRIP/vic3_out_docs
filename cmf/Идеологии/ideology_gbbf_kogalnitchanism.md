@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_gbbf_kogalnitchanism» — CMF 1.15, `ideology_gbbf_kogalnitchanism`"
+description: "Идеология «ideology_gbbf_kogalnitchanism» — CMF 1.15.2, `ideology_gbbf_kogalnitchanism`"
 project: vic3
 audience: agent
 source: cmf

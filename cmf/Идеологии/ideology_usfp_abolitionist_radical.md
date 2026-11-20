@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_usfp_abolitionist_radical» — CMF 1.15, `ideology_usfp_abolitionist_radical`"
+description: "Идеология «ideology_usfp_abolitionist_radical» — CMF 1.15.2, `ideology_usfp_abolitionist_radical`"
 project: vic3
 audience: agent
 source: cmf

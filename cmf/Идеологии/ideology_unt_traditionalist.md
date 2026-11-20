@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_unt_traditionalist» — CMF 1.15, `ideology_unt_traditionalist`"
+description: "Идеология «ideology_unt_traditionalist» — CMF 1.15.2, `ideology_unt_traditionalist`"
 project: vic3
 audience: agent
 source: cmf

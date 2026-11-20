@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_moh_kmt» — CMF 1.15, `ideology_moh_kmt`"
+description: "Идеология «ideology_moh_kmt» — CMF 1.15.2, `ideology_moh_kmt`"
 project: vic3
 audience: agent
 source: cmf

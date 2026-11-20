@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_usfp_social_gospel_leader» — CMF 1.15, `ideology_usfp_social_gospel_leader`"
+description: "Идеология «ideology_usfp_social_gospel_leader» — CMF 1.15.2, `ideology_usfp_social_gospel_leader`"
 project: vic3
 audience: agent
 source: cmf

@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_gbbf_islamist_leader» — CMF 1.15, `ideology_gbbf_islamist_leader`"
+description: "Идеология «ideology_gbbf_islamist_leader» — CMF 1.15.2, `ideology_gbbf_islamist_leader`"
 project: vic3
 audience: agent
 source: cmf

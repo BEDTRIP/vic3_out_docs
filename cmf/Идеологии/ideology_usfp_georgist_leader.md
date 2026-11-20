@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_usfp_georgist_leader» — CMF 1.15, `ideology_usfp_georgist_leader`"
+description: "Идеология «ideology_usfp_georgist_leader» — CMF 1.15.2, `ideology_usfp_georgist_leader`"
 project: vic3
 audience: agent
 source: cmf

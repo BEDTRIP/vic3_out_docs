@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_anz_elitist» — CMF 1.15, `ideology_anz_elitist`"
+description: "Идеология «ideology_anz_elitist» — CMF 1.15.2, `ideology_anz_elitist`"
 project: vic3
 audience: agent
 source: cmf

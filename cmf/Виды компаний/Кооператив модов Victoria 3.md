@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Вид компании «Кооператив модов Victoria 3» — CMF 1.15, `company_vic3_mod_coop`"
+description: "Вид компании «Кооператив модов Victoria 3» — CMF 1.15.2, `company_vic3_mod_coop`"
 project: vic3
 audience: agent
 source: cmf

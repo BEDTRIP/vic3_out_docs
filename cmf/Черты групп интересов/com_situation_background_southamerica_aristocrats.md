@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Черта группы интересов «com_situation_background_southamerica_aristocrats» — CMF 1.15, `com_situation_background_southamerica_aristocrats`"
+description: "Черта группы интересов «com_situation_background_southamerica_aristocrats» — CMF 1.15.2, `com_situation_background_southamerica_aristocrats`"
 project: vic3
 audience: agent
 source: cmf

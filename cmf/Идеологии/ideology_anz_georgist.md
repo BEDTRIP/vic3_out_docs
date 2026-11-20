@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_anz_georgist» — CMF 1.15, `ideology_anz_georgist`"
+description: "Идеология «ideology_anz_georgist» — CMF 1.15.2, `ideology_anz_georgist`"
 project: vic3
 audience: agent
 source: cmf

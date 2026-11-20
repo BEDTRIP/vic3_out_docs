@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Идеология «ideology_usfp_progressive» — CMF 1.15, `ideology_usfp_progressive`"
+description: "Идеология «ideology_usfp_progressive» — CMF 1.15.2, `ideology_usfp_progressive`"
 project: vic3
 audience: agent
 source: cmf
