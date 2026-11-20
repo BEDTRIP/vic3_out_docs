@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_default_building_university_of_gothenburg» — grey soft pop 1.15, `pm_default_building_university_of_gothenburg`"
+description: "Метод производства «pm_default_building_university_of_gothenburg» — grey soft pop 1.15.2, `pm_default_building_university_of_gothenburg`"
 project: vic3
 audience: agent
 source: grey_soft_pop

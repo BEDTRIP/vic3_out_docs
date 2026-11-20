@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_default_building_ephe_paris» — grey soft pop 1.15, `pm_default_building_ephe_paris`"
+description: "Метод производства «pm_default_building_ephe_paris» — grey soft pop 1.15.2, `pm_default_building_ephe_paris`"
 project: vic3
 audience: agent
 source: grey_soft_pop

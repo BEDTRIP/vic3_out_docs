@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_default_building_oesterreichische_nationalbank» — grey soft pop 1.15, `pm_default_building_oesterreichische_nationalbank`"
+description: "Метод производства «pm_default_building_oesterreichische_nationalbank» — grey soft pop 1.15.2, `pm_default_building_oesterreichische_nationalbank`"
 project: vic3
 audience: agent
 source: grey_soft_pop

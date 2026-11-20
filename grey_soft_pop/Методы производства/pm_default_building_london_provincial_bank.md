@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_default_building_london_provincial_bank» — grey soft pop 1.15, `pm_default_building_london_provincial_bank`"
+description: "Метод производства «pm_default_building_london_provincial_bank» — grey soft pop 1.15.2, `pm_default_building_london_provincial_bank`"
 project: vic3
 audience: agent
 source: grey_soft_pop

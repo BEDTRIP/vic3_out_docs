@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_default_building_notre_dame_afrique» — grey soft pop 1.15, `pm_default_building_notre_dame_afrique`"
+description: "Метод производства «pm_default_building_notre_dame_afrique» — grey soft pop 1.15.2, `pm_default_building_notre_dame_afrique`"
 project: vic3
 audience: agent
 source: grey_soft_pop

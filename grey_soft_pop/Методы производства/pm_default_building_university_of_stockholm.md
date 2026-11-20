@@ -1,6 +1,6 @@
 ---
 type: explanation
-description: "Метод производства «pm_default_building_university_of_stockholm» — grey soft pop 1.15, `pm_default_building_university_of_stockholm`"
+description: "Метод производства «pm_default_building_university_of_stockholm» — grey soft pop 1.15.2, `pm_default_building_university_of_stockholm`"
 project: vic3
 audience: agent
 source: grey_soft_pop
